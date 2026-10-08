@@ -29,3 +29,6 @@ S208 retained30-page PDF SHA256 `5ff5552ff07687e9b9c9dfdccb2ca5fc00e4c447111cc5a
 
 
 Follow-up: [Crow supplemental calibration audit](CROW-SUPPLEMENT-AUDIT.md) recovers methods and workbooks; main-paper fault interpretation remains unverified.
+
+
+The [published2021 debate](COLORADO-2021-DEBATE.md) now records the Comment and the accessible Reply summary, separating analytical, magnetic and structural tests. Full Reply/main paper remain pending.

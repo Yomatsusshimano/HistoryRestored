@@ -3351,6 +3351,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S212",
+      "title": "Redefining the age of the lower Colorado River, southwestern United States: COMMENT",
+      "url": "https://www.researchgate.net/publication/354306401_Redefining_the_age_of_the_lower_Colorado_River_southwestern_United_States_COMMENT",
+      "creator": "Rebecca J. Dorsey and ten coauthors",
+      "publication_date": "2021-09",
+      "source_type": "published scientific debate",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Author-uploaded Comment body and references read as web text; DOI10.1130/G49145C.1.",
+      "limitations": "No PDF visual inspection or independent verification of cited field evidence.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S213",
+      "title": "Redefining the age of the lower Colorado River, southwestern United States: REPLY",
+      "url": "https://www.usgs.gov/publications/redefining-age-lower-colorado-river-southwestern-united-states-reply",
+      "creator": "Ryan S. Crow and coauthors",
+      "publication_date": "2021-09",
+      "source_type": "published scientific debate",
+      "access": "ABSTRACT",
+      "inspected": "USGS introductory summary and metadata; DOI10.1130/G49334Y.1.",
+      "limitations": "Full Reply not recovered; summary access cannot establish complete response.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

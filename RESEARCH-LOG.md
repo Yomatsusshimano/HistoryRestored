@@ -968,3 +968,8 @@ Previous turn made verified public progress; clean tree confirmed. Visually chec
 ### 2026-10-08 — Youngest Lost Cabin grain uncertainty
 
 Previous turn made verified public progress; clean tree confirmed. Visually inspected Table5 headers/first3 rows and text-read analysis methods. Resolved quoted0.788Ma as one sigma including J, retaining equal rounded errors and missing unique grain ID. Published first-two interval overlap and strictly mineral-age interpretation of doubled error. No full population pooling, isotope refit or sediment date inferred.
+
+
+### 2026-10-08 — Published chronology dispute
+
+Previous turn made verified public progress; clean tree confirmed. USGS warehouse requests failed403; author-uploaded Comment text and USGS Reply introduction accessible. Registered both with distinct inspection depth and a targeted comparison framework. No fault reconstruction, full Reply inspection, external contact or independent review claimed.

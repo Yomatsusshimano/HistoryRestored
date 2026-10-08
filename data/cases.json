@@ -588,6 +588,16 @@
           "source_id": "S211",
           "locator": "Table5 printed56/PDF64 first3 data rows; methods13",
           "statement": "RC15-LCW-111 aliquot10 first row confirms5.489±0.788Ma at one sigma with J; no unique crystal ID printed. First two age±one-sigma ranges overlap, so youngest point estimate is not alone an isolated eruption population. Mineral uncertainty interval is not a sediment deposition interval."
+        },
+        {
+          "source_id": "S212",
+          "locator": "Comment body; research/COLORADO-2021-DEBATE.md",
+          "statement": "Published criticism challenges structural repetition and primary magnetic remanence; not independently adjudicated here."
+        },
+        {
+          "source_id": "S213",
+          "locator": "USGS introductory summary; research/COLORADO-2021-DEBATE.md",
+          "statement": "Reply summary defends young detrital ages and agreement with separate zircon samples; complete response remains uninspected."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

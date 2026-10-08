@@ -328,3 +328,6 @@ S211 sediment settings inspected: LCW-ASH2/3 interpreted reworked; RC15-LCW-111 
 
 
 LCW111 youngest-row crosswalk completed: Table5 aliquot10, first row, one-sigma with J confirmed; first3 rows preserved. Next unique grain/acquisition record, full population/calibration and primary-deposition linkage. Do not repeat sigma discovery as pending or interpret mineral interval as bed age.
+
+
+S212 Comment body and S213 Reply introductory summary recovered; unequal access explicit. Next Wind Caves04PW30/section and structural comparison, full Reply/main paper. Do not count published debate as independent archive review.
