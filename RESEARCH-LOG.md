@@ -1075,3 +1075,8 @@ Previous turn made verified public progress. Retrieved original workshop volume 
 ### 2026-10-08 — Original west-bank boulder photograph
 
 Previous turn made verified public progress. Downloaded/hashed PP486-J, visually inspected J14 Fig11/12, recovered explicit west-bank locality and unit B mapping caveat. BLM cadastral request failed expired-certificate validation; no insecure fallback used and no polygon or exact point invented. No verified BC sample match, buried contact or new age.
+
+
+### 2026-10-08 — Bat Cave section-level match
+
+Previous turn made verified public progress. Recovered original S219 map sheet and inspected west-bank survey grid. Queried accessible California government PLSS service after earlier BLM endpoint certificate failure; both explicit datum scenarios return same section matching1973 caption. Saved complete query responses and provenance. No legal-quarter approximation, sample relocation or exact exposure match claimed.

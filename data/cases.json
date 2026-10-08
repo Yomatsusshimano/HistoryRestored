@@ -708,6 +708,11 @@
           "source_id": "S221",
           "locator": "J14/PDF20 Figures11/12 and text; research/COLORADO-BURIAL-DATING.md",
           "statement": "Original west-bank boulder photo has SE quarter section5 T7N R24E locator, but no demonstrated match to BC samples or basal contact. Unit B explicitly includes incompletely mapped complexity; its labels cannot automatically be equated with later Trbb/Santa Fe subdivisions."
+        },
+        {
+          "source_id": "S222",
+          "locator": "Section service point queries; data/bat-cave-section-match.json",
+          "statement": "Bat Cave point falls in section5 T7N R24E San Bernardino Meridian under both explicit datum scenarios, matching S221 section-level locator. Southeast quarter, photographed cut and specimen identity remain unverified; geological polygon mismatch retained."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

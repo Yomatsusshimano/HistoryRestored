@@ -1,0 +1,354 @@
+{
+  "source_ids": [
+    "S216",
+    "S221",
+    "S222"
+  ],
+  "retrieved_date": "2026-10-08",
+  "service_url": "https://gis.conservation.ca.gov/server/rest/services/Base/PLSS/MapServer/1",
+  "reported_photo_locality": "SE quarter section5 T7N R24E, S221 Fig11",
+  "assumptions": "Longitude interpreted west; separate NAD83(1986) and NAD27 scenarios. NAD27 transformed using same NADCON5 grid as published Topock overlay.",
+  "results": [
+    {
+      "assumed_S216_datum": "NAD83_1986",
+      "query_coordinates_NAD83": [
+        -114.495305,
+        34.724832
+      ],
+      "query_url": "https://gis.conservation.ca.gov/server/rest/services/Base/PLSS/MapServer/1/query?f=pjson&geometry=-114.495305%2C34.724832&geometryType=esriGeometryPoint&inSR=4269&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=4269",
+      "response": {
+        "displayFieldName": "Township",
+        "fieldAliases": {
+          "OBJECTID": "OBJECTID",
+          "Township": "Township",
+          "Range": "Range",
+          "Meridian": "Meridian",
+          "Source": "Source",
+          "Section": "Section",
+          "MTRS": "MTRS",
+          "TownshipRange": "Township Range"
+        },
+        "geometryType": "esriGeometryPolygon",
+        "spatialReference": {
+          "wkid": 4269,
+          "latestWkid": 4269
+        },
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+          },
+          {
+            "name": "Township",
+            "type": "esriFieldTypeString",
+            "alias": "Township",
+            "length": 6
+          },
+          {
+            "name": "Range",
+            "type": "esriFieldTypeString",
+            "alias": "Range",
+            "length": 6
+          },
+          {
+            "name": "Meridian",
+            "type": "esriFieldTypeString",
+            "alias": "Meridian",
+            "length": 3
+          },
+          {
+            "name": "Source",
+            "type": "esriFieldTypeString",
+            "alias": "Source",
+            "length": 3
+          },
+          {
+            "name": "Section",
+            "type": "esriFieldTypeInteger",
+            "alias": "Section"
+          },
+          {
+            "name": "MTRS",
+            "type": "esriFieldTypeString",
+            "alias": "MTRS",
+            "length": 50
+          },
+          {
+            "name": "TownshipRange",
+            "type": "esriFieldTypeString",
+            "alias": "Township Range",
+            "length": 30
+          }
+        ],
+        "features": [
+          {
+            "attributes": {
+              "OBJECTID": 136432,
+              "Township": "T07N",
+              "Range": "R24E",
+              "Meridian": "SBM",
+              "Source": "BLM",
+              "Section": 5,
+              "MTRS": "SBM-T07N-R24E-5",
+              "TownshipRange": "T07N R24E"
+            },
+            "geometry": {
+              "rings": [
+                [
+                  [
+                    -114.4905280591226,
+                    34.720651746381066
+                  ],
+                  [
+                    -114.49127688322153,
+                    34.72064854209657
+                  ],
+                  [
+                    -114.49138228556399,
+                    34.72064824172304
+                  ],
+                  [
+                    -114.49492279684955,
+                    34.720637226826625
+                  ],
+                  [
+                    -114.49929313417078,
+                    34.72062340964271
+                  ],
+                  [
+                    -114.50366344631095,
+                    34.72060968059236
+                  ],
+                  [
+                    -114.50369406373,
+                    34.72424161335982
+                  ],
+                  [
+                    -114.50371617536115,
+                    34.72685176519684
+                  ],
+                  [
+                    -114.50374402286832,
+                    34.73146207941147
+                  ],
+                  [
+                    -114.50234927509894,
+                    34.73093319710944
+                  ],
+                  [
+                    -114.50100593977226,
+                    34.73040400364192
+                  ],
+                  [
+                    -114.49954048460563,
+                    34.729752690334465
+                  ],
+                  [
+                    -114.4959582600656,
+                    34.727798750412035
+                  ],
+                  [
+                    -114.49233532861251,
+                    34.72600763724273
+                  ],
+                  [
+                    -114.49184684295739,
+                    34.725641274125564
+                  ],
+                  [
+                    -114.49091058035896,
+                    34.72466430371469
+                  ],
+                  [
+                    -114.49066633798105,
+                    34.723850160956204
+                  ],
+                  [
+                    -114.48936359715225,
+                    34.72064937576812
+                  ],
+                  [
+                    -114.4905280591226,
+                    34.720651746381066
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "assumed_S216_datum": "NAD27",
+      "query_coordinates_NAD83": [
+        -114.49610025887054,
+        34.72483639383795
+      ],
+      "query_url": "https://gis.conservation.ca.gov/server/rest/services/Base/PLSS/MapServer/1/query?f=pjson&geometry=-114.49610025887054%2C34.72483639383795&geometryType=esriGeometryPoint&inSR=4269&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=4269",
+      "response": {
+        "displayFieldName": "Township",
+        "fieldAliases": {
+          "OBJECTID": "OBJECTID",
+          "Township": "Township",
+          "Range": "Range",
+          "Meridian": "Meridian",
+          "Source": "Source",
+          "Section": "Section",
+          "MTRS": "MTRS",
+          "TownshipRange": "Township Range"
+        },
+        "geometryType": "esriGeometryPolygon",
+        "spatialReference": {
+          "wkid": 4269,
+          "latestWkid": 4269
+        },
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+          },
+          {
+            "name": "Township",
+            "type": "esriFieldTypeString",
+            "alias": "Township",
+            "length": 6
+          },
+          {
+            "name": "Range",
+            "type": "esriFieldTypeString",
+            "alias": "Range",
+            "length": 6
+          },
+          {
+            "name": "Meridian",
+            "type": "esriFieldTypeString",
+            "alias": "Meridian",
+            "length": 3
+          },
+          {
+            "name": "Source",
+            "type": "esriFieldTypeString",
+            "alias": "Source",
+            "length": 3
+          },
+          {
+            "name": "Section",
+            "type": "esriFieldTypeInteger",
+            "alias": "Section"
+          },
+          {
+            "name": "MTRS",
+            "type": "esriFieldTypeString",
+            "alias": "MTRS",
+            "length": 50
+          },
+          {
+            "name": "TownshipRange",
+            "type": "esriFieldTypeString",
+            "alias": "Township Range",
+            "length": 30
+          }
+        ],
+        "features": [
+          {
+            "attributes": {
+              "OBJECTID": 136432,
+              "Township": "T07N",
+              "Range": "R24E",
+              "Meridian": "SBM",
+              "Source": "BLM",
+              "Section": 5,
+              "MTRS": "SBM-T07N-R24E-5",
+              "TownshipRange": "T07N R24E"
+            },
+            "geometry": {
+              "rings": [
+                [
+                  [
+                    -114.4905280591226,
+                    34.720651746381066
+                  ],
+                  [
+                    -114.49127688322153,
+                    34.72064854209657
+                  ],
+                  [
+                    -114.49138228556399,
+                    34.72064824172304
+                  ],
+                  [
+                    -114.49492279684955,
+                    34.720637226826625
+                  ],
+                  [
+                    -114.49929313417078,
+                    34.72062340964271
+                  ],
+                  [
+                    -114.50366344631095,
+                    34.72060968059236
+                  ],
+                  [
+                    -114.50369406373,
+                    34.72424161335982
+                  ],
+                  [
+                    -114.50371617536115,
+                    34.72685176519684
+                  ],
+                  [
+                    -114.50374402286832,
+                    34.73146207941147
+                  ],
+                  [
+                    -114.50234927509894,
+                    34.73093319710944
+                  ],
+                  [
+                    -114.50100593977226,
+                    34.73040400364192
+                  ],
+                  [
+                    -114.49954048460563,
+                    34.729752690334465
+                  ],
+                  [
+                    -114.4959582600656,
+                    34.727798750412035
+                  ],
+                  [
+                    -114.49233532861251,
+                    34.72600763724273
+                  ],
+                  [
+                    -114.49184684295739,
+                    34.725641274125564
+                  ],
+                  [
+                    -114.49091058035896,
+                    34.72466430371469
+                  ],
+                  [
+                    -114.49066633798105,
+                    34.723850160956204
+                  ],
+                  [
+                    -114.48936359715225,
+                    34.72064937576812
+                  ],
+                  [
+                    -114.4905280591226,
+                    34.720651746381066
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "limits": "Section-level agreement only. No surveyed southeast-quarter polygon, camera position, sample custody or exposure identity established. State layer is a composite service and not an independent cadastral survey; feature Source is BLM."
+}

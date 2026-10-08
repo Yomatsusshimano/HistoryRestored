@@ -433,3 +433,8 @@ S220 earlier boulder-flood contribution recovered and figures inspected. Next we
 ### 2026-10-08 — Original west-bank boulder photograph
 
 S221 original west-bank photograph inspected; quarter-section5 T7N R24E recovered. Need cadastral/map-plate georeference and exposure-to-BC sample crosswalk. Original broad unit B and separate Sacramento Wash five-subunit sketch must not be silently assigned to later units.
+
+
+### 2026-10-08 — Bat Cave section-level match
+
+Section-level Bat Cave match now verified through S222 under both datum assumptions. Next surveyed southeast-quarter location and actual cut/bed crosswalk. Do not treat section agreement as resolving87-107m mapped Trbb offset.
