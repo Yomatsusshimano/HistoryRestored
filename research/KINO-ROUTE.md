@@ -65,3 +65,7 @@ The [1705 epistle audit](GOBIEN-CROSSING.md) finds Rio Azul in the explicit cros
 ## Map-label cross-check
 
 The [river-network inspection](KINO-RIVER-NETWORK.md) finds Azul/Bleue and Hila/filasse on separate joining branches. This corroborates the distinction in Gobien at the level of shared depiction, not independent terrain observation. Buache changes the named branch; actual itinerary, modern identification and reason for substitution remain open.
+
+## Manuscript retrieval path
+
+The [manuscript audit](KINO-MANUSCRIPT.md) records S192 institutional reproduction locators and Bolton's explicit editorial interventions. Original pages remain uninspected; differing extent descriptions do not establish missing pages.

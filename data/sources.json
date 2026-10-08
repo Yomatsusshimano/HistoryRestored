@@ -731,7 +731,7 @@
       "publication_date": "1919",
       "source_type": "edited translation of participant historical account",
       "access": "SCAN_INSPECTED",
-      "inspected": "Printed pp. 316-317, 341, 343-344 visually checked; pp. 24-25, 315 and 340-342 inspected as OCR text portions.",
+      "inspected": "Printed pp. 316-317, 341, 343-344 visually checked; pp. 24-25, 315 and 340-342 inspected as OCR text portions. Printed pp.23-24 (PDF 25-26) visually checked for manuscript locator, extent, authentication claims and editorial interventions; research/KINO-MANUSCRIPT.md.",
       "limitations": "Original manuscript not checked; selected published Spanish passages compared as S40. No independent geolocation, instrument/ephemeris audit or corroborating field observation. Shared author with map.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
@@ -3053,7 +3053,7 @@
       "source_type": "historical geographical discussion",
       "access": "SCAN_INSPECTED",
       "inspected": "Printed pp.64-74; page 71 second footnote compared to S189 crossing denial. Page 74 certificate dates checked; hashes in data/buache-california-access.json.",
-      "limitations": "Selected section, not full volume. Bound parts have different dates. Colorado crossing pronoun ambiguous; cited Gobien letter not yet compared. Nested tidal-isthmus report not field verification. Folded map fine detail not audited.",
+      "limitations": "Selected section, not full volume. Bound parts have different dates. Colorado crossing pronoun ambiguous; Gobien letter subsequently compared in S191: Azul replaces Hila in the earlier account. Nested tidal-isthmus report not field verification. Folded map fine detail not audited.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
@@ -3068,6 +3068,20 @@
       "access": "SCAN_INSPECTED",
       "inspected": "Title PP1, opening PP3-4, route PP17-20 and signature PP30; digital page IDs for unnumbered leaves. River-name comparison and map intermediary transcribed. Hashes in data/gobien-access.json.",
       "limitations": "Selected passages, not entire letter. Same volume as S38 via different scan, not independent witness. Colorado crossing is contextual pronoun reading; no day/month or modern coordinates. Reported Alcazar transmission lacks verified custody documents. No independent translation review.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S192",
+      "title": "AGN Misiones finding aid, MSS 867, UNM Center for Southwest Research",
+      "url": "https://library.unm.edu/cswr/docs/nmarchives/FindingAids/mss867Misiones.pdf",
+      "creator": "University of New Mexico Libraries, Center for Southwest Research",
+      "publication_date": null,
+      "source_type": "institutional archival finding aid",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Pages 20-21 visually inspected; page 1 text extracted. Selected Legajo 27 reproduction locators and extent notes. PDF SHA256 162eaaf83aace17095bb92e0aae854a5f28dfe4080ae07c37d971c0d84245daf.",
+      "limitations": "Finding aid, not manuscript images. Current holdings, original foliation, copy completeness, map location and authentication unverified. Page-count descriptions not reconciled with Bolton. Publication date unknown.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"

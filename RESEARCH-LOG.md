@@ -864,3 +864,7 @@ Previous turn made verified public progress; current tree clean. Bibliographic l
 ### 2026-10-08 — River-network cross-check of the name substitution
 
 Previous turn made verified public progress; current tree clean. Hash-verified retained S37 JP2, viewed full sheet and enlarged northern network. Recorded separate Azul/Bleue and Hila/filasse branches, their junction and Colorado connection. Compared with S191 drainage wording. This supports a substantive branch-name change in S190 without deciding actual travel, modern identities or intention. Preserved possible additional crossings and shared map/text dependence; did not convert year annotations to dated crossing coordinates. Updated C005 and linked audits; no new source or independent validation.
+
+### 2026-10-08 — Kino manuscript reproduction locators
+
+The intervening model-switch acknowledgement made no research progress; clean worktree revalidated and manuscript audit resumed. Retrieved institutional finding aid through ordinary public web access; hashed retained PDF and visually checked pp.20-21. Visually checked Bolton printed pp.23-24 against prior extracted text. Added S192 and manuscript audit, preserving partial-copy coverage, absent reproduced map, differing extent descriptions and editor-reported non-autograph hands. No original manuscript image, modern shelfmark confirmation, independent authentication or custody chain claimed. Corrected stale S190 registry limitation after completed Gobien comparison.
