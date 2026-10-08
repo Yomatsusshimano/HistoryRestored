@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Seattle rebuilding account status audit
+
+Previous switch-only turn was no progress: no research state changed. Revalidated clean checkout at 2d03124 and resumed the available UW source lead. Public CONTENTdm metadata succeeded by ordinary API retrieval; web-tool image opens failed, but background browser IIIF images displayed successfully. Visually inspected selected pages and cover. Added S91, distinguishing 1889 catalog date from unresolved 1966 call-number suffix, mixed underway/projected building counts from completion, and promotional predictions from measured construction. No image redistribution, original-ordinance recovery, physical burial date or independent review claimed. This changes the next building-audit action to project-specific records rather than treating a rapid-rebuilding heading as a completed schedule.
+
 ## 2026-10-08 - Ordinance 1106 correspondence chain
 
 Previous turn made progress: 612b756 published seven byte-verified files; clean checkout confirmed. Located Yesler record 993597 catalog and inspected Leary record 991765 pp.3–4 transcriptions. Distinguished catalog-only objection, reported notification and appraisal refusal; retained separate ordinance numbers and routes. Failed page-4 image access prevents scan-verification claims. Connected a modern recital to 1889 correspondence by ordinance number without inventing original judgment content, passage date, completed appraisal or construction. Added S89/S90 and structured event chain.
