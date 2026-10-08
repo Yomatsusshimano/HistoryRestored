@@ -2154,6 +2154,22 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S135",
+      "title": "Scientific history, sampling approach, and physical characterization of the Camp Century subglacial material, a rare archive from beneath the Greenland Ice Sheet",
+      "creator": "Paul R. Bierman et al.",
+      "publication_date": "2024-09-05",
+      "url": "https://tc.copernicus.org/articles/18/4029/2024/",
+      "doi": "10.5194/tc-18-4029-2024",
+      "source_type": "Original archive reconstruction and sampling study",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Sections 3.1, 3.3 and 4.1 text; Table 5, printed p.4044 / PDF p.16 visually inspected.",
+      "limitations": "Reported reconstruction; original logs, photographs and orientation calculations not independently reproduced.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "35c1a4f806281aa85df6c1cc20ed77625ffdc13501ada9afac4748720b2b8a40",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -956,6 +956,11 @@
           "source_id": "S134",
           "locator": "General Information and CC 63-66 catalog row",
           "statement": "Catalog supplies a drill-site location and states that deep basal material is held at the Niels Bohr Institute in Copenhagen; retained NSF sections are not the basal sediment."
+        },
+        {
+          "source_id": "S135",
+          "locator": "Sections 3.3,4.1; Table 5",
+          "statement": "Handling study documents missing, thawed and inverted segments; reported orientation corrections require original-record verification."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",

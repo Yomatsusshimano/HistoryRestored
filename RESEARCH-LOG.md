@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camp Century handling record
+
+Previous turn made progress: d8aed88 published twelve verified files and a rendered locality map. Added S135 and segment-level handling ledger after original table inspection. Preserved text/table flag difference without assigning blame or correcting dates. Original reconstruction and aliquot linkage remain pending. Full goal remains active.
+
 ## 2026-10-08 - Wildlife locality coverage and Camp Century custody
 
 Previous turn made progress: 312645b published nine byte-verified files. Audited current coordinate fields and recovered the Camp Century CC 63-66 catalog location/custody lead as S134. Generated ten source-linked points across four cases and a ledger retaining five unmapped cases. No geocoded substitutes, migration paths, death-site assignments or simultaneous-event inference. Numeric bounds, source references and feature identifiers checked during build. Full goal remains active.

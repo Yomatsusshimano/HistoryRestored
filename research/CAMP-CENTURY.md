@@ -40,3 +40,11 @@ Next: retrieve radiocarbon and luminescence supplements, reconcile the size labe
 ## Catalog location and custody follow-up
 
 S134, the [NSF Ice Core Facility catalog](https://icecores.org/inventory/camp-century), supplies a CC 63-66 drill-site coordinate and directs basal-material custody to the Niels Bohr Institute. This supersedes missing site coordinates, while individual plant growth positions remain unknown. See the [spatial audit](WILDLIFE-GEOGRAPHY.md) for the coordinate role and precision limits. No custody-chain inspection or sampling has occurred.
+
+## Handling history: sample-specific limits
+
+[Bierman et al. (2024)](https://tc.copernicus.org/articles/18/4029/2024/) (S135), section 4.1 and visually inspected Table 5 (p.4044), documents archive alterations. The [handling ledger](../data/camp-century-handling.json) preserves affected segment IDs: two missing, two previously thawed and six inverted according to the text. Table 5 omits the inversion flag for 1063-7, listing prior pilot sampling only; omission remains unknown rather than a denial. Section 3.3 describes correcting inverted magnetic vectors by a 180-degree rotation about the sample x-axis. Original orientation reconstruction remains unaudited.
+
+For our interpretation, storage orientation, original depositional order and event age are distinct. A stored cylinder turned upside down does not by itself redetermine its age, prove geological overturning or invalidate other segments. Conversely, a reported correction cannot substitute for checking the photographs, sample axes and resulting measurements. The 1063-7 discrepancy should be reconciled before using its directional evidence.
+
+This publication narrows the earlier custody gap but does not close the chain of handling. Next inspect the segment-level supplement and original photographs, and connect the dated interior aliquots to their precise parent segments. No missing segment is treated as an absent geological layer, and no archive alteration establishes intentional historical fabrication.
