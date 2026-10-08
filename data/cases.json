@@ -1489,6 +1489,16 @@
           "source_id": "S113",
           "locator": "Section 2.4 paragraphs 24-28, p.1154",
           "statement": "Earlier method specifies running-median background and MAD threshold, with separate processing for deposition estimates."
+        },
+        {
+          "source_id": "S114",
+          "locator": "56.29.2-5; 56.30.5",
+          "statement": "Solar obscuration is narrated among death omens, without an observation site or duration; Augustus death date is not the phenomenon date."
+        },
+        {
+          "source_id": "S115",
+          "locator": "Introduction p.xxvii",
+          "statement": "Editor describes manuscript transmission covering Book 56; specific passage witnesses remain uninspected."
         }
       ],
       "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",
@@ -1500,7 +1510,7 @@
         "Marker association or tree-calendar error requiring independent tests"
       ],
       "counterevidence": "A published technical revision is not evidence of concealed historical fabrication. This case also prevents treating all older ice dates as immune to correction. Methods explicitly report unused validation evidence; this must not be dismissed as merely checking fitted anchors.",
-      "next_test": "Resolve exact MAD/window/missing-value implementation and confirm its use for the 2015 validation series before testing the published match counts.",
+      "next_test": "Resolve exact MAD/window/missing-value implementation and confirm its use for the 2015 validation series before testing the published match counts. Audit the Greek and manuscript witnesses for the 14 CE historical entry, and independently check astronomical alternatives.",
       "chronology": {
         "reported": "See data/ice-core-anchor-audit.json",
         "dated_object": "Ice layers carrying isotope signals",

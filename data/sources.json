@@ -1855,6 +1855,34 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "pdf_mirror": "https://nora.nerc.ac.uk/id/eprint/502097/1/jgrd50082.pdf"
+    },
+    {
+      "id": "S114",
+      "title": "Roman History 56.29-30, Earnest Cary translation",
+      "creator": "Cassius Dio; translated by Earnest Cary; transcription by Bill Thayer",
+      "publication_date": null,
+      "source_type": "Ancient narrative in translated edition",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/56%2A.html",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "HTML translation, sections 29.1-6 and 30.5; edition provenance checked on site home page.",
+      "limitations": "Translation/transcription, not Greek apparatus or manuscript inspection. Ancient report is not a contemporary instrumental observation; exact observation date, duration and location absent from selected passage.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S115",
+      "title": "Introduction to Cassius Dio, Roman History",
+      "creator": "Earnest Cary; transcription by Bill Thayer",
+      "publication_date": null,
+      "source_type": "Critical edition introduction",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/Introduction%2A.html",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Introduction pp.ix-xiii and manuscript discussion p.xxvii, HTML text.",
+      "limitations": "Historical editorial account, not a new manuscript collation or current catalog verification. Specific folio and readings for 56.29.3 remain uninspected.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

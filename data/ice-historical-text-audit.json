@@ -1,0 +1,36 @@
+{
+  "status": "RETROSPECTIVE_SOURCE_AUDIT_NOT_INDEPENDENTLY_REVIEWED",
+  "entries": [
+    {
+      "validation_source": "S108",
+      "validation_row": 23,
+      "assigned_year_ce": 14,
+      "published_rank": "Possible",
+      "text_source": "S114",
+      "locator": "56.29.2-5; 56.30.5",
+      "reported_phenomena": [
+        "Solar eclipse in translation",
+        "Sky appearing fiery",
+        "Apparent falling embers",
+        "Red comets"
+      ],
+      "narrative_context": "Omens preceding Augustus death; year identified by consuls Sextus Apuleius and Sextus Pompeius. Section 30.5 gives August 19 for death, not for the solar phenomenon.",
+      "observation_date": null,
+      "observation_location": null,
+      "duration": null,
+      "named_eyewitness": null,
+      "interpretation": "Text alone does not distinguish volcanic haze, astronomical obscuration, literary portent, or mixed traditions.",
+      "transmission_source": "S115",
+      "transmission_limit": "Editor describes manuscripts covering Book 56, including Marcianus 395 with gaps and later derivatives; specific passage folio and variants not inspected. Do not assume exclusive survival through epitomes.",
+      "astronomical_exclusion_independently_checked": false,
+      "matched_to_author_ice_event": null,
+      "computational_missingness": "Four local sensitivity variants leave this entry unresolved because their complete-window sulfur input is missing. This is separate from textual ambiguity.",
+      "next_checks": [
+        "Greek text and critical apparatus for 56.29.3",
+        "Locate and inspect manuscript witness folio",
+        "Trace Stothers 2002 additional cited accounts and dependencies",
+        "Check eclipse predictions with explicit observation region and time uncertainty"
+      ]
+    }
+  ]
+}

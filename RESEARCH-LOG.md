@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - 14 CE narrative and transmission audit
+
+Previous turn was a handoff acknowledgment, no research progress. Revalidated clean checkout and resumed safe source work. Inspected Dio 56.29-30 in Cary translation and editor manuscript discussion; added S114-S115 and row-level text audit. Solar phenomenon lacks duration/site, and the August 19 death date cannot be reused as observation date. Omen framing does not establish fabrication or volcanism. Manuscript outline prevents assuming epitome-only transmission, while specific witnesses remain uninspected. Textual uncertainty and algorithmic missingness remain separate. No astronomical exclusion or chronology shift independently demonstrated. Full goal remains active.
+
 ## 2026-10-08 - Volcanic detection implementation sensitivity
 
 Previous turn made progress: 72ca7b2 published seven publicly byte-verified files. Clean checkout confirmed. Executed four declared retrospective detection variants on checksum-matched S109 annual data: local versus global-residual MAD, unscaled versus scaled. All retain missing inputs and require full 31-year windows. Within ±3 years the variants yield 12-20 matches, four unresolved entries each; no variant selected by closeness to the published count. Unscaled results permit 20-24 matches conditional on missing input, not a contradiction of 24. Published row-level sensitivity results and four passing synthetic/boundary tests. No statistical-significance or exact-paper reproduction claim. Full goal remains active.
