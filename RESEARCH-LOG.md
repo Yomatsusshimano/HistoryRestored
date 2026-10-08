@@ -1055,3 +1055,8 @@ Previous turn made verified public progress. Original Topock pamphlet download r
 ### 2026-10-08 — Original Topock contact photographs
 
 Previous turn made verified public progress. Standard browser-style HTTP request recovered original14MB USGS pamphlet, hash recorded. Rendered/inspected Fig15/16; text-read selected context and unit descriptions. Distinguished photographed Trbb/Tcgn from reported Trbb/Trbs contact, recovered section1 block locality and explicit unobserved relations. Mammoth artificial-fill provenance warning retained. No field visit, sample polygon assignment or independent scientific review claimed.
+
+
+### 2026-10-08 — Conditional Topock sample overlay
+
+Previous turn made verified public progress. Recovered original shapefile ZIP/metadata; installed pyshp and Shapely for actual spatial queries. Read NAD27 projection, compared two explicit datum scenarios with verified NADCON5 grid, and preserved surface-unit mismatches. One remote invalid Tmgn polygon excluded after bounding-box checks; no repair or sample relocation. No exact field accuracy, sample identification, age or independent scientific validation inferred.

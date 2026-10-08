@@ -413,3 +413,8 @@ S219 Topock marginal coordinates and original pamphlet excerpt recovered. Topock
 ### 2026-10-08 — Original Topock contact photographs
 
 S219 full pamphlet recovered; Fig15/16 inspected. Next georeference section1 Trbs-block locality against dated cobbles, test reported paleosols, and trace fossil collection records. Preserve unobserved direct Trbb-Santa Fe/QTa1 relations and unknown mammoth context.
+
+
+### 2026-10-08 — Conditional Topock sample overlay
+
+Conditional S219 polygon overlay published. Resolve Bat Cave87-107m Trbb offset using original datum, cut geometry and surface-versus-subsurface context. Topock3-18m offset and Santa Fe map-edge issue also retained. Section1 block locality and paleosols still pending.

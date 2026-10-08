@@ -688,6 +688,11 @@
           "source_id": "S219",
           "locator": "Figures15-16; printed26-27,31,41-42; research/COLORADO-BURIAL-DATING.md",
           "statement": "Full pamphlet recovered and two photographs inspected. Figure16 depicts Trbb over Tcgn, not Trbs; specific sandstone-block locality recovered separately. No direct Trbb-Santa Fe relation observed. Reported paleosols offer exposure tests; mammoth tooth context near artificial fill is explicitly unknown. No sample-contact match or new age established."
+        },
+        {
+          "source_id": "S219",
+          "locator": "Digital polygon data; analysis/locate_topock_samples.py; data/topock-sample-overlay.json",
+          "statement": "Conditional NAD27/NAD83 overlays place Topock and Bat Cave in surface alluvium polygons rather than Trbb. Nearest Trbb is3-18m and87-107m respectively. Buried cut exposure versus mapped surface, datum and location uncertainty prevent automatic confirmation or rejection of unit assignment."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

@@ -170,3 +170,24 @@ Printed26 describes a mixed provenance: many boulders have plausible nearby sour
 The paleontology discussion (printed31) adds a separate warning for wildlife correlation: a reported mammoth tooth came from in or near mapped artificial fill beside the railway bridge, leaving its original stratigraphic context unknown. It cannot independently date the conglomerate or demonstrate contemporaneous mortality. A reported equine rib in Trbb is a different occurrence, not an interchangeable age marker; no direct bone date is supplied in the inspected passage.
 
 Next match the section1 sandstone-block locality and the dated sample coordinates, recover the original fossil collection records, and examine the reported paleosols before inferring either a single rapid sequence or long intervening exposure. Publication of photographs improves access to evidence; it does not replace these remaining tests.
+
+## Conditional digital-map overlay
+
+Recovered the [S219 shapefiles](https://pubs.usgs.gov/sim/3236/topock_shape.zip) and [metadata](https://pubs.usgs.gov/sim/3236/sim3236_metadata.txt). The polygon projection is NAD27/UTM11N. S216 supplies no verified datum, so [the script](../analysis/locate_topock_samples.py) compares NAD27 and NAD83(1986) assumptions, interpreting the printed positive longitudes as west explicitly. NAD83 coordinates are transformed through the inverse NADCON5 grid already documented in the Wind Caves audit. Neither scenario is established as the original GPS system.
+
+| Site | Assumed datum | Containing surface polygon | Distance to nearest target-unit polygon |
+|---|---|---|---:|
+|Topock|NAD27|Qa2|3m to Trbb|
+|Topock|NAD83(1986)|Qa4|18m to Trbb|
+|Bat Cave|NAD27|Qa2|107m to Trbb|
+|Bat Cave|NAD83(1986)|Qa2|87m to Trbb|
+|Santa Fe Railway|NAD27|Outside map|5m to Trbfm|
+|Santa Fe Railway|NAD83(1986)|Outside map|25m to Trbfm|
+
+[Machine-readable results](../data/topock-sample-overlay.json) retain projected coordinates, polygon indices, nearby units and unrounded computational distances. Rounded distances above are diagnostics, not survey precision. Source metadata restricts use to1:24,000 or smaller scales and describes several distinct positional limitations: geological placement relative to the base, base-map accuracy and registration errors. Those are not independent Gaussian errors to combine into an invented confidence interval. An illustrative50m-radius query is supplied, explicitly not a confidence region.
+
+One source polygon (index410, Tmgn) has a ring self-intersection under Shapely validation. It was excluded only after checking its entire bounding box is more than1km from each query point. No geometry was repaired. This localized topology issue does not explain the sample-area results.
+
+The overlay does not confirm the sampled unit assignments, but it does not disprove them either. A surface map can show cover above a buried unit exposed in a cut; the samples were collected6.5–8.5m below terrace treads. Coordinate reference, mapped generalization, exposure geometry and possible transcription errors remain separate explanations. Bat Cave's offset merits particular investigation because it persists under both datum scenarios. Do not shift a sample point to the nearest desired polygon or identify the section1 sandstone-block locality from proximity alone.
+
+Reproduction requires Python with pyshp, Shapely and pyproj, the linked ZIP and the NADCON5 grid: `python analysis/locate_topock_samples.py PATH_TO_ZIP PATH_TO_GRID`. Input hashes are checked before querying. Next obtain the original coordinate datum and match the photographed cut, terrace surface and underlying unit in section; map agreement alone would still not establish specimen custody or burial history.

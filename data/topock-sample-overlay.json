@@ -1,0 +1,242 @@
+{
+  "source_ids": [
+    "S216",
+    "S219"
+  ],
+  "map_zip_sha256": "bfcc8dfe52b701879e2e0a431ad1e6707f42bb25cf449ce5cae14592c1b6ae87",
+  "projection_WKT": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+  "invalid_polygons_excluded": [
+    {
+      "polygon_index": 410,
+      "unit": "Tmgn",
+      "bounds": [
+        733079.71219375,
+        3838525.2499914546,
+        733586.1874963304,
+        3839534.7499929843
+      ]
+    }
+  ],
+  "geometry_check": "Excluded invalid polygons only after checking their bounding boxes are over1000m from every query point. No geometry repaired.",
+  "versions": {
+    "pyshp": "3.1.6",
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0"
+  },
+  "assumptions": "Printed positive longitudes interpreted as west conditionally. Input datum unknown: separate NAD27 and NAD83(1986) scenarios, latter inverted through explicit NADCON5 grid. Neither scenario is established as original GPS datum.",
+  "limits": "50m radius is an illustrative sensitivity radius, not a confidence region. Distances are computational diagnostics, not field accuracy. Map nominal scale1:24000; map coverage and unit assignment are not specimen custody, contact identification or chronology.",
+  "results": [
+    {
+      "site": "Topock",
+      "assumed_input_datum": "NAD27",
+      "map_easting_m": 732280.0629089032,
+      "map_northing_m": 3843858.311526117,
+      "containing_polygons": [
+        {
+          "polygon_index": 692,
+          "unit": "Qa2",
+          "distance_to_polygon_edge_m": 1.9611799768172202
+        }
+      ],
+      "nearest_polygons": [
+        {
+          "distance_m": 0.0,
+          "polygon_index": 692,
+          "unit": "Qa2"
+        },
+        {
+          "distance_m": 1.9611799768172202,
+          "polygon_index": 697,
+          "unit": "Tcgn"
+        },
+        {
+          "distance_m": 3.1670614703078317,
+          "polygon_index": 695,
+          "unit": "Trbb"
+        }
+      ],
+      "target_unit": "Trbb",
+      "distance_to_nearest_target_polygon_m": 3.1670614703078317,
+      "units_intersecting_50m_radius": [
+        "Kcb",
+        "Qa2",
+        "Tcgn",
+        "Trbb",
+        "Xgm"
+      ]
+    },
+    {
+      "site": "Topock",
+      "assumed_input_datum": "NAD83_1986",
+      "map_easting_m": 732352.831643892,
+      "map_northing_m": 3843859.6195464334,
+      "containing_polygons": [
+        {
+          "polygon_index": 808,
+          "unit": "Qa4",
+          "distance_to_polygon_edge_m": 4.227513198122796
+        }
+      ],
+      "nearest_polygons": [
+        {
+          "distance_m": 0.0,
+          "polygon_index": 808,
+          "unit": "Qa4"
+        },
+        {
+          "distance_m": 4.227513198122796,
+          "polygon_index": 697,
+          "unit": "Tcgn"
+        },
+        {
+          "distance_m": 18.215670304118195,
+          "polygon_index": 684,
+          "unit": "Trbb"
+        }
+      ],
+      "target_unit": "Trbb",
+      "distance_to_nearest_target_polygon_m": 18.215670304118195,
+      "units_intersecting_50m_radius": [
+        "Qa4",
+        "Tcgn",
+        "Trbb"
+      ]
+    },
+    {
+      "site": "Bat Cave",
+      "assumed_input_datum": "NAD27",
+      "map_easting_m": 729351.1737568468,
+      "map_northing_m": 3845188.6436915863,
+      "containing_polygons": [
+        {
+          "polygon_index": 805,
+          "unit": "Qa2",
+          "distance_to_polygon_edge_m": 34.16823201363513
+        }
+      ],
+      "nearest_polygons": [
+        {
+          "distance_m": 0.0,
+          "polygon_index": 805,
+          "unit": "Qa2"
+        },
+        {
+          "distance_m": 34.16823201363513,
+          "polygon_index": 797,
+          "unit": "Qa4"
+        },
+        {
+          "distance_m": 39.72056404956443,
+          "polygon_index": 791,
+          "unit": "Tf"
+        }
+      ],
+      "target_unit": "Trbb",
+      "distance_to_nearest_target_polygon_m": 107.13832533764621,
+      "units_intersecting_50m_radius": [
+        "Qa2",
+        "Qa4",
+        "Tf"
+      ]
+    },
+    {
+      "site": "Bat Cave",
+      "assumed_input_datum": "NAD83_1986",
+      "map_easting_m": 729424.022989706,
+      "map_northing_m": 3845189.971527219,
+      "containing_polygons": [
+        {
+          "polygon_index": 805,
+          "unit": "Qa2",
+          "distance_to_polygon_edge_m": 59.09901958801886
+        }
+      ],
+      "nearest_polygons": [
+        {
+          "distance_m": 0.0,
+          "polygon_index": 805,
+          "unit": "Qa2"
+        },
+        {
+          "distance_m": 59.09901958801886,
+          "polygon_index": 785,
+          "unit": "Tf"
+        },
+        {
+          "distance_m": 78.16287210433076,
+          "polygon_index": 789,
+          "unit": "Qa4"
+        }
+      ],
+      "target_unit": "Trbb",
+      "distance_to_nearest_target_polygon_m": 86.82172047565808,
+      "units_intersecting_50m_radius": [
+        "Qa2"
+      ]
+    },
+    {
+      "site": "Santa Fe Railway",
+      "assumed_input_datum": "NAD27",
+      "map_easting_m": 733312.1902670127,
+      "map_northing_m": 3848087.022339419,
+      "containing_polygons": [],
+      "nearest_polygons": [
+        {
+          "distance_m": 5.157129361236255,
+          "polygon_index": 969,
+          "unit": "Trbfm"
+        },
+        {
+          "distance_m": 6.217104088368935,
+          "polygon_index": 968,
+          "unit": "Trbfm"
+        },
+        {
+          "distance_m": 20.57891519843222,
+          "polygon_index": 967,
+          "unit": "Qcr"
+        }
+      ],
+      "target_unit": "Trbfm",
+      "distance_to_nearest_target_polygon_m": 5.157129361236255,
+      "units_intersecting_50m_radius": [
+        "Qa4",
+        "Qcr",
+        "Trbfl",
+        "Trbfm"
+      ]
+    },
+    {
+      "site": "Santa Fe Railway",
+      "assumed_input_datum": "NAD83_1986",
+      "map_easting_m": 733384.9092707532,
+      "map_northing_m": 3848088.361529344,
+      "containing_polygons": [],
+      "nearest_polygons": [
+        {
+          "distance_m": 4.5899383152549,
+          "polygon_index": 971,
+          "unit": "Trbfl"
+        },
+        {
+          "distance_m": 10.982361945569737,
+          "polygon_index": 970,
+          "unit": "Trbs"
+        },
+        {
+          "distance_m": 24.5640336786602,
+          "polygon_index": 969,
+          "unit": "Trbfm"
+        }
+      ],
+      "target_unit": "Trbfm",
+      "distance_to_nearest_target_polygon_m": 24.5640336786602,
+      "units_intersecting_50m_radius": [
+        "Qa4",
+        "Trbfl",
+        "Trbfm",
+        "Trbs"
+      ]
+    }
+  ]
+}
