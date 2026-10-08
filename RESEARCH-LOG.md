@@ -1050,3 +1050,8 @@ Previous turn made verified public progress. USGS SIM3411 catalog/pamphlet acces
 ### 2026-10-08 — Topock relative sequence
 
 Previous turn made verified public progress. Original Topock pamphlet download returned403; author-uploaded map yielded web-extracted text but screenshot and local download failed. Search index exposed printed25 description of incorporated blocks and nested erosion/deposition. Published exact access depth and distinction between a possible single flood unit and the larger relative sequence. No new numeric event date or visual field validation.
+
+
+### 2026-10-08 — Original Topock contact photographs
+
+Previous turn made verified public progress. Standard browser-style HTTP request recovered original14MB USGS pamphlet, hash recorded. Rendered/inspected Fig15/16; text-read selected context and unit descriptions. Distinguished photographed Trbb/Tcgn from reported Trbb/Trbs contact, recovered section1 block locality and explicit unobserved relations. Mammoth artificial-fill provenance warning retained. No field visit, sample polygon assignment or independent scientific review claimed.

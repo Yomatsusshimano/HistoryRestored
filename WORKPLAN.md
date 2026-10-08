@@ -408,3 +408,8 @@ S218 Castle Rock map lineage identified, selected map text inspected. Latitude e
 ### 2026-10-08 — Topock relative sequence
 
 S219 Topock marginal coordinates and original pamphlet excerpt recovered. Topock/Bat Cave are within nominal latitude extent; Santa Fe printed coordinate is just beyond its north edge. Next inspect actual Trbs-Trbb contacts and trace S216 specimen locations onto mapping, with coordinate uncertainty explicit. Do not infer duration from inset geometry alone.
+
+
+### 2026-10-08 — Original Topock contact photographs
+
+S219 full pamphlet recovered; Fig15/16 inspected. Next georeference section1 Trbs-block locality against dated cobbles, test reported paleosols, and trace fossil collection records. Preserve unobserved direct Trbb-Santa Fe/QTa1 relations and unknown mammoth context.

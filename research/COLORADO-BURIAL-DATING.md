@@ -154,3 +154,19 @@ Incorporated older sediment blocks would support recycling and relative ordering
 Extracted map margins span34.625–34.75°N. Topock and Bat Cave sample latitudes fall within that range. Santa Fe's printed34.750047°N lies just north of the nominal boundary; coordinate uncertainty and neighboring coverage require checking before assigning a mapped polygon. Palo Verde is outside. Longitude interpretation remains conditional on resolving S216's header.
 
 Map graphics, pamphlet photographs and exact sample-to-contact links remain uninspected after download and screenshot failures. Next obtain those observations before treating this relative sequence as independently verified field evidence.
+
+## Full pamphlet recovered: contact and provenance limits
+
+Follow-up recovered the original USGS pamphlet using a standard browser-style request. SHA256: `97a1b85d78a3765b11bf792ea0bf756a5c437f5154b6538ed19cf7147f75fcdf`. Figures15–16 (printed26–27/PDF30–31) were rendered and visually inspected; printed25–27,31 and selected unit descriptions41–42 were text-read. This supersedes the pamphlet access gap above, while map-sheet geometry and specimen-to-contact linkage remain open.
+
+Figure16 shows a coarse conglomerate above a contrasting finer red substrate, with a marked contact and tool for scale. Its caption identifies **Trbb over Tcgn (Miocene gneiss-clast conglomerate)**,1.8km east-southeast of Topock. It is not a photograph of Trbb over Trbs sandstone, nor is it identified as the later isotope collection site. The separate Trbs-block observation has a more specific locator in the unit description: NW quarter of NW quarter of SE quarter, section1, T15N, R21W (printed41). That location is now a concrete target for matching field evidence, not a verified sample match.
+
+Figure15 labels more tilted middle Santa Fe beds (Trbfm), a less-deformed upper conglomerate (Trbfu), and the overlying piedmont unit (QTa1). The photograph and caption support distinct attitudes and contacts. The authors interpret progressive deformation; neither this image nor its labels alone determine elapsed time. The descriptions report paleosols in Trbfm and a carbonate soil above Trbfu. Those are potentially useful tests of intervening exposure, but their origin, intactness and formation times require their own evidence.
+
+Crucially, printed41 explicitly says the inferred younger position of Trbb relative to Santa Fe has **no observed direct stratigraphic relation**; its relation to QTa1 is also unobserved. Preserve those gaps when reconstructing the sequence. Reported regional ordering must not turn into an invented continuous measured section.
+
+Printed26 describes a mixed provenance: many boulders have plausible nearby sources, while quartzite records much longer river transport. This concerns the deposit as a whole, not proof that the selected quartz-rich dated cobbles violate or satisfy a shared pre-burial model. Petrographic/source assignment must be tied to sample IDs before that assumption can be tested.
+
+The paleontology discussion (printed31) adds a separate warning for wildlife correlation: a reported mammoth tooth came from in or near mapped artificial fill beside the railway bridge, leaving its original stratigraphic context unknown. It cannot independently date the conglomerate or demonstrate contemporaneous mortality. A reported equine rib in Trbb is a different occurrence, not an interchangeable age marker; no direct bone date is supplied in the inspected passage.
+
+Next match the section1 sandstone-block locality and the dated sample coordinates, recover the original fossil collection records, and examine the reported paleosols before inferring either a single rapid sequence or long intervening exposure. Publication of photographs improves access to evidence; it does not replace these remaining tests.

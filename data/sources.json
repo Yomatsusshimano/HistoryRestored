@@ -3457,9 +3457,9 @@
       "creator": "Keith A. Howard, Barbara E. John, Jane E. Nielson, Julia M. G. Miller and Joseph L. Wooden",
       "publication_date": "2013",
       "source_type": "USGS geological map and pamphlet",
-      "access": "FULL_TEXT_PORTION",
-      "inspected": "Map marginal coordinate text via author-uploaded PDF web extraction; pamphlet printed25 Bat Cave passage only as search-index excerpt. research/COLORADO-BURIAL-DATING.md.",
-      "limitations": "Map screenshot failed; direct USGS pamphlet and local mirror download returned access errors. No visual contact inspection. Pamphlet conclusions remain excerpt-level and exact S216 cobble-to-contact linkage unverified.",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Map marginal coordinate text via author-uploaded PDF web extraction; pamphlet printed25 Bat Cave passage only as search-index excerpt. research/COLORADO-BURIAL-DATING.md. Follow-up: original pamphlet recovered with browser-style request; Figures15-16 printed26-27/PDF30-31 visually inspected; printed25-27,31 and unit descriptions41-42 text-read. SHA25697a1b85d78a3765b11bf792ea0bf756a5c437f5154b6538ed19cf7147f75fcdf.",
+      "limitations": "Partial pamphlet inspection; map-sheet graphics and exact S216 sample-to-contact linkage still unverified. Figure16 shows Trbb/Tcgn, not Trbb/Trbs. No observed direct Trbb-Santa Fe or Trbb-QTa1 relation in unit description; fossil identification relies partly on cited personal communications.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
