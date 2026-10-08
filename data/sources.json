@@ -1983,6 +1983,34 @@
       "pdf_mirror": "https://archive.org/download/patrologiaecurs83unkngoog/patrologiaecurs83unkngoog.pdf",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S123",
+      "title": "Jerome, Chronicle: Latin electronic text",
+      "creator": "Jerome after Eusebius; electronic text hosted by Catholic Library",
+      "publication_date": null,
+      "source_type": "Historical text transcription",
+      "url": "https://catholiclibrary.org/library/view?chunk.id=00000003&docId=%2FFathers-OR%2FJerome.Chronicle.la.html",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Augustus eclipse/death entry beginning Defectio solis facta; adjacent chronology table.",
+      "limitations": "HTML text, not facsimile or manuscript. Column alignment and modern date conversion not validated; exact electronic edition lineage not fully established.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S124",
+      "title": "Jerome Chronicle: Preface to the Online Edition",
+      "creator": "Roger Pearse",
+      "publication_date": "2005",
+      "source_type": "Digital edition editorial preface",
+      "url": "https://www.tertullian.org/fathers/jerome_chronicle_00_eintro.htm",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Sections on layout and Latin text; statement that AD/BC reckoning is supplied for guidance.",
+      "limitations": "Primary account of digital editorial procedure, not a new manuscript collation. Does not independently establish provenance of every mirrored HTML cell.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

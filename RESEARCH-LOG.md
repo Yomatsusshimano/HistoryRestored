@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Latin parallel and digital editorial dates
+
+Previous turn made progress: 7be4a6f published seven verified files. Clean checkout confirmed. Inspected Jerome Latin electronic entry and online edition production notes. Added S123-S124 and element-level comparison; brief parallel is compatible with abbreviation, not proof of copying. Documented modern AD/BC guidance layer and withheld precise calendar alignment from flattened HTML. Manuscript and original edition comparison remains open. Full goal remains active.
+
 ## 2026-10-08 - Migne authenticity warning verified
 
 Previous turn made progress: 27ce539 published seven verified files; clean checkout confirmed. Rendered PL31 front matter and inspected title pages and opening editorial footnote. Recorded 1846 edition date and explicit spurious-work warning in S122 and audit ledger. Distinguished unnamed Jesuit attribution in footnote from Higuera identification in S121, and work-level warning from sentence authorship. The edition preserves the warning openly; no inference of researcher intent or catastrophe-driven rewriting. Full goal remains active.

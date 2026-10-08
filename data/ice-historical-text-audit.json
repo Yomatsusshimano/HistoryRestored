@@ -83,6 +83,28 @@
         "working_paraphrase": "The editor reports that contemporary bibliographers unanimously regard the chronicle published by Bivar under Dexter name as spurious, attributing it to a certain sixteenth-century Jesuit.",
         "attribution_limit": "Footnote does not name Higuera; that identification comes from S121. No authorship finding for the individual eclipse sentence.",
         "evidential_role": "Direct evidence that the printed edition warned readers about authenticity, not independent proof of all details of the forgery mechanism."
+      },
+      "latin_comparison": {
+        "sources": [
+          "S122",
+          "S123"
+        ],
+        "shared_elements": [
+          "Defectio solis",
+          "et Augustus",
+          "LXXVI",
+          "moritur"
+        ],
+        "jerome_additional_elements": [
+          "facta",
+          "aetatis suae anno",
+          "Atellae in Campania",
+          "burial at Rome in Campus Martius"
+        ],
+        "inference": "Compatible with abbreviation or a shared source tradition; short wording and factual overlap do not prove direct copying.",
+        "direct_copying_proven": false,
+        "date_alignment_verified": false,
+        "editorial_layer_warning": "S124 states AD/BC guidance columns are not original text. Do not treat an HTML date label as an ancient observation."
       }
     }
   ]

@@ -130,3 +130,5 @@ Detection sensitivity executed on S109: four implementation variants produce 12-
 Dexter facsimile S122: exact PL31 cols.65-66 visually inspected (PDF p.37; scan out of order). A.C.15 label confirmed; Bivar cites Eusebius for eclipse/death pair. Trace normalization to 14 and compare earlier editions; authenticity and independent observation remain unresolved.
 
 Migne front matter verified: title pages show 1846; editorial footnote on PDF p.9 explicitly reports Dexter chronicle as spurious and attributed to a sixteenth-century Jesuit. Warning is public within the edition. Continue passage-level comparison and dating normalization; do not infer a named author or modern researcher intent from the footnote.
+
+Jerome Latin comparison: shared eclipse/death wording, fuller location/burial details in Jerome. Abbreviation compatible, direct borrowing unproven. Digital edition explicitly adds AD/BC guidance; verify facsimile column alignment before interpreting year differences.

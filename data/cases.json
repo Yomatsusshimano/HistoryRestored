@@ -1519,6 +1519,11 @@
           "source_id": "S122",
           "locator": "PDF p.9, editorial footnote a; title pages pp.5,7",
           "statement": "The 1846 edition explicitly reports the chronicle as spurious and attributed by bibliographers to a sixteenth-century Jesuit; the individual eclipse sentence is not authenticated by inclusion in this edition."
+        },
+        {
+          "source_id": "S123",
+          "locator": "Augustus eclipse/death entry",
+          "statement": "Latin entry shares eclipse/death wording with Dexter, while retaining location and burial details absent from the shorter Dexter sentence. Direct copying remains unproven."
         }
       ],
       "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",
