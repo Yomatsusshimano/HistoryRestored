@@ -1316,8 +1316,8 @@
       "publication_date": null,
       "source_type": "Software developer method documentation",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "P2Yrs formula and description; alternative normalization headings.",
-      "limitations": "Documentation is not evidence for the specific settings used in the Electron paper. Implemented unclipped P2, not P2YrsL.",
+      "inspected": "P2Yrs, Hollstein and Baillie/Pilcher formulas and normalization caveats.",
+      "limitations": "Documentation does not establish the Electron paper settings. Three explicit alternative transforms implemented; no exact-paper replication.",
       "sha256": null
     }
   ]

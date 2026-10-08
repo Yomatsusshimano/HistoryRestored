@@ -631,6 +631,7 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 - Archived diagnostics contain 19 flags across 744 overlapping segments; all 86 series spans and width counts match the recovered template. [S75](https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa171.txt). Locator: Parts 5 and 7; archive header. Access: FULL_TEXT_PORTION. Limit: Historical diagnostics, not a fresh analysis; overlapping segments and related radii are not independent tests.
 - KAP14 was separately calibrated; results give the same five- and seven-sample intervals as supplement Figure S2. [S76](https://doi.org/10.1130/G53721.1). Locator: Advance-page 2, radiocarbon methods/results, extracted text. Access: FULL_TEXT_PORTION. Limit: Publisher PDF inaccessible via web tool; article page image not inspected. Extraction can contain errors. Detailed processing settings and executable model not recovered.
 - Exploratory P2 comparison with archived Electron data ranks 1507 first under series/tree-label weighting and all 21 leave-one-Electron-group-out runs; exact published processing not reproduced. [S77](https://www.ncei.noaa.gov/access/paleo-search/study/38202). Locator: Annual raw widths; analysis/electron_macblo_comparison.py and results JSON. Access: FULL_TEXT_PORTION. Limit: Calendar labels accepted as published; exact processing equivalence to Electron reference not established. Label grouping does not authenticate tree identities.
+- P2, Hollstein and Baillie/Pilcher alternatives retain 1507 as the strongest match, including all 108 single Electron/MacBlo label-group omissions; related retrospective sensitivity checks, not independent validations. [S78](https://cdendro.se/wiki/index.php/Proportion_of_last_two_years_growth). Locator: Normalization formulas; analysis/electron-normalization-sensitivity.json. Access: FULL_TEXT_PORTION. Limit: Documentation does not establish the Electron paper settings. Three explicit alternative transforms implemented; no exact-paper replication.
 
 **Physical evidence:** Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.
 
@@ -642,7 +643,7 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 
 **Counterevidence:** Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.
 
-**Next test:** Audit reference calendar anchors, exact author processing, alternative normalizations and multiple-shift significance; resolve remaining sample and interval discrepancies.
+**Next test:** Audit MacBlo calendar anchors and reference provenance; quantify dependence and multiple-shift significance; resolve sample and interval discrepancies.
 
 **Dependence:** Bonneville abstract cites Electron chronology; shared regional reference data may couple calendar assignments.
 

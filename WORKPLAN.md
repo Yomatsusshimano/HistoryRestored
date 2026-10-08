@@ -56,3 +56,5 @@ Electron supplement/measurement update: Figure S2 resolves illustrated seven-ass
 Electron methods/QC update: separate KAP14 treatment explained in author-uploaded paper text; results agree with supplement intervals. Archived 19/744 segment flags reconciled. Earliest 17 assigned years represent one tree ID; next 99 represent two. Absolute matching and processing reproduction remain pending.
 
 Electron–MacBlo exploratory comparison executed: 1507 ranks first in P2 series/tree-weighted scans and 21 leave-one-Electron-group-out runs. Hash-pinned inputs and method published. This is retrospective sensitivity analysis, not exact-paper replication or independent reference dating.
+
+Electron normalization sensitivity: P2, Hollstein and Baillie/Pilcher all favor 1507; 108 single-group omission runs across Electron and MacBlo retain that placement. Exact-paper processing, calendar anchors, dependence and search-adjusted significance remain unresolved.

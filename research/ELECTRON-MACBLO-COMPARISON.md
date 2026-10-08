@@ -25,3 +25,17 @@ Scan every relative annual shift with at least 30 paired observations. Rank posi
 Each full variant evaluates 1,690 placements; the runner-up is 772 with only 57 paired years. Requiring at least 100 or 300 paired years retains 1507 as the best placement. All 21 leave-one-Electron-group-out runs also retain 1507. These related runs are sensitivity checks, not independent discoveries. Full values and top-five alternatives are retained in JSON.
 
 The Pearson result agrees with Python's separately implemented `statistics.correlation` within 1e-12, and a deterministic synthetic shifted-series check recovers the inserted +123-year displacement. Those checks verify arithmetic and shift direction, not the chronology. This result does not reproduce the paper's t=8.0 or its exact processing and overlap selection. Reference dating, specimen custody, competing normalizations, dependence, and multiple-search significance remain to audit.
+
+## Additional transformations and reference omissions
+
+A subsequent [sensitivity script](../analysis/electron_normalization_sensitivity.py) applies two further formulas from S78: Hollstein uses `ln(width[y]/width[y-1])`; Baillie–Pilcher uses the logarithm of the current width divided by the mean of its centered five-year window. Each is applied to individual series before annual tree-label means. Logarithms require positive arguments; incomplete windows are excluded and nothing is imputed. Formula fixtures check orientation, window edges and missing-value handling. The separately implemented Pearson function agrees within 1e-12 for all three full comparisons. Refactoring the common loader left the original P2 results unchanged.
+
+| Transformation | Best final year | Paired years | r | t | Runner-up year / t |
+| --- | --- | --- | --- | --- | --- |
+| P2 | 1507 | 474 | 0.318122 | 7.290089 | 772 / 3.764987 |
+| Hollstein | 1507 | 474 | 0.327916 | 7.541120 | 772 / 3.918214 |
+| Baillie–Pilcher | 1507 | 471 | 0.336563 | 7.740312 | 1706 / 3.781264 |
+
+For each transformation, omit each of 21 Electron groups and each of 15 MacBlo groups separately. All 108 runs retain 1507 as the leading placement. This tests sensitivity to individual label groups on both sides; it does not test removal of all related errors or authenticate the dates. The different runner-up placements show some processing sensitivity below the leading match. [Machine-readable results](../analysis/electron-normalization-sensitivity.json) retain all omission results, overlaps, top-five full comparisons, and input hashes.
+
+This additional analysis narrows the processing uncertainty: the leading placement survives these three formulas and single-group omissions. It does not supply the authors' exact configuration, a search-adjusted false-match probability, an independent reference-calendar anchor, or a prospective success.

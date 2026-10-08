@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Electron normalization and reference sensitivity
+
+Previous turn made progress: 6184781 published ten byte-verified files. Clean checkout confirmed. Extended the hash-pinned loader with two documented formulas and reusable imports. Original P2 JSON is unchanged after rerun. Formula fixtures and separate Pearson implementation checks passed. All three transforms favor 1507, and all 108 single-group omission runs across 21 Electron and 15 MacBlo label groups retain it. Preserved changing runner-up results. This supports alignment stability for tested choices, not calendar authentication, exact-paper replication, prospective prediction or search-adjusted significance. No new source count; 20 drafts, 78 sources.
+
 ## 2026-10-08 - Electron–MacBlo exploratory alignment
 
 Previous turn made progress: 1c69413 published ten byte-verified files. Clean checkout confirmed. Recovered CAN682 NOAA template and Tucson measurements, matching the named reference code and dates. Implemented declared unclipped P2 alternative before inspecting its computed outcomes; published 1507 target already known, so no preregistration claim. In 1,690 placements, 1507 ranks first with series or tree-label weighting and after ELE045 omission. All 21 tree-label omission runs retain 1507. Pearson arithmetic agrees with statistics.correlation; synthetic +123 shift check passes. S77/S78 added. Exact paper processing, reference dating, multiple-search significance and independent review remain open.

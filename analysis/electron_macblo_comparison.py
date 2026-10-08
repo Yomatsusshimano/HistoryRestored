@@ -18,7 +18,20 @@ INPUTS={
  'electron':('wa171-rwl-noaa.txt','usa','cb02dbf945b0b022e199b33f9e7c3470d9dff7302c8013f34e87b1200c57bd01'),
  'macblo':('can682-rwl-noaa.txt','canada','bf0993a3377e13796c6c45bc4b8c3cf587666816f40520a2137c4cad2202d0d4')}
 
-def load(kind):
+def transform(widths, method='P2'):
+    result={}
+    for y,v in widths.items():
+        if method=='P2' and y-1 in widths and v+widths[y-1]>0:
+            result[y]=v/(v+widths[y-1])
+        elif method=='Hollstein' and v>0 and widths.get(y-1,0)>0:
+            result[y]=math.log(v/widths[y-1])
+        elif method=='BailliePilcher' and v>0 and all(y+j in widths for j in range(-2,3)):
+            result[y]=math.log(5*v/sum(widths[y+j] for j in range(-2,3)))
+    if method not in ('P2','Hollstein','BailliePilcher'):
+        raise ValueError(method)
+    return result
+
+def load(kind, method='P2'):
     name,country,sha=INPUTS[kind]
     path=ROOT/'tmp/research'/name
     url=f'https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/{country}/{name}'
@@ -33,7 +46,7 @@ def load(kind):
     for col,name in enumerate(head[1:],1):
         widths={int(r[0]):float(r[col]) for r in rows[1:] if r[col]!='NA'}
         assert all(v>=0 for v in widths.values())
-        result[name]={y:v/(v+widths[y-1]) for y,v in widths.items() if y-1 in widths and v+widths[y-1]>0}
+        result[name]=transform(widths,method)
     return result
 
 def mean_curve(series,kind,tree_weight=False,omit=None):
@@ -68,19 +81,20 @@ def summarize(fits):
         tested_shifts=len(fits),best_at_least_100=next(f for f in fits if f['overlap']>=100),
         best_at_least_300=next(f for f in fits if f['overlap']>=300))
 
-e=load('electron');m=load('macblo')
-variants={}
-for label,weighted,omit in [('series_equal',False,None),('tree_labels_equal',True,None),('tree_labels_equal_without_ELE045',True,'ELE045')]:
-    variants[label]=summarize(scan(mean_curve(e,'electron',weighted,omit),mean_curve(m,'macblo',weighted)))
-leaveout={}
-reference=mean_curve(m,'macblo',True)
-for tree in sorted({name[:6] for name in e}):
-    f=scan(mean_curve(e,'electron',True,tree),reference)
-    leaveout[tree]=dict(best=f[0],known_1507_rank=next(i+1 for i,v in enumerate(f) if v['end_year']==1507))
-out=dict(source_ids=['S74','S77','S78'],inputs={k:dict(name=v[0],sha256=v[2]) for k,v in INPUTS.items()},
-    method='Unclipped P2 on each series, annual arithmetic means, positive Pearson t ranking; see script docstring.',
-    publication_replication=False,prospective_test=False,macblo_series=len(m),electron_series=len(e),
-    variants=variants,leave_one_electron_tree_label_out=leaveout,
-    limitations='Published internal ring assignments and reference dating are accepted inputs. Grouping uses first six Electron or five MacBlo label characters, not authenticated specimen independence. P2 is a declared alternative, not the unknown article settings or P2YrsL. No multiple-search significance or independent calendar validation. Missing/zero-sum pairs excluded; no imputation.')
-(ROOT/'analysis/electron-macblo-comparison.json').write_text(json.dumps(out,indent=2)+'\n',encoding='utf-8')
-print(json.dumps(dict(variants=variants,leaveout_best_years={k:v['best']['end_year'] for k,v in leaveout.items()},macblo_series=len(m)),indent=2))
+if __name__ == '__main__':
+    e=load('electron');m=load('macblo')
+    variants={}
+    for label,weighted,omit in [('series_equal',False,None),('tree_labels_equal',True,None),('tree_labels_equal_without_ELE045',True,'ELE045')]:
+        variants[label]=summarize(scan(mean_curve(e,'electron',weighted,omit),mean_curve(m,'macblo',weighted)))
+    leaveout={}
+    reference=mean_curve(m,'macblo',True)
+    for tree in sorted({name[:6] for name in e}):
+        f=scan(mean_curve(e,'electron',True,tree),reference)
+        leaveout[tree]=dict(best=f[0],known_1507_rank=next(i+1 for i,v in enumerate(f) if v['end_year']==1507))
+    out=dict(source_ids=['S74','S77','S78'],inputs={k:dict(name=v[0],sha256=v[2]) for k,v in INPUTS.items()},
+        method='Unclipped P2 on each series, annual arithmetic means, positive Pearson t ranking; see script docstring.',
+        publication_replication=False,prospective_test=False,macblo_series=len(m),electron_series=len(e),
+        variants=variants,leave_one_electron_tree_label_out=leaveout,
+        limitations='Published internal ring assignments and reference dating are accepted inputs. Grouping uses first six Electron or five MacBlo label characters, not authenticated specimen independence. P2 is a declared alternative, not the unknown article settings or P2YrsL. No multiple-search significance or independent calendar validation. Missing/zero-sum pairs excluded; no imputation.')
+    (ROOT/'analysis/electron-macblo-comparison.json').write_text(json.dumps(out,indent=2)+'\n',encoding='utf-8')
+    print(json.dumps(dict(variants=variants,leaveout_best_years={k:v['best']['end_year'] for k,v in leaveout.items()},macblo_series=len(m)),indent=2))
