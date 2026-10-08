@@ -1,0 +1,870 @@
+{
+  "source_ids": [
+    "S77",
+    "S79",
+    "S80"
+  ],
+  "supplement_sha256": "160329ac32f2ce9af0b739d54658e1afe63fc5054c72db28754492cf0693918a",
+  "locator": "Supplement Table S2, PDF page 8, visually inspected",
+  "measurements": [
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155589",
+      "assigned_year": 768,
+      "fraction_modern": 0.8512,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1290,
+      "age_error": 20,
+      "delta14C": -17.84,
+      "upper_bound": -15.647,
+      "lower_bound": -20.032
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155858",
+      "assigned_year": 769,
+      "fraction_modern": 0.8511,
+      "fraction_modern_error": 0.0017,
+      "age_BP": 1300,
+      "age_error": 15,
+      "delta14C": -18.074,
+      "upper_bound": -16.112,
+      "lower_bound": -20.035
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155859",
+      "assigned_year": 770,
+      "fraction_modern": 0.8492,
+      "fraction_modern_error": 0.0017,
+      "age_BP": 1310,
+      "age_error": 15,
+      "delta14C": -20.384,
+      "upper_bound": -18.423,
+      "lower_bound": -22.345
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155860",
+      "assigned_year": 771,
+      "fraction_modern": 0.8472,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1330,
+      "age_error": 15,
+      "delta14C": -22.81,
+      "upper_bound": -20.734,
+      "lower_bound": -24.886
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155588",
+      "assigned_year": 772,
+      "fraction_modern": 0.8463,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1340,
+      "age_error": 15,
+      "delta14C": -23.966,
+      "upper_bound": -21.89,
+      "lower_bound": -26.042
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155861",
+      "assigned_year": 773,
+      "fraction_modern": 0.8489,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1320,
+      "age_error": 15,
+      "delta14C": -21.086,
+      "upper_bound": -19.01,
+      "lower_bound": -23.161
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155862",
+      "assigned_year": 774,
+      "fraction_modern": 0.8462,
+      "fraction_modern_error": 0.0017,
+      "age_BP": 1340,
+      "age_error": 15,
+      "delta14C": -24.317,
+      "upper_bound": -22.357,
+      "lower_bound": -26.277
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155863",
+      "assigned_year": 775,
+      "fraction_modern": 0.8553,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1260,
+      "age_error": 15,
+      "delta14C": -13.944,
+      "upper_bound": -11.869,
+      "lower_bound": -16.019
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155864",
+      "assigned_year": 776,
+      "fraction_modern": 0.8595,
+      "fraction_modern_error": 0.0017,
+      "age_BP": 1220,
+      "age_error": 15,
+      "delta14C": -9.222,
+      "upper_bound": -7.262,
+      "lower_bound": -11.182
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155587",
+      "assigned_year": 777,
+      "fraction_modern": 0.8667,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1150,
+      "age_error": 15,
+      "delta14C": -1.043,
+      "upper_bound": 1.032,
+      "lower_bound": -3.118
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155865",
+      "assigned_year": 778,
+      "fraction_modern": 0.8641,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1170,
+      "age_error": 15,
+      "delta14C": -4.16,
+      "upper_bound": -2.086,
+      "lower_bound": -6.235
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155883",
+      "assigned_year": 779,
+      "fraction_modern": 0.8602,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1210,
+      "age_error": 15,
+      "delta14C": -8.775,
+      "upper_bound": -6.701,
+      "lower_bound": -10.849
+    },
+    {
+      "site": "Lake WA",
+      "lab_id": "OS-155586",
+      "assigned_year": 780,
+      "fraction_modern": 0.8624,
+      "fraction_modern_error": 0.0021,
+      "age_BP": 1190,
+      "age_error": 20,
+      "delta14C": -6.36,
+      "upper_bound": -3.94,
+      "lower_bound": -8.779
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156925",
+      "assigned_year": 770,
+      "fraction_modern": 0.8479,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1330,
+      "age_error": 20,
+      "delta14C": -22.002,
+      "upper_bound": -19.811,
+      "lower_bound": -24.194
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156934",
+      "assigned_year": 771,
+      "fraction_modern": 0.852,
+      "fraction_modern_error": 0.0017,
+      "age_BP": 1290,
+      "age_error": 15,
+      "delta14C": -17.392,
+      "upper_bound": -15.432,
+      "lower_bound": -19.353
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156935",
+      "assigned_year": 772,
+      "fraction_modern": 0.8526,
+      "fraction_modern_error": 0.002,
+      "age_BP": 1280,
+      "age_error": 20,
+      "delta14C": -16.819,
+      "upper_bound": -14.513,
+      "lower_bound": -19.125
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156936",
+      "assigned_year": 773,
+      "fraction_modern": 0.8503,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1300,
+      "age_error": 15,
+      "delta14C": -19.59,
+      "upper_bound": -17.515,
+      "lower_bound": -21.665
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156947",
+      "assigned_year": 774,
+      "fraction_modern": 0.8475,
+      "fraction_modern_error": 0.0024,
+      "age_BP": 1330,
+      "age_error": 25,
+      "delta14C": -22.937,
+      "upper_bound": -20.17,
+      "lower_bound": -25.703
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156948",
+      "assigned_year": 775,
+      "fraction_modern": 0.8564,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1250,
+      "age_error": 20,
+      "delta14C": -12.795,
+      "upper_bound": -10.605,
+      "lower_bound": -14.986
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156949",
+      "assigned_year": 776,
+      "fraction_modern": 0.8615,
+      "fraction_modern_error": 0.002,
+      "age_BP": 1200,
+      "age_error": 20,
+      "delta14C": -7.037,
+      "upper_bound": -4.731,
+      "lower_bound": -9.342
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156950",
+      "assigned_year": 777,
+      "fraction_modern": 0.8662,
+      "fraction_modern_error": 0.0026,
+      "age_BP": 1150,
+      "age_error": 25,
+      "delta14C": -1.74,
+      "upper_bound": 1.256,
+      "lower_bound": -4.737
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156951",
+      "assigned_year": 778,
+      "fraction_modern": 0.862,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1190,
+      "age_error": 20,
+      "delta14C": -6.701,
+      "upper_bound": -4.511,
+      "lower_bound": -8.89
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-156952",
+      "assigned_year": 779,
+      "fraction_modern": 0.8637,
+      "fraction_modern_error": 0.0022,
+      "age_BP": 1180,
+      "age_error": 20,
+      "delta14C": -4.862,
+      "upper_bound": -2.327,
+      "lower_bound": -7.397
+    },
+    {
+      "site": "Hamma",
+      "lab_id": "OS-157010",
+      "assigned_year": 780,
+      "fraction_modern": 0.8569,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1240,
+      "age_error": 15,
+      "delta14C": -12.816,
+      "upper_bound": -10.743,
+      "lower_bound": -14.89
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162338",
+      "assigned_year": 770,
+      "fraction_modern": 0.8514,
+      "fraction_modern_error": 0.0021,
+      "age_BP": 1290,
+      "age_error": 20,
+      "delta14C": -17.965,
+      "upper_bound": -15.543,
+      "lower_bound": -20.388
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162339",
+      "assigned_year": 771,
+      "fraction_modern": 0.8513,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1290,
+      "age_error": 20,
+      "delta14C": -18.199,
+      "upper_bound": -16.008,
+      "lower_bound": -20.391
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162340",
+      "assigned_year": 772,
+      "fraction_modern": 0.8477,
+      "fraction_modern_error": 0.0018,
+      "age_BP": 1330,
+      "age_error": 20,
+      "delta14C": -22.47,
+      "upper_bound": -20.394,
+      "lower_bound": -24.545
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162341",
+      "assigned_year": 773,
+      "fraction_modern": 0.8498,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1310,
+      "age_error": 20,
+      "delta14C": -20.166,
+      "upper_bound": -17.976,
+      "lower_bound": -22.357
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162342",
+      "assigned_year": 774,
+      "fraction_modern": 0.8449,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1350,
+      "age_error": 20,
+      "delta14C": -25.934,
+      "upper_bound": -23.744,
+      "lower_bound": -28.125
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162343",
+      "assigned_year": 775,
+      "fraction_modern": 0.8521,
+      "fraction_modern_error": 0.0026,
+      "age_BP": 1290,
+      "age_error": 25,
+      "delta14C": -17.752,
+      "upper_bound": -14.755,
+      "lower_bound": -20.749
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162344",
+      "assigned_year": 776,
+      "fraction_modern": 0.8571,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1240,
+      "age_error": 20,
+      "delta14C": -12.108,
+      "upper_bound": -9.918,
+      "lower_bound": -14.298
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162360",
+      "assigned_year": 777,
+      "fraction_modern": 0.8635,
+      "fraction_modern_error": 0.0015,
+      "age_BP": 1180,
+      "age_error": 15,
+      "delta14C": -4.852,
+      "upper_bound": -3.123,
+      "lower_bound": -6.58
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162361",
+      "assigned_year": 778,
+      "fraction_modern": 0.8639,
+      "fraction_modern_error": 0.0017,
+      "age_BP": 1180,
+      "age_error": 15,
+      "delta14C": -4.511,
+      "upper_bound": -2.552,
+      "lower_bound": -6.47
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162362",
+      "assigned_year": 779,
+      "fraction_modern": 0.8622,
+      "fraction_modern_error": 0.0016,
+      "age_BP": 1190,
+      "age_error": 15,
+      "delta14C": -6.59,
+      "upper_bound": -4.747,
+      "lower_bound": -8.434
+    },
+    {
+      "site": "Price",
+      "lab_id": "OS-162363",
+      "assigned_year": 780,
+      "fraction_modern": 0.8621,
+      "fraction_modern_error": 0.0019,
+      "age_BP": 1190,
+      "age_error": 20,
+      "delta14C": -6.826,
+      "upper_bound": -4.637,
+      "lower_bound": -9.015
+    }
+  ],
+  "annual_changes": {
+    "Lake WA": {
+      "maximum_delta14C_increase": {
+        "from_year": 774,
+        "to_year": 775,
+        "delta14C_increase": 10.373,
+        "fraction_modern_increase": 0.0091
+      },
+      "all_changes": [
+        {
+          "from_year": 768,
+          "to_year": 769,
+          "delta14C_increase": -0.234,
+          "fraction_modern_increase": -0.0001
+        },
+        {
+          "from_year": 769,
+          "to_year": 770,
+          "delta14C_increase": -2.31,
+          "fraction_modern_increase": -0.0019
+        },
+        {
+          "from_year": 770,
+          "to_year": 771,
+          "delta14C_increase": -2.426,
+          "fraction_modern_increase": -0.002
+        },
+        {
+          "from_year": 771,
+          "to_year": 772,
+          "delta14C_increase": -1.156,
+          "fraction_modern_increase": -0.0009
+        },
+        {
+          "from_year": 772,
+          "to_year": 773,
+          "delta14C_increase": 2.88,
+          "fraction_modern_increase": 0.0026
+        },
+        {
+          "from_year": 773,
+          "to_year": 774,
+          "delta14C_increase": -3.231,
+          "fraction_modern_increase": -0.0027
+        },
+        {
+          "from_year": 774,
+          "to_year": 775,
+          "delta14C_increase": 10.373,
+          "fraction_modern_increase": 0.0091
+        },
+        {
+          "from_year": 775,
+          "to_year": 776,
+          "delta14C_increase": 4.722,
+          "fraction_modern_increase": 0.0042
+        },
+        {
+          "from_year": 776,
+          "to_year": 777,
+          "delta14C_increase": 8.179,
+          "fraction_modern_increase": 0.0072
+        },
+        {
+          "from_year": 777,
+          "to_year": 778,
+          "delta14C_increase": -3.117,
+          "fraction_modern_increase": -0.0026
+        },
+        {
+          "from_year": 778,
+          "to_year": 779,
+          "delta14C_increase": -4.615,
+          "fraction_modern_increase": -0.0039
+        },
+        {
+          "from_year": 779,
+          "to_year": 780,
+          "delta14C_increase": 2.415,
+          "fraction_modern_increase": 0.0022
+        }
+      ]
+    },
+    "Hamma": {
+      "maximum_delta14C_increase": {
+        "from_year": 774,
+        "to_year": 775,
+        "delta14C_increase": 10.142,
+        "fraction_modern_increase": 0.0089
+      },
+      "all_changes": [
+        {
+          "from_year": 770,
+          "to_year": 771,
+          "delta14C_increase": 4.61,
+          "fraction_modern_increase": 0.0041
+        },
+        {
+          "from_year": 771,
+          "to_year": 772,
+          "delta14C_increase": 0.573,
+          "fraction_modern_increase": 0.0006
+        },
+        {
+          "from_year": 772,
+          "to_year": 773,
+          "delta14C_increase": -2.771,
+          "fraction_modern_increase": -0.0023
+        },
+        {
+          "from_year": 773,
+          "to_year": 774,
+          "delta14C_increase": -3.347,
+          "fraction_modern_increase": -0.0028
+        },
+        {
+          "from_year": 774,
+          "to_year": 775,
+          "delta14C_increase": 10.142,
+          "fraction_modern_increase": 0.0089
+        },
+        {
+          "from_year": 775,
+          "to_year": 776,
+          "delta14C_increase": 5.758,
+          "fraction_modern_increase": 0.0051
+        },
+        {
+          "from_year": 776,
+          "to_year": 777,
+          "delta14C_increase": 5.297,
+          "fraction_modern_increase": 0.0047
+        },
+        {
+          "from_year": 777,
+          "to_year": 778,
+          "delta14C_increase": -4.961,
+          "fraction_modern_increase": -0.0042
+        },
+        {
+          "from_year": 778,
+          "to_year": 779,
+          "delta14C_increase": 1.839,
+          "fraction_modern_increase": 0.0017
+        },
+        {
+          "from_year": 779,
+          "to_year": 780,
+          "delta14C_increase": -7.954,
+          "fraction_modern_increase": -0.0068
+        }
+      ]
+    },
+    "Price": {
+      "maximum_delta14C_increase": {
+        "from_year": 774,
+        "to_year": 775,
+        "delta14C_increase": 8.182,
+        "fraction_modern_increase": 0.0072
+      },
+      "all_changes": [
+        {
+          "from_year": 770,
+          "to_year": 771,
+          "delta14C_increase": -0.234,
+          "fraction_modern_increase": -0.0001
+        },
+        {
+          "from_year": 771,
+          "to_year": 772,
+          "delta14C_increase": -4.271,
+          "fraction_modern_increase": -0.0036
+        },
+        {
+          "from_year": 772,
+          "to_year": 773,
+          "delta14C_increase": 2.304,
+          "fraction_modern_increase": 0.0021
+        },
+        {
+          "from_year": 773,
+          "to_year": 774,
+          "delta14C_increase": -5.768,
+          "fraction_modern_increase": -0.0049
+        },
+        {
+          "from_year": 774,
+          "to_year": 775,
+          "delta14C_increase": 8.182,
+          "fraction_modern_increase": 0.0072
+        },
+        {
+          "from_year": 775,
+          "to_year": 776,
+          "delta14C_increase": 5.644,
+          "fraction_modern_increase": 0.005
+        },
+        {
+          "from_year": 776,
+          "to_year": 777,
+          "delta14C_increase": 7.256,
+          "fraction_modern_increase": 0.0064
+        },
+        {
+          "from_year": 777,
+          "to_year": 778,
+          "delta14C_increase": 0.341,
+          "fraction_modern_increase": 0.0004
+        },
+        {
+          "from_year": 778,
+          "to_year": 779,
+          "delta14C_increase": -2.079,
+          "fraction_modern_increase": -0.0017
+        },
+        {
+          "from_year": 779,
+          "to_year": 780,
+          "delta14C_increase": -0.236,
+          "fraction_modern_increase": -0.0001
+        }
+      ]
+    }
+  },
+  "reference_spans": [
+    {
+      "series": "MAC01_raw",
+      "first": 1256,
+      "last": 1990,
+      "observations": 735,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC02A_raw",
+      "first": 1049,
+      "last": 1990,
+      "observations": 942,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC02B_raw",
+      "first": 746,
+      "last": 1088,
+      "observations": 343,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC03_raw",
+      "first": 1405,
+      "last": 1990,
+      "observations": 586,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC04A_raw",
+      "first": 1442,
+      "last": 1990,
+      "observations": 549,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC04B_raw",
+      "first": 949,
+      "last": 1454,
+      "observations": 506,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC05A_raw",
+      "first": 832,
+      "last": 1967,
+      "observations": 1136,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC06A_raw",
+      "first": 1342,
+      "last": 1990,
+      "observations": 649,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC06B_raw",
+      "first": 950,
+      "last": 1399,
+      "observations": 450,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC07A_raw",
+      "first": 1211,
+      "last": 1990,
+      "observations": 780,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC07B_raw",
+      "first": 935,
+      "last": 1267,
+      "observations": 333,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC08A_raw",
+      "first": 1368,
+      "last": 1990,
+      "observations": 623,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC08B_raw",
+      "first": 1037,
+      "last": 1484,
+      "observations": 448,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC09A_raw",
+      "first": 1551,
+      "last": 1910,
+      "observations": 360,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC09B_raw",
+      "first": 1047,
+      "last": 1574,
+      "observations": 528,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC10A_raw",
+      "first": 1497,
+      "last": 1990,
+      "observations": 494,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC10B_raw",
+      "first": 1372,
+      "last": 1511,
+      "observations": 140,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC11A_raw",
+      "first": 1557,
+      "last": 1986,
+      "observations": 430,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC11B_raw",
+      "first": 1429,
+      "last": 1577,
+      "observations": 149,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC12A_raw",
+      "first": 1480,
+      "last": 1990,
+      "observations": 511,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC12B_raw",
+      "first": 1362,
+      "last": 1559,
+      "observations": 198,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC13A_raw",
+      "first": 934,
+      "last": 1359,
+      "observations": 426,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC13B_raw",
+      "first": 806,
+      "last": 1967,
+      "observations": 1162,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC14A_raw",
+      "first": 806,
+      "last": 1182,
+      "observations": 377,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC14B_raw",
+      "first": 715,
+      "last": 1011,
+      "observations": 297,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC15A_raw",
+      "first": 806,
+      "last": 1116,
+      "observations": 311,
+      "internal_missing": 0
+    },
+    {
+      "series": "MAC15B_raw",
+      "first": 772,
+      "last": 1069,
+      "observations": 298,
+      "internal_missing": 0
+    }
+  ],
+  "reference_series_ending_1990": [
+    "MAC01_raw",
+    "MAC02A_raw",
+    "MAC03_raw",
+    "MAC04A_raw",
+    "MAC06A_raw",
+    "MAC07A_raw",
+    "MAC08A_raw",
+    "MAC10A_raw",
+    "MAC12A_raw"
+  ],
+  "reference_series_spanning_1507_through_1990": [
+    "MAC01_raw",
+    "MAC02A_raw",
+    "MAC03_raw",
+    "MAC04A_raw",
+    "MAC06A_raw",
+    "MAC07A_raw",
+    "MAC08A_raw",
+    "MAC10A_raw",
+    "MAC12A_raw"
+  ],
+  "independent_calendar_reproduction": false,
+  "limitations": "Years are published crossdates, not inferred blindly here. Pulse measurements are from earthquake-killed wood, not MacBlo or Electron. Lab IDs identify assays, not separate trees. Adjacent changes share measurements; no independent-error significance inferred. Reference endpoints do not authenticate bark or collection dates."
+}

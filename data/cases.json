@@ -1181,6 +1181,11 @@
           "source_id": "S78",
           "locator": "Normalization formulas; analysis/electron-normalization-sensitivity.json",
           "statement": "P2, Hollstein and Baillie/Pilcher alternatives retain 1507 as the strongest match, including all 108 single Electron/MacBlo label-group omissions; related retrospective sensitivity checks, not independent validations."
+        },
+        {
+          "source_id": "S79",
+          "locator": "MacBlo methods; linked S80 Table S2 audited in data/macblo-anchor-audit.json",
+          "statement": "Reference provenance traced to reported 1991 collection and later remeasurement; radiocarbon pulse check uses linked earthquake-killed wood, not direct Electron samples."
         }
       ],
       "physical_evidence": "Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.",

@@ -1319,6 +1319,36 @@
       "inspected": "P2Yrs, Hollstein and Baillie/Pilcher formulas and normalization caveats.",
       "limitations": "Documentation does not establish the Electron paper settings. Three explicit alternative transforms implemented; no exact-paper replication.",
       "sha256": null
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S79",
+      "title": "A multifault earthquake threat for the Seattle metropolitan region revealed by mass tree mortality",
+      "url": "https://doi.org/10.1126/sciadv.adh4973",
+      "creator": "Bryan A. Black et al.",
+      "publication_date": "2023-09-27",
+      "source_type": "Original research article",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "MacBlo methods and radiocarbon results in Europe PMC fullTextXML; PMC browser page challenged, alternate public API succeeded.",
+      "limitations": "Collection logs and wood not inspected; reported chronology anchoring is not independently replicated. Article CAN382 versus linked NOAA CAN682 discrepancy retained.",
+      "sha256": "eaff39a195d42a456e240c65db755c6e6fb0327ee727d6916a2b7562b7a34047"
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S80",
+      "title": "Supplementary materials for Black et al. 2023 multifault earthquake study",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10530078/supplementaryFiles",
+      "creator": "Bryan A. Black et al.",
+      "publication_date": "2023-09-27",
+      "source_type": "Original research supplement",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Table S2 on PDF page 8 rendered and visually inspected; 35 assay rows extracted. Other pages only located by text.",
+      "limitations": "Published crossdated years accepted as labels; no new blind dating. Assays are from earthquake-killed wood, not the MacBlo reference or Electron trees.",
+      "sha256": "160329ac32f2ce9af0b739d54658e1afe63fc5054c72db28754492cf0693918a"
     }
   ]
 }

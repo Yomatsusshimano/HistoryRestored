@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - MacBlo anchoring chain and pulse measurements
+
+Previous turn made progress: 870d814 published nine byte-verified files. Clean checkout confirmed. Europe PMC public XML and supplementary ZIP recovered after browser PMC challenge; no challenge bypass used. S79 methods trace reference collection and remeasurement; code discrepancy retained. Rendered S80 Table S2 and extracted 35 identified assays. Reproduced largest adjacent rise at assigned 774–775 for each of three earthquake-tree site series. Nine archived reference series span 1507–1990. These source and arithmetic checks do not authenticate physical cores or independently date the pulse. Added S79/S80 and explicit dependency-chain report; no new case promotion.
+
 ## 2026-10-08 - Electron normalization and reference sensitivity
 
 Previous turn made progress: 6184781 published ten byte-verified files. Clean checkout confirmed. Extended the hash-pinned loader with two documented formulas and reusable imports. Original P2 JSON is unchanged after rerun. Formula fixtures and separate Pearson implementation checks passed. All three transforms favor 1507, and all 108 single-group omission runs across 21 Electron and 15 MacBlo label groups retain it. Preserved changing runner-up results. This supports alignment stability for tested choices, not calendar authentication, exact-paper replication, prospective prediction or search-adjusted significance. No new source count; 20 drafts, 78 sources.
