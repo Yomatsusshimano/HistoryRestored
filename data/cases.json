@@ -45,6 +45,11 @@
           "source_id": "S88",
           "locator": "CS1/PDF1 and S0.0/PDF77",
           "statement": "Plan set names three parcels, a nine-foot west-side street appropriation under Ordinance 1106/court case 7094, and geotechnical report 9061-013-01; original instruments and soil logs remain uninspected."
+        },
+        {
+          "source_id": "S88",
+          "locator": "Survey PDF12–14",
+          "statement": "Modern survey identifies NAVD 88 and city benchmarks SNV-5133/SNV-779, plus building-to-parcel mapping; historical grade conversion and sediment thickness remain unknown."
         }
       ],
       "physical_evidence": "No site visit or sediment sample. S87 pp.26–27 condition photographs visually inspected: brick surfaces, metal supports/decking and patched areas beneath sidewalks. Material ages and surrounding stratigraphy remain unknown.",
@@ -70,7 +75,7 @@
         "Original plans",
         "Boreholes",
         "Material dates",
-        "Vertical datum"
+        "Historical grade datum and conversion to modern NAVD 88"
       ],
       "dependence": "Same city as C002, but a different project; do not merge dates or count city-level narratives as independent global observations."
     },

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Grand Central survey datum and parcel crosswalk
+
+Previous turn made progress: 4034281 published seven byte-verified files; clean checkout confirmed. Located survey sheets at S88 PDF12–14, rendered them and enlarged benchmark block. Recorded NAVD 88, SNV-5133 26.28 ft and SNV-779 17.60 ft as reported benchmarks, not sediment depths. Extracted and located building/parcel labels. Preserved survey date/revision and duplicate monochrome/color-sheet dependence. Rendering emitted missing-font warnings, but selected benchmark block was legible; no full drawing-transcription completeness claimed. Exact geotechnical-report searches still found plan references rather than the report itself. Updated C001 missing-data description; no new source count or historical elevation inferred.
+
 ## 2026-10-08 - Grand Central parcel and geotechnical identifiers
 
 Previous turn made progress: de1b9f4 published seven byte-verified files; clean checkout confirmed. Retrieved 116-page permit plan set and hash-pinned it. Inspected cover CS1 with enlarged legal-description crop and structural sheet S0.0 (PDF77). Recovered permit and parcel identifiers, a specific ordinance/court reference for a horizontal nine-foot strip, and the geotechnical report identifier/date. No measured subsurface section recovered. Preserved distinction between modern recitation and original instrument, and between design values and deposition evidence. Poppler text executable was unavailable; pypdf extraction and Poppler rendering worked. Added S88.

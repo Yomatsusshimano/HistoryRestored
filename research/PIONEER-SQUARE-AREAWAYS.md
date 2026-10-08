@@ -48,3 +48,11 @@ These are unresolved tests formulated after inspecting this block, not preregist
 The [renovation plan set (S88)](https://www.seattle.gov/Documents/Departments/Neighborhoods/HistoricPreservation/HistoricDistricts/PioneerSquare/MeetingDocuments/Grand_Central_plan.pdf) identifies permit **6714121-CN** and parcels **524780-0380, -0385 and -0390**. Cover sheet CS1/PDF1 was visually checked. Its legal descriptions cite Maynard's Block 7 and removal of the western nine-foot strip for street purposes under **Ordinance 1106 and District Court case 7094**. This is horizontal width, not burial depth. The modern recital is a retrieval lead; the original judgment and ordinance, including their dates, remain unchecked.
 
 Structural sheet S0.0/PDF77 names **GeoEngineers report 9061-013-01, March 30, 2020**, for Grand Central Block renovation. It contains foundation design requirements and directs field determination of actual elevations. Those specifications cannot substitute for borehole descriptions or dated strata. The report and underlying logs are the next acquisition targets. The 116-page PDF was only partly inspected; it is a design set, not proof of completed work.
+
+## Modern survey reference recovered
+
+S88 PDF12–14 reproduces Bush, Roed & Hitchings survey 2019062.00, dated May 1, 2019 and revised March 17, 2020. The rendered benchmark block identifies **NAVD 88**, with city benchmarks **SNV-5133 at 26.28 feet** near First/Jackson and **SNV-779 at 17.60 feet** near First/King. These are reported reference elevations, not measured fill thicknesses; their current field condition was not checked. The monochrome and color plans repeat the same survey.
+
+The plan labels resolve the building/parcel crosswalk: Buttnick, 202 First Avenue S, is 524780-0380; City Loan, 206 First Avenue S, is 524780-0385; Grand Central, 216 First Avenue S, is 524780-0390. Those identifiers can now constrain historical permit searches.
+
+A historical grade must be tied to its own datum and converted before comparison with this survey. Neither an old grade surface nor that conversion has been recovered. Modern basement-to-sidewalk separation would measure present geometry, not automatically the thickness or age of deposited sediment. Some underground utility locations derive from records; they are not independent excavated sections.

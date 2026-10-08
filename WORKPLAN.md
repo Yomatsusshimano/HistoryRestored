@@ -74,3 +74,5 @@ Grand Central Block selected for a parcel-specific C001 follow-up: 2020 briefing
 Grand Central feature chronology: S87 fire-escape history and south-entry infill documented separately. Original map-sheet and permit checks remain open; do not transfer facade alteration dates to basement enclosure.
 
 Grand Central parcel/subsurface leads: permit 6714121-CN links three listed parcels; CS1 cites Ordinance 1106/court case 7094 for horizontal street widening. Retrieve GeoEngineers report 9061-013-01 dated March 30, 2020 for actual subsurface observations; design criteria are not burial measurements.
+
+Grand Central survey audit: NAVD 88, two city benchmarks and building/parcel crosswalk recovered from S88 survey sheets. Modern reference geometry is now identified; historical grade datum/conversion and measured sediment thickness remain missing.

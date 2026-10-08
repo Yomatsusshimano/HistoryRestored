@@ -123,6 +123,50 @@
       "locator": "S0.0/PDF77",
       "report_retrieved": false
     },
-    "limits": "Parcel IDs are listed as a group; no one-to-one mapping inferred. Nine feet is horizontal property width, not vertical burial thickness. Foundation criteria do not substitute for measured stratigraphy."
+    "limits": "Parcel mapping now supplied separately by survey PDF13. Nine feet is horizontal property width, not vertical burial thickness. Foundation criteria do not substitute for measured stratigraphy."
+  },
+  "survey": {
+    "source_id": "S88",
+    "locator": "PDF12–14; boundary and topographic survey sheets 1–2",
+    "author": "Bush, Roed & Hitchings, Inc.",
+    "job": "2019062.00",
+    "sheet_original_date": "2019-05-01",
+    "revision_date": "2020-03-17",
+    "vertical_datum": "NAVD 88",
+    "horizontal_datum_as_printed": "NAD-2011 epoch 2010.00",
+    "benchmarks": [
+      {
+        "identifier": "SNV-5133",
+        "elevation_ft": 26.28,
+        "description": "2-inch brass cap",
+        "location": "Intersection of backs of concrete walks, SE quadrant of 1st Avenue South and S Jackson Street"
+      },
+      {
+        "identifier": "SNV-779",
+        "elevation_ft": 17.6,
+        "description": "2-inch aluminum cap",
+        "location": "SE corner of 1st Avenue South and S King Street; detailed offsets on survey sheet"
+      }
+    ],
+    "building_parcel_crosswalk": [
+      {
+        "building": "Buttnick",
+        "address": "202 1st Avenue S",
+        "parcel": "524780-0380"
+      },
+      {
+        "building": "City Loan",
+        "address": "206 1st Avenue S",
+        "parcel": "524780-0385"
+      },
+      {
+        "building": "Grand Central",
+        "address": "216 1st Avenue S",
+        "parcel": "524780-0390"
+      }
+    ],
+    "historical_grade_surface": null,
+    "historical_to_NAVD88_conversion": null,
+    "limits": "Survey reports benchmarks; no new field verification. Benchmark heights are not fill thickness. Monochrome/color plan repetitions are one survey, not independent observations. Underground utility depiction includes record-derived locations."
   }
 }

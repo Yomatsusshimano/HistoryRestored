@@ -42,6 +42,7 @@ Place: Pioneer Square, Seattle, Washington. Status: SOURCED_DRAFT.
 - Grand Central Block condition photographs show masonry and metal surfaces; briefing describes patches and proposes strengthening. Existing conditions and proposed work must be separated. [S87](https://www.seattle.gov/documents/departments/neighborhoods/historicpreservation/historicdistricts/pioneersquare/meetingdocuments/grand_central_block_board_briefing.pdf). Locator: PDF/printed pp.26–27. Access: SCAN_INSPECTED. Limit: 48-page proposal partly inspected. Photographs are not a site inspection; no original construction date, sediment log, completed repair or independent material identification established.
 - Briefing reports multiple fire-escape alterations and identifies masonry infill at entry S1; dates require original-record checks and cannot date the areaways. [S87](https://www.seattle.gov/documents/departments/neighborhoods/historicpreservation/historicdistricts/pioneersquare/meetingdocuments/grand_central_block_board_briefing.pdf). Locator: PDF/printed pp.39,41. Access: SCAN_INSPECTED. Limit: 48-page proposal partly inspected. Photographs are not a site inspection; no original construction date, sediment log, completed repair or independent material identification established.
 - Plan set names three parcels, a nine-foot west-side street appropriation under Ordinance 1106/court case 7094, and geotechnical report 9061-013-01; original instruments and soil logs remain uninspected. [S88](https://www.seattle.gov/Documents/Departments/Neighborhoods/HistoricPreservation/HistoricDistricts/PioneerSquare/MeetingDocuments/Grand_Central_plan.pdf). Locator: CS1/PDF1 and S0.0/PDF77. Access: SCAN_INSPECTED. Limit: 116-page set only partly inspected; plans are not as-built or original court records. Referenced geotechnical report and boring logs not acquired.
+- Modern survey identifies NAVD 88 and city benchmarks SNV-5133/SNV-779, plus building-to-parcel mapping; historical grade conversion and sediment thickness remain unknown. [S88](https://www.seattle.gov/Documents/Departments/Neighborhoods/HistoricPreservation/HistoricDistricts/PioneerSquare/MeetingDocuments/Grand_Central_plan.pdf). Locator: Survey PDF12–14. Access: SCAN_INSPECTED. Limit: 116-page set only partly inspected; plans are not as-built or original court records. Referenced geotechnical report and boring logs not acquired.
 
 **Physical evidence:** No site visit or sediment sample. S87 pp.26–27 condition photographs visually inspected: brick surfaces, metal supports/decking and patched areas beneath sidewalks. Material ages and surrounding stratigraphy remain unknown.
 
@@ -61,7 +62,7 @@ Place: Pioneer Square, Seattle, Washington. Status: SOURCED_DRAFT.
 
 **Chronology:** {"reported": "After the 1889 fire", "dated_object": "Street raising as reported in a modern account", "method": "Documentary report", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
-**Missing:** Original plans; Boreholes; Material dates; Vertical datum
+**Missing:** Original plans; Boreholes; Material dates; Historical grade datum and conversion to modern NAVD 88
 
 ## C002: Denny Hill regrade archival collection
 
