@@ -1,0 +1,156 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://edisondigital.rutgers.edu/iiif/2/N052105/manifest",
+    "@type": "sc:Manifest",
+    "label": "[N052105], Technical Note, Charles Batchelor, October 22nd, 1879",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[N052105], Technical Note, Charles Batchelor, October 22nd, 1879"
+        },
+        {
+            "label": "Editor's Notes",
+            "value": "the carbon thread lamp, then list of other carbonized substances tried"
+        },
+        {
+            "label": "Author",
+            "value": "Batchelor, Charles"
+        },
+        {
+            "label": "Date",
+            "value": "1879-10-22"
+        },
+        {
+            "label": "Type",
+            "value": "Technical Note"
+        },
+        {
+            "label": "Subject",
+            "value": [
+                "Carbon, coal, glass, ceramics",
+                "Incandescent lamp"
+            ]
+        },
+        {
+            "label": "Folder ID",
+            "value": "[N052-F] Notebook Series -- Menlo Park Notebooks"
+        },
+        {
+            "label": "Microfilm ID",
+            "value": "33:594"
+        },
+        {
+            "label": "Document ID",
+            "value": "N052105"
+        },
+        {
+            "label": "URL",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;edisondigital.rutgers.edu&#x2F;document&#x2F;N052105\">https://edisondigital.rutgers.edu/document/N052105</a>"
+        },
+        {
+            "label": "Rights",
+            "value": "Thomas Edison National Historical Park"
+        },
+        {
+            "label": "Publisher",
+            "value": "Thomas A. Edison Papers, School of Arts and Sciences, Rutgers University"
+        },
+        {
+            "label": "License",
+            "value": "CC0 1.0 Universal"
+        },
+        {
+            "label": "Timestamp",
+            "value": "22 October 1879"
+        },
+        {
+            "label": "Has Version",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;archive.org&#x2F;details&#x2F;edisonmicrofilm33&#x2F;page&#x2F;n604&#x2F;mode&#x2F;1up\">Archive.org Viewer, Microfilm Series Reel 33</a>"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://edisondigital.rutgers.edu/files/medium/N052105/bg0592.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 1088,
+        "height": 770
+    },
+    "viewingDirection": "left-to-right",
+    "attribution": "CC0 1.0 Universal",
+    "related": {
+        "@id": "https://edisondigital.rutgers.edu/document/N052105",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://edisondigital.rutgers.edu/api/items/104824",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://edisondigital.rutgers.edu/iiif/2/N052105/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "canvases": [
+                {
+                    "@id": "https://edisondigital.rutgers.edu/iiif/2/N052105/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://edisondigital.rutgers.edu/files/medium/N052105/bg0592.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1088,
+                        "height": 770
+                    },
+                    "width": 1088,
+                    "height": 770,
+                    "images": [
+                        {
+                            "@id": "https://edisondigital.rutgers.edu/iiif/2/N052105/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://edisondigital.rutgers.edu/files/original/N052105/bg0592.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1088,
+                                "height": 770
+                            },
+                            "on": "https://edisondigital.rutgers.edu/iiif/2/N052105/canvas/p1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://edisondigital.rutgers.edu/iiif/2/N052105/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "label": "2",
+                    "thumbnail": {
+                        "@id": "https://edisondigital.rutgers.edu/files/medium/N052105/bg0593.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1088,
+                        "height": 744
+                    },
+                    "width": 1088,
+                    "height": 744,
+                    "images": [
+                        {
+                            "@id": "https://edisondigital.rutgers.edu/iiif/2/N052105/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://edisondigital.rutgers.edu/files/original/N052105/bg0593.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1088,
+                                "height": 744
+                            },
+                            "on": "https://edisondigital.rutgers.edu/iiif/2/N052105/canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

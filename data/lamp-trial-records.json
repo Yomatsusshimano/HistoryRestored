@@ -1,0 +1,111 @@
+{
+  "case_id": "C007",
+  "status": "SOURCED_DRAFT",
+  "documents": [
+    {
+      "source_id": "S177",
+      "document_id": "N052105",
+      "microfilm_id": "33:594",
+      "manifest_url": "https://edisondigital.rutgers.edu/iiif/2/N052105/manifest",
+      "manifest_path": "sources/originals/N052105-manifest.json",
+      "manifest_sha256": "61cd1ce2d5afea81aa4bc313d0173ef5e697973329a16bd66d0547d21824d122",
+      "rights": "CC0 1.0 Universal displayed in archive manifest",
+      "images": [
+        {
+          "url": "https://edisondigital.rutgers.edu/files/original/N052105/bg0592.jpg",
+          "path": "sources/originals/N052105-bg0592.jpg",
+          "sha256": "26f0d42525fc2a91735263fbae0c73512c3952f9ed21a084de2a548364d3aa55",
+          "right_hand_manuscript_page": 105,
+          "visually_inspected": true
+        },
+        {
+          "url": "https://edisondigital.rutgers.edu/files/original/N052105/bg0593.jpg",
+          "path": "sources/originals/N052105-bg0593.jpg",
+          "sha256": "fb679d0934bb05d1c0d6c7b8c99ce3d80d63cd0195eea0ef2902fb7e9a126b76",
+          "right_hand_manuscript_page": 107,
+          "visually_inspected": true
+        }
+      ]
+    },
+    {
+      "source_id": "S178",
+      "document_id": "N052111",
+      "microfilm_id": "33:596",
+      "manifest_url": "https://edisondigital.rutgers.edu/iiif/2/N052111/manifest",
+      "manifest_path": "sources/originals/N052111-manifest.json",
+      "manifest_sha256": "41083da286e5e97b3863b55ce669251595594f1081a8ad5ff18018320bcddcca",
+      "rights": "CC0 1.0 Universal displayed in archive manifest",
+      "images": [
+        {
+          "url": "https://edisondigital.rutgers.edu/files/original/N052111/bg0594.jpg",
+          "path": "sources/originals/N052111-bg0594.jpg",
+          "sha256": "e5395a0caa41b13b734edc7914a3957c02823e4455a1784a51f873c5ab1e42ad",
+          "right_hand_manuscript_page": 111,
+          "visually_inspected": true
+        },
+        {
+          "url": "https://edisondigital.rutgers.edu/files/original/N052111/bg0595.jpg",
+          "path": "sources/originals/N052111-bg0595.jpg",
+          "sha256": "e2aded27eb8608939a1bc9edf94376dc29b4719e28a41d5062fea4e1d1d93487",
+          "right_hand_manuscript_page": 113,
+          "visually_inspected": true
+        },
+        {
+          "url": "https://edisondigital.rutgers.edu/files/original/N052111/bg0596.jpg",
+          "path": "sources/originals/N052111-bg0596.jpg",
+          "sha256": "1d874fa81ed0e104cdecd6c2ab758a8ffc8404b768b88ba6fd1f9d0c70a4fb62",
+          "right_hand_manuscript_page": 115,
+          "visually_inspected": true
+        }
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "source_id": "S177",
+      "locator": "p.105; No.9",
+      "material": "carbonized cotton thread attached to platinum wires",
+      "light_reported": {
+        "value": 0.5,
+        "unit": "candle",
+        "approximate": true
+      },
+      "battery_cells": 18,
+      "resistance_initial_ohm": 113,
+      "resistance_later_ohm": 140,
+      "measurement_uncertainty": null,
+      "voltage": null,
+      "current": null,
+      "vacuum_pressure": null,
+      "interpretation": "Vibration suggested by writer, not verified."
+    },
+    {
+      "source_id": "S178",
+      "locator": "pp.111/115; No.9",
+      "clock_start": "01:30",
+      "clock_end_first_stage": "15:00",
+      "first_stage_hours_reported": 13.5,
+      "increased_output_hours_reported": 1,
+      "increased_output": "three gas jets",
+      "failure_report": "glass cracked and lamp failed",
+      "calendar_day_resolved": null,
+      "calculated_total_hours": 14.5,
+      "limit": "Two operating stages; not constant-output rated life or independent timing."
+    },
+    {
+      "source_id": "S178",
+      "locator": "p.115; No.11",
+      "reported_outcome": "All of numerous examples treated by boiling in tar broke during carbonization",
+      "sample_count": null,
+      "failure_rate": null
+    }
+  ],
+  "date_resolution": {
+    "manuscript_p105": "1879-10-22",
+    "manuscript_p111": "1879-10-21",
+    "editorial_preferred_date_for_later_portion": "1879-10-22",
+    "editorial_source": "S179 p.449 note 9",
+    "independently_verified_date": null
+  },
+  "dependence": "Two items in the same notebook; edited transcription is derivative. No independent experimental replication."
+}

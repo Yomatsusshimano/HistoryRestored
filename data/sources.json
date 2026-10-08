@@ -2861,6 +2861,48 @@
       "local_copy": "sources/originals/US227229.pdf",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S177",
+      "title": "N052105: carbon lamp experimental notes",
+      "url": "https://edisondigital.rutgers.edu/document/N052105",
+      "creator": "Charles Batchelor (manuscript and archive attribution); Thomas A. Edison Papers digital edition",
+      "publication_date": "1879-10-22",
+      "source_type": "contemporary experimental notebook facsimile",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All 2 item images visually inspected; right-hand pages 105,107. Manifest and images preserved with hashes in data/lamp-trial-records.json.",
+      "limitations": "Participant account, not independent replication or physical authentication. No instrument calibration, electrical input or vacuum pressure recovered. Page 111 date differs from p.105; editorial correction kept separate. Selected notebook items only.",
+      "local_copy": "sources/originals/N052105-bg0592.jpg",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S178",
+      "title": "N052111: carbon lamp experimental notes",
+      "url": "https://edisondigital.rutgers.edu/document/N052111",
+      "creator": "Charles Batchelor (manuscript and archive attribution); Thomas A. Edison Papers digital edition",
+      "publication_date": "1879-10-21",
+      "source_type": "contemporary experimental notebook facsimile",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All 3 item images visually inspected; right-hand pages 111,113,115. Manifest and images preserved with hashes in data/lamp-trial-records.json.",
+      "limitations": "Participant account, not independent replication or physical authentication. No instrument calibration, electrical input or vacuum pressure recovered. Page 111 date differs from p.105; editorial correction kept separate. Selected notebook items only.",
+      "local_copy": "sources/originals/N052111-bg0594.jpg",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S179",
+      "title": "Edited notebook Document 1831: Electric Lighting, October 22, 1879",
+      "url": "https://edison.rutgers.edu/images/archive/innovations/TAEBdocs/Doc1831_EL_10-22-79_linked.pdf",
+      "creator": "Thomas A. Edison Papers editors, Rutgers University",
+      "publication_date": null,
+      "source_type": "scholarly edited notebook transcription and commentary",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Selected text of three-page edited document; PDF p.3 (printed p.449) visually inspected, especially note 9 on the October 21 heading. Local retrieval SHA256 f92275420bd9efa29d65fb8d26ea10a353a34b6dc647fe2e1b2f028a74eaedbd.",
+      "limitations": "Derivative of original notebook, not independent testimony. Editorial dating is an interpretation. Upton notebook excerpts and apparatus drawings do not substitute for inspecting their original contexts. Publication date not established from this extract.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

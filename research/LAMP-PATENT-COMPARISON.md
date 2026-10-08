@@ -40,7 +40,7 @@ No original Woodward-to-Edison transaction has been inspected. A purchase, if do
 
 The broad idea of an enclosed incandescent carbon lamp was disclosed before this Edison patent. A narrative crediting Edison with every aspect of electric light is too broad for these records. Conversely, treating the two disclosures as identical erases differences that could matter technically. Neither inventor's patent establishes who first achieved every relevant function or whether the described lamp met a specified commercial performance threshold.
 
-The next audit should compare original assignment instruments, dated notebooks, other inventors' disclosures, fabrication methods and measured lifetime/power data. Indexed Rutgers notebook-document PDFs for October 21-22, 1879 returned 404 when opened; they remain unreviewed leads, not supporting notebook evidence.
+The next audit should compare original assignment instruments, dated notebooks, other inventors' disclosures, fabrication methods and measured lifetime/power data. Indexed Rutgers notebook-document PDFs initially returned 404. The follow-up [carbon trial audit](LAMP-TRIAL-RECORDS.md) recovers original notebook images and a relocated edited PDF, preserving measured-result limits and the October 21/22 discrepancy.
 
 ## Surviving objects: a test beyond patent wording
 
