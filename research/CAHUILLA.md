@@ -47,3 +47,7 @@ The one common model-failure sample is Sb3m2A-c; the authors suggest a root, rat
 The reported age-order exclusions are 120 of 284 stratigraphically controlled dates (about 42.3%), or 120 of all 423 compiled dates (about 28.4%). The denominator matters. Neither figure estimates failure of radiocarbon dating in general; inherited material may correctly date growth that precedes deposition.
 
 The [NTU repository](https://hdl.handle.net/10356/155815) lists one file in its ORIGINAL bundle, the main paper. Publisher-page access returned 403; a candidate supplementary ZIP endpoint returned not found. The complete supplement and OxCal code remain unretrieved. Arithmetic reconciliation does not reproduce the age model or justify its sample exclusions. The next step is the original supplementary membership/context ledger and model code, followed by sensitivity to growth assumptions and historical constraints.
+
+## Marine-environment comparison
+
+The [Bouse comparison and geographical test](CALIFORNIA-MARINE-TEST.md) now preserves competing marine/lake interpretations of older deposits. Environment, historical timing and a through-going channel are separate requirements; neither freshwater Cahuilla nor a possible ancient inlet alone settles the island-map question.

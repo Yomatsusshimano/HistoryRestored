@@ -816,3 +816,7 @@ Previous turn made verified public progress; current tree clean. Inspected live 
 ### 2026-10-08 — Invention inference and cross-case reconciliation
 
 Previous turn published verified progress; current tree clean. Reconciled S175-S182 notebook findings with H5/H7 and cross-case assessment. Added explicit retrospective comparisons, dependencies and evidence that would change each conclusion. Preserved development/borrowing coexistence, scoped named contributions, unresolved transfer instruments and absence of an authenticated ancient antecedent. Updated public entry points. No new source, review, prospective success, prevalence estimate or completion claim.
+
+### 2026-10-08 — Marine evidence and channel connectivity
+
+Previous turn published verified synthesis; current tree clean. Read Cahuilla/map/route audits. USGS warehouse and publisher full-page requests returned 403; agency publication summaries accessible. Read complete S183 abstract. Downloaded university-hosted Bright 2016, hashed it and visually inspected printed pp.81-84 including map and specimen plate; added S184 with selected scope. Recorded the environmental dispute and shared-outcrop dependence. Added environment/time/connectivity test and linked C005/C017. No georeferenced route, calibrated chronology, uplift fit or validated historical strait claimed.

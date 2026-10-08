@@ -51,3 +51,7 @@ The [volume and Picolo report audit](KINO-TEXT.md) now verifies the printed 1705
 ## Subsequent route-account check
 
 The [Kino route audit](KINO-ROUTE.md) now records selected dated passages in Bolton's 1919 translation, including reported crossing, latitude and sighting observations. This advances beyond the earlier narrative-access limit; manuscript comparison, geolocation and independent corroboration remain open.
+
+## Marine-environment comparison
+
+The [Bouse comparison and geographical test](CALIFORNIA-MARINE-TEST.md) now preserves competing marine/lake interpretations of older deposits. Environment, historical timing and a through-going channel are separate requirements; neither freshwater Cahuilla nor a possible ancient inlet alone settles the island-map question.

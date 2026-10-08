@@ -403,6 +403,16 @@
           "source_id": "S43",
           "locator": "Saved response headers and 25 hourly rows, Gregorian 1702-Mar-03 00:00 through Mar-04 00:00 UT",
           "statement": "Modern geocentric apparent solar declinations range from -7.07571 to -6.69282 degrees in the sampled window, differing from the reported -6.5 degrees. Unknown historical uncertainty prevents a statistical compatibility decision."
+        },
+        {
+          "source_id": "S183",
+          "locator": "USGS abstract",
+          "statement": "Published Bouse marine interpretation concerns geological deposits; it does not establish the historical-map period or a through-going Pacific connection."
+        },
+        {
+          "source_id": "S184",
+          "locator": "pp.81-84, Figures 1-2",
+          "statement": "A competing interpretation examines the same Hart Mine Wash outcrop. Environmental disagreement must be resolved separately from chronology and channel connectivity."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected.",
@@ -414,7 +424,7 @@
         "A former waterway if independently evidenced"
       ],
       "counterevidence": "The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.",
-      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy.",
+      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: recover Bouse sample/context ledger and separately specify a georeferenced map-implied route before testing connectivity.",
       "chronology": {
         "reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.",
         "dated_object": "Catalog/exhibition map dates",
@@ -430,7 +440,7 @@
         "Original source-map and survey lineage",
         "Ground-truth deposits"
       ],
-      "dependence": "Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines. Kino scan agrees with the attributed panel on selected features; direct copying versus an intermediate source remains unresolved. S39 supplies participant testimony through later translation; its 1702 events postdate the map title's discovery period."
+      "dependence": "Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines. Kino scan agrees with the attributed panel on selected features; direct copying versus an intermediate source remains unresolved. S39 supplies participant testimony through later translation; its 1702 events postdate the map title's discovery period. S183/S184 address overlapping outcrop evidence with competing interpretations, not independent regional confirmations."
     },
     {
       "id": "C006",
@@ -1395,6 +1405,16 @@
           "source_id": "S42",
           "locator": "Sections 3.4-3.5",
           "statement": "Published screening counts reconcile to 151 and 149 model dates; model assumptions and sparse sampling affect exclusions. Supplementary membership and code remain unreviewed."
+        },
+        {
+          "source_id": "S183",
+          "locator": "USGS abstract",
+          "statement": "Published Bouse marine interpretation concerns geological deposits; it does not establish the historical-map period or a through-going Pacific connection."
+        },
+        {
+          "source_id": "S184",
+          "locator": "pp.81-84, Figures 1-2",
+          "statement": "A competing interpretation examines the same Hart Mine Wash outcrop. Environmental disagreement must be resolved separately from chronology and channel connectivity."
         }
       ],
       "physical_evidence": "Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.",
@@ -1407,7 +1427,7 @@
         "Reworking or incomplete preservation affecting individual beds and dates"
       ],
       "counterevidence": "Reported freshwater assemblages and alternating depositional environments challenge treating every aquatic deposit as one marine event; no defined strait/date hypothesis tested yet.",
-      "next_test": "Retrieve supplementary sample-context ledger and OxCal code, audit exclusion membership, and test sensitivity to growth-period assumptions and historical constraints.",
+      "next_test": "Retrieve supplementary sample-context ledger and OxCal code, audit exclusion membership, and test sensitivity to growth-period assumptions and historical constraints. Follow research/CALIFORNIA-MARINE-TEST.md: recover Bouse sample/context ledger and separately specify a georeferenced map-implied route before testing connectivity.",
       "chronology": {
         "reported": "1983 and 2022 chronologies differ; individual event windows not adopted in this initial source audit.",
         "dated_object": "Published sediment-associated organic and shell samples",
@@ -1423,7 +1443,7 @@
         "Independent chronology without tested historical constraints",
         "Specified marine-corridor geometry"
       ],
-      "dependence": "2022 synthesis incorporates earlier studies and historical accounts; its preferred ages cannot independently validate all inputs."
+      "dependence": "2022 synthesis incorporates earlier studies and historical accounts; its preferred ages cannot independently validate all inputs. S183/S184 address overlapping outcrop evidence with competing interpretations, not independent regional confirmations."
     },
     {
       "id": "C018",

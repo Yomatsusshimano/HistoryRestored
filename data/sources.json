@@ -2945,6 +2945,34 @@
       "local_copy": "sources/originals/N085169A-bi0856.jpg",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S183",
+      "title": "Evidence for a marine incursion along the lower Colorado River corridor",
+      "url": "https://www.usgs.gov/publications/evidence-a-marine-incursion-along-lower-colorado-river-corridor",
+      "creator": "Kristin McDougall and Adriana Yanet Miranda Martinez",
+      "publication_date": "2014",
+      "source_type": "original research abstract",
+      "access": "ABSTRACT",
+      "inspected": "Complete USGS-hosted abstract and metadata; DOI 10.1130/GES00975.1.",
+      "limitations": "Full article and original assemblage/age data not inspected. Marine-to-lacustrine interpretation is disputed; no historical-map association established."
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S184",
+      "title": "Did a catastrophic lake spillover integrate the late Miocene early Pliocene Colorado River and the Gulf of California?",
+      "url": "https://pages.uoregon.edu/rdorsey/Downloads/BrightEtal2016.pdf",
+      "creator": "Jordon Bright, Andrew S. Cohen, David L. Dettman, Philip A. Pearthree, Rebecca J. Dorsey and Mindy B. Homan",
+      "publication_date": "2016-03",
+      "source_type": "original research article",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Printed pp.81-84 visually inspected, including Figures 1-2; DOI 10.2110/palo.2015.035. Retrieved 11-page PDF SHA256 ee1a884ece5693349c5cc409e7d5baeea711ac4b7a2719057ea8151dea5a0c26.",
+      "limitations": "Selected introductory pages and figures only. Full methods, isotope tables, age controls and inferred transition duration not audited. Same outcrop comparison, not an independent region. No historical-map connection established."
     }
   ]
 }
