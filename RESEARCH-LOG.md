@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Thistle Creek horse context and dating dependence
+
+Previous turn made progress: cabecf2 published ten public-byte-verified files. Clean checkout rechecked. Searched specifically for Yukon horse specimen/context dating. Nature direct access failed; PMC returned a browser check and Europe PMC XML returned HTTP 500. Retrieved the original 2013 article from a public mirror; read relevant pp. 74-75 and visually checked Figure 1. Did not promote search-only 2011 assay identifiers into inspected measurements. No supplement or original dating assay review is claimed.
+
+Added C016/S33 and the dating-dependence note. A fossil age used to calibrate a genomic estimate cannot then receive independent confirmation from that estimate. The archive now contains sixteen sourced drafts and thirty-three sources. No new field observations or independent scientific reviews occurred. The full twenty-objective goal remains incomplete.
+
 ## 2026-10-08 - Coyote Canyon fossil and sediment dating comparison
 
 Previous turn made progress: 3e8918b published eleven verified public files. Clean checkout rechecked. Direct publisher/PDF access failed; an accessible publisher-provided ResearchGate full-text mirror supplied methods, Tables 1/3/4 and relevant results. No PDF/table visual check is claimed. Search also surfaced a later lizard study with differently presented uncertainties; that source is not used to replace the original 2021 values.

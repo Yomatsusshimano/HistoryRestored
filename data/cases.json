@@ -767,6 +767,48 @@
         "Complete sampling coordinates and time-reference audit"
       ],
       "dependence": "All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study."
+    },
+    {
+      "id": "C016",
+      "title": "Thistle Creek horse chronology and calibration dependence",
+      "category": "fossil context and chronology",
+      "place": "Thistle Creek, Yukon, Canada",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S33",
+          "locator": "pp. 74-75; Figure 1b",
+          "statement": "Reported fossil age is based on geological context; see research/THISTLE-CREEK.md."
+        }
+      ],
+      "physical_evidence": "Published metapodial and section; no specimen inspection.",
+      "surviving_documents": "Original research article, with earlier dating references.",
+      "source_interpretation": "Middle Pleistocene horse.",
+      "investigation_inference": "Geological and genomic age estimates are not independent when the former calibrates the latter.",
+      "competing_explanations": [
+        "Reported stratigraphic association",
+        "Reworking or incorrect association requiring site evidence"
+      ],
+      "counterevidence": "Reported context challenges a common death/burial episode with C015.",
+      "next_test": "Retrieve original field and dating documentation; distinguish bounds from finite measurements.",
+      "chronology": {
+        "reported": "Approximately 560-780 kyr BP",
+        "dated_object": "Fossil assigned through context",
+        "method": "Stratigraphic association",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "kyr BP as reported",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Original assays",
+        "Supplementary field documentation",
+        "Exact coordinates",
+        "Independent review"
+      ],
+      "dependence": "Fossil age constrains genomic divergence estimates."
     }
   ]
 }

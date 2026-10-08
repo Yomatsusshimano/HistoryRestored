@@ -10,7 +10,7 @@
 | Odd maps | Original map scans, edition/copy lineages, survey notes, soundings, and proposed ground-truth transects |
 | Implausible building stories | A specified building, fabric survey, labor/material/transport budgets, contracts and progress evidence |
 | Arctic camels | Tables now audited in C003; resolve exposure/burial history and source discrepancies; exact specimen coordinates remain unavailable |
-| Horses | Site-specific fossil/ancient-DNA reports with specimen dates and transport/reworking checks |
+| Horses | C016 begins Thistle Creek context audit; original assays, specimen identifiers, exact coordinates and wider sampling remain needed |
 | Mammoths | Distinguish mainland and island populations, direct dates, and local extinction histories |
 | Sloths | C011 extracts nine Haitian bone dates; audit preparation and later redating, extend continental/island coverage and depositional context |
 | Muskoxen | C012 audits main-paper methods; retrieve supplement, reconcile counts and join specimen/sequence/date/locality metadata |

@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-15 sourced drafts; 0 independent scientific reviews.
+16 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -22,6 +22,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C013 | Old Crow Arctic hyena teeth in reworked river deposits |
 | C014 | Camp Century fossil plants and upper sediment luminescence |
 | C015 | Coyote Canyon mammoth and reworked camel comparison |
+| C016 | Thistle Creek horse chronology and calibration dependence |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -461,3 +462,31 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 **Chronology:** {"reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json", "dated_object": "Quartz-bearing sediment and previously reported bone material", "method": "OSL with Minimum Age Model; earlier radiocarbon reports", "raw_date": null, "uncertainty": null, "timescale": "OSL ka and calibrated radiocarbon ka BP retained separately", "event_association": "REPORTED_NOT_REVALIDATED"}
 
 **Missing:** Facsimile checks; Raw dose and bone-assay data; Independent taphonomic assessment; Complete sampling coordinates and time-reference audit
+
+## C016: Thistle Creek horse chronology and calibration dependence
+
+Place: Thistle Creek, Yukon, Canada. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Reported fossil age is based on geological context; see research/THISTLE-CREEK.md. [S33](https://doi.org/10.1038/nature12323). Locator: pp. 74-75; Figure 1b. Access: SCAN_INSPECTED. Limit: Original dating assays, supplement and raw genomes not audited. Geological age is also a genomic calibration input.
+
+**Physical evidence:** Published metapodial and section; no specimen inspection.
+
+**Surviving documents:** Original research article, with earlier dating references.
+
+**Source interpretation:** Middle Pleistocene horse.
+
+**Investigation inference:** Geological and genomic age estimates are not independent when the former calibrates the latter.
+
+**Counterevidence:** Reported context challenges a common death/burial episode with C015.
+
+**Next test:** Retrieve original field and dating documentation; distinguish bounds from finite measurements.
+
+**Dependence:** Fossil age constrains genomic divergence estimates.
+
+**Alternatives:** Reported stratigraphic association; Reworking or incorrect association requiring site evidence
+
+**Chronology:** {"reported": "Approximately 560-780 kyr BP", "dated_object": "Fossil assigned through context", "method": "Stratigraphic association", "raw_date": null, "uncertainty": null, "timescale": "kyr BP as reported", "event_association": "REPORTED_NOT_REVALIDATED"}
+
+**Missing:** Original assays; Supplementary field documentation; Exact coordinates; Independent review

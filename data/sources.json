@@ -596,6 +596,22 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "text_mirror": "https://www.researchgate.net/publication/353041154_Chronology_of_Missoula_Flood_Deposits_at_the_Coyote_Canyon_Mammoth_Site_Washington_State_USA"
+    },
+    {
+      "id": "S33",
+      "title": "Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse",
+      "url": "https://doi.org/10.1038/nature12323",
+      "doi": "10.1038/nature12323",
+      "creator": "Ludovic Orlando et al.",
+      "publication_date": "2013-06-26",
+      "source_type": "original genomic and fossil-context study",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Pages 74-75 text; Figure 1 on page 75 visually checked in article mirror.",
+      "limitations": "Original dating assays, supplement and raw genomes not audited. Geological age is also a genomic calibration input.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "article_mirror": "https://gwern.net/doc/genetics/selection/artificial/2013-orlando.pdf"
     }
   ]
 }
