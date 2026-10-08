@@ -1393,6 +1393,48 @@
         "Independent review"
       ],
       "dependence": "Later report uses MacBlo and earthquake-tree series already linked in C020 audit; repeated publication is not independent evidence."
+    },
+    {
+      "id": "C022",
+      "title": "Campo Laborde sloth: same-specimen chemical redating",
+      "category": "fossil chronology and contamination control",
+      "place": "Campo Laborde, Argentine Pampas",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S104",
+          "locator": "Table 1 and chronology/methods sections",
+          "statement": "One previously dated metacarpal was reprocessed; purified amino-acid fractions produced older ages than the original gelatin result, while separated fulvic acids contained more modern carbon."
+        }
+      ],
+      "physical_evidence": "Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination.",
+      "surviving_documents": "2019 article XML including Table 1; original laboratory records and supplement not inspected.",
+      "source_interpretation": "Humate contamination made earlier dates too young; revised chronology supports a Late Pleistocene archaeological event.",
+      "investigation_inference": "An identified same-bone redating supplies a concrete method-sensitive chronology revision. It cannot be transferred to Haitian sloths or establish a common flood.",
+      "competing_explanations": [
+        "Younger contaminant carbon affected earlier gelatin measurements",
+        "Other processing or measurement effects requiring raw quality records"
+      ],
+      "counterevidence": "Reported fractions distinguish a documented contamination mechanism from assuming any inconvenient fossil age is wrong. The corrected result remains specimen-specific.",
+      "next_test": "Inspect supplement S3-S4, background and known-age controls, and original assay records; independently evaluate archaeological association separately from dating.",
+      "chronology": {
+        "reported": "Original 9730 +/- 290 BP; selected redetermination 10655 +/- 35 BP; calendar ranges retained separately in data/campo-laborde-assays.json",
+        "dated_object": "Chemical fractions from FCS.CLA.154",
+        "method": "AMS radiocarbon, gelatin versus XAD-purified hydrolyzate and separated fulvic acids",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "Radiocarbon BP and published calibrated BP kept separate",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Supplementary quality-control tables",
+        "Original laboratory certificates",
+        "Independent processing replication",
+        "Independent archaeological/taphonomic association review"
+      ],
+      "dependence": "Replicate fractions share one bone and burial history. Historical age is restated by the 2019 article, not independently recovered from the 2007 assay report."
     }
   ]
 }

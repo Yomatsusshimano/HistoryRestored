@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-21 sourced drafts; 0 independent scientific reviews.
+22 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -28,6 +28,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C019 | Bonneville landslide and drowned Columbia River forest |
 | C020 | Electron Mudflow forest burial and reference chronology |
 | C021 | Heal Lake reference chronology disagreement |
+| C022 | Campo Laborde sloth: same-specimen chemical redating |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -709,3 +710,31 @@ Place: Heal Lake, southern Vancouver Island, British Columbia. Status: SOURCED_D
 **Chronology:** {"reported": "132-year disagreement in matched event placement", "dated_object": "Ring-pattern sequence relative to alternative references", "method": "Reported crossdating comparison", "raw_date": "Original widths not recovered; five prior radiocarbon rows retained separately", "uncertainty": "Offset is a reported discrepancy, not an adopted correction", "timescale": "Calendar CE, reported", "event_association": "REPORTED_NOT_REVALIDATED"}
 
 **Missing:** Exact raw series and version crosswalk; Original radiocarbon sheets and full calibrations; Replicated conflicting matches; Independent review
+
+## C022: Campo Laborde sloth: same-specimen chemical redating
+
+Place: Campo Laborde, Argentine Pampas. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- One previously dated metacarpal was reprocessed; purified amino-acid fractions produced older ages than the original gelatin result, while separated fulvic acids contained more modern carbon. [S104](https://doi.org/10.1126/sciadv.aau4546). Locator: Table 1 and chronology/methods sections. Access: FULL_TEXT_PORTION. Limit: XML text/table only; no table facsimile, supplement S3-S4, raw AMS certificates or independent laboratory replication inspected.
+
+**Physical evidence:** Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination.
+
+**Surviving documents:** 2019 article XML including Table 1; original laboratory records and supplement not inspected.
+
+**Source interpretation:** Humate contamination made earlier dates too young; revised chronology supports a Late Pleistocene archaeological event.
+
+**Investigation inference:** An identified same-bone redating supplies a concrete method-sensitive chronology revision. It cannot be transferred to Haitian sloths or establish a common flood.
+
+**Counterevidence:** Reported fractions distinguish a documented contamination mechanism from assuming any inconvenient fossil age is wrong. The corrected result remains specimen-specific.
+
+**Next test:** Inspect supplement S3-S4, background and known-age controls, and original assay records; independently evaluate archaeological association separately from dating.
+
+**Dependence:** Replicate fractions share one bone and burial history. Historical age is restated by the 2019 article, not independently recovered from the 2007 assay report.
+
+**Alternatives:** Younger contaminant carbon affected earlier gelatin measurements; Other processing or measurement effects requiring raw quality records
+
+**Chronology:** {"reported": "Original 9730 +/- 290 BP; selected redetermination 10655 +/- 35 BP; calendar ranges retained separately in data/campo-laborde-assays.json", "dated_object": "Chemical fractions from FCS.CLA.154", "method": "AMS radiocarbon, gelatin versus XAD-purified hydrolyzate and separated fulvic acids", "raw_date": null, "uncertainty": null, "timescale": "Radiocarbon BP and published calibrated BP kept separate", "event_association": "REPORTED_NOT_REVALIDATED"}
+
+**Missing:** Supplementary quality-control tables; Original laboratory certificates; Independent processing replication; Independent archaeological/taphonomic association review

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Sloth preparation audit and redating comparator
+
+Previous turn made progress: 589c828 published seven publicly byte-verified files; clean checkout confirmed. Reviewed existing Haitian quality audit before searching endpoint IDs and preparation/redating terms. No endpoint remeasurement recovered; 2005 PMC browser verification and Europe PMC HTTP 500 left original controls unresolved. Followed a distinct primary Campo Laborde redating lead through public Europe PMC XML. Added S104/C022, seven Table 1 fraction records and a report separating same-bone redating from event dating. Recorded selected-assay rationale without endorsing it; original certificates, supplement and independent reproduction remain open. No Haitian dates altered. Full goal remains active.
+
 ## 2026-10-08 - Sediment-chemistry citation audit
 
 Previous turn made progress: d87764f published seven publicly byte-verified files; clean checkout confirmed. Old NWSA PDF URL returned 404. Current association proceedings index supplied a working relocated PDF. Rendered and visually inspected S103 at printed p.74/PDF p.76; readable despite font warnings. It reports exploratory major-unit differentiation, with adjusted contacts and further event/lateral testing planned. It does not contain the 15 cm measurement attributed to it in S101; recorded the limit and page discrepancy without alleging error or fabrication. Added the source and a concrete proposed independent-contact validation design; no raw chemistry reproduction or prediction success claimed. Full goal remains active.

@@ -71,3 +71,7 @@ The author-uploaded [main-text mirror](https://www.researchgate.net/publication/
 No specimen-level collagen yield, C:N ratio, treatment protocol, blank or replicate result was recovered in the inspected text. This is a limit of this audit, not a finding that the laboratory did no such work. The supplementary material and original laboratory reports remain uninspected. The table's isotope values cannot stand in for those missing checks; their explicit units were not supplied in the inspected table and are not invented in the ledger.
 
 The interval calculations are unchanged. They remain conditional on published ages, not validated mortality inferences. Neither missing quality information nor a surprising age is sufficient reason to erase a measurement. The next decisive evidence is the specimen-specific laboratory record or a documented repeat assay, preserving the original result alongside any revision.
+
+## Identified redating comparator
+
+[Campo Laborde, C022](CAMPO-LABORDE.md) provides a separate same-specimen chemical-fraction redating example. It does not change any Haitian input. A fresh bounded search by endpoint lab IDs and preparation terms recovered no Haitian remeasurement; PMC main access returned browser verification and Europe PMC returned HTTP 500 for the 2005 full text. Those access failures supply no evidence about sample validity.

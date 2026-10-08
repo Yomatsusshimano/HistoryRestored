@@ -1,0 +1,77 @@
+{
+  "case_id": "C022",
+  "source_id": "S104",
+  "specimen": "FCS.CLA.154",
+  "element": "Megatherium americanum Metacarpal V",
+  "locator": "Table 1, publisher JATS XML",
+  "access": "FULL_TEXT_PORTION",
+  "assays": [
+    {
+      "lab_id": "AA-71665",
+      "chemical_fraction": "Gelatin",
+      "bone_processed_g": null,
+      "carbon_dated_micrograms": 22,
+      "fraction_modern_as_printed": "0.298 ± 0.011",
+      "radiocarbon_age_1SD_BP_as_printed": "9730 ± 290",
+      "calibrated_95_4_percent_BP_as_printed": "10,250–11,982"
+    },
+    {
+      "lab_id": "CAMS-171861",
+      "chemical_fraction": "XAD KOH-extracted decalcified collagen",
+      "bone_processed_g": 1.025,
+      "carbon_dated_micrograms": 40,
+      "fraction_modern_as_printed": "0.2642 ± 0.0122",
+      "radiocarbon_age_1SD_BP_as_printed": "10,690 ± 380",
+      "calibrated_95_4_percent_BP_as_printed": "11,304–13,207"
+    },
+    {
+      "lab_id": "CAMS-171873",
+      "chemical_fraction": "Fulvic acids eluted from CAMS-171861 XAD resin",
+      "bone_processed_g": null,
+      "carbon_dated_micrograms": 165,
+      "fraction_modern_as_printed": "0.3397 ± 0.0030",
+      "radiocarbon_age_1SD_BP_as_printed": "8670 ± 80",
+      "calibrated_95_4_percent_BP_as_printed": null
+    },
+    {
+      "lab_id": "CAMS-171851",
+      "chemical_fraction": "XAD decalcified collagen",
+      "bone_processed_g": 1.137,
+      "carbon_dated_micrograms": 90,
+      "fraction_modern_as_printed": "0.2684 ± 0.0056",
+      "radiocarbon_age_1SD_BP_as_printed": "10,570 ± 170",
+      "calibrated_95_4_percent_BP_as_printed": "11,924–12,732"
+    },
+    {
+      "lab_id": "CAMS-171875",
+      "chemical_fraction": "Fulvic acids eluted from CAMS-171851 XAD resin",
+      "bone_processed_g": null,
+      "carbon_dated_micrograms": 30,
+      "fraction_modern_as_printed": "0.2983 ± 0.0167",
+      "radiocarbon_age_1SD_BP_as_printed": "9720 ± 450",
+      "calibrated_95_4_percent_BP_as_printed": null
+    },
+    {
+      "lab_id": "CAMS-171852",
+      "chemical_fraction": "XAD KOH-extracted decalcified collagen",
+      "bone_processed_g": 3.058,
+      "carbon_dated_micrograms": 410,
+      "fraction_modern_as_printed": "0.2654 ± 0.0010",
+      "radiocarbon_age_1SD_BP_as_printed": "10,655 ± 35",
+      "calibrated_95_4_percent_BP_as_printed": "12,547–12,677"
+    },
+    {
+      "lab_id": "CAMS-171874",
+      "chemical_fraction": "Fulvic acids eluted from CAMS-171852 XAD resin",
+      "bone_processed_g": null,
+      "carbon_dated_micrograms": 165,
+      "fraction_modern_as_printed": "0.3335 ± 0.0021",
+      "radiocarbon_age_1SD_BP_as_printed": "8670 ± 80",
+      "calibrated_95_4_percent_BP_as_printed": null
+    }
+  ],
+  "authors_selected_lab_id": "CAMS-171852",
+  "authors_selection_reason": "Highest processed bone mass and lowest standard deviation",
+  "calibration_status": "Published ranges transcribed, not recalculated; Table 1 references SHCal13",
+  "limits": "Seven rows represent fractions or aliquots of one specimen, not seven animals or depositional events. Fulvic-acid apparent ages do not date separate organisms."
+}

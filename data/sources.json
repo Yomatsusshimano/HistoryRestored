@@ -1696,6 +1696,23 @@
       "downloaded_pdf_sha256": "6654a5b231b1e381e5939c251e8f7f8ee17a19b78f4f69aead3f117dba4631c9",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S104",
+      "title": "Campo Laborde: A Late Pleistocene giant ground sloth kill and butchering site in the Pampas",
+      "creator": "Gustavo G. Politis, Pablo G. Messineo, Thomas W. Stafford Jr. and Emily L. Lindsey",
+      "publication_date": "2019-03-06",
+      "url": "https://doi.org/10.1126/sciadv.aau4546",
+      "doi": "10.1126/sciadv.aau4546",
+      "source_type": "Original research; chemical-fraction redating",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Europe PMC JATS XML: chronology/results, Table 1 and chemical pretreatment methods.",
+      "limitations": "XML text/table only; no table facsimile, supplement S3-S4, raw AMS certificates or independent laboratory replication inspected.",
+      "local_copy": null,
+      "text_mirror": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6402857/fullTextXML",
+      "downloaded_xml_sha256": "dda186d634ea6bb5d85ab34802974d2acf694c25953bff5cb98451d8e0539c12",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
