@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Original ice-core workbooks recovered
+
+Previous turn made progress: 0b7e0d2 published ten publicly byte-verified files. Clean checkout confirmed. Publisher HTML retrieval succeeded through direct HTTP after browser-fetch failure; extracted actual supplementary links and downloaded Greenland/reconstruction workbooks. Read-only cell inspection recovered input availability and annual-series structure; no source workbook edited. Added S109-S110 and acquisition hashes. Combined concentration values do not themselves provide the binary event vector required for validation; preserved sentinel and calendar-boundary questions instead of inventing a threshold. README identifies TUNU synchronization dependence. Match counts and Monte Carlo remain unreproduced. Full goal remains active.
+
 ## 2026-10-08 - Historical validation supplement recovered
 
 Previous turn made progress: 1b36451 published seven publicly byte-verified files. Clean checkout confirmed. Nature landing-page access failed; WHOI supplied the 13-page historical supplement. Rendered and inspected pp.9-10 and 13 despite font warnings. Added S108 and 32 date/rank rows; individual match status remains null. Inclusive-window arithmetic reproduces five of six published denominators. Probable-only ±3 gives 172 summed years versus reported 155 (union 138), preserved as unresolved rather than corrected. Boundary/range/overlap tests check arithmetic only; match counts, simulation and significance remain unreproduced. Full goal remains active.

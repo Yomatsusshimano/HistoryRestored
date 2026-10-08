@@ -1,0 +1,197 @@
+{
+  "case_id": "C023",
+  "workbooks": [
+    {
+      "source_id": "S109",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM45_ESM.xlsx",
+      "sha256": "0d280cbb6149b07bd156db3d6659c7f49b7f5d95688f8d13c784c172d18b22e8",
+      "bytes": 9132600,
+      "sheets": [
+        {
+          "name": "README",
+          "max_row": 78,
+          "max_column": 15
+        },
+        {
+          "name": "1 - NEEM2011S1_layer_count",
+          "max_row": 41091,
+          "max_column": 17
+        },
+        {
+          "name": "2 - NEEMSC_layer_count",
+          "max_row": 11581,
+          "max_column": 10
+        },
+        {
+          "name": "3 - NEEM_CFA_layer_count",
+          "max_row": 11615,
+          "max_column": 7
+        },
+        {
+          "name": "4 - NEEM_2011_S1_annual_nssS",
+          "max_row": 2203,
+          "max_column": 7
+        },
+        {
+          "name": "5 - NEEMSC_annual_nssS and S",
+          "max_row": 823,
+          "max_column": 7
+        },
+        {
+          "name": "6 - NEEM_annual_combined",
+          "max_row": 2499,
+          "max_column": 5
+        },
+        {
+          "name": "7 - NEEM2011S1_monthly_nssS",
+          "max_row": 22929,
+          "max_column": 4
+        },
+        {
+          "name": "8 - NEEM_5cm_discreteBAS",
+          "max_row": 1299,
+          "max_column": 4
+        },
+        {
+          "name": "9 -Tunu2013_Volcanic_Tiepoints",
+          "max_row": 100,
+          "max_column": 4
+        },
+        {
+          "name": "10 - Tunu2013_annual_nssS",
+          "max_row": 1745,
+          "max_column": 4
+        },
+        {
+          "name": "11 - NGRIP_Volcanic_Tiepoints",
+          "max_row": 125,
+          "max_column": 9
+        },
+        {
+          "name": "12 - NGRIP_5cm_discrete",
+          "max_row": 7011,
+          "max_column": 4
+        }
+      ],
+      "combined_series": {
+        "sheet": "6 - NEEM_annual_combined",
+        "data_rows": 2498,
+        "first_year_label": 1998.5,
+        "last_year_label": -499.5,
+        "boundary_year_labels": [
+          1.5,
+          -0.5,
+          -1.5
+        ],
+        "flagged_combined_cells": [
+          {
+            "cell": "E1078",
+            "year_label": 922.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1152",
+            "year_label": 848.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1922",
+            "year_label": 78.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1923",
+            "year_label": 77.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1924",
+            "year_label": 76.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1951",
+            "year_label": 49.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1952",
+            "year_label": 48.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1953",
+            "year_label": 47.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1985",
+            "year_label": 15.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1986",
+            "year_label": 14.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1987",
+            "year_label": 13.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E1998",
+            "year_label": 2.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E2105",
+            "year_label": -105.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E2106",
+            "year_label": -106.5,
+            "value": -9.999
+          },
+          {
+            "cell": "E2107",
+            "year_label": -107.5,
+            "value": -9.999
+          }
+        ],
+        "limits": "-9.999 retained as observed sentinel, not zero. Exact year-label conversion and missing-value convention need verification before calendar joining. No binary volcanic-event classification in this sheet."
+      }
+    },
+    {
+      "source_id": "S110",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM47_ESM.xlsx",
+      "sha256": "7a056c2a630bbd16efa7eb936c457e04895edfb2067aa2771e44244961d78b23",
+      "bytes": 47697,
+      "sheets": [
+        {
+          "name": "README",
+          "max_row": 36,
+          "max_column": 1
+        },
+        {
+          "name": "1 - Volcanic_Forcing",
+          "max_row": 288,
+          "max_column": 11
+        },
+        {
+          "name": "2 - Volcanic_Forcing_Methods",
+          "max_row": 41,
+          "max_column": 13
+        },
+        {
+          "name": "3 - NEEM2011S1_Tephra",
+          "max_row": 58,
+          "max_column": 15
+        }
+      ]
+    }
+  ],
+  "status": "ACQUIRED_NOT_REPRODUCED",
+  "external_workbook_edits": false
+}

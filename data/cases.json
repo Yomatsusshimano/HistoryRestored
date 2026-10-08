@@ -1474,6 +1474,11 @@
           "source_id": "S108",
           "locator": "PDF pp.9-10,13",
           "statement": "Thirty-two historical date/rank rows and six aggregate matching summaries are available; individual ice-event assignments remain unverified."
+        },
+        {
+          "source_id": "S109",
+          "locator": "README and 6 - NEEM_annual_combined, A1:E2499",
+          "statement": "Workbook supplies processed layer-counting inputs and an annual combined sulfur record; its README describes TUNU dating as synchronization without annual-layer counting."
         }
       ],
       "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",
@@ -1485,7 +1490,7 @@
         "Marker association or tree-calendar error requiring independent tests"
       ],
       "counterevidence": "A published technical revision is not evidence of concealed historical fabrication. This case also prevents treating all older ice dates as immune to correction. Methods explicitly report unused validation evidence; this must not be dismissed as merely checking fitted anchors.",
-      "next_test": "Recover Supplementary Data 1-2, verify documentary selection and statistical null model, and reproduce the unused-marker checks.",
+      "next_test": "Trace event classification and calendar conventions in the recovered workbooks and supplementary guide before reconstructing the historical match test.",
       "chronology": {
         "reported": "See data/ice-core-anchor-audit.json",
         "dated_object": "Ice layers carrying isotope signals",
@@ -1496,7 +1501,8 @@
         "event_association": "REPORTED_NOT_REVALIDATED"
       },
       "missing": [
-        "Raw isotope measurements and annual-layer inputs",
+        "Exact binary volcanic-event vector and selection rule for historical validation",
+        "Calendar/sentinel convention verification",
         "Original historical and tephra validation records",
         "Validation and age-model reproduction",
         "Independent review"

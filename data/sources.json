@@ -1779,6 +1779,36 @@
       "downloaded_pdf_sha256": "0fdb51c5668c4b5bc0dcfcbb7d0e652a7909cc9f2619d1132fcc03e6966b2802",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S109",
+      "title": "Supplementary Data 3: Greenland ice-core data",
+      "creator": "Sigl and colleagues",
+      "publication_date": "2015",
+      "source_type": "Original research workbook",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM45_ESM.xlsx",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Workbook sheet inventory and headers; README. S109 combined annual sheet checked for endpoints, boundary labels and sentinel values. Other data not fully analyzed.",
+      "limitations": "Read-only cell extraction, not visual workbook review. Published processing and age models not reproduced. These workbooks are dependent on S107, not independent confirmations.",
+      "local_copy": null,
+      "downloaded_workbook_sha256": "0d280cbb6149b07bd156db3d6659c7f49b7f5d95688f8d13c784c172d18b22e8",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S110",
+      "title": "Supplementary Data 5: volcanic reconstruction and tephra data",
+      "creator": "Sigl and colleagues",
+      "publication_date": "2015",
+      "source_type": "Original research workbook",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM47_ESM.xlsx",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Workbook sheet inventory and headers; README. S109 combined annual sheet checked for endpoints, boundary labels and sentinel values. Other data not fully analyzed.",
+      "limitations": "Read-only cell extraction, not visual workbook review. Published processing and age models not reproduced. These workbooks are dependent on S107, not independent confirmations.",
+      "local_copy": null,
+      "downloaded_workbook_sha256": "7a056c2a630bbd16efa7eb936c457e04895edfb2067aa2771e44244961d78b23",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
