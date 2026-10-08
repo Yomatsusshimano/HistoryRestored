@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Mammoth exposure and burial sequence
+
+Previous turn made progress: 9d512a4 published nine publicly byte-verified files; clean checkout confirmed. Downloaded 2014 AMQUA proceedings and visually inspected pp.80-82; the dating trail still points to 2012 without individual assays. Followed its taphonomic citation to original 2013 NWSA abstract, rendered and inspected printed p.82/PDF p.91. Added S101-S102 and aggregate observations with missing specimen IDs, raw measurements and uncertainties explicit. Distinguished reported gnawing from inferred between-flood exposure and preserved pre-transport/re-exposure alternatives. Rendered page text was legible despite Poppler font warnings. No specimen examination, exposure duration, new radiocarbon assay or independent review claimed. Full goal remains active.
+
 ## 2026-10-08 - Camel pooling consistency check
 
 Previous turn made progress: e9587e4 published twelve publicly byte-verified files; clean checkout confirmed. Added S100 official method documentation and a reproducible conditional weighted-mean/chi-square calculation for the three S99 assays. Mean 20882.79 +/- 50.28 BP differs slightly from the reported combination; Q=8.66093, df=2, p=0.01316 flags heterogeneity under explicitly assumed independent one-sigma Gaussian errors. No assay removed, age recalibrated or contamination cause invented. Analytical-control tests cover known solution, permutation/translation, error scaling and invalid input. Searched the 2012 mammoth report by title, meeting, filename and lab identifier; old program URL https://www.cce.umn.edu/Documents/CPE-Conferences/2012AMQUAProgramAbstractsBook.pdf did not retrieve. Original mammoth measurements remain absent. Full goal remains active.

@@ -983,6 +983,16 @@
           "source_id": "S100",
           "locator": "Radiocarbon calibration, R_Combine Maths",
           "statement": "Documents the weighted-mean and chi-square method used for the conditional local pooling check, not an execution of the authors model."
+        },
+        {
+          "source_id": "S102",
+          "locator": "Printed p.82 / PDF p.91",
+          "statement": "Preliminary abstract reports gnawing on ten of eleven ribs; specimen IDs and raw mark measurements are absent."
+        },
+        {
+          "source_id": "S101",
+          "locator": "pp.80-82",
+          "statement": "Authors relate bone spread and nearby bed thickness to repeated burial and cite the gnawing report; this is dependent interpretation, not independent replication."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",
@@ -996,7 +1006,7 @@
         "Dating or context errors requiring laboratory and field checks"
       ],
       "counterevidence": "Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.",
-      "next_test": "Recover original mammoth assay report and camel laboratory quality records; check pooling and calibration; examine field logs to distinguish flood episodes from within-event beds.",
+      "next_test": "Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing.",
       "chronology": {
         "reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json",
         "dated_object": "Quartz-bearing sediment and previously reported bone material",

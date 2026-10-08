@@ -1651,6 +1651,36 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S101",
+      "title": "Mammuthus finds in former Lake Lewis of southeastern Washington",
+      "creator": "George V. Last and Bax R. Barton",
+      "publication_date": "2014",
+      "url": "https://depts.washington.edu/amqua14/amquafiles/AMQUA2014_Abstracts-Program.pdf",
+      "source_type": "Conference contribution",
+      "access": "SCAN_INSPECTED",
+      "inspected": "AMQUA proceedings printed/PDF pp.80-82; visually inspected complete contribution.",
+      "limitations": "Conference synthesis cites 2012 dates and earlier taphonomy. No original lab certificates or specimen-level field data; not an independent dating replication.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "f1d9f7355d7b99dff7f9fe953491f966526cc3e94d82eba960af144f849264f3",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S102",
+      "title": "Preliminary analysis of rodent and lagomorph gnaw marks on mammoth ribs from the Coyote Canyon Mammoth Site, Benton County, Washington",
+      "creator": "Samuel A. Wahl and Bax R. Barton",
+      "publication_date": "2013",
+      "url": "https://cascadiaprairieoak.org/wp-content/uploads/2013/12/Program-and-Abstracts-2013-NWSA-CPOP-Conference_final.pdf",
+      "source_type": "Conference contribution",
+      "access": "SCAN_INSPECTED",
+      "inspected": "NWSA proceedings printed p.82 / PDF p.91; visually inspected poster abstract.",
+      "limitations": "Preliminary abstract; no rib IDs, individual mark measurements, images, uncertainty or blind classification validation. Full poster and specimens uninspected.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "7b47cd29cdc932120315727b41474185fc9ac96d6d669f283c593b9eca454b98",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

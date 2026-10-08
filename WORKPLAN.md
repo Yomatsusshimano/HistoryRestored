@@ -92,3 +92,5 @@ Hyatt original/reissue comparison: US68332 recovered; 1867 drawing and text alre
 Coyote Canyon facsimile update: figures and OSL tables visually checked; sample coordinates/elevations recovered. Three camel assays recovered from original 2019 abstract. Audit pooling/quality controls and original mammoth report; drawn bed counts remain distinct from independently demonstrated flood counts.
 
 Coyote camel pooling check: printed assays fail a conditional independent Gaussian one-sigma homogeneity check (p=0.01316). Recover original error definitions, collagen controls and model settings before adopting the narrow pooled interval. Mammoth AMQUA 2012 program URL retrieval failed; individual results remain missing.
+
+Coyote taphonomy: original 2013 gnaw-mark abstract and 2014 burial interpretation inspected. Link ribs to bed positions and overprinting before assigning exposure between floods. The 2014 numerical interval repeats the missing 2012 source and does not resolve original assay provenance.

@@ -1,0 +1,48 @@
+{
+  "case_id": "C015",
+  "status": "SOURCED_DRAFT",
+  "observations": [
+    {
+      "source_id": "S102",
+      "locator": "Printed p.82 / PDF p.91",
+      "reported_ribs_examined": 11,
+      "reported_ribs_with_gnaw_marks": 10,
+      "reported_measurable_marks": 148,
+      "dominant_widths_mm": [
+        0.3,
+        0.5,
+        2.1
+      ],
+      "rib_ids": null,
+      "individual_measurements": null,
+      "measurement_uncertainties": null,
+      "authors_identification": "Rodent marks at 0.3/0.5 mm; grooved 2.1 mm marks attributed to lagomorphs",
+      "event_timing": "Unknown relative to first transport or deposition; no exposure duration measured"
+    },
+    {
+      "source_id": "S101",
+      "locator": "Printed/PDF p.81",
+      "reported_bone_vertical_spread_min_cm": 50,
+      "reported_flood_deposit_above_bones_approx_cm": 15,
+      "nearby_section_1_bed_thickness_range_cm": [
+        28,
+        46
+      ],
+      "authors_inference": "At least two floods needed for complete burial; gnawing supports exposure between deposition and final burial",
+      "limits": "No item-level field coordinates or crosscutting relations provided here. Thickness comparison assumes nearby beds represent thickness at the carcass."
+    }
+  ],
+  "inference": "Reported gnawing supports biological access to bone, conditional on diagnosis. It does not alone locate exposure between two floods or establish a minimum duration.",
+  "alternative_sequences": [
+    "Exposure before transport, followed by burial",
+    "Partial burial, exposure and later deposition",
+    "Burial followed by re-exposure or burrowing access"
+  ],
+  "discriminating_evidence_needed": [
+    "Rib identifiers linked to excavation coordinates and beds",
+    "Mark photographs and independent taxonomic/morphological review",
+    "Sediment infill and mark-overprint/crosscutting relationships",
+    "Field contacts connecting measured section 1 to bone positions"
+  ],
+  "dependence": "S101 cites S102; same site and overlapping research team. Neither adds an independent radiocarbon assay."
+}
