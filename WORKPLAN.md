@@ -477,3 +477,8 @@ Recovered NOAA wa129–wa133 via explicit USGS p96 locator:48 series, five files
 ### 2026-10-08 — Original Cascadia processing supplement
 
 S231 recovers1997 detrending, local-reference and multiple-placement methods, plus separate2006 QC. Preserve CP-790 fourth-rank exception, GR-777 nonsignificant width match/physical tracing distinction and radiocarbon-dependent bounds. Original fit settings/processed indices remain needed before claiming reproduction. All21 Long Island raw extents match later QC accounting; dates remain unreproduced.
+
+
+### 2026-10-08 — Cascadia alignment sensitivity executed
+
+Published four alternative-processing variants and per-series ranks/top alternatives. Original placements rank first for22/27 or24/27 dependent series; CPGF2 exceptions remain. Next original per-tree/local-master processing and root crosswalk. Do not convert diagnostic ranks into revised dates or independent-review status.

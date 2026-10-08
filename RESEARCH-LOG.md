@@ -1119,3 +1119,8 @@ Previous turn made verified public progress. Revalidated clean checkout and chro
 ### 2026-10-08 — Cascadia supplement and QC distinction
 
 Previous turn made verified public progress. Retrieved five official additional-information files after web-tool decoding failure; decoded locally with cp1252. Read complete supplementary methods/Tables S1–S2 and selected Long Island QC sections. Verified repeated supplement text identity and21 raw-series extents against2006 Part7, including aggregate counts. Published method/dependency audit; no new date or reproduced original statistical significance. Kept full supplemental text in ignored cache and linked originals. No outreach or independent-review claim.
+
+
+### 2026-10-08 — Cascadia alternative-processing diagnostic
+
+Previous turn made verified public progress. Revalidated clean checkout and recovered methods. Executed hash-checked log/width first-difference comparisons with two reference-weighting versions, full-overlap shift scans and two endpoint upper bounds. Retained all series and reported exceptions; added depth diagnostics after observing low-depth alternative matches without changing ranking/selection. Verified synthetic shift recovery, unit-scale invariance and published-position Pearson values against NumPy. These are retrospective analyst choices, not prospective predictions, original-method reproduction or independent dates. No new external sources or outreach.

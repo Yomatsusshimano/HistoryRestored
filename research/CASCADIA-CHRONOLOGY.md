@@ -143,3 +143,8 @@ Their multiple-placement probability uses P=1−(1−alpha)^m, with trunk endpoi
 The later Long Island QC uses a32-year spline,50-year segments and25-year offsets. It reports123 flagged segments out of359 (34.26%). Flag A denotes low correlation while retaining the best tested position; B denotes a stronger alternative position. Overlapping segments are dependent, and flags are not automatically wrong dates. The [accounting script](../analysis/audit_cascadia_processing.py) matches all21 series extents/counts to the recovered raw files and reproduces sums of9,067 measurements,359 segments and123 flags. [Results](../data/cascadia-processing-audit.json) preserve each row. This is a consistency check, not a COFECHA rerun or an independent dating result.
 
 Next recover original processing settings and indices, retain the stated local-reference dependencies, and compare alternate placements with explicit sensitivity to detrending and date bounds. The Ozette comparison remains an unreproduced check; its exact sample size was also unknown to the1997 authors. No chronology break or global event follows from this recovery.
+
+
+## Alternative-processing alignment diagnostic
+
+The [executed sensitivity audit](CASCADIA-ALIGNMENT-SENSITIVITY.md) tests every full-overlap integer shift for27 archived snag measurement series using log and width differences. Published placements rank first for22 and24 series respectively under both reference weightings and endpoint limits. Exceptions, sparse reference coverage and dependencies remain explicit. This supports relative-pattern agreement for many selected series, but neither reproduces the original processing nor independently verifies the reference calendar or final-root dates.

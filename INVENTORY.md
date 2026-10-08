@@ -165,7 +165,7 @@ Place: Washington estuaries in tree-ring study; Salmon River estuary, Oregon in 
 
 **Source interpretation:** The research summary attributes local sediment and subsidence to an earthquake and tsunami.
 
-**Investigation inference:** Seasonal tree-death evidence can test the proposed 1700 event, with dating dependencies and delayed mortality retained. An exact event day needs the separate historical and propagation analysis.
+**Investigation inference:** Seasonal tree-death evidence can test the proposed 1700 event, with dating dependencies and delayed mortality retained. An exact event day needs the separate historical and propagation analysis. Retrospective alternative-processing audit of S229 ranks published placements first for22/27 log-differenced and24/27 width-differenced series, under two reference weightings and endpoint upper bounds. These dependent-series counts are not independent dating probabilities; see research/CASCADIA-ALIGNMENT-SENSITIVITY.md. Original processing remains unreproduced.
 
 **Counterevidence:** The 1708 root date remains visible. Authors propose delayed death of a higher root; this archive has not independently tested that explanation. Regional evidence cannot establish global burial. Tanabe dawn-of-eighth wording is not a clean exact-time match; literal and harmonized readings are preserved separately.
 
