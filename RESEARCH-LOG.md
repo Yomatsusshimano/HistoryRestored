@@ -978,3 +978,8 @@ Previous turn made verified public progress; clean tree confirmed. USGS warehous
 ### 2026-10-08 — Wind Caves analytical traceability
 
 Previous turn only acknowledged the model switch and made no research progress. Revalidated the clean checkout and continued the available sample audit. Read original S210 workbook cells, preserved all57 stored ages, linked five selected rows to unique laboratory runs and reproduced mean4.559311Ma/two-sigma0.040564Ma/MSWD0.511264. Recovered Table4 NAD83 locality without inventing bed height. Published conditional age-transfer logic and remaining custody/structural/calibration limits. No raw isotope reduction, field verification or independent review claimed.
+
+
+### 2026-10-08 — Wind Caves measured-section link
+
+Previous turn made verified public progress. Clean checkout confirmed. Visually inspected S201 p21 Fig16, separating approximate magnetic-site height from exact analytical sample placement. Recovered and hashed S214 original paper; selected text identifies TableDR1 target. Search did not retrieve the supplement. No new bed age, coordinate cross-match, fault restoration or independent review claimed.

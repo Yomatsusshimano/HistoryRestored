@@ -336,3 +336,8 @@ S212 Comment body and S213 Reply introductory summary recovered; unequal access 
 ### 2026-10-08 — Wind Caves sample crosswalk
 
 04PW30 all57 stored ages preserved; five selected run matches, mean/error/MSWD and NAD83 location recovered. Next original section height/custody, structural comparison and full main paper/Reply; do not repeat selected-summary arithmetic as pending. This is a conditional maximum depositional age, not a minimum or exact sediment date.
+
+
+### 2026-10-08 — Wind Caves measured-section link
+
+04Pw30 magnetic-site height now approximately located from S201 Fig16; next S214 Repository2010211 TableDR1 coordinates/thickness and dated-sand custody. Do not treat label agreement as exact specimen identity or the GPTS label as a direct assay.

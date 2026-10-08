@@ -603,6 +603,16 @@
           "source_id": "S210",
           "locator": "Table2 summary66-73/data1211-1268; Table4 Sheet1 row6; research/WIND-CAVES.md",
           "statement": "04PW30 five selected ages cross-match unique runs among57 stored rows; weighted mean4.559311Ma, two-sigma0.040564Ma and MSWD0.511264 reproduce. NAD83 locality supplied, but measured bed height/custody and fault interpretation remain unverified; maximum depositional age is not an exact sediment date."
+        },
+        {
+          "source_id": "S201",
+          "locator": "p21 Fig16 visually inspected; research/WIND-CAVES.md",
+          "statement": "Paleomagnetic site04Pw30 plots near151m in the Wind Caves section within assigned Thvera normal polarity. Approximate graphical height is not verified dated-sand placement or custody."
+        },
+        {
+          "source_id": "S214",
+          "locator": "printed775/PDF5 supplement footnote",
+          "statement": "Original paper identifies Repository2010211 TableDR1 as the location/thickness/polarity record; table itself remains uninspected."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",
