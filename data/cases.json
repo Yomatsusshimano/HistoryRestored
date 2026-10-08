@@ -648,6 +648,11 @@
           "source_id": "S216",
           "locator": "Table2/printed57; research/COLORADO-BURIAL-DATING.md; data/colorado-burial-rows.json",
           "statement": "Four regional burial-age results use22 cobbles with5 exclusions. Table/prose differ for three ages;26Al-method versus27Al-column header discrepancy retained. Distinct measurement route, not yet reproduced or direct age of the Bouse target bed."
+        },
+        {
+          "source_id": "S216",
+          "locator": "printed56 equation5 and printed59 Figure4; research/COLORADO-BURIAL-DATING.md",
+          "statement": "Figure4 gives Palo Verde3.04±0.34Ma, differing from prose/table3.03±0.26. Literal printed equation yields negative ages for plotted slopes; decay-consistent reciprocal ratio gives positive nominal ages. Actual Bayesian and erosion-corrected calculations not reproduced."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

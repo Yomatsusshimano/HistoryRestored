@@ -373,3 +373,8 @@ Original regional map and thickness methods inspected: distinguish hand-measured
 ### 2026-10-08 — Regional burial-dating evidence
 
 New S216 burial-dating branch: publisher full PDF recovered, Table2 visually checked,22 rows/5 exclusions preserved. Next Figure4 and actual isochron/correction reproduction, table/prose reconciliation and sample burial histories. Existing structural-source access gap remains; no global blocker.
+
+
+### 2026-10-08 — Burial figure and equation audit
+
+Figure4 and equation5 visually inspected. Fourth age-summary discrepancy found at Palo Verde; printed sign/ratio order tested explicitly. Next original MATLAB/prior/correction inputs and full retained/excluded measurement fits. Do not treat back-calculated initial ratios as recovered physical inputs.

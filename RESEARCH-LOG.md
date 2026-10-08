@@ -1015,3 +1015,8 @@ Previous turn made verified public progress; clean checkout confirmed. Rechecked
 ### 2026-10-08 — Regional burial-dating evidence
 
 Previous turn made verified public progress; clean checkout confirmed. Pursued distinct burial measurements while structural paper unavailable. Crossref supplied working publisher PDF after DOI-web timeout. Inspected Table2 and selected methods; retained three differing age summaries and isotope-header discrepancy. Published22 rows including5 source exclusions. No regression, primary sample validation or independence of all assumptions claimed.
+
+
+### 2026-10-08 — Burial figure and equation audit
+
+Previous turn made verified public progress; clean checkout confirmed. Visually inspected original figure/method page. Recorded Palo Verde figure variant, preserved printed negative-age equation outcome and separate algebraically decay-consistent calculation. Published rounded-slope diagnostics without claiming reproduction of the uninspected Bayesian implementation. No new age, code-error attribution, independent validation or historical-event inference claimed.

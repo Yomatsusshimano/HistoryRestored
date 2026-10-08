@@ -26,3 +26,23 @@ The published million-year burial results, if their sample contexts and model ho
 The three table/prose differences are reproducibility issues, not demonstrated fraud or evidence for a young chronology. Neither version will be silently selected as the correct one. The source's exclusions also require explicit sensitivity analysis, especially where only three points remain. They must not disappear from the public record.
 
 Next trace Figure4 slopes, correction equations, concentration errors and covariance; reproduce both retained-sample fits and declared exclusion sensitivity; then evaluate each site's burial context. No regressions, original AMS validation, historical-age rejection probability or global-event model are claimed in this first audit.
+
+
+## Figure and equation check
+
+S216 printed56/PDF6 and Fig4 printed59/PDF9 were visually inspected. Figure4 agrees with the prose for Topock, Bat Cave and Santa Fe, but gives **Palo Verde3.04±0.34Ma**, versus3.03±0.26 in both table and prose. Thus all four sites now have a documented age-summary difference somewhere in the paper. The figure describes a Bayesian fit using100,000 simulations, retained points, propagated measurement/production uncertainty and an erosion-corrected initial ratio. Those implementation details have not been reproduced.
+
+Equation5 prints `t = tau ln(Rm/Rinh)`, with tau positive at approximately2.07Ma. Every plotted slope is below the stated nominal initial ratio6.75, so literal substitution gives a negative age. From `Rm = Rinh exp(-t/tau)`, algebra instead gives `t = tau ln(Rinh/Rm)`. This identifies a sign/ratio-order inconsistency in the printed equation, not proof that the unpublished calculation used the wrong sign.
+
+| Site | Figure slope | Literal printed equation, Ma | Decay-consistent nominal calculation, Ma |
+|---|---:|---:|---:|
+|Topock|2.39|−2.149|2.149|
+|Bat Cave|2.47|−2.081|2.081|
+|Santa Fe Railway|0.79|−4.441|4.441|
+|Palo Verde|1.63|−2.941|2.941|
+
+[The script](../analysis/check_burial_slope_ages.py) and [output](../data/burial-slope-age-check.json) preserve both calculations. These use rounded slopes, approximate tau and a fixed6.75 initial ratio; they intentionally do not pretend to reproduce the erosion correction or Bayesian fit. Their differences from reported ages must not be called failed reproductions of an algorithm that has not been recovered.
+
+For diagnosis only, solving the decay-consistent relation backward from the figure ages yields implied initial ratios6.656,6.650,6.523 and7.079 respectively. Those numbers are algebraically fitted to the published answers. They are not independent estimates of source erosion or validation of any correction. In particular, the Palo Verde value merits checking against the actual correction parameters rather than silently selecting a different age version to make it fit.
+
+The physically meaningful audit remains open: recover the MATLAB implementation, priors and post-burial/erosion corrections, reproduce Figure4 from the22 preserved measurements, then examine exclusion sensitivity and field histories. Documentation discrepancies narrow the reproducibility task; they do not by themselves establish a different burial time or historical catastrophe.

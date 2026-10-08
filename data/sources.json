@@ -3416,8 +3416,8 @@
       "publication_date": "2024-07-01 online; 2025 issue",
       "source_type": "original research article and analytical table",
       "access": "SCAN_INSPECTED",
-      "inspected": "Publisher13-page PDF recovered; Table2 printed57/PDF7 visually checked; abstract and selected methods/results pp55-57 text-read. All22 analytical rows and5 source exclusions extracted. research/COLORADO-BURIAL-DATING.md.",
-      "limitations": "Partial inspection only. Three table/prose age differences and27Al header retained. Isochron regression, corrections, covariance and site contexts not reproduced. Shared authors/mapping prevent treating this as wholly independent review.",
+      "inspected": "Publisher13-page PDF recovered; Table2 printed57/PDF7 visually checked; abstract and selected methods/results pp55-57 text-read. All22 analytical rows and5 source exclusions extracted. research/COLORADO-BURIAL-DATING.md. Follow-up: printed56 equation5/methods and printed59 Figure4 visually checked; all four plotted slopes/age versions and literal-equation sign checked. data/burial-slope-age-check.json.",
+      "limitations": "Partial inspection. Table/prose/figure differences now affect all four site summaries;27Al header and equation5 ratio/sign discrepancy retained. Authors MATLAB/Bayesian regression, corrections and covariance unreproduced; diagnostic back-calculated ratios are not validation. Site contexts remain unaudited.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"

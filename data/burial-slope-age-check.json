@@ -1,0 +1,51 @@
+{
+  "source_id": "S216",
+  "locator": "printed56 equation5; printed59 Figure4, both visually inspected",
+  "tau_Ma": 2.07,
+  "nominal_initial_ratio": 6.75,
+  "equation_as_printed": "t = tau * ln(R_measured/R_initial)",
+  "decay_consistent_equation": "t = tau * ln(R_initial/R_measured)",
+  "assumptions": "Approximate tau and rounded slopes; no erosion correction, fit, covariance or age-uncertainty reproduction.",
+  "sites": [
+    {
+      "site": "Topock",
+      "figure_slope": 2.39,
+      "figure_age_Ma": 2.12,
+      "figure_one_sigma_Ma": 0.26,
+      "literal_printed_equation_Ma": -2.1491757176079096,
+      "decay_consistent_nominal_age_Ma": 2.1491757176079096,
+      "implied_initial_ratio_for_figure_age": 6.655529116614728,
+      "interpretation": "Implied ratio is diagnostic back-calculation, not independently recovered correction."
+    },
+    {
+      "site": "Bat Cave",
+      "figure_slope": 2.47,
+      "figure_age_Ma": 2.05,
+      "figure_one_sigma_Ma": 0.31,
+      "literal_printed_equation_Ma": -2.0810214132862237,
+      "decay_consistent_nominal_age_Ma": 2.0810214132862237,
+      "implied_initial_ratio_for_figure_age": 6.649597422671244,
+      "interpretation": "Implied ratio is diagnostic back-calculation, not independently recovered correction."
+    },
+    {
+      "site": "Santa Fe Railway",
+      "figure_slope": 0.79,
+      "figure_age_Ma": 4.37,
+      "figure_one_sigma_Ma": 0.71,
+      "literal_printed_equation_Ma": -4.440698215499402,
+      "decay_consistent_nominal_age_Ma": 4.440698215499402,
+      "implied_initial_ratio_for_figure_age": 6.523354761541112,
+      "interpretation": "Implied ratio is diagnostic back-calculation, not independently recovered correction."
+    },
+    {
+      "site": "Palo Verde",
+      "figure_slope": 1.63,
+      "figure_age_Ma": 3.04,
+      "figure_one_sigma_Ma": 0.34,
+      "literal_printed_equation_Ma": -2.9413923544361387,
+      "decay_consistent_nominal_age_Ma": 2.9413923544361387,
+      "implied_initial_ratio_for_figure_age": 7.079328429633406,
+      "interpretation": "Implied ratio is diagnostic back-calculation, not independently recovered correction."
+    }
+  ]
+}
