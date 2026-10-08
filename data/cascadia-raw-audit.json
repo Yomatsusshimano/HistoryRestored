@@ -1,0 +1,575 @@
+{
+  "status": "FILE_STRUCTURE_AND_ASSIGNED_LABEL_AUDIT_NOT_CROSSDATING",
+  "units": "Scale inferred per series from NOAA treeinfo.txt terminal codes; no width conversion performed.",
+  "limits": "Series are not independent trees. Terminal trunk years are not death dates. Sentinels excluded; no dates independently established.",
+  "files": [
+    {
+      "file": "sources/originals/cascadia/wa129.rwl",
+      "series_count": 21,
+      "first_assigned_year": 991,
+      "last_assigned_year": 1986,
+      "series": [
+        {
+          "id": "LIDY701",
+          "start": 1323,
+          "end": 1986,
+          "count": 664,
+          "terminator": {
+            "line": 70,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI702O",
+          "start": 991,
+          "end": 1368,
+          "count": 378,
+          "terminator": {
+            "line": 108,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI745",
+          "start": 1408,
+          "end": 1933,
+          "count": 526,
+          "terminator": {
+            "line": 162,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI751",
+          "start": 1486,
+          "end": 1893,
+          "count": 408,
+          "terminator": {
+            "line": 204,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI752",
+          "start": 1680,
+          "end": 1986,
+          "count": 307,
+          "terminator": {
+            "line": 235,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI753",
+          "start": 1417,
+          "end": 1986,
+          "count": 570,
+          "terminator": {
+            "line": 293,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI754",
+          "start": 1452,
+          "end": 1986,
+          "count": 535,
+          "terminator": {
+            "line": 347,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI755",
+          "start": 1425,
+          "end": 1873,
+          "count": 449,
+          "terminator": {
+            "line": 393,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI756",
+          "start": 1424,
+          "end": 1923,
+          "count": 500,
+          "terminator": {
+            "line": 444,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI757",
+          "start": 1515,
+          "end": 1911,
+          "count": 397,
+          "terminator": {
+            "line": 485,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI758",
+          "start": 1419,
+          "end": 1922,
+          "count": 504,
+          "terminator": {
+            "line": 537,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI759",
+          "start": 1746,
+          "end": 1986,
+          "count": 241,
+          "terminator": {
+            "line": 562,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI760",
+          "start": 1722,
+          "end": 1986,
+          "count": 265,
+          "terminator": {
+            "line": 589,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI761",
+          "start": 1289,
+          "end": 1874,
+          "count": 586,
+          "terminator": {
+            "line": 649,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI762",
+          "start": 1411,
+          "end": 1756,
+          "count": 346,
+          "terminator": {
+            "line": 684,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI766I",
+          "start": 1350,
+          "end": 1582,
+          "count": 233,
+          "terminator": {
+            "line": 708,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI766O",
+          "start": 1515,
+          "end": 1986,
+          "count": 472,
+          "terminator": {
+            "line": 756,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI767I",
+          "start": 1036,
+          "end": 1535,
+          "count": 500,
+          "terminator": {
+            "line": 807,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI767O",
+          "start": 1544,
+          "end": 1917,
+          "count": 374,
+          "terminator": {
+            "line": 845,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LIDY768",
+          "start": 1528,
+          "end": 1986,
+          "count": 459,
+          "terminator": {
+            "line": 892,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI769",
+          "start": 1634,
+          "end": 1986,
+          "count": 353,
+          "terminator": {
+            "line": 928,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ]
+    },
+    {
+      "file": "sources/originals/cascadia/wa130.rwl",
+      "series_count": 8,
+      "first_assigned_year": 1305,
+      "last_assigned_year": 1680,
+      "series": [
+        {
+          "id": "CP7892",
+          "start": 1330,
+          "end": 1677,
+          "count": 348,
+          "terminator": {
+            "line": 38,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "CP790",
+          "start": 1305,
+          "end": 1632,
+          "count": 328,
+          "terminator": {
+            "line": 72,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "CP791",
+          "start": 1396,
+          "end": 1680,
+          "count": 285,
+          "terminator": {
+            "line": 102,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "CP793",
+          "start": 1337,
+          "end": 1664,
+          "count": 328,
+          "terminator": {
+            "line": 136,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "CP794",
+          "start": 1326,
+          "end": 1599,
+          "count": 274,
+          "terminator": {
+            "line": 165,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "CPGF2A",
+          "start": 1482,
+          "end": 1648,
+          "count": 167,
+          "terminator": {
+            "line": 182,
+            "value": -9999
+          },
+          "millimetres_per_integer": 0.001
+        },
+        {
+          "id": "CPGF2B",
+          "start": 1515,
+          "end": 1619,
+          "count": 105,
+          "terminator": {
+            "line": 194,
+            "value": -9999
+          },
+          "millimetres_per_integer": 0.001
+        },
+        {
+          "id": "CPGF2NW",
+          "start": 1419,
+          "end": 1675,
+          "count": 257,
+          "terminator": {
+            "line": 221,
+            "value": -9999
+          },
+          "millimetres_per_integer": 0.001
+        }
+      ]
+    },
+    {
+      "file": "sources/originals/cascadia/wa131.rwl",
+      "series_count": 6,
+      "first_assigned_year": 1291,
+      "last_assigned_year": 1691,
+      "series": [
+        {
+          "id": "SS578",
+          "start": 1339,
+          "end": 1676,
+          "count": 338,
+          "terminator": {
+            "line": 38,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "SS580",
+          "start": 1435,
+          "end": 1658,
+          "count": 224,
+          "terminator": {
+            "line": 61,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "CC5821",
+          "start": 1469,
+          "end": 1683,
+          "count": 215,
+          "terminator": {
+            "line": 84,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "CC5822",
+          "start": 1472,
+          "end": 1691,
+          "count": 220,
+          "terminator": {
+            "line": 107,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "SS7761",
+          "start": 1431,
+          "end": 1675,
+          "count": 245,
+          "terminator": {
+            "line": 132,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "SS7772",
+          "start": 1291,
+          "end": 1666,
+          "count": 376,
+          "terminator": {
+            "line": 170,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ]
+    },
+    {
+      "file": "sources/originals/cascadia/wa132.rwl",
+      "series_count": 9,
+      "first_assigned_year": 1325,
+      "last_assigned_year": 1682,
+      "series": [
+        {
+          "id": "PR7772",
+          "start": 1458,
+          "end": 1672,
+          "count": 215,
+          "terminator": {
+            "line": 26,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "PR7773",
+          "start": 1325,
+          "end": 1682,
+          "count": 358,
+          "terminator": {
+            "line": 63,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "PR7774",
+          "start": 1385,
+          "end": 1671,
+          "count": 287,
+          "terminator": {
+            "line": 93,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "PR7791",
+          "start": 1406,
+          "end": 1677,
+          "count": 272,
+          "terminator": {
+            "line": 121,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "PR7792",
+          "start": 1386,
+          "end": 1655,
+          "count": 270,
+          "terminator": {
+            "line": 149,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "PR7821",
+          "start": 1465,
+          "end": 1681,
+          "count": 217,
+          "terminator": {
+            "line": 172,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "PR7822",
+          "start": 1446,
+          "end": 1676,
+          "count": 231,
+          "terminator": {
+            "line": 196,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "PR7823",
+          "start": 1441,
+          "end": 1672,
+          "count": 232,
+          "terminator": {
+            "line": 220,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "PR783",
+          "start": 1333,
+          "end": 1675,
+          "count": 343,
+          "terminator": {
+            "line": 255,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ]
+    },
+    {
+      "file": "sources/originals/cascadia/wa133.rwl",
+      "series_count": 4,
+      "first_assigned_year": 1378,
+      "last_assigned_year": 1685,
+      "series": [
+        {
+          "id": "JR560",
+          "start": 1378,
+          "end": 1674,
+          "count": 297,
+          "terminator": {
+            "line": 34,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "JR5611",
+          "start": 1431,
+          "end": 1678,
+          "count": 248,
+          "terminator": {
+            "line": 59,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "JR5612",
+          "start": 1413,
+          "end": 1670,
+          "count": 258,
+          "terminator": {
+            "line": 86,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "JR566",
+          "start": 1457,
+          "end": 1685,
+          "count": 229,
+          "terminator": {
+            "line": 110,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ]
+    }
+  ]
+}

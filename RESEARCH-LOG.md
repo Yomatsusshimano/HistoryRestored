@@ -1109,3 +1109,8 @@ Previous turn made verified public progress. Shifted to H7-T ownership/attributi
 ### 2026-10-08 — Assignment catalog chain recovered
 
 The immediately preceding model-switch acknowledgment was no progress. Revalidated clean checkout and local instructions, then read the live NARA catalogs through the browser. Recovered exact index/digest/Liber chain, assignor-based arrangement and Kansas City listing with availability caveat. The index's own1834 start conflicts with1864 in the digest cross-reference; both cover the target period. Read2022 relocation notice and text of2014 instructional handout as orientation, not transaction evidence; no PDF scan inspection claimed. Registered only the three directly inspected catalogs. Prepared unsent retrieval specification. No individual assignment or date/price recovered, no outreach made. An initial shell mutation was policy-rejected; explicit file patches succeeded. Integrity checks do not constitute independent historical review.
+
+
+### 2026-10-08 — Cascadia measurement acquisition
+
+Previous turn made verified public progress. Revalidated clean checkout and chronology audits. Targeted reference search located USGS p96 raw-file citation; downloaded official part3 PDF with ordinary User-Agent after web-tool403, rendered and visually inspected p96. Downloaded five NOAA files, hashed and parsed48 series. Read official format guidance; excluded terminators and recorded per-series unit scale. Checks establish record structure only, not crossdating. Added trunk/root and raw/master-coverage distinctions. No root death-date replacement, independent review or chronology-break claim.

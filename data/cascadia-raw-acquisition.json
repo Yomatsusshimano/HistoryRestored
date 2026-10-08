@@ -1,0 +1,63 @@
+{
+  "accessed_date": "2026-10-08",
+  "discovery": "USGS Professional Paper1707, printed p96 names wa129 through wa133 raw files.",
+  "inspection": "Headers and all record structures parsed; see cascadia-raw-audit.json. No independent crossdating.",
+  "files": [
+    {
+      "file": "sources/originals/cascadia/wa129.rwl",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa129.rwl",
+      "sha256": "ea279dcedc08a61725829dd91508624c30d3ce6a80da1114432eca67bd7ef453",
+      "bytes": 66796,
+      "header": [
+        "LI     1 Long Island, Willapa Bay                            THPL               ",
+        "LI     2 Washington   W. Red Cedar        50M  4627-12358    __     991 1986    ",
+        "LI     3 Dave Yamaguchi                                                         "
+      ]
+    },
+    {
+      "file": "sources/originals/cascadia/wa130.rwl",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa130.rwl",
+      "sha256": "c21c29bda0ac556dd4d8958b7ecfa58e3648d947951488a5444b869d25192138",
+      "bytes": 15677,
+      "header": [
+        "CP     1 Copalis River snags                                 THPL               ",
+        "CP     2 Washington   W. Red Cedar         0M  4708-12411    __    1305 1680    ",
+        "CP     3 Dave Yamaguchi                                                         "
+      ]
+    },
+    {
+      "file": "sources/originals/cascadia/wa131.rwl",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa131.rwl",
+      "sha256": "0876dc96ba0e7a82ee0a2d0559203a895550d746e1288cc2bbfbafd58f6a907d",
+      "bytes": 12158,
+      "header": [
+        "SS     1 Columbia River/Grays River snags                    THPL               ",
+        "SS     2 Washington   W. Red Cedar         0M  4618-12341    __    1291 1691    ",
+        "SS     3 Dave Yamaguchi                                                         "
+      ]
+    },
+    {
+      "file": "sources/originals/cascadia/wa132.rwl",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa132.rwl",
+      "sha256": "4ec8fdb5e554d2155c8bc3871c2bb2311f546bc6165f832ace5877b5b2cf3d52",
+      "bytes": 18123,
+      "header": [
+        "PR     1 Willapa Bay/Palix River snags                       THPL               ",
+        "PR     2 Washington   W. Red Cedar         0M  4638-12357    __    1325 1682    ",
+        "PR     3 Dave Yamaguchi                                                         "
+      ]
+    },
+    {
+      "file": "sources/originals/cascadia/wa133.rwl",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa133.rwl",
+      "sha256": "5c661a9888f203e85e92d3b466e8e5c867bc5524000cd6d3285089142cfb266a",
+      "bytes": 7850,
+      "header": [
+        "PR     1 Grays Harbor/Johns River snags                      THPL               ",
+        "PR     2 Washington   W. Red Cedar         0M  4654-12401    __    1378 1685    ",
+        "PR     3 Dave Yamaguchi                                                         "
+      ]
+    }
+  ],
+  "source_id": "S229"
+}

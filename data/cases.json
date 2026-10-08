@@ -316,6 +316,16 @@
           "source_id": "S61",
           "locator": "PDF pp. 2-4",
           "statement": "Two complete related root-radius series and one terminal decade transcribed (642 widths); seven GF2RTC transcription mistakes corrected transparently. Within-root correlations computed; external calendar crossdating not reproduced."
+        },
+        {
+          "source_id": "S229",
+          "locator": "wa129–wa133; data/cascadia-raw-audit.json",
+          "statement": "Recovered48 measurement series, including21 Long Island reference series; four snag collections end at assigned years1680,1691,1682,1685. Trunk endpoints do not replace final-root dates."
+        },
+        {
+          "source_id": "S230",
+          "locator": "Format for Tree-Ring Data Files, Raw Data Files",
+          "statement": "999 and -9999 terminate series and indicate0.01mm and0.001mm measurement units respectively; parser excludes terminators from year counts."
         }
       ],
       "physical_evidence": "Published tree-ring table visually checked; raw ring measurements and sediment core logs not reanalyzed.",

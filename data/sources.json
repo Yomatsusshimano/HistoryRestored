@@ -76,12 +76,14 @@
       "creator": "Atwater and colleagues",
       "publication_date": "2005",
       "source_type": "original research report publication record",
-      "access": "CATALOG_METADATA",
-      "inspected": "Publication record, authors, title, year and DOI",
-      "limitations": "Report PDF fetch failed. Original Japanese documents not inspected.",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Publication record, authors, title, year and DOI; follow-up: USGS part3 PDF pp4–5 / printed pp96–97 visually inspected, including raw-file locator, trunk/root distinction and reference chronology span.",
+      "limitations": "Selected page only, not full report or independent crossdating. Japanese physical documents not inspected.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
-      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "download_url": "https://pubs.usgs.gov/pp/pp1707/pp1707_part3.pdf",
+      "pdf_sha256": "bd09cd68ef466ea8eb921576b87bad072312991dc13e518ad4071a677c372354"
     },
     {
       "id": "S05",
@@ -3589,6 +3591,34 @@
       "access": "CATALOG_METADATA",
       "inspected": "Section241.3 textual records: assignment digests1837-1905 and indexes1837-1923.",
       "limitations": "Series-level description only. No Woodward-specific index entry, instrument, survival or digitization verified.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S229",
+      "title": "Cascadia red-cedar measurements wa129–wa133",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa129.rwl",
+      "creator": "Dave Yamaguchi / NOAA NCEI",
+      "publication_date": null,
+      "source_type": "Archived measurement files",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "All five headers and numerical record structures parsed; URLs and hashes in data/cascadia-raw-acquisition.json.",
+      "limitations": "Published year labels, not independently crossdated. Series do not equal independent trees; trunk endpoints are not death dates.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S230",
+      "title": "ITRDB tree-ring file formats",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/treeinfo.txt",
+      "creator": "NOAA NCEI",
+      "publication_date": null,
+      "source_type": "Official data-format documentation",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Format for Tree-Ring Data Files, Raw Data Files: .rwl layout and terminal-code unit convention.",
+      "limitations": "Format guidance only; does not authenticate measurements or calendar placement.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"

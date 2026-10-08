@@ -109,3 +109,22 @@ The 5.4 m estimate depends on whether the high-ground site remembered in oral tr
 The one-metre land-level correction also has mixed provenance. Page 91 presents about 0.4 m of subsidence measured for 1946, an estimate for 1854, and subsidence reported for 1707 with unknown amount. It extrapolates an uplift rate of 0.8 mm/year from 1967-1995 tide-gauge data at Shirahama to earlier intervals. Regional maximum earthquake displacements shown on the same page are not Tanabe measurements. Original levelling, tide coefficients and the full land-motion history remain unchecked here.
 
 Before using these heights to calibrate a physical catastrophe model, establish building identity, historic ground geometry, datum relationships and plausible land-motion/tide uncertainty. A source can supply evidence of flooding while leaving substantial uncertainty in the reconstructed height and cause. No global event footprint or new hydraulic reconstruction follows from these six arithmetic checks.
+
+
+## NOAA trunk measurements recovered
+
+The USGS-hosted part3 PDF of S04, printed p96 / PDF p4, was visually inspected. It explicitly identifies wa129–wa133 as archived trunk measurements. Its account distinguishes those eroded trunks from the bark-bearing roots later used to establish final growth. This is a concrete recovery route beyond the earlier bounded chronology-header search.
+
+[Acquisition ledger](../data/cascadia-raw-acquisition.json), source S229, preserves five downloaded files and hashes. [Structure audit](../analysis/audit_cascadia_raw.py) and [results](../data/cascadia-raw-audit.json) retain each series identifier and assigned extent:
+
+| File | Header locality | Series | Assigned span |
+| --- | --- | --- | --- |
+| wa129 | Long Island, Willapa Bay | 21 | 991–1986 |
+| wa130 | Copalis River snags | 8 | 1305–1680 |
+| wa131 | Columbia/Grays River snags | 6 | 1291–1691 |
+| wa132 | Willapa Bay/Palix River snags | 9 | 1325–1682 |
+| wa133 | Grays Harbor/Johns River snags | 4 | 1378–1685 |
+
+These48 series are not48 independent trees. NOAA's [format guide, S230](https://www.ncei.noaa.gov/pub/data/paleo/treering/treeinfo.txt) defines terminal999 and−9999 codes and their different measurement scales; both are excluded from ring counts. The script checks hashes, continuous assigned years, duplicate years and one terminal marker per series. It does not reproduce crossdating or test alternative alignments.
+
+The snag endpoints precede1699, consistent with the report's eroded-trunk distinction; they neither refute nor independently verify the root death dates. The Long Island raw span begins991, while the report describes a993-start master chronology: raw coverage and processed chronology coverage must not be equated. Next reconstruct the reference using documented sample inclusion and preprocessing, then test alternative placements of snag series and link each to its root. The Ozette reference sought for Jacoby's separate comparison remains unrecovered; Long Island is not silently substituted for it.
