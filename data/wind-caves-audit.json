@@ -1,0 +1,423 @@
+{
+  "source_id": "S210",
+  "sample": "04PW30",
+  "scope": "Stored analytical ages and published selected-group arithmetic; shared calibration covariance and raw isotope reduction not reproduced.",
+  "hashes": {
+    "G48080_SuppTab2.xlsx": "9bedd2c351880c6889e8862014c9f8ccd43f5c318115ba26f498a0a625c19c1c",
+    "G48080_SuppTab4.xlsx": "f7a64222335ee97a1607cdb2695959182a91fe1de6463489077198b0ad1e9152"
+  },
+  "location": {
+    "table": 4,
+    "sheet": "Sheet1",
+    "row": 6,
+    "sample": "04PW30",
+    "unit": "Wind Caves Member",
+    "reported_maximum_depositional_age": "4.56 ± 0.04",
+    "latitude": 32.989544,
+    "longitude": -116.119412,
+    "datum": "NAD83",
+    "elevation": null,
+    "bed_height": null,
+    "status": "source-reported, not independently surveyed"
+  },
+  "data_header": "04PW30, Sanidine, J=0.0038874±0.03%, IC=1.003843±0.0007737, NM-300A,  Lab#=66649, Argus VI",
+  "all_57_rows": [
+    {
+      "data_row": 1212,
+      "run_id": "66649-73",
+      "age_Ma": 4.491606,
+      "one_sigma_Ma": 0.0691623
+    },
+    {
+      "data_row": 1213,
+      "run_id": "66649-04",
+      "age_Ma": 4.547619,
+      "one_sigma_Ma": 0.0329174
+    },
+    {
+      "data_row": 1214,
+      "run_id": "66649-46",
+      "age_Ma": 4.549008,
+      "one_sigma_Ma": 0.0539169
+    },
+    {
+      "data_row": 1215,
+      "run_id": "66649-79",
+      "age_Ma": 4.582996,
+      "one_sigma_Ma": 0.0394479
+    },
+    {
+      "data_row": 1216,
+      "run_id": "66649-64",
+      "age_Ma": 4.601784,
+      "one_sigma_Ma": 0.0565763
+    },
+    {
+      "data_row": 1217,
+      "run_id": "66649-48",
+      "age_Ma": 9.071091,
+      "one_sigma_Ma": 0.0163235
+    },
+    {
+      "data_row": 1218,
+      "run_id": "66649-57",
+      "age_Ma": 10.49654,
+      "one_sigma_Ma": 0.035405
+    },
+    {
+      "data_row": 1219,
+      "run_id": "66649-14",
+      "age_Ma": 22.10789,
+      "one_sigma_Ma": 0.1029179
+    },
+    {
+      "data_row": 1220,
+      "run_id": "66649-41",
+      "age_Ma": 22.30926,
+      "one_sigma_Ma": 0.1017799
+    },
+    {
+      "data_row": 1221,
+      "run_id": "66649-76",
+      "age_Ma": 22.35731,
+      "one_sigma_Ma": 0.0658822
+    },
+    {
+      "data_row": 1222,
+      "run_id": "66649-59",
+      "age_Ma": 22.39304,
+      "one_sigma_Ma": 0.0632178
+    },
+    {
+      "data_row": 1223,
+      "run_id": "66649-60",
+      "age_Ma": 22.69752,
+      "one_sigma_Ma": 0.0984507
+    },
+    {
+      "data_row": 1224,
+      "run_id": "66649-19",
+      "age_Ma": 24.70694,
+      "one_sigma_Ma": 0.0153092
+    },
+    {
+      "data_row": 1225,
+      "run_id": "66649-07",
+      "age_Ma": 25.24271,
+      "one_sigma_Ma": 0.1069622
+    },
+    {
+      "data_row": 1226,
+      "run_id": "66649-44",
+      "age_Ma": 25.3764,
+      "one_sigma_Ma": 0.0322448
+    },
+    {
+      "data_row": 1227,
+      "run_id": "66649-35",
+      "age_Ma": 25.87666,
+      "one_sigma_Ma": 0.1750869
+    },
+    {
+      "data_row": 1228,
+      "run_id": "66649-13",
+      "age_Ma": 26.37418,
+      "one_sigma_Ma": 0.0619705
+    },
+    {
+      "data_row": 1229,
+      "run_id": "66649-10",
+      "age_Ma": 26.68683,
+      "one_sigma_Ma": 0.0899188
+    },
+    {
+      "data_row": 1230,
+      "run_id": "66649-66",
+      "age_Ma": 26.78644,
+      "one_sigma_Ma": 0.0302708
+    },
+    {
+      "data_row": 1231,
+      "run_id": "66649-26",
+      "age_Ma": 27.07806,
+      "one_sigma_Ma": 0.0857035
+    },
+    {
+      "data_row": 1232,
+      "run_id": "66649-65",
+      "age_Ma": 27.73607,
+      "one_sigma_Ma": 0.0453471
+    },
+    {
+      "data_row": 1233,
+      "run_id": "66649-36",
+      "age_Ma": 27.78543,
+      "one_sigma_Ma": 0.0946682
+    },
+    {
+      "data_row": 1234,
+      "run_id": "66649-70",
+      "age_Ma": 28.18926,
+      "one_sigma_Ma": 0.1341347
+    },
+    {
+      "data_row": 1235,
+      "run_id": "66649-63",
+      "age_Ma": 28.62456,
+      "one_sigma_Ma": 0.0259911
+    },
+    {
+      "data_row": 1236,
+      "run_id": "66649-51",
+      "age_Ma": 28.72839,
+      "one_sigma_Ma": 0.0466935
+    },
+    {
+      "data_row": 1237,
+      "run_id": "66649-08",
+      "age_Ma": 30.26231,
+      "one_sigma_Ma": 0.0544634
+    },
+    {
+      "data_row": 1238,
+      "run_id": "66649-61",
+      "age_Ma": 30.53834,
+      "one_sigma_Ma": 0.1101759
+    },
+    {
+      "data_row": 1239,
+      "run_id": "66649-49",
+      "age_Ma": 30.96289,
+      "one_sigma_Ma": 0.097293
+    },
+    {
+      "data_row": 1240,
+      "run_id": "66649-16",
+      "age_Ma": 32.01215,
+      "one_sigma_Ma": 0.0848133
+    },
+    {
+      "data_row": 1241,
+      "run_id": "66649-27",
+      "age_Ma": 32.48835,
+      "one_sigma_Ma": 0.0223582
+    },
+    {
+      "data_row": 1242,
+      "run_id": "66649-22",
+      "age_Ma": 32.72729,
+      "one_sigma_Ma": 0.0544392
+    },
+    {
+      "data_row": 1243,
+      "run_id": "66649-40",
+      "age_Ma": 32.82011,
+      "one_sigma_Ma": 0.0583377
+    },
+    {
+      "data_row": 1244,
+      "run_id": "66649-55",
+      "age_Ma": 32.97926,
+      "one_sigma_Ma": 0.0893883
+    },
+    {
+      "data_row": 1245,
+      "run_id": "66649-15",
+      "age_Ma": 33.31867,
+      "one_sigma_Ma": 0.0222129
+    },
+    {
+      "data_row": 1246,
+      "run_id": "66649-25",
+      "age_Ma": 33.39436,
+      "one_sigma_Ma": 0.0538368
+    },
+    {
+      "data_row": 1247,
+      "run_id": "66649-28",
+      "age_Ma": 33.45985,
+      "one_sigma_Ma": 0.0669847
+    },
+    {
+      "data_row": 1248,
+      "run_id": "66649-67",
+      "age_Ma": 33.47623,
+      "one_sigma_Ma": 0.0310699
+    },
+    {
+      "data_row": 1249,
+      "run_id": "66649-37",
+      "age_Ma": 33.72993,
+      "one_sigma_Ma": 0.0849699
+    },
+    {
+      "data_row": 1250,
+      "run_id": "66649-34",
+      "age_Ma": 33.88669,
+      "one_sigma_Ma": 0.0862985
+    },
+    {
+      "data_row": 1251,
+      "run_id": "66649-18",
+      "age_Ma": 34.06203,
+      "one_sigma_Ma": 0.1148537
+    },
+    {
+      "data_row": 1252,
+      "run_id": "66649-42",
+      "age_Ma": 34.11961,
+      "one_sigma_Ma": 0.056828
+    },
+    {
+      "data_row": 1253,
+      "run_id": "66649-74",
+      "age_Ma": 34.56981,
+      "one_sigma_Ma": 0.1352052
+    },
+    {
+      "data_row": 1254,
+      "run_id": "66649-58",
+      "age_Ma": 34.84477,
+      "one_sigma_Ma": 0.0899029
+    },
+    {
+      "data_row": 1255,
+      "run_id": "66649-69",
+      "age_Ma": 35.51412,
+      "one_sigma_Ma": 0.1695045
+    },
+    {
+      "data_row": 1256,
+      "run_id": "66649-38",
+      "age_Ma": 37.66186,
+      "one_sigma_Ma": 0.083053
+    },
+    {
+      "data_row": 1257,
+      "run_id": "66649-03",
+      "age_Ma": 38.8626,
+      "one_sigma_Ma": 0.1268682
+    },
+    {
+      "data_row": 1258,
+      "run_id": "66649-02",
+      "age_Ma": 40.69182,
+      "one_sigma_Ma": 0.0948021
+    },
+    {
+      "data_row": 1259,
+      "run_id": "66649-43",
+      "age_Ma": 44.40261,
+      "one_sigma_Ma": 0.1023152
+    },
+    {
+      "data_row": 1260,
+      "run_id": "66649-21",
+      "age_Ma": 45.32603,
+      "one_sigma_Ma": 0.0266065
+    },
+    {
+      "data_row": 1261,
+      "run_id": "66649-12",
+      "age_Ma": 53.35595,
+      "one_sigma_Ma": 0.237287
+    },
+    {
+      "data_row": 1262,
+      "run_id": "66649-20",
+      "age_Ma": 64.99136,
+      "one_sigma_Ma": 0.052180699999999997
+    },
+    {
+      "data_row": 1263,
+      "run_id": "66649-54",
+      "age_Ma": 72.21863,
+      "one_sigma_Ma": 0.2279005
+    },
+    {
+      "data_row": 1264,
+      "run_id": "66649-09",
+      "age_Ma": 211.2194,
+      "one_sigma_Ma": 0.2083586
+    },
+    {
+      "data_row": 1265,
+      "run_id": "66649-68",
+      "age_Ma": 294.8508,
+      "one_sigma_Ma": 0.3536634
+    },
+    {
+      "data_row": 1266,
+      "run_id": "66649-56",
+      "age_Ma": 297.9431,
+      "one_sigma_Ma": 0.5205228
+    },
+    {
+      "data_row": 1267,
+      "run_id": "66649-23",
+      "age_Ma": 299.5617,
+      "one_sigma_Ma": 0.414914
+    },
+    {
+      "data_row": 1268,
+      "run_id": "66649-24",
+      "age_Ma": 698.5691,
+      "one_sigma_Ma": 1.648335
+    }
+  ],
+  "selected_five": [
+    {
+      "data_row": 1212,
+      "run_id": "66649-73",
+      "age_Ma": 4.491606,
+      "one_sigma_Ma": 0.0691623,
+      "summary_row": 66
+    },
+    {
+      "data_row": 1213,
+      "run_id": "66649-04",
+      "age_Ma": 4.547619,
+      "one_sigma_Ma": 0.0329174,
+      "summary_row": 67
+    },
+    {
+      "data_row": 1214,
+      "run_id": "66649-46",
+      "age_Ma": 4.549008,
+      "one_sigma_Ma": 0.0539169,
+      "summary_row": 68
+    },
+    {
+      "data_row": 1215,
+      "run_id": "66649-79",
+      "age_Ma": 4.582996,
+      "one_sigma_Ma": 0.0394479,
+      "summary_row": 69
+    },
+    {
+      "data_row": 1216,
+      "run_id": "66649-64",
+      "age_Ma": 4.601784,
+      "one_sigma_Ma": 0.0565763,
+      "summary_row": 70
+    }
+  ],
+  "reported": {
+    "mean_Ma": 4.559311369951691,
+    "two_sigma_Ma": 0.0405639630762078,
+    "MSWD": 0.51,
+    "selection": "5 of 57"
+  },
+  "calculated": {
+    "mean_Ma": 4.559311369951691,
+    "two_sigma_internal_Ma": 0.04056396307620786,
+    "MSWD": 0.5112639609084443
+  },
+  "next_oldest_row": {
+    "data_row": 1217,
+    "run_id": "66649-48",
+    "age_Ma": 9.071091,
+    "one_sigma_Ma": 0.0163235
+  },
+  "interpretation": "Conditional maximum depositional age: host deposition no older than valid youngest detrital crystals; not a minimum bed age or proof of a historical event."
+}

@@ -3332,7 +3332,7 @@
       "publication_date": "2021",
       "source_type": "original methods and supplementary analytical workbooks",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "Methods PDF pp1-2 visually checked; other extracted text read. Table1 stored cells read and Lawlor rows20-24/formula references audited. Other workbook layouts inventoried. See research/CROW-SUPPLEMENT-AUDIT.md. Follow-up: PDF pp6-7 visually checked, Table2 Highwall selected19 rows recomputed and all36 Table6 specimen records extracted; research/HIGHWALL-WASH.md.",
+      "inspected": "Methods PDF pp1-2 visually checked; other extracted text read. Table1 stored cells read and Lawlor rows20-24/formula references audited. Other workbook layouts inventoried. See research/CROW-SUPPLEMENT-AUDIT.md. Follow-up: PDF pp6-7 visually checked, Table2 Highwall selected19 rows recomputed and all36 Table6 specimen records extracted; research/HIGHWALL-WASH.md. Wind Caves follow-up: Table2 summary66-73/data1211-1268, all57 sample ages and five run matches; Table4 row6 location. Stored values read, selected-group arithmetic reproduced; research/WIND-CAVES.md.",
       "limitations": "Main paper/fault geometry and raw isotope/vector reductions unverified. Lawlor summary discrepancy persists. Highwall summary arithmetic reproduces, but selection/covariance and Table1/Table2/Table3 crosswalk remain open. Authors report failed Highwall reversal test. Workbooks not rendered or executed.",
       "local_copy": null,
       "accessed_date": "2026-10-08",

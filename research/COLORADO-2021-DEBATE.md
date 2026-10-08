@@ -22,3 +22,5 @@ These are this archive's proposed audit requirements. A young detrital age, if r
 The existing [Highwall arithmetic](HIGHWALL-WASH.md), [directional-table audit](LOST-CABIN-REVERSAL.md) and [sediment audit](LOST-CABIN-SEDIMENTS.md) therefore address parts of the dispute, not a complete regional solution. The Comment is external criticism of the paper, not independent review of this archive. The Reply is a defense, not independent replication. Publication of disagreement is also not evidence of historical fabrication.
 
 Next prioritize the Wind Caves sample04PW30 and its measured section, retrieve the full Reply/main paper, and compare the mapped fault geometry with the original section chronology. Keep the separate historical-catastrophe hypothesis subject to positive sedimentary, geographic and chronological tests.
+
+Follow-up: [Wind Caves sample audit](WIND-CAVES.md) now reproduces the five-grain summary and links all selected ages to run IDs. Exact section placement and fault tests remain pending.

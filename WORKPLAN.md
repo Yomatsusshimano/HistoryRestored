@@ -331,3 +331,8 @@ LCW111 youngest-row crosswalk completed: Table5 aliquot10, first row, one-sigma 
 
 
 S212 Comment body and S213 Reply introductory summary recovered; unequal access explicit. Next Wind Caves04PW30/section and structural comparison, full Reply/main paper. Do not count published debate as independent archive review.
+
+
+### 2026-10-08 — Wind Caves sample crosswalk
+
+04PW30 all57 stored ages preserved; five selected run matches, mean/error/MSWD and NAD83 location recovered. Next original section height/custody, structural comparison and full main paper/Reply; do not repeat selected-summary arithmetic as pending. This is a conditional maximum depositional age, not a minimum or exact sediment date.
