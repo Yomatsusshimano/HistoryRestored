@@ -1,0 +1,2 @@
+# Preserve checksum-verified scientific source files byte for byte.
+sources/originals/electron/* -text
