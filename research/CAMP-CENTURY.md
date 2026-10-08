@@ -56,3 +56,11 @@ This publication narrows the earlier custody gap but does not close the chain of
 S9 explicitly calls 1060-C4 inverted, whereas the main text and S5 footnote flag 1060-C3. S5 also lacks an inversion footnote on 1063-4, despite main-text/Table 5 reporting. The ledger keeps each source component separately. Missing flags are not assertions of upright orientation.
 
 The next discriminating evidence is the original segment photographs, sample-axis records and uncorrected magnetic vectors. Until those are reconciled, do not silently swap sample identities, flip published values again, infer polarity boundaries, or convert these metadata differences into age corrections. These tables are from the same study and provide internal cross-checks, not independent validation.
+
+## Cosmogenic model dependency and static code audit
+
+The [author-linked script](https://github.com/drewchrist-geo/Camp_Century_complex_26Al10Be_modelling/blob/b00d69a476ff0bba2d236bc180e48f88dece5982/lumin_cosmo_burial_model_jun23.m) (S137) is pinned by commit and hash in the [model ledger](../data/camp-century-model-audit.json). Lines 64-65 prescribe a normal draw with mean 416,000 years and error 38,000 years. This is an input to the burial/exposure calculation, not an independently recovered luminescence age. Agreement of the conditioned output with that input cannot be counted as a second confirmation.
+
+Static inspection found that line 240 constructs lower-sediment uncertainty `ratl_0unc` using upper-sediment ratio `rat_0`, rather than the corresponding lower ratio `ratl_0`. The result feeds an uncertainty summary and compiled array. Its effect on the paper's reported values and figures has not been quantified; the script's other covariance calculations must not automatically be declared affected. No source code or scientific result has been corrected here.
+
+The script uses 100 simulations and contains no explicit random-seed assignment. Exact execution and sensitivity to simulation count, weighting and constants remain pending. The publisher returned HTTP 403 for the attempted luminescence supplement, leaving dose-rate, fading and residual-dose reproduction unresolved. This code audit narrows evidence dependence; it does not redetermine either sediment or plant ages.

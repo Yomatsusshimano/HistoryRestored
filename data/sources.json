@@ -2185,6 +2185,21 @@
       "downloaded_pdf_sha256": "a0a8b8f68a1f7e808b257c6538f7389f6e848ab7b45d01b8b71daa61ce113be4",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S137",
+      "title": "Camp Century complex Al-26/Be-10 modeling code",
+      "creator": "drewchrist-geo repository",
+      "publication_date": null,
+      "url": "https://github.com/drewchrist-geo/Camp_Century_complex_26Al10Be_modelling/blob/b00d69a476ff0bba2d236bc180e48f88dece5982/lumin_cosmo_burial_model_jun23.m",
+      "source_type": "Author-linked scientific source code",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "README and script; input lines 62-86, weighting 101-102, uncertainty 240-241, output 290-293 and plotting 320-381.",
+      "limitations": "Static inspection only; no MATLAB execution, raw measurement verification or published-figure reproduction.",
+      "local_copy": null,
+      "downloaded_sha256": "48f4e4875b8b8ee51e49aa2b35f81e876d39493480ea6ac17efbf8c99d9d066c",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

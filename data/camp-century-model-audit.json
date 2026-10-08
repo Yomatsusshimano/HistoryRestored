@@ -1,0 +1,35 @@
+{
+  "case_id": "C014",
+  "source_id": "S137",
+  "repository_commit": "b00d69a476ff0bba2d236bc180e48f88dece5982",
+  "script": "lumin_cosmo_burial_model_jun23.m",
+  "sha256": "48f4e4875b8b8ee51e49aa2b35f81e876d39493480ea6ac17efbf8c99d9d066c",
+  "luminescence_input": {
+    "mean_years": 416000,
+    "error_years": 38000,
+    "code_label": "1 standard error",
+    "line": 64,
+    "role": "Input, not inferred output"
+  },
+  "simulation_count": 100,
+  "random_seed_in_script": null,
+  "uncertainty_issue": {
+    "line": 240,
+    "target": "ratl_0unc",
+    "prefactor_used": "rat_0",
+    "corresponding_lower_ratio": "ratl_0",
+    "downstream": [
+      "ratl_0sd at line 241",
+      "rat_err_all at line 291",
+      "berat_mu_all at line 293"
+    ],
+    "published_effect_quantified": false
+  },
+  "execution_status": "NOT_RUN",
+  "luminescence_supplement_access": {
+    "url": "https://www.science.org/doi/suppl/10.1126/science.ade4248/suppl_file/science.ade4248_sm.pdf",
+    "attempt_date": "2026-10-08",
+    "result": "HTTP 403",
+    "data_recovered": false
+  }
+}

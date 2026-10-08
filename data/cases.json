@@ -966,6 +966,11 @@
           "source_id": "S136",
           "locator": "Tables S5 and S9",
           "statement": "1063-7 has no tabulated magnetic-direction measurements; inversion flags differ across source components and remain unreconciled."
+        },
+        {
+          "source_id": "S137",
+          "locator": "Script lines 64-65 and 240-241",
+          "statement": "Cosmogenic script prescribes the luminescence age as input; a lower-sediment uncertainty expression uses the upper-sediment ratio. Static concern, published effect unquantified."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",

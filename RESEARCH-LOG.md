@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camp Century model dependency
+
+Previous turn made progress: 509f187 published seven verified files. Luminescence supplement access returned 403. Recovered and commit-pinned author-linked cosmogenic code; confirmed age is prescribed and flagged an uncertainty-variable concern through static inspection. No model execution or age correction claimed. Full goal remains active.
+
 ## 2026-10-08 - Camp Century supplement cross-check
 
 Previous turn made progress: a986443 published seven verified files. Retrieved and visually inspected supplementary S5/S9, adding S136. Original target remains unresolved but its magnetic-data gap is now explicit; additional sample-flag differences retained. No vector or date altered. Original photographs and raw orientation records remain required. Full goal remains active.
