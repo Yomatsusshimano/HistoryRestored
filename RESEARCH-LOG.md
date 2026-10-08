@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Spanish comparison corrects latitude wording assessment
+
+Previous turn made progress: eb05f39 published eight public-byte-verified files. Clean checkout rechecked. Retrieved Spanish printed edition and visually inspected title and pp. 148, 161-162. Title imprint reads 1913-1922. Added S40 and comparison entries; core crossing/deferred-crossing/sighting claims agree in selected passages.
+
+Spanish latitude wording describes completion to 90 degrees; English wording and its critical footnote differ. Revised our prior description of Bolton's note as simply clarification. Spanish March 9 journey estimate includes ten days as well as eight/nine, unlike English p. 343. Neither textual difference establishes intent or alters the numerical latitude result. Original manuscript and independent linguistic review remain pending. Sixteen draft cases, forty source records.
+
 ## 2026-10-08 - Kino route testimony separated from map copying
 
 Previous turn made progress: cbebf78 published eight public-byte-verified files. Clean checkout rechecked. Located 1919 translated memoir through archive/library results. LOC direct page returned 403; Internet Archive OCR and a public PDF mirror succeeded. Read selected route and editorial portions; visually checked printed pp. 316-317, 341 and 343-344.

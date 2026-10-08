@@ -52,5 +52,32 @@
       "coordinates": null
     }
   ],
-  "dependence": "Same author as Kino map; edited translation is not an independent field witness."
+  "dependence": "Same author as Kino map; edited translation is not an independent field witness.",
+  "comparison_source_id": "S40",
+  "edition_comparison": [
+    {
+      "topic": "latitude wording",
+      "spanish_locator": "p. 161",
+      "english_locator": "p. 341 and footnote 467",
+      "spanish": "el cumplimiento a 90 grados son 31 grados y medio",
+      "finding": "Spanish expresses completion to 90 degrees; English says complement of 90 degrees and footnote criticizes wording. Numerical result unchanged.",
+      "manuscript_checked": false
+    },
+    {
+      "topic": "March 9 informant journey estimate",
+      "spanish_locator": "p. 162",
+      "english_locator": "p. 343",
+      "spanish_days_alternatives": [
+        8,
+        9,
+        10
+      ],
+      "english_days_alternatives": [
+        8,
+        9
+      ],
+      "finding": "Printed alternatives differ; no surveyed distance or statistical distribution implied.",
+      "manuscript_checked": false
+    }
+  ]
 }

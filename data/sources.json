@@ -723,12 +723,27 @@
       "source_type": "edited translation of participant historical account",
       "access": "SCAN_INSPECTED",
       "inspected": "Printed pp. 316-317, 341, 343-344 visually checked; pp. 24-25, 315 and 340-342 inspected as OCR text portions.",
-      "limitations": "Original manuscript and Spanish text not checked. No independent geolocation, instrument/ephemeris audit or corroborating field observation. Shared author with map.",
+      "limitations": "Original manuscript not checked; selected published Spanish passages compared as S40. No independent geolocation, instrument/ephemeris audit or corroborating field observation. Shared author with map.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "pdf_sha256": "513e920efdaffbfd2cd1bfcc205616c121a3d1e624a5b1b525124acc0ae3fbcb",
       "text_url": "https://archive.org/download/kinoshistoricalm01kinouoft/kinoshistoricalm01kinouoft_djvu.txt"
+    },
+    {
+      "id": "S40",
+      "title": "Las misiones de Sonora y Arizona: Favores Celestiales and Relación Diaria",
+      "url": "https://www.fondazioneintorcetta.info/pdf/biblioteca-virtuale/documenti_1/Favores.pdf",
+      "creator": "Eusebio Francisco Kino; Francisco Fernández del Castillo, paleographic version and index; Emilio Böse, biographical material",
+      "publication_date": "1913-1922 (printed imprint)",
+      "source_type": "published Spanish paleographic edition",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Title page and printed pp. 148, 161-162; PDF pp. 7, 232, 245-246.",
+      "limitations": "Original manuscript, full edition and editorial transmission not audited. Comparison by this investigation lacks independent linguistic review; not independent field testimony.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "pdf_sha256": "a5e6a5c5f9da1054613a9a2337035b547db19f60450adaed852e1134b214c35e"
     }
   ]
 }
