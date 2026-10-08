@@ -443,3 +443,8 @@ Section-level Bat Cave match now verified through S222 under both datum assumpti
 ### 2026-10-08 — Colorado cross-case integration
 
 Integrated the burial, selection and field-context audit into CROSS-CASE-ASSESSMENT.md and added a source-constrained regional target to PHYSICAL-MODEL.md. Prioritize the Bat Cave cut/bed/contact crosswalk and physical burial inputs over further section-level agreement. A surveyed quarter-section would refine location but still would not identify the sampled bed. Keep recent first burial, later redeposition and worldwide correlation as separate tests. All twenty outcomes remain in scope; no review or reconstruction completion claimed.
+
+
+### 2026-10-08 — Coyote Canyon depth-reference audit
+
+Depth-reference comparison now published for S138 versus S32: original sample pairs imply 319.70-319.95 m zeros rather than 319 m. Recover original regression coordinates and survey/bed correspondence before assigning revised fossil ages. Mammoth assay recovery remains open; bounded archive failures do not establish absence.

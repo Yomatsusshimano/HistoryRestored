@@ -1,0 +1,97 @@
+{
+  "status": "DIAGNOSTIC_NOT_AGE_MODEL",
+  "source_ids": [
+    "S32",
+    "S138"
+  ],
+  "comparison_reference_elevation_m": 319.0,
+  "samples": [
+    {
+      "sample_id": "CCMS-OSL-1",
+      "source_id": "S32",
+      "locator": "Table 2, PDF p.8",
+      "reported_depth_m": 4,
+      "reported_elevation_NAVD88_m": 315.7,
+      "implied_depth_zero_elevation_m": 319.7,
+      "depth_below_319_m": 3.3,
+      "reported_minus_common_depth_m": 0.7
+    },
+    {
+      "sample_id": "CCMS-OSL-2",
+      "source_id": "S32",
+      "locator": "Table 2, PDF p.8",
+      "reported_depth_m": 3.65,
+      "reported_elevation_NAVD88_m": 316.3,
+      "implied_depth_zero_elevation_m": 319.95,
+      "depth_below_319_m": 2.7,
+      "reported_minus_common_depth_m": 0.95
+    },
+    {
+      "sample_id": "CCMS-OSL-3",
+      "source_id": "S32",
+      "locator": "Table 2, PDF p.8",
+      "reported_depth_m": 2.2,
+      "reported_elevation_NAVD88_m": 317.5,
+      "implied_depth_zero_elevation_m": 319.7,
+      "depth_below_319_m": 1.5,
+      "reported_minus_common_depth_m": 0.7
+    },
+    {
+      "sample_id": "CCMS-OSL-4",
+      "source_id": "S32",
+      "locator": "Table 2, PDF p.8",
+      "reported_depth_m": 1.8,
+      "reported_elevation_NAVD88_m": 318.0,
+      "implied_depth_zero_elevation_m": 319.8,
+      "depth_below_319_m": 1.0,
+      "reported_minus_common_depth_m": 0.8
+    }
+  ],
+  "fossils": [
+    {
+      "specimen_id": "CCMS XU1 L15 FS021 1a",
+      "source_id": "S138",
+      "locator": "Results: Lizard maxillae temporal resolution",
+      "reported_elevation_m": 317.4,
+      "computed_depth_below_319_m": 1.6,
+      "bracket_using_reported_elevations": {
+        "status": "bracketed",
+        "sample_ids": [
+          "CCMS-OSL-2",
+          "CCMS-OSL-3"
+        ]
+      },
+      "bracket_if_reported_sample_depths_are_used_as_below_319": {
+        "status": "outside_sample_range",
+        "sample_ids": []
+      }
+    },
+    {
+      "specimen_id": "CCMS XU1 L20 FS038 1c",
+      "source_id": "S138",
+      "locator": "Results: Lizard maxillae temporal resolution",
+      "reported_elevation_m": 316.9,
+      "computed_depth_below_319_m": 2.1,
+      "bracket_using_reported_elevations": {
+        "status": "bracketed",
+        "sample_ids": [
+          "CCMS-OSL-2",
+          "CCMS-OSL-3"
+        ]
+      },
+      "bracket_if_reported_sample_depths_are_used_as_below_319": {
+        "status": "bracketed",
+        "sample_ids": [
+          "CCMS-OSL-4",
+          "CCMS-OSL-3"
+        ]
+      }
+    }
+  ],
+  "limits": [
+    "Source depth origins and survey precision remain unresolved.",
+    "Same elevation does not establish the same bed across separate locations.",
+    "The mixed-reference scenario is conditional, not a recovered implementation.",
+    "No replacement ages, regression, uncertainty intervals or geological correction inferred."
+  ]
+}

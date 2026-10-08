@@ -130,3 +130,22 @@ Figure 1 separately depicts a scapula and humerus described as partially articul
 The later S32 Figure 6 (PDF p.7), visually rechecked, labels its axis as grid elevation with NAVD 88 values in parentheses: 293 corresponds to 315 m, 294 to 316, through 297 to 319. These displayed pairs have a **22 m offset**. The early S152 wording gives 293 m MSL. A local-grid/reference-label mix-up is therefore a concrete possibility to investigate, **not an established correction**; neither the original survey documentation nor the early value's exact measurement point has been recovered. The poster's 956 ft point is likewise not automatically the mammoth elevation. Do not infer uplift, subsidence or a hydraulic water depth from these unmatched values.
 
 Next obtain the original survey reference and field section/bone logs, and cross-identify the two panorama locations with later plans. The assay-report gap remains open. The poster is linked, not redistributed; it includes third-party illustrations and photographs whose rights have not been separately cleared.
+
+## Depth reference audit for the later fossil-age model
+
+S138's chronology text describes the four OSL depths as below a maximum elevation of 319 m. S32 Table 2, visually rechecked in the original PDF p.8, supplies both depths and NAVD 88 elevations. Those pairs do not imply a common 319 m zero:
+
+| Sample | Reported depth, m | Reported elevation, m | Depth + elevation, m | Computed depth below 319 m |
+| --- | ---: | ---: | ---: | ---: |
+| CCMS-OSL-1 | 4.00 | 315.7 | 319.70 | 3.30 |
+| CCMS-OSL-2 | 3.65 | 316.3 | 319.95 | 2.70 |
+| CCMS-OSL-3 | 2.20 | 317.5 | 319.70 | 1.50 |
+| CCMS-OSL-4 | 1.80 | 318.0 | 319.80 | 1.00 |
+
+The differences are 0.70–0.95 m. Different local sampling surfaces could explain nonidentical depth origins; the table alone does not establish an error in either measurement. It does show that the printed depths cannot simultaneously be exact vertical distances below 319 m at the listed elevations. The original survey and regression coordinates must be recovered before assigning a correction.
+
+S138's results give specimen elevations of 317.4 m for L15 FS021 1a and 316.9 m for L20 FS038 1c. Both lie numerically between OSL-2 and OSL-3 elevations. If instead those fossil elevations are converted to depths below 319 m while the original sample depths are treated as sharing that zero, L15 falls outside the sample-depth range and L20 falls between OSL-4 and OSL-3. [Executable arithmetic](../analysis/check_coyote_depth_reference.py) and [complete results](../data/coyote-depth-reference-check.json) preserve both comparisons.
+
+This is a conditional coordinate-consistency diagnostic, not a reproduction of the authors' polynomial implementation. Numerical elevation bracketing does not prove lateral bed equivalence. No replacement fossil ages or uncertainty intervals are calculated. Resolve depth origins, specimen-to-section correspondence and regression inputs together; the earlier uncertainty discrepancy remains separate. This issue affects the auditability of the inferred wildlife chronology, not the anatomical identification by itself.
+
+The renewed mammoth-assay search did not recover the 2012 abstract or certificates. The Internet Archive availability endpoint returned no snapshot for the specific old Minnesota PDF URL; two broader CDX requests returned HTTP 503. These are bounded retrieval failures, not evidence that the document or measurements never existed. Later quotations of its aggregate date remain derivative records.

@@ -2216,8 +2216,8 @@
       "url": "https://onlinelibrary.wiley.com/doi/10.1002/jqs.3595",
       "source_type": "Original research article",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "Chronology subsection; Figure 2 caption; Barton 2012 reference.",
-      "limitations": "HTML text inspected; regression and laboratory records not reproduced.",
+      "inspected": "HTML chronology subsection, Figure 2 caption, Results: Lizard maxillae temporal resolution, and Barton 2012 reference. Depth-reference statement compared with S32 Table 2.",
+      "limitations": "HTML portions inspected; figures, original regression inputs and laboratory records not reproduced. Depth-reference and reported OSL uncertainty discrepancies remain unresolved.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"

@@ -1085,3 +1085,8 @@ Previous turn made verified public progress. Recovered original S219 map sheet a
 ### 2026-10-08 — Colorado cross-case integration
 
 The immediately preceding model-switch acknowledgment was no progress; the last substantive research checkpoint was published section-level matching. Revalidated the clean checkout and read the current protocol, standards, workplan and Colorado audit. Integrated existing source-backed findings into the cross-case inference and dependency table, and specified the lower Colorado model inputs without inventing hydraulic values. Corrected the burial audit's stale opening status to distinguish completed diagnostic fits from the unreproduced original age calculation. Updated the inventory count to the current registry. This tranche synthesizes existing inspected evidence; it adds no new field observation, external source, event date, independent review or prospective success. The decisive locality task remains a specimen-to-cut-to-contact crosswalk rather than more general cadastral agreement.
+
+
+### 2026-10-08 — Coyote Canyon depth-reference audit
+
+Previous turn made verified public progress. Revisited C015 and searched exact mammoth assay/title and conference/site archive leads. Specific Minnesota PDF availability lookup returned no snapshot; two CDX queries returned HTTP 503. Independently useful progress came from S138 chronology/results HTML compared with a visual recheck of S32 Table 2: depth-reference discrepancy quantified with a standard-library script and conditional specimen-bracketing results. No original regression reproduction, replacement dates or specimen identification correction claimed. Basic bracket checks passed; all calculated fields remain distinct from reported measurements.

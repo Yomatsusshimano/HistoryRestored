@@ -1586,6 +1586,11 @@
           "source_id": "S156",
           "locator": "p.24, site 01 (regional comparison, not Coyote specimen)",
           "statement": "Dead Canyon compilation reports GX-1457 at 4905 +/-140 radiocarbon BP and a conflicting older stratigraphic interpretation. Original assay and preparation remain unverified."
+        },
+        {
+          "source_id": "S138",
+          "locator": "Chronology subsection and Results: Lizard maxillae temporal resolution; compared with S32 Table 2",
+          "statement": "Describes OSL depths below 319 m, but original depth/elevation pairs imply zeros of 319.70-319.95 m. Conditional coordinate audit changes numerical specimen bracketing; actual regression inputs and any age consequences remain unresolved."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",
@@ -1599,7 +1604,7 @@
         "Dating or context errors requiring laboratory and field checks"
       ],
       "counterevidence": "Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.",
-      "next_test": "Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing. Reconcile S138 OSL uncertainty reporting and reproduce its depth-to-age model before extending the wildlife chronology. Match recovered S153 section locations/contacts to later excavation sections and identified bones; test whether the early elevation report used a local grid before hydraulic use.",
+      "next_test": "Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing. Reconcile S138 OSL uncertainty reporting and reproduce its depth-to-age model before extending the wildlife chronology. Match recovered S153 section locations/contacts to later excavation sections and identified bones; test whether the early elevation report used a local grid before hydraulic use. Resolve the 319 m depth reference against original sample elevations before reproducing S138 regression; do not substitute computed depths without the survey crosswalk.",
       "chronology": {
         "reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json",
         "dated_object": "Quartz-bearing sediment and previously reported bone material",
@@ -1616,7 +1621,8 @@
         "Horizontal coordinate datum and OSL time-reference audit",
         "XRF profiles, original/revised contacts and underlying 15 cm measurement cited by S101",
         "Specimen custody, field logs and comparable regional discovery-effort denominator for the S154/S155 distribution comparison",
-        "Dead Canyon GX-1457 original assay, dated fraction, specimen custody and original fossil/stratigraphic report"
+        "Dead Canyon GX-1457 original assay, dated fraction, specimen custody and original fossil/stratigraphic report",
+        "S138 depth-reference definition, original regression coordinates and specimen-to-section survey crosswalk"
       ],
       "dependence": "All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study. The 2012 four-bed statement explicitly cites the 2010 work; it is not an independent repetition."
     },
