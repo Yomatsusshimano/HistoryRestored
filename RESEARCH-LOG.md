@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Regional candidate-window comparison
+
+Previous turn made progress: f733816 published nine publicly byte-verified files. Clean checkout confirmed. Compared existing S68 Bonneville and S72/S73 Electron calendar ledgers without adding sources or recalibrating dates. A reproducible input-hashed calculation retains all five matching-coverage variants; their minimum touching windows span 21–46 years. Instantaneous, one-year and decadal scenarios fail the conditional interval test, while 50-year scenarios fit geometrically. Added explicit shared-dependency, association and confidence limits; a uniform calendar shift cannot remove the separation. Tests check interval geometry only. Corrected stale inventory counts in the workplan. Full goal remains active.
+
 ## 2026-10-08 - Original Campo dating disclosure
 
 Previous turn made progress: 4673755 published seven publicly byte-verified files; clean checkout confirmed. Retrieved the 2008 original publication from UNLP and rendered pp.106-107. Added S106 and six specimen-linked quality rows. AA-71665 collagen/carbon values and pre-existing dating caution are now directly documented; preparation label remains unresolved. Preserved the level-0 versus later BGL depth difference without assuming equivalent datums or changing coordinates. This supports a documented public revision history, not a finding of fabricated chronology. Full goal remains active.

@@ -32,6 +32,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Missoula stratigraphy](research/MISSOULA-STRATIGRAPHY.md): mapped sections, intervening couplets and conditional ash-linked chronology.
 - [Missoula model audit](research/MISSOULA-MODEL-AUDIT.md): field controls, source discrepancies and requirements for reproduction.
 - [Physical constraints](PHYSICAL-MODEL.md): equations and required inputs; no fitted reconstruction yet.
+- [Regional event-window comparison](research/REGIONAL-EVENT-WINDOWS.md): conditional Bonneville–Electron duration tests across every recorded interval variant.
 - [Full workplan](WORKPLAN.md): evidence needed for every original outcome.
 - [Research log](RESEARCH-LOG.md): inspected sources, limitations, and next actions.
 - [Structured records](data/cases.json) and [source registry](data/sources.json).

@@ -1,0 +1,130 @@
+{
+  "status": "RETROSPECTIVE_CONDITIONAL_COMPARISON",
+  "case_ids": [
+    "C019",
+    "C020"
+  ],
+  "source_ids": [
+    "S68",
+    "S72",
+    "S73"
+  ],
+  "inputs_sha256": {
+    "data/bonneville-dates.json": "6b70edba4cf8ee690a7b54cdc1e753418d44945e180469163e5005268c60e238",
+    "data/electron-model-selection.json": "5be97ea27bea472fe1617e9abed29fb9b611bceaeb0751cc1bc48400c0a60d61"
+  },
+  "definition": "Smallest closed window intersecting both reported calendar intervals; no joint confidence assigned.",
+  "comparisons": [
+    {
+      "reported_marginal_percent": "95.4",
+      "bonneville_CE": [
+        1426,
+        1448
+      ],
+      "electron_variant": "figure_A_five_samples",
+      "electron_CE": [
+        1485,
+        1516
+      ],
+      "minimum_touching_window_years": 37,
+      "duration_feasibility": {
+        "0": false,
+        "1": false,
+        "10": false,
+        "25": false,
+        "50": true,
+        "100": true
+      }
+    },
+    {
+      "reported_marginal_percent": "95.4",
+      "bonneville_CE": [
+        1426,
+        1448
+      ],
+      "electron_variant": "figure_B_seven_samples",
+      "electron_CE": [
+        1494,
+        1520
+      ],
+      "minimum_touching_window_years": 46,
+      "duration_feasibility": {
+        "0": false,
+        "1": false,
+        "10": false,
+        "25": false,
+        "50": true,
+        "100": true
+      }
+    },
+    {
+      "reported_marginal_percent": "99.7",
+      "bonneville_CE": [
+        1421,
+        1455
+      ],
+      "electron_variant": "figure_A_five_samples",
+      "electron_CE": [
+        1476,
+        1522
+      ],
+      "minimum_touching_window_years": 21,
+      "duration_feasibility": {
+        "0": false,
+        "1": false,
+        "10": false,
+        "25": true,
+        "50": true,
+        "100": true
+      }
+    },
+    {
+      "reported_marginal_percent": "99.7",
+      "bonneville_CE": [
+        1421,
+        1455
+      ],
+      "electron_variant": "figure_B_seven_samples",
+      "electron_CE": [
+        1486,
+        1528
+      ],
+      "minimum_touching_window_years": 31,
+      "duration_feasibility": {
+        "0": false,
+        "1": false,
+        "10": false,
+        "25": false,
+        "50": true,
+        "100": true
+      }
+    },
+    {
+      "reported_marginal_percent": "99.7",
+      "bonneville_CE": [
+        1421,
+        1455
+      ],
+      "electron_variant": "release_abstract_99_7",
+      "electron_CE": [
+        1477,
+        1522
+      ],
+      "minimum_touching_window_years": 22,
+      "duration_feasibility": {
+        "0": false,
+        "1": false,
+        "10": false,
+        "25": true,
+        "50": true,
+        "100": true
+      }
+    }
+  ],
+  "limits": [
+    "Intervals and event associations are accepted conditionally, not recalibrated or independently validated.",
+    "Published variants are dependent alternatives, not independent replications.",
+    "A feasible duration is not evidence of a common mechanism or continuous episode.",
+    "A common additive calendar shift preserves all separations."
+  ]
+}
