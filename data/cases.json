@@ -394,6 +394,16 @@
           "source_id": "S29",
           "locator": "Stops 2.3-2.5, pp. 275-277; Figure 17 p. 273; Table 1 p. 277",
           "statement": "Mapped sections provide flow-direction contrasts, intervening couplets and a conditional tephra-anchored chronology; uncertainties and shared dating dependencies are retained in research/MISSOULA-STRATIGRAPHY.md."
+        },
+        {
+          "source_id": "S30",
+          "locator": "pp. 605-608, especially conclusions p. 608",
+          "statement": "A regional alternative explains selected downstream beds as pulses within a flood while retaining centuries of lake sedimentation and a broader multiple-flood history; its printed water budget is audited separately."
+        },
+        {
+          "source_id": "S31",
+          "locator": "Retrieved opening comment, printed p. 573",
+          "statement": "An early modeling comment reports downstream inundation deficits under stated assumptions; the retrieved fragment is incomplete and no simulation was rerun."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.",
@@ -401,11 +411,11 @@
       "source_interpretation": "Authors infer repeated glacial-outburst floods.",
       "investigation_inference": "Catastrophic processes are a valid comparison; evidence of intervals tests a single-episode version.",
       "competing_explanations": [
-        "Repeated outburst floods",
-        "One episode only if intervening time indicators are convincingly reinterpreted"
+        "Repeated outburst floods with intervening lake sedimentation",
+        "Shaw et al. regional pulse model for selected downstream sections with additional water sources; not a single event for all Scabland history"
       ],
       "counterevidence": "Intervening time indicators challenge treating the whole sequence as one uninterrupted event.",
-      "next_test": "Inspect original section logs, annuality indicators, tephra analyses and charcoal context; resolve Long site 11 from the 2019 table; obtain complete model inputs.",
+      "next_test": "Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs.",
       "chronology": {
         "reported": "Last-glacial sequence; S29 derives a conditional 15.8-14.9 cal ka interval for final Missoula floods from tephra correlation and varve counts, not a direct date of every flood.",
         "dated_object": "Flood sequence in review",

@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Competing pulse interpretation and water-budget check
+
+Previous goal turn made progress: c749e29 published eight verified public files. Revalidated clean checkout. The original Atwater 1986 report again returned HTTP 403. Searches located a university-hosted copy of Shaw et al. 1999 and a partial 2000 Komatsu comment. Inspected relevant original arguments; visually checked Shaw's p. 608 exponents and scope qualifications. The comment mirror contains only its opening, alongside unrelated correspondence, so no complete-debate review is claimed. Crossref metadata verified DOI identities.
+
+Added S30-S31, an explicit competing account in C008, transcribed budget inputs and an executable constant-discharge calculation. The author's approximate volume, discharge and duration are retained unchanged. Computation gives 1,157.407 days, 11.574 times the stated 100 days. A tenfold-discharge sensitivity is labeled our calculation, not an erratum. The issue does not by itself adjudicate the source's sedimentary evidence or prove a correct hydrograph.
+
+The audit preserves the alternative's narrower scope and does not equate it with the worldwide starting claim. Original annuality tests, the complete exchange, reservoir constraints and hydraulic reproduction remain open. Fourteen sourced drafts and thirty-one sources; zero independent reviews.
+
 ## 2026-10-08 - Sanpoil stratigraphy and conditional age anchor
 
 Previous turn made progress: 8dba221 published ten public-byte-verified files. Clean checkout rechecked. Traced Long site 11's citation to Waitt, Long and Stanton (2019), DOI 10.3955/046.092.0503. Crossref resolved its publisher URL; the publisher returned a security-check page, not article text. No bypass attempted and the original table remains unverified.

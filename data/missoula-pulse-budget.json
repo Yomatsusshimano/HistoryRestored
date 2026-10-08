@@ -1,0 +1,12 @@
+{
+  "source_id": "S30",
+  "case_id": "C008",
+  "locator": "Conclusions, printed p. 608 / PDF p. 4",
+  "printed_volume_km3": 100000,
+  "printed_discharge_m3_s": 1000000,
+  "printed_duration_days": 100,
+  "source_precision": "Approximate/order-of-magnitude quantities; no numeric error bars provided.",
+  "volume_observed": false,
+  "hydrograph_available_in_this_record": false,
+  "exponents_visually_checked": true
+}

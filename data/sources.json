@@ -536,6 +536,50 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S30",
+      "title": "The Channeled Scabland: Back to Bretz?",
+      "url": "https://faculty.washington.edu/tswanson/302add/ESS%20Readings/Bretz.pdf",
+      "doi": "10.1130/0091-7613(1999)027<0605:tcsbtb>2.3.co;2",
+      "creator": "John Shaw, Mandy Munro-Stasiuk, Brian Sawyer, Claire Beaney, Jerome-Etienne Lesemann, Alberto Musacchio, Bruce Rains and Robert R. Young",
+      "publication_date": "1999-07",
+      "source_type": "original research",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Relevant interpretation text pp. 605-608; conclusions and volume/discharge exponents p. 608 visually checked.",
+      "limitations": "No field replication, reservoir reconstruction or complete subsequent debate reviewed. See research/MISSOULA-PULSE-ALTERNATIVE.md.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://faculty.washington.edu/tswanson/302add/ESS%20Readings/Bretz.pdf",
+          "sha256": "5db9a2b0d7ba9bbc7b1de74f89235f4c937eb999d58b40952eff60fade6136aa",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S31",
+      "title": "The Channeled Scabland: Back to Bretz?: Comment (retrieved opening fragment)",
+      "url": "https://www.droyer.wescreates.wesleyan.edu/reply.pdf",
+      "doi": "10.1130/0091-7613(2000)28<573:tcsbtb>2.0.co;2",
+      "creator": "G. Komatsu, H. Miyamoto, K. Ito, H. Tosaka and T. Tokunaga",
+      "publication_date": "2000-06",
+      "source_type": "published scientific comment fragment",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "PDF p. 2 / printed p. 573 opening comment extracted; neighboring unrelated correspondence excluded.",
+      "limitations": "PDF ends before the comment finishes. Continuation, figure, references and author reply not reviewed; simulation not reproduced.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.droyer.wescreates.wesleyan.edu/reply.pdf",
+          "sha256": "9bab683ff0d6c704be87b0ee89de0cb6b2f3011102207d8d38b44e9fa94a5696",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }
