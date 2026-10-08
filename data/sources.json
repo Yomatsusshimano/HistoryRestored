@@ -2652,6 +2652,28 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S163",
+      "title": "Pleistocene glacial-lake deposits of the Sanpoil River valley, northeastern Washington, USGS Bulletin 1661",
+      "creator": "Brian F. Atwater",
+      "publication_date": "1986",
+      "url": "https://pubs.usgs.gov/bul/1661/report.pdf",
+      "source_type": "original stratigraphic report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp.11,14,16 / PDF pp.19,22,24 visually inspected, including Figure 9 and Figures 11-12. Selected surrounding stratigraphy text read via extraction.",
+      "limitations": "Partial inspection of 48-page PDF. Full bed correlations, foldout plates, raw counts and cited regional chronology not independently audited. Annuality argument is conditional; reported counts include interpretive and estimated components.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://pubs.usgs.gov/bul/1661/report.pdf",
+          "sha256": "4c11a6ae2618f743b0e1f759868521dc1db2a30256c7606595aece6cc10089f5",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "status": "SOURCED_DRAFT",
+  "source_id": "S163",
+  "locator": "p.11",
+  "reported_counted_range": [
+    1586,
+    2291
+  ],
+  "estimated_additions": [
+    {
+      "reason": "Removed during flood-bed deposition",
+      "range": [
+        100,
+        200
+      ]
+    },
+    {
+      "reason": "Nine uncounted intervals; neighboring-interval analogy",
+      "range": [
+        200,
+        300
+      ]
+    },
+    {
+      "reason": "Mostly arhythmic deposits at altitude 503-515 m; sedimentation-rate extrapolation",
+      "range": [
+        200,
+        400
+      ]
+    }
+  ],
+  "source_rough_total": [
+    2000,
+    3000
+  ],
+  "endpoint_sum": [
+    2086,
+    3191
+  ],
+  "endpoint_sum_interpretation": "Arithmetic only; source explicitly gives a rough rounded total, not an exact confidence interval",
+  "annuality": {
+    "locator": "pp.14,16",
+    "source_argument": "Regional ice-sheet chronology and hypothesized duration of Columbia River blockage",
+    "source_upper_duration_years_per_typical_couplet": 3,
+    "source_suggested_duration_years_per_typical_couplet": 1,
+    "independent_annuality_verified": false,
+    "assessment": "Upper-duration argument alone supplies no positive lower bound and cannot uniquely establish annual rather than subannual deposition"
+  },
+  "modern_calendar_duration": null
+}

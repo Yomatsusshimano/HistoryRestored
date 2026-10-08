@@ -675,6 +675,11 @@
           "source_id": "S125",
           "locator": "Section 3.1, Table 1",
           "statement": "Grand Coulee discharge estimates depend on reconstructed versus present terrain and outlet configuration; see research/GRAND-COULEE-MODEL.md."
+        },
+        {
+          "source_id": "S163",
+          "locator": "pp.11,14,16",
+          "statement": "Original Sanpoil report separates counted couplets from estimates for missing/uncounted sediment and argues annuality using regional ice chronology; this is not a direct seasonal measurement."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.",
@@ -700,7 +705,8 @@
         "Independent inspection of original measured sections",
         "Original dating/tephra assays and sample context",
         "Complete executable model inputs",
-        "Independent field and simulation review"
+        "Independent field and simulation review",
+        "Independent annuality test and original correlations for S163 Sanpoil couplets; separate counted from estimated components"
       ],
       "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood."
     },

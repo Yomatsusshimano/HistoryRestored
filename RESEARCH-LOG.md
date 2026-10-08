@@ -756,3 +756,7 @@ Exact Dead Canyon archive query timed out; no availability conclusion drawn. Rec
 ### 2026-10-08 — Moxee contacts and clastic-dike mechanisms
 
 Recovered Black 1979 RHO-BWI-C-64 from OSTI, hashed the 77-page PDF, visually inspected printed pp.59-63 and read abstract/introduction text. Added S161 with limited inspection scope. Read full Howard et al. 2020 GSA abstract (S162); uploaded-presentation list had no retrieved files. Compared their mechanism limits with already inspected S160 contacts and dike descriptions. Added a feature-by-feature audit: sequencing does not establish dry intervals, and dike termination needs distinction from propagation arrest. Retained the three-flood interpretation as unvalidated rather than replacing it with an established single event. No model run or interval measurement claimed.
+
+### 2026-10-08 — Original Sanpoil counting assumptions recovered
+
+Downloaded and hashed Atwater 1986 Bulletin 1661; visually checked printed pp.11,14,16, including section comparison and core photograph. Added S163 and structured ranges distinguishing counted couplets, erosion estimates, uncounted intervals and sedimentation-rate extrapolation. Checked endpoint arithmetic (2086-3191), retaining source rough total (2000-3000). Annuality discussion relies on regional ice chronology and proposed blockage duration; recorded why its upper bound does not uniquely establish annuality. Full plates and independent annuality tests remain pending.

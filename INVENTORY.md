@@ -305,6 +305,7 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 - Alternative canyon geometry changes inferred discharge; transport-volume agreement retains calibration and inherited-data dependencies. See research/MISSOULA-PALEOCANYON.md. [S58](https://doi.org/10.1029/2022GL097861). Locator: Sections 3-6. Access: FULL_TEXT_PORTION. Limit: No model reproduction. Existing controls and hydrographs reused; sediment-size match is not independent erosion-volume validation.
 - Repository designates external Globus storage; no model files retrieved. Availability supplement records actual access limits. [S59](https://doi.org/10.7275/2d19-f718). Locator: Item metadata and ORIGINAL bundle API, checked 2026-10-08. Access: CATALOG_METADATA. Limit: Designated Globus files and README not accessed; advertised contents not independently inventoried.
 - Grand Coulee discharge estimates depend on reconstructed versus present terrain and outlet configuration; see research/GRAND-COULEE-MODEL.md. [S125](https://doi.org/10.1029/2021JF006135). Locator: Section 3.1, Table 1. Access: FULL_TEXT_PORTION. Limit: Model outputs not reproduced; figure graphics and supplement not inspected.
+- Original Sanpoil report separates counted couplets from estimates for missing/uncounted sediment and argues annuality using regional ice chronology; this is not a direct seasonal measurement. [S163](https://pubs.usgs.gov/bul/1661/report.pdf). Locator: pp.11,14,16. Access: SCAN_INSPECTED. Limit: Partial inspection of 48-page PDF. Full bed correlations, foldout plates, raw counts and cited regional chronology not independently audited. Annuality argument is conditional; reported counts include interpretive and estimated components.
 
 **Physical evidence:** Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.
 
@@ -324,7 +325,7 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 
 **Chronology:** {"reported": "Last-glacial sequence; S29 derives a conditional 15.8-14.9 cal ka interval for final Missoula floods from tephra correlation and varve counts, not a direct date of every flood.", "dated_object": "Flood sequence in review", "method": "Reported multiple methods; not individually reanalyzed", "raw_date": null, "uncertainty": null, "timescale": "Geological interval", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Independent inspection of original measured sections; Original dating/tephra assays and sample context; Complete executable model inputs; Independent field and simulation review
+**Missing:** Independent inspection of original measured sections; Original dating/tephra assays and sample context; Complete executable model inputs; Independent field and simulation review; Independent annuality test and original correlations for S163 Sanpoil couplets; separate counted from estimated components
 
 ## C009: Yukon mammoth and horse sedimentary DNA
 

@@ -218,3 +218,5 @@ Dead Canyon retrieval narrowed: S158 archived journal contents supplies exact or
 Moxee C024: original field study S160 inspected throughout. Recover CAMS 79942 certificate, Stafford preparation and museum accession/field records; independently date sediment units. Preserve 15300/19000 older-bound discrepancy and audit the assumed ordering of lower beds versus tusk death.
 
 Moxee flood-count audit: S160 contacts are gradational; some dikes terminate and others cross boundaries. S161 original regional mechanism discussion recovered; S162 laboratory claim remains abstract-only. Obtain original contact geometry and test separate-inundation versus within-inundation deformation before assigning flood count or intervals.
+
+Sanpoil S163 recovered: original count/estimate separation and conditional annuality argument inspected. Audit full correlations, independent seasonal evidence and paleomagnetic tests next; regional upper-duration consistency alone does not establish a one-year couplet.

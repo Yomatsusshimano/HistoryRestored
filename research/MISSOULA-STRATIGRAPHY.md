@@ -25,3 +25,13 @@ Detrital wood USGS-1860 is reported as 14,490 ± 290 radiocarbon years BP, with 
 This source does not resolve the Long site 11 coordinate issue in the [model audit](MISSOULA-MODEL-AUDIT.md). The cited 2019 erratics paper was located through DOI metadata, but the publisher returned a security-check page; its original Table 1 is not claimed as inspected.
 
 Next retrieve Atwater's 1986 measured sections and original tephra analyses, test annuality and cross-section matching, and audit the charcoal's collection context. Keep alternative ash identifications and reworking in a sensitivity analysis. No recent worldwide event date, historical fabrication mechanism, or reconstructed global geography follows from these regional records.
+
+## Original 1986 count and annuality argument
+
+[Atwater (1986), S163](https://pubs.usgs.gov/bul/1661/report.pdf), printed pp.11,14,16, is now directly inspected. Page 11 reports counted ranges totaling 1,586–2,291, then estimates additions for erosion (100–200), nine uncounted intervals (200–300), and mostly arhythmic deposits (200–400). The stated 2,000–3,000 total is explicitly rough. Endpoint addition gives 2,086–3,191; this arithmetic is not a corrected duration or confidence interval. These older quantities must not be silently substituted for the later guide's differently scoped 1,800–2,600 range. See [structured transcription](../data/sanpoil-varve-counts.json).
+
+Pages 14 and 16 argue that regional glacier chronology allows at most approximately three years per typical couplet and that one year is plausible, using a proposed fraction of the glacier's excursion spent blocking the Columbia River. This is a contextual consistency argument. Our inference: an upper bound alone cannot establish a one-year period or rule out subannual deposition. It also does not demonstrate that rapid deposition occurred. The underlying glacier chronology and blockage-duration assumption require their own checks.
+
+Figure 9 (p.14) compares F-8, F-9 and V-9 across four localities, including lateral changes and inferred erosion. Figure 12 (p.16) shows borehole material bracketing F-11. These give observable correlation and sediment-fabric targets beyond a simple layer count. Neither image by itself dates a couplet. Full plates and bed-by-bed correlations remain unaudited.
+
+Retain the reported repeated-deposition interpretation while testing its timescale separately. Independent seasonal indicators, additional chronological controls, and the paleomagnetic record are next discriminators; repeating the same varve-derived chronology cannot independently validate annuality.
