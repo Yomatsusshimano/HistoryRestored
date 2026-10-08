@@ -46,3 +46,7 @@ Do not use this selected inventory as a demonstrated simultaneous death assembla
 The highest-value next mortality check is specimen-specific preparation and later-redating review of the sloth endpoint samples AA-58439, AA-58434 and AA-58431. For deposition, audit Coyote Canyon field contacts, original mammoth assays and camel pooling/quality controls. For older geography, verify Thistle Creek ash chemistry and the camel exposure history. Recover specimen-level muskox metadata before drawing migration corridors.
 
 This purposive collection is not a prevalence sample, a complete wildlife range map, a reconstructed lost geography or an independently reviewed synthesis. No held-out prediction has succeeded, and the original twenty objectives remain intact and incomplete.
+
+## Spatial coverage audit
+
+The [locality map and coverage ledger](WILDLIFE-GEOGRAPHY.md) now distinguish ten reported positions across four cases from five cases with no audited coordinates. Sediment samples and regional/site coordinates remain separate from animal findspots. No species range, transport corridor or common horizon follows from this map.

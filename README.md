@@ -25,6 +25,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Muskox methods audit](research/MUSKOX-METHODS.md): sample accounting, genetic-model assumptions and causal limits.
 - [Arctic hyena audit](research/ARCTIC-HYENA.md): identified teeth, a mapped collection locality and reworking limits.
 - [Camp Century audit](research/CAMP-CENTURY.md): fossil plants, later sediment dating and shared-sample limits.
+- [Wildlife locality map](research/WILDLIFE-GEOGRAPHY.md): reported positions, coordinate roles and explicit unmapped cases.
 - [Wildlife comparison](research/WILDLIFE-COMPARISON.md): separate tests of common mortality, deposition and population disruption.
 - [Thistle Creek horse audit](research/THISTLE-CREEK.md): geological age and genomic calibration dependence.
 - [Coyote Canyon fossil–flood audit](research/COYOTE-CANYON.md): separate animal and sediment dates, reworking and overlapping age ranges.

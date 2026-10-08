@@ -1,0 +1,89 @@
+{
+  "scope": "Nine selected audited cases; not species ranges or exhaustive geographic coverage",
+  "coordinate_case_count": 4,
+  "unmapped_case_count": 5,
+  "point_count": 10,
+  "cases": [
+    {
+      "case_id": "C003",
+      "title": "High Arctic camel-bearing deposits",
+      "reported_place": "Ellesmere Island, Nunavut, Canada",
+      "mapped_features": 1,
+      "coordinate_status": "AUDITED_COORDINATE_AVAILABLE",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/ARCTIC-CHRONOLOGY.md"
+    },
+    {
+      "case_id": "C009",
+      "title": "Yukon mammoth and horse sedimentary DNA",
+      "reported_place": "Klondike goldfields, Yukon, Canada",
+      "mapped_features": 0,
+      "coordinate_status": "NOT_RECOVERED_IN_AUDIT",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/ARCTIC-CHRONOLOGY.md"
+    },
+    {
+      "case_id": "C011",
+      "title": "Haitian sloth bone chronology",
+      "reported_place": "Haiti and Ile de la Tortue; sample-specific localities in dating records",
+      "mapped_features": 0,
+      "coordinate_status": "NOT_RECOVERED_IN_AUDIT",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/SLOTH-CHRONOLOGY.md"
+    },
+    {
+      "case_id": "C012",
+      "title": "Muskox ancient-DNA population and geographic model",
+      "reported_place": "Urals, Taimyr, Northeast Siberia, North America and Greenland",
+      "mapped_features": 0,
+      "coordinate_status": "NOT_RECOVERED_IN_AUDIT",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/MUSKOX-METHODS.md"
+    },
+    {
+      "case_id": "C013",
+      "title": "Old Crow Arctic hyena teeth in reworked river deposits",
+      "reported_place": "CRH 11A, lower Old Crow River, Yukon, Canada",
+      "mapped_features": 1,
+      "coordinate_status": "AUDITED_COORDINATE_AVAILABLE",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/ARCTIC-HYENA.md"
+    },
+    {
+      "case_id": "C014",
+      "title": "Camp Century fossil plants and upper sediment luminescence",
+      "reported_place": "Camp Century, northwestern Greenland",
+      "mapped_features": 1,
+      "coordinate_status": "AUDITED_COORDINATE_AVAILABLE",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/CAMP-CENTURY.md"
+    },
+    {
+      "case_id": "C015",
+      "title": "Coyote Canyon mammoth and reworked camel comparison",
+      "reported_place": "Coyote Canyon, Benton County, Washington, USA",
+      "mapped_features": 7,
+      "coordinate_status": "AUDITED_COORDINATE_AVAILABLE",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/COYOTE-CANYON.md"
+    },
+    {
+      "case_id": "C016",
+      "title": "Thistle Creek horse chronology and calibration dependence",
+      "reported_place": "Thistle Creek, Yukon, Canada",
+      "mapped_features": 0,
+      "coordinate_status": "NOT_RECOVERED_IN_AUDIT",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/THISTLE-CREEK.md"
+    },
+    {
+      "case_id": "C022",
+      "title": "Campo Laborde sloth: same-specimen chemical redating",
+      "reported_place": "Campo Laborde, Argentine Pampas",
+      "mapped_features": 0,
+      "coordinate_status": "NOT_RECOVERED_IN_AUDIT",
+      "missing_coordinate_is_absence_evidence": false,
+      "audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/CAMPO-LABORDE.md"
+    }
+  ]
+}

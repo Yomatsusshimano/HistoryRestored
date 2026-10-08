@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Wildlife locality coverage and Camp Century custody
+
+Previous turn made progress: 312645b published nine byte-verified files. Audited current coordinate fields and recovered the Camp Century CC 63-66 catalog location/custody lead as S134. Generated ten source-linked points across four cases and a ledger retaining five unmapped cases. No geocoded substitutes, migration paths, death-site assignments or simultaneous-event inference. Numeric bounds, source references and feature identifiers checked during build. Full goal remains active.
+
 ## 2026-10-08 - Campo Laborde arithmetic and mixing audit
 
 Previous turn made progress: 44fddad published seven byte-verified files. Current scan check confirms one fraction-modern/age mismatch in Table 1, retained without correcting either field. Added S133 conversion reference, seven-row arithmetic and four conditional mixing scenarios. Three analytic implementation tests pass. Original assays, mixture composition, yield/blank balance and uncertainty remain unresolved; no new specimen date or catastrophe inference. Full goal remains active.

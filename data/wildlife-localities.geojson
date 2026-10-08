@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5,
+          78.55
+        ]
+      },
+      "properties": {
+        "name": "High Arctic camel-bearing deposits",
+        "case_id": "C003",
+        "coordinate_role": "Published regional approximation shared by BP and FLB, not an exact specimen location",
+        "source_id": "S13",
+        "source_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fncomms2516/MediaObjects/41467_2013_BFncomms2516_MOESM304_ESM.pdf",
+        "source_locator": "Table S3 caption, page 9",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/ARCTIC-CHRONOLOGY.md",
+        "marker-color": "#b7791f",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.904,
+          67.819
+        ]
+      },
+      "properties": {
+        "name": "Old Crow Arctic hyena teeth in reworked river deposits",
+        "case_id": "C013",
+        "coordinate_role": "Reported collection locality",
+        "source_id": "S24",
+        "source_url": "https://doi.org/10.5334/oq.64",
+        "source_locator": "Locality paragraph, article p.3",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/ARCTIC-HYENA.md",
+        "marker-color": "#276749",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1333333,
+          77.1666667
+        ]
+      },
+      "properties": {
+        "name": "Camp Century fossil plants and upper sediment luminescence",
+        "case_id": "C014",
+        "coordinate_role": "Catalog drill-site coordinate for CC 63-66, not individual plant position",
+        "source_id": "S134",
+        "source_url": "https://icecores.org/inventory/camp-century",
+        "source_locator": "Core(s) Available, CAMP CENTURY 1963-66 row",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/CAMP-CENTURY.md",
+        "marker-color": "#805ad5",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26479,
+          46.15864
+        ]
+      },
+      "properties": {
+        "name": "CCMS-OSL-1 / USU-2156",
+        "case_id": "C015",
+        "coordinate_role": "Sediment sampling position (flood sediment); not a fossil findspot",
+        "source_id": "S32",
+        "source_url": "https://doi.org/10.3390/quat4030020",
+        "source_locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/COYOTE-CANYON.md",
+        "marker-color": "#2b6cb0",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26482,
+          46.1587
+        ]
+      },
+      "properties": {
+        "name": "CCMS-OSL-2 / USU-2157",
+        "case_id": "C015",
+        "coordinate_role": "Sediment sampling position (flood sediment); not a fossil findspot",
+        "source_id": "S32",
+        "source_url": "https://doi.org/10.3390/quat4030020",
+        "source_locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/COYOTE-CANYON.md",
+        "marker-color": "#2b6cb0",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26482,
+          46.1587
+        ]
+      },
+      "properties": {
+        "name": "CCMS-OSL-3 / USU-2158",
+        "case_id": "C015",
+        "coordinate_role": "Sediment sampling position (loess); not a fossil findspot",
+        "source_id": "S32",
+        "source_url": "https://doi.org/10.3390/quat4030020",
+        "source_locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/COYOTE-CANYON.md",
+        "marker-color": "#2b6cb0",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26484,
+          46.15867
+        ]
+      },
+      "properties": {
+        "name": "CCMS-OSL-4 / USU-2159",
+        "case_id": "C015",
+        "coordinate_role": "Sediment sampling position (loess); not a fossil findspot",
+        "source_id": "S32",
+        "source_url": "https://doi.org/10.3390/quat4030020",
+        "source_locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/COYOTE-CANYON.md",
+        "marker-color": "#2b6cb0",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26855,
+          46.15923
+        ]
+      },
+      "properties": {
+        "name": "CCCS-OSL-5 / USU-2160",
+        "case_id": "C015",
+        "coordinate_role": "Sediment sampling position (flood sediment); not a fossil findspot",
+        "source_id": "S32",
+        "source_url": "https://doi.org/10.3390/quat4030020",
+        "source_locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/COYOTE-CANYON.md",
+        "marker-color": "#2b6cb0",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2685,
+          46.15923
+        ]
+      },
+      "properties": {
+        "name": "CCCS-OSL-6 / USU-2161",
+        "case_id": "C015",
+        "coordinate_role": "Sediment sampling position (flood sediment); not a fossil findspot",
+        "source_id": "S32",
+        "source_url": "https://doi.org/10.3390/quat4030020",
+        "source_locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/COYOTE-CANYON.md",
+        "marker-color": "#2b6cb0",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26845,
+          46.15922
+        ]
+      },
+      "properties": {
+        "name": "CCCS-OSL-7 / USU-2162",
+        "case_id": "C015",
+        "coordinate_role": "Sediment sampling position (flood sediment); not a fossil findspot",
+        "source_id": "S32",
+        "source_url": "https://doi.org/10.3390/quat4030020",
+        "source_locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+        "source_datum": null,
+        "positional_uncertainty_metres": null,
+        "display_assumption": "Reported longitude/latitude plotted without datum transformation; orientation only, not survey precision.",
+        "death_site_established": false,
+        "event_correlation_established": false,
+        "dating_and_context_audit": "https://github.com/Yomatsusshimano/HistoryRestored/blob/main/research/COYOTE-CANYON.md",
+        "marker-color": "#2b6cb0",
+        "marker-size": "small"
+      }
+    }
+  ]
+}

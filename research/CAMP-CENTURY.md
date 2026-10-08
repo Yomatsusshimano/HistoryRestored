@@ -36,3 +36,7 @@ Figure 3 in each paper was visually checked from local PDF renders. Relevant mai
 [Structured dating records](../data/dating-records.json) retain separate fraction and pooled rows, shared-parent identifiers, uncertainty wording and both conflicting size labels. They are transcriptions, not a new calibration. No exact specimen coordinates, additional taxa, or unreported direct plant ages have been invented.
 
 Next: retrieve radiocarbon and luminescence supplements, reconcile the size labels and uncertainty definitions, and reproduce fading/residual-dose corrections from aliquots. Check plant transport and sample handling against core photographs and logs. Assess later work before treating this two-paper audit as a current comprehensive synthesis.
+
+## Catalog location and custody follow-up
+
+S134, the [NSF Ice Core Facility catalog](https://icecores.org/inventory/camp-century), supplies a CC 63-66 drill-site coordinate and directs basal-material custody to the Niels Bohr Institute. This supersedes missing site coordinates, while individual plant growth positions remain unknown. See the [spatial audit](WILDLIFE-GEOGRAPHY.md) for the coordinate role and precision limits. No custody-chain inspection or sampling has occurred.

@@ -930,7 +930,15 @@
       "title": "Camp Century fossil plants and upper sediment luminescence",
       "category": "fossil plants and glacial history",
       "place": "Camp Century, northwestern Greenland",
-      "coordinates": null,
+      "coordinates": {
+        "latitude": 77.1666667,
+        "longitude": -61.1333333,
+        "role": "Catalog drill-site coordinate for CC 63-66, not individual plant position",
+        "source_id": "S134",
+        "locator": "Core(s) Available, CAMP CENTURY 1963-66 row",
+        "datum": null,
+        "uncertainty_metres": null
+      },
       "status": "SOURCED_DRAFT",
       "reviewers": [],
       "claims": [
@@ -943,6 +951,11 @@
           "source_id": "S26",
           "locator": "Page 2 and Figure 3",
           "statement": "Upper sediment 1059-4 has a reported pooled corrected luminescence age of 416 plus/minus 38 ka; this is a mineral exposure/deposition interpretation, not direct plant dating."
+        },
+        {
+          "source_id": "S134",
+          "locator": "General Information and CC 63-66 catalog row",
+          "statement": "Catalog supplies a drill-site location and states that deep basal material is held at the Niels Bohr Institute in Copenhagen; retained NSF sections are not the basal sediment."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",
