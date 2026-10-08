@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Executed sloth interval comparison
+
+Previous goal turn made progress: d5539a0 published nine specimen records, and all nine changed public files were verified. Clean worktree rechecked. This turn added an executable interval-union/intersection and shortest-cover calculation, canonical input hash, result JSON and a matplotlib figure. No new source date or calibration was invented.
+
+Seven published calendar sets have no shared point. Their shortest covering window is 5,910 years; six same-species Neocnus comes sets require 3,870 years. Endpoint arithmetic independently checks both minima. These are descriptive properties of the transcribed sets, not 95% event-duration confidence limits or extinction estimates. Two rows without calendar intervals are explicitly excluded. This retrospective check does not test later reworking into one deposit.
+
+Four mathematical tests cover disjoint gaps, touching endpoints, nested ranges and missing inputs. They passed. Matplotlib was unavailable in the bundled interpreter; version 3.11.2 and dependencies were installed only under ignored tmp/plot-deps. The generated figure was visually inspected. Runtime packages are not committed. Source-quality and independent scientific review remain incomplete.
+
 ## 2026-10-08 - Haitian sloth sample chronology
 
 Previous goal turn made progress: Seattle audit 546f6c6 was published and all seven public files verified. Rechecked a clean worktree. Searched for original sloth radiocarbon research and read the 2005 paper's HTML Table 4, captions and chronology discussion. Added C011/S22 and all nine Table 4 rows, preserving split calendar intervals, an open lower bound, missing calendar values and unknown raw-error confidence. Supplement retrieval returned a browser-check page; no attempt was made to bypass it.

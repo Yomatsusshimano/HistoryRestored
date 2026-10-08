@@ -25,6 +25,25 @@ An older bone incorporated into a younger deposit would not require its biologic
 
 Different species, localities and dated elements remain separate records. Multiple bones under one laboratory identifier are not automatically independent animals or independent measurements. All nine rows share a publication and laboratory context; copying them into this inventory does not create replication. Unknown coordinates remain null; a site name or elevation is insufficient for a precise plotted point.
 
+## Executed interval comparison
+
+The [calculator](../analysis/sloth_intervals.py) reads the structured rows and writes a [result file](../analysis/sloth-intervals-result.json), including a canonical input hash. Run `python analysis/sloth_intervals.py`; add `--plot` with matplotlib installed to regenerate the figure. The published figure used matplotlib 3.11.2. The numerical calculation itself uses only Python's standard library.
+
+![Separate published calendar intervals for seven sloth bone samples](../analysis/sloth-intervals.png)
+
+This is a retrospective descriptive check of a **simultaneous biological-death interpretation for these selected specimens**. It is not a test of every possible upheaval, and the sample set was not selected prospectively. Seven rows have published calendar intervals; AA-58436 and AA-58438 are excluded because they do not. Their radiocarbon dates/bounds cannot be substituted onto this calendar axis.
+
+| Included set | Common intersection | Shortest window touching every sample's interval set |
+| --- | --- | --- |
+| All seven calibrated rows | Empty | 5,910 calendar years; endpoint witness 5,260–11,170 cal BP |
+| Six calibrated *Neocnus comes* rows | Empty | 3,870 calendar years; endpoint witness 5,260–9,130 cal BP |
+
+The first minimum has a simple independent arithmetic check: AA-58439's oldest allowed endpoint in this extraction is 5,260, while AA-58434's youngest is 11,170. Their gap is 5,910 years. A window with those endpoints also touches each intervening sample's set, so the lower bound is attained. For the same-species subset, AA-58431 supplies the 9,130 endpoint instead. Disjoint ranges are not filled in during intersection calculations.
+
+**These numbers are not 95% lower confidence bounds on event duration.** Individually reported 95% sets have omitted probability tails and are not a joint probability model. The calculation uses neither likelihoods nor shared calibration/laboratory errors. It establishes only that an instantaneous common death cannot sit inside all the reported sets as transcribed. It does not infer the probability of simultaneous death, date a final extinction, or exclude later movement of older remains.
+
+The result challenges treating this selected collection as a contemporaneous death assemblage. A single later depositional event remains a different proposition requiring its own stratigraphic evidence; no such common horizon has been demonstrated here. Preparation audits, current calibration and later redating could change the inputs and must be recorded as revisions rather than silently substituted.
+
 ## Next work
 
 Retrieve preparation protocols, collagen-quality measures, original determinations and excavation context. Check later redating and taxonomic revisions by specimen identifier. Recalibrate only with an explicitly named curve, software/version and justified reservoir assumptions; retain the original published results beside any new calculation.

@@ -1,0 +1,60 @@
+{
+  "status": "DESCRIPTIVE_PUBLISHED_INTERVAL_CHECK_NOT_STATISTICAL_REJECTION",
+  "case_id": "C011",
+  "source_id": "S22",
+  "included_field_ids": [
+    "AA-58439",
+    "AA-58430",
+    "AA-58435",
+    "AA-58432",
+    "AA-58433",
+    "AA-58431",
+    "AA-58434"
+  ],
+  "excluded": [
+    {
+      "field_id": "AA-58436",
+      "reason": "No published calendar interval; radiocarbon value or bound not substituted"
+    },
+    {
+      "field_id": "AA-58438",
+      "reason": "No published calendar interval; radiocarbon value or bound not substituted"
+    }
+  ],
+  "common_cal_BP_intervals": [],
+  "all_included_cover": {
+    "minimum_span_calendar_years": 5910,
+    "optimal_endpoint_witness_windows_cal_BP_young_old": [
+      [
+        5260,
+        11170
+      ]
+    ]
+  },
+  "same_taxon_sensitivity": {
+    "taxon": "Neocnus comes",
+    "field_ids": [
+      "AA-58439",
+      "AA-58430",
+      "AA-58435",
+      "AA-58432",
+      "AA-58433",
+      "AA-58431"
+    ],
+    "common_cal_BP_intervals": [],
+    "minimum_span_calendar_years": 3870,
+    "optimal_endpoint_witness_windows_cal_BP_young_old": [
+      [
+        5260,
+        9130
+      ]
+    ]
+  },
+  "limits": [
+    "Published 95% calendar sets are not hard age bounds or a joint 95% confidence region.",
+    "No probability densities, recalibration, shared-error model or laboratory-quality assessment used.",
+    "Biological ages do not alone date deposition, extinction or geographic upheaval.",
+    "Retrospective descriptive analysis; not a preregistered or held-out test."
+  ],
+  "input_rows_canonical_sha256": "88fbdcaf7960f2a3e99fa92f6827bc246d412014b29a635d591937f13d2d5aa1"
+}

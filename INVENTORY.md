@@ -326,9 +326,9 @@ Place: Haiti and Ile de la Tortue; sample-specific localities in dating records.
 
 **Source interpretation:** The paper compares regional survival chronologies; its broader causal account has not been independently audited here.
 
-**Investigation inference:** Direct biological ages can constrain a common-death claim, but do not alone date a later redeposition episode or establish extinction.
+**Investigation inference:** The seven published calendar sets have empty common intersection; their shortest covering window spans 5,910 years (3,870 for six Neocnus comes rows). This descriptive interval result is not a statistical event-duration bound or a date of later deposition/extinction. See research/SLOTH-CHRONOLOGY.md.
 
-**Counterevidence:** No shared event horizon or synchronous mortality is established by this extraction. Unknown extinction dates do not make every dated individual contemporaneous.
+**Counterevidence:** These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.
 
 **Next test:** Audit preparation, quality indicators, field context and later redating; extend geographic coverage and specify calibration before event fitting.
 
