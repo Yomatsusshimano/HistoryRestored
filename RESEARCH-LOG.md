@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Erection diagram and inspection comparison
+
+Previous turn made progress: 0f91651 published seven verified files. Clean checkout confirmed. Visually inspected archive-provided F/12/3871 whole sheet and enlarged caption/legend in browser. Sheet date reads progress through 8 January 1888. Light versus dark tint separates assembly from completed riveting; untinted lines remain unclassified. Qualitative comparison with January 1889 inspection supports progressive assembly, but no member-level match, early total height, rate or component manufacture date established. Same-project archival dependence retained. Next retrieve intervening sheets and photographs. Full goal active.
+
 ## 2026-10-08 - Contemporary Eiffel assembly inspection
 
 Previous turn made progress: 866503b publicly verified seven files. Clean checkout confirmed. Modern wind-drawing image is cropped and cannot verify its caption date. A Commons reproduction supplied by Archives nationales recovered F/12/3896: all eight manuscript pages visually inspected. The 4 January 1889 report describes about 220 m height, an unriveted upper member, theodolite setup, obscured targets, apparent deviations at beta and a deliberate instrument-offset test. Its absolute-verticality conclusion is kept separate from observations and this audit. No manufacturing date inferred. Next compare dated erection states and original part records. Full goal remains active.

@@ -2403,6 +2403,20 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S151",
+      "title": "Eiffel Tower erection progress diagram, 8 January 1888",
+      "url": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel,_diagramme_de_montage_1888.jpg",
+      "creator": "Archives nationales (France), F/12/3871; historical drafter not identified in this inspection",
+      "publication_date": "1888-01-08",
+      "source_type": "contemporary progress diagram; archive-provided reproduction",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Original 6908 by 7293 pixel image displayed in browser; whole sheet, enlarged lower date caption and tint legend visually inspected. Caption states progress through 8 January 1888; light assembled/unriveted, dark assembled/riveted; stairs to third diagonal brace.",
+      "limitations": "Reported progress, not independent material dating. Untinted state not defined in inspected legend. No member-level matching, quantities, height or rate inferred. Same project and ministerial series as S150.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
