@@ -48,3 +48,6 @@ python analysis/audit_highwall.py path/to/supplement-directory data/highwall-aud
 The script asserts agreement of mean, scatter-scaled uncertainty and rounded MSWD. That check validates this arithmetic only. Workbooks were neither modified nor rendered; no original demagnetization vectors were fitted.
 
 A statistically provisional magnetic correlation does not supply a historical-era age. Conversely, matching an age summary is insufficient to date every Bouse fossil bed or establish a single global event. Next obtain Schwing2019's original reversal analysis and location metadata, reconcile Table1/Table2/Table3 sample versions, and tie the dated material to specific sediment beds before imposing a regional chronology.
+
+
+Follow-up: [original Lost Cabin reversal and version audit](LOST-CABIN-REVERSAL.md) recovers the reported corrected test and an earlier39-specimen Highwall table with a different latitude. Preserve both versions; source recovery does not reproduce the test.

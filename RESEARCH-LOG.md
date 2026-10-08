@@ -938,3 +938,8 @@ The model-switch acknowledgement made no research progress; clean checkout reval
 ### 2026-10-08 — Highwall Wash arithmetic and reversal limits
 
 Previous turn made verified public progress; clean tree confirmed. Read original workbook cells and visually inspected supplemental pp6-7. Reproduced weighted mean, MSWD and two-sigma scatter-scaled uncertainty, narrowing earlier formula concern. Extracted all36 magnetic records with mixed groups and retained authors' failed reversal test. Preserved unreconciled Table1 summary and source coordinate without silent correction. No raw isotope/vector refit, full grain-selection audit or independent review claimed.
+
+
+### 2026-10-08 — Original reversal test and Highwall versions
+
+Previous turn made verified public progress; clean checkout confirmed. Recovered/hash-checked117-page AZGS thesis release and visually checked printed17,46-47. Preserved corrected reversal-test parameters,110/111 reverse-count discrepancy and selected39-versus36-specimen differences. Earlier latitude35.381872 provides a candidate correction to later32.381873 without establishing field location. No raw-vector fit, reproduced reversal test, independent replication or deliberate alteration inferred.

@@ -1,0 +1,103 @@
+{
+  "source_id": "S211",
+  "compared_source": "S210",
+  "local_pdf_sha256": "e32ac9bcc798d388307a5420cd2bf56905c3c730f721900c04a40f6dbb97dd3b",
+  "pdf_pages": 117,
+  "reversal_test": {
+    "locator": "printed17 / PDF25",
+    "reported_class": "Rb",
+    "observed_gamma_degrees": 7.15,
+    "critical_gamma_degrees": 7.18,
+    "normal_N": 59,
+    "reverse_N": 111,
+    "normal_declination_degrees": 10.8,
+    "reverse_declination_degrees": 178,
+    "corrected_normal_inclination_degrees": 56,
+    "corrected_reverse_inclination_degrees": -56,
+    "uncorrected_normal_inclination_degrees": 57.2,
+    "uncorrected_reverse_inclination_degrees": -43.1,
+    "methods_reverse_N_on_printed9": 110,
+    "independently_reproduced": false
+  },
+  "coordinates": [
+    {
+      "source": "S211",
+      "locator": "printed46-47 / PDF54-55 High Wall Wash table",
+      "latitude": 35.381872,
+      "longitude": -114.574136,
+      "datum": null
+    },
+    {
+      "source": "S210",
+      "locator": "Table6 A39",
+      "latitude": 32.381873,
+      "longitude": -114.574136,
+      "datum": null
+    }
+  ],
+  "additional_S211_rows": [
+    {
+      "sample": "HWW 6-2",
+      "locator": "printed46",
+      "demagnetization": "TH",
+      "polarity": "R",
+      "declination": 138,
+      "inclination": -33.2,
+      "MAD": 14.5,
+      "rank": "C"
+    },
+    {
+      "sample": "HWW 6-11",
+      "locator": "printed46",
+      "demagnetization": "AF/LTD",
+      "polarity": "R",
+      "declination": null,
+      "inclination": null,
+      "MAD": null,
+      "rank": "C"
+    },
+    {
+      "sample": "HWW 12-10",
+      "locator": "printed47",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 21.7,
+      "inclination": 64,
+      "MAD": 6.3,
+      "rank": "C"
+    }
+  ],
+  "selected_shared_row_differences": [
+    {
+      "sample": "HWW 7-1",
+      "field": "rank",
+      "S211": "B",
+      "S210": "C"
+    },
+    {
+      "sample": "HWW 11-1",
+      "field": "MAD",
+      "S211": 4.6,
+      "S210": 15
+    },
+    {
+      "sample": "HWW 11-1",
+      "field": "rank",
+      "S211": "B",
+      "S210": "C"
+    },
+    {
+      "sample": "HWW 12-8",
+      "field": "MAD",
+      "S211": 3.4,
+      "S210": 5.2
+    },
+    {
+      "sample": "HWW 12-8",
+      "field": "rank",
+      "S211": "A",
+      "S210": "B"
+    }
+  ],
+  "limits": "Selected differences, not exhaustive version reconciliation. No causes inferred. Earlier source and later supplement are not independent specimen datasets."
+}

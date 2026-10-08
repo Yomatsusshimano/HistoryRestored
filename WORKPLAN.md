@@ -310,3 +310,6 @@ S210 supplement recovered and hashed; methods pp1-2 and selected Lawlor Table1 c
 
 
 Highwall follow-up reproduces selected19-age mean/MSWD/uncertainty and preserves36 magnetic specimens. Next Schwing2019 reversal analysis/location, Table1/2/3 version crosswalk and bed linkage. Local reversal test explicitly failed; do not present as confirmed independent anchor.
+
+
+S211 original Schwing thesis recovered via AZGS2021 release. Corrected reversal test and earlier39-specimen Highwall table inspected; coordinate/sample-version discrepancies preserved. Next input membership, correction reproduction, mapped location and revision explanation. Do not repeat thesis retrieval as pending.

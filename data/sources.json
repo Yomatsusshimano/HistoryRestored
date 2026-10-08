@@ -3337,6 +3337,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S211",
+      "title": "Magnetostratigraphy of the Pre-Colorado Integration Lost Cabin Beds, Cottonwood Valley, Arizona",
+      "url": "https://data.azgs.arizona.edu/api/v1/collections/AGCR-1674164262353-833/cr-21-bschwing.pdf",
+      "creator": "Jonathan Schwing",
+      "publication_date": "2021 (release of 2019 thesis)",
+      "source_type": "original thesis, AZGS Contributed Report CR-21-B",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Printed17,46-47 visually checked; printed9,15-16 and selected cover/nearby table text read.117-page PDF hash and version comparison in research/LOST-CABIN-REVERSAL.md.",
+      "limitations": "Selected inspection; raw vector fits, inclination correction and reversal test not independently reproduced. Input-count and later-table differences unresolved. Coordinates not field-verified. Substantially shared observations with S210, not independent replication.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
