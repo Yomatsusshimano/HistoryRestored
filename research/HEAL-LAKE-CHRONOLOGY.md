@@ -46,3 +46,19 @@ The calculation treats each printed interval as a node and permits a link only w
 No sampled year from 700 through 1992 has fewer than four listed sequences in this subset. Nevertheless, annual sample depth does not guarantee long links between older and newer groups. HLL027's best possible route to a 1992 endpoint includes a link no longer than 77 years. One available bridge is HLL085 (1327–1416) to HLL372 (1340–1687) or HLL461 (1340–1702): both overlaps are 77 years. HLL548's widest possible route has a 62-year bottleneck.
 
 An independent graph-traversal implementation reproduces all four threshold connectivity counts. [Full output](../analysis/heal-lake-overlap.json) preserves source rows, flags, reported correlations and computed capacities. These calculations neither recover the actual assembly order nor locate an error. They nominate sample pairs for direct anatomical and ring-width review. The 1996/2005/2023 version differences still prevent treating this as an audit of exactly the later dataset.
+
+## Older floating groups: original assembly limits
+
+[Zhang's 2000 dissertation, S83](https://dspace.library.uvic.ca/bitstreams/72450731-41fb-4eb9-bbc8-79df8bf2f900/download) supplies a separate history of the older floating groups. Printed pages 112–113, 134 and 136 were visually inspected. These BC groups must not be conflated with the later reported 132-year CE disagreement.
+
+| Sample | Dated rings (middle) | Radiocarbon BP | Printed two-sigma bounds, BCE |
+| --- | --- | --- | --- |
+| HLL064 | 60–70 (65) | 3390 ± 50 | 1859–1517 |
+| HLL020 | 10–20 (15) | 3450 ± 60 | 1918–1532 |
+| HLL517 | 32–37 (35) | 3520 ± 50 | 2009–1663 |
+
+Table 6.1 underlines 1660 BCE as HLL064's anchor intercept. Page 134 instead assigns ring 65 to the 1640 BCE intercept when combining groups IV and V: group IV moves 20 years forward and group V 180 years backward. The author reports compatibility with the two-sigma constraints of HLL020 and HLL517. This archive preserves that report without claiming an independent recalculation of the joins. The table's bounds summarize the older calibration; they are not uniform probability distributions or modern recalibrations. Laboratory names follow the table's underlining and footnote; accession numbers remain unknown.
+
+Page 134 reports no confident bristlecone-pine match and no crossdated connection between the approximately 970–159 BCE combined sequence and the earlier thesis's 130 BCE–1992 CE chronology. Page 136 explicitly warns that the floating positions and connections may be incorrect. This is documented provisional assembly, not a demonstrated concealment or a correction to all historical dates.
+
+The same page states an intention to submit measurements to ITRDB. A targeted search of public web results, named sample IDs, the 2023 data-availability statement and the RingDateR repository did not recover exact Heal Lake annual widths or original laboratory sheets. This bounded failure does not establish their absence elsewhere. Search terms, three assay transcriptions, calibration intercepts and the dissertation checksum are retained in the [audit record](../data/heal-lake-audit.json). Exact dataset accession/version recovery remains the next requirement for testing the CE conflict.

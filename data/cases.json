@@ -1243,10 +1243,15 @@
           "source_id": "S82",
           "locator": "Table 3.3 rows 1–100; analysis/heal-lake-overlap.json",
           "statement": "Published interval geometry permits all 100 rows to connect to 1992 endpoints with 30-year links, but only 50 with 100-year links. This tests potential overlap, not pattern agreement or actual assembly."
+        },
+        {
+          "source_id": "S83",
+          "locator": "Table 6.1 and printed pp.134,136",
+          "statement": "Older floating groups were repositioned using radiocarbon intercepts; author explicitly warns connections may be incorrect. This does not identify the cause of the separate CE discrepancy."
         }
       ],
       "physical_evidence": "Reported living cores and submerged logs; physical wood not inspected.",
-      "surviving_documents": "1996 thesis, 2005 article, 2023 comparison and supplement.",
+      "surviving_documents": "1996 thesis, 2000 dissertation, 2005 article, 2023 comparison and supplement.",
       "source_interpretation": "2023 authors suspect an older Heal Lake segment is misdated.",
       "investigation_inference": "A specific local chronology conflict warrants raw-series and version reconciliation; no universal date conversion follows.",
       "competing_explanations": [

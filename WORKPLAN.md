@@ -64,3 +64,5 @@ MacBlo anchors traced: reported collection/bark history and separate pulse assay
 Heal Lake C021 added: original thesis and later articles preserve a reported local 132-year disagreement, version-count differences, and five prior assays. Raw-series recovery and conflicting-match reproduction pending; no global conversion adopted.
 
 Heal Lake overlap audit: 100 original-table spans extracted and checked, with potential connection thresholds of 30/50/100/150 years. Identified 77-year and 62-year bottlenecks for named older sequences. These nominate joins for raw-pattern review, not corrections.
+
+Heal Lake dissertation recovered: older BC floating-group adjustments and explicit connection uncertainty documented from original scans. Three assay rows and selected intercepts preserved. Bounded raw-data search found no exact accession or lab sheets; pursue version-specific data recovery before interpreting the separate CE disagreement.

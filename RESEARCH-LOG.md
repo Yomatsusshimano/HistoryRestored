@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Heal Lake dissertation and bounded measurement search
+
+Previous turn published b0be9d7 with eight publicly byte-verified files; clean checkout confirmed. Recovered the 214-page 2000 dissertation and inspected selected chapter text, rendering printed pp.112–113,134,136. Transcribed three radiocarbon rows with source calibration bounds, laboratory-name footnotes and anchor intercepts. Distinguished HLL064's table anchor at 1660 BCE from the combined-group assignment at 1640 BCE and preserved the author's reported group shifts and connection uncertainty. These older floating groups do not explain the separate CE discrepancy. Targeted web/sample searches, S79 availability text and the RingDateR repository did not yield exact annual widths or original lab sheets. No absence claim, new calibration, raw crossdating reproduction or independent review follows. Added S83; retained all cases as drafts.
+
 ## 2026-10-08 - Heal Lake potential overlap links
 
 Previous turn made progress: 07a811b published seven byte-verified files. Clean checkout confirmed. Visually checked thesis pp.28 and 30, complementing prior p.29 inspection. Parsed Table 3.3 rows 1–100 with identified OCR label normalization and verified endpoint/span arithmetic. Computed potential interval-link reachability to 22 endpoint-1992 series across four exploratory thresholds; an independent graph traversal agrees. Identified named 77-year and 62-year bottlenecks but made no pattern-match or misdating claim. No year from 700–1992 has fewer than four listed sequences. Raw widths, anatomical checks and exact later-version membership remain missing.

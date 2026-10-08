@@ -665,10 +665,11 @@ Place: Heal Lake, southern Vancouver Island, British Columbia. Status: SOURCED_D
 - Continuous chronology uses 150 samples; older floating components have radiocarbon placement constraints. [S81](https://doi.org/10.1029/2005GL022913). Locator: Methods paragraphs 3–5. Access: FULL_TEXT_PORTION. Limit: Original annual widths not retrieved. Continuous and floating components have distinct dating status; no climate reconstruction reproduced.
 - Thesis lists 155 sequences and five radiocarbon entries; HLL035 span differs between two tables. [S82](https://hdl.handle.net/1828/20271). Locator: Tables 3.2/3.3; printed pp.26/29. Access: SCAN_INSPECTED. Limit: 99-page PDF only partly inspected. No raw annual widths recovered; 155-sequence table not established identical to later 150-sample dataset. Lab accession IDs and calibration intervals absent from inspected date table.
 - Published interval geometry permits all 100 rows to connect to 1992 endpoints with 30-year links, but only 50 with 100-year links. This tests potential overlap, not pattern agreement or actual assembly. [S82](https://hdl.handle.net/1828/20271). Locator: Table 3.3 rows 1–100; analysis/heal-lake-overlap.json. Access: SCAN_INSPECTED. Limit: 99-page PDF only partly inspected. No raw annual widths recovered; 155-sequence table not established identical to later 150-sample dataset. Lab accession IDs and calibration intervals absent from inspected date table.
+- Older floating groups were repositioned using radiocarbon intercepts; author explicitly warns connections may be incorrect. This does not identify the cause of the separate CE discrepancy. [S83](https://dspace.library.uvic.ca/bitstreams/72450731-41fb-4eb9-bbc8-79df8bf2f900/download). Locator: Table 6.1 and printed pp.134,136. Access: SCAN_INSPECTED. Limit: 214-page PDF only partly inspected. No original annual widths or laboratory sheets recovered. Older floating groups are distinct from the later CE disagreement.
 
 **Physical evidence:** Reported living cores and submerged logs; physical wood not inspected.
 
-**Surviving documents:** 1996 thesis, 2005 article, 2023 comparison and supplement.
+**Surviving documents:** 1996 thesis, 2000 dissertation, 2005 article, 2023 comparison and supplement.
 
 **Source interpretation:** 2023 authors suspect an older Heal Lake segment is misdated.
 

@@ -1379,6 +1379,21 @@
       "inspected": "Contents and crossdating chapter text; Table 3.2 and Table 3.3 printed pp.26 and 28–30 (PDF34,36–38) visually inspected. Table 3.3 rows 1–100 extracted for overlap geometry.",
       "limitations": "99-page PDF only partly inspected. No raw annual widths recovered; 155-sequence table not established identical to later 150-sample dataset. Lab accession IDs and calibration intervals absent from inspected date table.",
       "sha256": "89e223f6f0f548fc7c2ea1a5c0a112df3dede46f772c1b7aa16049a7c34b5ed8"
+    },
+    {
+      "id": "S83",
+      "title": "Modern and Late Holocene Climate-Tree-Ring Growth Relationships and Growth Patterns in Douglas-fir, Coastal British Columbia, Canada",
+      "creator": "Qibin Zhang",
+      "publication_date": "2000",
+      "url": "https://dspace.library.uvic.ca/bitstreams/72450731-41fb-4eb9-bbc8-79df8bf2f900/download",
+      "source_type": "Original doctoral dissertation",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "sha256": "d85a3e742b198201c7832a524682310b1f4532ae41bd614c3932408895695c77",
+      "inspected": "Selected chapter 6 text; printed pp.112–113,134,136 (PDF130–131,152,154) rendered and visually inspected.",
+      "limitations": "214-page PDF only partly inspected. No original annual widths or laboratory sheets recovered. Older floating groups are distinct from the later CE disagreement."
     }
   ]
 }

@@ -4,7 +4,8 @@
     "S79",
     "S80",
     "S81",
-    "S82"
+    "S82",
+    "S83"
   ],
   "reported_disagreement": {
     "Heal_Lake_end": 1055,
@@ -114,5 +115,129 @@
     "resolved": false
   },
   "raw_annual_measurements_recovered": false,
-  "global_chronology_shift_established": false
+  "global_chronology_shift_established": false,
+  "dissertation_2000": {
+    "source_id": "S83",
+    "download": {
+      "url": "https://dspace.library.uvic.ca/bitstreams/72450731-41fb-4eb9-bbc8-79df8bf2f900/download",
+      "bytes": 5396323,
+      "sha256": "d85a3e742b198201c7832a524682310b1f4532ae41bd614c3932408895695c77"
+    },
+    "locator": "Table 6.1, printed pp.112–113; assembly pp.134,136",
+    "calibration": "Printed Stuiver and Reimer 1993 bounds/intercepts; not recalibrated. BC values listed older to younger, not probability densities.",
+    "dates": [
+      {
+        "sample": "HLL064",
+        "total_rings": 238,
+        "dated_rings": [
+          60,
+          70
+        ],
+        "middle_ring": 65,
+        "radiocarbon_BP": 3390,
+        "reported_error": 50,
+        "lab": "Beta Analytic",
+        "lab_id": null,
+        "calibrated_BC_2sigma_bounds": [
+          1859,
+          1517
+        ],
+        "calibrated_BC_1sigma_bounds": [
+          1736,
+          1559
+        ],
+        "intercepts_BC": [
+          1687,
+          1669,
+          1660,
+          1648,
+          1640
+        ],
+        "table_underlined_anchor_BC": 1660,
+        "combined_group_anchor_BC": 1640
+      },
+      {
+        "sample": "HLL020",
+        "total_rings": 225,
+        "dated_rings": [
+          10,
+          20
+        ],
+        "middle_ring": 15,
+        "radiocarbon_BP": 3450,
+        "reported_error": 60,
+        "lab": "Geological Survey of Canada",
+        "lab_id": null,
+        "calibrated_BC_2sigma_bounds": [
+          1918,
+          1532
+        ],
+        "calibrated_BC_1sigma_bounds": [
+          1863,
+          1638
+        ],
+        "intercepts_BC": [
+          1736,
+          1701,
+          1695
+        ],
+        "table_underlined_anchor_BC": null
+      },
+      {
+        "sample": "HLL517",
+        "total_rings": 181,
+        "dated_rings": [
+          32,
+          37
+        ],
+        "middle_ring": 35,
+        "radiocarbon_BP": 3520,
+        "reported_error": 50,
+        "lab": "Beta Analytic",
+        "lab_id": null,
+        "calibrated_BC_2sigma_bounds": [
+          2009,
+          1663
+        ],
+        "calibrated_BC_1sigma_bounds": [
+          1917,
+          1739
+        ],
+        "intercepts_BC": [
+          1864,
+          1843,
+          1826,
+          1818,
+          1814,
+          1793,
+          1778
+        ],
+        "table_underlined_anchor_BC": 1818
+      }
+    ],
+    "assembly": {
+      "group_IV_forward_years": 20,
+      "group_V_backward_years": 180,
+      "author_reports_2sigma_compatibility": true,
+      "compatibility_independently_recomputed": false,
+      "confident_bristlecone_match_reported": false,
+      "author_warns_connections_may_be_incorrect": true
+    },
+    "archive_statement": "p.136 says data will be submitted to ITRDB; this is an intention, not verified accession."
+  },
+  "raw_search_2026_10_08": {
+    "queries": [
+      "\"Heal Lake\" dendrochronology data download",
+      "\"Heal Lake\" \"chronology\" github",
+      "\"Hebda\" \"Zhang\" site:ncei.noaa.gov/pub/data/paleo/treering",
+      "\"Zhang\" \"Heal Lake\" dissertation 2000",
+      "\"Heal Lake\" \"HLL548\"",
+      "\"Heal Lake\" \"HLL085\""
+    ],
+    "other_checks": [
+      "S79 data availability: named MacBlo and WA155–WA160; no Heal Lake accession identified",
+      "ringdater/ringdater GitHub master tree: 22 paths, no Heal Lake measurements identified"
+    ],
+    "result": "Dissertation recovered; exact annual widths and original lab sheets not located. Bounded search failure does not establish that they are unavailable elsewhere."
+  }
 }
