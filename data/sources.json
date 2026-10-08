@@ -409,6 +409,29 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S24",
+      "title": "First Fossils of Hyenas (Chasmaporthetes, Hyaenidae, Carnivora) from North of the Arctic Circle",
+      "url": "https://doi.org/10.5334/oq.64",
+      "doi": "10.5334/oq.64",
+      "creator": "Z. Jack Tseng, Grant Zazula and Lars Werdelin",
+      "publication_date": "2019-06-18",
+      "source_type": "original fossil description",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Main paper relevant text pages 1-5; Figure 1 page 2 and Table 1/locality/age/identifier text page 3 visually checked; license statement page 7 read as extracted text.",
+      "limitations": "No physical specimen examination, direct tooth dating, catalog confirmation or supplementary-file review. Regional/reworked context and preferred biostratigraphic age are distinct.",
+      "local_copy": "sources/originals/Tseng-2019-arctic-hyenas.pdf",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "license": "CC BY 4.0 article; retain separate third-party figure credits/licenses",
+      "retrievals": [
+        {
+          "url": "https://openquaternary.com/articles/64/files/submission/proof/64-1-1005-1-10-20190618.pdf",
+          "sha256": "838fbf58efaf086a6d4d71070248ebda3a294992748df39b333ac1ecd410f382",
+          "public_mirror_in_this_repository": true
+        }
+      ]
     }
   ]
 }

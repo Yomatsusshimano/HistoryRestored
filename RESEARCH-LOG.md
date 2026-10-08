@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Arctic predator locality and reworking audit
+
+Previous goal turn made progress: muskox audit b09402d was published with eight public files verified. Rechecked clean state. A focused Arctic hyena search located the original 2019 description (S24). DOI retrieval failed in the web tool; the journal PDF downloaded successfully. Read relevant text and visually checked specimen photos, measurements, locality and age descriptions on pages 2-3. Poppler emitted a font-weight warning; the checked content remained legible.
+
+Added C013, two specimen records and a single reported-locality GeoJSON point. The map represents collection context, not an original bed, death location, surveyed point or dispersal route. Direct ages stay null; preferred biochronology remains separate from locality context. Retained the page-3 catalog-number discrepancy and collectors' credits. No coeval Arctic fauna or catastrophe is established.
+
+Preserved the unchanged CC BY 4.0 article with attribution and original third-party figure notices. Supplement and museum catalog remain uninspected. Thirteen case drafts and twenty-four sources now exist; public copying supplies access redundancy, not independent review or worldwide preservation.
+
 ## 2026-10-08 - Muskox model and sample-accounting audit
 
 Previous goal turn made progress: 1f2cd45 published the sloth interval calculation and chart, with nine public files verified. Rechecked the clean worktree. Searched original muskox ancient-DNA research; inspected S23 main text and a downloaded author PDF. Rendered and visually checked page 5 methods and sampling map after text extraction warned about PDF object pointers.

@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.904,
+          67.819
+        ]
+      },
+      "properties": {
+        "locality_id": "CRH 11A",
+        "case_id": "C013",
+        "source_id": "S24",
+        "source_locator": "Locality paragraph, page 3",
+        "site_type": "River point bar; reworked fossils",
+        "coordinate_role": "Reported collection locality, not death site or original deposit",
+        "source_datum": null,
+        "positional_uncertainty": null,
+        "display_assumption": "Reported decimal latitude/longitude used without datum transformation",
+        "specimens": "CMN 24958; CMN 38053",
+        "migration_route_established": false
+      }
+    }
+  ]
+}

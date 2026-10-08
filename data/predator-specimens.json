@@ -1,0 +1,37 @@
+{
+  "status": "SOURCED_DRAFT",
+  "specimens": [
+    {
+      "case_id": "C013",
+      "source_id": "S24",
+      "museum_id": "CMN 24958",
+      "taxon_as_published": "Chasmaporthetes cf. C. ossifragus",
+      "element": "right lower p3",
+      "collection_year": 1973,
+      "collectors_as_credited": "Richard Harington and Canadian Museum of Nature team",
+      "locality_id": "CRH 11A",
+      "length_mm": 19.11,
+      "measurement_locator": "Table 1, page 3",
+      "direct_age": null,
+      "direct_age_uncertainty": null,
+      "age_basis": "Reworked locality and authors biostratigraphic interpretation; see research/ARCTIC-HYENA.md",
+      "in_situ_source_bed": null
+    },
+    {
+      "case_id": "C013",
+      "source_id": "S24",
+      "museum_id": "CMN 38053",
+      "taxon_as_published": "Chasmaporthetes cf. C. ossifragus",
+      "element": "left lower m1",
+      "collection_year": 1977,
+      "collectors_as_credited": "William Irving and Brenda Beebe",
+      "locality_id": "CRH 11A",
+      "length_mm": 29.08,
+      "measurement_locator": "Table 1, page 3",
+      "direct_age": null,
+      "direct_age_uncertainty": null,
+      "age_basis": "Reworked locality and authors biostratigraphic interpretation; see research/ARCTIC-HYENA.md",
+      "in_situ_source_bed": null
+    }
+  ]
+}

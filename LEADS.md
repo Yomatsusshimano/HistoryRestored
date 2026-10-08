@@ -14,7 +14,7 @@
 | Mammoths | Distinguish mainland and island populations, direct dates, and local extinction histories |
 | Sloths | C011 extracts nine Haitian bone dates; audit preparation and later redating, extend continental/island coverage and depositional context |
 | Muskoxen | C012 audits main-paper methods; retrieve supplement, reconcile counts and join specimen/sequence/date/locality metadata |
-| Predators | Specify species; examine co-occurrence, trophic relationships, and age overlap |
+| Predators | C013 records two Arctic hyena teeth from a reworked point bar; verify source beds, direct ages and co-occurrence before ecological reconstruction |
 | Fossil plants | Identify taxa and whether wood/pollen/leaves are in-place, transported, or reworked |
 | Patents/invention | Retrieve antecedents and notebooks alongside patent scans; include workshop workers and manufacturers |
 | Astronomy | Original observational sequences, calendar conversion, uncertainties, and physical predictions |

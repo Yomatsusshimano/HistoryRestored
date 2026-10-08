@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-12 sourced drafts; 0 independent scientific reviews.
+13 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -19,6 +19,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C010 | John Graf: Fifth and Terrace street cuts and alleged slide |
 | C011 | Haitian sloth bone chronology |
 | C012 | Muskox ancient-DNA population and geographic model |
+| C013 | Old Crow Arctic hyena teeth in reworked river deposits |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -368,3 +369,31 @@ Place: Urals, Taimyr, Northeast Siberia, North America and Greenland. Status: SO
 **Chronology:** {"reported": "Sample and model times are discussed in radiocarbon units; no specimen-level dates entered in this audit", "dated_object": "Biological specimens and inferred genetic histories, not event strata", "method": "Reported radiocarbon-linked genetic inference", "raw_date": null, "uncertainty": null, "timescale": "Radiocarbon YBP as reported", "event_association": "UNTESTED"}
 
 **Missing:** Supplementary specimen table; Sample count reconciliation; Sequence/input audit; Georeferenced specimen locations; Independent event layers; Model replication
+
+## C013: Old Crow Arctic hyena teeth in reworked river deposits
+
+Place: CRH 11A, lower Old Crow River, Yukon, Canada. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Two museum teeth assigned to Chasmaporthetes cf. C. ossifragus are reported from CRH 11A; direct specimen ages are not provided. [S24](https://doi.org/10.5334/oq.64). Locator: Figure 1, Table 1 and referred specimens/locality/age sections, pages 2-3. Access: SCAN_INSPECTED. Limit: No physical specimen examination, direct tooth dating, catalog confirmation or supplementary-file review. Regional/reworked context and preferred biostratigraphic age are distinct.
+
+**Physical evidence:** Published tooth photographs and measurements inspected; no independent morphological or laboratory examination.
+
+**Surviving documents:** Original paper preserved under its stated license; two specimen records and one reported-locality GeoJSON feature added.
+
+**Source interpretation:** Authors infer a northern occurrence and likely Beringian dispersal; preferred age uses broader fossil-record context.
+
+**Investigation inference:** A reported northern fossil locality can inform distribution research, but reworking prevents automatic inference of contemporaneous death, coexistence or one event deposit.
+
+**Counterevidence:** Co-collection from a point bar does not establish one ecological community. Preferred age is not an independent direct date; the original depositional bed remains unidentified.
+
+**Next test:** Check museum and collection records, identifier discrepancy, supplementary data and local stratigraphy; seek source-bed or appropriate direct dating constraints.
+
+**Dependence:** Two teeth from one reworked locality; same study and preserved copy are not independent confirmation. Do not equate this locality with other Arctic case horizons.
+
+**Alternatives:** Regional predator presence followed by local river reworking; Transport from a source area requiring independent provenance evidence; A shared catastrophic deposit, requiring dated stratigraphic and transport evidence
+
+**Chronology:** {"reported": "Context approximately 1.4-0.012 Ma; authors favor teeth no younger than about 0.85 Ma, nearer 1.4 Ma", "dated_object": "Regional context and interpreted fossil range; not directly measured tooth age", "method": "Stratigraphic context plus comparative biochronology", "raw_date": null, "uncertainty": null, "timescale": "Ma as reported", "event_association": "UNTESTED"}
+
+**Missing:** Direct specimen age; Original source bed; Museum catalog verification; Coordinate datum/error; Supplementary review; Independent identification

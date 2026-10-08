@@ -597,6 +597,57 @@
         "Model replication"
       ],
       "dependence": "One study and its mirror. Shared models, calibration and sampling cannot be counted as independent confirmations."
+    },
+    {
+      "id": "C013",
+      "title": "Old Crow Arctic hyena teeth in reworked river deposits",
+      "category": "predator fossils and geographic distribution",
+      "place": "CRH 11A, lower Old Crow River, Yukon, Canada",
+      "coordinates": {
+        "latitude": 67.819,
+        "longitude": -139.904,
+        "role": "Reported collection locality",
+        "datum": null,
+        "uncertainty": null
+      },
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S24",
+          "locator": "Figure 1, Table 1 and referred specimens/locality/age sections, pages 2-3",
+          "statement": "Two museum teeth assigned to Chasmaporthetes cf. C. ossifragus are reported from CRH 11A; direct specimen ages are not provided."
+        }
+      ],
+      "physical_evidence": "Published tooth photographs and measurements inspected; no independent morphological or laboratory examination.",
+      "surviving_documents": "Original paper preserved under its stated license; two specimen records and one reported-locality GeoJSON feature added.",
+      "source_interpretation": "Authors infer a northern occurrence and likely Beringian dispersal; preferred age uses broader fossil-record context.",
+      "investigation_inference": "A reported northern fossil locality can inform distribution research, but reworking prevents automatic inference of contemporaneous death, coexistence or one event deposit.",
+      "competing_explanations": [
+        "Regional predator presence followed by local river reworking",
+        "Transport from a source area requiring independent provenance evidence",
+        "A shared catastrophic deposit, requiring dated stratigraphic and transport evidence"
+      ],
+      "counterevidence": "Co-collection from a point bar does not establish one ecological community. Preferred age is not an independent direct date; the original depositional bed remains unidentified.",
+      "next_test": "Check museum and collection records, identifier discrepancy, supplementary data and local stratigraphy; seek source-bed or appropriate direct dating constraints.",
+      "chronology": {
+        "reported": "Context approximately 1.4-0.012 Ma; authors favor teeth no younger than about 0.85 Ma, nearer 1.4 Ma",
+        "dated_object": "Regional context and interpreted fossil range; not directly measured tooth age",
+        "method": "Stratigraphic context plus comparative biochronology",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "Ma as reported",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Direct specimen age",
+        "Original source bed",
+        "Museum catalog verification",
+        "Coordinate datum/error",
+        "Supplementary review",
+        "Independent identification"
+      ],
+      "dependence": "Two teeth from one reworked locality; same study and preserved copy are not independent confirmation. Do not equate this locality with other Arctic case horizons."
     }
   ]
 }
