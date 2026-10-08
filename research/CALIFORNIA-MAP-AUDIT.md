@@ -47,3 +47,7 @@ The catalog's publication note instead describes an 1884 Sohr-Berghaus atlas, in
 ## Subsequent volume and narrative check
 
 The [volume and Picolo report audit](KINO-TEXT.md) now verifies the printed 1705 title page and selected translated report passages. This supersedes the title-page access limit above. The report carries its own 1702 date and describes seasonal heavy rain; Kino field observations, Spanish original and translation fidelity remain pending.
+
+## Subsequent route-account check
+
+The [Kino route audit](KINO-ROUTE.md) now records selected dated passages in Bolton's 1919 translation, including reported crossing, latitude and sighting observations. This advances beyond the earlier narrative-access limit; manuscript comparison, geolocation and independent corroboration remain open.

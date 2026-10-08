@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Kino route testimony separated from map copying
+
+Previous turn made progress: cbebf78 published eight public-byte-verified files. Clean checkout rechecked. Located 1919 translated memoir through archive/library results. LOC direct page returned 403; Internet Archive OCR and a public PDF mirror succeeded. Read selected route and editorial portions; visually checked printed pp. 316-317, 341 and 343-344.
+
+Added S39 and five structured route observations. Distinguished participant crossing/sighting claims, relayed Indigenous knowledge, latitude arithmetic and author inference. Preserved failed crossing, unknown geolocation and same-author dependence. March 1702 observations cannot silently be assigned to the map's printed 1698-1701 discovery period. Sixteen drafts, thirty-nine sources; no independent review or geographic reconstruction claimed.
+
 ## 2026-10-08 - Kino volume imprint and Picolo report separated
 
 Previous turn made progress: b275060 published seven public-byte-verified files. Clean checkout rechecked. Rumsey search endpoint failed in the web tool and returned a verification page locally; no challenge bypass attempted. Indexed collection entries identified title-page and composite-text images; direct JP2 downloads succeeded. Visually checked title page, report opening/page 249, pages 262-267 and 286-287.

@@ -1,0 +1,56 @@
+{
+  "source_id": "S39",
+  "case_id": "C005",
+  "status": "SOURCED_DRAFT",
+  "reviewers": [],
+  "date_basis": "Dates reported in 1919 translation; original manuscript and calendar conventions unverified",
+  "observations": [
+    {
+      "date_reported": "1701-11-21",
+      "locator": "pp. 316-317",
+      "type": "participant crossing account",
+      "statement": "Colorado raft crossing aided by Quiquima captain and others; approximately three leagues traveled afterward.",
+      "river_width_reported": {
+        "value": 200,
+        "unit": "varas",
+        "qualifier": "probably about"
+      },
+      "coordinates": null
+    },
+    {
+      "date_reported": "1701-11-21",
+      "locator": "p. 317",
+      "type": "reported Indigenous information",
+      "statement": "Visitors bring shells and describe opposite coast and gulf end; no independent record of their statements inspected.",
+      "coordinates": null
+    },
+    {
+      "date_reported": "1702-03-03",
+      "locator": "pp. 340-341",
+      "type": "reported instrument observation",
+      "noon_solar_altitude_deg": 52,
+      "south_declination_magnitude_deg": 6.5,
+      "derived_latitude_deg": 31.5,
+      "arithmetic": "90 - (52 + 6.5) = 31.5",
+      "measurement_uncertainty_deg": null,
+      "longitude_deg": null,
+      "modern_coordinates": null,
+      "ephemeris_verified": false
+    },
+    {
+      "date_reported": "1702-03-10",
+      "locator": "p. 343",
+      "type": "participant account of deferred crossing",
+      "statement": "Illness and boggy banks impede planned raft/horse crossing.",
+      "coordinates": null
+    },
+    {
+      "date_reported": "1702-03-11",
+      "locator": "p. 344",
+      "type": "reported sighting and author interpretation",
+      "statement": "Sea eastward; continuous land reported south, west and north; author interprets as land connection.",
+      "coordinates": null
+    }
+  ],
+  "dependence": "Same author as Kino map; edited translation is not an independent field witness."
+}

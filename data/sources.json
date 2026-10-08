@@ -713,6 +713,22 @@
           "sha256": "22db5ad746a97eee9fea53106def58c52027f666adc4adb14edd0cd1c5d6bb46"
         }
       ]
+    },
+    {
+      "id": "S39",
+      "title": "Kino's Historical Memoir of Pimería Alta, volume I",
+      "url": "https://www.fondazioneintorcetta.info/pdf/biblioteca-virtuale/documenti_1/PimeriaI.pdf",
+      "creator": "Eusebio Francisco Kino; Herbert Eugene Bolton, translator and editor",
+      "publication_date": "1919",
+      "source_type": "edited translation of participant historical account",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp. 316-317, 341, 343-344 visually checked; pp. 24-25, 315 and 340-342 inspected as OCR text portions.",
+      "limitations": "Original manuscript and Spanish text not checked. No independent geolocation, instrument/ephemeris audit or corroborating field observation. Shared author with map.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "pdf_sha256": "513e920efdaffbfd2cd1bfcc205616c121a3d1e624a5b1b525124acc0ae3fbcb",
+      "text_url": "https://archive.org/download/kinoshistoricalm01kinouoft/kinoshistoricalm01kinouoft_djvu.txt"
     }
   ]
 }

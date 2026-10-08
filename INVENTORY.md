@@ -153,10 +153,11 @@ Place: California/Baja California as depicted in a manuscript map. Status: SOURC
 - Printed source years are 1604, 1656, 1700, 1705 and 1767; island and peninsula depictions coexist on one compilation. [S15](https://www.loc.gov/item/2006627665). Locator: Title cartouche and panels I-V. Access: SCAN_INSPECTED. Limit: Antecedent maps and surveys unreviewed. Catalog 1770 versus exhibition ca. 1779 unresolved.
 - The map depicts continuous land around the gulf head and credits discoveries during 1698-1701. Its northern connection, river junction and Sierra Azul/M. Bleue labels agree qualitatively with panel IV. [S37](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299062~90070085:Passage-Par-Terre-A-La-Californie-D). Locator: Map title and northern gulf; compared visually with S15 panel IV. Access: SCAN_INSPECTED. Limit: Volume title page and selected Picolo report portions subsequently inspected as S38; Kino field itinerary and exact transmission route remain unverified. Catalog Pub Note describes an unrelated 1884 atlas.
 - Volume prints 1705; translated Picolo report is dated 10 February 1702. Its deluge wording concerns the rainy season; closing explains a request for mission support. [S38](https://www.davidrumsey.com/rumsey/download.pl?image=/171/11561003.jp2). Locator: Volume title page; report heading before p. 249, pp. 264 and 286-287. Access: SCAN_INSPECTED. Limit: Spanish source and translation fidelity not audited. No checked Kino field itinerary recovered in these portions. Source purpose includes seeking mission support. Catalog association does not authenticate binding history.
+- Translated account distinguishes November 1701 river crossing, March 1702 latitude observation, deferred crossing and land/sea sighting. Original manuscript and geolocation remain unverified. [S39](https://www.fondazioneintorcetta.info/pdf/biblioteca-virtuale/documenti_1/PimeriaI.pdf). Locator: Vol. I, pp. 316-317, 341, 343-344. Access: SCAN_INSPECTED. Limit: Original manuscript and Spanish text not checked. No independent geolocation, instrument/ephemeris audit or corroborating field observation. Shared author with map.
 
 **Physical evidence:** Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected.
 
-**Surviving documents:** Comparison and Kino map scans, volume title page and selected translated Picolo report portions, plus catalog/exhibition records; island manuscript uninspected.
+**Surviving documents:** Comparison and Kino map scans, volume title page and selected translated Picolo report portions, plus catalog/exhibition records; island manuscript uninspected. Selected Kino route passages now inspected in Bolton's 1919 translation.
 
 **Source interpretation:** Curators describe a propagated geographic misconception.
 
@@ -164,9 +165,9 @@ Place: California/Baja California as depicted in a manuscript map. Status: SOURC
 
 **Counterevidence:** The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.
 
-**Next test:** Recover Kino's dated route observations and the Spanish report; compare translation and edition history, then test a specified former strait against independent deposits.
+**Next test:** Compare Kino manuscript/Spanish text, reconstruct route with spatial uncertainty, and seek independent coastal deposits; do not count map and same-author narrative as independent surveys.
 
-**Dependence:** Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines. Kino scan agrees with the attributed panel on selected features; direct copying versus an intermediate source remains unresolved.
+**Dependence:** Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines. Kino scan agrees with the attributed panel on selected features; direct copying versus an intermediate source remains unresolved. S39 supplies participant testimony through later translation; its 1702 events postdate the map title's discovery period.
 
 **Alternatives:** Cartographic error/copying; A former waterway if independently evidenced
 
