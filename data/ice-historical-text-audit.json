@@ -26,16 +26,41 @@
       "matched_to_author_ice_event": null,
       "computational_missingness": "Four local sensitivity variants leave this entry unresolved because their complete-window sulfur input is missing. This is separate from textual ambiguity.",
       "next_checks": [
-        "Greek text and critical apparatus for 56.29.3",
-        "Locate and inspect manuscript witness folio",
-        "Trace Stothers 2002 additional cited accounts and dependencies",
-        "Audit historical inputs to eclipse model and textual year/meaning; compute local visibility only for an explicitly justified location."
+        "Recover PL 31 column 66 and its editorial apparatus",
+        "Collate Latin/Armenian entry and Greek Dio wording",
+        "Trace passage-specific source dependencies",
+        "Inspect Schove 1984 proposed 17 CE redating before accepting it"
       ],
       "astronomy_catalog_check": {
         "source_id": "S116",
         "result": "Four partial eclipses; no total or hybrid in year 14 CE. Published model inspected, not independently recomputed.",
         "data": "data/14ce-eclipse-catalog.json"
-      }
+      },
+      "citation_chain": [
+        {
+          "source": "S119",
+          "locator": "2.9 paragraph 21",
+          "cites": [
+            "Dio 56.29.3",
+            "Eusebius Chronicle Olympiad 198",
+            "Dexter Chronicle, Migne PL 31, 66"
+          ],
+          "status": "CITATIONS_TRACED_NOT_THREE_INDEPENDENT_WITNESSES"
+        },
+        {
+          "source": "S120",
+          "locator": "Olympiad 198.1",
+          "finding": "Eclipse and Augustus death placed together; no totality qualifier, duration or observing site in inspected English entry. Death location is Atella, unlike Dio Nola.",
+          "independence_from_dio": null,
+          "original_languages_inspected": false
+        },
+        {
+          "source": "S121",
+          "finding": "Historical critique attributes works under Dexter name to Higuera fabrication; triggers authentication flag for cited chronicle.",
+          "exact_pl31_col66_inspected": false,
+          "passage_specific_fabrication_proven": false
+        }
+      ]
     }
   ]
 }

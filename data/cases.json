@@ -1504,6 +1504,11 @@
           "source_id": "S116",
           "locator": "Catalog rows 04806-04809",
           "statement": "All four predicted solar eclipses in 14 CE are partial; this conflicts conditionally with a literal total-eclipse reading assigned to that year."
+        },
+        {
+          "source_id": "S119",
+          "locator": "Section 2.9 paragraph 21",
+          "statement": "The 14 CE discussion cites Dio, Eusebius and Dexter, and considers atmospheric darkening and a proposed 17 CE redating; these are alternatives, not three authenticated independent observations."
         }
       ],
       "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",

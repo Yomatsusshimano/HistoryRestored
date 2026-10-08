@@ -1925,6 +1925,48 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S119",
+      "title": "Cloudy and clear stratospheres before A.D. 1000 inferred from written sources",
+      "creator": "Richard B. Stothers",
+      "publication_date": "2002-12-13",
+      "source_type": "Original research article",
+      "url": "https://doi.org/10.1029/2002JD002105",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Section 2.9, paragraph 21, publisher HTML.",
+      "limitations": "Selected paragraph, not full-paper review. Ancient citations and proposed redating not independently authenticated.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S120",
+      "title": "St. Jerome: Chronological Tables, Olympiads 170-203",
+      "creator": "Jerome after Eusebius; English translation hosted by Attalus",
+      "publication_date": null,
+      "source_type": "Historical text in translation or transcription",
+      "url": "https://www.attalus.org/translate/jerome2.html",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Introduction and Olympiad 198.1 eclipse/death entry.",
+      "limitations": "Translation based on Schoene; does not reproduce manuscript layout. Latin, Armenian and Greek witnesses not collated. Relationship to Dio unknown.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S121",
+      "title": "Censura de historias fabulosas: dedication and Vida de don Nicolas Antonio",
+      "creator": "Gregorio Mayans; digital text hosted by Biblioteca Valenciana Digital",
+      "publication_date": "1742 (historical edition)",
+      "source_type": "Historical text in translation or transcription",
+      "url": "https://bivaldi.gva.es/es/corpus/unidad.do?idCorpus=20000&idUnidad=47633&posicion=1",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Historical dedication; Vida sections 70-72 and passage attributing works of Dextro to Higuera.",
+      "limitations": "Transcription of historical critique, not inspected manuscript evidence. Exact Dexter passage cited by Stothers at PL 31 column 66 not inspected; no passage-specific derivation established.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

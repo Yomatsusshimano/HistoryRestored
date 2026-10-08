@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Historical citation lineage and authentication flag
+
+Previous turn made progress: d536707 published eight verified files; clean checkout confirmed. Inspected Stothers paragraph 21, Jerome Olympiad 198.1 translation and Mayans historical critique. Added S119-S121 and citation-chain ledger. Dexter attribution now flagged for authentication, with exact cited Migne column still uninspected; no specific eclipse sentence declared forged. Preserved Atella/Nola textual difference and untested 17 CE alternative. No independent witness count or catastrophe linkage inferred. Full goal remains active.
+
 ## 2026-10-08 - 14 CE eclipse catalog comparison
 
 Previous turn made progress: 98d9e8f published seven byte-verified files. Clean checkout rechecked. Inspected NASA year-14 catalog rows, definitions and Delta T uncertainty documentation; added S116-S118 and four-row ledger. No total/hybrid predicted in 14 CE, a conditional conflict with literal totality, not a positive volcanic identification. Preserved distinction between catalog inspection and independent orbital calculation, and between Earth-rotation uncertainty and calendar-year uncertainty. Full goal remains active.
