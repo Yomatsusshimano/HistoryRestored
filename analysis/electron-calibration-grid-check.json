@@ -1,0 +1,66 @@
+{
+  "maximum_endpoint_change_years": 0.125,
+  "steps_years": [
+    0.25,
+    0.125
+  ],
+  "fine_variants": {
+    "five_ELE01": {
+      "lab_ids": [
+        "WW-3793",
+        "WW-3794",
+        "WW-3795",
+        "WW-1875",
+        "Beta-82791"
+      ],
+      "mode_CE": 1502.5,
+      "equal_tail_95_4_CE": [
+        1487.0,
+        1514.0
+      ],
+      "equal_tail_99_7_CE": [
+        1479.125,
+        1520.0
+      ],
+      "edge_mass_first_last_10_years": 8.540233527567223e-181
+    },
+    "seven_samples": {
+      "lab_ids": [
+        "Beta-71969",
+        "WW-3793",
+        "WW-3794",
+        "WW-3795",
+        "WW-1875",
+        "Beta-82791",
+        "WW-3088"
+      ],
+      "mode_CE": 1509.0,
+      "equal_tail_95_4_CE": [
+        1495.125,
+        1518.75
+      ],
+      "equal_tail_99_7_CE": [
+        1490.25,
+        1529.125
+      ],
+      "edge_mass_first_last_10_years": 4.628303028238439e-247
+    },
+    "omit_ELE01": {
+      "lab_ids": [
+        "Beta-71969",
+        "WW-3088"
+      ],
+      "mode_CE": 1542.0,
+      "equal_tail_95_4_CE": [
+        1511.125,
+        1605.5
+      ],
+      "equal_tail_99_7_CE": [
+        1494.875,
+        1618.25
+      ],
+      "edge_mass_first_last_10_years": 7.239933980096533e-69
+    }
+  },
+  "scope": "Numerical grid sensitivity only"
+}

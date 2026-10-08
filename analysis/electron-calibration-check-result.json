@@ -1,0 +1,130 @@
+{
+  "source_ids": [
+    "S72",
+    "S73",
+    "S128"
+  ],
+  "assay_sha256": "4da2917e37314654dbaf2a7328e0f8f986d7c99d2a76f5f9bfba0eb239912b21",
+  "curve_sha256": "974a66649f2ac8a53e6c99e256b019ac6982f999b12dcf7193162d4c1c09168e",
+  "step_years": 0.25,
+  "prior": "Uniform death year 1\u20131950 CE",
+  "selected_inputs": [
+    {
+      "tree": "ELE11",
+      "lab_id": "Beta-71969",
+      "age": 540.0,
+      "sigma": 50.0,
+      "offset": 210.0
+    },
+    {
+      "tree": "ELE01",
+      "lab_id": "WW-3793",
+      "age": 562.0,
+      "sigma": 38.0,
+      "offset": 98.0
+    },
+    {
+      "tree": "ELE01",
+      "lab_id": "WW-3794",
+      "age": 625.0,
+      "sigma": 38.0,
+      "offset": 198.0
+    },
+    {
+      "tree": "ELE01",
+      "lab_id": "WW-3795",
+      "age": 878.0,
+      "sigma": 44.0,
+      "offset": 298.0
+    },
+    {
+      "tree": "ELE01",
+      "lab_id": "WW-1875",
+      "age": 950.0,
+      "sigma": 40.0,
+      "offset": 355.0
+    },
+    {
+      "tree": "ELE01",
+      "lab_id": "Beta-82791",
+      "age": 1010.0,
+      "sigma": 50.0,
+      "offset": 355.0
+    },
+    {
+      "tree": "ELE39",
+      "lab_id": "WW-3088",
+      "age": 970.0,
+      "sigma": 40.0,
+      "offset": 400.0
+    }
+  ],
+  "excluded": "KAP14a separately treated because unknown missing outer rings and unsuccessful crossdating, as recorded in model-selection audit.",
+  "method": "Same fixed-offset Gaussian product and interpolated curve mean/sigma as bonneville_calibration_check.py",
+  "limitations": [
+    "Not OxCal reproduction or independent chronology.",
+    "No offset uncertainty, within-sample averaging, calibration covariance, or assay dependence modeled.",
+    "Equal-tail intervals differ in definition from some published summaries.",
+    "ELE01 five determinations are one tree, not five independent event witnesses.",
+    "Source tree identities and relative offsets retained without revalidation."
+  ],
+  "variants": {
+    "five_ELE01": {
+      "lab_ids": [
+        "WW-3793",
+        "WW-3794",
+        "WW-3795",
+        "WW-1875",
+        "Beta-82791"
+      ],
+      "mode_CE": 1502.5,
+      "equal_tail_95_4_CE": [
+        1487.0,
+        1514.0
+      ],
+      "equal_tail_99_7_CE": [
+        1479.0,
+        1520.0
+      ],
+      "edge_mass_first_last_10_years": 8.765902020171648e-181
+    },
+    "seven_samples": {
+      "lab_ids": [
+        "Beta-71969",
+        "WW-3793",
+        "WW-3794",
+        "WW-3795",
+        "WW-1875",
+        "Beta-82791",
+        "WW-3088"
+      ],
+      "mode_CE": 1509.0,
+      "equal_tail_95_4_CE": [
+        1495.25,
+        1518.75
+      ],
+      "equal_tail_99_7_CE": [
+        1490.25,
+        1529.0
+      ],
+      "edge_mass_first_last_10_years": 4.837726416050624e-247
+    },
+    "omit_ELE01": {
+      "lab_ids": [
+        "Beta-71969",
+        "WW-3088"
+      ],
+      "mode_CE": 1542.0,
+      "equal_tail_95_4_CE": [
+        1511.0,
+        1605.5
+      ],
+      "equal_tail_99_7_CE": [
+        1495.0,
+        1618.25
+      ],
+      "edge_mass_first_last_10_years": 7.443311809236003e-69
+    }
+  },
+  "scientific_validation": false
+}

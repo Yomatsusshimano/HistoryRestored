@@ -29,7 +29,21 @@ Both NOAA series contain 109 annual observations with no internal missing values
 
 Bonneville's abstract uses an Electron chronology as one external comparison. These dates therefore require a shared-dependency audit. Raw annual widths have now been recovered separately from the USGS tables; external matching and the age model remain unreproduced. [Release audit and hashes](../data/electron-release-audit.json) preserve the earlier acquisition. The supplement, release and NOAA archive represent one research chain, not three independent confirmations.
 
-## Article methods and archived diagnostics
+## Simplified calibration and dependence on ELE01
+
+The [executed check](../analysis/electron_calibration_check.py) uses S72's preserved Table S2 and S128's IntCal20 curve under the same assumptions as the [Bonneville check](BONNEVILLE-LANDSLIDE.md): fixed ring-centroid offsets, independent Gaussian likelihood factors, linearly interpolated curve means/sigmas and a uniform 1–1950 CE prior. Seven lab IDs and offsets match the audited S73 selection exactly after punctuation normalization. KAP14a remains excluded for the documented context reasons. [Results and input hashes](../analysis/electron-calibration-check-result.json).
+
+| Assays retained | Mode CE | Equal-tail 95.4% CE | Equal-tail 99.7% CE |
+| --- | ---: | --- | --- |
+| Five from ELE01 | 1502.50 | 1487.00–1514.00 | 1479.00–1520.00 |
+| Seven from three trees | 1509.00 | 1495.25–1518.75 | 1490.25–1529.00 |
+| Two after omitting ELE01 | 1542.00 | 1511.00–1605.50 | 1495.00–1618.25 |
+
+These are grid coordinates, not subannual accuracy. [Halving the grid step](../analysis/electron-calibration-grid-check.json) changes interval endpoints by at most 0.25 year. The first two fits broadly agree with the published placement. The third shows that precision and location depend materially on ELE01, which supplies five determinations. Its two-sample 99.7% interval still includes 1507; neither that overlap nor the shifted mode independently validates an event date. No calibrated model-comparison statistic was computed.
+
+This is not an OxCal reproduction: offset uncertainty, within-sample averaging, curve covariance and assay dependence are omitted. The raw observations and calibration curve are shared with the research chain. Relative ring alignment and specimen identity have not been independently validated. Under this same simplified implementation, Bonneville's full-data 99.7% interval ends at 1451 and Electron's seven-assay interval begins at 1490.25—a 39.25-year gap between these particular marginal sets. That is not a confidence bound on the event separation or proof of different causes.
+
+## Earlier article methods and archived diagnostics
 
 [Author-uploaded article text S76](https://www.researchgate.net/publication/398469149_Forest-floor_burial_in_1507_by_the_largest_Mount_Rainier_lahar_of_the_past_millennium), advance-page 2, describes KAP14 as separately calibrated hemlock with missing outer rings that could not be crossdated. Its radiocarbon results agree with Figure S2, leaving an internal abstract/results discrepancy. Methods specify CDendro high-frequency comparisons against MacBlo, scanning annually with at least 30 years' overlap. Precise processing settings remain unrecovered. These are extracted-text findings; the article PDF could not be inspected visually.
 

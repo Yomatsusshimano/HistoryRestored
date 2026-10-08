@@ -142,3 +142,5 @@ Grand Coulee column audit: 50 paired observations numerically summarized; raw an
 Grand Coulee polygon audit: eight valid geometries; four named inner/outer pairs touch with zero area overlap. Treat as adjacent zones, not nested outlines. Stored areas reconcile within 0.001 square metre. Actual fitting procedure and hydraulic outputs still needed; browser Globus check reaches login.
 
 Bonneville simplified calibration check executed on nine assays with IntCal20: mid-fifteenth-century peaks persist when each tree is omitted. Fixed-offset likelihood model, not OxCal reproduction; shared curve covariance and offset uncertainty omitted. Numerical grid refinement checked.
+
+Electron simplified calibration: matched seven lab IDs and offsets to the audited model selection; seven-assay peak near published date, two-assay remainder shifts later when ELE01 is omitted. Preserve dependence on the five-assay tree. Full OxCal and calibration covariance remain unmodeled.

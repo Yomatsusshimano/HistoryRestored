@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Consistent Electron calibration and tree dependence
+
+Previous turn made progress: 5ad961f published eight verified files; clean checkout confirmed. Applied the same simplified likelihood assumptions to Electron assays, explicitly excluding KAP14a. Seven lab IDs and offsets reconcile exactly with the existing selection ledger after punctuation normalization. Five-assay and seven-assay fits broadly agree with published placement; omitting ELE01 shifts and broadens the result. Grid halving changes interval endpoints by at most 0.25 year. This exposes dependence, not an independently established alternative date. Full goal remains active.
+
 ## 2026-10-08 - Bonneville independent implementation check
 
 Previous turn made progress: 628ede5 published seven verified files; clean checkout confirmed. Retried supplement acquisition without recovering workbook content. Downloaded official IntCal20 curve, added S128, and executed a transparent fixed-offset Gaussian likelihood check of all nine preserved assays plus leave-one-tree-out sensitivities. Mid-fifteenth-century placement persists. Two numerical tests passed; halving grid spacing shifts interval endpoints by at most 0.25 year. This is independent code on dependent source data, not an independent date or OxCal reproduction. Full goal remains active.
