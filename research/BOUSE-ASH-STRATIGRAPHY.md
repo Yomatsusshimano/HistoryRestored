@@ -41,3 +41,13 @@ S199: nine-page university-hosted PDF; pp.149–151 visually inspected. SHA256 `
 S200: DOI 10.1130/GES00934.1; author-uploaded full text, selected interval A–C descriptions on p.465. Institutional abstract checked separately. Publisher PDF failed certificate validation; ResearchGate PDF retrieval failed. No local PDF or visual figure verification.
 
 S201: 33-page university-hosted PDF; selected sections 3.4.3 and 3.5 on pp.18–19 visually inspected; other selected chronology passages were text-read only. SHA256 `350bb76bdd91296e464940a0f65a2433eb66a62dc262428c97539f5a1ac164ef`. This is not a complete audit of its regional chronology or paleontological identifications.
+
+## Original section and sample locators recovered
+
+S202, [O’Connell's December 2016 thesis](https://scholarsbank.uoregon.edu/server/api/core/bitstreams/e8511d99-090f-4c1b-8f2c-29c14a102312/content), provides measured sections 61 and 62 on printed pp.125–126 (PDF136–137), visually inspected. The [structured locators](../data/buzzards-section-locators.json) preserve two ash identifiers, seven other sample labels, endpoint coordinates and original question marks. Section61 labels its gray ash unbioturbated and Lawlor; section62 labels ash between uncertain carbonate assignments. Both figures attribute the upper-member interpretation to Dorsey2016.
+
+These logs are retrieval anchors for original analytical records. They do not establish completed laboratory analysis or reproduce the correlation. Their candidate matches to BP1/BP2 need confirmation against original traverse metadata. Section endpoint elevations differ from the labels in S199; do not interpret those differences as terrain change without reconciling measurement locations and datums. Coordinates locate the section endpoints, not every sample. Datum and uncertainty remain null, and no date is inferred from the sample-name suffix.
+
+A bounded search on 2026-10-08 used combinations of Bouse, C27, BP2, ash, Lawlor, Milpitas and the exact ash identifiers. It recovered these logs and earlier publications, but no subsequent analytical result tied to either identifier. That search outcome is not evidence that no such result exists. Next trace the named samples to analytical tables and custody records; obtain an equivalent locator for C27. No inquiry has been sent.
+
+Thesis PDF: 159 pages, SHA256 `337c28f04041eeed44d413fde114696a55ddf43ce024c4093afebcfa4a7d7357`. Inspection is limited to title text and the two selected section figures; this does not audit the entire thesis.

@@ -503,6 +503,11 @@
           "source_id": "S201",
           "locator": "pp.18-19 sections3.4.3/3.5; research/BOUSE-ASH-STRATIGRAPHY.md",
           "statement": "Later stratigraphic account retains tentative ash links and reports an unsuccessful microfossil bridge at Buzzards Peak."
+        },
+        {
+          "source_id": "S202",
+          "locator": "Printed125-126, sections61-62; data/buzzards-section-locators.json",
+          "statement": "Named ash samples and section endpoints recovered; these are traceable retrieval targets, not completed dating or independently confirmed correlations."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

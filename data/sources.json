@@ -3211,6 +3211,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S202",
+      "title": "Sedimentology and depositional history of the Miocene–Pliocene southern Bouse Formation, Arizona and California",
+      "url": "https://scholarsbank.uoregon.edu/server/api/core/bitstreams/e8511d99-090f-4c1b-8f2c-29c14a102312/content",
+      "creator": "Brennan O’Connell",
+      "publication_date": "2016-12",
+      "source_type": "original thesis and measured-section logs",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Title text and printed125-126/PDF136-137, sections61-62 visually checked. SHA256 337c28f04041eeed44d413fde114696a55ddf43ce024c4093afebcfa4a7d7357.",
+      "limitations": "Selected sections only; no analytical result, original sample custody, datum or exact sample-height verification. Same research lineage as S199/S201; candidate crosswalk is provisional.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

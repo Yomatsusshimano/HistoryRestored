@@ -896,3 +896,7 @@ Previous turn made verified public progress; clean tree confirmed. Institutional
 ### 2026-10-08 — Ash-to-bed stratigraphic dependencies
 
 Previous turn made verified public progress; clean checkout confirmed. Retrieved and hashed Dorsey2016 and Dorsey2018 university PDFs; visually inspected selected sections/figures. Read selected Miller2014 original article passages through author-uploaded full text after publisher certificate failure and failed PDF retrieval. Published a comparison separating sediment description, proposed lateral matching and restored geometry. Added concrete sample/bed tests instead of transferring an eruption age to all fossil records. No complete formation chronology, field survey or independent review claimed.
+
+### 2026-10-08 — Buzzards Peak sample locators
+
+Previous turn published verified progress; clean tree confirmed. Targeted later-analysis searches recovered O’Connell2016 thesis. Downloaded159-page PDF, verified hash, visually checked printed125-126 against extracted text and preserved section endpoints, nine sample labels and question-marked interpretations. No datum or collection date guessed from labels; no precise heights digitized. Later results were not recovered by this bounded search. Published locators to make the next laboratory-record search specific, without claiming new dating or independent corroboration.

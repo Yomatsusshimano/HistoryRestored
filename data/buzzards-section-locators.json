@@ -1,0 +1,65 @@
+{
+  "source_id": "S202",
+  "url": "https://scholarsbank.uoregon.edu/server/api/core/bitstreams/e8511d99-090f-4c1b-8f2c-29c14a102312/content",
+  "sha256": "337c28f04041eeed44d413fde114696a55ddf43ce024c4093afebcfa4a7d7357",
+  "scope": "Selected measured-section figures; no new analysis or independent field verification. Coordinates transcribed from section endpoints, not sample positions.",
+  "sections": [
+    {
+      "section": "61",
+      "printed_page": 125,
+      "pdf_page": 136,
+      "candidate_crosswalk": "BP1 in S199/S201; provisional, not a verified identical measured traverse",
+      "start": {
+        "latitude": 33.15963,
+        "longitude": -114.866,
+        "elevation_m": 307,
+        "horizontal_datum": null,
+        "vertical_datum": null,
+        "uncertainty_m": null
+      },
+      "end": null,
+      "ash_sample": "BOC-BP-12816-ASH",
+      "other_sample_labels": [
+        "BOC-BP-1-12816",
+        "BOC-BP-3-12816",
+        "BOC-BP-4-12816"
+      ],
+      "ash_label": "gray, unbioturbated (Lawlor Tuff)",
+      "member_assignment": "Upper Bioclastic Member(?)",
+      "exact_sample_heights_m": null
+    },
+    {
+      "section": "62",
+      "printed_page": 126,
+      "pdf_page": 137,
+      "candidate_crosswalk": "BP2 in S199/S201; provisional, not a verified identical measured traverse",
+      "start": {
+        "latitude": 33.15847,
+        "longitude": -114.82471,
+        "elevation_m": 291,
+        "horizontal_datum": null,
+        "vertical_datum": null,
+        "uncertainty_m": null
+      },
+      "end": {
+        "latitude": 33.15844,
+        "longitude": -114.82504,
+        "elevation_m": 294,
+        "horizontal_datum": null,
+        "vertical_datum": null,
+        "uncertainty_m": null
+      },
+      "ash_sample": "BOC-BP2-12816-ASH",
+      "other_sample_labels": [
+        "BOC-BP2-1-12816",
+        "BOC-BP2-2-12816",
+        "BOC-BP2-3-12816",
+        "BOC-BP2-4-12816"
+      ],
+      "ash_label": "ASH",
+      "member_assignment": "Basal Carbonate Member? below; Upper Bioclastic Member? above",
+      "exact_sample_heights_m": null
+    }
+  ],
+  "limitations": "Original question marks preserved. Neither dated results nor sample custody are supplied by these selected logs. IDs are not parsed as collection dates. No coordinate transformation or precise digitization of sample heights performed."
+}
