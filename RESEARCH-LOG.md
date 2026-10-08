@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Woodward/Edison patent comparison
+
+Previous goal turn made progress: Eiffel audit 4c3fbb8 was published with public-byte verification. This turn retrieved Woodward patent US181613 and visually inspected all three pages. The actual scan establishes the identifier, 1875-01-04 filing and 1876-08-29 grant; the initial search also tried an incorrect candidate number, which was not entered as evidence. Patent 181613 is a documented carbon-lamp disclosure earlier than Edison's 223898.
+
+Added S18, the historical patent PDF and a source-linked comparison of carbon elements, atmosphere and claims. Woodward's printed assignment recipients are recorded separately from any alleged later transfer to Edison, which remains unverified. Google Patents metadata/OCR served as navigation; scanned text controlled dates and claims. No lamp was tested and no legal validity determination made.
+
+Rutgers-targeted searches for transfer evidence surfaced indexed notebook documents 1830 and 1831 (October 21-22, 1879). Both PDF links returned 404 on direct opening; their contents are not claimed as inspected. The next action is original assignment and accessible notebook retrieval, followed by other antecedents and performance comparisons. The record now contains nine cases and eighteen sources. These findings narrow sole-inventor narratives without establishing lost-technology recovery.
+
 ## 2026-10-08 - Eiffel personnel and cost-account audit
 
 Previous goal turn made progress: map audit 889419e was published and retrieved public bytes matched committed blobs. This turn located Eiffel's 1900 technical monograph at ETH-Bibliothek Zurich (Rar 9704; DOI 10.3931/e-rara-28271). Search terms targeted original construction records and La tour de trois cents metres. Modern operator summaries were useful discovery leads but were not used as independent confirmation.

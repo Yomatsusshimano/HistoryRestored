@@ -13,7 +13,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C004 | Cascadia tsunami and coastal subsidence |
 | C005 | California-as-island map |
 | C006 | Eiffel Tower construction records and cost audit |
-| C007 | Edison electric-lamp patent 223,898 |
+| C007 | Woodward and Edison incandescent-lamp patent comparison |
 | C008 | Missoula flood sequence |
 | C009 | Yukon mammoth and horse sedimentary DNA |
 
@@ -191,7 +191,7 @@ Place: Paris, France. Status: SOURCED_DRAFT.
 
 **Missing:** Original invoices and payroll; Authenticated photographic sequence; Fabric dates; Independent quantity and labor-productivity audit
 
-## C007: Edison electric-lamp patent 223,898
+## C007: Woodward and Edison incandescent-lamp patent comparison
 
 Place: United States patent; Menlo Park attribution. Status: SOURCED_DRAFT.
 
@@ -199,26 +199,27 @@ Place: United States patent; Menlo Park attribution. Status: SOURCED_DRAFT.
 
 - The scan identifies an 1879 application and an 1880 patent for an improvement; it discusses earlier incandescent lamps. [S10](https://patentimages.storage.googleapis.com/d4/9b/62/aac68f7e65536c/US223898.pdf). Locator: PDF pages 2-3: heading, opening, antecedent discussion and claims. Access: SCAN_INSPECTED. Limit: Four-page file preserved; pages 1 and 4 not visually reviewed. Scan verifies wording, not working performance or priority.
 - Metadata gives filing 4 November 1879 and publication 27 January 1880. [S09](https://patents.google.com/patent/US223898A/en). Locator: Filing and publication metadata. Access: FULL_TEXT_PORTION. Limit: OCR damaged. Performance assertions are inventor statements, not replicated measurements. Complete priority history unreviewed.
+- Woodward filed January 4, 1875 and received patent 181,613 on August 29, 1876; it describes carbon in a vessel filled with rarefied nonreactive gas. [S18](https://patentimages.storage.googleapis.com/69/5d/5f/0509a2b5e678bc/US181613.pdf). Locator: PDF page 2 heading and specification; page 3 claim. Access: SCAN_INSPECTED. Limit: Patent disclosure, not measured lamp performance or full ownership chain. Does not establish first invention or transfer to Edison. OCR corrupts numbers and interleaves the final claim.
 
-**Physical evidence:** Patent scan visually inspected; no lamp tested.
+**Physical evidence:** Woodward patent pages 1-3 and Edison specification pages 2-3 visually inspected; no original lamp tested.
 
-**Surviving documents:** Specification, claims and signature; notebooks unreviewed.
+**Surviving documents:** Two patent scans; Woodward assignment heading; notebooks and full transfer instruments unreviewed.
 
 **Source interpretation:** The inventor claims specific improvements.
 
-**Investigation inference:** A priority audit must distinguish incremental improvement, first discovery, commercialization and recovered technology.
+**Investigation inference:** A documented carbon-lamp antecedent predates Edison. Technical similarities and differences require comparison; priority of disclosure alone does not prove copying, ownership transfer or ancient recovery.
 
-**Counterevidence:** A patent alone proves neither sole invention nor recovery from a lost civilization.
+**Counterevidence:** Woodward predates Edison for a disclosed carbon-lamp arrangement. Edison claims more specific filament/vacuum combinations. Neither patent establishes recovery from a lost civilization or sole invention of all electric lighting.
 
-**Next test:** Compare antecedent patents, notebooks and working designs; require a dated access chain for any recovery claim.
+**Next test:** Retrieve original transfer instruments and dated laboratory records; compare other antecedents and measured lamp performance with each claimed technical improvement.
 
-**Dependence:** Scan and transcription are the same patent, not independent inventions.
+**Dependence:** Each scan and its OCR are one record. Two patents document distinct disclosures but do not establish a transmission chain between them.
 
 **Alternatives:** Incremental development; Recovery from a demonstrably earlier artifact
 
-**Chronology:** {"reported": "1879 filing; 1880 publication", "dated_object": "Patent application/publication", "method": "Scan and metadata", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
+**Chronology:** {"reported": "Woodward: filing 1875-01-04, grant 1876-08-29; Edison: filing 1879-11-04, publication 1880-01-27", "dated_object": "Patent application/publication", "method": "Scan and metadata", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
-**Missing:** Antecedents; Notebooks; Workshop contributors; Recovery pathway
+**Missing:** Broader antecedent set; Accessible laboratory notebooks; Workshop contributions; Complete ownership/access chain; Independent performance comparison
 
 ## C008: Missoula flood sequence
 

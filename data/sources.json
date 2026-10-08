@@ -299,6 +299,21 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S18",
+      "title": "US181613: Improvement in electric lights",
+      "url": "https://patentimages.storage.googleapis.com/69/5d/5f/0509a2b5e678bc/US181613.pdf",
+      "creator": "Henry Woodward; United States Patent Office",
+      "publication_date": "1876-08-29",
+      "source_type": "historical patent scan",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All three PDF pages: drawing, specification including filing date and assignment heading, and sole claim.",
+      "limitations": "Patent disclosure, not measured lamp performance or full ownership chain. Does not establish first invention or transfer to Edison. OCR corrupts numbers and interleaves the final claim.",
+      "local_copy": "sources/originals/US181613.pdf",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "sha256": "aacf8f615dfe5c915de29562df4e920a31eef27e80f387b2e429621b8f4c536d"
     }
   ]
 }

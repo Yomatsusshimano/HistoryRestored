@@ -6,13 +6,13 @@
 | --- | --- | --- | --- |
 | 1 | Define exactly what the catastrophe claim predicts | Scoped event window/extent/mechanism and attribution sampling definitions, with observable rejection conditions | Claim family and tests drafted in CLAIMS.md; parameters remain open; compare candidate periods |
 | 2 | Publish equally rigorous standards | Publicly retrievable version of STANDARDS.md, including counterevidence and corrections | Published in commit 4a0b8ed; unauthenticated public retrieval matched committed content; standards remain open to revision |
-| 3 | Documented public anomaly inventory | Public records with locators, provenance, coverage and limitations across requested classes | Nine drafts prepared with seventeen source records; complete class coverage and independent review pending |
+| 3 | Documented public anomaly inventory | Public records with locators, provenance, coverage and limitations across requested classes | Nine drafts prepared with eighteen source records; complete class coverage and independent review pending |
 | 4 | Identify mysteries surviving scrutiny | Source audits and independent reviews comparing observations and alternatives | Facts/reports/interpretations separated; no independently reviewed case |
 | 5 | Predictive physical catastrophe model | Executed model with real inputs, conservation budgets, uncertainty and held-out spatial checks | PHYSICAL-MODEL.md specifies constraints; assumed arithmetic only |
 | 6 | Test one event against all named wildlife | Specimen-level maps and compatible dates/habitats for camels, horses, mammoths, sloths, muskoxen, predators and plants | Camel dating tables audited; Yukon sedimentary DNA case added with reworking caveats; all distributions/maps incomplete |
 | 7 | Rebuild old geography independently | Multiple independent dated observations fitting the same terrain/climate/corridor reconstruction | California exhibition-to-item links verified; date/edition discrepancies retained; scans and survey lineage pending; no reconstructed geography |
 | 8 | Audit builders | Fabric chronology, labor/material/transport budgets and construction provenance for named structures | Eiffel 1900 roster and principal cost totals visually checked; invoices, payroll, fabric and image sequence still pending |
-| 9 | Reexamine invention | Antecedent devices, patents, notebooks, manufacture and access chains | One patent scan inspected; recovery/originality not adjudicated |
+| 9 | Reexamine invention | Antecedent devices, patents, notebooks, manufacture and access chains | Woodward and Edison patent scans compared; transfer instruments, notebooks, broader antecedents and performance data pending |
 | 10 | Locate chronology divergence if it exists | Explicit transformation tested against astronomy, serial documents, archaeology, tree rings and ice cores | No break identified; raw chronologies uncollected |
 | 11 | Recover accessible primary voices | Identified letters/family/oral/maintenance records with provenance, rights and accessible originals | Maintenance article and patent available; broader original voices uncollected |
 | 12 | Reconstruct coherent sequence | Dated, cross-checked event ordering with uncertainty and competing sequences | No lost-civilization/catastrophe/rewriting sequence established |
@@ -32,5 +32,5 @@
 3. Extend the camel exposure/burial-history audit; verify Yukon taxa by sample and independent biological dates; add sloth, muskox and predator cases.
 4. Audit Cascadia raw logs and original chronology records.
 5. Resolve California map dating/edition discrepancies and source-map lineage; exhibition-to-item links are now verified.
-6. Extend the Edison record with named antecedents and workshop notebooks.
+6. Extend the Woodward/Edison comparison with original transfer instruments, workshop notebooks, other antecedents and performance records.
 7. Select and freeze a discovery/hold-out partition, candidate event windows and model tolerances before future tests.

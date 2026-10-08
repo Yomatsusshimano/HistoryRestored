@@ -1,6 +1,6 @@
 # Source preservation
 
-Only an original historical patent PDF is locally preserved in this edition: [US223898](originals/US223898.pdf), downloaded 2026-10-08 from the source registry's S10 URL. Its specification pages were visually inspected. The other sources are linked with access-depth records; they have not been fully mirrored.
+Two historical patent PDFs are preserved: [US223898](originals/US223898.pdf) from S10 and [US181613](originals/US181613.pdf) from S18, downloaded 2026-10-08. Edison's specification pages 2-3 and all three Woodward pages were visually inspected. Other sources are linked with access-depth records; they have not been fully mirrored.
 
 The source registry records creator, publication date, inspected portions, failed access, and local-copy paths. Hashes in snapshots detect changes to local files, not authenticity of the historical source.
 
