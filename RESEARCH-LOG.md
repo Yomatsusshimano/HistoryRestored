@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Fraction central-age chain
+
+Previous turn made progress: 8de8af5 published nine verified files. Visually inspected Figure S1; its caption does not specify aggregation. Recovered fraction central ages from stored S4 summaries, adopted residual and S11 rates. Different fine rates round to the figure/main-text variants, differing by about 1.27 ka. No weighting, uncertainty or pooled-age replication claimed. Full goal remains active.
+
 ## 2026-10-08 - Aliquot aggregation check
 
 Previous turn made progress: 99bcba5 published ten verified files. Decoded S4 rejection styling and retained all 44 measurements with explicit flags. Corrected a local style-proxy comparison before accepting the 22/20 counts. Two explicit aggregation diagnostics do not exactly recover stored means; coarse arithmetic sampling SE does reproduce. Published inputs and comparisons without replacing ages or calling an unspecified weighting method erroneous. Next recover aggregation and covariance definitions. Full goal remains active.

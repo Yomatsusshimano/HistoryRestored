@@ -170,3 +170,17 @@ An [exploratory calculation](../analysis/camp_aliquot_summary.py) compares two e
 | 150-355 | 979.9092 | 981.2660 | 952.1009 |
 
 The arithmetic means differ by less than 0.2% from the stored means, but do not reproduce them exactly. Inverse-variance weighting differs more and is not established as the source's rule. For the coarse fraction, the ordinary sampling SE (26.2351 Gy) reproduces the stored SE; for the fine fraction, it gives 23.5716 versus 24.9990 Gy. No replacement ages follow from this comparison. The actual weighting, accepted-input version, shared uncertainties and final pooling procedure must be identified before claiming complete reproduction or a scientific dating error.
+
+## Central age chain and figure variant
+
+Figure S1 (S145, PDF p.8) was visually inspected. It reports a fine-fraction corrected age of 435 +/- 39 ka, whereas S1 and the main text report 434 +/- 39 ka. The figure caption describes a radial plot but supplies no explicit aggregation rule.
+
+Using the stored S4 dose summaries, the adopted 50 Gy residual and S11 rates, the [central-age calculation](../analysis/camp_age_chain.py) produces these [results](../analysis/camp-age-chain-result.json):
+
+| Variant | Calculation, Gy divided by Gy/kyr | Result, ka | Rounded source value matched |
+| --- | --- | --- | --- |
+| Fine, highlight dose rate | (940.4888267 - 50) / 2.053 | 433.7500 | S1/main text: 434 |
+| Fine, detailed dose rate | (940.4888267 - 50) / 2.047 | 435.0214 | Figure S1: 435 |
+| Coarse, 95:5 mixture rate | (979.9092256 - 50) / 2.3544 | 394.9665 | S1/Figure S1: 395 |
+
+This recovers the published fraction central values conditionally on stored intermediate results. It does not recover their uncertainty, the underlying weighted dose summaries or the pooled 416 +/- 38 ka result. The fine variants differ by about 1.27 ka, small compared with the reported 39 ka uncertainty; this discrepancy alone is not evidence of a materially different chronology. Matching rounded values is a reproducible explanation to investigate, not proof of the authors' processing history. Resolve the aggregation and uncertainty chain before promoting the component audit to full replication.

@@ -1021,6 +1021,11 @@
           "source_id": "S146",
           "locator": "S4 A6:K29,A36:K55; rejection key O8; J31:K31,J57:K57",
           "statement": "Decoded rejection flags leave 22 fine and 20 coarse aliquots. Two explicit aggregation diagnostics do not exactly reproduce stored weighted means; actual weighting and covariance remain unresolved."
+        },
+        {
+          "source_id": "S145",
+          "locator": "Figure S1 p.8; compared with S146 S4/S11",
+          "statement": "Figure fine-age variant 435 ka and main-text 434 ka can each be recovered using different stored dose rates. Fraction central-value arithmetic reproduced conditionally; full uncertainty and pooled age remain unresolved."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",

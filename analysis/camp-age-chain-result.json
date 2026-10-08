@@ -1,0 +1,31 @@
+{
+  "source_id": "S146",
+  "formula": "(stored fading-corrected DE - adopted residual) / stored dose rate",
+  "results": [
+    {
+      "variant": "fine_highlight",
+      "input_DE_Gy": 940.4888266638329,
+      "residual_Gy": 50,
+      "dose_rate_Gy_ka": 2.053,
+      "age_ka": 433.75003734234434,
+      "locator": "S4 J31; S11 T12"
+    },
+    {
+      "variant": "fine_detailed",
+      "input_DE_Gy": 940.4888266638329,
+      "residual_Gy": 50,
+      "dose_rate_Gy_ka": 2.047,
+      "age_ka": 435.02141019239514,
+      "locator": "S4 J31; S11 JQ12"
+    },
+    {
+      "variant": "coarse_mixture",
+      "input_DE_Gy": 979.9092256272893,
+      "residual_Gy": 50,
+      "dose_rate_Gy_ka": 2.3544000000000005,
+      "age_ka": 394.9665416357837,
+      "locator": "S4 J57; S11 T17"
+    }
+  ],
+  "scope": "Central-value arithmetic only. Does not reconstruct source weighting, dose-response fits, uncertainty or pooled age. Variant matches do not establish processing provenance."
+}

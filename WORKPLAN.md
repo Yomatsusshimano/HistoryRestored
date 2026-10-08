@@ -190,3 +190,5 @@ Camp Century original supplement recovered: 25-page methods PDF and all 19 XLSX 
 S5 example fading factors reproduced (30 cells); S11 output crosswalk and coarse 95:5 mixture checked. Resolve divergent highlight/detailed rates against original DRAC processing and trace corrected aliquot fits to final pooled age and uncertainty. Component reproduction remains distinct from scientific validation.
 
 S4 aggregation: 22/20 accepted aliquots match source counts; arithmetic and inverse-variance means do not exactly reproduce stored weighted means. Preserve rejected rows and recover the actual weighting/input-version and shared-error definitions before final-age reproduction.
+
+Fraction central values now reproduced conditionally from stored dose summaries: 433.750 and 394.967 ka round to 434 and 395. Alternative fine rate yields 435.021 ka, matching Figure S1. Aggregation, uncertainty and pooled age remain unresolved; do not mistake a 1.27 ka variant for a revised chronology.
