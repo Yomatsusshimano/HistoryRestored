@@ -300,3 +300,5 @@ S204 Sundesert bibliography recovered and selected pages visually checked. Separ
 S205/S206 recover RD-16 across two compilations:9.3 versus9.60 Ma, differing coordinates and1976/1975 citations. Next original analytical page and Calzia/Morton1980; preserve general versus sample-specific recalculation distinction. Do not repeat compilation retrieval or sample-ID discovery as pending.
 
 S207 Calzia/Morton1980 recovered: K41-4 labels RD-16 reported9.3/recalculated9.6 Ma; DMS coordinates round to S206. Next original inputs/contact and S205 coordinate/reference reconciliation. Do not repeat the numerical discrepancy as an unexplained change or Calzia retrieval as pending.
+
+Integrated S194-S207 into cross-case and Bouse discrimination assessments. Prioritize measured brackets or a bounded lag for a named target fossil bed over additional underlying dates. Original supplemental-row retrieval is complete; final argon reproduction, bed transfer and independent route tests remain open.

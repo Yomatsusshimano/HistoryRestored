@@ -1,6 +1,6 @@
 # What distinguishes the Bouse explanations
 
-2026-10-08. Retrospective synthesis of S183-S187. No independent review or fitted reconstruction.
+2026-10-08. Retrospective synthesis of S183-S207. No independent review or fitted reconstruction.
 
 The recovered measurements support a change in the sampled environment, but do not uniquely identify its cause. The proposed lake spillover and marine-to-lake interpretations overlap in predicting environmental change. A historical Gulf-to-Pacific passage adds separate requirements that neither local interpretation establishes.
 
@@ -48,4 +48,4 @@ Present status: H2-L and H2-M remain incompletely discriminated here. H2-T lacks
 
 ## Chronology dependencies recovered
 
-The [chronology audit](BOUSE-CHRONOLOGY.md) now separates underlying-rock limits, fossil-range dating and the Bouse-Lawlor ash correlation, using S194/S195. A secure older limit alone cannot exclude historical deposition; a primary correlated ash provides a different test. Exact stratigraphic transfer and raw dating analyses remain pending. Environmental disagreement does not erase these distinct chronological constraints.
+The [chronology audit](BOUSE-CHRONOLOGY.md) now separates underlying-rock limits, fossil-range dating and the Bouse-Lawlor ash correlation, using S194-S207. Original zircon and argon supplemental rows, section sample locators and underlying basalt identities are now recovered. Final argon fitting and exact stratigraphic transfer remain unresolved. The [age-transfer assessment](BOUSE-AGE-TRANSFER.md) specifies which direction of bound could exclude historical deposition at a target bed; an ancient ash below it alone is insufficient. Environmental disagreement does not erase these distinct chronological constraints.

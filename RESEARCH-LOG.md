@@ -920,3 +920,7 @@ Previous turn published verified progress; clean checkout confirmed. Retrieved U
 ### 2026-10-08 — RD-16 recalculation documented
 
 Previous turn published verified progress; clean checkout confirmed. Followed institutional catalog to OFR80-1303 plate; retrieved and hashed image-only PDF, rendered enlarged table/discussion/bibliography. Sample-specific reported/recalculated pair resolves9.3/9.6 discrepancy at document level. DMS-to-minute arithmetic reconciles S207/S206 coordinates, leaving S205 variant. Preserved distinction between named RD-1 correction-factor exception and RD-16. No original analytical reproduction or independent dating claimed.
+
+### 2026-10-08 — Bed-specific age-transfer synthesis
+
+Previous turn published verified progress; clean tree confirmed. Compared current source audits with cross-case assessment and C005 next actions. Added explicit before-present inequality directions, differentiated age of primary ash from age of overlying fossils, and prioritized a dated bracket for a named bed. Integrated RD-16 recalculation and dependency findings; removed stale original-table retrieval task. No new measurement, historical-age assignment, fitted geography or independent review claimed.
