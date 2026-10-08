@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Socket claims under adversarial scrutiny
+
+Previous turn made progress: c123a35 published seven byte-verified files. Clean checkout rechecked. Read the OpenJurist opinion, then downloaded the correct 60 F. 401 reporter scan; the initially inspected 399 file covered a preceding case and was not used as evidence. Visually inspected this case across printed pp. 401-408 and preserved the scan as S56.
+
+Recorded claim-specific outcomes, distinguishing invalidity, expiration and withdrawal. Retained Bergmann's factory-change recollection as a court summary, not verbatim testimony or a contemporary order. Scan resolves HTML patent-number discrepancies (205,311 versus 265,311; 251,598 versus 251,596). Original exhibits, factory records and later procedural history remain uninspected. Seventeen drafts, fifty-six sources; independent review absent.
+
 ## 2026-10-08 - Edison socket antecedent and feature-level credit
 
 Previous turn made progress: 138aec0 published eight byte-verified files. Clean checkout rechecked. Retrieved Edison 251,554 through Google Patents, preserved and hashed its public scan, and visually inspected all five pages with the PDF workflow. Added S55.

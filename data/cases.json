@@ -432,18 +432,23 @@
           "source_id": "S55",
           "locator": "PDF pp. 1-5; Fig. 1, heading on p. 3 and six claims/signature on p. 5",
           "statement": "Edison socket patent 251,554 was filed March 26, 1881, earlier than Johnson 251,596, but both were granted December 27, 1881; it already discloses threaded retention and two contact bands."
+        },
+        {
+          "source_id": "S56",
+          "locator": "Printed pp. 406-408; PDF pp. 6-8",
+          "statement": "1894 opinion rejects Johnson 251,596 claim 5, sustains Bergmann 257,277 claim 2, and summarizes Bergmann testimony about Edison ordering a factory change after the compression solution; original testimony and order remain uninspected."
         }
       ],
       "physical_evidence": "Woodward patent pages 1-3 and Edison specification pages 2-3 visually inspected; no original lamp tested. Selected artifact photographs in S51 inspected; no physical examination or independent object dating. Johnson and Bergmann socket patent drawings and specifications, all three pages each, visually inspected. Edison socket patent 251,554, all five pages, visually inspected.",
-      "surviving_documents": "Two patent scans; Woodward assignment heading; notebooks and full transfer instruments unreviewed. Johnson 251,596 and Bergmann 257,277 scans preserved; the latter explicitly cites the former. Edison 251,554 socket scan includes an earlier-application reference (2,172), not yet followed to its file.",
+      "surviving_documents": "Two patent scans; Woodward assignment heading; notebooks and full transfer instruments unreviewed. Johnson 251,596 and Bergmann 257,277 scans preserved; the latter explicitly cites the former. Edison 251,554 socket scan includes an earlier-application reference (2,172), not yet followed to its file. 1894 reporter opinion preserved, including claim-specific decisions and a participant account of factory adoption.",
       "source_interpretation": "The inventor claims specific improvements.",
       "investigation_inference": "A documented carbon-lamp antecedent predates Edison. Technical similarities and differences require comparison; priority of disclosure alone does not prove copying, ownership transfer or ancient recovery. Named socket disclosures and an explicit contemporary patent reference support a specific development relationship, without proving complete priority or performance.",
       "competing_explanations": [
         "Incremental development",
         "Recovery from a demonstrably earlier artifact"
       ],
-      "counterevidence": "Woodward predates Edison for a disclosed carbon-lamp arrangement. Edison claims more specific filament/vacuum combinations. Neither patent establishes recovery from a lost civilization or sole invention of all electric lighting. Edison 251,554 already discloses threaded retention and two contact bands before Johnson's filing; assigning all socket features to Johnson would also overstate the record.",
-      "next_test": "Retrieve original transfer instruments and dated laboratory records; compare other antecedents and measured lamp performance with each claimed technical improvement. Check SI 181,799, 318,653 and 318,686 accession/restoration records and original component measurements; retain unresolved patent-transfer search. Prioritize accession 33407 and basis for the February 1881 attribution. Resolve Base IV 1881 type date against 1882 application through workshop/manufacturing records; follow application 2,172 and broader socket antecedents before assigning absolute feature priority.",
+      "counterevidence": "Woodward predates Edison for a disclosed carbon-lamp arrangement. Edison claims more specific filament/vacuum combinations. Neither patent establishes recovery from a lost civilization or sole invention of all electric lighting. Edison 251,554 already discloses threaded retention and two contact bands before Johnson's filing; assigning all socket features to Johnson would also overstate the record. The 1894 court rejected Johnson claim 5 while sustaining Bergmann claim 2; grant alone does not settle validity, and rejection of one claim does not negate an entire inventor's work.",
+      "next_test": "Retrieve original transfer instruments and dated laboratory records; compare other antecedents and measured lamp performance with each claimed technical improvement. Check SI 181,799, 318,653 and 318,686 accession/restoration records and original component measurements; retain unresolved patent-transfer search. Prioritize accession 33407 and basis for the February 1881 attribution. Resolve Base IV 1881 type date against 1882 application through workshop/manufacturing records; follow application 2,172 and broader socket antecedents before assigning absolute feature priority. Retrieve Bergmann testimony/exhibits and factory order reported at 60 F. 407; inspect Edison 265,311 separately from 251,554.",
       "chronology": {
         "reported": "Woodward: filing 1875-01-04, grant 1876-08-29; Edison: filing 1879-11-04, publication 1880-01-27",
         "dated_object": "Patent application/publication",
@@ -460,7 +465,7 @@
         "Complete ownership/access chain",
         "Independent performance comparison"
       ],
-      "dependence": "Each scan and its OCR are one record. Two patents document distinct disclosures but do not establish a transmission chain between them. S51 component classifications and photographs are one study lineage; type chronology does not independently date whole objects. S51 filing dates agree with S53/S54, but may derive from those patents; this is verification of the citation, not independent manufacture dating."
+      "dependence": "Each scan and its OCR are one record. Two patents document distinct disclosures but do not establish a transmission chain between them. S51 component classifications and photographs are one study lineage; type chronology does not independently date whole objects. S51 filing dates agree with S53/S54, but may derive from those patents; this is verification of the citation, not independent manufacture dating. S56 quotes patents and summarizes Bergmann's recollection; these are not independent experiments or a second inventor witness. Reporter scan and text mirror are one opinion."
     },
     {
       "id": "C008",

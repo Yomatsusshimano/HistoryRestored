@@ -74,3 +74,21 @@ S51 labels its Base IV type 1881 while citing the February 1882 application. The
 | Compression between threaded side contact and bottom terminal | Bergmann S54, PDF pp. 2-3, claims 1-2 | Stated cracking remedy; measured reliability remains unknown |
 
 Edison and Johnson share a grant date despite different filing dates. This prevents ordering their development by grant date alone. Edison's specification cites earlier application 2,172, whose underlying file has not been inspected here. A claim of absolute priority would require that record and a wider antecedent search. The three documents support distinguishable contributions, not a demonstrated Edison-to-Johnson transmission path or proof of erased authorship.
+
+## Adversarial testing: the 1894 socket judgment
+
+The [reporter scan, 60 F. 401-408](../sources/originals/60-F-401.pdf) (S56) records Judge Coxe's March 21, 1894 decision in *Edison Electric Light Co. v. Electric Engineering & Supply Co.*, No. 5,949, Circuit Court, Northern District of New York. The case portions across all eight PDF pages were visually inspected. This is a historical decision audit, not a determination of present law or a review of every later proceeding.
+
+| Patent and claims actually addressed | Decision recorded here | Scope boundary |
+| --- | --- | --- |
+| Johnson 251,596, claim 5 only | Invalid for lack of patentability: the exterior covering added no new function in the court's analysis (p. 406) | Does not invalidate claims 1-4 or erase Johnson's other contributions |
+| Bergmann 257,277, claim 2 only | Narrow invention sustained; injunction and accounting directed (pp. 407-408) | Does not establish all socket features, absolute priority or an independently measured failure rate |
+| Edison 265,311, claims 2-3 | Claims sustained, but patent held expired in December 1891 owing to the prior Russian term; accounting directed (pp. 402-405, 408) | This is a different patent from 251,554 and 223,898; expiration is not a finding of no invention |
+| Bergmann 293,552, claims 4 and 6 | Injunction and accounting directed after reported admission of prior infringement (pp. 401, 408) | Original patent and complete litigation evidence not inspected |
+| Bergmann 298,658 | Withdrawn at argument (p. 401) | Withdrawal supplies no decision on validity |
+
+On p. 407, the court summarizes Bergmann's testimony, noting that the defendant called him. He recalled plaster failures under the earlier tension arrangement, reversing the arrangement for compression, visiting Edison, and Edison ordering the lamp-factory manager to change production. The opinion explicitly introduces this as the substance of his testimony. It is a retrospective participant account mediated by the judgment, not an inspected verbatim transcript or contemporary factory order. It offers a concrete transmission and production lead; the named manager, order date, quantities and measured failure rates remain unknown.
+
+The scan also prevents a transcription error from entering the inventory: the OpenJurist HTML headnote displayed Edison **205,311**, while the printed headnote, opinion and disposition identify **265,311**. The HTML Johnson section heading displayed **251,598**, whereas the scan reads **251,596**. These are local text discrepancies resolved against the image, not evidence of a rewritten historical chronology.
+
+The judgment is primary evidence of what this court decided and reported. Its repeated patent language is not another independent invention record, and its summary of the same inventor's recollection is not independent verification of his account. Nevertheless, it materially narrows the public claim: granted claims can fail scrutiny, other claims can survive, and ownership by Edison Electric Light Company does not make Edison the named inventor of every patent. Next seek the testimony/exhibits, factory correspondence and original 265,311 disclosure. No fabricated-history mechanism is established by this suit.

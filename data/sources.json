@@ -973,6 +973,22 @@
       "sha256": "ac4a81569ca0f2f5a992e2917d0580b6679f60a2d056046ade01fbdfd9ea356c",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S56",
+      "title": "Edison Electric Light Co. v. Electric Engineering & Supply Co., 60 F. 401-408, No. 5949",
+      "url": "https://law.resource.org/pub/us/case/reporter/F/0060/0060.f1.0401.pdf",
+      "creator": "Coxe, District Judge; Circuit Court, Northern District of New York; Federal Reporter",
+      "publication_date": "1894-03-21 (decision)",
+      "source_type": "Historical judicial opinion, printed reporter scan",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Case portions on printed pp. 401-408, all eight PDF pages; original patent numbers checked against discrepant OpenJurist HTML.",
+      "limitations": "Decision and summarized testimony; original transcript, exhibits, factory order, assignment instruments and later procedural history uninspected. No independent performance verification. Adjacent unrelated cases excluded.",
+      "local_copy": "sources/originals/60-F-401.pdf",
+      "sha256": "931ac2e5c844c4e778fbc943dfffdfe0c0158ab4a16226aa7d0d64ca9c34a5d4",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "text_mirror": "https://openjurist.org/60/f1d/401/edison-electric-light-co-v-electric-engineering-supply-co"
     }
   ]
 }
