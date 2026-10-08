@@ -319,3 +319,6 @@ S211 map/selection follow-up: distinct Highwall/Golden points invalidate treatin
 
 
 S211 Table2 candidate extraction published:168 numeric N/R rows and22 other specimen lines;57/111 count and means do not reproduce reported59/111. Next full non-HWW visual transcription review and actual selection reconciliation before E/I correction. Never fit membership to target counts.
+
+
+S211 Table2 scan pass completed; no missing normal pair recovered. Three equal-weight block checks: WC1 matches, WC2/LCW28 differ. Next original input/export and processing settings; avoid ad hoc membership fitting. Continue separate ash/bed constraints while this reproducibility issue stays open.

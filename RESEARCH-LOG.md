@@ -953,3 +953,8 @@ Previous turn made verified public progress; clean tree confirmed. Visually chec
 ### 2026-10-08 — Candidate pooled directional reconstruction
 
 Previous turn made verified public progress; clean tree confirmed. Extracted Table2 with explicit numeric-label inclusion, retaining source lines and unparsed/ineligible records. Initial parser missed two Thermal-spelled rows; corrected before publication. Final candidate168 directions gives57 normal/111 reverse and differing means versus reported59/111. Published the failed conditional reproduction without claiming original input recovery or author error. Non-HWW scan review, selection, E/I and critical-angle reproduction remain pending.
+
+
+### 2026-10-08 — Directional-table scan review
+
+Previous turn made verified public progress; clean tree confirmed. Visually inspected remaining eight Table2 pages; earlier HWW pages already checked. Confirmed source labels rather than silently correcting them. Three explicit site-block computations retain one successful control and two conditional mismatches. No missing directional values guessed, no author processing inferred, no significance recalculated. Original input/export remains the discriminating evidence.

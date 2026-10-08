@@ -2,7 +2,7 @@
   "source_id": "S211",
   "sha256": "e32ac9bcc798d388307a5420cd2bf56905c3c730f721900c04a40f6dbb97dd3b",
   "selection": "Every text-extracted Table2 specimen row on PDF48-57 labeled N/R with numeric DEC/INC/MAD and rank A/B/C. Thermal spelling retained. Equal specimen weights; no geographic, method or outlier exclusion. Not asserted to be original author selection.",
-  "inspection": "Text extraction; previously visually checked HWW pages54-55. Remaining table scans require full transcription review.",
+  "inspection": "Text extraction; all Table2 page images PDF48-57 subsequently visually inspected. Original processing and selection remain unresolved.",
   "rows": [
     {
       "pdf_page": 48,

@@ -1,0 +1,50 @@
+{
+  "source_id": "S211",
+  "selection": "Three inspected blocks: WC1 control, WC2 and LCW28. Not a prevalence sample or exhaustive site audit. All numeric rows in each block weighted equally, no correction or exclusions.",
+  "results": [
+    {
+      "sample_prefix": "WC 1-",
+      "printed_page": 48,
+      "specimens": [
+        "WC 1-1",
+        "WC 1-2",
+        "WC 1-3"
+      ],
+      "reported_declination": 172.2,
+      "reported_inclination": -51.4,
+      "equal_weight_declination": 172.20855183003292,
+      "equal_weight_inclination": -51.41807309764315,
+      "matches_one_decimal": true
+    },
+    {
+      "sample_prefix": "WC 2-",
+      "printed_page": 48,
+      "specimens": [
+        "WC 2-1",
+        "WC 2-2",
+        "WC 2-4",
+        "WC 2-5"
+      ],
+      "reported_declination": 174.7,
+      "reported_inclination": -47.1,
+      "equal_weight_declination": 157.09656496006994,
+      "equal_weight_inclination": -49.96288261417834,
+      "matches_one_decimal": false
+    },
+    {
+      "sample_prefix": "LCW 28-",
+      "printed_page": 44,
+      "specimens": [
+        "LCW 28-1",
+        "LCW 28-2",
+        "LCW 28-3"
+      ],
+      "reported_declination": 9.4,
+      "reported_inclination": 39.1,
+      "equal_weight_declination": 22.809820427250127,
+      "equal_weight_inclination": 38.6908389766983,
+      "matches_one_decimal": false
+    }
+  ],
+  "limits": "A mismatch establishes failure under this calculation, not the actual author method or cause. Original inputs/process needed."
+}

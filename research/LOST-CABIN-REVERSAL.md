@@ -79,3 +79,19 @@ python analysis/extract_schwing_directions.py path/to/schwing2021.pdf data/schwi
 ```
 
 The next check is a row-by-row visual comparison and explicit reconstruction of selection rules. Do not adjust or add rows merely to force N59/N111 or the reported mean. The E/I correction and reversal test must wait for a defensible input dataset; the earlier mean-angle check remains valid at its narrower scope.
+
+## Scan check and limited site-mean checks
+
+All Table2 page images (printed40-49 / PDF48-57) have now been inspected across this and earlier audit steps. The previously pending non-HWW pages were checked against the extracted table text. No two missing normal numerical rows were recovered by this scan pass. The scan confirms, rather than repairs, such source entries as LCW20-6C labeled R with positive inclination67.5°, and LCW14-2 labeled A/A with no direction. Their interpretation is unresolved; source values remain unchanged. This is self-review of a transcription, not independent scientific review or proof of the original software input.
+
+Three displayed site blocks were also tested using equal-weight sums of all listed specimen unit vectors, without fitting exclusions or corrections:
+
+| Block | Recomputed declination / inclination | Printed site mean |
+|---|---:|---:|
+| Wolverine Creek1, printed48 | 172.2086° / −51.4181° | 172.2° / −51.4° |
+| Wolverine Creek2, printed48 | 157.0966° / −49.9629° | 174.7° / −47.1° |
+| Lost Cabin28, printed44 | 22.8098° / 38.6908° | 9.4° / 39.1° |
+
+The first reproduces at printed precision; the other two do not. Preserving the successful control alongside failures prevents treating every computation as suspect. These are three selected checks, not a failure rate for the thesis. They do not identify the original weighting, processing or possible table-version changes. [Inputs/results](../data/schwing-site-checks.json) and [script](../analysis/check_schwing_sites.py) make the conditional calculations repeatable.
+
+At this point, further ad hoc changes to specimen membership would risk fitting the answer. The decisive unresolved evidence is the original directional input/export and documented selection/correction settings, or an additional accessible source that supplies them. The archive can continue evaluating the regional chronology using independently specified ash and stratigraphic constraints while retaining this local reproducibility limit.
