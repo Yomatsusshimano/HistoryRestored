@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Eiffel personnel and cost-account audit
+
+Previous goal turn made progress: map audit 889419e was published and retrieved public bytes matched committed blobs. This turn located Eiffel's 1900 technical monograph at ETH-Bibliothek Zurich (Rar 9704; DOI 10.3931/e-rara-28271). Search terms targeted original construction records and La tour de trois cents metres. Modern operator summaries were useful discovery leads but were not used as independent confirmation.
+
+The e-rara text-volume IIIF manifest and OCR were retrieved. Personnel canvas 8975936 and printed page 225 (canvas 8976172) were visually inspected; canvas 8975937 was blank. OCR interleaves personnel columns, so role assignments in the note follow the image. No entire-volume visual review is claimed. Two image hashes are retained in S17; copies remain in ignored local research cache, with public links rather than redistributed scans.
+
+Principal budget rows transcribed in data/eiffel-costs.json reconcile exactly using integer centimes: infrastructure plus superstructure plus remaining overhead equals 7,392,304.97 francs; the additional 407,096.34 gives 7,799,401.31. The page removes 72,250 already included in assembly. This is a check of printed arithmetic, not original payments or construction feasibility. Named departments and staff provide specific leads for provenance and attribution research. The record contradicts a claim that no personnel or budget account exists, while leaving invoice/payroll, fabric and photographic checks open.
+
 ## 2026-10-08 - California catalog and source-lineage audit
 
 Previous goal turn made progress: Arctic chronology update 3b779d3 was published, with public file bytes matched against committed blobs. This turn verified that two LOC exhibition captions naming 1639 link to the same item 99443375 whose indexed catalog description gives ca. 1650. The previous uncertainty about item-link identity is narrowed; the date discrepancy is not resolved.

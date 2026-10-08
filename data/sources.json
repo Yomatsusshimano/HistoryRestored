@@ -271,6 +271,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S17",
+      "title": "La tour de trois cents metres, Texte (1900)",
+      "url": "https://doi.org/10.3931/e-rara-28271",
+      "creator": "Gustave Eiffel; digitized copy held by ETH-Bibliothek Zurich, Rar 9704",
+      "publication_date": "1900",
+      "source_type": "participant technical monograph",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only.",
+      "limitations": "Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.e-rara.ch/download/webcache/1000/8975936",
+          "sha256": "53d019ecf9b55535c9d2b306aacca0a8f17f855cc515f212229ff90803afc6b8",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/download/webcache/1000/8976172",
+          "sha256": "4022af6dfe3e35642998d6e3102af624d81b185c9ec47ac8bd6504e4ec273421",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

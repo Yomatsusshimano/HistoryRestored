@@ -1,0 +1,21 @@
+{
+  "case_id": "C006",
+  "source_id": "S17",
+  "locator": "Printed page 225, canvas 8976172",
+  "currency": "French francs as printed; no present-value conversion",
+  "integer_unit": "centime",
+  "status": "VISUAL_TRANSCRIPTION_NOT_INDEPENDENT_FINANCIAL_AUDIT",
+  "amounts_centimes": {
+    "infrastructure": 70112708,
+    "superstructure": 573462290,
+    "overhead_after_removing_amount_already_in_assembly": 95655499,
+    "eiffel_total": 739230497,
+    "operating_company_additional": 40709634,
+    "grand_total": 779940131
+  },
+  "limitations": [
+    "Principal subtotals only; not all upstream line items transcribed.",
+    "No invoices or payment ledger audited.",
+    "Printed attribution of payment is a source claim."
+  ]
+}

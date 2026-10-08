@@ -12,7 +12,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C003 | High Arctic camel-bearing deposits |
 | C004 | Cascadia tsunami and coastal subsidence |
 | C005 | California-as-island map |
-| C006 | Eiffel Tower construction photograph lead |
+| C006 | Eiffel Tower construction records and cost audit |
 | C007 | Edison electric-lamp patent 223,898 |
 | C008 | Missoula flood sequence |
 | C009 | Yukon mammoth and horse sedimentary DNA |
@@ -162,33 +162,34 @@ Place: California/Baja California as depicted in a manuscript map. Status: SOURC
 
 **Missing:** Original scans; Date-attribution and edition rationale; Original source-map and survey lineage; Ground-truth deposits
 
-## C006: Eiffel Tower construction photograph lead
+## C006: Eiffel Tower construction records and cost audit
 
 Place: Paris, France. Status: SOURCED_DRAFT.
 
 **Sourced statements**
 
 - The museum catalogs a view described as tower construction on 10 February 1888. [S08](https://www.parismuseescollections.paris.fr/en/node/587811). Locator: Indexed museum catalog title. Access: SEARCH_EXCERPT. Limit: Actual photograph not inspected. Direct page mostly navigation, then timeout. Photographer, inventory number and provenance unverified.
+- Eiffel published a departmental personnel roster and an itemized cost account, ending at 7,799,401.31 francs for the Tower as operated during the exhibition. [S17](https://doi.org/10.3931/e-rara-28271). Locator: Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Access: SCAN_INSPECTED. Limit: Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts.
 
-**Physical evidence:** Actual photograph uninspected.
+**Physical evidence:** Digitized roster and cost-account pages visually inspected; museum photograph and building fabric not inspected.
 
-**Surviving documents:** Cataloged construction image located.
+**Surviving documents:** 1900 participant monograph with personnel and cost breakdown; earlier museum photograph catalog lead retained.
 
-**Source interpretation:** Catalog labels a construction view.
+**Source interpretation:** Eiffel presents a constructed project with named staff and separate infrastructure, superstructure and overhead costs.
 
-**Investigation inference:** Useful evidence lead; incomplete for deciding original build versus repair or inheritance.
+**Investigation inference:** This is a checkable construction account beyond a caption; its principal cost subtotals reconcile. That supports further documentary testing, not independent authentication of every expenditure.
 
-**Counterevidence:** No visual sequence, authenticated provenance, or construction budget has yet been examined.
+**Counterevidence:** The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.
 
-**Next test:** Inspect original images and provenance; trace dated drawings, fabrication, delivery, workforce and foundation phases.
+**Next test:** Cross-check supplier invoices, payroll and dated construction images against the monograph; reconcile quantities and labor productivity before judging feasibility.
 
-**Dependence:** A museum caption alone is one attribution, not independent corroboration.
+**Dependence:** Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration.
 
 **Alternatives:** Recorded construction; Repair/reassembly if fabric and earlier records support it
 
-**Chronology:** {"reported": "10 February 1888 in catalog title", "dated_object": "Cataloged photographic view", "method": "Catalog title", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
+**Chronology:** {"reported": "1900 monograph publication; 10 February 1888 in separate photograph catalog title", "dated_object": "Publication and cataloged view; neither a direct material date", "method": "Catalog title", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
-**Missing:** Photograph; Provenance; Fabric dates; Engineering/labor budget
+**Missing:** Original invoices and payroll; Authenticated photographic sequence; Fabric dates; Independent quantity and labor-productivity audit
 
 ## C007: Edison electric-lamp patent 223,898
 
