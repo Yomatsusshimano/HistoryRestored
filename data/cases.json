@@ -568,6 +568,11 @@
           "source_id": "S211",
           "locator": "printed29-30,68,73 (PDF37-38,76,81)",
           "statement": "Map distinguishes Highwall and Golden Section despite duplicate table coordinates. HWW1-4 excluded and AF used for polarity interpretation; Fig10 describes pooled site means. Corrected mean separation reproduces7.15 degrees, not full significance. Chron assignments explicitly use ash ages/lithology/elevation and are not independent magnetic numerical dates."
+        },
+        {
+          "source_id": "S211",
+          "locator": "Table2 printed40-49; compared with printed16",
+          "statement": "Declared all-eligible-row extraction gives57 normal and111 reverse directions; mean directions do not reproduce reported59/111 pooled summary. Candidate dataset retains source lines and excluded/unparsed specimens. Selection and visual transcription review remain unresolved; this is not a refutation of the author calculation."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

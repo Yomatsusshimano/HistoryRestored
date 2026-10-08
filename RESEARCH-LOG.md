@@ -948,3 +948,8 @@ Previous turn made verified public progress; clean checkout confirmed. Recovered
 ### 2026-10-08 — Reversal geometry and chronology dependencies
 
 Previous turn made verified public progress; clean tree confirmed. Visually checked original map, selection/age discussion and pooled mean figure. Reproduced7.15-degree corrected separation from printed means, preserving distinction from critical-angle/test reproduction. Recorded sample exclusion rationale and explicit ash/elevation/lithology dependencies of chron assignments. Map shows separate Highwall/Golden sites, preventing false coordinate merging. No replacement coordinates, full reversal test or independent time marker claimed.
+
+
+### 2026-10-08 — Candidate pooled directional reconstruction
+
+Previous turn made verified public progress; clean tree confirmed. Extracted Table2 with explicit numeric-label inclusion, retaining source lines and unparsed/ineligible records. Initial parser missed two Thermal-spelled rows; corrected before publication. Final candidate168 directions gives57 normal/111 reverse and differing means versus reported59/111. Published the failed conditional reproduction without claiming original input recovery or author error. Non-HWW scan review, selection, E/I and critical-angle reproduction remain pending.

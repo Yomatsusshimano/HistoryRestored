@@ -316,3 +316,6 @@ S211 original Schwing thesis recovered via AZGS2021 release. Corrected reversal 
 
 
 S211 map/selection follow-up: distinct Highwall/Golden points invalidate treating duplicate coordinates as two verified locations. Explicit HWW exclusions and pooled Fig10 scope recovered. Mean angle reproduced; next exact directional inputs, correction/test threshold and calibrated-interval selection. Polarity chronology shares ash/stratigraphic inputs.
+
+
+S211 Table2 candidate extraction published:168 numeric N/R rows and22 other specimen lines;57/111 count and means do not reproduce reported59/111. Next full non-HWW visual transcription review and actual selection reconciliation before E/I correction. Never fit membership to target counts.

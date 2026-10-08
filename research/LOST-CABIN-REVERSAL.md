@@ -54,3 +54,28 @@ Additional inspection: printed29-30,68 and73 (PDF37-38,76,81) visually checked; 
 **Age assignment:** Printed30 explicitly combines three dated ashes and the correlated reversal in two washes to identify the5.235Ma C3r/C3n.4n transition using Ogg2012. This is an interpreted match to a calibrated polarity timescale, not a numerical age measured from the magnetic direction alone. The same page assigns Golden Section to C3n.3r using lithology, elevation and the downstream Buzzards Peak4.83Ma age, leading to an inferred4.799-4.997Ma arrival interval. Those numerical bounds are author interpretations with shared inputs, not extra independent clocks. Modern elevations likewise are not automatically coeval paleosurfaces.
 
 The next substantive step is to reconstruct the selected directional dataset and evaluate the ash/stratigraphic constraints used to choose among possible polarity intervals. The verified map distinction should prevent merging the two field localities; a location survey or georeferenced original map is still needed for precise coordinates.
+
+## Candidate directional dataset: reconstruction attempt
+
+The [candidate extraction](../data/schwing-direction-candidates.json) preserves168 numerical normal/reverse specimen rows from Table2 (printed40-49 / PDF48-57), plus22 other specimen lines for review. Inclusion is declared before interpreting the output: N/R label, numeric declination/inclination/MAD, quality A/B/C, equal weight per specimen, and no further method, locality or outlier exclusions. The alternative method spelling `Thermal` is included alongside `TH`. This candidate is **not** asserted to be the author's selected input.
+
+| Uncorrected quantity | Candidate extraction | Thesis printed16 |
+|---|---:|---:|
+| Normal N | 57 | 59 |
+| Normal declination | 12.1901° | 10.8° |
+| Normal inclination | 56.1628° | 57.2° |
+| Reverse N | 111 | 111 |
+| Reverse declination | 176.8726° | 178° |
+| Reverse inclination | −42.1262° | −43.1° |
+
+Means are directions of summed unit vectors, not arithmetic averages of angles. A matching reverse count does not establish matching specimens or values. These differences are a failed reproduction of the reported pooled summary under this **specified candidate selection**, not proof the source's calculation is wrong. Potential causes include source-table versions, transcription/extraction limitations and different selections or processing. The thesis explicitly excludes some coarse HWW samples from site statistics, so the all-eligible-row selection cannot simply be presumed authoritative.
+
+HWW6-11 has a reverse label but no numerical direction and is retained among ineligible/unparsed lines; no missing angle was invented. Ambiguous and N/A records likewise are not turned into normal/reverse observations. Table2 spans different specimen groups and includes site means; site-mean summary lines are not counted again as individual specimens. All preserved rows carry original PDF-page and line provenance. HWW scans were already visually checked; the remaining table pages need full visual transcription review before promoting this into a verified input dataset.
+
+Reproduce with [the extraction script](../analysis/extract_schwing_directions.py), requiring pypdf:
+
+```text
+python analysis/extract_schwing_directions.py path/to/schwing2021.pdf data/schwing-direction-candidates.json
+```
+
+The next check is a row-by-row visual comparison and explicit reconstruction of selection rules. Do not adjust or add rows merely to force N59/N111 or the reported mean. The E/I correction and reversal test must wait for a defensible input dataset; the earlier mean-angle check remains valid at its narrower scope.
