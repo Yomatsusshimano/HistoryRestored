@@ -1,0 +1,362 @@
+{
+  "version": "0.1.0",
+  "selection": "Purposive exploratory batch; cannot estimate prevalence.",
+  "cases": [
+    {
+      "id": "C001",
+      "title": "Seattle Pioneer Square areaways",
+      "category": "buried streets",
+      "place": "Pioneer Square, Seattle, Washington",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S01",
+          "locator": "Main-text paragraphs defining areaways and describing street raising",
+          "statement": "SDOT reports engineered street raising after the 1889 fire and retaining walls beneath roadways."
+        }
+      ],
+      "physical_evidence": "No site inspection or sediment sample. Municipal maintenance account describes below-sidewalk spaces and a supporting street wall.",
+      "surviving_documents": "Modern SDOT account; original grading plans uncollected.",
+      "source_interpretation": "Deliberate grade raising created the lower level.",
+      "investigation_inference": "An identified engineering alternative merits checking against original records before attributing burial to a natural event.",
+      "competing_explanations": [
+        "Engineered fill and rebuilding",
+        "Local natural deposition or subsidence, if independently evidenced"
+      ],
+      "counterevidence": "The below-ground level alone does not discriminate its cause; an engineered mechanism is documented.",
+      "next_test": "Retrieve block-specific grading plans and dated construction records; compare wall geometry and fill logs.",
+      "chronology": {
+        "reported": "After the 1889 fire",
+        "dated_object": "Street raising as reported in a modern account",
+        "method": "Documentary report",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Original plans",
+        "Boreholes",
+        "Material dates",
+        "Vertical datum"
+      ],
+      "dependence": "Same city as C002, but a different project; do not merge dates or count city-level narratives as independent global observations."
+    },
+    {
+      "id": "C002",
+      "title": "Denny Hill regrade archival collection",
+      "category": "geographic alteration",
+      "place": "Denny Hill, Seattle, Washington",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S02",
+          "locator": "Scope and Contents and Dates fields",
+          "statement": "The finding aid describes earthmoving and a photograph collection created in 1904-1929."
+        }
+      ],
+      "physical_evidence": "No image or site directly inspected.",
+      "surviving_documents": "Engineering photograph collection located through its finding aid.",
+      "source_interpretation": "The catalog attributes terrain changes to a regrade project.",
+      "investigation_inference": "Provides a route to original evidence of human terrain change, not a verified image sequence yet.",
+      "competing_explanations": [
+        "Documented earthmoving",
+        "An earlier natural event, separately testable"
+      ],
+      "counterevidence": "A regrade catalog cannot be recast as a catastrophe deposit without examining the underlying objects.",
+      "next_test": "Inspect identified photographs and engineering quantities; record individual identifiers and phases.",
+      "chronology": {
+        "reported": "Photograph collection 1904-1929",
+        "dated_object": "Cataloged photograph creation",
+        "method": "Archive catalog",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Photo scans",
+        "Item provenance",
+        "Volumes",
+        "Original contracts"
+      ],
+      "dependence": "Related urban context to C001. Shared archival narratives are not independent global-event evidence."
+    },
+    {
+      "id": "C003",
+      "title": "High Arctic camel-bearing deposits",
+      "category": "wildlife and fossil plants",
+      "place": "Ellesmere Island, Nunavut, Canada",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S03",
+          "locator": "Indexed abstract and dating/context excerpts",
+          "statement": "The paper reports a camel-bearing terrestrial deposit, fossil trees, and a mid-Pliocene context using cosmogenic dating."
+        }
+      ],
+      "physical_evidence": "Fossils and deposits reported by researchers; no specimen or full dating table inspected here.",
+      "surviving_documents": "2013 research paper located; supplementary material unreviewed.",
+      "source_interpretation": "Authors reconstruct a past warm-period forest environment.",
+      "investigation_inference": "Tests must compare fossil/host-layer ages before relating this locality to any historical catastrophe.",
+      "competing_explanations": [
+        "Older habitat and geographic history",
+        "Reworking or later transport if supported by contextual evidence"
+      ],
+      "counterevidence": "The available reported geological context challenges an automatic recent-date interpretation.",
+      "next_test": "Inspect burial-dating methods/tables, error terms, site coordinates, stratigraphy and specimen identification.",
+      "chronology": {
+        "reported": "Mid-Pliocene; exact numerical bounds not entered",
+        "dated_object": "Host deposits/context, not an inspected direct camel death date",
+        "method": "Cosmogenic nuclide dating reported",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "Geological interval",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Numerical bounds",
+        "Dating supplement",
+        "Coordinates",
+        "Reworking analysis"
+      ],
+      "dependence": "Nature and PMC are mirrors of the same study, not independent dating results."
+    },
+    {
+      "id": "C004",
+      "title": "Cascadia tsunami and coastal subsidence",
+      "category": "changed coastline and sediments",
+      "place": "Salmon River estuary, Oregon; wider Cascadia",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S05",
+          "locator": "Indexed research summary: sediment cores and subsidence paragraphs",
+          "statement": "USGS reports over 200 cores, tsunami sand and coastal subsidence assigned to the 1700 event."
+        },
+        {
+          "source_id": "S04",
+          "locator": "Publication title and DOI metadata",
+          "statement": "A 2005 research report addresses Japanese clues to the 1700 event."
+        }
+      ],
+      "physical_evidence": "Reported core/deposit observations; no raw logs inspected.",
+      "surviving_documents": "USGS report located; original Japanese records unreviewed.",
+      "source_interpretation": "The research summary attributes local sediment and subsidence to an earthquake and tsunami.",
+      "investigation_inference": "A positive catastrophic-process comparison. Worldwide extent and fabrication require additional evidence.",
+      "competing_explanations": [
+        "Earthquake/tsunami",
+        "Other local inundation processes to compare using deposits"
+      ],
+      "counterevidence": "A regional event does not establish simultaneous global burial.",
+      "next_test": "Read core logs and original historical records; audit their dating linkage and modeled inundation.",
+      "chronology": {
+        "reported": "1700 CE",
+        "dated_object": "Event assignment in research summary",
+        "method": "Underlying cross-disciplinary dating not audited here",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Core logs",
+        "Original documents",
+        "Dating cross-links",
+        "Elevation datum"
+      ],
+      "dependence": "The modern summary and its underlying study overlap; publication metadata adds no independent event measurement."
+    },
+    {
+      "id": "C005",
+      "title": "California-as-island map",
+      "category": "odd maps",
+      "place": "California/Baja California as depicted in a manuscript map",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S06",
+          "locator": "Item 99443375: title and Created/Published field",
+          "statement": "A cataloged map depicts California as an island and is dated approximately 1650."
+        },
+        {
+          "source_id": "S07",
+          "locator": "California as an Island section",
+          "statement": "The exhibition explains island depictions as geographic error and captions a 1639 map."
+        }
+      ],
+      "physical_evidence": "No original scan or geological transect inspected.",
+      "surviving_documents": "Map catalog and separate exhibition interpretation.",
+      "source_interpretation": "Curators describe a propagated geographic misconception.",
+      "investigation_inference": "Audit map lineages and physical coast evidence; do not treat drawn water as a surveyed former strait.",
+      "competing_explanations": [
+        "Cartographic error/copying",
+        "A former waterway if independently evidenced"
+      ],
+      "counterevidence": "The two source dates must not be fused until item identity is established.",
+      "next_test": "Inspect map scans/identifiers, related editions and exploration records; define a geological transect.",
+      "chronology": {
+        "reported": "S06 ca. 1650; S07 caption 1639",
+        "dated_object": "Catalog/exhibition map dates",
+        "method": "Catalog attribution",
+        "raw_date": null,
+        "uncertainty": "Approximate or differing item identity",
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Original scan",
+        "Item identity comparison",
+        "Survey lineage",
+        "Ground-truth deposits"
+      ],
+      "dependence": "Copied maps can share a single error. Catalog and exhibit are not independent coastal measurements."
+    },
+    {
+      "id": "C006",
+      "title": "Eiffel Tower construction photograph lead",
+      "category": "builders",
+      "place": "Paris, France",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S08",
+          "locator": "Indexed museum catalog title",
+          "statement": "The museum catalogs a view described as tower construction on 10 February 1888."
+        }
+      ],
+      "physical_evidence": "Actual photograph uninspected.",
+      "surviving_documents": "Cataloged construction image located.",
+      "source_interpretation": "Catalog labels a construction view.",
+      "investigation_inference": "Useful evidence lead; incomplete for deciding original build versus repair or inheritance.",
+      "competing_explanations": [
+        "Recorded construction",
+        "Repair/reassembly if fabric and earlier records support it"
+      ],
+      "counterevidence": "No visual sequence, authenticated provenance, or construction budget has yet been examined.",
+      "next_test": "Inspect original images and provenance; trace dated drawings, fabrication, delivery, workforce and foundation phases.",
+      "chronology": {
+        "reported": "10 February 1888 in catalog title",
+        "dated_object": "Cataloged photographic view",
+        "method": "Catalog title",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Photograph",
+        "Provenance",
+        "Fabric dates",
+        "Engineering/labor budget"
+      ],
+      "dependence": "A museum caption alone is one attribution, not independent corroboration."
+    },
+    {
+      "id": "C007",
+      "title": "Edison electric-lamp patent 223,898",
+      "category": "invention",
+      "place": "United States patent; Menlo Park attribution",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S10",
+          "locator": "PDF pages 2-3: heading, opening, antecedent discussion and claims",
+          "statement": "The scan identifies an 1879 application and an 1880 patent for an improvement; it discusses earlier incandescent lamps."
+        },
+        {
+          "source_id": "S09",
+          "locator": "Filing and publication metadata",
+          "statement": "Metadata gives filing 4 November 1879 and publication 27 January 1880."
+        }
+      ],
+      "physical_evidence": "Patent scan visually inspected; no lamp tested.",
+      "surviving_documents": "Specification, claims and signature; notebooks unreviewed.",
+      "source_interpretation": "The inventor claims specific improvements.",
+      "investigation_inference": "A priority audit must distinguish incremental improvement, first discovery, commercialization and recovered technology.",
+      "competing_explanations": [
+        "Incremental development",
+        "Recovery from a demonstrably earlier artifact"
+      ],
+      "counterevidence": "A patent alone proves neither sole invention nor recovery from a lost civilization.",
+      "next_test": "Compare antecedent patents, notebooks and working designs; require a dated access chain for any recovery claim.",
+      "chronology": {
+        "reported": "1879 filing; 1880 publication",
+        "dated_object": "Patent application/publication",
+        "method": "Scan and metadata",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Antecedents",
+        "Notebooks",
+        "Workshop contributors",
+        "Recovery pathway"
+      ],
+      "dependence": "Scan and transcription are the same patent, not independent inventions."
+    },
+    {
+      "id": "C008",
+      "title": "Missoula flood sequence",
+      "category": "catastrophic sediments and erosion",
+      "place": "Columbia River basin, northwest United States",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S11",
+          "locator": "Hosted summary: stratigraphic and chronology paragraphs",
+          "statement": "The review reports catastrophic landforms, repeated flood beds and intervening indicators of elapsed time."
+        },
+        {
+          "source_id": "S12",
+          "locator": "Indexed abstract",
+          "statement": "The older report describes varves between successive graded flood beds."
+        }
+      ],
+      "physical_evidence": "Published geomorphic/stratigraphic observations; no field section inspected.",
+      "surviving_documents": "2020 review summary and 1983 research abstract.",
+      "source_interpretation": "Authors infer repeated glacial-outburst floods.",
+      "investigation_inference": "Catastrophic processes are a valid comparison; evidence of intervals tests a single-episode version.",
+      "competing_explanations": [
+        "Repeated outburst floods",
+        "One episode only if intervening time indicators are convincingly reinterpreted"
+      ],
+      "counterevidence": "Intervening time indicators challenge treating the whole sequence as one uninterrupted event.",
+      "next_test": "Inspect measured sections, tephra relations, dates and varve criteria; test separate-event alternatives quantitatively.",
+      "chronology": {
+        "reported": "Last-glacial sequence; precise dated sample intervals not entered",
+        "dated_object": "Flood sequence in review",
+        "method": "Reported multiple methods; not individually reanalyzed",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "Geological interval",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Measured sections",
+        "Sample-level ages",
+        "Model inputs",
+        "Site coordinates"
+      ],
+      "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset."
+    }
+  ]
+}
