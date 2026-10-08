@@ -1094,6 +1094,36 @@
       "sha256": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S64",
+      "title": "Archeological and Historical Data Recovery Program 1979: Ozette Phase XI abstract",
+      "url": "https://www.nps.gov/orgs/1187/upload/1979a_508-2.pdf",
+      "creator": "National Park Service; abstract credits Jeffrey E. Mauger, edited by Richard D. Daugherty",
+      "publication_date": "1979",
+      "source_type": "Published abstract",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed p. 60, PDF p. 66, abstract visually inspected.",
+      "limitations": "Inspection is of a reproduced abstract, not the full Phase XI report or sediment analysis.",
+      "local_copy": null,
+      "sha256": "4f4b1f863ac62e3fd5bef3419bec33c5e29a2e2e93f8a2262556d0bbe3388c6a",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S65",
+      "title": "Washington State University Natural Radiocarbon Measurements II",
+      "url": "https://doi.org/10.1017/S0033822200002435",
+      "creator": "J. C. Sheppard and R. M. Chatters",
+      "publication_date": "1976",
+      "source_type": "Laboratory date list",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Methods on p. 140 read as extracted text; all ten PDF pages text-searched for Ozette and target assay numbers.",
+      "limitations": "Bounded text search, not complete visual inspection; no target assay match. Methods cannot be assigned to absent assays.",
+      "local_copy": null,
+      "sha256": "9dafb9498c4765dcbca5a878e401f11c41a108c04a6f84aa2b13206da9a9d666",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -1047,6 +1047,11 @@
           "source_id": "S63",
           "locator": "Ozette Archaeological Site article body",
           "statement": "Makah Museum relates community oral history, archaeological collaboration and tribal stewardship of the recovered collection."
+        },
+        {
+          "source_id": "S64",
+          "locator": "Printed p. 60 / PDF p. 66",
+          "statement": "Phase XI abstract identifies report PB81 102196 and reports beach-sand floor construction; full report and sediment methods not inspected."
         }
       ],
       "physical_evidence": "Reported buried wooden structures, displaced planks, artifacts and alternating cultural/slide units; no field inspection.",
@@ -1058,7 +1063,7 @@
         "A proposed regional catastrophe affecting a particular horizon, requiring independent dating and correlation"
       ],
       "counterevidence": "Multiple described slide and cultural units; identified community and continuing stewardship do not support an inference of anonymous erased builders.",
-      "next_test": "Retrieve lab records for WSU 1777, 1965 and 1779 and original stratigraphic sections; calibrate only after sample material, context and conventions are established.",
+      "next_test": "Retrieve Phase XI report PB81 102196 and lab records for WSU 1777, 1965 and 1779; the 1976 published date-list text search did not recover these assays.",
       "chronology": {
         "reported": "810 ± 70, 790 ± 80 and 440 ± 90 BP for different contexts; museum separately reports 500 ± 50 BP.",
         "dated_object": "Charcoal for WSU 1777; materials unspecified in inspected passage for other samples",

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Ozette report chain and constructed floors
+
+Previous turn made progress: d2dddde published seven byte-verified files. Retrieved WSU 1976 date list; ten-page extracted-text search found no Ozette or target assay identifiers. Its methods are not transferred to unlisted samples. Retrieved NPS 1979 recovery report and visually inspected p. 60 (PDF 66): Phase XI report is PB81 102196, describing 1977 work and beach-sand floor construction. Full excavation report remains uninspected; rounded abstract ages are not matched to assays. Added S64/S65 and bounded acquisition ledger. No new event date, independent review or global correlation established.
+
 ## 2026-10-08 - Ozette burial sequence and community account
 
 Previous turn made progress: 7cfd0b8 published nine byte-verified files. Clean checkout rechecked. Ozette reference-chronology searches did not recover the series; USGS report returned 403 and cited mirror 404. Search instead located a substantive burial comparison. Downloaded 23-page nomination packet and visually inspected PDF pp. 12-14; read Makah Museum site account. Added C018, S62/S63 and three separately contextualized WSU determinations.

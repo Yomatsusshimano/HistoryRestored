@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-08",
+  "case_id": "C018",
+  "laboratory_list_source": "S65",
+  "searched_pages": 10,
+  "text_matches": {
+    "Ozette": false,
+    "WSU[-\\s]*1777": false,
+    "WSU[-\\s]*1779": false,
+    "WSU[-\\s]*1965": false
+  },
+  "limits": "Absence from extracted text of one list is not absence from laboratory archives. Error convention and calibration fields remain unknown for target assays.",
+  "report_lead": {
+    "source_id": "S64",
+    "locator": "p. 60 / PDF p. 66",
+    "title": "Ozette Archeological Project, Interim Final Report, Phase XI",
+    "report_year": 1979,
+    "excavation_year": 1977,
+    "ntis_identifier": "PB81 102196",
+    "full_report_accessed": false
+  },
+  "abstract_dates": {
+    "houses_2_and_5_reported_BP": 400,
+    "deep_cultural_deposit_reported_BP": 800,
+    "assay_crosswalk": null,
+    "calibration": null
+  }
+}
