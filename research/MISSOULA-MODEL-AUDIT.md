@@ -20,6 +20,26 @@ Selection was retrospective and purposive: three adjacent Wenatchee records to r
 
 ## Required before a predictive run
 
+### Coordinate diagnostic added 2026-10-08
+
+The executable audit now compares pairwise distances in the two printed coordinate representations. It uses an explicitly assumed sphere for latitude/longitude and Euclidean distances for projected metres. These calculations require no invented Albers projection parameters, but they are a screening diagnostic, not a complete datum transformation.
+
+| Pair | Spherical distance (km) | Projected distance (km) | Projected / spherical |
+| --- | ---: | ---: | ---: |
+| Long 10–11 | 3.406 | 12.707 | 3.731 |
+| Long 11–12 | 1.514 | 8.316 | 5.492 |
+| Long 10–12 | 4.914 | 4.894 | 0.996 |
+| Baker 5 uncrossed–crossed | 1.656 | 1.661 | 1.003 |
+| Baker 8 uncrossed–crossed | 0.516 | 0.517 | 1.002 |
+
+Our inference: Long 11 warrants a coordinate/row-registration audit before interpreting its 97 m field–terrain difference as topographic error. The pattern is not explained by a uniform scale adjustment shared by these nearby Wenatchee rows. It does not identify the correct coordinate or prove which data entered the authors' simulations. Keep the printed values; flag the row for investigation rather than deleting it or substituting a guessed correction. These selected comparisons do not establish that the remaining table is error-free.
+
+### Executable-package search
+
+The [availability record](../data/missoula-model-availability.json) pins a separate GeoFlood example and records missing inputs. No equivalence to S27 has been established. Its referenced lake-input filename contains 1295; file contents and actual initialized stage remain unverified. This cannot replace S27's reported 1265 m initial stage by assumption.
+
+The inspected repository tree lacks the three referenced Missoula raster files. The linked Zenodo archive's complete central-directory listing contains 548 entries and no Missoula-named paths. Only its directory was retrieved, not all compressed file contents; this is not proof that no relevant data exist anywhere. The author-associated repositories inspected yielded no Missoula/Columbia/scabland path-name matches. These limited searches document a reproduction gap, not misconduct or a refutation of the floods.
+
 Obtain the actual modified terrain, blockage geometry, numerical configuration, solver version, refinement criteria and output gauges. Preserve hashes and reproduce one scenario before proposing a new one. A terrain raster downloaded today cannot silently substitute for the published modified surface.
 
 Compare modeled stage at each coordinate with the appropriate one-sided bound and its measurement/context uncertainty. Do not average a lower and upper constraint from different places into one alleged measured water level. Assess positional and vertical datum compatibility first. Search the unextracted table and underlying field records for further discrepancies before using the seven rows as representative.

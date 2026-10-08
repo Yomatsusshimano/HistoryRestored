@@ -384,6 +384,11 @@
           "source_id": "S27",
           "locator": "Table 1 pp. 5-6; methods pp. 8-10; discussion pp. 11, 15-16",
           "statement": "The original modeling study supplies field controls, alternative configurations and unresolved model discrepancies; see research/MISSOULA-MODEL-AUDIT.md."
+        },
+        {
+          "source_id": "S28",
+          "locator": "Pinned setrun.py lines 83-85, 572, 579-580; recursive tree",
+          "statement": "A separate public Missoula example names raster inputs absent from its inspected repository tree; equivalence to S27 is unestablished."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.",

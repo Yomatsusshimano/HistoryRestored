@@ -499,6 +499,20 @@
         }
       ],
       "date_note": "Article citation says 2021; preliminary ResearchGate profile sheet says October 2020 and upload March 25, 2021. No exact publication day assigned."
+    },
+    {
+      "id": "S28",
+      "title": "GeoFlood Missoula example: pinned setup and repository tree",
+      "url": "https://github.com/KYANJO/GeoFlood/blob/cf9a82345e77c614c2ccd93e57cf392af687b763/examples/cpu_cuda/missoula/setrun.py",
+      "creator": "KYANJO/GeoFlood contributors",
+      "publication_date": null,
+      "source_type": "simulation setup source code",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Setup input assignments and usage; README; complete recursive path tree; linked Zenodo archive central directory. See data/missoula-model-availability.json.",
+      "limitations": "No compiled model or raster inputs; not established as the 2021 published configuration. File-name absence is limited to inspected trees.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

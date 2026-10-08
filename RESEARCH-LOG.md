@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Missoula coordinate diagnostic and reproducibility search
+
+Previous turn made progress: 3ce50b4 published eleven verified public files. Revalidated clean checkout. Inspected three author-associated repository trees, then a separate GeoFlood Missoula setup at a pinned commit. The three referenced raster basenames are absent from that complete tree. Followed the wiki's Zenodo dataset link; metadata retrieval worked after web download failure. HTTP range requests retrieved the complete ZIP directory, parsed all 548 entries, and found no Missoula-named paths. Full archive content and provider checksum were not verified. No global absence claim or third-party contact.
+
+Added a distance diagnostic for the already transcribed coordinates. Long 11 pairs have projected/spherical ratios 3.731 and 5.492, versus 0.996 for Long 10-12 and approximately 1.002-1.003 for selected Grand Coulee pairs. This strengthens the need for registration/source review without identifying a correction or proving a simulation error. The assumed sphere is explicit; no hidden projection parameters were guessed. Three known-geometry tests accompany the calculation. No hydraulic run or independent scientific review exists.
+
 ## 2026-10-08 - Missoula field controls and model audit
 
 Previous visible turn acknowledged a model switch and made no research progress. Revalidated clean HEAD 6e106d8. Searched original modeling studies; located the 2021 author PDF via David George's publications page. Earlier direct USGS report access had failed; the original 1983 report remains abstract-level evidence.

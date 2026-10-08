@@ -1,0 +1,66 @@
+{
+  "source_id": "S28",
+  "case_id": "C008",
+  "checked_date": "2026-10-08",
+  "repository": "https://github.com/KYANJO/GeoFlood",
+  "commit": "cf9a82345e77c614c2ccd93e57cf392af687b763",
+  "tree_truncated": false,
+  "setup_path": "examples/cpu_cuda/missoula/setrun.py",
+  "setup_sha256": "9a251dbdf6faccba6a6d777d1539ad75b6d7a508beb72d3f5dd955a443375586",
+  "input_assignments_locator": "setrun.py lines 83-85; usage lines 572 and 579-580",
+  "referenced_inputs_absent_by_basename_from_tree": [
+    "Missoula4Brian/topo/Scenario4a_maxice_except_Okanogan/topo_with_ice.tt3",
+    "Missoula4Brian/topo/lakemissoula/lakemissoula1295.tt3",
+    "Missoula4Brian/topo/lakemissoula/LakeM_1295ascii/icedam1295.asc"
+  ],
+  "correspondence_to_S27": "NOT_ESTABLISHED",
+  "executed": false,
+  "dataset_archive": {
+    "url": "https://zenodo.org/records/10897305",
+    "title": "Datasets used in GeoFlood comparison to other models",
+    "file": "submission_datasets.zip",
+    "size_bytes": 796517152,
+    "provider_md5_unverified": "b1a0403049671afec3d6248fd82e5ed8",
+    "inspection": "ZIP central directory retrieved with HTTP byte ranges; no full archive checksum or file-content verification",
+    "central_directory_offset": 796436896,
+    "central_directory_bytes": 80234,
+    "entry_count": 548,
+    "missoula_named_entries": []
+  },
+  "other_tree_searches": [
+    {
+      "repository": "geoflows/dclaw-apps",
+      "commit": "156ac4c401077bea79e95230e0a7b86208484099",
+      "truncated": false,
+      "terms": [
+        "missoula",
+        "columbia",
+        "scabland"
+      ],
+      "path_matches": []
+    },
+    {
+      "repository": "geoflows/geoclaw-4.x",
+      "commit": "c8879d25405017b38392aa3b1ea422ff3e3604ea",
+      "truncated": false,
+      "terms": [
+        "missoula",
+        "columbia",
+        "scabland"
+      ],
+      "path_matches": []
+    },
+    {
+      "repository": "dlgeorge/geoclaw",
+      "commit": "03a99d97d39293413870e9e09a156b79727ed758",
+      "truncated": false,
+      "terms": [
+        "missoula",
+        "columbia",
+        "scabland"
+      ],
+      "path_matches": []
+    }
+  ],
+  "limits": "Name searches do not inspect all file contents or establish global absence. No third party contacted."
+}

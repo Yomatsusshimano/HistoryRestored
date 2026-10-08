@@ -31,6 +31,44 @@
       "field_minus_terrain_m": 2
     }
   ],
+  "distance_method": "Haversine on assumed radius 6371008.8 m sphere versus Euclidean distance in printed projected coordinates; not a CRS transformation or formal error test.",
+  "distance_pairs": [
+    {
+      "first": "Long-10",
+      "second": "Long-11",
+      "spherical_distance_m": 3406.190972337552,
+      "projected_distance_m": 12706.807348818978,
+      "projected_over_spherical": 3.730503501422509
+    },
+    {
+      "first": "Long-11",
+      "second": "Long-12",
+      "spherical_distance_m": 1514.123018015078,
+      "projected_distance_m": 8315.924542707202,
+      "projected_over_spherical": 5.492238374137437
+    },
+    {
+      "first": "Long-10",
+      "second": "Long-12",
+      "spherical_distance_m": 4913.8320240499115,
+      "projected_distance_m": 4894.157537309154,
+      "projected_over_spherical": 0.9959961010786562
+    },
+    {
+      "first": "Baker-5-uncrossed",
+      "second": "Baker-5-crossed",
+      "spherical_distance_m": 1656.3654438185984,
+      "projected_distance_m": 1660.9241403507867,
+      "projected_over_spherical": 1.0027522287120882
+    },
+    {
+      "first": "Baker-8-uncrossed",
+      "second": "Baker-8-crossed",
+      "spherical_distance_m": 516.3849930915934,
+      "projected_distance_m": 517.4495144456124,
+      "projected_over_spherical": 1.002061487781908
+    }
+  ],
   "simulation_executed": false,
   "independent_scientific_validation": false
 }
