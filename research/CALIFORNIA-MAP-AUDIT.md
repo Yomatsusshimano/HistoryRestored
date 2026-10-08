@@ -17,3 +17,21 @@ A historical comparison plate is evidence that competing geographic representati
 The comparison catalog and relevant exhibition text/link targets were inspected. Direct retrieval of the island-map catalog, image, resource viewer and comparison manifest returned access errors. No scan was visually inspected in this audit; the ca. 1650 description remains search-index evidence.
 
 The next useful evidence is (1) readable scans and edition marks; (2) dated navigation logs or measured observations underlying the maps; and (3) independently dated coastal deposits along a specified candidate route. Preserve both island and peninsula depictions and their dependencies. A proposed former waterway must identify its location and period before comparing geological evidence. No coastline reconstruction or event date is established here.
+
+## Subsequent comparison-sheet scan inspection
+
+The LOC JSON endpoint and [full-sheet image](https://tile.loc.gov/image-services/iiif/service:gmd:gmd405:g4050:g4050:ct001802/full/2400,/0/default.jpg) were successfully retrieved. The title was also checked at higher resolution. This supersedes the earlier comparison-image access limit above; the island manuscript remains uninspected. [Panel records](../data/california-panels.json) retain the image hash.
+
+| Panel | Printed source year | Observed depiction |
+| --- | --- | --- |
+| I | 1604 | Peninsula |
+| II | 1656 | Island |
+| III | 1700 | Northern connection outside panel extent |
+| IV | 1705 | Peninsula |
+| V | 1767 | Peninsula |
+
+The printed 1604 settles what this sheet says, against the exhibition's 1606 starting year. It does not independently date the antecedent manuscript. The title additionally credits part of the eastern coast to a 1746 map by P. Ferdinand Gonsaque. These are visible source attributions, not independent field observations.
+
+An earlier attributed peninsula precedes the island panel. Thus this compilation cannot simply be read as a measured progression from an island to a peninsula. Original maps and navigation records are needed to test its copying chain and geographic accuracy.
+
+The catalog's 1770 versus exhibition's approximately 1779 remains unresolved; no impression year was independently confirmed from the scan. The item 99443375 request ended prematurely, leaving its manuscript appearance and 1639/ca. 1650 dates open. No former strait or geographic upheaval is established by this image check.

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - California comparison scan inspected
+
+Previous turn made progress: 4806173 published seven verified files. Clean checkout rechecked. LOC comparison JSON and image retrieval succeeded through PowerShell. Full sheet and higher-resolution title checked. Island manuscript request ended prematurely. Updated S15/C005 and recorded five panel labels. Printed 1604 is confirmed; edition dates and survey lineage remain unresolved. No geographic reconstruction or independent review claimed.
+
 ## 2026-10-08 - Sloth specimen-quality ledger separated from age arithmetic
 
 Previous turn made progress: 2889615 published seven verified files. Clean checkout rechecked. PMC main access again returned a browser check. An author-uploaded ResearchGate main-text mirror supplied the dated-material wording and Table 4, but its PDF link returned 404. Inspected those portions as text; no new scan or supplement review claimed.

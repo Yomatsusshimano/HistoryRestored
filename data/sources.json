@@ -251,12 +251,14 @@
       "creator": "Library of Congress",
       "publication_date": null,
       "source_type": "historical map catalog record",
-      "access": "CATALOG_METADATA",
-      "inspected": "Title, creator, creation date, notes, call number, digital ID and rights fields.",
-      "limitations": "Catalog metadata only; scan retrieval failed. Catalog date 1770 differs from the linked exhibition date ca. 1779; edition relationship unresolved.",
+      "access": "SCAN_INSPECTED",
+      "inspected": "LOC JSON catalog, full sheet and higher-resolution title cartouche; see data/california-panels.json.",
+      "limitations": "Antecedent maps and surveys unreviewed. Catalog 1770 versus exhibition ca. 1779 unresolved.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
-      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "image_url": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd405:g4050:g4050:ct001802/full/2400,/0/default.jpg",
+      "image_sha256": "b2b22aa3731c5ce095197a929f7c4a240da8d12226515a713ca1e1c8e8ca2b5b"
     },
     {
       "id": "S16",

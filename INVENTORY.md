@@ -149,11 +149,12 @@ Place: California/Baja California as depicted in a manuscript map. Status: SOURC
 - A cataloged map depicts California as an island and is dated approximately 1650. [S06](https://www.loc.gov/item/99443375). Locator: Item 99443375: title and Created/Published field. Access: SEARCH_EXCERPT. Limit: Direct item retrieval 403/error; original scan not inspected. Approximate catalog creation date is ca. 1650.
 - The exhibition explains island depictions as geographic error and captions a 1639 map. [S07](https://www.loc.gov/exhibits/treasures/tr11a.html#obj38). Locator: California as an Island section. Access: FULL_TEXT_PORTION. Limit: Caption gives 1639 while the linked item is indexed as ca. 1650. Link identity established; date discrepancy unresolved. Original exploration accounts and map scan unread.
 - The 1639 caption links to item 99443375, the same catalog identifier used in S06. [S16](https://www.loc.gov/exhibits/lamapped/lamapped-exhibit.html#obj1). Locator: California as an Island caption and outbound item link (obj1). Access: FULL_TEXT_PORTION. Limit: Exhibition captions are not independent surveys. Dates differ from linked catalog metadata; original images and editorial dating rationale unreviewed.
-- The catalog identifies one comparison sheet with five representations attributed to earlier maps; its creation field gives 1770. [S15](https://www.loc.gov/item/2006627665). Locator: Title, Notes, Created/Published and Digital Id. Access: CATALOG_METADATA. Limit: Catalog metadata only; scan retrieval failed. Catalog date 1770 differs from the linked exhibition date ca. 1779; edition relationship unresolved.
+- The catalog identifies one comparison sheet with five representations attributed to earlier maps; its creation field gives 1770. [S15](https://www.loc.gov/item/2006627665). Locator: Title, Notes, Created/Published and Digital Id. Access: SCAN_INSPECTED. Limit: Antecedent maps and surveys unreviewed. Catalog 1770 versus exhibition ca. 1779 unresolved.
+- Printed source years are 1604, 1656, 1700, 1705 and 1767; island and peninsula depictions coexist on one compilation. [S15](https://www.loc.gov/item/2006627665). Locator: Title cartouche and panels I-V. Access: SCAN_INSPECTED. Limit: Antecedent maps and surveys unreviewed. Catalog 1770 versus exhibition ca. 1779 unresolved.
 
-**Physical evidence:** No original scan or geological transect inspected.
+**Physical evidence:** Comparison map scan visually inspected; no geological transect inspected.
 
-**Surviving documents:** Catalog entries and exhibition captions with traceable item links; no original scan inspected.
+**Surviving documents:** Comparison scan and catalog/exhibition records; island manuscript scan uninspected.
 
 **Source interpretation:** Curators describe a propagated geographic misconception.
 
@@ -169,7 +170,7 @@ Place: California/Baja California as depicted in a manuscript map. Status: SOURC
 
 **Chronology:** {"reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.", "dated_object": "Catalog/exhibition map dates", "method": "Catalog attribution", "raw_date": null, "uncertainty": "Same-item links verified; map creation/edition dating discrepancies unresolved.", "timescale": "CE", "event_association": "UNTESTED"}
 
-**Missing:** Original scans; Date-attribution and edition rationale; Original source-map and survey lineage; Ground-truth deposits
+**Missing:** Island manuscript scan and antecedent maps; Date-attribution and edition rationale; Original source-map and survey lineage; Ground-truth deposits
 
 ## C006: Eiffel Tower construction records and cost audit
 

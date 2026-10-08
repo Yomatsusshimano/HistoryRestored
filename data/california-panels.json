@@ -1,0 +1,43 @@
+{
+  "source_id": "S15",
+  "case_id": "C005",
+  "item_id": "2006627665",
+  "status": "SOURCED_DRAFT",
+  "image_url": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd405:g4050:g4050:ct001802/full/2400,/0/default.jpg",
+  "image_sha256": "b2b22aa3731c5ce095197a929f7c4a240da8d12226515a713ca1e1c8e8ca2b5b",
+  "catalog_date_CE": 1770,
+  "printed_publication_date_confirmed": null,
+  "panels": [
+    {
+      "panel": "I",
+      "attributed_source_year_CE": 1604,
+      "depiction_observation": "Peninsula",
+      "independent_survey_verified": false
+    },
+    {
+      "panel": "II",
+      "attributed_source_year_CE": 1656,
+      "depiction_observation": "Island",
+      "independent_survey_verified": false
+    },
+    {
+      "panel": "III",
+      "attributed_source_year_CE": 1700,
+      "depiction_observation": "Northern connection outside panel extent",
+      "independent_survey_verified": false
+    },
+    {
+      "panel": "IV",
+      "attributed_source_year_CE": 1705,
+      "depiction_observation": "Peninsula",
+      "independent_survey_verified": false
+    },
+    {
+      "panel": "V",
+      "attributed_source_year_CE": 1767,
+      "depiction_observation": "Peninsula",
+      "independent_survey_verified": false
+    }
+  ],
+  "limits": "One compilation; source labels are not verified survey or coastline dates."
+}

@@ -232,10 +232,15 @@
           "source_id": "S15",
           "locator": "Title, Notes, Created/Published and Digital Id",
           "statement": "The catalog identifies one comparison sheet with five representations attributed to earlier maps; its creation field gives 1770."
+        },
+        {
+          "source_id": "S15",
+          "locator": "Title cartouche and panels I-V",
+          "statement": "Printed source years are 1604, 1656, 1700, 1705 and 1767; island and peninsula depictions coexist on one compilation."
         }
       ],
-      "physical_evidence": "No original scan or geological transect inspected.",
-      "surviving_documents": "Catalog entries and exhibition captions with traceable item links; no original scan inspected.",
+      "physical_evidence": "Comparison map scan visually inspected; no geological transect inspected.",
+      "surviving_documents": "Comparison scan and catalog/exhibition records; island manuscript scan uninspected.",
       "source_interpretation": "Curators describe a propagated geographic misconception.",
       "investigation_inference": "Audit map lineages and physical coast evidence; do not treat drawn water as a surveyed former strait.",
       "competing_explanations": [
@@ -254,7 +259,7 @@
         "event_association": "UNTESTED"
       },
       "missing": [
-        "Original scans",
+        "Island manuscript scan and antecedent maps",
         "Date-attribution and edition rationale",
         "Original source-map and survey lineage",
         "Ground-truth deposits"
