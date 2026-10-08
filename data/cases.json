@@ -1051,6 +1051,11 @@
           "source_id": "S138",
           "locator": "Chronology subsection; Figure 2 caption",
           "statement": "Lizard ages are sediment-model assignments, not direct assays; see report for the unresolved uncertainty discrepancy."
+        },
+        {
+          "source_id": "S139",
+          "locator": "PDF p.67 abstract",
+          "statement": "Authors interpret at least four graded sequences interfingering with and overlying the bone bed; underlying contact records are not supplied."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",

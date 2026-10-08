@@ -2215,6 +2215,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S139",
+      "title": "Working hypotheses from five years of study at the Coyote Canyon Mammoth Site",
+      "creator": "George V. Last, Bax R. Barton and Gary C. Kleinknecht",
+      "publication_date": "2015",
+      "url": "https://northwestscience.org/web/default/files/resources/annual_meetings/older_annual_meetings/2015_NWSA_86thAnnMtg.pdf",
+      "source_type": "Original conference abstract",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "PDF text page 67, printed p.67 (zero-based page index 66); title and abstract.",
+      "limitations": "Text extraction inspected; screenshot retrieval timed out. No underlying field profiles, specimen records or assay certificates.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -90,3 +90,17 @@ The four OSL central ages match S32. Their printed uncertainties differ:
 S32's PDF p.10 was visually rechecked. No revised uncertainty is adopted. The disagreement is not an exact factor-of-two conversion. Its cause remains unresolved.
 
 Our inference: these fossil ages cannot independently corroborate the sediment chronology used to assign them. Before testing common mortality, obtain the regression specification, uncertainty propagation, specimen-to-stratum links and evidence against reworking. A smooth depth-age curve across episodic deposition needs geological justification; interpolation alone does not establish continuous accumulation. This flags a testable dependency, not proof that the identification or age assignment is wrong. The original mammoth assays and death-to-burial interval remain unresolved.
+
+## Burial counts refer to different tests
+
+[S139, Last, Barton and Kleinknecht (2015)](https://northwestscience.org/web/default/files/resources/annual_meetings/older_annual_meetings/2015_NWSA_86thAnnMtg.pdf), PDF p.67, interprets at least four graded sequences interfingering with and overlying the bone bed. This is a conference abstract, not the field contact record. Extracted text was inspected; a screenshot request timed out.
+
+| Report | Count concerns | Evidentiary role |
+| --- | --- | --- |
+| S101 (2014) | At least two burial floods | Inference from bone spread, nearby thickness and exposure evidence |
+| S139 (2015) | At least four graded sequences at/above bones | Reported contact interpretation requiring original mapping |
+| S32 (2021) | Seven mammoth-site beds A-G | Section interpretation; individual beds need not equal individual floods |
+
+These are not three independent confirmations or necessarily contradictory counts. The decisive comparison requires matching each claimed contact to a bone ID and a labeled bed, then tracing it laterally. Distinct graded units alone cannot exclude multiple waning-flow deposits within one flood. An erosional surface or exposure feature must also be checked for reworking and local modification before assigning an interval between floods. No duration follows merely from counting beds.
+
+The 2012 mammoth assays remain unrecovered after institutional-site and conference-archive searches. MCBONES retrieval failed; that access failure says nothing about the assays' validity. The present lead is therefore the specific four-sequence field claim, not an invented replacement dating result.

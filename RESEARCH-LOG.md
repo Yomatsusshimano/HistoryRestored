@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Coyote burial-contact claim
+
+Previous turn made progress: 422955b published six byte-verified files. Institutional and conference searches did not recover the original mammoth assays. Recovered S139 abstract text, preserving its contact interpretation and distinguishing counts with different scopes. Added the missing contact-to-bone crosswalk as a discriminating requirement. No separate-flood count or burial duration independently established. Full goal remains active.
+
 ## 2026-10-08 - Coyote wildlife chronology dependency
 
 Previous goal turn was no progress: it acknowledged the model switch. Resumed source inspection, registered S138, and checked its dating dependency against the existing S32 facsimile. Recorded the unresolved uncertainty mismatch without changing original measurements or inferring new mammoth assays. Next step is original assay recovery and model/context verification. Full goal remains active.

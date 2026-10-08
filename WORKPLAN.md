@@ -172,3 +172,5 @@ Camp Century exposure component: central nonnegative-inventory crossing 16.702 k
 Cross-case assessment published: explicit claim versions, constraints and dependence table. Prioritize Coyote specimen-to-bed linkage, original luminescence/sloth preparation inputs, and a geographically specified model before any prospective prediction. No reconstruction or institutional adoption established.
 
 Coyote wildlife extension: dependent fossil age assignments and uncertainty mismatch recorded. Obtain model specification and original assay/context records before treating the extension as independent chronological evidence.
+
+Coyote burial-contact follow-up: recover the original profiles behind S139 and crosswalk its four-sequence claim to S32 bed labels and bone IDs. Separate local bed formation from distinct floods before counting events or assigning duration.

@@ -31,6 +31,15 @@
       "authors_inference": "At least two floods needed for complete burial; gnawing supports exposure between deposition and final burial",
       "limits": "No item-level field coordinates or crosscutting relations provided here. Thickness comparison assumes nearby beds represent thickness at the carcass.",
       "underlying_15_cm_claim_audit": "S101 attributes this to Last and Krogstad 2014. Recovered S103 abstract contains no 15 cm value; original measurement remains unverified."
+    },
+    {
+      "source_id": "S139",
+      "locator": "PDF page 67, zero-based index 66",
+      "authors_interpreted_graded_sequences_minimum": 4,
+      "relationship": "Interfingering with and overlying bone bed",
+      "bed_identifiers": null,
+      "specimen_contact_links": null,
+      "limits": "Author interpretation in abstract; not independently mapped or counted here."
     }
   ],
   "inference": "Reported gnawing supports biological access to bone, conditional on diagnosis. It does not alone locate exposure between two floods or establish a minimum duration.",
@@ -43,7 +52,8 @@
     "Rib identifiers linked to excavation coordinates and beds",
     "Mark photographs and independent taxonomic/morphological review",
     "Sediment infill and mark-overprint/crosscutting relationships",
-    "Field contacts connecting measured section 1 to bone positions"
+    "Field contacts connecting measured section 1 to bone positions",
+    "Original mapped contacts supporting S139, crosswalked to S32 bed labels and individual bones; lateral tracing and evidence distinguishing waning-flow beds from separate floods"
   ],
-  "dependence": "S101 cites S102; same site and overlapping research team. Neither adds an independent radiocarbon assay."
+  "dependence": "S101 cites S102; same site and overlapping research team. Neither adds an independent radiocarbon assay. S139 is a later interpretation by overlapping investigators; it is not independent replication."
 }
