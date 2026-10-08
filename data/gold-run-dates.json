@@ -1,0 +1,16 @@
+{
+  "source_id": "S34",
+  "locator": "Supporting Online Material, Table S1, printed p. 3 (PDF p. 4)",
+  "status": "SOURCED_DRAFT",
+  "dated_object": "Gold Run tephra glass, not horse bone or ice",
+  "uncertainty_convention": "Standard error, plus or minus 1 sigma, per table footnote",
+  "rows": [
+    {"sample_id": "UT1791", "method": "uncorrected", "age_Ma": 0.61, "standard_error_Ma": 0.06, "include_in_check": false},
+    {"sample_id": "UT1791", "method": "diameter-corrected glass fission track", "age_Ma": 0.71, "standard_error_Ma": 0.07, "include_in_check": true},
+    {"sample_id": "UT1907", "method": "isothermal plateau glass fission track", "age_Ma": 0.78, "standard_error_Ma": 0.09, "include_in_check": true}
+  ],
+  "reported_weighted_mean_Ma": 0.74,
+  "reported_standard_error_Ma": 0.06,
+  "dependence": "Shared analyst and dating calibration; covariance not supplied here. UT1791 corrected and uncorrected rows are the same sample.",
+  "limits": "Age-summary transcription only, visually checked. No raw track-count or calibration reanalysis. Sample collection coordinates not assigned."
+}

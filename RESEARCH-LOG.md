@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Original Gold Run dating summary checked
+
+Previous turn made progress: 72066eb published eight verified files. Rechecked clean checkout and followed the horse article references. Retrieved the 2008 supplement through PowerShell with normal certificate verification after Python certificate validation failed; no trust settings changed. Read methods and visually checked its image-only Table S1. Web access also supplied the main article text. The 2009 ResearchGate landing page exposed an abstract/captions but its PDF link failed; no full-text inspection claimed.
+
+Added S34 and sample-tagged ash-age summaries. Excluded the uncorrected version of UT1791 from the two-result combination. The arithmetic reproduces the rounded published mean under a zero-covariance assumption, not the underlying age measurement. Preserved the later uncertainty discrepancy and kept Dominion Creek separate from Thistle Creek. Sixteen draft cases and thirty-four sources; independent scientific review and original horse-context checks remain pending.
+
 ## 2026-10-08 - Thistle Creek horse context and dating dependence
 
 Previous turn made progress: cabecf2 published ten public-byte-verified files. Clean checkout rechecked. Searched specifically for Yukon horse specimen/context dating. Nature direct access failed; PMC returned a browser check and Europe PMC XML returned HTTP 500. Retrieved the original 2013 article from a public mirror; read relevant pp. 74-75 and visually checked Figure 1. Did not promote search-only 2011 assay identifiers into inspected measurements. No supplement or original dating assay review is claimed.

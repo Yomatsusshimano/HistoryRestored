@@ -1,0 +1,11 @@
+{
+  "mean_Ma": 0.7363846153846153,
+  "standard_error_Ma": 0.05525465521634284,
+  "included_samples": [
+    "UT1791",
+    "UT1907"
+  ],
+  "rounded_matches_report": true,
+  "assumption": "Inverse variance weighting with zero covariance, using rounded input summaries.",
+  "scientific_validation": false
+}

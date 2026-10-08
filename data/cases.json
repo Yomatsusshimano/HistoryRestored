@@ -781,6 +781,11 @@
           "source_id": "S33",
           "locator": "pp. 74-75; Figure 1b",
           "statement": "Reported fossil age is based on geological context; see research/THISTLE-CREEK.md."
+        },
+        {
+          "source_id": "S34",
+          "locator": "Supporting Online Material Table S1 and site description",
+          "statement": "Two corrected ash-age summaries combine consistently at reported precision; the permafrost study locality is distinct from Thistle Creek."
         }
       ],
       "physical_evidence": "Published metapodial and section; no specimen inspection.",
@@ -792,7 +797,7 @@
         "Reworking or incorrect association requiring site evidence"
       ],
       "counterevidence": "Reported context challenges a common death/burial episode with C015.",
-      "next_test": "Retrieve original field and dating documentation; distinguish bounds from finite measurements.",
+      "next_test": "Resolve 2008 versus 2013 ash uncertainty through the 2009 study and horse supplement; audit correlation and fossil association.",
       "chronology": {
         "reported": "Approximately 560-780 kyr BP",
         "dated_object": "Fossil assigned through context",
@@ -803,7 +808,7 @@
         "event_association": "REPORTED_NOT_REVALIDATED"
       },
       "missing": [
-        "Original assays",
+        "Raw ash dating and bone assays",
         "Supplementary field documentation",
         "Exact coordinates",
         "Independent review"

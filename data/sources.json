@@ -612,6 +612,22 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "article_mirror": "https://gwern.net/doc/genetics/selection/artificial/2013-orlando.pdf"
+    },
+    {
+      "id": "S34",
+      "title": "Ancient Permafrost and a Future, Warmer Arctic, with Supporting Online Material",
+      "url": "https://doi.org/10.1126/science.1157525",
+      "doi": "10.1126/science.1157525",
+      "creator": "Duane G. Froese, John A. Westgate, Alberto V. Reyes, Randolph J. Enkin and Shari J. Preece",
+      "publication_date": "2008-09-19",
+      "source_type": "original permafrost study and dating supplement",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Main article text; supplementary methods and Table S1 visually checked.",
+      "limitations": "No raw calibration reanalysis; main study locality is Dominion Creek, not the horse locality.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "supplement_url": "https://sites.ualberta.ca/~areyes/BertoPage/Publications_files/Science_relictIW_suppdata.pdf"
     }
   ]
 }
