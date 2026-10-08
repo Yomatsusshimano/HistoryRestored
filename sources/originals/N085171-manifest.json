@@ -1,0 +1,244 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/manifest",
+    "@type": "sc:Manifest",
+    "label": "[N085171], Technical Note, Francis Robbins Upton, October 22nd, 1879",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[N085171], Technical Note, Francis Robbins Upton, October 22nd, 1879"
+        },
+        {
+            "label": "Editor's Notes",
+            "value": "Carbon spirals and threads.  Trying to make a lamp of a carbonized thread.  100 ohms can be made from an inch of .010 inch thread.  A thread with 45 ohms resistance when cold was brought up in a high vacuum to 4 candles about.  It remained constant for two or three hours and then the resistance seemed to concentrate in one spot.  Resistance cold 800 ohms; notes and calcs on thread lamp power requirements follow, also thread carbonized with lampblack"
+        },
+        {
+            "label": "Author",
+            "value": "Upton, Francis Robbins"
+        },
+        {
+            "label": "Date",
+            "value": "1879-10-22"
+        },
+        {
+            "label": "Type",
+            "value": "Technical Note"
+        },
+        {
+            "label": "Subject",
+            "value": [
+                "Carbon, coal, glass, ceramics",
+                "Incandescent lamp",
+                "Vacuum and glass bulb"
+            ]
+        },
+        {
+            "label": "Folder ID",
+            "value": "[N085-F] Notebook Series -- Menlo Park Notebooks"
+        },
+        {
+            "label": "Microfilm ID",
+            "value": "35:868"
+        },
+        {
+            "label": "Document ID",
+            "value": "N085171"
+        },
+        {
+            "label": "URL",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;edisondigital.rutgers.edu&#x2F;document&#x2F;N085171\">https://edisondigital.rutgers.edu/document/N085171</a>"
+        },
+        {
+            "label": "Rights",
+            "value": "Thomas Edison National Historical Park"
+        },
+        {
+            "label": "Publisher",
+            "value": "Thomas A. Edison Papers, School of Arts and Sciences, Rutgers University"
+        },
+        {
+            "label": "License",
+            "value": "CC0 1.0 Universal"
+        },
+        {
+            "label": "Timestamp",
+            "value": "22 October 1879"
+        },
+        {
+            "label": "Has Version",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;archive.org&#x2F;details&#x2F;edisonmicrofilm35&#x2F;page&#x2F;n877&#x2F;mode&#x2F;1up\">Archive.org Viewer, Microfilm Series Reel 35</a>"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://edisondigital.rutgers.edu/files/medium/N085171/bi0857.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 1083,
+        "height": 748
+    },
+    "viewingDirection": "left-to-right",
+    "attribution": "CC0 1.0 Universal",
+    "related": {
+        "@id": "https://edisondigital.rutgers.edu/document/N085171",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://edisondigital.rutgers.edu/api/items/105320",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "canvases": [
+                {
+                    "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://edisondigital.rutgers.edu/files/medium/N085171/bi0857.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1083,
+                        "height": 748
+                    },
+                    "width": 1083,
+                    "height": 748,
+                    "images": [
+                        {
+                            "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://edisondigital.rutgers.edu/files/original/N085171/bi0857.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1083,
+                                "height": 748
+                            },
+                            "on": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "label": "2",
+                    "thumbnail": {
+                        "@id": "https://edisondigital.rutgers.edu/files/medium/N085171/bi0858.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1078,
+                        "height": 755
+                    },
+                    "width": 1078,
+                    "height": 755,
+                    "images": [
+                        {
+                            "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://edisondigital.rutgers.edu/files/original/N085171/bi0858.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1078,
+                                "height": 755
+                            },
+                            "on": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p2"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "label": "3",
+                    "thumbnail": {
+                        "@id": "https://edisondigital.rutgers.edu/files/medium/N085171/bi0859.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1096,
+                        "height": 770
+                    },
+                    "width": 1096,
+                    "height": 770,
+                    "images": [
+                        {
+                            "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://edisondigital.rutgers.edu/files/original/N085171/bi0859.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1096,
+                                "height": 770
+                            },
+                            "on": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p3"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "label": "4",
+                    "thumbnail": {
+                        "@id": "https://edisondigital.rutgers.edu/files/medium/N085171/bi0860.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1078,
+                        "height": 740
+                    },
+                    "width": 1078,
+                    "height": 740,
+                    "images": [
+                        {
+                            "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://edisondigital.rutgers.edu/files/original/N085171/bi0860.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1078,
+                                "height": 740
+                            },
+                            "on": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p4"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "label": "5",
+                    "thumbnail": {
+                        "@id": "https://edisondigital.rutgers.edu/files/medium/N085171/bi0861.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1076,
+                        "height": 756
+                    },
+                    "width": 1076,
+                    "height": 756,
+                    "images": [
+                        {
+                            "@id": "https://edisondigital.rutgers.edu/iiif/2/N085171/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://edisondigital.rutgers.edu/files/original/N085171/bi0861.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1076,
+                                "height": 756
+                            },
+                            "on": "https://edisondigital.rutgers.edu/iiif/2/N085171/canvas/p5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -2903,6 +2903,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S180",
+      "title": "N085171: Upton carbon-thread lamp observations and power calculations",
+      "url": "https://edisondigital.rutgers.edu/document/N085171",
+      "creator": "Francis Robbins Upton (archive attribution); Thomas A. Edison Papers digital edition",
+      "publication_date": "1879-10-22",
+      "source_type": "contemporary experimental notebook facsimile",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All five item images visually inspected; right-hand pp.171,173,175,177,179. Manifest and scans preserved with hashes in data/upton-lamp-records.json. Voltage/resistance arithmetic conditionally recalculated.",
+      "limitations": "Same laboratory and potentially same tests as Batchelor entries; not independent replication. No calibration, uncertainty, complete circuit or unique specimen identifiers. Page 173 calculation differs from reconstructed result; original readings unchanged. Date heading does not date every annotation.",
+      "local_copy": "sources/originals/N085171-bi0857.jpg",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

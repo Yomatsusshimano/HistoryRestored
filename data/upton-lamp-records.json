@@ -1,0 +1,78 @@
+{
+  "source_id": "S180",
+  "document_id": "N085171",
+  "microfilm_id": "35:868",
+  "notebook": "N-79-08-22",
+  "manifest_url": "https://edisondigital.rutgers.edu/iiif/2/N085171/manifest",
+  "manifest_path": "sources/originals/N085171-manifest.json",
+  "manifest_sha256": "9e6da4e078d8d3b6be7fd47a5241905058a1cf7677bd6adcccca6a431112b4b7",
+  "license_display": "CC0 1.0 Universal",
+  "images": [
+    {
+      "url": "https://edisondigital.rutgers.edu/files/original/N085171/bi0857.jpg",
+      "path": "sources/originals/N085171-bi0857.jpg",
+      "sha256": "433d3c906a14b6f8838c4dfd50dd902c768f9cd7086048fd2d9b5b22af54acae",
+      "right_hand_manuscript_page": 171,
+      "visually_inspected": true
+    },
+    {
+      "url": "https://edisondigital.rutgers.edu/files/original/N085171/bi0858.jpg",
+      "path": "sources/originals/N085171-bi0858.jpg",
+      "sha256": "1c33dbe50b6622275f08efa4d0d383ceaa16811f72317a79228d63591d8c9a26",
+      "right_hand_manuscript_page": 173,
+      "visually_inspected": true
+    },
+    {
+      "url": "https://edisondigital.rutgers.edu/files/original/N085171/bi0859.jpg",
+      "path": "sources/originals/N085171-bi0859.jpg",
+      "sha256": "13e95765dd6ad7de62ab69bb07de7c44d9d80d4bca4c95d52c81822b9c401e3c",
+      "right_hand_manuscript_page": 175,
+      "visually_inspected": true
+    },
+    {
+      "url": "https://edisondigital.rutgers.edu/files/original/N085171/bi0860.jpg",
+      "path": "sources/originals/N085171-bi0860.jpg",
+      "sha256": "aff1446397e47244ed604a50ab97eee74447f7ea93471109abe15da8a8d59940",
+      "right_hand_manuscript_page": 177,
+      "visually_inspected": true
+    },
+    {
+      "url": "https://edisondigital.rutgers.edu/files/original/N085171/bi0861.jpg",
+      "path": "sources/originals/N085171-bi0861.jpg",
+      "sha256": "f368637bc6504d74c367cc11866bb44ead64ffc4e3e909a246e53c0c904e0a7d",
+      "right_hand_manuscript_page": 179,
+      "visually_inspected": true
+    }
+  ],
+  "calculations": [
+    {
+      "page": 173,
+      "voltage_reported": 26.5,
+      "resistance_ohm_reported": 113,
+      "intermediate_reported": 288,
+      "lamps_per_hp_reported": 114,
+      "conditional_watts_recalculated": 6.214601769911504,
+      "conversion_factor_used": 44.3,
+      "denominator_used": 33000,
+      "intermediate_recalculated": 275.30685840707963,
+      "lamps_per_hp_recalculated": 119.8662473973129,
+      "log10_voltage_recalculated": 1.423245873936808,
+      "uncertainty": null
+    },
+    {
+      "page": 175,
+      "voltage_reported": 31.3,
+      "resistance_ohm_reported": 140,
+      "intermediate_reported": 310,
+      "lamps_per_hp_reported": 106,
+      "conditional_watts_recalculated": 6.9977857142857145,
+      "conversion_factor_used": 44.3,
+      "denominator_used": 33000,
+      "intermediate_recalculated": 310.00190714285714,
+      "lamps_per_hp_recalculated": 106.45095800908322,
+      "log10_voltage_recalculated": 1.4955443375464486,
+      "uncertainty": null
+    }
+  ],
+  "limits": "Conditional reconstruction of handwritten calculations; no measurement calibration, specimen identity or independent replication."
+}
