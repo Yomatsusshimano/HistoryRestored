@@ -43,5 +43,101 @@
   ],
   "independence_verified": false,
   "raw_series_reproduced": false,
-  "limits": "Marker dates and fitted/evaluation roles are author reports. Calendar-year labels are not raw assay values. Historical calibration and checking sets may overlap; item-level roles need audit."
+  "limits": "Table roles and depths are published summaries, not raw assays. Reported validation excludes the listed checks from fitting; independent verification of the source records and implementation remains pending.",
+  "greenland_horizons_table_2": {
+    "locator": "Extended Data Table 2 lower panel / PDF p.17; visually inspected",
+    "year_definition": "Maximum-likelihood year relative to fixed 775 CE marker, before second-iteration constraints; not final NS1-2011 dates",
+    "rows": [
+      {
+        "event": "Samalas",
+        "NEEM_2011_S1_depth_m": 183.43,
+        "NEEM_depth_m": 183.05,
+        "NEEM_2011_S1_year_CE": 1257,
+        "NEEM_year_CE": 1261,
+        "external_age_as_printed": "1257/58",
+        "role": "SECOND_ITERATION_CONSTRAINT"
+      },
+      {
+        "event": "Eldgja",
+        "NEEM_2011_S1_depth_m": 248.76,
+        "NEEM_depth_m": 248.4,
+        "NEEM_2011_S1_year_CE": 940,
+        "NEEM_year_CE": 941,
+        "external_age_as_printed": "939",
+        "role": "SECOND_ITERATION_CONSTRAINT"
+      },
+      {
+        "event": "775 Event",
+        "NEEM_2011_S1_depth_m": 281.25,
+        "NEEM_depth_m": 280.89,
+        "NEEM_depth_estimated": true,
+        "NEEM_2011_S1_year_CE": 775,
+        "NEEM_year_CE": 775,
+        "external_age_as_printed": "775",
+        "role": "FIXED_ISOTOPE_ANCHOR"
+      },
+      {
+        "event": "UE 626/27",
+        "NEEM_2011_S1_depth_m": 309.96,
+        "NEEM_depth_m": 309.6,
+        "NEEM_2011_S1_year_CE": 627,
+        "NEEM_year_CE": 625,
+        "external_age_as_printed": "626/627",
+        "role": "SECOND_ITERATION_CONSTRAINT"
+      },
+      {
+        "event": "UE 536/37",
+        "NEEM_2011_S1_depth_m": 327.2,
+        "NEEM_depth_m": 326.84,
+        "NEEM_2011_S1_year_CE": 535,
+        "NEEM_year_CE": 536,
+        "external_age_as_printed": "536",
+        "role": "SECOND_ITERATION_CONSTRAINT"
+      },
+      {
+        "event": "UE 87/88",
+        "NEEM_2011_S1_depth_m": 410.56,
+        "NEEM_depth_m": 410.2,
+        "NEEM_2011_S1_year_CE": 89,
+        "NEEM_year_CE": 87,
+        "external_age_as_printed": "87",
+        "role": "NOT_MARKED_AS_CONSTRAINT",
+        "note": "Previously attributed to Vesuvius 79; external-age column does not by itself prove independent dating."
+      }
+    ]
+  },
+  "evaluation_methods": {
+    "locator": "Methods: Evaluation of NS1-2011 using independent age information / PDF p.9",
+    "author_states_not_used_in_chronology_development": true,
+    "checks": [
+      {
+        "kind": "Tianchi tephra",
+        "ice_calendar_CE": [
+          946,
+          947
+        ],
+        "reported_external_tree_age_CE": 946,
+        "reported_external_tree_age_plus_minus_years": 3,
+        "external_primary_source_inspected": false
+      },
+      {
+        "kind": "994 isotope event",
+        "ice_increase_year_CE": 993,
+        "tree_production_interval_description": "Between Northern Hemisphere growing seasons 993 and 994",
+        "note": "Different seasonal incorporation; do not silently replace ice year with 994."
+      },
+      {
+        "kind": "Historical atmosphere reports before 536",
+        "selected_count": 32,
+        "matched_within_plus_minus_3_years": 24,
+        "unmatched_count": 8,
+        "earliest_as_printed": "255 BCE",
+        "latest_as_printed": "501 CE",
+        "reported_monte_carlo_iterations": 1000000,
+        "reported_p_bound": "<0.001",
+        "reproduced": false
+      }
+    ],
+    "limits": "Reported exclusion from fitting is now explicit. Independent authentication, documentary selection and Monte Carlo null model remain unaudited."
+  }
 }

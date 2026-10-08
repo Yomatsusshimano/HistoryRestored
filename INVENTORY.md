@@ -749,7 +749,8 @@ Place: Greenland and West Antarctica, compared with tree-ring records. Status: S
 
 **Sourced statements**
 
-- The study reports mismatched isotope-marker dates and explicitly identifies fixed markers used in revised dating. [S107](https://doi.org/10.1038/nature14565). Locator: pp.544-545, Figures 1-2 and chronology text. Access: SCAN_INSPECTED. Limit: Selected pages only. Raw isotope series, counting inputs and supplementary dating constraints not reproduced. Modern superseding chronologies not audited.
+- The study reports mismatched isotope-marker dates and explicitly identifies fixed markers used in revised dating. [S107](https://doi.org/10.1038/nature14565). Locator: pp.544-545, Figures 1-2 and chronology text. Access: SCAN_INSPECTED. Limit: Selected pages only. Marker roles and selected depths recovered; raw isotope series, annual-counting inputs, documentary originals and validation calculation not reproduced. Later chronology versions not audited.
+- Methods explicitly identify evaluation observations excluded from chronology development; the table distinguishes initial layer-count ages from later constraints. [S107](https://doi.org/10.1038/nature14565). Locator: Methods PDF p.9; Extended Data Table 2 PDF p.17. Access: SCAN_INSPECTED. Limit: Selected pages only. Marker roles and selected depths recovered; raw isotope series, annual-counting inputs, documentary originals and validation calculation not reproduced. Later chronology versions not audited.
 
 **Physical evidence:** Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.
 
@@ -759,9 +760,9 @@ Place: Greenland and West Antarctica, compared with tree-ring records. Status: S
 
 **Investigation inference:** A documented chronology mismatch warrants method-specific testing. Fitted anchors cannot simultaneously serve as independent validation.
 
-**Counterevidence:** A published technical revision is not evidence of concealed historical fabrication. This case also prevents treating all older ice dates as immune to correction.
+**Counterevidence:** A published technical revision is not evidence of concealed historical fabrication. This case also prevents treating all older ice dates as immune to correction. Methods explicitly report unused validation evidence; this must not be dismissed as merely checking fitted anchors.
 
-**Next test:** Recover raw isotope series and full constraint tables; distinguish every fitting observation from evaluation evidence before reproducing the age model.
+**Next test:** Recover Supplementary Data 1-2, verify documentary selection and statistical null model, and reproduce the unused-marker checks.
 
 **Dependence:** Ice isotope measurements and tree measurements are different observations, but assigning ice dates using tree markers creates chronological dependence. Shared markers also connect this audit to the MacBlo anchor discussion.
 
@@ -769,4 +770,4 @@ Place: Greenland and West Antarctica, compared with tree-ring records. Status: S
 
 **Chronology:** {"reported": "See data/ice-core-anchor-audit.json", "dated_object": "Ice layers carrying isotope signals", "method": "Layer chronology constrained by cross-archive markers", "raw_date": null, "uncertainty": null, "timescale": "Calendar CE", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Raw isotope measurements and sample depths; Full fitting and evaluation ledger; Age-model reproduction; Independent review
+**Missing:** Raw isotope measurements and annual-layer inputs; Original historical and tephra validation records; Validation and age-model reproduction; Independent review

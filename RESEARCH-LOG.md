@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Ice-core constraint and validation roles
+
+Previous turn made progress: 04aa1e3 published eight publicly byte-verified files. Clean checkout confirmed. Inspected S107 methods and rendered Extended Data Tables 2-3. Transcribed six Greenland horizon rows with initial versus constrained dates distinguished. Methods explicitly exclude the listed validation checks from chronology development, narrowing the earlier unresolved-dependence question. Recorded 24 matches and eight misses among 32 historical checks without reproducing the significance calculation. Preserved 993 ice versus 993/994 seasonal tree-marker distinction; no blanket seven-year final correction applied. Full goal remains active.
+
 ## 2026-10-08 - Ice-core chronology and marker dependence
 
 Previous turn made progress: 76646f9 published eight publicly byte-verified files. Clean checkout confirmed. Searched primary literature for ice/tree chronology corrections, retrieved S107 from WHOI, and rendered/visually inspected printed pp.544-545. Added C023 and a typed marker-role ledger with missing depths and assay IDs left null. Separated published chronology corrections from universal calendar shifts and fitted anchors from independent checks. No concentration extraction, raw-layer counting, model reproduction or later-version audit claimed. Added the first ice-core chronology case to the public inventory; full goal remains active.
