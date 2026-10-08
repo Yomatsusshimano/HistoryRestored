@@ -17,6 +17,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Arctic chronology audit](research/ARCTIC-CHRONOLOGY.md): camel sediment dating, Yukon DNA context, source discrepancies, and a reproducible conditional calculation.
 - [Sample dating records](data/dating-records.json): transcribed ages, uncertainties, and explicit missing values.
 - [Lake Cahuilla audit](research/CAHUILLA.md): physical lake-versus-marine evidence and historical dependencies in the chronology.
+- [Bouse explanation comparison](research/BOUSE-DISCRIMINATION.md): isotope changes, marine/lake alternatives, and separate tests of historical age and channel connectivity.
 - [California map audit](research/CALIFORNIA-MAP-AUDIT.md): verified item links, unresolved catalog dates, and the distinction between compilation and survey evidence.
 - [Eiffel construction audit](research/EIFFEL-CONSTRUCTION-AUDIT.md): visually checked personnel and cost records from the 1900 technical account.
 - [Invention discrimination](research/INVENTION-DISCRIMINATION.md): development, named contributions, ownership and recovery tested separately.

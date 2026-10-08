@@ -50,6 +50,10 @@ A broad chronology claim must state a proposed date conversion before testing it
 
 These are conditional prediction designs. They lack frozen locations, quantitative tolerances, and independent public timestamps. They must not be advertised as successful forecasts or preregistered discoveries.
 
+## H2 operational comparison, 2026-10-08
+
+The [Bouse discrimination assessment](research/BOUSE-DISCRIMINATION.md) separates H2-L (lake mixing/outlet change), H2-M (marine influence followed by lake conditions), H2-T (historical-map age association), and H2-G (a continuous Gulf-to-Pacific connection). These are retrospective test versions, not verbatim claims attributed to Nathan. The first two require comparison of the same beds and may coexist at different stages. Neither establishes the last two. The present isotope and faunal observations support investigating environmental change but do not supply a unique mechanism, event date or connected historical route.
+
 ## Present inference
 
 No common event time, worldwide deposit, chronology transformation, lost civilization, or post-catastrophe rewriting chain has been demonstrated in this archive. Regional catastrophic change, construction history, antiquity of fossils, and attribution errors must each be investigated on their own evidence. A valid outcome can be rejection of a proposed version.
