@@ -313,3 +313,6 @@ Highwall follow-up reproduces selected19-age mean/MSWD/uncertainty and preserves
 
 
 S211 original Schwing thesis recovered via AZGS2021 release. Corrected reversal test and earlier39-specimen Highwall table inspected; coordinate/sample-version discrepancies preserved. Next input membership, correction reproduction, mapped location and revision explanation. Do not repeat thesis retrieval as pending.
+
+
+S211 map/selection follow-up: distinct Highwall/Golden points invalidate treating duplicate coordinates as two verified locations. Explicit HWW exclusions and pooled Fig10 scope recovered. Mean angle reproduced; next exact directional inputs, correction/test threshold and calibrated-interval selection. Polarity chronology shares ash/stratigraphic inputs.

@@ -943,3 +943,8 @@ Previous turn made verified public progress; clean tree confirmed. Read original
 ### 2026-10-08 — Original reversal test and Highwall versions
 
 Previous turn made verified public progress; clean checkout confirmed. Recovered/hash-checked117-page AZGS thesis release and visually checked printed17,46-47. Preserved corrected reversal-test parameters,110/111 reverse-count discrepancy and selected39-versus36-specimen differences. Earlier latitude35.381872 provides a candidate correction to later32.381873 without establishing field location. No raw-vector fit, reproduced reversal test, independent replication or deliberate alteration inferred.
+
+
+### 2026-10-08 — Reversal geometry and chronology dependencies
+
+Previous turn made verified public progress; clean tree confirmed. Visually checked original map, selection/age discussion and pooled mean figure. Reproduced7.15-degree corrected separation from printed means, preserving distinction from critical-angle/test reproduction. Recorded sample exclusion rationale and explicit ash/elevation/lithology dependencies of chron assignments. Map shows separate Highwall/Golden sites, preventing false coordinate merging. No replacement coordinates, full reversal test or independent time marker claimed.

@@ -563,6 +563,11 @@
           "source_id": "S211",
           "locator": "printed9,16-17 and46-47 (PDF17,24-25,54-55)",
           "statement": "Original study reports an inclination-corrected Rb reversal pass at observed7.15 versus critical7.18 degrees; exact inputs unverified. Earlier Highwall table has39 entries and latitude35.381872 versus36 entries and32.381873 in S210, with shared-row revisions. Preserve versions and dependence; no new independent reversal confirmation."
+        },
+        {
+          "source_id": "S211",
+          "locator": "printed29-30,68,73 (PDF37-38,76,81)",
+          "statement": "Map distinguishes Highwall and Golden Section despite duplicate table coordinates. HWW1-4 excluded and AF used for polarity interpretation; Fig10 describes pooled site means. Corrected mean separation reproduces7.15 degrees, not full significance. Chron assignments explicitly use ash ages/lithology/elevation and are not independent magnetic numerical dates."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

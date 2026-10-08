@@ -99,5 +99,10 @@
       "S210": "B"
     }
   ],
-  "limits": "Selected differences, not exhaustive version reconciliation. No causes inferred. Earlier source and later supplement are not independent specimen datasets."
+  "limits": "Selected differences, not exhaustive version reconciliation. No causes inferred. Earlier source and later supplement are not independent specimen datasets.",
+  "mean_direction_geometry": {
+    "uncorrected_separation_degrees": 16.251461208410543,
+    "corrected_separation_degrees": 7.14742741041546,
+    "scope": "Mean-direction geometry only. Critical angle, E/I correction, individual inputs and test significance not reproduced. Do not reuse corrected critical angle for the uncorrected calculation."
+  }
 }
