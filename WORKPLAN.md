@@ -418,3 +418,8 @@ S219 full pamphlet recovered; Fig15/16 inspected. Next georeference section1 Trb
 ### 2026-10-08 — Conditional Topock sample overlay
 
 Conditional S219 polygon overlay published. Resolve Bat Cave87-107m Trbb offset using original datum, cut geometry and surface-versus-subsurface context. Topock3-18m offset and Santa Fe map-edge issue also retained. Section1 block locality and paleosols still pending.
+
+
+### 2026-10-08 — Cover thickness and reworked-clast test
+
+Original cover descriptions constrain map mismatch: Qa2 is1-10m thick regionally; local cover depth and substrate at Bat Cave remain unknown. Next match photographed cut and determine bed/contact position of BC007-011. Search of extracted S216 text found no coordinate datum declaration; no unreported datum assumed.
