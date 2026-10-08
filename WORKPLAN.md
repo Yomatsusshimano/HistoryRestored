@@ -126,3 +126,5 @@ Detection sensitivity executed on S109: four implementation variants produce 12-
 14 CE astronomy comparison: NASA catalog predicts four partial eclipses and no total/hybrid in the year. Conditional literal-reading conflict recorded, not volcanic identification. Audit Greek wording/year and model historical inputs; do not turn Delta T uncertainty into a calendar shift.
 
 14 CE citation lineage: Stothers names Dio/Eusebius/Dexter; Jerome translation adds no observing context. Historical Mayans critique flags Dexter attribution as fabricated. Recover exact PL 31 col.66 and editorial notice before passage-level conclusions; do not count three citations as independent observations or adopt 17 CE redating untested.
+
+Dexter facsimile S122: exact PL31 cols.65-66 visually inspected (PDF p.37; scan out of order). A.C.15 label confirmed; Bivar cites Eusebius for eclipse/death pair. Trace normalization to 14 and compare earlier editions; authenticity and independent observation remain unresolved.

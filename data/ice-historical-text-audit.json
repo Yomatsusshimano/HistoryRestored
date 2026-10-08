@@ -26,7 +26,7 @@
       "matched_to_author_ice_event": null,
       "computational_missingness": "Four local sensitivity variants leave this entry unresolved because their complete-window sulfur input is missing. This is separate from textual ambiguity.",
       "next_checks": [
-        "Recover PL 31 column 66 and its editorial apparatus",
+        "Inspect Migne title page and authenticity apparatus; compare earlier chronicle editions and Eusebius Latin wording.",
         "Collate Latin/Armenian entry and Greek Dio wording",
         "Trace passage-specific source dependencies",
         "Inspect Schove 1984 proposed 17 CE redating before accepting it"
@@ -57,8 +57,22 @@
         {
           "source": "S121",
           "finding": "Historical critique attributes works under Dexter name to Higuera fabrication; triggers authentication flag for cited chronicle.",
-          "exact_pl31_col66_inspected": false,
+          "exact_pl31_col66_inspected": true,
           "passage_specific_fabrication_proven": false
+        },
+        {
+          "source": "S122",
+          "locator": "PDF p.37 / PL31 cols.65-66",
+          "chronicle_year_label": "A. C. 15; A. R. 766",
+          "latin": "Defectio solis. Et Augustus annis LXXVI moritur.",
+          "working_translation": "Eclipse/failure of the sun. And Augustus dies aged 76.",
+          "commentary": "Bivar A.C.15 note 1 explicitly invokes Eusebius for both events in this year; note is distinct from chronicle entry.",
+          "totality_explicit": false,
+          "duration": null,
+          "observation_site": null,
+          "independent_eyewitness_status": "NOT_ESTABLISHED",
+          "dating_limit": "Printed 15 differs from S108 normalized 14 CE; calendar convention and normalization chain not reconstructed.",
+          "authenticity_limit": "Exact sentence now inspected in print; original composition and passage-level borrowing remain unproven."
         }
       ]
     }

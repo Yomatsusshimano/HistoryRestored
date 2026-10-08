@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Exact Dexter passage recovered
+
+Previous turn made progress: 90609f0 published seven verified files; clean checkout rechecked. DCO access timed out and Corpus Corporum link failed. Recovered 669-page PL31 scan through Internet Archive, hash recorded; rendered selected pages and located cols.65-66 on PDF p.37 despite out-of-order scanning. Confirmed A.C.15 label and Bivar Eusebius cross-reference. Updated exact-passage access in ledger without treating print as ancient authentication. No independent witness, global year shift or volcanic interpretation established. Full goal remains active.
+
 ## 2026-10-08 - Historical citation lineage and authentication flag
 
 Previous turn made progress: d536707 published eight verified files; clean checkout confirmed. Inspected Stothers paragraph 21, Jerome Olympiad 198.1 translation and Mayans historical critique. Added S119-S121 and citation-chain ledger. Dexter attribution now flagged for authentication, with exact cited Migne column still uninspected; no specific eclipse sentence declared forged. Preserved Atella/Nola textual difference and untested 17 CE alternative. No independent witness count or catastrophe linkage inferred. Full goal remains active.
