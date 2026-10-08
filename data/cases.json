@@ -582,6 +582,16 @@
           "source_id": "S132",
           "locator": "Bottom date and certification; top number 3738",
           "statement": "Drawing reproduction carries July 24, 1874 date and Woodward/Evans inventor signatures; this is a different documentary field from the August 3 register entry."
+        },
+        {
+          "source_id": "S174",
+          "locator": "P-EQ3 description",
+          "statement": "The university-hosted Woodward biography attributes its account to Wikipedia; it is not independent evidence of a patent purchase."
+        },
+        {
+          "source_id": "S175",
+          "locator": "Viewer images 1-2, manuscript pages 51 and 53",
+          "statement": "A dated 1879 lamp drawing and revised draft description survive; only two images are inspected, without a performance or transaction conclusion."
         }
       ],
       "physical_evidence": "Woodward patent pages 1-3 and Edison specification pages 2-3 visually inspected; no original lamp tested. Selected artifact photographs in S51 inspected; no physical examination or independent object dating. Johnson and Bergmann socket patent drawings and specifications, all three pages each, visually inspected. Edison socket patent 251,554, all five pages, visually inspected. Edison 265,311 all four scan pages visually inspected.",
@@ -605,7 +615,7 @@
       },
       "missing": [
         "Broader antecedent set",
-        "Accessible laboratory notebooks",
+        "Remaining N031051 draft pages, dated trial records and final-patent linkage",
         "Workshop contributions",
         "Complete ownership/access chain",
         "Independent performance comparison"

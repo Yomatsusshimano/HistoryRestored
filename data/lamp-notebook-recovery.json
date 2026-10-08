@@ -1,0 +1,26 @@
+{
+  "source_id": "S175",
+  "document_id": "N031051",
+  "microfilm_id": "31:1018",
+  "notebook": "N-79-02-24.2",
+  "inspected_viewer_images": [
+    1,
+    2
+  ],
+  "total_viewer_images": 21,
+  "rights_display": "CC0 1.0 Universal shown by archive metadata and viewer",
+  "images": [
+    {
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1011.jpg",
+      "path": "sources/originals/N031051-be1011.jpg",
+      "sha256": "ce59a33964c9a8e223441fdb59be018e87f7be19159998ed0d9f9fe0fe75fab9",
+      "right_hand_manuscript_page": 51
+    },
+    {
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1012.jpg",
+      "path": "sources/originals/N031051-be1012.jpg",
+      "sha256": "55aff6224dce0948697c2ad77d34d9a210c48a41b594674d9e7b205697a2c69a",
+      "right_hand_manuscript_page": 53
+    }
+  ]
+}

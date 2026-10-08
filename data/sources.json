@@ -2819,6 +2819,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S174",
+      "title": "Henry Woodward person authority record P-EQ3",
+      "url": "https://edisondigital.rutgers.edu/document/P-EQ3",
+      "creator": "Thomas A. Edison Papers, Rutgers University",
+      "publication_date": null,
+      "source_type": "archival person metadata with attributed secondary biography",
+      "access": "CATALOG_METADATA",
+      "inspected": "Full person metadata through ordinary browser after automatic verification; item 555646, identifier P-EQ3. Description explicitly credits Wikipedia and reports patent sale/license.",
+      "limitations": "Not an assignment instrument or independent transaction evidence. Linked /document/EQ3 returned Page not found. Search results are not a complete archival census.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S175",
+      "title": "N031051: March 1, 1879 lamp patent draft in Notebook 31",
+      "url": "https://edisondigital.rutgers.edu/document/N031051",
+      "creator": "Thomas Alva Edison (archive attribution); Thomas A. Edison Papers digital edition",
+      "publication_date": "1879-03-01",
+      "source_type": "contemporary notebook manuscript facsimile",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Metadata and first two of 21 viewer images, be1011 (right page 51) and be1012 (right page 53), visually inspected. Microfilm 31:1018; notebook N-79-02-24.2. Original image downloads saved and hashed.",
+      "limitations": "Partial manuscript only, not a complete transcription or final claims. Documentary date and archive attribution not independently authenticated. No measured performance, assignment, priority determination or exact mapping to final patent established here.",
+      "local_copy": "sources/originals/N031051-be1011.jpg",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

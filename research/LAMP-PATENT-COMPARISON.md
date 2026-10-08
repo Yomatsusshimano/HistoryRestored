@@ -129,3 +129,17 @@ The [drawing reproduction](https://www.bouletfermat.com/danny/woodward_and_evans
 [Boulet's transcription](https://www.bouletfermat.com/danny/light_bulb_patent.html) (S131) also reports July 24 signature and affidavit dates. The handwritten text pages remain uninspected. Thus the drawing supports the date's documentary context, but cannot authenticate every transcribed word.
 
 The August 3 date in S130 remains unchanged. A dated drawing followed by a later register entry is a plausible sequence; the complete application and grant instruments are needed to establish the procedural roles. These records do not require a calendar correction. Neither date establishes an Edison transaction, commercial performance or absolute invention priority.
+
+
+## A source-dependency check and a recovered notebook draft
+
+The live [Woodward person record P-EQ3, S174](https://edisondigital.rutgers.edu/document/P-EQ3) repeats the patent-sale and Canadian-license account, but explicitly credits Wikipedia. Its university hosting does not turn that biography into an independent transfer instrument. The linked EQ3 cross-reference returned a missing-page notice. Neither that failure nor the bounded name searches establish that no assignment survives.
+
+The normal browser completed the archive's automatic verification, allowing retrieval of [N031051, S175](https://edisondigital.rutgers.edu/document/N031051), the March 1, 1879 draft previously located through an unavailable edited PDF. The archive identifies Notebook 31, N-79-02-24.2, microfilm 31:1018, with 21 viewer images. **Only the first two images were inspected**, not the complete draft.
+
+- [First image](../sources/originals/N031051-be1011.jpg): right-hand manuscript page 51 visibly bears March 1, 1879 and a labelled lamp/apparatus drawing. A marginal copying note is present; its full wording is not transcribed here.
+- [Second image](../sources/originals/N031051-be1012.jpg): right-hand page 53 describes the objective of operating many lamps on one circuit, a bobbin of insulated wire inside a glass receptacle, and creating a vacuum while gradually heating the conductor. Cancellations and revisions are visible. The precise material and the full later claims are not established from these two images alone.
+
+The date is documentary, not an independent physical age measurement. The archive attributes the document to Edison; handwriting and chain of custody were not separately authenticated. These pages establish the content of a surviving design draft, not successful performance or absolute priority. They are a different design record from the later carbon-filament patent and must not be silently treated as its original filing.
+
+[Image provenance and hashes](../data/lamp-notebook-recovery.json) preserve the direct archive image addresses, notebook locators and inspected scope. The viewer and metadata display CC0 1.0 Universal. The remaining 19 images, final-patent linkage, trial results and ownership instruments remain pending. No Woodward-to-Edison transaction or ancient recovered-technology chain has been established.
