@@ -613,6 +613,11 @@
           "source_id": "S214",
           "locator": "printed775/PDF5 supplement footnote",
           "statement": "Original paper identifies Repository2010211 TableDR1 as the location/thickness/polarity record; table itself remains uninspected."
+        },
+        {
+          "source_id": "S215",
+          "locator": "TableDR1 pp1-2; research/WIND-CAVES.md; data/wind-caves-location-comparison.json",
+          "statement": "04Pw30 NAD27 location transforms to within2.44m of S210 NAD83 point using explicit NADCON5 grid. Original table gives829m section height, six normal-polarity samples and a faulted interval below; correspondence supports locality linkage but not specimen identity or fault duplication."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

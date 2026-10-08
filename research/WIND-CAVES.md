@@ -44,3 +44,18 @@ This is a candidate location crosswalk to S210's04PW30, not demonstrated identit
 The [original2011 paper, S214](https://pages.uoregon.edu/rdorsey/Downloads/DorseyEtal2011.pdf) has been recovered as a23-page PDF (SHA256 `4d738bee3e8802f642129b127ad879f91be11d51a3137aa33ee956b86f084aad`). Selected text, especially printed775/PDF5, identifies **GSA Data Repository2010211, TableDR1** as the source of GPS locations, thicknesses, polarities and quality information. That table has not yet been retrieved or inspected. The original paper is not fully reviewed.
 
 The next discriminating check is therefore concrete: obtain TableDR1, compare the magnetic site's coordinates and thickness with S210'sNAD83 point, and recover collection metadata establishing how the dated sand relates to that site. Agreement would strengthen the bed link; disagreement would require tracing sampling or transcription differences before assigning the mineral date to the older section. Neither outcome by itself establishes fault repetition. The numeric5.24Ma label is a correlation to a polarity timescale, not a direct radiometric assay of this level.
+
+
+## Original location table recovered: datum-aware comparison
+
+[S215, original Repository2010211 supplement](https://doi.org/10.1130/2010211) was recovered from Figshare article12346811, file22757111. The11-page PDF has SHA256 `07009af58b632fd5288f8dbae774707a1f5a5b3d9fc2ad5a5b2155af1a52f3e0`; pages1–2 were visually checked. This supersedes the retrieval-pending status above.
+
+TableDR1 gives04Pw30 at **32.9894722, −116.1185556, NAD27**, section height829.0m,20m above the previous site, with six analyzed samples, normal polarity and gradeb. The top of the upper megabreccia is681.5m, giving a calculated member-relative height of **147.5m**. This differs from the approximately151m graphical reading in S201; the cause remains unresolved. These are section thicknesses, not elevations above sea level.
+
+The table explicitly marks a complex faulted interval between04Pw28 and04Pw29. This documents recognition of faulting in the older source. It does not establish the displacement, repeated thickness or particular fault strands proposed in2021, nor refute the later claim merely because faulting was already known.
+
+Using the [PROJ-hosted NADCON5 grid](https://cdn.proj.org/us_noaa_nadcon5_nad27_nad83_1986_conus.tif), NAD27-to-NAD83 operation7 transforms the magnetic location to latitude32.989524139, longitude−116.119400819. Its calculated separation from S210'sNAD83 point is **2.44m**. The two raw coordinate pairs must not be compared as if their datums were identical.
+
+The [reproducible comparison](../analysis/compare_wind_coordinates.py) records the grid hash, software versions, explicit transformation and both unmodified input pairs in [structured data](../data/wind-caves-location-comparison.json). The operation catalog's0.15m accuracy is not the field GPS accuracy; source collection errors are unknown. Millimetre-level output digits are computational precision, not achieved positional accuracy. Original grids and PDFs remain local; links identify them for reproduction.
+
+This close correspondence strengthens the link to the same locality. It does not prove the same specimen or exact bed was used, establish sample custody, or validate either chronology. Next trace collection records and the geological mapping/restoration across the flagged interval. The remaining problem is narrower than an unidentified location but broader than an arithmetic discrepancy.

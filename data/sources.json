@@ -3393,6 +3393,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S215",
+      "title": "Supplemental material: Stratigraphic record of basin development within the San Andreas fault system: Late Cenozoic Fish Creek–Vallecito basin, southern California",
+      "url": "https://doi.org/10.1130/2010211",
+      "creator": "R.J. Dorsey and colleagues",
+      "publication_date": "2011 (associated article; original supplement release date unverified)",
+      "source_type": "original supplementary location and analytical records",
+      "access": "SCAN_INSPECTED",
+      "inspected": "11-page PDF recovered from Figshare12346811/file22757111; TableDR1 pp1-2 visually inspected, focused Wind Caves rows and datum headers. Associated article2011; repository identifier alone does not establish release date.",
+      "limitations": "Remaining supplement not reviewed. Grade code retained without fresh interpretation. Field GPS accuracy, custody and fault restoration not verified.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

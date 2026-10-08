@@ -1,0 +1,48 @@
+{
+  "source_ids": [
+    "S210",
+    "S215"
+  ],
+  "source_transcription": {
+    "S215": {
+      "locator": "TableDR1 PDF pages1-2, visually checked",
+      "site": "04Pw30",
+      "latitude_NAD27": 32.9894722,
+      "longitude_NAD27": -116.1185556,
+      "unit": "Wind Caves mbr",
+      "height_above_previous_site_m": 20,
+      "height_above_section_base_m": 829.0,
+      "samples_analyzed": 6,
+      "polarity": "N",
+      "grade": "b",
+      "top_upper_megabreccia_section_height_m": 681.5,
+      "overlying_contact_section_height_m": 848.0,
+      "fault_interval_note": "COMPLEX FAULTED INTERVAL in upper Pw, between04Pw28 and04Pw29"
+    },
+    "S210": {
+      "locator": "Table4 Sheet1 row6",
+      "sample": "04PW30",
+      "latitude_NAD83": 32.989544,
+      "longitude_NAD83": -116.119412
+    }
+  },
+  "transformation": {
+    "pyproj_version": "3.8.0",
+    "PROJ_version": "9.8.1",
+    "operation": "NAD27 to NAD83 (7), normalized longitude/latitude",
+    "operation_catalog_accuracy_m": 0.15,
+    "accuracy_limit": "Operation metadata, not GPS collection accuracy or a total error bar.",
+    "grid_url": "https://cdn.proj.org/us_noaa_nadcon5_nad27_nad83_1986_conus.tif",
+    "grid_sha256": "c7d587e0d0b39b9f46c7de850b9a6a468c17b7139f82a313aa43aa4a64d94fa8",
+    "longitude_NAD83": -116.11940081941218,
+    "latitude_NAD83": 32.98952413872354,
+    "separation_from_S210_m": 2.438008016300348
+  },
+  "height_comparison": {
+    "table_relative_height_m": 147.5,
+    "S201_figure_graphical_height_m_approx": 151,
+    "difference_m_approx": 3.5,
+    "interpretation": "Different table/figure representations; reason unresolved, not independent measurement uncertainty."
+  },
+  "limits": "Proximity supports locality correspondence but does not prove specimen identity, custody, primary deposition, fault duplication or event age."
+}

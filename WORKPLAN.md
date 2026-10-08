@@ -341,3 +341,8 @@ S212 Comment body and S213 Reply introductory summary recovered; unequal access 
 ### 2026-10-08 — Wind Caves measured-section link
 
 04Pw30 magnetic-site height now approximately located from S201 Fig16; next S214 Repository2010211 TableDR1 coordinates/thickness and dated-sand custody. Do not treat label agreement as exact specimen identity or the GPTS label as a direct assay.
+
+
+### 2026-10-08 — Original Wind Caves coordinates
+
+S215 TableDR1 recovered and pp1-2 visually checked. Datum transformation puts04Pw30 within2.44m of later dating locality; source precision is not field accuracy. Table-derived147.5m member height differs from figureapprox151m. Next custody/bed link and mapped structural restoration; do not repeat GPS-table retrieval as pending.
