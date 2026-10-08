@@ -423,3 +423,8 @@ Conditional S219 polygon overlay published. Resolve Bat Cave87-107m Trbb offset 
 ### 2026-10-08 — Cover thickness and reworked-clast test
 
 Original cover descriptions constrain map mismatch: Qa2 is1-10m thick regionally; local cover depth and substrate at Bat Cave remain unknown. Next match photographed cut and determine bed/contact position of BC007-011. Search of extracted S216 text found no coordinate datum declaration; no unreported datum assumed.
+
+
+### 2026-10-08 — Earlier boulder-flood field account
+
+S220 earlier boulder-flood contribution recovered and figures inspected. Next west-bank photograph Metzger-Loeltz1973 Fig11 and actual S216 sample-cut crosswalk. Keep22km unit, conditional Laughlin extension, younger terraces and reused photographs separate; no hydraulic discharge inferred.

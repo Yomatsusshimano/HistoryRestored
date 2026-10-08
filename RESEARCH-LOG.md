@@ -1065,3 +1065,8 @@ Previous turn made verified public progress. Recovered original shapefile ZIP/me
 ### 2026-10-08 — Cover thickness and reworked-clast test
 
 Previous turn made verified public progress. Read S219 original Qa2/Qa3/Qa4 descriptions and searched all extracted S216 pages for coordinate-datum terms. Published thickness-versus-sample-depth ambiguity and recycled-clast limitation. Regional cover range not used as a local measurement, probability distribution or burial history. No sample reassignment or new chronology claimed.
+
+
+### 2026-10-08 — Earlier boulder-flood field account
+
+Previous turn made verified public progress. Retrieved original workshop volume using standard browser-style request, hashed it and inspected six-page S220 contribution plus Figures2/4. Identified reused S219 contact photo, wider cover relationship and distinct younger terrace boulders. Rendering emitted font warnings but inspected pages readable. No sample-cut match, independent photographic replication, flood discharge or new date claimed.

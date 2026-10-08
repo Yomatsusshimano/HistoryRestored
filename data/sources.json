@@ -3463,6 +3463,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S220",
+      "title": "Boulders Deposited by Pliocene and Pleistocene Floods on the Lower Colorado River",
+      "url": "https://pubs.usgs.gov/of/2011/1210/of2011-1210.pdf",
+      "creator": "Keith A. Howard and Daniel V. Malmon",
+      "publication_date": "2011",
+      "source_type": "Original workshop contribution in USGS Open-File Report2011-1210, pages145-150",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Contribution printed145-150/PDF151-156 text-read; Figures2/4 on148/150 visually inspected. Volume SHA2567a771d91cc3af00e516bb6328ed77c911ae27a07a83a1f49d997050da08602cd. research/COLORADO-BURIAL-DATING.md.",
+      "limitations": "Selected contribution only. Figure2B reused in S219; not independent photographic confirmation. Exact S216 sample-site match, original mapped sections, hydraulic reconstruction and primary numerical dating not recovered here.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
