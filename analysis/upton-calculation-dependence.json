@@ -1,0 +1,30 @@
+{
+  "source_id": "S180",
+  "assumption": "Reconstruct the apparent preceding voltage-ratio calculation; retain prior fixed-resistance calculation as a different conditional check.",
+  "rows": [
+    {
+      "page": 173,
+      "auxiliary_voltage_reported": 1.5,
+      "factor_reported": 6.26,
+      "factor_physical_identity": null,
+      "hypothesized_relation": "R = lamp_voltage * 6.26 / auxiliary_voltage",
+      "resistance_reconstructed": 110.59333333333332,
+      "power_from_reconstructed_resistance": 6.3498402555910545,
+      "lamps_per_hp_from_reconstructed_resistance": 117.31334383917545,
+      "lamps_per_hp_holding_written_resistance_fixed": 119.8662473973129,
+      "interpretation": "Arithmetic correspondence, not a verified circuit or independent resistance measurement."
+    },
+    {
+      "page": 175,
+      "auxiliary_voltage_reported": 1.4,
+      "factor_reported": 6.26,
+      "factor_physical_identity": null,
+      "hypothesized_relation": "R = lamp_voltage * 6.26 / auxiliary_voltage",
+      "resistance_reconstructed": 139.9557142857143,
+      "power_from_reconstructed_resistance": 7.0,
+      "lamps_per_hp_from_reconstructed_resistance": 106.41728474685587,
+      "lamps_per_hp_holding_written_resistance_fixed": 106.45095800908322,
+      "interpretation": "Arithmetic correspondence, not a verified circuit or independent resistance measurement."
+    }
+  ]
+}

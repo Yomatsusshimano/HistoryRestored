@@ -2913,8 +2913,36 @@
       "source_type": "contemporary experimental notebook facsimile",
       "access": "SCAN_INSPECTED",
       "inspected": "All five item images visually inspected; right-hand pp.171,173,175,177,179. Manifest and scans preserved with hashes in data/upton-lamp-records.json. Voltage/resistance arithmetic conditionally recalculated.",
-      "limitations": "Same laboratory and potentially same tests as Batchelor entries; not independent replication. No calibration, uncertainty, complete circuit or unique specimen identifiers. Page 173 calculation differs from reconstructed result; original readings unchanged. Date heading does not date every annotation.",
+      "limitations": "Same laboratory and potentially same tests as Batchelor entries; not independent replication. No calibration, uncertainty, complete circuit or unique specimen identifiers. Page 173 calculation differs from reconstructed result; original readings unchanged. Date heading does not date every annotation. The resistance calculation appears to share voltage inputs; fixed-resistance and recomputed-ratio checks are separate conditional routes.",
       "local_copy": "sources/originals/N085171-bi0857.jpg",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S181",
+      "title": "N085165: Pump heading and vacuum troubleshooting",
+      "url": "https://edisondigital.rutgers.edu/document/N085165",
+      "creator": "Francis Robbins Upton (archive attribution); Thomas A. Edison Papers digital edition",
+      "publication_date": "1879-10-17",
+      "source_type": "contemporary experimental notebook facsimile",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All item images visually inspected; right-hand pp.165,167. Original scans and manifest hashed in data/upton-adjacent-records.json.",
+      "limitations": "Adjacent context, not established identical apparatus or specimens to October 22 thread trial. No calibrated pressure or independent replication. N085169A includes October 19 as well as catalog date October 21; ambiguous bare numbers not assigned units.",
+      "local_copy": "sources/originals/N085165-bi0854.jpg",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S182",
+      "title": "N085169A: Carbon-stick tests with October 19 and 21 entries",
+      "url": "https://edisondigital.rutgers.edu/document/N085169A",
+      "creator": "Francis Robbins Upton (archive attribution); Thomas A. Edison Papers digital edition",
+      "publication_date": "1879-10-21",
+      "source_type": "contemporary experimental notebook facsimile",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All item images visually inspected; right-hand pp.169. Original scans and manifest hashed in data/upton-adjacent-records.json.",
+      "limitations": "Adjacent context, not established identical apparatus or specimens to October 22 thread trial. No calibrated pressure or independent replication. N085169A includes October 19 as well as catalog date October 21; ambiguous bare numbers not assigned units.",
+      "local_copy": "sources/originals/N085169A-bi0856.jpg",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }

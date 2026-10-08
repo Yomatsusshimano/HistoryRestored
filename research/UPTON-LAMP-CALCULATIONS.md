@@ -32,6 +32,18 @@ These estimates describe power allocation at low reported light output; they are
 
 ## Failures and attribution remain visible
 
+### Follow-up: resistance may be calculated from the same inputs
+
+The logarithmic layout before each written resistance is consistent with `R = V * 6.26 / u`, where u is the separate voltage entry (1.5 on p.173; 1.4 on p.175). This gives 110.593 and 139.956 respectively. The latter closely reproduces the written 140; the former again differs from 113. This supports a calculation-dependence interpretation but does not identify the physical 6.26 component, its units or the circuit. A 6.26-ohm reference resistance is a candidate explanation, not an established apparatus identification.
+
+The [reproducible calculation](check_upton_calculations.py) saves [both conditional routes](../analysis/upton-calculation-dependence.json). Holding the written resistance fixed gives the earlier 119.87 and 106.45 estimates. Recomputing resistance from the apparent preceding ratio instead gives 117.31 and 106.42 lamps per horsepower. The different first-page results are not an uncertainty interval: they answer different conditional questions. Neither is a corrected measurement of the historical lamp. In the ratio reconstruction, P = V*u/6.26, so the two voltage readings and inferred resistance cannot be counted as three independent observations.
+
+### Adjacent context: vacuum faults and other carbon tests
+
+[N085165, S181](https://edisondigital.rutgers.edu/document/N085165), both images visually inspected, includes a Pump No.5 heading dated October 17 and a discussion of mercury handling, bubbles and vacuum loss on p.167. The archive cautiously associates that discussion with the pump; a continuous instrument history through October 22 is not established. These notes demonstrate recorded troubleshooting, not a numerical pressure for the later lamp.
+
+[N085169A, S182](https://edisondigital.rutgers.edu/document/N085169A), its single image visually inspected, actually contains entries dated October 19 and October 21 on p.169, plus preceding text. The latter records a carbon stick, 9 ohms cold and 4 incandescent, followed by a melted platinum-wire failure. A bare number 23 is not assigned an inferred unit here. The October 19 entry describes light in vacuum and a pump break. These are different recorded tests, not an extension of the 13.5-hour thread-lamp duration. Catalog date October 21 does not replace the other visible date. [Image provenance](../data/upton-adjacent-records.json) preserves all three scans and manifests.
+
 Page 177 records breakage and burnt leading wires for thread/lampblack experiments. Page 179 reports that the carbon spirals did not blacken the glass, without a defined observation duration or specimen denominator. The two statements can coexist: absence of visible blackening does not imply long life or freedom from electrical failure.
 
 Upton adds a named participant and quantitative work to the development record. This is evidence of recorded experimentation and calculation, not proof of exclusive invention or an ownership chain. It does not validate the March metal-wire patent assertions. Next recover the circuit and instrument descriptions underlying the 6.26 factor and voltage entries, and establish specimen correspondence before pooling notebook observations. The date correction proposed for Batchelor's page 111 remains separate and unproven by these pages alone.

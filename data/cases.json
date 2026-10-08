@@ -617,6 +617,16 @@
           "source_id": "S180",
           "locator": "N085171 pp.171-179; especially pp.173/175",
           "statement": "Upton records thread-lamp voltage/resistance and power estimates; p.173 inputs do not reproduce its stated lamps per horsepower, while p.175 approximately does. Matching resistance sequence may concern Batchelor's same trial; no independent replication established."
+        },
+        {
+          "source_id": "S181",
+          "locator": "N085165 pp.165/167",
+          "statement": "A dated pump heading and adjacent notes record bubbles and vacuum troubleshooting, without a numerical pressure or established apparatus link to the later thread trial."
+        },
+        {
+          "source_id": "S182",
+          "locator": "N085169A p.169",
+          "statement": "The image includes October 19 and 21 entries, carbon-stick trials and pump/platinum-wire failures; these are not a documented extension of the thread-lamp endurance test."
         }
       ],
       "physical_evidence": "Woodward patent pages 1-3 and Edison specification pages 2-3 visually inspected; no original lamp tested. Selected artifact photographs in S51 inspected; no physical examination or independent object dating. Johnson and Bergmann socket patent drawings and specifications, all three pages each, visually inspected. Edison socket patent 251,554, all five pages, visually inspected. Edison 265,311 all four scan pages visually inspected. N031051 all 21 viewer images and US227229 all three pages visually inspected; no device tested.",
@@ -645,7 +655,7 @@
         "Complete ownership/access chain",
         "Independent performance comparison"
       ],
-      "dependence": "Each scan and its OCR are one record. Two patents document distinct disclosures but do not establish a transmission chain between them. S51 component classifications and photographs are one study lineage; type chronology does not independently date whole objects. S51 filing dates agree with S53/S54, but may derive from those patents; this is verification of the citation, not independent manufacture dating. S56 quotes patents and summarizes Bergmann's recollection; these are not independent experiments or a second inventor witness. Reporter scan and text mirror are one opinion. S175/S176 are successive documents in one development lineage; repeated performance language is not independent experimental replication. S177/S178 are linked entries in one notebook; S179 is their edited derivative. Multiple entries do not establish independent replication. S180 is another notebook from the same laboratory with a matching resistance sequence; specimen correspondence and experimental independence remain unresolved."
+      "dependence": "Each scan and its OCR are one record. Two patents document distinct disclosures but do not establish a transmission chain between them. S51 component classifications and photographs are one study lineage; type chronology does not independently date whole objects. S51 filing dates agree with S53/S54, but may derive from those patents; this is verification of the citation, not independent manufacture dating. S56 quotes patents and summarizes Bergmann's recollection; these are not independent experiments or a second inventor witness. Reporter scan and text mirror are one opinion. S175/S176 are successive documents in one development lineage; repeated performance language is not independent experimental replication. S177/S178 are linked entries in one notebook; S179 is their edited derivative. Multiple entries do not establish independent replication. S180 is another notebook from the same laboratory with a matching resistance sequence; specimen correspondence and experimental independence remain unresolved. Upton resistance values appear to be outputs of a voltage-ratio calculation; do not treat voltage and resistance as independent measured constraints."
     },
     {
       "id": "C008",

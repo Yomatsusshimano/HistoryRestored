@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "source_id": "S181",
+      "document_id": "N085165",
+      "manifest_url": "https://edisondigital.rutgers.edu/iiif/2/N085165/manifest",
+      "manifest_path": "sources/originals/N085165-manifest.json",
+      "manifest_sha256": "71bcfd31de17aeeb6209a830a3be3504cc05d9455c51cc4d70497d726967971d",
+      "license_display": "CC0 1.0 Universal",
+      "images": [
+        {
+          "url": "https://edisondigital.rutgers.edu/files/original/N085165/bi0854.jpg",
+          "path": "sources/originals/N085165-bi0854.jpg",
+          "sha256": "95cd363464bfc7c7ef5976861a6fc22dd59e36603dc6a49612c6552388fb5f65",
+          "right_hand_manuscript_page": 165,
+          "visually_inspected": true
+        },
+        {
+          "url": "https://edisondigital.rutgers.edu/files/original/N085165/bi0855.jpg",
+          "path": "sources/originals/N085165-bi0855.jpg",
+          "sha256": "5d82bc7a029f1f1076bccf0a3f5fd7259ad241377c648ddc4c138a9cc8699ec0",
+          "right_hand_manuscript_page": 167,
+          "visually_inspected": true
+        }
+      ]
+    },
+    {
+      "source_id": "S182",
+      "document_id": "N085169A",
+      "manifest_url": "https://edisondigital.rutgers.edu/iiif/2/N085169A/manifest",
+      "manifest_path": "sources/originals/N085169A-manifest.json",
+      "manifest_sha256": "c5c871bbe606c6c9cddc6c4b73fc090fcabd636ac59e760caf8fa18cc487514a",
+      "license_display": "CC0 1.0 Universal",
+      "images": [
+        {
+          "url": "https://edisondigital.rutgers.edu/files/original/N085169A/bi0856.jpg",
+          "path": "sources/originals/N085169A-bi0856.jpg",
+          "sha256": "ac5f0c602c8806342cea6177a1c830f2d04252c9450b35a9df98b5286c9a2f0c",
+          "right_hand_manuscript_page": 169,
+          "visually_inspected": true
+        }
+      ]
+    }
+  ],
+  "scope": "Three images inspected; selected adjacent entries only."
+}

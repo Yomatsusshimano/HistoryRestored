@@ -1,0 +1,124 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://edisondigital.rutgers.edu/iiif/2/N085169A/manifest",
+    "@type": "sc:Manifest",
+    "label": "[N085169A], Technical Note, Francis Robbins Upton, October 21st, 1879",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[N085169A], Technical Note, Francis Robbins Upton, October 21st, 1879"
+        },
+        {
+            "label": "Author",
+            "value": "Upton, Francis Robbins"
+        },
+        {
+            "label": "Date",
+            "value": "1879-10-21"
+        },
+        {
+            "label": "Type",
+            "value": "Technical Note"
+        },
+        {
+            "label": "Subject",
+            "value": [
+                "Carbon, coal, glass, ceramics",
+                "Incandescent lamp",
+                "Vacuum and glass bulb"
+            ]
+        },
+        {
+            "label": "Folder ID",
+            "value": "[N085-F] Notebook Series -- Menlo Park Notebooks"
+        },
+        {
+            "label": "Microfilm ID",
+            "value": "35:867"
+        },
+        {
+            "label": "Document ID",
+            "value": "N085169A"
+        },
+        {
+            "label": "URL",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;edisondigital.rutgers.edu&#x2F;document&#x2F;N085169A\">https://edisondigital.rutgers.edu/document/N085169A</a>"
+        },
+        {
+            "label": "Rights",
+            "value": "Thomas Edison National Historical Park"
+        },
+        {
+            "label": "Publisher",
+            "value": "Thomas A. Edison Papers, School of Arts and Sciences, Rutgers University"
+        },
+        {
+            "label": "License",
+            "value": "CC0 1.0 Universal"
+        },
+        {
+            "label": "Timestamp",
+            "value": "21 October 1879"
+        },
+        {
+            "label": "Has Version",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;archive.org&#x2F;details&#x2F;edisonmicrofilm35&#x2F;page&#x2F;n876&#x2F;mode&#x2F;1up\">Archive.org Viewer, Microfilm Series Reel 35</a>"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://edisondigital.rutgers.edu/files/medium/N085169A/bi0856.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 1081,
+        "height": 760
+    },
+    "viewingDirection": "left-to-right",
+    "attribution": "CC0 1.0 Universal",
+    "related": {
+        "@id": "https://edisondigital.rutgers.edu/document/N085169A",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://edisondigital.rutgers.edu/api/items/105319",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://edisondigital.rutgers.edu/iiif/2/N085169A/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "canvases": [
+                {
+                    "@id": "https://edisondigital.rutgers.edu/iiif/2/N085169A/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://edisondigital.rutgers.edu/files/medium/N085169A/bi0856.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1081,
+                        "height": 760
+                    },
+                    "width": 1081,
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://edisondigital.rutgers.edu/iiif/2/N085169A/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://edisondigital.rutgers.edu/files/original/N085169A/bi0856.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1081,
+                                "height": 760
+                            },
+                            "on": "https://edisondigital.rutgers.edu/iiif/2/N085169A/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

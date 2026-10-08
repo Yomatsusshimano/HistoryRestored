@@ -808,3 +808,7 @@ Previous turn published verified progress; current tree clean. Recovered N052105
 ### 2026-10-08 — Upton observations and arithmetic audit
 
 Previous turn published verified progress; current tree clean. Recovered N085171 manifest and all five original images, visually inspected pp.171-179 and preserved hashes. Added S180 and paired reported/recalculated values. Page 173 voltage logarithm appears inconsistent with stated 26.5 volts; direct reconstruction yields about 120 versus written 114 lamps per horsepower. Page 175 reproduces approximately 106. Retained inputs, conversion assumptions, uncertain circuit factors, failures and potential shared-trial dependence. No calibrated efficiency, independent replication, exclusive attribution or chronology correction claimed.
+
+### 2026-10-08 — Shared calculation inputs and adjacent failed tests
+
+Previous turn made verified public progress; current tree clean. Inspected live N085 folder index and recovered N085165/N085169A manifests and all three images. Added S181/S182, preserving mixed dates, apparatus-link uncertainty and failures. Reconstructed apparent resistance ratio from S180 rather than treating reported resistance as independent input; retained both conditional numerical paths. Added executable calculation and checked algebraic equivalence. No circuit identity, calibration, corrected historical reading or independent replication claimed.
