@@ -1214,6 +1214,59 @@
         "Independent review"
       ],
       "dependence": "Bonneville abstract cites Electron chronology; shared regional reference data may couple calendar assignments."
+    },
+    {
+      "id": "C021",
+      "title": "Heal Lake reference chronology disagreement",
+      "category": "chronology and tree-ring references",
+      "place": "Heal Lake, southern Vancouver Island, British Columbia",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S79",
+          "locator": "MacBlo methods, Heal Lake comparison",
+          "statement": "Reported 1055 versus 923 final-year matches differ by 132 years; suspected local reference misplacement, not independently reproduced here."
+        },
+        {
+          "source_id": "S81",
+          "locator": "Methods paragraphs 3–5",
+          "statement": "Continuous chronology uses 150 samples; older floating components have radiocarbon placement constraints."
+        },
+        {
+          "source_id": "S82",
+          "locator": "Tables 3.2/3.3; printed pp.26/29",
+          "statement": "Thesis lists 155 sequences and five radiocarbon entries; HLL035 span differs between two tables."
+        }
+      ],
+      "physical_evidence": "Reported living cores and submerged logs; physical wood not inspected.",
+      "surviving_documents": "1996 thesis, 2005 article, 2023 comparison and supplement.",
+      "source_interpretation": "2023 authors suspect an older Heal Lake segment is misdated.",
+      "investigation_inference": "A specific local chronology conflict warrants raw-series and version reconciliation; no universal date conversion follows.",
+      "competing_explanations": [
+        "Misplaced floating segment or incorrect join",
+        "Different data versions or processing",
+        "Other unresolved source/sample errors"
+      ],
+      "counterevidence": "Recent agreement and separate linked radiocarbon pulse evidence oppose treating the whole regional chronology as arbitrarily shifted.",
+      "next_test": "Recover exact Heal Lake raw series and reproduce original and alternative placements with version and calibration controls.",
+      "chronology": {
+        "reported": "132-year disagreement in matched event placement",
+        "dated_object": "Ring-pattern sequence relative to alternative references",
+        "method": "Reported crossdating comparison",
+        "raw_date": "Original widths not recovered; five prior radiocarbon rows retained separately",
+        "uncertainty": "Offset is a reported discrepancy, not an adopted correction",
+        "timescale": "Calendar CE, reported",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Exact raw series and version crosswalk",
+        "Original radiocarbon sheets and full calibrations",
+        "Replicated conflicting matches",
+        "Independent review"
+      ],
+      "dependence": "Later report uses MacBlo and earthquake-tree series already linked in C020 audit; repeated publication is not independent evidence."
     }
   ]
 }

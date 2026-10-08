@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-20 sourced drafts; 0 independent scientific reviews.
+21 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -27,6 +27,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C018 | Ozette Makah houses buried by slides |
 | C019 | Bonneville landslide and drowned Columbia River forest |
 | C020 | Electron Mudflow forest burial and reference chronology |
+| C021 | Heal Lake reference chronology disagreement |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -653,3 +654,33 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 **Chronology:** {"reported": "1507 CE by external crossdating; 1477\u20131522 CE reported 99.7% radiocarbon range", "dated_object": "Wood samples and ring patterns from buried trees", "method": "Radiocarbon wiggle matching and dendrochronology", "raw_date": "Eight assay rows retained in original S2 CSV", "uncertainty": "Release abstract and supplement intervals disagree; illustrated selection known, model not rerun.", "timescale": "Calendar CE, reported", "event_association": "REPORTED_NOT_REVALIDATED"}
 
 **Missing:** ELE045 date-range reconciliation; Sample identity and collection-history crosswalk; Reproduced age model and external ring matching; Independent review
+
+## C021: Heal Lake reference chronology disagreement
+
+Place: Heal Lake, southern Vancouver Island, British Columbia. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Reported 1055 versus 923 final-year matches differ by 132 years; suspected local reference misplacement, not independently reproduced here. [S79](https://doi.org/10.1126/sciadv.adh4973). Locator: MacBlo methods, Heal Lake comparison. Access: FULL_TEXT_PORTION. Limit: Collection logs and wood not inspected; reported chronology anchoring is not independently replicated. Article CAN382 versus linked NOAA CAN682 discrepancy retained.
+- Continuous chronology uses 150 samples; older floating components have radiocarbon placement constraints. [S81](https://doi.org/10.1029/2005GL022913). Locator: Methods paragraphs 3–5. Access: FULL_TEXT_PORTION. Limit: Original annual widths not retrieved. Continuous and floating components have distinct dating status; no climate reconstruction reproduced.
+- Thesis lists 155 sequences and five radiocarbon entries; HLL035 span differs between two tables. [S82](https://hdl.handle.net/1828/20271). Locator: Tables 3.2/3.3; printed pp.26/29. Access: SCAN_INSPECTED. Limit: 99-page PDF only partly inspected. No raw annual widths recovered; 155-sequence table not established identical to later 150-sample dataset. Lab accession IDs and calibration intervals absent from inspected date table.
+
+**Physical evidence:** Reported living cores and submerged logs; physical wood not inspected.
+
+**Surviving documents:** 1996 thesis, 2005 article, 2023 comparison and supplement.
+
+**Source interpretation:** 2023 authors suspect an older Heal Lake segment is misdated.
+
+**Investigation inference:** A specific local chronology conflict warrants raw-series and version reconciliation; no universal date conversion follows.
+
+**Counterevidence:** Recent agreement and separate linked radiocarbon pulse evidence oppose treating the whole regional chronology as arbitrarily shifted.
+
+**Next test:** Recover exact Heal Lake raw series and reproduce original and alternative placements with version and calibration controls.
+
+**Dependence:** Later report uses MacBlo and earthquake-tree series already linked in C020 audit; repeated publication is not independent evidence.
+
+**Alternatives:** Misplaced floating segment or incorrect join; Different data versions or processing; Other unresolved source/sample errors
+
+**Chronology:** {"reported": "132-year disagreement in matched event placement", "dated_object": "Ring-pattern sequence relative to alternative references", "method": "Reported crossdating comparison", "raw_date": "Original widths not recovered; five prior radiocarbon rows retained separately", "uncertainty": "Offset is a reported discrepancy, not an adopted correction", "timescale": "Calendar CE, reported", "event_association": "REPORTED_NOT_REVALIDATED"}
+
+**Missing:** Exact raw series and version crosswalk; Original radiocarbon sheets and full calibrations; Replicated conflicting matches; Independent review

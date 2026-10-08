@@ -1346,9 +1346,39 @@
       "publication_date": "2023-09-27",
       "source_type": "Original research supplement",
       "access": "SCAN_INSPECTED",
-      "inspected": "Table S2 on PDF page 8 rendered and visually inspected; 35 assay rows extracted. Other pages only located by text.",
+      "inspected": "Table S2 on PDF page 8 rendered and visually inspected; 35 assay rows extracted. Other pages only located by text. Figure S3 on PDF page 4 also visually inspected for reference spans and running correlation; not digitized.",
       "limitations": "Published crossdated years accepted as labels; no new blind dating. Assays are from earthquake-killed wood, not the MacBlo reference or Electron trees.",
       "sha256": "160329ac32f2ce9af0b739d54658e1afe63fc5054c72db28754492cf0693918a"
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S81",
+      "title": "Abrupt climate change and variability in the past four millennia of the southern Vancouver Island, Canada",
+      "url": "https://doi.org/10.1029/2005GL022913",
+      "creator": "Qi-Bin Zhang and Richard J. Hebda",
+      "publication_date": "2005-08-25",
+      "source_type": "Original research article",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher HTML methods paragraphs 3–5.",
+      "limitations": "Original annual widths not retrieved. Continuous and floating components have distinct dating status; no climate reconstruction reproduced.",
+      "sha256": null
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S82",
+      "title": "A 2122-year tree-ring chronology of Douglas-fir and spring precipitation reconstruction at Heal Lake, southern Vancouver Island, British Columbia",
+      "url": "https://hdl.handle.net/1828/20271",
+      "creator": "Qibin Zhang",
+      "publication_date": "1996",
+      "source_type": "Original research thesis",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Contents and crossdating chapter text; Tables 3.2 and 3.3 continuation visually checked at printed pp. 26 and 29 (PDF 34 and 37).",
+      "limitations": "99-page PDF only partly inspected. No raw annual widths recovered; 155-sequence table not established identical to later 150-sample dataset. Lab accession IDs and calibration intervals absent from inspected date table.",
+      "sha256": "89e223f6f0f548fc7c2ea1a5c0a112df3dede46f772c1b7aa16049a7c34b5ed8"
     }
   ]
 }

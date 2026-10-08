@@ -1,0 +1,118 @@
+{
+  "case_id": "C021",
+  "source_ids": [
+    "S79",
+    "S80",
+    "S81",
+    "S82"
+  ],
+  "reported_disagreement": {
+    "Heal_Lake_end": 1055,
+    "MacBlo_end": 923,
+    "difference_years": 132,
+    "reproduced": false
+  },
+  "versions": {
+    "thesis_1996_sequences": 155,
+    "article_2005_samples": 150,
+    "exact_membership_reconciled": false
+  },
+  "thesis_download": {
+    "url": "https://dspace.library.uvic.ca/bitstreams/9123a826-bbbc-433f-8a9b-c01944071c2b/download",
+    "bytes": 77409254,
+    "sha256": "89e223f6f0f548fc7c2ea1a5c0a112df3dede46f772c1b7aa16049a7c34b5ed8",
+    "access": "Web tool returned 403; ordinary public download succeeded"
+  },
+  "table32_locator": "S82 printed p.26, PDF34",
+  "dates": [
+    {
+      "sample": "HLL001",
+      "lab_id": null,
+      "rings": [
+        38,
+        49
+      ],
+      "reported_span": 369,
+      "radiocarbon_BP": 330,
+      "reported_error": 50,
+      "calibrated_BP_entries": [
+        320,
+        390,
+        425
+      ],
+      "calibrated_probability_intervals": null
+    },
+    {
+      "sample": "HLL003",
+      "lab_id": null,
+      "rings": [
+        8,
+        12
+      ],
+      "reported_span": 210,
+      "radiocarbon_BP": 1880,
+      "reported_error": 50,
+      "calibrated_BP_entries": [
+        1822
+      ],
+      "calibrated_probability_intervals": null
+    },
+    {
+      "sample": "HLL035",
+      "lab_id": null,
+      "rings": [
+        30,
+        39
+      ],
+      "reported_span": 287,
+      "radiocarbon_BP": 410,
+      "reported_error": 50,
+      "calibrated_BP_entries": [
+        497
+      ],
+      "calibrated_probability_intervals": null
+    },
+    {
+      "sample": "HLL051",
+      "lab_id": null,
+      "rings": [
+        47,
+        52
+      ],
+      "reported_span": 240,
+      "radiocarbon_BP": 1650,
+      "reported_error": 50,
+      "calibrated_BP_entries": [
+        1545
+      ],
+      "calibrated_probability_intervals": null
+    },
+    {
+      "sample": "HLL548",
+      "lab_id": null,
+      "rings": [
+        50,
+        59
+      ],
+      "reported_span": 175,
+      "radiocarbon_BP": 1200,
+      "reported_error": 50,
+      "calibrated_BP_entries": [
+        1103
+      ],
+      "calibrated_probability_intervals": null
+    }
+  ],
+  "span_discrepancy": {
+    "sample": "HLL035",
+    "table32_span": 287,
+    "table33_span": 284,
+    "table33_years": [
+      1424,
+      1707
+    ],
+    "resolved": false
+  },
+  "raw_annual_measurements_recovered": false,
+  "global_chronology_shift_established": false
+}
