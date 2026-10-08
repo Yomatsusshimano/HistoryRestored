@@ -1090,6 +1090,48 @@
         "Independent review"
       ],
       "dependence": "Nomination synthesizes excavation reports; museum summarizes the same site. These are not independent field replications. Later 1700 attributions are separate reported interpretations, not independent dates; direct textual dependence between these accounts is unestablished."
+    },
+    {
+      "id": "C019",
+      "title": "Bonneville landslide and drowned Columbia River forest",
+      "category": "landslides, river change and chronology",
+      "place": "Columbia River Gorge, Oregon and Washington",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S68",
+          "locator": "Table 1 p. 70; methods/results p. 78",
+          "statement": "Nine wood assays from three trees are combined with ring offsets into a reported 1421–1455 CE three-sigma death interval; analysis not independently rerun."
+        }
+      ],
+      "physical_evidence": "Reported entrained tree and two drowned trees; specimens not inspected.",
+      "surviving_documents": "2022 research paper and cited historical sample records; original records not yet audited.",
+      "source_interpretation": "Landslide burial and upstream inundation killed the trees in the same year.",
+      "investigation_inference": "Conditional on the model, this landscape disruption is distinct from Cascadia 1700.",
+      "competing_explanations": [
+        "Slope failure with river impoundment",
+        "Hydrological or seismic trigger, unresolved"
+      ],
+      "counterevidence": "Published combined chronology conflicts with assigning this slide to 1700; does not determine the Ozette burial date.",
+      "next_test": "Retrieve ring-width supplement and model code; reproduce relative alignment, assess missing-ring and calibration sensitivity, and audit sample preservation.",
+      "chronology": {
+        "reported": "1421–1455 CE at reported three sigma",
+        "dated_object": "Ring-defined wood samples from three Douglas-fir trees",
+        "method": "Radiocarbon calibration, ring offsets and combined distributions",
+        "raw_date": "Nine determinations in data/bonneville-dates.json",
+        "uncertainty": "Model-dependent interval; not rerun",
+        "timescale": "Calibrated CE",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Raw-series alignment reproduction",
+        "OxCal model reproduction",
+        "Original sample custody and pretreatment audit",
+        "Independent review"
+      ],
+      "dependence": "Shared calibration and event model; repeated assays within trees. Relative ring matching does not independently supply an absolute year."
     }
   ]
 }

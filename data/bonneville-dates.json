@@ -1,0 +1,112 @@
+{
+  "case_id": "C019",
+  "source_id": "S68",
+  "status": "SOURCED_DRAFT",
+  "locator": "Table 1 continuation, printed p. 70 / PDF p. 6",
+  "samples": [
+    {
+      "tree": "Powerhouse",
+      "sample_label": "C 2-6",
+      "lab_id": "WW-5346",
+      "conventional_BP": 655,
+      "error_1sigma": 30,
+      "offset_to_final_ring_years": 132
+    },
+    {
+      "tree": "Powerhouse",
+      "sample_label": "C 130-134",
+      "lab_id": "WW-5347",
+      "conventional_BP": 470,
+      "error_1sigma": 30,
+      "offset_to_final_ring_years": 4
+    },
+    {
+      "tree": "Wyeth",
+      "sample_label": "X-1 (8-17)",
+      "lab_id": "CAMS-83271",
+      "conventional_BP": 560,
+      "error_1sigma": 40,
+      "offset_to_final_ring_years": 114.5
+    },
+    {
+      "tree": "Wyeth",
+      "sample_label": "X-2 (104-113)",
+      "lab_id": "CAMS-83272",
+      "conventional_BP": 525,
+      "error_1sigma": 40,
+      "offset_to_final_ring_years": 18.5
+    },
+    {
+      "tree": "Wyeth",
+      "sample_label": "X 1-5",
+      "lab_id": "WW-5349",
+      "conventional_BP": 625,
+      "error_1sigma": 30,
+      "offset_to_final_ring_years": 124
+    },
+    {
+      "tree": "Wyeth",
+      "sample_label": "X 119-123",
+      "lab_id": "WW-5350",
+      "conventional_BP": 490,
+      "error_1sigma": 45,
+      "offset_to_final_ring_years": 6
+    },
+    {
+      "tree": "Perham Creek",
+      "sample_label": "1-1 (6-15)",
+      "lab_id": "CAMS-83273",
+      "conventional_BP": 870,
+      "error_1sigma": 60,
+      "offset_to_final_ring_years": 200.5
+    },
+    {
+      "tree": "Perham Creek",
+      "sample_label": "1-2 (87-96)",
+      "lab_id": "CAMS-84538",
+      "conventional_BP": 670,
+      "error_1sigma": 40,
+      "offset_to_final_ring_years": 119.5
+    },
+    {
+      "tree": "Perham Creek",
+      "sample_label": "1 (66-70)",
+      "lab_id": "WW-5348",
+      "conventional_BP": 675,
+      "error_1sigma": 30,
+      "offset_to_final_ring_years": 143
+    }
+  ],
+  "material": "Douglas-fir wood",
+  "offset_uncertainty_years": 1,
+  "conventions": "Corrected conventional radiocarbon ages; BP reference 1950; Libby half-life 5568 years. Offsets from ring centroids to final growth include inferred missing rings.",
+  "reported_model": {
+    "software": "OxCal 4.4.2",
+    "curve": "IntCal20",
+    "operations": [
+      "calibrate",
+      "Offset",
+      "Combine"
+    ],
+    "calendar_CE_2sigma": [
+      1426,
+      1448
+    ],
+    "calendar_CE_3sigma": [
+      1421,
+      1455
+    ],
+    "perham_missing_outer_rings": 25,
+    "reproduced": false
+  },
+  "dependencies": [
+    "Nine assays are from three trees, not nine independent events",
+    "Common calibration curve and same-death-year combination",
+    "Perham missing-ring count inferred from historical counts and crossdating"
+  ],
+  "limitations": [
+    "Historical provenance and treatment history require independent audit",
+    "All older Table 1 determinations not extracted",
+    "Reported intervals are model results, not raw measurements"
+  ]
+}

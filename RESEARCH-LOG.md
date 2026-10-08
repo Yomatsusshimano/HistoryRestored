@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Bonneville event comparison
+
+Previous turn made progress: 1adf486 published seven byte-verified files. Clean checkout confirmed. Downloaded Reynolds et al. 2022 and inspected selected text; visually checked Table 1 continuation and methods/results on printed pp. 70 and 78. Added C019/S68 and nine assay records, retaining ring offsets, missing outer rings and common calibration/model assumptions. Published interval separates this event from 1700 conditional on the study model; no new trigger identification or independent model reproduction claimed. Nineteen sourced drafts, sixty-eight sources.
+
 ## 2026-10-08 - Ozette 1700 attribution audit
 
 Previous turn made progress: bda8d9e published seven byte-verified files. Clean checkout confirmed. NTIS report-detail retrieval failed; USGS 1988 report returned 403, so neither full text is claimed inspected. Retrieved Wessen project-history body and WSU 2009 article HTML (ordinary shell fetch succeeded after web fetch failed). Their earthquake attributions differ in qualification: WSU reports a likely exact date, Wessen asserts the year. Neither inspected account supplies sample-level dating linkage. Added S66/S67 and attribution ledger; do not count repeated dates as independent corroboration or infer historical fabrication from differences in wording. Eighteen drafts and sixty-seven sources; original assay and field-report audit remains pending.

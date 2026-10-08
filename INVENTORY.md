@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-18 sourced drafts; 0 independent scientific reviews.
+19 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -25,6 +25,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C016 | Thistle Creek horse chronology and calibration dependence |
 | C017 | Lake Cahuilla deposits versus a proposed marine passage |
 | C018 | Ozette Makah houses buried by slides |
+| C019 | Bonneville landslide and drowned Columbia River forest |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -587,3 +588,31 @@ Place: Ozette, Olympic Peninsula, Washington. Status: SOURCED_DRAFT.
 **Chronology:** {"reported": "810 \u00b1 70, 790 \u00b1 80 and 440 \u00b1 90 BP for different contexts; museum separately reports 500 \u00b1 50 BP.", "dated_object": "Charcoal for WSU 1777; materials unspecified in inspected passage for other samples", "method": "Reported radiocarbon; not recalibrated", "raw_date": null, "uncertainty": null, "timescale": "Reported BP, calendar placement unresolved", "event_association": "REPORTED_NOT_REVALIDATED"}
 
 **Missing:** Original section drawings and context sheets; Laboratory certificates and calibration; Original oral-history recording and provenance; Independent review
+
+## C019: Bonneville landslide and drowned Columbia River forest
+
+Place: Columbia River Gorge, Oregon and Washington. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Nine wood assays from three trees are combined with ring offsets into a reported 1421–1455 CE three-sigma death interval; analysis not independently rerun. [S68](https://doi.org/10.1017/qua.2022.7). Locator: Table 1 p. 70; methods/results p. 78. Access: SCAN_INSPECTED. Limit: No physical specimen inspection, laboratory-certificate audit, raw crossdating or OxCal rerun. Earlier determinations on p. 69 not extracted.
+
+**Physical evidence:** Reported entrained tree and two drowned trees; specimens not inspected.
+
+**Surviving documents:** 2022 research paper and cited historical sample records; original records not yet audited.
+
+**Source interpretation:** Landslide burial and upstream inundation killed the trees in the same year.
+
+**Investigation inference:** Conditional on the model, this landscape disruption is distinct from Cascadia 1700.
+
+**Counterevidence:** Published combined chronology conflicts with assigning this slide to 1700; does not determine the Ozette burial date.
+
+**Next test:** Retrieve ring-width supplement and model code; reproduce relative alignment, assess missing-ring and calibration sensitivity, and audit sample preservation.
+
+**Dependence:** Shared calibration and event model; repeated assays within trees. Relative ring matching does not independently supply an absolute year.
+
+**Alternatives:** Slope failure with river impoundment; Hydrological or seismic trigger, unresolved
+
+**Chronology:** {"reported": "1421\u20131455 CE at reported three sigma", "dated_object": "Ring-defined wood samples from three Douglas-fir trees", "method": "Radiocarbon calibration, ring offsets and combined distributions", "raw_date": "Nine determinations in data/bonneville-dates.json", "uncertainty": "Model-dependent interval; not rerun", "timescale": "Calibrated CE", "event_association": "REPORTED_NOT_REVALIDATED"}
+
+**Missing:** Raw-series alignment reproduction; OxCal model reproduction; Original sample custody and pretreatment audit; Independent review
