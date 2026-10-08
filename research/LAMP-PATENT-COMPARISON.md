@@ -62,3 +62,15 @@ Bergmann explicitly cites Johnson's patent on PDF p. 2, right column, in describ
 The comparison supports naming Johnson and Bergmann for these specific disclosures alongside Edison and Woodward. It does not establish that they were erased from history: S51 already names them, and S52's catalog title names Johnson. Nor should Johnson's five claims be summarized as a claim to every bevel-ring lamp feature. Technical disclosure, legal claim scope, commercial manufacture and museum attribution require separate evidence.
 
 S51 labels its Base IV type 1881 while citing the February 1882 application. The patent confirms the latter date but does not independently verify or disprove the earlier type date. Likewise, a May 1881 filing does not rule out S52's February 1881 object attribution. Original notebooks, manufacturing records and accession documentation are needed to resolve those object-level dates. No recovered ancient apparatus, broad credit-rewriting mechanism or global chronology break follows from these records.
+
+## Earlier Edison socket disclosure narrows the attribution
+
+[Edison 251,554](../sources/originals/US251554.pdf) (S55), all five pages visually inspected, was signed March 7, filed March 26 and granted December 27, 1881. The heading names Edison as assignor to Edison Electric Light Company. Figure 1 and the specification disclose a threaded lamp contact and a second band contacted by a controller. Other variants use spring retention. The stated problem is secure attachment when lamps hang or lie horizontally. Six claims address retention, contacts and controller construction; this is not a performance test.
+
+| Feature under comparison | Earliest inspected disclosure in this socket subset | Attribution limit |
+| --- | --- | --- |
+| Threaded lamp retention and two contact bands | Edison S55, PDF pp. 1, 3-4 | Earlier filing than Johnson; not an exhaustive search for first invention |
+| Two detachable socket-body sections and contained safety catch | Johnson S53, PDF pp. 2-3, claims 1-2 | Different from detaching a lamp from its holder |
+| Compression between threaded side contact and bottom terminal | Bergmann S54, PDF pp. 2-3, claims 1-2 | Stated cracking remedy; measured reliability remains unknown |
+
+Edison and Johnson share a grant date despite different filing dates. This prevents ordering their development by grant date alone. Edison's specification cites earlier application 2,172, whose underlying file has not been inspected here. A claim of absolute priority would require that record and a wider antecedent search. The three documents support distinguishable contributions, not a demonstrated Edison-to-Johnson transmission path or proof of erased authorship.

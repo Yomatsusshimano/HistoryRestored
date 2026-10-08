@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Edison socket antecedent and feature-level credit
+
+Previous turn made progress: 138aec0 published eight byte-verified files. Clean checkout rechecked. Retrieved Edison 251,554 through Google Patents, preserved and hashed its public scan, and visually inspected all five pages with the PDF workflow. Added S55.
+
+March 26, 1881 filing precedes Johnson's May filing although both grants date December 27. Threaded retention and two contacts already appear in Edison's disclosure. Distinguished removable lamp/holder from Johnson's detachable socket-body sections and Bergmann's compression contacts. Earlier application 2,172 remains uninspected, so no absolute priority claim. Patent statements are not performance measurements or manufacture dates. Seventeen drafts, fifty-five sources; full investigation and independent review remain incomplete.
+
 ## 2026-10-08 - Johnson and Bergmann socket disclosures
 
 Previous turn was no progress: model-switch acknowledgment only. Revalidated clean checkout and resumed available primary-source work. Google Patents web retrieval failed for Johnson, but ordinary HTTP access supplied its PDF link; both public scans downloaded and hashed. Visually inspected all three pages of each with the PDF workflow. Added S53-S54 and preserved original scans.

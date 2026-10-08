@@ -958,6 +958,21 @@
       "sha256": "fd7b0630f8125443ef5dcaa9c3e84d901f0ef99f7889c1a3893ca266573fa42e",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S55",
+      "title": "US251554: Electric lamp and socket or holder",
+      "url": "https://patentimages.storage.googleapis.com/b4/b3/83/dbcc7d44f83b7e/US251554.pdf",
+      "creator": "Thomas A. Edison; heading identifies assignment to Edison Electric Light Company",
+      "publication_date": "1881-12-27",
+      "source_type": "United States patent, original printed record scan via Google Patents",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All five PDF pages: two drawing sheets, specification, six claims and signature; filing date on PDF p. 3.",
+      "limitations": "Disclosed constructions and inventor assertions, not measured performance or exhaustive priority determination. Referenced earlier application 2172 not inspected.",
+      "local_copy": "sources/originals/US251554.pdf",
+      "sha256": "ac4a81569ca0f2f5a992e2917d0580b6679f60a2d056046ade01fbdfd9ea356c",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
