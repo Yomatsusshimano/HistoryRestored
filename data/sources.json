@@ -119,15 +119,15 @@
       "publication_date": null,
       "source_type": "curatorial interpretation",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "California as an Island section and its caption",
-      "limitations": "The section captions a 1639 map. Identity with S06's ca. 1650 item not established; original exploration accounts unread.",
+      "inspected": "California as an Island section, caption, and outbound map link, which targets LOC item 99443375.",
+      "limitations": "Caption gives 1639 while the linked item is indexed as ca. 1650. Link identity established; date discrepancy unresolved. Original exploration accounts and map scan unread.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     },
     {
       "id": "S08",
-      "title": "Vue de la tour Eiffel en construction le 10 février 1888",
+      "title": "Vue de la tour Eiffel en construction le 10 f\u00e9vrier 1888",
       "url": "https://www.parismuseescollections.paris.fr/en/node/587811",
       "creator": "Paris Musees collection catalog",
       "publication_date": null,
@@ -243,6 +243,34 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S15",
+      "title": "Carte de la Californie, LOC item 2006627665",
+      "url": "https://www.loc.gov/item/2006627665",
+      "creator": "Library of Congress",
+      "publication_date": null,
+      "source_type": "historical map catalog record",
+      "access": "CATALOG_METADATA",
+      "inspected": "Title, creator, creation date, notes, call number, digital ID and rights fields.",
+      "limitations": "Catalog metadata only; scan retrieval failed. Catalog date 1770 differs from the linked exhibition date ca. 1779; edition relationship unresolved.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S16",
+      "title": "Los Angeles Mapped: California as an Island and The Baja Peninsula",
+      "url": "https://www.loc.gov/exhibits/lamapped/lamapped-exhibit.html#obj1",
+      "creator": "Library of Congress",
+      "publication_date": null,
+      "source_type": "curatorial interpretation",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Sections obj1-obj2, captions and outbound item links.",
+      "limitations": "Exhibition captions are not independent surveys. Dates differ from linked catalog metadata; original images and editorial dating rationale unreviewed.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

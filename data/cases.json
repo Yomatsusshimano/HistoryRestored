@@ -212,34 +212,44 @@
           "source_id": "S07",
           "locator": "California as an Island section",
           "statement": "The exhibition explains island depictions as geographic error and captions a 1639 map."
+        },
+        {
+          "source_id": "S16",
+          "locator": "California as an Island caption and outbound item link (obj1)",
+          "statement": "The 1639 caption links to item 99443375, the same catalog identifier used in S06."
+        },
+        {
+          "source_id": "S15",
+          "locator": "Title, Notes, Created/Published and Digital Id",
+          "statement": "The catalog identifies one comparison sheet with five representations attributed to earlier maps; its creation field gives 1770."
         }
       ],
       "physical_evidence": "No original scan or geological transect inspected.",
-      "surviving_documents": "Map catalog and separate exhibition interpretation.",
+      "surviving_documents": "Catalog entries and exhibition captions with traceable item links; no original scan inspected.",
       "source_interpretation": "Curators describe a propagated geographic misconception.",
       "investigation_inference": "Audit map lineages and physical coast evidence; do not treat drawn water as a surveyed former strait.",
       "competing_explanations": [
         "Cartographic error/copying",
         "A former waterway if independently evidenced"
       ],
-      "counterevidence": "The two source dates must not be fused until item identity is established.",
-      "next_test": "Inspect map scans/identifiers, related editions and exploration records; define a geological transect.",
+      "counterevidence": "The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.",
+      "next_test": "Retrieve scans and edition provenance; identify the basis for catalog/exhibition dates; compare original source maps and exploration observations before selecting a physical transect.",
       "chronology": {
-        "reported": "S06 ca. 1650; S07 caption 1639",
+        "reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.",
         "dated_object": "Catalog/exhibition map dates",
         "method": "Catalog attribution",
         "raw_date": null,
-        "uncertainty": "Approximate or differing item identity",
+        "uncertainty": "Same-item links verified; map creation/edition dating discrepancies unresolved.",
         "timescale": "CE",
         "event_association": "UNTESTED"
       },
       "missing": [
-        "Original scan",
-        "Item identity comparison",
-        "Survey lineage",
+        "Original scans",
+        "Date-attribution and edition rationale",
+        "Original source-map and survey lineage",
         "Ground-truth deposits"
       ],
-      "dependence": "Copied maps can share a single error. Catalog and exhibit are not independent coastal measurements."
+      "dependence": "Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines."
     },
     {
       "id": "C006",

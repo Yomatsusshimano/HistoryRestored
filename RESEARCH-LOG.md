@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - California catalog and source-lineage audit
+
+Previous goal turn made progress: Arctic chronology update 3b779d3 was published, with public file bytes matched against committed blobs. This turn verified that two LOC exhibition captions naming 1639 link to the same item 99443375 whose indexed catalog description gives ca. 1650. The previous uncertainty about item-link identity is narrowed; the date discrepancy is not resolved.
+
+The Los Angeles Mapped exhibition also links comparison plate 2006627665. Its directly inspected catalog gives 1770, while the exhibition describes ca. 1779. The catalog title begins its attributed source-map sequence at 1604; exhibition prose starts at 1606. These are recorded as unresolved attribution/edition discrepancies. One compilation containing five representations is not five independent surveys.
+
+Search: LOC California island map 1650 1639. Inspected the American Treasures California section, Los Angeles Mapped first map sections, outgoing item targets and comparison-plate catalog metadata. Direct item/image/manifest retrieval attempts returned 403 errors. No image was visually inspected or publicly redistributed. Source records S15-S16 and research/CALIFORNIA-MAP-AUDIT.md retain these limits. The archive now has nine cases and sixteen sources; no reconstructed coastline follows from this metadata audit.
+
 ## 2026-10-08 - Arctic dating and sedimentary DNA audit
 
 Progress beyond the initial release: the camel paper's main text and supplement were retrieved successfully, superseding the earlier access limitation below. Supplement Tables S3-S4 (pages 9-10) were rendered and visually checked; methods on pages 11-12 were read as extracted text. The archive now contains nine case drafts and fourteen source records. Newly retrieved papers remain linked, not redistributed in full.

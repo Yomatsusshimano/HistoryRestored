@@ -138,27 +138,29 @@ Place: California/Baja California as depicted in a manuscript map. Status: SOURC
 **Sourced statements**
 
 - A cataloged map depicts California as an island and is dated approximately 1650. [S06](https://www.loc.gov/item/99443375). Locator: Item 99443375: title and Created/Published field. Access: SEARCH_EXCERPT. Limit: Direct item retrieval 403/error; original scan not inspected. Approximate catalog creation date is ca. 1650.
-- The exhibition explains island depictions as geographic error and captions a 1639 map. [S07](https://www.loc.gov/exhibits/treasures/tr11a.html#obj38). Locator: California as an Island section. Access: FULL_TEXT_PORTION. Limit: The section captions a 1639 map. Identity with S06's ca. 1650 item not established; original exploration accounts unread.
+- The exhibition explains island depictions as geographic error and captions a 1639 map. [S07](https://www.loc.gov/exhibits/treasures/tr11a.html#obj38). Locator: California as an Island section. Access: FULL_TEXT_PORTION. Limit: Caption gives 1639 while the linked item is indexed as ca. 1650. Link identity established; date discrepancy unresolved. Original exploration accounts and map scan unread.
+- The 1639 caption links to item 99443375, the same catalog identifier used in S06. [S16](https://www.loc.gov/exhibits/lamapped/lamapped-exhibit.html#obj1). Locator: California as an Island caption and outbound item link (obj1). Access: FULL_TEXT_PORTION. Limit: Exhibition captions are not independent surveys. Dates differ from linked catalog metadata; original images and editorial dating rationale unreviewed.
+- The catalog identifies one comparison sheet with five representations attributed to earlier maps; its creation field gives 1770. [S15](https://www.loc.gov/item/2006627665). Locator: Title, Notes, Created/Published and Digital Id. Access: CATALOG_METADATA. Limit: Catalog metadata only; scan retrieval failed. Catalog date 1770 differs from the linked exhibition date ca. 1779; edition relationship unresolved.
 
 **Physical evidence:** No original scan or geological transect inspected.
 
-**Surviving documents:** Map catalog and separate exhibition interpretation.
+**Surviving documents:** Catalog entries and exhibition captions with traceable item links; no original scan inspected.
 
 **Source interpretation:** Curators describe a propagated geographic misconception.
 
 **Investigation inference:** Audit map lineages and physical coast evidence; do not treat drawn water as a surveyed former strait.
 
-**Counterevidence:** The two source dates must not be fused until item identity is established.
+**Counterevidence:** The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.
 
-**Next test:** Inspect map scans/identifiers, related editions and exploration records; define a geological transect.
+**Next test:** Retrieve scans and edition provenance; identify the basis for catalog/exhibition dates; compare original source maps and exploration observations before selecting a physical transect.
 
-**Dependence:** Copied maps can share a single error. Catalog and exhibit are not independent coastal measurements.
+**Dependence:** Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines.
 
 **Alternatives:** Cartographic error/copying; A former waterway if independently evidenced
 
-**Chronology:** {"reported": "S06 ca. 1650; S07 caption 1639", "dated_object": "Catalog/exhibition map dates", "method": "Catalog attribution", "raw_date": null, "uncertainty": "Approximate or differing item identity", "timescale": "CE", "event_association": "UNTESTED"}
+**Chronology:** {"reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.", "dated_object": "Catalog/exhibition map dates", "method": "Catalog attribution", "raw_date": null, "uncertainty": "Same-item links verified; map creation/edition dating discrepancies unresolved.", "timescale": "CE", "event_association": "UNTESTED"}
 
-**Missing:** Original scan; Item identity comparison; Survey lineage; Ground-truth deposits
+**Missing:** Original scans; Date-attribution and edition rationale; Original source-map and survey lineage; Ground-truth deposits
 
 ## C006: Eiffel Tower construction photograph lead
 
