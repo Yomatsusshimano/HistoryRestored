@@ -92,3 +92,18 @@ On p. 407, the court summarizes Bergmann's testimony, noting that the defendant 
 The scan also prevents a transcription error from entering the inventory: the OpenJurist HTML headnote displayed Edison **205,311**, while the printed headnote, opinion and disposition identify **265,311**. The HTML Johnson section heading displayed **251,598**, whereas the scan reads **251,596**. These are local text discrepancies resolved against the image, not evidence of a rewritten historical chronology.
 
 The judgment is primary evidence of what this court decided and reported. Its repeated patent language is not another independent invention record, and its summary of the same inventor's recollection is not independent verification of his account. Nevertheless, it materially narrows the public claim: granted claims can fail scrutiny, other claims can survive, and ownership by Edison Electric Light Company does not make Edison the named inventor of every patent. Next seek the testimony/exhibits, factory correspondence and original 265,311 disclosure. No fabricated-history mechanism is established by this suit.
+
+## Filing order differs from grant order
+
+The [original 265,311 scan](../sources/originals/US265311.pdf) (S57), all four pages visually inspected, confirms the earlier filing reported in court. Its heading gives February 5, 1880 application, August 14, 1882 renewal and October 3, 1882 grant; the signature is dated January 28, 1880. It describes a removable lamp with spring contacts against socket plates and a screw-operated circuit controller. The fixture attachment is threaded; the illustrated lamp-to-holder connection is not the threaded lamp base in S55. Claims 2-3 on PDF p. 4 match the claims considered in S56.
+
+| Patent | Application filed | Renewal explicitly reported | Grant |
+| --- | --- | --- | --- |
+| Edison 265,311 (S57) | 1880-02-05 | 1882-08-14 | 1882-10-03 |
+| Edison 251,554 (S55) | 1881-03-26 | Not recorded here | 1881-12-27 |
+| Johnson 251,596 (S53) | 1881-05-27 | Not recorded here | 1881-12-27 |
+| Bergmann 257,277 (S54) | 1882-02-25 | Not recorded here | 1882-05-02 |
+
+The [structured chronology](../data/lamp-patent-chronology.json) preserves date roles and nulls. Comparing each pair yields three strict reversals between filing and grant order: 265,311 versus each other entry. A grant-only sequence would therefore invert the earlier application's position. Renewal is documented; why examination took that interval and what amendments occurred require the prosecution file. The final granted text is not assumed identical to the first-filed text.
+
+Application 2,172 remains unlinked. Searches combining that number with Edison, socket and 265,311 recovered no authoritative crosswalk. Similarity between the spring-contact design and S55's description of its antecedent makes 265,311 a candidate, not an established identity. Its printed internal label is Case No. 201, a distinct identifier. No missing document is treated as proof of concealment, and no first-invention date is inferred from filing alone.

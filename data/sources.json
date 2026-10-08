@@ -989,6 +989,21 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "text_mirror": "https://openjurist.org/60/f1d/401/edison-electric-light-co-v-electric-engineering-supply-co"
+    },
+    {
+      "id": "S57",
+      "title": "US265311: Electric lamp and holder for the same",
+      "url": "https://patentimages.storage.googleapis.com/56/43/40/fe9d057720a624/US265311.pdf",
+      "creator": "Thomas A. Edison; heading identifies assignment to Edison Electric Light Company",
+      "publication_date": "1882-10-03",
+      "source_type": "United States patent, original printed record scan via Google Patents",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All four PDF pages: drawings, heading, specification, six claims and signature.",
+      "limitations": "Prosecution file, initial filed text, model, foreign patent originals and performance not inspected. Mapping to application 2172 unresolved; printed Case No. 201 is not assumed equivalent.",
+      "local_copy": "sources/originals/US265311.pdf",
+      "sha256": "eef30a1d1f96f69b33950d484370c40d523d30ba7e632df4bc9b5fbe19ed72eb",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

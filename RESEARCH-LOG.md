@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Holder patent and documentary date-order test
+
+Previous turn made progress: 663c8b4 published seven byte-verified files. Clean checkout rechecked. Downloaded and visually inspected all four pages of Edison 265,311, S57. Confirmed 1880 filing, 1882 renewal/grant, spring-contact construction and claims cited in the judgment.
+
+Extracted four socket patent chronologies from inspected originals and computed three strict pairwise filing/grant order reversals. This is a documentary-order check, not first-invention dating. Application-2172 searches did not establish a crosswalk; the similar design remains a candidate only. Renewal reason and initial-to-granted text amendments require prosecution records. Seventeen drafts, fifty-seven sources; independent review absent.
+
 ## 2026-10-08 - Socket claims under adversarial scrutiny
 
 Previous turn made progress: c123a35 published seven byte-verified files. Clean checkout rechecked. Read the OpenJurist opinion, then downloaded the correct 60 F. 401 reporter scan; the initially inspected 399 file covered a preceding case and was not used as evidence. Visually inspected this case across printed pp. 401-408 and preserved the scan as S56.

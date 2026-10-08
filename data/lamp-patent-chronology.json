@@ -1,0 +1,63 @@
+{
+  "case_id": "C007",
+  "status": "SOURCED_DRAFT",
+  "date_basis": "Printed patent records; distinct documentary events, not manufacture or first conception",
+  "records": [
+    {
+      "patent": "US265311",
+      "source_id": "S57",
+      "signed": "1880-01-28",
+      "filed": "1880-02-05",
+      "renewed": "1882-08-14",
+      "granted": "1882-10-03",
+      "locator": "PDF pp. 3-4"
+    },
+    {
+      "patent": "US251554",
+      "source_id": "S55",
+      "signed": "1881-03-07",
+      "filed": "1881-03-26",
+      "renewed": null,
+      "granted": "1881-12-27",
+      "locator": "PDF pp. 3, 5"
+    },
+    {
+      "patent": "US251596",
+      "source_id": "S53",
+      "signed": "1881-05-19",
+      "filed": "1881-05-27",
+      "renewed": null,
+      "granted": "1881-12-27",
+      "locator": "PDF pp. 2-3"
+    },
+    {
+      "patent": "US257277",
+      "source_id": "S54",
+      "signed": "1882-02-20",
+      "filed": "1882-02-25",
+      "renewed": null,
+      "granted": "1882-05-02",
+      "locator": "PDF pp. 2-3"
+    }
+  ],
+  "strict_filing_grant_order_reversals": [
+    [
+      "US265311",
+      "US251554"
+    ],
+    [
+      "US265311",
+      "US251596"
+    ],
+    [
+      "US265311",
+      "US257277"
+    ]
+  ],
+  "limits": [
+    "Null renewal means not recorded in this extraction, not proof no renewal occurred",
+    "Grant text not assumed identical to initial filed text",
+    "Application 2172 not mapped to US265311",
+    "Selected four patents do not establish absolute priority"
+  ]
+}
