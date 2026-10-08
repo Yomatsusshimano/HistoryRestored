@@ -38,3 +38,6 @@ No Bouse result by itself establishes H2-G, the northern connection depicted on 
 Detailed support: [chronology](BOUSE-CHRONOLOGY.md), [RD-16](RD16-BASALT.md), [argon](LAWLOR-ARGON-AUDIT.md), [zircon](LAWLOR-ZIRCON-CHECK.md), [oxygen](ZIRCON-OXYGEN-CHECK.md), [ash sections](BOUSE-ASH-STRATIGRAPHY.md). Existing rows and code checks remain source audits rather than independent scientific validation.
 
 The [Bullhead younger-constraint audit](BULLHEAD-YOUNGER-CONSTRAINTS.md) now identifies specific northern regional tephra, burial and basalt targets from S208, with a later chronology challenge from S209. These are useful bracket candidates; original analyses and transfer to Hart Mine Wash remain pending.
+
+
+The [Lost Cabin sediment audit](LOST-CABIN-SEDIMENTS.md) now separates inherited ash dates from reported exposure horizons. Neither uncertain age transfer nor reworking removes the need to explain the physical sequence.

@@ -322,3 +322,6 @@ S211 Table2 candidate extraction published:168 numeric N/R rows and22 other spec
 
 
 S211 Table2 scan pass completed; no missing normal pair recovered. Three equal-weight block checks: WC1 matches, WC2/LCW28 differ. Next original input/export and processing settings; avoid ad hoc membership fitting. Continue separate ash/bed constraints while this reproducibility issue stays open.
+
+
+S211 sediment settings inspected: LCW-ASH2/3 interpreted reworked; RC15-LCW-111 thin-bed context and height variants retained. Next analytical youngest-grain crosswalk and in-place versus transported exposure surfaces. Full-section one-pulse and later reworking models require different contacts; do not conflate them.

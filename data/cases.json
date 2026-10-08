@@ -578,6 +578,11 @@
           "source_id": "S211",
           "locator": "Table2 printed40-49, especially44 and48",
           "statement": "Table scans preserve unusual labels and unresolved pooled mismatch. Equal-weight site means reproduce WC1 but not WC2 or LCW28; three selected checks are not a study-wide error rate. Actual inputs and processing remain needed; original values not changed to force agreement."
+        },
+        {
+          "source_id": "S211",
+          "locator": "printed20-21,27-28,96; research/LOST-CABIN-SEDIMENTS.md",
+          "statement": "Author interprets LCW-ASH2/3 as reworked older material and reports burrows, mudcracks and soil horizons in sediment sequence. Inherited crystal ages are not direct depositional dates; verified in-place interbedded exposure would challenge uninterrupted single-flood deposition without by itself supplying duration. Field verification and youngest-grain crosswalk remain pending."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

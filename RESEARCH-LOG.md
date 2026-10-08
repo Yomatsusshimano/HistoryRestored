@@ -958,3 +958,8 @@ Previous turn made verified public progress; clean tree confirmed. Extracted Tab
 ### 2026-10-08 — Directional-table scan review
 
 Previous turn made verified public progress; clean tree confirmed. Visually inspected remaining eight Table2 pages; earlier HWW pages already checked. Confirmed source labels rather than silently correcting them. Three explicit site-block computations retain one successful control and two conditional mismatches. No missing directional values guessed, no author processing inferred, no significance recalculated. Original input/export remains the discriminating evidence.
+
+
+### 2026-10-08 — Ash inheritance and physical sequence
+
+Previous turn made verified public progress; clean tree confirmed. Visually checked thesis ash discussion, sediment interpretation and Highwall photograph/caption. Published source-aware sample settings and separate tests of in-place exposure, transported fragments and later alteration. Preserved approximate height variants and caption uncertainty/locality discrepancies. No new depositional date, field verification, measured duration or global event inference claimed.
