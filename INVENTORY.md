@@ -628,10 +628,12 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 - Release includes 21 tree records, eight assay rows and 34 reference comparisons; reported 1507 dating and 1477–1522 radiocarbon interval not independently reproduced. [S72](https://doi.org/10.5066/P13WAVXH). Locator: Release summary; C14_data_S1/S2/S3.csv. Access: FULL_TEXT_PORTION. Limit: Summary tables lack annual widths; S73 identifies the illustrated seven-assay selection, but its date intervals conflict with the summary. Article methods and model remain unreproduced.
 - Illustrated seven-assay membership identified; 99.7% range in panel B is 1486–1528 CE, unlike abstract 1477–1522. [S73](https://doi.org/10.1130/GEOL.S.30689474). Locator: Figure S2 A/B/D and caption. Access: SCAN_INSPECTED. Limit: Model inputs/code not recovered. Figure intervals differ from release abstract. Linked original under CC BY-NC 4.0; no document republication here.
 - 86 series from 21 tree IDs contain 18,489 widths over assigned years 1033–1507. All tree count/range summaries except ELE045 agree with S1. [S74](https://www.ncei.noaa.gov/access/paleo-search/study/43943). Locator: NOAA template annual rows; Tucson ELE045 rows. Access: FULL_TEXT_PORTION. Limit: Published year assignments are inputs, not newly established dates. ELE045 date range differs from both S1 tables. Standardization and external crossdating not reproduced.
+- Archived diagnostics contain 19 flags across 744 overlapping segments; all 86 series spans and width counts match the recovered template. [S75](https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa171.txt). Locator: Parts 5 and 7; archive header. Access: FULL_TEXT_PORTION. Limit: Historical diagnostics, not a fresh analysis; overlapping segments and related radii are not independent tests.
+- KAP14 was separately calibrated; results give the same five- and seven-sample intervals as supplement Figure S2. [S76](https://doi.org/10.1130/G53721.1). Locator: Advance-page 2, radiocarbon methods/results, extracted text. Access: FULL_TEXT_PORTION. Limit: Publisher PDF inaccessible via web tool; article page image not inspected. Extraction can contain errors. Detailed processing settings and executable model not recovered.
 
 **Physical evidence:** Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.
 
-**Surviving documents:** USGS original data tables and release metadata; accompanying article methods pending.
+**Surviving documents:** USGS tables, NOAA raw measurements and QC report, supplement, and selected author-uploaded article text.
 
 **Source interpretation:** Lahar killed a forest; external ring-pattern comparisons place tree death in 1507.
 
@@ -639,7 +641,7 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 
 **Counterevidence:** Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.
 
-**Next test:** Reconcile ELE045 ranges and radiocarbon interval versions; inspect full article methods, reproduce standardization and external matching with explicit sensitivity tests.
+**Next test:** Recover precise CDendro processing settings and MacBlo reference version; reproduce alignment with tree-level weighting and leave-one-tree-out sensitivity, retaining unresolved ELE045 and interval differences.
 
 **Dependence:** Bonneville abstract cites Electron chronology; shared regional reference data may couple calendar assignments.
 
@@ -647,4 +649,4 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 
 **Chronology:** {"reported": "1507 CE by external crossdating; 1477\u20131522 CE reported 99.7% radiocarbon range", "dated_object": "Wood samples and ring patterns from buried trees", "method": "Radiocarbon wiggle matching and dendrochronology", "raw_date": "Eight assay rows retained in original S2 CSV", "uncertainty": "Release abstract and supplement intervals disagree; illustrated selection known, model not rerun.", "timescale": "Calendar CE, reported", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Reason for eighth-assay exclusion; ELE045 date-range reconciliation; Sample identity and collection-history crosswalk; Reproduced age model and external ring matching; Independent review
+**Missing:** ELE045 date-range reconciliation; Sample identity and collection-history crosswalk; Reproduced age model and external ring matching; Independent review

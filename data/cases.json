@@ -1161,10 +1161,20 @@
           "source_id": "S74",
           "locator": "NOAA template annual rows; Tucson ELE045 rows",
           "statement": "86 series from 21 tree IDs contain 18,489 widths over assigned years 1033–1507. All tree count/range summaries except ELE045 agree with S1."
+        },
+        {
+          "source_id": "S75",
+          "locator": "Parts 5 and 7; archive header",
+          "statement": "Archived diagnostics contain 19 flags across 744 overlapping segments; all 86 series spans and width counts match the recovered template."
+        },
+        {
+          "source_id": "S76",
+          "locator": "Advance-page 2, radiocarbon methods/results, extracted text",
+          "statement": "KAP14 was separately calibrated; results give the same five- and seven-sample intervals as supplement Figure S2."
         }
       ],
       "physical_evidence": "Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.",
-      "surviving_documents": "USGS original data tables and release metadata; accompanying article methods pending.",
+      "surviving_documents": "USGS tables, NOAA raw measurements and QC report, supplement, and selected author-uploaded article text.",
       "source_interpretation": "Lahar killed a forest; external ring-pattern comparisons place tree death in 1507.",
       "investigation_inference": "Potential separate event and a dependency in Bonneville external crossdating; shared chronologies require auditing.",
       "competing_explanations": [
@@ -1172,7 +1182,7 @@
         "Common-event proposal requiring compatible independently dated horizons"
       ],
       "counterevidence": "Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.",
-      "next_test": "Reconcile ELE045 ranges and radiocarbon interval versions; inspect full article methods, reproduce standardization and external matching with explicit sensitivity tests.",
+      "next_test": "Recover precise CDendro processing settings and MacBlo reference version; reproduce alignment with tree-level weighting and leave-one-tree-out sensitivity, retaining unresolved ELE045 and interval differences.",
       "chronology": {
         "reported": "1507 CE by external crossdating; 1477–1522 CE reported 99.7% radiocarbon range",
         "dated_object": "Wood samples and ring patterns from buried trees",
@@ -1183,7 +1193,6 @@
         "event_association": "REPORTED_NOT_REVALIDATED"
       },
       "missing": [
-        "Reason for eighth-assay exclusion",
         "ELE045 date-range reconciliation",
         "Sample identity and collection-history crosswalk",
         "Reproduced age model and external ring matching",

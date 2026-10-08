@@ -2,7 +2,8 @@
   "source_ids": [
     "S72",
     "S73",
-    "S74"
+    "S74",
+    "S76"
   ],
   "case_id": "C020",
   "date": "2026-10-08",
@@ -40,7 +41,7 @@
     ],
     "absent_table_lab_id": "D-AMS010693",
     "absent_table_sample": "KAP14a",
-    "absence_explanation": null
+    "absence_explanation": "Article methods describe KAP14 as separately calibrated hemlock with unknown missing outer rings; results say it could not be crossdated. Based on author-uploaded extracted text, not a scanned page."
   },
   "intervals_CE": {
     "release_abstract_99_7": [
@@ -105,5 +106,7 @@
     ],
     "resolved": false
   },
-  "limitations": "These files belong to the same research chain and are not independent corroboration. No interval is selected as correct; differences alone do not establish fabrication or invalidate every other measurement."
+  "limitations": "These files belong to the same research chain and are not independent corroboration. No interval is selected as correct; differences alone do not establish fabrication or invalidate every other measurement.",
+  "article_results_agree_with_figure_intervals": true,
+  "article_text_access": "S76, advance-page 2 radiocarbon results; unrendered text extraction"
 }

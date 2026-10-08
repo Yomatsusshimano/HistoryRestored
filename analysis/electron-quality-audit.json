@@ -1,0 +1,136 @@
+{
+  "source_ids": [
+    "S74",
+    "S75"
+  ],
+  "quality_url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa171.txt",
+  "quality_sha256": "889f5da95217aadf02ccdc4a25a21d53af3c0dc9f675c4b71aef528998765498",
+  "report_date": "2025-11-18",
+  "series": 86,
+  "observed_widths": 18489,
+  "segments": 744,
+  "flags": 19,
+  "flagged_series": [
+    {
+      "series": "ELE001B2",
+      "flagged_coefficients": [
+        ".41B"
+      ]
+    },
+    {
+      "series": "ELE001I1",
+      "flagged_coefficients": [
+        ".26A",
+        ".26A"
+      ]
+    },
+    {
+      "series": "ELE001I2",
+      "flagged_coefficients": [
+        ".30A",
+        ".32A"
+      ]
+    },
+    {
+      "series": "ELE009B1",
+      "flagged_coefficients": [
+        ".29B"
+      ]
+    },
+    {
+      "series": "ELE009B2",
+      "flagged_coefficients": [
+        ".25B"
+      ]
+    },
+    {
+      "series": "ELE011B2",
+      "flagged_coefficients": [
+        ".42B"
+      ]
+    },
+    {
+      "series": "ELE039B3",
+      "flagged_coefficients": [
+        ".46B"
+      ]
+    },
+    {
+      "series": "ELE045A1",
+      "flagged_coefficients": [
+        ".27A",
+        ".26A"
+      ]
+    },
+    {
+      "series": "ELE045A2",
+      "flagged_coefficients": [
+        ".25B",
+        ".25A"
+      ]
+    },
+    {
+      "series": "KAP015A1",
+      "flagged_coefficients": [
+        ".25B",
+        ".20B",
+        ".30B"
+      ]
+    },
+    {
+      "series": "KAP015A2",
+      "flagged_coefficients": [
+        ".23B",
+        ".09B",
+        ".24B"
+      ]
+    }
+  ],
+  "flag_meanings": {
+    "A": "Below .3281 but highest at assigned position",
+    "B": "Higher correlation at another position"
+  },
+  "all_quality_spans_match_raw": true,
+  "ele045_statistics": [
+    {
+      "series": "ELE045A1",
+      "first": 1398,
+      "last": 1506,
+      "years": 109,
+      "segments": 5,
+      "flags": 2,
+      "reported_correlation_with_master": 0.481
+    },
+    {
+      "series": "ELE045A2",
+      "first": 1398,
+      "last": 1506,
+      "years": 109,
+      "segments": 5,
+      "flags": 2,
+      "reported_correlation_with_master": 0.487
+    }
+  ],
+  "intervals_with_at_most_two_tree_ids": [
+    {
+      "first": 1033,
+      "last": 1049,
+      "tree_ids": [
+        "ELE039"
+      ]
+    },
+    {
+      "first": 1050,
+      "last": 1148,
+      "tree_ids": [
+        "ELE039",
+        "KAP015"
+      ]
+    }
+  ],
+  "calendar_span_without_ELE045": [
+    1033,
+    1507
+  ],
+  "limitations": "Archived diagnostics, not a fresh COFECHA run. Segment windows overlap and radii from a tree are related. Tree-label counts are not specimen authentication. Omitting ELE045 preserves coverage bounds only; no correlation, peak-year or age-model sensitivity was computed."
+}

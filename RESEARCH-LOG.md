@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Electron quality and replication depth
+
+Previous turn made progress: d47b469 published ten byte-verified files. Clean checkout confirmed. Retrieved S75 archived quality report and parsed Parts 5/7 with a hash-pinned script: 19 flags, 744 segments; all 86 spans/counts agree with raw archive. Calculated yearly tree-ID depth: one ID for 1033–1049, two for 1050–1148. Excluding ELE045 preserves outer coverage bounds only; correlation sensitivity not calculated. Author-uploaded paper text S76 explains separate KAP14 handling and agrees with supplement result intervals; publisher PDF retrieval failed. No scanned-article review, new COFECHA run, absolute crossdating or independent validation claimed.
+
 ## 2026-10-08 - Electron supplement and raw-series reconciliation
 
 Previous model-switch acknowledgment was no progress; revalidated a clean checkout at 614c0ae and continued available source analysis. Recovered supplement DOCX matches Figshare MD5; extracted captions/tables and visually inspected embedded Figure S2. Seven illustrated assay IDs identified, with KAP14a absent; reason unknown. Preserved panel A/B versus abstract interval differences. NOAA WA171 template parsed with hash-pinned script: 86 series, 21 tree IDs, 18,489 widths, 475 assigned calendar rows. Twenty tree summaries agree with USGS S1; ELE045 dates disagree. Checked DOCX S1 and Tucson boundary rows to confirm both sides. No source silently corrected, no absolute crossdating or age-model reproduction claimed. Added S73/S74; full objective remains active.

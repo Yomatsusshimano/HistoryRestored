@@ -1259,6 +1259,36 @@
       "inspected": "Template metadata and all annual rows parsed; tree-ID coverage compared to USGS S1; Tucson ELE045 boundary rows checked.",
       "limitations": "Published year assignments are inputs, not newly established dates. ELE045 date range differs from both S1 tables. Standardization and external crossdating not reproduced.",
       "sha256": "cb02dbf945b0b022e199b33f9e7c3470d9dff7302c8013f34e87b1200c57bd01"
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S75",
+      "title": "WA171 archived correlation and descriptive statistics",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa171.txt",
+      "creator": "NOAA Paleoclimatology",
+      "publication_date": "2025-11-18",
+      "source_type": "Archive quality-control report",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Header and Parts 5/7 parsed; all series spans and observation counts compared with WA171 template.",
+      "limitations": "Historical diagnostics, not a fresh analysis; overlapping segments and related radii are not independent tests.",
+      "sha256": "889f5da95217aadf02ccdc4a25a21d53af3c0dc9f675c4b71aef528998765498"
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S76",
+      "title": "Forest-floor burial in 1507 by the largest Mount Rainier lahar of the past millennium",
+      "url": "https://doi.org/10.1130/G53721.1",
+      "creator": "Bryan A. Black, Patrick T. Pringle, James W. Vallance",
+      "publication_date": "2025-12-08 (online); 2026-02 (issue)",
+      "source_type": "Original research article, author-uploaded text",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "ResearchGate author-uploaded full-text extraction: advance-page 2 methods and radiocarbon results. https://www.researchgate.net/publication/398469149_Forest-floor_burial_in_1507_by_the_largest_Mount_Rainier_lahar_of_the_past_millennium",
+      "limitations": "Publisher PDF inaccessible via web tool; article page image not inspected. Extraction can contain errors. Detailed processing settings and executable model not recovered.",
+      "sha256": null
     }
   ]
 }
