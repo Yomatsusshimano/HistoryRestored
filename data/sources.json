@@ -3319,7 +3319,7 @@
       "source_type": "original geochronology and magnetostratigraphy study",
       "access": "ABSTRACT",
       "inspected": "Institutional repository abstract and bibliographic metadata; DOI10.1130/G48080.1.",
-      "limitations": "Download returned403 via web. Full methods, sample data and proposed fault duplication unverified; conclusions retained as authors claims.",
+      "limitations": "Download returned403 via web. Full methods, sample data and proposed fault duplication unverified; conclusions retained as authors claims. Follow-up: OpenAlex identifies USU combined PDF at context/geology_facpub/article/1589/viewcontent/Crow_et_al_2021a_b___Dorsey_et_al___supplement_ALL_stamped.pdf; HTTPS certificate validation failed and web reader unavailable. Bundle contents remain uninspected.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
@@ -3388,7 +3388,7 @@
       "publication_date": "2011",
       "source_type": "original research article",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "23-page PDF recovered and hashed; selected extracted text including printed775/PDF5 supplement footnote and PDF18 site labels. No full article review. DOI10.1130/B30168.1. See research/WIND-CAVES.md. Follow-up: printed774-775/783-784 methods and age-model discussion text-read; Fig11 printed785/PDF15 visually inspected. See research/FISH-CREEK-AGE-MODEL.md. Table1 printed777/PDF7 visually checked; tuff methods/results printed777/780/782 text-read. All35 age/error rows extracted; selected and marginal-exclusion sensitivity means calculated. research/FISH-CREEK-TUFFS.md. Printed780/PDF10 visually checked: explicit air-fall classification in lower Tapiado; figure on page is different lower-section locality.",
+      "inspected": "23-page PDF recovered and hashed; selected extracted text including printed775/PDF5 supplement footnote and PDF18 site labels. No full article review. DOI10.1130/B30168.1. See research/WIND-CAVES.md. Follow-up: printed774-775/783-784 methods and age-model discussion text-read; Fig11 printed785/PDF15 visually inspected. See research/FISH-CREEK-AGE-MODEL.md. Table1 printed777/PDF7 visually checked; tuff methods/results printed777/780/782 text-read. All35 age/error rows extracted; selected and marginal-exclusion sensitivity means calculated. research/FISH-CREEK-TUFFS.md. Printed780/PDF10 visually checked: explicit air-fall classification in lower Tapiado; figure on page is different lower-section locality. Fig2 printed773/PDF3 visually inspected; printed775 thickness methods text-read. Hand-measured intervals and geometry checks distinguished from fault restoration.",
       "limitations": "Full article, raw magnetic trajectories, U-Pb reductions and structural restoration not independently audited. Supplement now recovered as S215; selected TableDR1 pages inspected. Figure11 is a model comparison, not validation of later fault geometry.",
       "local_copy": null,
       "accessed_date": "2026-10-08",

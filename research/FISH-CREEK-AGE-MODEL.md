@@ -29,3 +29,18 @@ The [Wind Caves audit](WIND-CAVES.md) narrows the locality question; it does not
 
 
 Follow-up: [upper-tuff grain audit](FISH-CREEK-TUFFS.md) now preserves all35 age/error rows, reproduces rounded means and separates exclusion sensitivity from depositional-age validation.
+
+
+## Structural-map and thickness-method follow-up
+
+S214 Fig2, printed773/PDF3, was visually inspected. The basin map marks a composite section route and a tuff locality southwest of Split Mountain Gorge; its caption credits several earlier maps. It is a regional overview, not a bed-by-bed restoration at04Pw30. Printed775 explains that the lower1240m and4450–5140m interval were measured with a Jacob's staff. Other thicknesses were calculated from bedding orientation, across-strike distance and elevation change. The authors report typical2–5% agreement where geometric calculations were checked against hand-measured segments.
+
+This changes the scope of the uncertainty question. Wind Caves and the dated upper tuffs fall within the reported hand-measured intervals. Describing their thicknesses as entirely computer-generated would be inaccurate. But hand measurement alone cannot prove that beds crossed along a route are not repeated by faults; continuity and restoration remain geological tests. Conversely, calculated thickness is not inherently unreliable: bedding measurements and cross-checks are relevant evidence that should be assessed rather than dismissed.
+
+The reported2–5% comparison is not a per-site uncertainty distribution, a bound on unrecognized fault displacement, or a reason to attach a universal error bar to every height. A map-based reproduction needs the original station locations, bedding attitudes, topographic heights, traced correlation datums and fault offsets. Our public coordinates and section heights do not yet provide all of those inputs. This regional map cannot resolve the proposed approximately350m repetition merely by showing fault symbols or a continuous colored unit.
+
+## Exact main-paper retrieval lead
+
+A live OpenAlex DOI lookup identifies the USU repository's [combined PDF](https://digitalcommons.usu.edu/context/geology_facpub/article/1589/viewcontent/Crow_et_al_2021a_b___Dorsey_et_al___supplement_ALL_stamped.pdf). The filename indicates a main-paper/debate/supplement bundle, but its contents have not been inspected. The direct HTTPS request failed certificate verification; the web reader also could not retrieve it. ResearchGate currently offers the main paper by request rather than accessible full text. No author was contacted, and S209 remains abstract-only. This is a specific retrieval target, not newly reviewed structural evidence.
+
+Next obtain that bundle through a working authorized repository route and compare its actual fault traces and marker correlations with the original mapped stations. Until then, preserve the distinction between the older study's documented method, the later paper's proposed duplication, and this archive's uncompleted reconstruction.

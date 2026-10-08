@@ -363,3 +363,8 @@ S214 Table1 all35 ages preserved, selected means reproduced at published precisi
 ### 2026-10-08 — Tuff field setting and reversal bracket
 
 Tuff field interpretation recovered explicitly as air-fall; original magnetic table places two beds and a27m reversal bracket, whose midpoint explains rounded55/21m offsets. Next ash-specific contacts/textures and original sampling crosswalk. Along-strike sites are not extra layers; midpoint is not a measured reversal.
+
+
+### 2026-10-08 — Structural map and thickness methods
+
+Original regional map and thickness methods inspected: distinguish hand-measured Wind Caves/tuff intervals from geometrically calculated segments. Exact USU main/debate bundle URL recovered but certificate/web access failed. Next working bundle access and original station/bedding/marker restoration; do not substitute overview map for duplication test.

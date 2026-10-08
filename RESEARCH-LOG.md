@@ -1005,3 +1005,8 @@ Previous turn made verified public progress; clean checkout confirmed. Visually 
 ### 2026-10-08 — Tuff field setting and reversal bracket
 
 Previous turn made verified public progress; clean checkout confirmed. Visually checked S214p780 and S215TableDR1p6. Recorded positive primary-deposition classification and limits, distinguished unrelated page photo, preserved along-strike sites and reproduced boundary-offset arithmetic conditionally. Targeted searches returned no additional inspected bed-specific field description. No absence claim, new tuff correlation, direct boundary measurement or field verification made.
+
+
+### 2026-10-08 — Structural map and thickness methods
+
+Previous turn made verified public progress; clean checkout confirmed. Rechecked main-paper access, found an exact bundle path through OpenAlex and recorded certificate/web failures without weakening validation. Visually inspected S214 regional Fig2 and text-read thickness methods. Published limits of hand measurement, geometry checks and regional map scale. No main-paper structural figure inspection, fault restoration or scientific validation claimed.
