@@ -15,10 +15,25 @@
           "source_id": "S01",
           "locator": "Main-text paragraphs defining areaways and describing street raising",
           "statement": "SDOT reports engineered street raising after the 1889 fire and retaining walls beneath roadways."
+        },
+        {
+          "source_id": "S84",
+          "locator": "Scope and Contents; Dates",
+          "statement": "Catalog identifies 1905–1921 areaway applications, occasional drawings and a street index in series 0605-01; underlying records not inspected."
+        },
+        {
+          "source_id": "S85",
+          "locator": "p.273, transcription page 2",
+          "statement": "1883 minutes record grade-line referrals on Washington/Main west of Commercial and an earthwork bid for Columbia Street; these are administrative steps, not verified finished work."
+        },
+        {
+          "source_id": "S86",
+          "locator": "p.342, transcription page 3",
+          "statement": "1883 proceedings record adopted waterfront roadway recommendations and a Jackson Street grade ordinance; original scan and construction outcome remain unchecked."
         }
       ],
       "physical_evidence": "No site inspection or sediment sample. Municipal maintenance account describes below-sidewalk spaces and a supporting street wall.",
-      "surviving_documents": "Modern SDOT account; original grading plans uncollected.",
+      "surviving_documents": "Modern SDOT account; two pre-fire council-page transcriptions; 1905–1921 areaway-permit finding aid. Original grading plans remain uncollected.",
       "source_interpretation": "Deliberate grade raising created the lower level.",
       "investigation_inference": "An identified engineering alternative merits checking against original records before attributing burial to a natural event.",
       "competing_explanations": [
@@ -26,7 +41,7 @@
         "Local natural deposition or subsidence, if independently evidenced"
       ],
       "counterevidence": "The below-ground level alone does not discriminate its cause; an engineered mechanism is documented.",
-      "next_test": "Retrieve block-specific grading plans and dated construction records; compare wall geometry and fill logs.",
+      "next_test": "Retrieve series 0605-01 Volume 2 street index, choose a specific parcel, and match permit/drawing to original grade ordinance, surveyed elevations and surviving fabric.",
       "chronology": {
         "reported": "After the 1889 fire",
         "dated_object": "Street raising as reported in a modern account",

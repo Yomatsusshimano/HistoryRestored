@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Pioneer Square administrative evidence
+
+Previous turn made progress: 571f4a6 published seven byte-verified files; clean checkout confirmed. Returned to C001 rather than treating missing Heal Lake widths as a global blocker. Located areaway permit series 0605-01 and inspected two 1883 council-page transcriptions. Distinguished petitions, adopted recommendations, ordinance adoption and bids from actual construction. Facsimile links returned example-image 404s; ordinary transcription-page download returned 403. Clerk ordinance route returned a human-verification challenge, not ordinance content; no bypass attempted. Added S84–S86 with explicit access limits and a parcel-level retrieval sequence. No new burial date, sediment identification or independent review.
+
 ## 2026-10-08 - Heal Lake dissertation and bounded measurement search
 
 Previous turn published b0be9d7 with eight publicly byte-verified files; clean checkout confirmed. Recovered the 214-page 2000 dissertation and inspected selected chapter text, rendering printed pp.112–113,134,136. Transcribed three radiocarbon rows with source calibration bounds, laboratory-name footnotes and anchor intercepts. Distinguished HLL064's table anchor at 1660 BCE from the combined-group assignment at 1640 BCE and preserved the author's reported group shifts and connection uncertainty. These older floating groups do not explain the separate CE discrepancy. Targeted web/sample searches, S79 availability text and the RingDateR repository did not yield exact annual widths or original lab sheets. No absence claim, new calibration, raw crossdating reproduction or independent review follows. Added S83; retained all cases as drafts.

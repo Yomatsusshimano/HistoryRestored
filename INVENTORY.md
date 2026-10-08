@@ -36,10 +36,13 @@ Place: Pioneer Square, Seattle, Washington. Status: SOURCED_DRAFT.
 **Sourced statements**
 
 - SDOT reports engineered street raising after the 1889 fire and retaining walls beneath roadways. [S01](https://sdotblog.seattle.gov/2010/02/25/sdot-work-down-under/). Locator: Main-text paragraphs defining areaways and describing street raising. Access: FULL_TEXT_PORTION. Limit: Modern account; original 1889 engineering records not inspected.
+- Catalog identifies 1905–1921 areaway applications, occasional drawings and a street index in series 0605-01; underlying records not inspected. [S84](https://archives.seattle.gov/finding-aids/repositories/2/resources/1919). Locator: Scope and Contents; Dates. Access: CATALOG_METADATA. Limit: Underlying permits, drawings and street index not inspected.
+- 1883 minutes record grade-line referrals on Washington/Main west of Commercial and an earthwork bid for Columbia Street; these are administrative steps, not verified finished work. [S85](https://fromthepage.com/sma-archives/city-of-seattle-records/seacpm18830604/display/1281394?translation=false). Locator: p.273, transcription page 2. Access: FULL_TEXT_PORTION. Limit: Facsimile image link led to an example-image 404; separate ordinary download returned 403. Handwriting not checked; transcription errors possible.
+- 1883 proceedings record adopted waterfront roadway recommendations and a Jackson Street grade ordinance; original scan and construction outcome remain unchecked. [S86](https://www.fromthepage.com/sma-archives/city-of-seattle-records/seacpm18830824/display/1281477?translation=false). Locator: p.342, transcription page 3. Access: FULL_TEXT_PORTION. Limit: Image link led to example-image 404. Handwriting and ordinance text not inspected; approval does not establish construction.
 
 **Physical evidence:** No site inspection or sediment sample. Municipal maintenance account describes below-sidewalk spaces and a supporting street wall.
 
-**Surviving documents:** Modern SDOT account; original grading plans uncollected.
+**Surviving documents:** Modern SDOT account; two pre-fire council-page transcriptions; 1905–1921 areaway-permit finding aid. Original grading plans remain uncollected.
 
 **Source interpretation:** Deliberate grade raising created the lower level.
 
@@ -47,7 +50,7 @@ Place: Pioneer Square, Seattle, Washington. Status: SOURCED_DRAFT.
 
 **Counterevidence:** The below-ground level alone does not discriminate its cause; an engineered mechanism is documented.
 
-**Next test:** Retrieve block-specific grading plans and dated construction records; compare wall geometry and fill logs.
+**Next test:** Retrieve series 0605-01 Volume 2 street index, choose a specific parcel, and match permit/drawing to original grade ordinance, surveyed elevations and surviving fabric.
 
 **Dependence:** Same city as C002, but a different project; do not merge dates or count city-level narratives as independent global observations.
 

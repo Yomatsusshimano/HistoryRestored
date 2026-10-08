@@ -1394,6 +1394,51 @@
       "sha256": "d85a3e742b198201c7832a524682310b1f4532ae41bd614c3932408895695c77",
       "inspected": "Selected chapter 6 text; printed pp.112–113,134,136 (PDF130–131,152,154) rendered and visually inspected.",
       "limitations": "214-page PDF only partly inspected. No original annual widths or laboratory sheets recovered. Older floating groups are distinct from the later CE disagreement."
+    },
+    {
+      "id": "S84",
+      "title": "Areaway Records, series 0605-01",
+      "url": "https://archives.seattle.gov/finding-aids/repositories/2/resources/1919",
+      "publication_date": null,
+      "creator": "Seattle Municipal Archives / Seattle council records",
+      "source_type": "Archival finding aid",
+      "access": "CATALOG_METADATA",
+      "inspected": "Scope, creation dates 1905–1921, extent and citation instructions.",
+      "limitations": "Underlying permits, drawings and street index not inspected.",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "sha256": null
+    },
+    {
+      "id": "S85",
+      "title": "Seattle Common Council minutes, June 4, 1883, p.273",
+      "url": "https://fromthepage.com/sma-archives/city-of-seattle-records/seacpm18830604/display/1281394?translation=false",
+      "publication_date": "1883-06-04",
+      "creator": "Seattle Municipal Archives / Seattle council records",
+      "source_type": "Primary record transcription",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Displayed indexed transcription, page 2 of 6: grade referrals, Jackson recommendation and Columbia Street bid.",
+      "limitations": "Facsimile image link led to an example-image 404; separate ordinary download returned 403. Handwriting not checked; transcription errors possible.",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "sha256": null
+    },
+    {
+      "id": "S86",
+      "title": "Seattle council proceedings, August 24, 1883, p.342",
+      "url": "https://www.fromthepage.com/sma-archives/city-of-seattle-records/seacpm18830824/display/1281477?translation=false",
+      "publication_date": "1883-08-24",
+      "creator": "Seattle Municipal Archives / Seattle council records",
+      "source_type": "Primary record transcription",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Displayed indexed transcription, page 3 of 6: proposed waterfront roadways and adoption of Jackson grade ordinance.",
+      "limitations": "Image link led to example-image 404. Handwriting and ordinance text not inspected; approval does not establish construction.",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "sha256": null
     }
   ]
 }
