@@ -1883,6 +1883,48 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S116",
+      "title": "Five Millennium Catalog of Solar Eclipses: 0001 to 0100",
+      "creator": "Fred Espenak and Jean Meeus, NASA GSFC",
+      "publication_date": null,
+      "source_type": "Computed astronomical catalog and method documentation",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/SE0001-0100.html",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Rows 04806-04809; Calendar and Predictions sections.",
+      "limitations": "Published predictions inspected, not independently recomputed. Historical-record inputs to Earth-rotation correction not audited. No local visibility calculation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S117",
+      "title": "Key to Catalog of Solar Eclipses",
+      "creator": "Fred Espenak and Jean Meeus, NASA GSFC",
+      "publication_date": null,
+      "source_type": "Computed astronomical catalog and method documentation",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/SEcatkey.html",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Column definitions, prediction methods and reproduction acknowledgment.",
+      "limitations": "Published predictions inspected, not independently recomputed. Historical-record inputs to Earth-rotation correction not audited. No local visibility calculation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S118",
+      "title": "Uncertainty in Delta T",
+      "creator": "Fred Espenak and Jean Meeus, NASA GSFC",
+      "publication_date": null,
+      "source_type": "Computed astronomical catalog and method documentation",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/uncertainty.html",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Historical standard-error equation and Table 1.",
+      "limitations": "Published predictions inspected, not independently recomputed. Historical-record inputs to Earth-rotation correction not audited. No local visibility calculation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

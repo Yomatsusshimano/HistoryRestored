@@ -29,8 +29,13 @@
         "Greek text and critical apparatus for 56.29.3",
         "Locate and inspect manuscript witness folio",
         "Trace Stothers 2002 additional cited accounts and dependencies",
-        "Check eclipse predictions with explicit observation region and time uncertainty"
-      ]
+        "Audit historical inputs to eclipse model and textual year/meaning; compute local visibility only for an explicitly justified location."
+      ],
+      "astronomy_catalog_check": {
+        "source_id": "S116",
+        "result": "Four partial eclipses; no total or hybrid in year 14 CE. Published model inspected, not independently recomputed.",
+        "data": "data/14ce-eclipse-catalog.json"
+      }
     }
   ]
 }

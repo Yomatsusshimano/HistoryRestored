@@ -1,0 +1,48 @@
+{
+  "source_id": "S116",
+  "definitions_source": "S117",
+  "uncertainty_source": "S118",
+  "acknowledgment": "Eclipse Predictions by Fred Espenak and Jean Meeus (NASA's GSFC)",
+  "scope": "All four catalog rows for year 14 CE; no location filter.",
+  "calendar": "Julian; catalog uses astronomical year numbering, identical to CE for positive years.",
+  "rows": [
+    {
+      "catalog_number": "04806",
+      "date_julian": "0014-03-19",
+      "greatest_eclipse_dynamical_time": "15:38:24",
+      "delta_t_seconds": 10391,
+      "type": "P",
+      "magnitude_at_greatest_eclipse": 0.1919
+    },
+    {
+      "catalog_number": "04807",
+      "date_julian": "0014-04-18",
+      "greatest_eclipse_dynamical_time": "02:41:51",
+      "delta_t_seconds": 10391,
+      "type": "P",
+      "magnitude_at_greatest_eclipse": 0.524
+    },
+    {
+      "catalog_number": "04808",
+      "date_julian": "0014-09-13",
+      "greatest_eclipse_dynamical_time": "04:52:58",
+      "delta_t_seconds": 10386,
+      "type": "P",
+      "magnitude_at_greatest_eclipse": 0.1105
+    },
+    {
+      "catalog_number": "04809",
+      "date_julian": "0014-10-12",
+      "greatest_eclipse_dynamical_time": "20:04:10",
+      "delta_t_seconds": 10386,
+      "type": "P",
+      "magnitude_at_greatest_eclipse": 0.2948
+    }
+  ],
+  "quantity_warning": "Magnitude is fraction of solar diameter obscured, not area; listed time is dynamical time, not local civil time.",
+  "inference": "Catalog predicts no total or hybrid solar eclipse anywhere in 14 CE. Conditional conflict with literal totality assigned to this year; does not resolve meaning or dating of the ancient passage.",
+  "independent_ephemeris_reproduction": false,
+  "local_visibility_reproduction": false,
+  "dependence": "Catalog uses VSOP87 and ELP-2000/82; pre-1950 Delta T from empirical fits to historical records. Specific records not audited.",
+  "uncertainty": "S118 estimates Delta T standard error as 0.8*((year-1820)/100)^2 seconds over 1000 BCE-1200 CE. This is Earth-rotation timing uncertainty, not a multi-year historical date interval. No uncertainty propagation performed."
+}

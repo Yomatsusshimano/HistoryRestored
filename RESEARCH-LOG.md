@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - 14 CE eclipse catalog comparison
+
+Previous turn made progress: 98d9e8f published seven byte-verified files. Clean checkout rechecked. Inspected NASA year-14 catalog rows, definitions and Delta T uncertainty documentation; added S116-S118 and four-row ledger. No total/hybrid predicted in 14 CE, a conditional conflict with literal totality, not a positive volcanic identification. Preserved distinction between catalog inspection and independent orbital calculation, and between Earth-rotation uncertainty and calendar-year uncertainty. Full goal remains active.
+
 ## 2026-10-08 - 14 CE narrative and transmission audit
 
 Previous turn was a handoff acknowledgment, no research progress. Revalidated clean checkout and resumed safe source work. Inspected Dio 56.29-30 in Cary translation and editor manuscript discussion; added S114-S115 and row-level text audit. Solar phenomenon lacks duration/site, and the August 19 death date cannot be reused as observation date. Omen framing does not establish fabrication or volcanism. Manuscript outline prevents assuming epitome-only transmission, while specific witnesses remain uninspected. Textual uncertainty and algorithmic missingness remain separate. No astronomical exclusion or chronology shift independently demonstrated. Full goal remains active.

@@ -1499,6 +1499,11 @@
           "source_id": "S115",
           "locator": "Introduction p.xxvii",
           "statement": "Editor describes manuscript transmission covering Book 56; specific passage witnesses remain uninspected."
+        },
+        {
+          "source_id": "S116",
+          "locator": "Catalog rows 04806-04809",
+          "statement": "All four predicted solar eclipses in 14 CE are partial; this conflicts conditionally with a literal total-eclipse reading assigned to that year."
         }
       ],
       "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",

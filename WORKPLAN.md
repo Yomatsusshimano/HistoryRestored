@@ -122,3 +122,5 @@ Guide retry resolved access (S112); earlier detection method recovered from S113
 Detection sensitivity executed on S109: four implementation variants produce 12-20 ±3-year historical matches and four unresolved entries. Complete-window processing leaves 139/762 years unclassified. Resolve author gap/MAD choices; do not tune to 24 or treat missing input as nonmatches. Exact event-vector and significance reproduction remain pending.
 
 14 CE text audit: Dio death-omen passage inspected in translation; duration/site unknown and death date not an observation date. Manuscript transmission outlined from editor, not collation. Trace Greek witnesses and additional accounts; independently test astronomical alternatives before event assignment.
+
+14 CE astronomy comparison: NASA catalog predicts four partial eclipses and no total/hybrid in the year. Conditional literal-reading conflict recorded, not volcanic identification. Audit Greek wording/year and model historical inputs; do not turn Delta T uncertainty into a calendar shift.
