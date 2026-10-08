@@ -19,3 +19,11 @@ The [Areaway Records finding aid, series 0605-01 (S84)](https://archives.seattle
 The next discriminating check is to select one indexed parcel, retrieve its application and drawing, and match it to original grade specifications, completion records and surviving wall geometry. Compare intended and surveyed elevations using a known datum. Inspect fill descriptions for placement methods and stratigraphy. A permit date may concern maintenance of an older space, so it cannot automatically serve as its construction date.
 
 The catalog references Seattle Ordinance 12022. The attempted Clerk page returned a human-verification challenge and supplied no ordinance text. Its date and requirements remain unverified here. Other jurisdictions' same-number ordinances are not substitutes. No outside contact was made.
+
+## Grand Central Block: observed fabric versus proposed repairs
+
+[Clark Barnes's 2020 board briefing (S87)](https://www.seattle.gov/documents/departments/neighborhoods/historicpreservation/historicdistricts/pioneersquare/meetingdocuments/grand_central_block_board_briefing.pdf), pages 26–27, was retrieved and visually inspected. Photographs show masonry ceilings, metal members, corrugated panels and patches. The authors describe replacement of brick arches at tree wells. The plan distinguishes Buttnick, City Loan and Grand Central conditions, giving a specific block for permit and alteration-record matching.
+
+The adjacent drawings propose support, new footings and concrete over metal decking. These are design details, not completed-work records or sediment sections. Photographic material contrasts suggest alterations worth tracing, but cannot establish their dates. No original grade datum or surrounding fill sample is supplied by these inspected sheets.
+
+[Structured observations](../data/grand-central-areaways.json) distinguish visible features, author interpretations and proposed work. Match individual compartments to dated permits and as-built alterations before using their appearance to infer burial history. The broader catastrophe claim remains untested at this location.

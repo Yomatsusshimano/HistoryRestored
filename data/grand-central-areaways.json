@@ -1,0 +1,46 @@
+{
+  "case_id": "C001",
+  "source_id": "S87",
+  "download": {
+    "url": "https://www.seattle.gov/documents/departments/neighborhoods/historicpreservation/historicdistricts/pioneersquare/meetingdocuments/grand_central_block_board_briefing.pdf",
+    "bytes": 11118073,
+    "sha256": "4b768197e79088254ae82abfc8e8ab931e61ee64a200fbe2dfaf5a4ede6ef435",
+    "access_note": "Web tool 403; ordinary public PDF download succeeded."
+  },
+  "pages_inspected": [
+    26,
+    27
+  ],
+  "observations": [
+    {
+      "page": 26,
+      "type": "photo_observation",
+      "description": "Buttnick-labeled photo shows a corridor with brick surfaces and supports; City Loan-labeled photo shows an overhead slab."
+    },
+    {
+      "page": 27,
+      "type": "photo_observation",
+      "description": "Images show brick ceiling surfaces, metal members, corrugated panels and visibly different patches."
+    },
+    {
+      "page": 27,
+      "type": "author_interpretation",
+      "description": "Briefing reports brick-arch replacement with concrete and corrugated metal at tree wells."
+    },
+    {
+      "page": 26,
+      "type": "proposed_work",
+      "description": "Ventilation, arch/sidewalk support and electrical-vault strengthening; precise support locations still to be determined."
+    },
+    {
+      "page": 27,
+      "type": "proposed_work",
+      "description": "Structural detail includes new footings and lightweight concrete over metal deck; not evidence of historic sediment or completed repair."
+    }
+  ],
+  "original_construction_date": null,
+  "repair_completion_verified": false,
+  "sediment_description": null,
+  "surveyed_grade_datum": null,
+  "limits": "No chronology or catastrophe mechanism inferred from material appearance."
+}

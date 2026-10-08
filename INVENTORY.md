@@ -39,8 +39,9 @@ Place: Pioneer Square, Seattle, Washington. Status: SOURCED_DRAFT.
 - Catalog identifies 1905–1921 areaway applications, occasional drawings and a street index in series 0605-01; underlying records not inspected. [S84](https://archives.seattle.gov/finding-aids/repositories/2/resources/1919). Locator: Scope and Contents; Dates. Access: CATALOG_METADATA. Limit: Underlying permits, drawings and street index not inspected.
 - 1883 minutes record grade-line referrals on Washington/Main west of Commercial and an earthwork bid for Columbia Street; these are administrative steps, not verified finished work. [S85](https://fromthepage.com/sma-archives/city-of-seattle-records/seacpm18830604/display/1281394?translation=false). Locator: p.273, transcription page 2. Access: FULL_TEXT_PORTION. Limit: Facsimile image link led to an example-image 404; separate ordinary download returned 403. Handwriting not checked; transcription errors possible.
 - 1883 proceedings record adopted waterfront roadway recommendations and a Jackson Street grade ordinance; original scan and construction outcome remain unchecked. [S86](https://www.fromthepage.com/sma-archives/city-of-seattle-records/seacpm18830824/display/1281477?translation=false). Locator: p.342, transcription page 3. Access: FULL_TEXT_PORTION. Limit: Image link led to example-image 404. Handwriting and ordinance text not inspected; approval does not establish construction.
+- Grand Central Block condition photographs show masonry and metal surfaces; briefing describes patches and proposes strengthening. Existing conditions and proposed work must be separated. [S87](https://www.seattle.gov/documents/departments/neighborhoods/historicpreservation/historicdistricts/pioneersquare/meetingdocuments/grand_central_block_board_briefing.pdf). Locator: PDF/printed pp.26–27. Access: SCAN_INSPECTED. Limit: 48-page proposal partly inspected. Photographs are not a site inspection; no original construction date, sediment log, completed repair or independent material identification established.
 
-**Physical evidence:** No site inspection or sediment sample. Municipal maintenance account describes below-sidewalk spaces and a supporting street wall.
+**Physical evidence:** No site visit or sediment sample. S87 pp.26–27 condition photographs visually inspected: brick surfaces, metal supports/decking and patched areas beneath sidewalks. Material ages and surrounding stratigraphy remain unknown.
 
 **Surviving documents:** Modern SDOT account; two pre-fire council-page transcriptions; 1905–1921 areaway-permit finding aid. Original grading plans remain uncollected.
 
@@ -50,7 +51,7 @@ Place: Pioneer Square, Seattle, Washington. Status: SOURCED_DRAFT.
 
 **Counterevidence:** The below-ground level alone does not discriminate its cause; an engineered mechanism is documented.
 
-**Next test:** Retrieve series 0605-01 Volume 2 street index, choose a specific parcel, and match permit/drawing to original grade ordinance, surveyed elevations and surviving fabric.
+**Next test:** Match Grand Central Block areaway compartments to series 0605-01 permits and dated alteration plans; obtain original grade elevations, as-built records and fill logs before assigning construction or deposition dates.
 
 **Dependence:** Same city as C002, but a different project; do not merge dates or count city-level narratives as independent global observations.
 

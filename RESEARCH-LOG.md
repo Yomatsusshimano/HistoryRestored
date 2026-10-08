@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Grand Central Block physical-condition documentation
+
+Previous turn made progress: 05742c2 published six byte-verified files; clean checkout confirmed. Recovered a 48-page Clark Barnes briefing via ordinary download after web-tool 403. Rendered and visually inspected pp.26–27. Recorded photographic observations separately from author material identifications and proposed strengthening. Added S87 and structured observations with checksum; selected this block for permit/alteration matching. No sediment, original material date or completed repair established.
+
 ## 2026-10-08 - Pioneer Square administrative evidence
 
 Previous turn made progress: 571f4a6 published seven byte-verified files; clean checkout confirmed. Returned to C001 rather than treating missing Heal Lake widths as a global blocker. Located areaway permit series 0605-01 and inspected two 1883 council-page transcriptions. Distinguished petitions, adopted recommendations, ordinance adoption and bids from actual construction. Facsimile links returned example-image 404s; ordinary transcription-page download returned 403. Clerk ordinance route returned a human-verification challenge, not ordinance content; no bypass attempted. Added S84–S86 with explicit access limits and a parcel-level retrieval sequence. No new burial date, sediment identification or independent review.

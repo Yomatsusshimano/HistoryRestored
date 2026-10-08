@@ -30,9 +30,14 @@
           "source_id": "S86",
           "locator": "p.342, transcription page 3",
           "statement": "1883 proceedings record adopted waterfront roadway recommendations and a Jackson Street grade ordinance; original scan and construction outcome remain unchecked."
+        },
+        {
+          "source_id": "S87",
+          "locator": "PDF/printed pp.26–27",
+          "statement": "Grand Central Block condition photographs show masonry and metal surfaces; briefing describes patches and proposes strengthening. Existing conditions and proposed work must be separated."
         }
       ],
-      "physical_evidence": "No site inspection or sediment sample. Municipal maintenance account describes below-sidewalk spaces and a supporting street wall.",
+      "physical_evidence": "No site visit or sediment sample. S87 pp.26–27 condition photographs visually inspected: brick surfaces, metal supports/decking and patched areas beneath sidewalks. Material ages and surrounding stratigraphy remain unknown.",
       "surviving_documents": "Modern SDOT account; two pre-fire council-page transcriptions; 1905–1921 areaway-permit finding aid. Original grading plans remain uncollected.",
       "source_interpretation": "Deliberate grade raising created the lower level.",
       "investigation_inference": "An identified engineering alternative merits checking against original records before attributing burial to a natural event.",
@@ -41,7 +46,7 @@
         "Local natural deposition or subsidence, if independently evidenced"
       ],
       "counterevidence": "The below-ground level alone does not discriminate its cause; an engineered mechanism is documented.",
-      "next_test": "Retrieve series 0605-01 Volume 2 street index, choose a specific parcel, and match permit/drawing to original grade ordinance, surveyed elevations and surviving fabric.",
+      "next_test": "Match Grand Central Block areaway compartments to series 0605-01 permits and dated alteration plans; obtain original grade elevations, as-built records and fill logs before assigning construction or deposition dates.",
       "chronology": {
         "reported": "After the 1889 fire",
         "dated_object": "Street raising as reported in a modern account",
