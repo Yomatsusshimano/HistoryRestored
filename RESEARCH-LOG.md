@@ -1045,3 +1045,8 @@ Previous turn made verified public progress. Visually inspected S216 Table1 and 
 ### 2026-10-08 — Map coverage and citation lineage
 
 Previous turn made verified public progress. USGS SIM3411 catalog/pamphlet access returned403 via web and Python. Read selected author-uploaded map text via ResearchGate, verified latitude extent and identified citing-text contamination: the Palo Verde incomplete-mapping passage on that page belongs to a2019 citing article, not the2018 map. S2162018/2019 bibliography entries share the same map DOI. Bounded searches for Palo Verde alluvium with U-series, carbonate dating and coatings yielded no sample-linked new date; absence not established. No graphical contact inspection or new field chronology claimed.
+
+
+### 2026-10-08 — Topock relative sequence
+
+Previous turn made verified public progress. Original Topock pamphlet download returned403; author-uploaded map yielded web-extracted text but screenshot and local download failed. Search index exposed printed25 description of incorporated blocks and nested erosion/deposition. Published exact access depth and distinction between a possible single flood unit and the larger relative sequence. No new numeric event date or visual field validation.

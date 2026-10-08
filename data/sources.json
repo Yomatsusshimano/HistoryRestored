@@ -3449,6 +3449,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S219",
+      "title": "Geologic map of the Topock 7.5 minute quadrangle, Arizona and California",
+      "url": "https://doi.org/10.3133/sim3236",
+      "creator": "Keith A. Howard, Barbara E. John, Jane E. Nielson, Julia M. G. Miller and Joseph L. Wooden",
+      "publication_date": "2013",
+      "source_type": "USGS geological map and pamphlet",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Map marginal coordinate text via author-uploaded PDF web extraction; pamphlet printed25 Bat Cave passage only as search-index excerpt. research/COLORADO-BURIAL-DATING.md.",
+      "limitations": "Map screenshot failed; direct USGS pamphlet and local mirror download returned access errors. No visual contact inspection. Pamphlet conclusions remain excerpt-level and exact S216 cobble-to-contact linkage unverified.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

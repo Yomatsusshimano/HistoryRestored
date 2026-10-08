@@ -403,3 +403,8 @@ Sampling context now inspected: four site depths,22 linked lithologies, explicit
 ### 2026-10-08 — Map coverage and citation lineage
 
 S218 Castle Rock map lineage identified, selected map text inspected. Latitude extent excludes all four S216 sample sites; direct-contact evidence still needs the actual sampling-area maps. Bounded coating-date searches found no sample-linked result. Next House2016 original discussion and site-covering mapping, with explicit correlation crosswalk.
+
+
+### 2026-10-08 — Topock relative sequence
+
+S219 Topock marginal coordinates and original pamphlet excerpt recovered. Topock/Bat Cave are within nominal latitude extent; Santa Fe printed coordinate is just beyond its north edge. Next inspect actual Trbs-Trbb contacts and trace S216 specimen locations onto mapping, with coordinate uncertainty explicit. Do not infer duration from inset geometry alone.

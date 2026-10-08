@@ -678,6 +678,11 @@
           "source_id": "S218",
           "locator": "Map marginal latitude labels and credits, author-uploaded text; research/COLORADO-BURIAL-DATING.md",
           "statement": "Castle Rock map latitude extent34.5-34.625N excludes all four S216 reported sample latitudes. It supplies regional mapping context, not direct mapped contact evidence at those exposures. S216 bibliography lists2018/2019 entries sharing SIM3411 DOI; these are not two independent maps."
+        },
+        {
+          "source_id": "S219",
+          "locator": "Pamphlet printed25 indexed excerpt; map marginal coordinates; research/COLORADO-BURIAL-DATING.md",
+          "statement": "Original indexed passage reports Trbs blocks incorporated into inset Trbb, later inset by Chemehuevi deposits, and proposes a single flood for Trbb. Relative sequence is not an elapsed-time measurement; contacts and sample linkage remain visually unverified."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

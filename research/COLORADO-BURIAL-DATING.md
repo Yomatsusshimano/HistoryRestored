@@ -144,3 +144,13 @@ The cited [Castle Rock map, S218](https://doi.org/10.3133/sim3411) covers34°30�
 S216's bibliography has2018 and2019 Castle Rock entries with the same SIM3411 identifier and DOI. They are not two independent mapping confirmations. Also, a passage about incomplete Palo Verde mapping on the ResearchGate page belongs to a2019 citing article, not the map itself; it must not be attributed to the2018 document.
 
 Bounded searches pairing Palo Verde alluvium with U-series, carbonate dating and coatings found no new date linked to PVD019–023. This is a search limit, not evidence that no such measurements exist. House2016 and mapping that actually covers the sampled exposure remain the next targets.
+
+## Topock: a relative sequence to test
+
+[S219, the original Topock map pamphlet](https://pubs.usgs.gov/sim/3236/sim3236_pamphlet.pdf), printed25, was recoverable here only as an indexed search excerpt. It reports sandstone/conglomerate (Trbs) blocks inside the inset Bat Cave boulder conglomerate (Trbb), and later incision associated with the Chemehuevi Formation. The authors interpret erosion, deposition, then erosion again. They also propose a single flood for Trbb from its thickness and lack of internal bedding. These are compatible statements about different scopes.
+
+Incorporated older sediment blocks would support recycling and relative ordering if confirmed at the relevant contacts. They do not by themselves measure the intervals between events. A rapid-event alternative must explain the nested geometry and material transfer; the geometry alone cannot supply a million-year duration. Neither a global flood nor a recent age follows from the proposed single local flood.
+
+Extracted map margins span34.625–34.75°N. Topock and Bat Cave sample latitudes fall within that range. Santa Fe's printed34.750047°N lies just north of the nominal boundary; coordinate uncertainty and neighboring coverage require checking before assigning a mapped polygon. Palo Verde is outside. Longitude interpretation remains conditional on resolving S216's header.
+
+Map graphics, pamphlet photographs and exact sample-to-contact links remain uninspected after download and screenshot failures. Next obtain those observations before treating this relative sequence as independently verified field evidence.
