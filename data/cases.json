@@ -412,6 +412,11 @@
           "source_id": "S51",
           "locator": "Artifacts pp. 1-8; photograph sheets PDF 299-301",
           "statement": "Artifact study identifies non-linear combinations of lamp bases and filament attachments, including a possible experimental model and an anomalous combination; three object identifiers retained for accession-history checks."
+        },
+        {
+          "source_id": "S52",
+          "locator": "Indexed catalog ID Numbers, Relationships and Credit Line fields",
+          "statement": "Catalog 181799 maps to EM.181799 and accession 33407, attributed to February 1881 and credited from General Electric Co.; attribution basis remains uninspected."
         }
       ],
       "physical_evidence": "Woodward patent pages 1-3 and Edison specification pages 2-3 visually inspected; no original lamp tested. Selected artifact photographs in S51 inspected; no physical examination or independent object dating.",
@@ -423,7 +428,7 @@
         "Recovery from a demonstrably earlier artifact"
       ],
       "counterevidence": "Woodward predates Edison for a disclosed carbon-lamp arrangement. Edison claims more specific filament/vacuum combinations. Neither patent establishes recovery from a lost civilization or sole invention of all electric lighting.",
-      "next_test": "Retrieve original transfer instruments and dated laboratory records; compare other antecedents and measured lamp performance with each claimed technical improvement. Check SI 181,799, 318,653 and 318,686 accession/restoration records and original component measurements; retain unresolved patent-transfer search.",
+      "next_test": "Retrieve original transfer instruments and dated laboratory records; compare other antecedents and measured lamp performance with each claimed technical improvement. Check SI 181,799, 318,653 and 318,686 accession/restoration records and original component measurements; retain unresolved patent-transfer search. Prioritize accession 33407 and basis for the February 1881 attribution.",
       "chronology": {
         "reported": "Woodward: filing 1875-01-04, grant 1876-08-29; Edison: filing 1879-11-04, publication 1880-01-27",
         "dated_object": "Patent application/publication",

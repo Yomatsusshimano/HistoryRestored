@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Smithsonian lamp catalog identifier matched
+
+Previous turn made progress: 626cf83 published seven public-byte-verified files. Clean checkout rechecked. Exact-number and title searches recovered indexed Smithsonian catalog nmah_703487 for EM.181799. Added S52 as SEARCH_EXCERPT, preserving February 1881 attribution, maker/credit fields and accession 33407. Direct page retrieval failed; ordinary HTTP fetch returned 403. No full-page/image inspection or access workaround claimed.
+
+Other two study identifiers did not yield matching catalog results; no inference of absence. S51/S52 may share institutional documentation, so agreement is not independent dating. Accession date, date rationale and restoration history remain unknown. Seventeen drafts, fifty-two sources; independent review absent.
+
 ## 2026-10-08 - Lamp artifact comparison and unresolved transfer search
 
 Previous turn made progress: 335a757 published eight public-byte-verified files. Clean checkout rechecked. Searched Woodward/Evans transfer and Rutgers archive terms. Rutgers digital index returned browser verification; indexed March 1879 draft PDF initially appeared cached but live open and screenshots returned 404. No transfer instrument recovered and no absence claim inferred.

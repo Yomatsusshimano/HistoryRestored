@@ -914,6 +914,20 @@
       "sha256": "7fb6fbc2cb9efd27bd780811145be204df2835b87c23344a02ce33fe2e17ae0c",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S52",
+      "title": "Edison Johnson bevel-ring lamp, EM.181799, nmah_703487",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_703487",
+      "creator": "Smithsonian National Museum of American History",
+      "publication_date": null,
+      "source_type": "institutional object catalog, search-indexed copy",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Indexed title, date/maker attribution, credit line and identifiers; catalog 181799, accession 33407.",
+      "limitations": "Direct web retrieval failed and HTTP fetch returned 403. No current full page, object image, accession document, date rationale or restoration record inspected. Catalog agreement with S51 is not independent dating.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

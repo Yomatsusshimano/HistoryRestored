@@ -9,7 +9,22 @@
       "reported_combination": "Base IIIa and attachment A",
       "source_interpretation": "Possible experimental wooden model combining older clamp with later base",
       "photograph_inspected": true,
-      "manufacture_date_independently_verified": null
+      "manufacture_date_independently_verified": null,
+      "catalog_crosscheck": {
+        "source_id": "S52",
+        "record_id": "nmah_703487",
+        "id_number": "EM.181799",
+        "accession_number": "33407",
+        "reported_date_made": [
+          "1881",
+          "February 1881"
+        ],
+        "reported_maker": "Edison Electric Co.",
+        "credit_line": "from General Electric Co.",
+        "accession_date": null,
+        "date_basis_inspected": false,
+        "access": "SEARCH_EXCERPT"
+      }
     },
     {
       "catalog_identifier": "SI 318,653",
@@ -31,7 +46,7 @@
     }
   ],
   "limits": [
-    "Study's identifiers and classifications; current museum catalog entries not yet checked",
+    "One catalog match found through indexed institutional text; other two identifiers remain unverified against current catalogs",
     "No physical examination, accession file or restoration history inspected",
     "Photographs and their study captions share a source lineage",
     "No independently reproduced electrical performance measurements",

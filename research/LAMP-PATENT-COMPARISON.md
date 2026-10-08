@@ -37,3 +37,11 @@ The assignment search remains unresolved: Rutgers' digital index presented brows
 The [artifact ledger](../data/lamp-artifacts.json) records three Smithsonian identifiers for follow-up. SI 181,799 combines an early clamp with a later base; the authors interpret it as experimental. SI 318,653 is explicitly anomalous in their sequence, but its photograph has not yet been inspected here. SI 318,686 appears under a base type dated 1888 and an attachment type dated 1886: those are component-type labels, not two independent dates of the whole object.
 
 Physical variability offers a test of development accounts, but photographs do not independently date manufacture or establish performance. Museum accession files, restoration histories, original measurements and notebook links remain needed. No Woodward-to-Edison transfer instrument or ancient technology lineage has been established.
+
+## Museum catalog cross-check
+
+The indexed [Smithsonian record nmah_703487](https://americanhistory.si.edu/collections/object/nmah_703487) (S52) identifies **EM.181799**, catalog 181799, as a Johnson bevel-ring lamp. It lists **1881 / February 1881** as manufacture dates, Edison Electric Co. as maker, General Electric Co. in the credit line, and **accession 33407**. These fields connect the study's object number to a specific institutional record. They do not supply an accession date, original manufacture record or restoration history.
+
+Direct page retrieval returned an error, and a standard HTTP request returned 403. Only search-indexed catalog text was inspected; no new object-image inspection is claimed. Exact-number searches did not recover matching records for SI 318,653 or 318,686. That search outcome does not establish that the objects or records are missing.
+
+The catalog's year agrees with S51's base-type year for 181,799, but the two descriptions may draw on the same museum documentation. Do not count this as independent dating. Next inspect accession 33407 and its object-specific documentation, including how the February attribution was assigned.
