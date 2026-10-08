@@ -222,3 +222,5 @@ Moxee flood-count audit: S160 contacts are gradational; some dikes terminate and
 Sanpoil S163 recovered: original count/estimate separation and conditional annuality argument inspected. Audit full correlations, independent seasonal evidence and paleomagnetic tests next; regional upper-duration consistency alone does not establish a one-year couplet.
 
 Sanpoil magnetism: S164 abstract reports correlated declination change, a separate observable requiring explanation by rapid-deposition alternatives. Recover full orientation/demagnetization/directional data and rate-age inputs. S165 partial text cannot independently validate annuality; its duration cites earlier work.
+
+Touchet magnetism: S166/S167 and 82 bed-summary rows recovered. Retrospective pre-ash cone comparison published, including an overlapping pair and unresolved printed labels/counts. Next retrieve Fish Lake/Mono Lake directional series and age models, and Little Boulder Lake core/assays. Test the proposed So-Sg interval transfer explicitly; do not treat it as a direct measured minimum duration.

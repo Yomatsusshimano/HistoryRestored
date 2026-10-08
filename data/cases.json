@@ -690,6 +690,16 @@
           "source_id": "S165",
           "locator": "Article-in-press PDF p.3",
           "statement": "Authors could not consistently identify varves; their 700-2600-year duration cites earlier studies, distinct from their new magnetic-property sampling."
+        },
+        {
+          "source_id": "S166",
+          "locator": "pp.249-250, magnetic fitting and tephra discussion",
+          "statement": "Duration fitting uses external lake magnetic reference curves; the ash-spacing argument transfers an interval estimate from two Sg layers at Little Boulder Lake to the So-Sg pair."
+        },
+        {
+          "source_id": "S167",
+          "locator": "Table DR1, PDF pp.1-2",
+          "statement": "Recovered 82 published directional summaries across three southern Washington sections; preserved ambiguous labels and printed sample counts. See the Touchet magnetic audit for a conditional pre-ash direction comparison."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.",
@@ -717,7 +727,8 @@
         "Complete executable model inputs",
         "Independent field and simulation review",
         "Independent annuality test and original correlations for S163 Sanpoil couplets; separate counted from estimated components",
-        "Steele 1991 numerical directions, demagnetization, orientation and age inputs for rate inference"
+        "Steele 1991 numerical directions, demagnetization, orientation and age inputs for rate inference",
+        "Clague 2003 raw magnetic vectors, ambiguous DR1 labels/counts, reference-curve age models, and Little Boulder Lake original core/assay records"
       ],
       "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood."
     },

@@ -1,0 +1,1657 @@
+{
+  "source_id": "S167",
+  "status": "SOURCED_DRAFT",
+  "attribution": "Clague, Barendregt, Enkin and Foit (2003), GSA Data Repository 2003023, Table DR1, doi:10.1130/2003023",
+  "source_license": "CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/",
+  "transcription": "Numeric transcription from extracted text checked against all three rendered supplement pages; values and printed precision retained in printed_tokens. No source correction.",
+  "limitations": [
+    "Bed means, not specimen vectors or demagnetization steps. No independent review.",
+    "Duplicate couplet 0 rows at Touchet and Zillah retained separately; their exact sampling relation is not resolved.",
+    "Zillah couplet 16 is printed positive between -14 and -20; do not silently change its sign.",
+    "Touchet -12 and -13, and Zillah -22 print N=1 although k and alpha95 are supplied. Possible truncation or source error; actual sample counts unresolved.",
+    "Lower Zillah alignment is approximate according to the main paper.",
+    "alpha95 is treated as a directional confidence-cone radius for the explicitly conditional geometry check; printed values do not include all possible systematic errors."
+  ],
+  "rows": [
+    {
+      "row_id": "Touchet-01",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "31",
+        "4.8",
+        "66.7",
+        "106.9",
+        "7.4",
+        "5"
+      ],
+      "couplet": 31,
+      "declination_deg": 4.8,
+      "inclination_deg": 66.7,
+      "k": 106.9,
+      "alpha95_deg": 7.4,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Burlingame-01",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "10",
+        "-17.4",
+        "49.7",
+        "27.8",
+        "12.",
+        "6"
+      ],
+      "couplet": 10,
+      "declination_deg": -17.4,
+      "inclination_deg": 49.7,
+      "k": 27.8,
+      "alpha95_deg": 12.0,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-02",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "30",
+        "0.8",
+        "65.9",
+        "110.9",
+        "6.4",
+        "6"
+      ],
+      "couplet": 30,
+      "declination_deg": 0.8,
+      "inclination_deg": 65.9,
+      "k": 110.9,
+      "alpha95_deg": 6.4,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-02",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "9",
+        "42.3",
+        "45.4",
+        "108.",
+        "8.9",
+        "4"
+      ],
+      "couplet": 9,
+      "declination_deg": 42.3,
+      "inclination_deg": 45.4,
+      "k": 108.0,
+      "alpha95_deg": 8.9,
+      "N_printed": 4
+    },
+    {
+      "row_id": "Touchet-03",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "29",
+        "-10.",
+        "69.3",
+        "73.0",
+        "7.9",
+        "6"
+      ],
+      "couplet": 29,
+      "declination_deg": -10.0,
+      "inclination_deg": 69.3,
+      "k": 73.0,
+      "alpha95_deg": 7.9,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-03",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "8",
+        "21.5",
+        "45.5",
+        "62.0",
+        "9.8",
+        "5"
+      ],
+      "couplet": 8,
+      "declination_deg": 21.5,
+      "inclination_deg": 45.5,
+      "k": 62.0,
+      "alpha95_deg": 9.8,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Touchet-04",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "28",
+        "33.",
+        "62.6",
+        "56.6",
+        "9.0",
+        "6"
+      ],
+      "couplet": 28,
+      "declination_deg": 33.0,
+      "inclination_deg": 62.6,
+      "k": 56.6,
+      "alpha95_deg": 9.0,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-04",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "7",
+        "6.8",
+        "31.2",
+        "86.9",
+        "8.3",
+        "5"
+      ],
+      "couplet": 7,
+      "declination_deg": 6.8,
+      "inclination_deg": 31.2,
+      "k": 86.9,
+      "alpha95_deg": 8.3,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Touchet-05",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "27",
+        "0.6",
+        "68.7",
+        "195.0",
+        "4.8",
+        "6"
+      ],
+      "couplet": 27,
+      "declination_deg": 0.6,
+      "inclination_deg": 68.7,
+      "k": 195.0,
+      "alpha95_deg": 4.8,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-05",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "6",
+        "16.2",
+        "40.5",
+        "53.0",
+        "9.3",
+        "6"
+      ],
+      "couplet": 6,
+      "declination_deg": 16.2,
+      "inclination_deg": 40.5,
+      "k": 53.0,
+      "alpha95_deg": 9.3,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-06",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "26",
+        "-7.2",
+        "61.3",
+        "96.9",
+        "6.8",
+        "6"
+      ],
+      "couplet": 26,
+      "declination_deg": -7.2,
+      "inclination_deg": 61.3,
+      "k": 96.9,
+      "alpha95_deg": 6.8,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-06",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "5",
+        "20.9",
+        "47.3",
+        "102.",
+        "6.7",
+        "6"
+      ],
+      "couplet": 5,
+      "declination_deg": 20.9,
+      "inclination_deg": 47.3,
+      "k": 102.0,
+      "alpha95_deg": 6.7,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-07",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "25",
+        "3.7",
+        "74.5",
+        "1105.",
+        "2.8",
+        "4"
+      ],
+      "couplet": 25,
+      "declination_deg": 3.7,
+      "inclination_deg": 74.5,
+      "k": 1105.0,
+      "alpha95_deg": 2.8,
+      "N_printed": 4
+    },
+    {
+      "row_id": "Burlingame-07",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "4",
+        "17.3",
+        "55.6",
+        "210.",
+        "5.3",
+        "5"
+      ],
+      "couplet": 4,
+      "declination_deg": 17.3,
+      "inclination_deg": 55.6,
+      "k": 210.0,
+      "alpha95_deg": 5.3,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Touchet-08",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "24",
+        "-5.3",
+        "60.7",
+        "171.1",
+        "5.1",
+        "6"
+      ],
+      "couplet": 24,
+      "declination_deg": -5.3,
+      "inclination_deg": 60.7,
+      "k": 171.1,
+      "alpha95_deg": 5.1,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-08",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "3",
+        "14.3",
+        "41.5",
+        "168.",
+        "5.2",
+        "6"
+      ],
+      "couplet": 3,
+      "declination_deg": 14.3,
+      "inclination_deg": 41.5,
+      "k": 168.0,
+      "alpha95_deg": 5.2,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-09",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "23",
+        "-13.",
+        "56.1",
+        "148.1",
+        "7.6",
+        "4"
+      ],
+      "couplet": 23,
+      "declination_deg": -13.0,
+      "inclination_deg": 56.1,
+      "k": 148.1,
+      "alpha95_deg": 7.6,
+      "N_printed": 4
+    },
+    {
+      "row_id": "Burlingame-09",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "2",
+        "10.4",
+        "42.1",
+        "59.1",
+        "10.",
+        "5"
+      ],
+      "couplet": 2,
+      "declination_deg": 10.4,
+      "inclination_deg": 42.1,
+      "k": 59.1,
+      "alpha95_deg": 10.0,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Touchet-10",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "20",
+        "-0.9",
+        "53.3",
+        "387.9",
+        "3.4",
+        "6"
+      ],
+      "couplet": 20,
+      "declination_deg": -0.9,
+      "inclination_deg": 53.3,
+      "k": 387.9,
+      "alpha95_deg": 3.4,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-10",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "1",
+        "19.9",
+        "46.8",
+        "136.",
+        "5.2",
+        "7"
+      ],
+      "couplet": 1,
+      "declination_deg": 19.9,
+      "inclination_deg": 46.8,
+      "k": 136.0,
+      "alpha95_deg": 5.2,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Touchet-11",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "16",
+        "-8.7",
+        "54.6",
+        "128.2",
+        "5.9",
+        "6"
+      ],
+      "couplet": 16,
+      "declination_deg": -8.7,
+      "inclination_deg": 54.6,
+      "k": 128.2,
+      "alpha95_deg": 5.9,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-11",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "0",
+        "20.4",
+        "51.6",
+        "201.",
+        "4.3",
+        "7"
+      ],
+      "couplet": 0,
+      "declination_deg": 20.4,
+      "inclination_deg": 51.6,
+      "k": 201.0,
+      "alpha95_deg": 4.3,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Touchet-12",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "14",
+        "-8.8",
+        "53.3",
+        "146.3",
+        "5.6",
+        "6"
+      ],
+      "couplet": 14,
+      "declination_deg": -8.8,
+      "inclination_deg": 53.3,
+      "k": 146.3,
+      "alpha95_deg": 5.6,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-12",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-1",
+        "7.4",
+        "50.1",
+        "140.",
+        "5.7",
+        "6"
+      ],
+      "couplet": -1,
+      "declination_deg": 7.4,
+      "inclination_deg": 50.1,
+      "k": 140.0,
+      "alpha95_deg": 5.7,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-13",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "11",
+        "-2.4",
+        "56.2",
+        "555.2",
+        "2.8",
+        "6"
+      ],
+      "couplet": 11,
+      "declination_deg": -2.4,
+      "inclination_deg": 56.2,
+      "k": 555.2,
+      "alpha95_deg": 2.8,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-13",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-2",
+        "9.4",
+        "53.6",
+        "146.",
+        "5.6",
+        "6"
+      ],
+      "couplet": -2,
+      "declination_deg": 9.4,
+      "inclination_deg": 53.6,
+      "k": 146.0,
+      "alpha95_deg": 5.6,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-14",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "10",
+        "-17.",
+        "58.9",
+        "128.5",
+        "5.9",
+        "6"
+      ],
+      "couplet": 10,
+      "declination_deg": -17.0,
+      "inclination_deg": 58.9,
+      "k": 128.5,
+      "alpha95_deg": 5.9,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-14",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-3",
+        "-3.2",
+        "56.0",
+        "264.",
+        "4.7",
+        "5"
+      ],
+      "couplet": -3,
+      "declination_deg": -3.2,
+      "inclination_deg": 56.0,
+      "k": 264.0,
+      "alpha95_deg": 4.7,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Touchet-15",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "9",
+        "20.",
+        "41.3",
+        "151.2",
+        "5.5",
+        "6"
+      ],
+      "couplet": 9,
+      "declination_deg": 20.0,
+      "inclination_deg": 41.3,
+      "k": 151.2,
+      "alpha95_deg": 5.5,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-15",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-4",
+        "-1.7",
+        "61.8",
+        "70.4",
+        "8.0",
+        "6"
+      ],
+      "couplet": -4,
+      "declination_deg": -1.7,
+      "inclination_deg": 61.8,
+      "k": 70.4,
+      "alpha95_deg": 8.0,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-16",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "8",
+        "6.4",
+        "45.3",
+        "118.2",
+        "6.2",
+        "6"
+      ],
+      "couplet": 8,
+      "declination_deg": 6.4,
+      "inclination_deg": 45.3,
+      "k": 118.2,
+      "alpha95_deg": 6.2,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-16",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-5",
+        "-6.0",
+        "64.5",
+        "30.5",
+        "12.",
+        "6"
+      ],
+      "couplet": -5,
+      "declination_deg": -6.0,
+      "inclination_deg": 64.5,
+      "k": 30.5,
+      "alpha95_deg": 12.0,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-17",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "7",
+        "7.0",
+        "48.4",
+        "108.5",
+        "6.5",
+        "6"
+      ],
+      "couplet": 7,
+      "declination_deg": 7.0,
+      "inclination_deg": 48.4,
+      "k": 108.5,
+      "alpha95_deg": 6.5,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-17",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-6",
+        "0.7",
+        "58.2",
+        "50.3",
+        "9.5",
+        "6"
+      ],
+      "couplet": -6,
+      "declination_deg": 0.7,
+      "inclination_deg": 58.2,
+      "k": 50.3,
+      "alpha95_deg": 9.5,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-18",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "5",
+        "15.",
+        "51.3",
+        "122.4",
+        "6.1",
+        "6"
+      ],
+      "couplet": 5,
+      "declination_deg": 15.0,
+      "inclination_deg": 51.3,
+      "k": 122.4,
+      "alpha95_deg": 6.1,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-18",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-7",
+        "13.1",
+        "59.8",
+        "122.",
+        "6.1",
+        "6"
+      ],
+      "couplet": -7,
+      "declination_deg": 13.1,
+      "inclination_deg": 59.8,
+      "k": 122.0,
+      "alpha95_deg": 6.1,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-19",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "4",
+        "8.0",
+        "44.1",
+        "301.1",
+        "3.9",
+        "6"
+      ],
+      "couplet": 4,
+      "declination_deg": 8.0,
+      "inclination_deg": 44.1,
+      "k": 301.1,
+      "alpha95_deg": 3.9,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-19",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-8",
+        "-12.6",
+        "58.0",
+        "240.",
+        "4.9",
+        "5"
+      ],
+      "couplet": -8,
+      "declination_deg": -12.6,
+      "inclination_deg": 58.0,
+      "k": 240.0,
+      "alpha95_deg": 4.9,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Touchet-20",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "3",
+        "8.9",
+        "48.6",
+        "324.9",
+        "3.7",
+        "6"
+      ],
+      "couplet": 3,
+      "declination_deg": 8.9,
+      "inclination_deg": 48.6,
+      "k": 324.9,
+      "alpha95_deg": 3.7,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-20",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-9",
+        "1.5",
+        "53.4",
+        "218.",
+        "5.2",
+        "5"
+      ],
+      "couplet": -9,
+      "declination_deg": 1.5,
+      "inclination_deg": 53.4,
+      "k": 218.0,
+      "alpha95_deg": 5.2,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Touchet-21",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "2",
+        "9.3",
+        "56.3",
+        "96.2",
+        "6.9",
+        "6"
+      ],
+      "couplet": 2,
+      "declination_deg": 9.3,
+      "inclination_deg": 56.3,
+      "k": 96.2,
+      "alpha95_deg": 6.9,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-21",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-10",
+        "16.7",
+        "52.8",
+        "161.",
+        "5.3",
+        "6"
+      ],
+      "couplet": -10,
+      "declination_deg": 16.7,
+      "inclination_deg": 52.8,
+      "k": 161.0,
+      "alpha95_deg": 5.3,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-22",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "1",
+        "16.",
+        "55.5",
+        "420.9",
+        "3.3",
+        "6"
+      ],
+      "couplet": 1,
+      "declination_deg": 16.0,
+      "inclination_deg": 55.5,
+      "k": 420.9,
+      "alpha95_deg": 3.3,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-22",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-11",
+        "15.1",
+        "43.8",
+        "93.2",
+        "8.0",
+        "5"
+      ],
+      "couplet": -11,
+      "declination_deg": 15.1,
+      "inclination_deg": 43.8,
+      "k": 93.2,
+      "alpha95_deg": 8.0,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Touchet-23",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "0",
+        "9.5",
+        "54.7",
+        "961.2",
+        "2.5",
+        "5"
+      ],
+      "couplet": 0,
+      "declination_deg": 9.5,
+      "inclination_deg": 54.7,
+      "k": 961.2,
+      "alpha95_deg": 2.5,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Burlingame-23",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-12",
+        "17.8",
+        "48.3",
+        "75.6",
+        "7.8",
+        "6"
+      ],
+      "couplet": -12,
+      "declination_deg": 17.8,
+      "inclination_deg": 48.3,
+      "k": 75.6,
+      "alpha95_deg": 7.8,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Touchet-24",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "0",
+        "3.6",
+        "56.4",
+        "698.9",
+        "2.5",
+        "6"
+      ],
+      "couplet": 0,
+      "declination_deg": 3.6,
+      "inclination_deg": 56.4,
+      "k": 698.9,
+      "alpha95_deg": 2.5,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-24",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-13",
+        "18.5",
+        "47.1",
+        "149.",
+        "4.5",
+        "8"
+      ],
+      "couplet": -13,
+      "declination_deg": 18.5,
+      "inclination_deg": 47.1,
+      "k": 149.0,
+      "alpha95_deg": 4.5,
+      "N_printed": 8
+    },
+    {
+      "row_id": "Touchet-25",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-1",
+        "5.3",
+        "61.5",
+        "216.8",
+        "4.1",
+        "7"
+      ],
+      "couplet": -1,
+      "declination_deg": 5.3,
+      "inclination_deg": 61.5,
+      "k": 216.8,
+      "alpha95_deg": 4.1,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Burlingame-25",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-14",
+        "18.4",
+        "47.7",
+        "59.5",
+        "7.9",
+        "7"
+      ],
+      "couplet": -14,
+      "declination_deg": 18.4,
+      "inclination_deg": 47.7,
+      "k": 59.5,
+      "alpha95_deg": 7.9,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Touchet-26",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-2",
+        "9.5",
+        "53.3",
+        "114.3",
+        "6.3",
+        "6"
+      ],
+      "couplet": -2,
+      "declination_deg": 9.5,
+      "inclination_deg": 53.3,
+      "k": 114.3,
+      "alpha95_deg": 6.3,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-26",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-15",
+        "12.7",
+        "59.9",
+        "107.",
+        "5.9",
+        "7"
+      ],
+      "couplet": -15,
+      "declination_deg": 12.7,
+      "inclination_deg": 59.9,
+      "k": 107.0,
+      "alpha95_deg": 5.9,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Touchet-27",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-3",
+        "-9.5",
+        "53.5",
+        "167.1",
+        "4.3",
+        "8"
+      ],
+      "couplet": -3,
+      "declination_deg": -9.5,
+      "inclination_deg": 53.5,
+      "k": 167.1,
+      "alpha95_deg": 4.3,
+      "N_printed": 8
+    },
+    {
+      "row_id": "Burlingame-27",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-16",
+        "10.2",
+        "54.6",
+        "144.",
+        "5.0",
+        "7"
+      ],
+      "couplet": -16,
+      "declination_deg": 10.2,
+      "inclination_deg": 54.6,
+      "k": 144.0,
+      "alpha95_deg": 5.0,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Touchet-28",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-5",
+        "-6.2",
+        "60.9",
+        "234.5",
+        "4.4",
+        "6"
+      ],
+      "couplet": -5,
+      "declination_deg": -6.2,
+      "inclination_deg": 60.9,
+      "k": 234.5,
+      "alpha95_deg": 4.4,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-28",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-17",
+        "10.3",
+        "44.7",
+        "63.9",
+        "7.0",
+        "8"
+      ],
+      "couplet": -17,
+      "declination_deg": 10.3,
+      "inclination_deg": 44.7,
+      "k": 63.9,
+      "alpha95_deg": 7.0,
+      "N_printed": 8
+    },
+    {
+      "row_id": "Touchet-29",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-6",
+        "6.8",
+        "64.6",
+        "74.4",
+        "7.8",
+        "6"
+      ],
+      "couplet": -6,
+      "declination_deg": 6.8,
+      "inclination_deg": 64.6,
+      "k": 74.4,
+      "alpha95_deg": 7.8,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Burlingame-29",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-18",
+        "15.9",
+        "56.0",
+        "107.",
+        "5.0",
+        "9"
+      ],
+      "couplet": -18,
+      "declination_deg": 15.9,
+      "inclination_deg": 56.0,
+      "k": 107.0,
+      "alpha95_deg": 5.0,
+      "N_printed": 9
+    },
+    {
+      "row_id": "Touchet-30",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-7",
+        "-2.0",
+        "65.0",
+        "155.0",
+        "6.2",
+        "5"
+      ],
+      "couplet": -7,
+      "declination_deg": -2.0,
+      "inclination_deg": 65.0,
+      "k": 155.0,
+      "alpha95_deg": 6.2,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Burlingame-30",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-19",
+        "7.5",
+        "56.9",
+        "67.1",
+        "6.3",
+        "9"
+      ],
+      "couplet": -19,
+      "declination_deg": 7.5,
+      "inclination_deg": 56.9,
+      "k": 67.1,
+      "alpha95_deg": 6.3,
+      "N_printed": 9
+    },
+    {
+      "row_id": "Touchet-31",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-11",
+        "-1.6",
+        "65.6",
+        "102.5",
+        "5.1",
+        "9"
+      ],
+      "couplet": -11,
+      "declination_deg": -1.6,
+      "inclination_deg": 65.6,
+      "k": 102.5,
+      "alpha95_deg": 5.1,
+      "N_printed": 9
+    },
+    {
+      "row_id": "Burlingame-31",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-20",
+        "0.9",
+        "56.4",
+        "294.",
+        "5.4",
+        "4"
+      ],
+      "couplet": -20,
+      "declination_deg": 0.9,
+      "inclination_deg": 56.4,
+      "k": 294.0,
+      "alpha95_deg": 5.4,
+      "N_printed": 4
+    },
+    {
+      "row_id": "Touchet-32",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-12",
+        "10.",
+        "55.8",
+        "119.1",
+        "4.4",
+        "1"
+      ],
+      "couplet": -12,
+      "declination_deg": 10.0,
+      "inclination_deg": 55.8,
+      "k": 119.1,
+      "alpha95_deg": 4.4,
+      "N_printed": 1
+    },
+    {
+      "row_id": "Burlingame-32",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-21",
+        "10.5",
+        "48.6",
+        "135.",
+        "5.2",
+        "7"
+      ],
+      "couplet": -21,
+      "declination_deg": 10.5,
+      "inclination_deg": 48.6,
+      "k": 135.0,
+      "alpha95_deg": 5.2,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Touchet-33",
+      "site": "Touchet",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-13",
+        "10.",
+        "52.4",
+        "27.6",
+        "6.9",
+        "1"
+      ],
+      "couplet": -13,
+      "declination_deg": 10.0,
+      "inclination_deg": 52.4,
+      "k": 27.6,
+      "alpha95_deg": 6.9,
+      "N_printed": 1
+    },
+    {
+      "row_id": "Burlingame-33",
+      "site": "Burlingame",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-22",
+        "6.2",
+        "49.9",
+        "932.",
+        "2.5",
+        "5"
+      ],
+      "couplet": -22,
+      "declination_deg": 6.2,
+      "inclination_deg": 49.9,
+      "k": 932.0,
+      "alpha95_deg": 2.5,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Zillah-01",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "1",
+        "15.",
+        "47.3",
+        "106.2",
+        "5.9",
+        "7"
+      ],
+      "couplet": 1,
+      "declination_deg": 15.0,
+      "inclination_deg": 47.3,
+      "k": 106.2,
+      "alpha95_deg": 5.9,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Zillah-02",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "0",
+        "15.",
+        "45.3",
+        "448.6",
+        "11.",
+        "2"
+      ],
+      "couplet": 0,
+      "declination_deg": 15.0,
+      "inclination_deg": 45.3,
+      "k": 448.6,
+      "alpha95_deg": 11.0,
+      "N_printed": 2
+    },
+    {
+      "row_id": "Zillah-03",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "0",
+        "11.",
+        "48.1",
+        "42.4",
+        "10.",
+        "6"
+      ],
+      "couplet": 0,
+      "declination_deg": 11.0,
+      "inclination_deg": 48.1,
+      "k": 42.4,
+      "alpha95_deg": 10.0,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Zillah-04",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-2",
+        "6.9",
+        "51.7",
+        "77.5",
+        "8.7",
+        "5"
+      ],
+      "couplet": -2,
+      "declination_deg": 6.9,
+      "inclination_deg": 51.7,
+      "k": 77.5,
+      "alpha95_deg": 8.7,
+      "N_printed": 5
+    },
+    {
+      "row_id": "Zillah-05",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-3",
+        "-3.5",
+        "64.5",
+        "48.0",
+        "9.8",
+        "6"
+      ],
+      "couplet": -3,
+      "declination_deg": -3.5,
+      "inclination_deg": 64.5,
+      "k": 48.0,
+      "alpha95_deg": 9.8,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Zillah-06",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-5",
+        "-14.",
+        "69.5",
+        "104.2",
+        "6.6",
+        "6"
+      ],
+      "couplet": -5,
+      "declination_deg": -14.0,
+      "inclination_deg": 69.5,
+      "k": 104.2,
+      "alpha95_deg": 6.6,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Zillah-07",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.1",
+      "printed_tokens": [
+        "-7",
+        "-1.9",
+        "58.5",
+        "55.3",
+        "8.2",
+        "7"
+      ],
+      "couplet": -7,
+      "declination_deg": -1.9,
+      "inclination_deg": 58.5,
+      "k": 55.3,
+      "alpha95_deg": 8.2,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Zillah-08",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "-9",
+        "-7.5",
+        "54.8",
+        "120.9",
+        "5.5",
+        "7"
+      ],
+      "couplet": -9,
+      "declination_deg": -7.5,
+      "inclination_deg": 54.8,
+      "k": 120.9,
+      "alpha95_deg": 5.5,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Zillah-09",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "-12",
+        "8.1",
+        "46.2",
+        "42.7",
+        "8.6",
+        "8"
+      ],
+      "couplet": -12,
+      "declination_deg": 8.1,
+      "inclination_deg": 46.2,
+      "k": 42.7,
+      "alpha95_deg": 8.6,
+      "N_printed": 8
+    },
+    {
+      "row_id": "Zillah-10",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "-13",
+        "-7.9",
+        "59.4",
+        "56.3",
+        "8.1",
+        "7"
+      ],
+      "couplet": -13,
+      "declination_deg": -7.9,
+      "inclination_deg": 59.4,
+      "k": 56.3,
+      "alpha95_deg": 8.1,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Zillah-11",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "-14",
+        "0.7",
+        "51.8",
+        "312.1",
+        "3.1",
+        "8"
+      ],
+      "couplet": -14,
+      "declination_deg": 0.7,
+      "inclination_deg": 51.8,
+      "k": 312.1,
+      "alpha95_deg": 3.1,
+      "N_printed": 8
+    },
+    {
+      "row_id": "Zillah-12",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "16",
+        "2.1",
+        "52.3",
+        "109.7",
+        "6.4",
+        "6"
+      ],
+      "couplet": 16,
+      "declination_deg": 2.1,
+      "inclination_deg": 52.3,
+      "k": 109.7,
+      "alpha95_deg": 6.4,
+      "N_printed": 6
+    },
+    {
+      "row_id": "Zillah-13",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "-20",
+        "-5.8",
+        "43.4",
+        "165.5",
+        "7.2",
+        "4"
+      ],
+      "couplet": -20,
+      "declination_deg": -5.8,
+      "inclination_deg": 43.4,
+      "k": 165.5,
+      "alpha95_deg": 7.2,
+      "N_printed": 4
+    },
+    {
+      "row_id": "Zillah-14",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "-21",
+        "-5.0",
+        "54.7",
+        "110.0",
+        "5.8",
+        "7"
+      ],
+      "couplet": -21,
+      "declination_deg": -5.0,
+      "inclination_deg": 54.7,
+      "k": 110.0,
+      "alpha95_deg": 5.8,
+      "N_printed": 7
+    },
+    {
+      "row_id": "Zillah-15",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "-22",
+        "-4.7",
+        "53.4",
+        "136.6",
+        "3.4",
+        "1"
+      ],
+      "couplet": -22,
+      "declination_deg": -4.7,
+      "inclination_deg": 53.4,
+      "k": 136.6,
+      "alpha95_deg": 3.4,
+      "N_printed": 1
+    },
+    {
+      "row_id": "Zillah-16",
+      "site": "Zillah",
+      "source_id": "S167",
+      "locator": "Table DR1, PDF p.2",
+      "printed_tokens": [
+        "-23",
+        "-11.",
+        "51.1",
+        "215.2",
+        "4.1",
+        "7"
+      ],
+      "couplet": -23,
+      "declination_deg": -11.0,
+      "inclination_deg": 51.1,
+      "k": 215.2,
+      "alpha95_deg": 4.1,
+      "N_printed": 7
+    }
+  ]
+}
