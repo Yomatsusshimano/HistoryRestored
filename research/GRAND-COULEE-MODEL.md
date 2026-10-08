@@ -22,6 +22,19 @@ The paper infers cohesion bounds from intact columns and assumed geometry, rathe
 
 ## Repository and nested archive follow-up
 
+### Geometry follow-up: adjacent zones, not nested bounds
+
+The [executed geometry audit](../analysis/grand_coulee_polygon_audit.py) reads the pinned nested archive without modifying it. All eight shapefiles contain one valid polygon feature. Recomputed planar areas agree with stored `area` attributes within 0.001 m². Every corresponding inner/outer pair has zero intersection area and zero separation distance: these are touching, non-overlapping zones, not one outline enclosing another. [Results](../analysis/grand-coulee-polygon-audit-result.json).
+
+| Filename group (zone_simple_) | Inner area, km² | Outer area, km² |
+| --- | ---: | ---: |
+| exp_bar | 89.750 | 100.466 |
+| loop_small | 6.611 | 43.158 |
+| north_big | 57.781 | 67.072 |
+| north_small | 13.510 | 24.057 |
+
+Areas are native projected calculations, not independently surveyed ground areas. Stored attributes are a consistency check from the same dataset, not independent validation. Do not infer the intended error statistic from filenames or subtract these as nested uncertainty bounds. The README associates calculate_areas.py with wetted-area calculations; its actual implementation and corresponding hydraulic outputs remain uninspected. A browser check of the designated Globus link reached login, so no authenticated file comparison was possible in that session.
+
 The [current repository API, S127](https://scholarworks.umass.edu/server/api/core/items/f7ace593-37f4-4f14-ac2b-818abd0976dc) explicitly directs the full dataset to [Grand_Coulee_Repository on Globus](https://app.globus.org/file-manager?origin_id=b9120884-93ae-4a90-9f91-1556b01569e7&origin_path=%2FGrand_Coulee_Repository%2F), with sign-in required. The complete ORIGINAL bundle listing has two entries: README.txt and area_error_column_counts.zip. This does not indicate missing research data; it identifies separate storage. [Access record](../data/grand-coulee-repository-access.json). No authenticated listing was attempted.
 
 Subsequent nested inspection recovered the path GC_dimensions.xls and eight polygon shapefile sets. All eight projection files declare NAD27 / UTM zone 11N with metre units. [Hashed nested inventory](../data/grand-coulee-nested-inventory.json) and [reproducible inventory script](../analysis/grand_coulee_archive_inventory.py). Workbook cells and polygon geometry remain uninspected. The projection declaration applies to these ancillary files, not automatically every model surface. Future coordinate comparisons must verify each input datum and transformation; raw coordinates must not be silently treated as WGS84. No geometry fit, hydraulic output or independent physical prediction is validated by this inventory.

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Adjacent inundation comparison zones
+
+Previous turn made progress: 3f6dab2 published six verified files; clean checkout confirmed. Browser archive check reached Globus login; no authenticated access. Executed planar geometry audit on pinned public archive with scratch-installed pyshp and Shapely. Eight geometries valid; all four inner/outer pairs have zero overlap and zero boundary distance. Computed areas match stored attributes within 0.001 square metre. This rejects a nested-bound interpretation of the filenames, not the hydraulic model. Source fitting script remains uninspected. Initial dependency import ran before installation finished; rerun succeeded after verified installation completion. Full goal remains active.
+
 ## 2026-10-08 - Column measurement units and coverage
 
 Previous turn made progress: e491440 published seven verified files. Clean checkout confirmed. Inspected pinned XLS using xlrd 2.0.2 installed only in scratch dependencies. Recomputed both medians from 50 numeric pairs and matched cached summaries. Documented conflicting cm/m labels and absent summit sheet without inventing corrections or missing values. Compared article section 4; no force balance or hydraulic model executed. Full goal remains active.

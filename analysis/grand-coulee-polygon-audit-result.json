@@ -1,0 +1,246 @@
+{
+  "source_id": "S126",
+  "outer_sha256": "459d1db73f006bd24746d695ebc5e9ca67f6834610dddbf2b85cfbb6622acbe4",
+  "libraries": {
+    "pyshp": "2.3.1",
+    "shapely": "2.1.2"
+  },
+  "area_basis": "Planar native projected square metres; no reprojection or geodesic correction.",
+  "polygons": [
+    {
+      "name": "zone_simple_exp_bar_inner",
+      "records": 1,
+      "valid": true,
+      "validity": [
+        "Valid Geometry"
+      ],
+      "attributes": [
+        {
+          "Id": 0,
+          "area": 89749548.7239
+        }
+      ],
+      "projection": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+      "area_m2": 89749548.72385919,
+      "bounds": [
+        329927.7078911336,
+        5269171.988925813,
+        344632.17890000157,
+        5281967.623299999
+      ],
+      "stored_area_sum_m2": 89749548.7239,
+      "computed_minus_stored_area_m2": -4.081428050994873e-05
+    },
+    {
+      "name": "zone_simple_exp_bar_outer",
+      "records": 1,
+      "valid": true,
+      "validity": [
+        "Valid Geometry"
+      ],
+      "attributes": [
+        {
+          "Id": 0,
+          "area": 100466130.487
+        }
+      ],
+      "projection": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+      "area_m2": 100466130.48661667,
+      "bounds": [
+        331689.4478946291,
+        5268574.541190064,
+        348403.4228231553,
+        5287186.381839387
+      ],
+      "stored_area_sum_m2": 100466130.487,
+      "computed_minus_stored_area_m2": -0.00038333237171173096
+    },
+    {
+      "name": "zone_simple_loop_small_inner",
+      "records": 1,
+      "valid": true,
+      "validity": [
+        "Valid Geometry"
+      ],
+      "attributes": [
+        {
+          "Id": 0,
+          "area": 6610915.96688
+        }
+      ],
+      "projection": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+      "area_m2": 6610915.966881955,
+      "bounds": [
+        334941.37603434146,
+        5256479.030956753,
+        341497.5035000003,
+        5264152.134970462
+      ],
+      "stored_area_sum_m2": 6610915.96688,
+      "computed_minus_stored_area_m2": 1.9548460841178894e-06
+    },
+    {
+      "name": "zone_simple_loop_small_outer",
+      "records": 1,
+      "valid": true,
+      "validity": [
+        "Valid Geometry"
+      ],
+      "attributes": [
+        {
+          "Id": 0,
+          "area": 43157923.3046
+        }
+      ],
+      "projection": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+      "area_m2": 43157923.30457976,
+      "bounds": [
+        335137.7987483922,
+        5256262.820264527,
+        346993.367022452,
+        5265655.154277625
+      ],
+      "stored_area_sum_m2": 43157923.3046,
+      "computed_minus_stored_area_m2": -2.024322748184204e-05
+    },
+    {
+      "name": "zone_simple_north_big_inner",
+      "records": 1,
+      "valid": true,
+      "validity": [
+        "Valid Geometry"
+      ],
+      "attributes": [
+        {
+          "Id": 0,
+          "area": 57780982.9675
+        }
+      ],
+      "projection": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+      "area_m2": 57780982.967451006,
+      "bounds": [
+        338215.7973839808,
+        5294914.2028,
+        353848.138907332,
+        5309346.914401477
+      ],
+      "stored_area_sum_m2": 57780982.9675,
+      "computed_minus_stored_area_m2": -4.8995018005371094e-05
+    },
+    {
+      "name": "zone_simple_north_big_outer",
+      "records": 1,
+      "valid": true,
+      "validity": [
+        "Valid Geometry"
+      ],
+      "attributes": [
+        {
+          "Id": 0,
+          "area": 67072257.3304
+        }
+      ],
+      "projection": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+      "area_m2": 67072257.33044638,
+      "bounds": [
+        339053.2983890241,
+        5291183.232240776,
+        356379.4795446787,
+        5307274.495831307
+      ],
+      "stored_area_sum_m2": 67072257.3304,
+      "computed_minus_stored_area_m2": 4.637986421585083e-05
+    },
+    {
+      "name": "zone_simple_north_small_inner",
+      "records": 1,
+      "valid": true,
+      "validity": [
+        "Valid Geometry"
+      ],
+      "attributes": [
+        {
+          "Id": 0,
+          "area": 13509760.36
+        }
+      ],
+      "projection": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+      "area_m2": 13509760.360014424,
+      "bounds": [
+        348378.74850848503,
+        5301658.9728,
+        353967.34770665504,
+        5308470.205196455
+      ],
+      "stored_area_sum_m2": 13509760.36,
+      "computed_minus_stored_area_m2": 1.4424324035644531e-05
+    },
+    {
+      "name": "zone_simple_north_small_outer",
+      "records": 1,
+      "valid": true,
+      "validity": [
+        "Valid Geometry"
+      ],
+      "attributes": [
+        {
+          "Id": 0,
+          "area": 24056674.1249
+        }
+      ],
+      "projection": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+      "area_m2": 24056674.12494634,
+      "bounds": [
+        350299.3172729658,
+        5299739.369051015,
+        356897.1527020242,
+        5307318.1698
+      ],
+      "stored_area_sum_m2": 24056674.1249,
+      "computed_minus_stored_area_m2": 4.634261131286621e-05
+    }
+  ],
+  "pairs": [
+    {
+      "name": "zone_simple_exp_bar",
+      "inner_area_m2": 89749548.72385919,
+      "outer_area_m2": 100466130.48661667,
+      "outer_covers_inner": false,
+      "intersection_area_m2": 0.0,
+      "boundary_distance_m": 0.0,
+      "inner_outside_outer_m2": 89749548.72385967,
+      "outer_minus_inner_m2": 100466130.4866167
+    },
+    {
+      "name": "zone_simple_loop_small",
+      "inner_area_m2": 6610915.966881955,
+      "outer_area_m2": 43157923.30457976,
+      "outer_covers_inner": false,
+      "intersection_area_m2": 0.0,
+      "boundary_distance_m": 0.0,
+      "inner_outside_outer_m2": 6610915.966881916,
+      "outer_minus_inner_m2": 43157923.30457977
+    },
+    {
+      "name": "zone_simple_north_big",
+      "inner_area_m2": 57780982.967451006,
+      "outer_area_m2": 67072257.33044638,
+      "outer_covers_inner": false,
+      "intersection_area_m2": 0.0,
+      "boundary_distance_m": 0.0,
+      "inner_outside_outer_m2": 57780982.96745126,
+      "outer_minus_inner_m2": 67072257.330446556
+    },
+    {
+      "name": "zone_simple_north_small",
+      "inner_area_m2": 13509760.360014424,
+      "outer_area_m2": 24056674.12494634,
+      "outer_covers_inner": false,
+      "intersection_area_m2": 0.0,
+      "boundary_distance_m": 0.0,
+      "inner_outside_outer_m2": 13509760.360014422,
+      "outer_minus_inner_m2": 24056674.124946307
+    }
+  ],
+  "hydraulic_validation": false
+}

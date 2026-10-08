@@ -26,5 +26,6 @@
     "https://doi.org/10.1029/2021JF006135"
   ],
   "full_dataset_access": "Repository says Globus login required. Authenticated listing not attempted.",
-  "model_executed": false
+  "model_executed": false,
+  "browser_access_check": "2026-10-08: designated Globus folder redirected to login in in-app browser. No sign-in or authenticated listing performed."
 }

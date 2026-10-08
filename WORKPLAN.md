@@ -138,3 +138,5 @@ Grand Coulee update: paired-terrain study and author README inspected; advertise
 Grand Coulee access resolved: full model designated in authenticated Globus folder; public bundle has two files. Nested ancillary inventory and NAD27 projection text checked. Full model execution and ancillary value/geometry analysis remain pending.
 
 Grand Coulee column audit: 50 paired observations numerically summarized; raw and summary unit labels conflict. The described 153-observation summit sheet is absent from the public ancillary workbook. Resolve against full dataset before torque-model reproduction.
+
+Grand Coulee polygon audit: eight valid geometries; four named inner/outer pairs touch with zero area overlap. Treat as adjacent zones, not nested outlines. Stored areas reconcile within 0.001 square metre. Actual fitting procedure and hydraulic outputs still needed; browser Globus check reaches login.
