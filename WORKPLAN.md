@@ -393,3 +393,8 @@ S217 cited-method lineage recovered: slope prior and residual-based exclusion di
 ### 2026-10-08 — Burial errors-in-variables diagnostic
 
 Independent errors-in-both-isotope profile fits published for every site and declared membership, including restored PVD021. Next inspect original sampling sections, burial-depth and shielding histories, and physical intercept constraints; pursue exact-code/covariance gaps without calling this diagnostic an original Bayesian reproduction.
+
+
+### 2026-10-08 — Burial field context and landscape history
+
+Sampling context now inspected: four site depths,22 linked lithologies, explicit Palo Verde reburial/exhumation alternatives and unobserved inter-unit relation preserved. Next cited original mapping and subsequent carbonate-coating dates, then physical shielding-history constraints; present depth alone is not a history.

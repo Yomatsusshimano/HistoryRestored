@@ -668,6 +668,11 @@
           "source_id": "S216",
           "locator": "Table2; analysis/fit_burial_eiv.py; data/burial-eiv-fit.json; research/COLORADO-BURIAL-DATING.md",
           "statement": "Independent profile chi-square fit includes both isotope measurement errors with zero covariance assumed. Restoring PVD021 changes slope1.651889 to1.424877 with Q/(n-2) near1; all five yield2.591745 and11.917. Retained Topock/Santa Fe have Q/(n-2)7.791/9.413. No original Bayesian reproduction, calibrated rejection test or new burial age."
+        },
+        {
+          "source_id": "S216",
+          "locator": "Table1; Fig2/Fig3; printed54-60; research/COLORADO-BURIAL-DATING.md; data/colorado-burial-context.json",
+          "statement": "Published sampling depths and field context inspected. Palo Verde discussion explicitly considers reburial/recent exhumation or younger terrace landforms; no new coating dates supplied. Fig2 states Palo Verde-Santa Fe relation unobserved. Current equal depth does not establish full shared shielding history; first burial and later landscape change remain distinct."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

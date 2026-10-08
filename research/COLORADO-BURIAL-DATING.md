@@ -109,3 +109,30 @@ The retained Topock and Santa Fe sets already scatter more than this measurement
 The optimizer checks both slope endpoints and refines every grid-local minimum found in4096 intervals. Doubling to8192 changes the fitted slopes by less than6.2e−8. A noisy equal-error synthetic dataset matches an independent closed-form Deming regression within1e−6, and an exact synthetic line is recovered. These checks support the numerical implementation, not the geological assumptions or a global chronology.
 
 No diagnostic slope is converted into a new age. Source erosion, full post-burial production, shared errors, sample history and the original posterior calculation remain unresolved. Next inspect the original sampling sections and burial-depth histories, particularly whether the common-history assumption can explain the retained scatter and the selective effect of PVD021. This directly tests whether a date of prior burial can be transferred to the deposition episode relevant to the catastrophe hypothesis.
+
+## Field context and the event actually dated
+
+We inspected Table1 and Figures2–3 visually in the publisher PDF (printed55,54,58), and read the site descriptions, sampling methods and discussion at54–60. [Structured field-context records](../data/colorado-burial-context.json) preserve all22 sample IDs, lithologies and four reported locations. This is inspection of published evidence, not a field visit.
+
+| Site | Reported depth below terrace tread | Elevation as printed | Published context |
+|---|---:|---:|---|
+|Topock|8.50m|159m asl|Natural exposure of paleochannel conglomerate|
+|Bat Cave|7.23m|148m asl|Artificial cut in correlated boulder conglomerate|
+|Santa Fe Railway|8.23m|187m asl|Middle of a unit with reported upward-fanning dips and underlying sandstone|
+|Palo Verde|6.50m|151m asl|Possibly artificial cut; terrace/deposit relationship discussed as uncertain|
+
+Table1 lists density2.0g/cm³ for every sample. Its density superscript lacks an explanation on the inspected table page, so measured versus assumed status remains unknown. The depth footnote mentions10cm for each subsample despite site depths of650–850cm; the relation of that statement to the actual calculation is unresolved. Longitude values are positive under an east header despite the southwestern US setting. We retain the printed values and flag the discrepancy; we do not map them as verified coordinates. The coordinate datum was not established.
+
+Figure3 shows the exposures and marks sampled gravel intervals with boxes. It supports the authors' reported sampling in gravel rather than a directly sampled widespread mud layer. It does not resolve each cobble's position, historical overburden, cut age or lateral shielding. Equal current depth is useful sampling control but cannot by itself prove equal shielding through time.
+
+**Palo Verde has an explicitly unresolved landscape history in the source itself.** The authors compare relatively weak carbonate-soil development with older fan soils and question how terrace forms relate to their burial age. Discussion at59–60 considers an old channel deposit subsequently reburied and recently exhumed, or terrace landforms younger than the deposit. They propose U-series dating of carbonate coatings on clast undersides as a test; no new coating dates are reported in the inspected passage. An age of coating growth would itself need attachment and stratigraphic context before it could bracket deposition or exposure.
+
+Figure2 is a diagrammatic regional synthesis whose caption explicitly says the Palo Verde–Santa Fe Railway relationship is not observed. Its drawn arrangement must not be promoted into measured direct superposition. At Santa Fe, the cotton-rat fossils discussed as an alternative age correlation come from a nearby lower subunit; resemblance in tooth size is not an independent numerical date on these cobbles. The source uses its burial result to favor one correlation, so the resulting fossil-age assignment cannot then independently validate that same result.
+
+Topock and Bat Cave were sampled to discriminate between competing field interpretations: younger conglomerate inset into Bullhead deposits versus membership in the Bullhead unit. Possible included Bullhead clasts are reported from earlier field work. The paper favors a younger unit and entertains a single flood for that conglomerate. That is a scoped regional flood interpretation; it does not correlate every sampled unit, wildlife assemblage or historical anomaly with the same event.
+
+The source also offers analytical or inherited-history explanations for high ratios, including uncertainty in natural aluminium measurement and rapid elevation changes before transport. It does not provide a demonstrated sample-specific cause for PVD021. Reported low10Be blank-correction concerns include both excluded BC009 and retained BC010, another reason to seek original laboratory error records instead of treating membership as a clean quality division.
+
+For the catastrophe test, distinguish initial burial, subsequent reburial, terrace formation and final exposure. The million-year interpretation challenges recent **first burial** under the stated model. It does not, by itself, rule out later movement or landscape modification. Conversely, the paper's acknowledgment of possible exhumation does not demonstrate a recent flood, worldwide upheaval or fabricated chronology. A proposed later event must independently predict mapped contacts, sediment provenance and transport, exposure history and an event-specific bracket.
+
+Next recover the cited local mapping and any subsequent carbonate-coating dates; seek actual overburden/exposure histories before attempting physical intercept or reburial calculations. No shielding history is filled in from present depth alone.

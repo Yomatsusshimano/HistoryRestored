@@ -1,0 +1,166 @@
+{
+  "source_id": "S216",
+  "locator": "Table1 printed55/PDF5, visually inspected; site descriptions54-56; Fig2 printed54/PDF4 and Fig3 printed58/PDF8 visually inspected; discussion58-60 text-read",
+  "sites": [
+    {
+      "site": "Topock",
+      "samples": [
+        {
+          "id": "TPK001",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "TPK002",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "TPK003",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "TPK004",
+          "lithology": "Granite"
+        },
+        {
+          "id": "TPK005",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "TPK006",
+          "lithology": "Quartzite"
+        }
+      ],
+      "elevation_m_asl_as_printed": 159,
+      "depth_cm_below_terrace_tread": 850,
+      "latitude_north_degrees_as_printed": 34.712185,
+      "longitude_value_as_printed": 114.463713,
+      "longitude_header_as_printed": "degrees E, DD",
+      "coordinate_datum": null,
+      "density_g_cm3_as_printed": 2.0,
+      "depth_history": null,
+      "exposure_cut_age": null,
+      "individual_sample_positions": null
+    },
+    {
+      "site": "Bat Cave",
+      "samples": [
+        {
+          "id": "BC007",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "BC008",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "BC009",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "BC010",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "BC011",
+          "lithology": "Quartzite"
+        }
+      ],
+      "elevation_m_asl_as_printed": 148,
+      "depth_cm_below_terrace_tread": 723,
+      "latitude_north_degrees_as_printed": 34.724832,
+      "longitude_value_as_printed": 114.495305,
+      "longitude_header_as_printed": "degrees E, DD",
+      "coordinate_datum": null,
+      "density_g_cm3_as_printed": 2.0,
+      "depth_history": null,
+      "exposure_cut_age": null,
+      "individual_sample_positions": null
+    },
+    {
+      "site": "Santa Fe Railway",
+      "samples": [
+        {
+          "id": "CHM013",
+          "lithology": "Granite"
+        },
+        {
+          "id": "CHM014",
+          "lithology": "Granite"
+        },
+        {
+          "id": "CHM015",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "CHM016",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "CHM017",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "CHM018",
+          "lithology": "Quartzite"
+        }
+      ],
+      "elevation_m_asl_as_printed": 187,
+      "depth_cm_below_terrace_tread": 823,
+      "latitude_north_degrees_as_printed": 34.750047,
+      "longitude_value_as_printed": 114.451283,
+      "longitude_header_as_printed": "degrees E, DD",
+      "coordinate_datum": null,
+      "density_g_cm3_as_printed": 2.0,
+      "depth_history": null,
+      "exposure_cut_age": null,
+      "individual_sample_positions": null
+    },
+    {
+      "site": "Palo Verde",
+      "samples": [
+        {
+          "id": "PVD019",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "PVD020",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "PVD021",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "PVD022",
+          "lithology": "Quartzite"
+        },
+        {
+          "id": "PVD023",
+          "lithology": "Quartzite"
+        }
+      ],
+      "elevation_m_asl_as_printed": 151,
+      "depth_cm_below_terrace_tread": 650,
+      "latitude_north_degrees_as_printed": 33.460263,
+      "longitude_value_as_printed": 114.823822,
+      "longitude_header_as_printed": "degrees E, DD",
+      "coordinate_datum": null,
+      "density_g_cm3_as_printed": 2.0,
+      "depth_history": null,
+      "exposure_cut_age": null,
+      "individual_sample_positions": null
+    }
+  ],
+  "cautions": [
+    "Longitude header is east despite southwestern US setting; positive printed values retained, not silently mapped as east or corrected to west. Coordinate datum not established.",
+    "Table footnote reports mean sampled depth10cm for each subsample, while site depths are650-850cm. Its exact implementation and relation to within-cobble sampling remain unresolved.",
+    "Density header has superscript b, but no b explanation was located on inspected Table1 page; measured versus assumed status unknown.",
+    "Present depth does not specify time-varying overburden or lateral exposure history. Individual sample positions within white photograph boxes are not supplied.",
+    "Fig2 explicitly says Palo Verde relation to Santa Fe Railway is not observed. No direct superposition assigned."
+  ],
+  "reported_context": {
+    "Topock_and_Bat_Cave": "Natural paleochannel exposure at Topock and artificial cut at Bat Cave; competing prior interpretations of inset younger conglomerate versus Bullhead membership. Source reports possible incorporated Bullhead clasts.",
+    "Santa_Fe_Railway": "Middle part of unit sampled; underlying sandstone, upward-fanning dips reported. Nearby lower subunit cotton-rat fossils supplied competing correlations, not a direct independent numerical date on sampled cobbles.",
+    "Palo_Verde": "Possible artificial cut; regional terrace and fan relationships. Source discusses reburial/recent exhumation or terrace landforms younger than deposit, and proposes U-series dating of clast-bottom carbonate coatings. No such new U-series results in inspected passage."
+  }
+}

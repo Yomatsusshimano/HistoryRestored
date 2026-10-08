@@ -1035,3 +1035,8 @@ Previous turn made verified public progress; clean checkout confirmed. Read S216
 ### 2026-10-08 — Burial errors-in-variables diagnostic
 
 The immediately preceding model-switch acknowledgment made no research progress; resumed from the verified clean repository. Added an independently specified profile chi-square diagnostic with both measurement errors, preserved all source selections, and compared all points plus restored PVD021. Found selection sensitivity and retained-sample excess scatter under the declared model. Closed-form Deming and synthetic-line checks plus grid doubling verify numerical behavior only. No calibrated p-values, new exclusion rule, replacement burial ages, or scientific validation claimed.
+
+
+### 2026-10-08 — Burial field context and landscape history
+
+Previous turn made verified public progress. Visually inspected S216 Table1 and Figures2-3, text-read context/discussion54-60. Preserved longitude-header,10cm-footnote and density-status ambiguities. Recorded source-authored Palo Verde history alternatives and explicit lack of observed Palo Verde-Santa Fe superposition. Publisher web reader could not load12MB PDF; existing publisher PDF rendered locally. No field visit, independent mapping, new coating measurement or historical-event date claimed.
