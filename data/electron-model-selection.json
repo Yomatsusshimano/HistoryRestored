@@ -1,0 +1,109 @@
+{
+  "source_ids": [
+    "S72",
+    "S73",
+    "S74"
+  ],
+  "case_id": "C020",
+  "date": "2026-10-08",
+  "supplement": {
+    "url": "https://ndownloader.figshare.com/files/60237038",
+    "filename": "G53721_SuppMat.docx",
+    "bytes": 1681190,
+    "md5": "7343df07134bbd480d662faea5689845",
+    "sha256": "d2706fd5d9138427fb5f5fa65a140f037ac0b3185dc8e2ed02c8f8c1a7310435",
+    "locator": "Figure S2 and caption; Tables S1-S3"
+  },
+  "illustrated_model": {
+    "tree_labels": [
+      "ELE001",
+      "ELE011",
+      "ELE039"
+    ],
+    "lab_ids": [
+      "Beta71969",
+      "WW3793",
+      "WW3794",
+      "WW3795",
+      "WW1875",
+      "WW3088",
+      "Beta82791"
+    ],
+    "ring_offsets_years": [
+      210,
+      98,
+      198,
+      298,
+      355,
+      400,
+      355
+    ],
+    "absent_table_lab_id": "D-AMS010693",
+    "absent_table_sample": "KAP14a",
+    "absence_explanation": null
+  },
+  "intervals_CE": {
+    "release_abstract_99_7": [
+      1477,
+      1522
+    ],
+    "figure_A_five_samples": {
+      "68.3": [
+        1495,
+        1509
+      ],
+      "95.4": [
+        1485,
+        1516
+      ],
+      "99.7": [
+        1476,
+        1522
+      ]
+    },
+    "figure_B_seven_samples": {
+      "68.3": [
+        1501,
+        1514
+      ],
+      "95.4": [
+        1494,
+        1520
+      ],
+      "99.7": [
+        1486,
+        1528
+      ]
+    }
+  },
+  "interval_discrepancy_resolved": false,
+  "model_reproduced": false,
+  "identity_limit": "Caption uses ELE011; assay table ELE11 has 1994 analysis whereas S1 gives 2024 collection for ELE011. Earlier sampling is possible; custody/history is unresolved.",
+  "raw_files": [
+    {
+      "name": "wa171-rwl-noaa.txt",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa171-rwl-noaa.txt",
+      "bytes": 200663,
+      "sha256": "cb02dbf945b0b022e199b33f9e7c3470d9dff7302c8013f34e87b1200c57bd01"
+    },
+    {
+      "name": "wa171.rwl",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa171.rwl",
+      "bytes": 138486,
+      "sha256": "e7a194db5033baaeb37d2e4be0b6af9c69a3831a70e08b3c6b44bd40db3695ac"
+    }
+  ],
+  "coverage_result": "analysis/electron-measurement-coverage.json",
+  "ele045": {
+    "table_S1_CE": [
+      1322,
+      1475
+    ],
+    "NOAA_both_formats_CE": [
+      1398,
+      1506
+    ],
+    "resolved": false
+  },
+  "limitations": "These files belong to the same research chain and are not independent corroboration. No interval is selected as correct; differences alone do not establish fabrication or invalidate every other measurement."
+}

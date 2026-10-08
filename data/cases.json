@@ -1151,6 +1151,16 @@
           "source_id": "S72",
           "locator": "Release summary; C14_data_S1/S2/S3.csv",
           "statement": "Release includes 21 tree records, eight assay rows and 34 reference comparisons; reported 1507 dating and 1477–1522 radiocarbon interval not independently reproduced."
+        },
+        {
+          "source_id": "S73",
+          "locator": "Figure S2 A/B/D and caption",
+          "statement": "Illustrated seven-assay membership identified; 99.7% range in panel B is 1486–1528 CE, unlike abstract 1477–1522."
+        },
+        {
+          "source_id": "S74",
+          "locator": "NOAA template annual rows; Tucson ELE045 rows",
+          "statement": "86 series from 21 tree IDs contain 18,489 widths over assigned years 1033–1507. All tree count/range summaries except ELE045 agree with S1."
         }
       ],
       "physical_evidence": "Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.",
@@ -1162,21 +1172,21 @@
         "Common-event proposal requiring compatible independently dated horizons"
       ],
       "counterevidence": "Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.",
-      "next_test": "Resolve eight-row/seven-age selection and sample-ID mapping; retrieve raw Electron widths and reference data; reproduce external matching.",
+      "next_test": "Reconcile ELE045 ranges and radiocarbon interval versions; inspect full article methods, reproduce standardization and external matching with explicit sensitivity tests.",
       "chronology": {
         "reported": "1507 CE by external crossdating; 1477–1522 CE reported 99.7% radiocarbon range",
         "dated_object": "Wood samples and ring patterns from buried trees",
         "method": "Radiocarbon wiggle matching and dendrochronology",
         "raw_date": "Eight assay rows retained in original S2 CSV",
-        "uncertainty": "Reported model range; selection unresolved",
+        "uncertainty": "Release abstract and supplement intervals disagree; illustrated selection known, model not rerun.",
         "timescale": "Calendar CE, reported",
         "event_association": "REPORTED_NOT_REVALIDATED"
       },
       "missing": [
-        "Assay-selection explanation",
-        "Raw annual measurements",
-        "Sample identity crosswalk",
-        "Reproduced age model",
+        "Reason for eighth-assay exclusion",
+        "ELE045 date-range reconciliation",
+        "Sample identity and collection-history crosswalk",
+        "Reproduced age model and external ring matching",
         "Independent review"
       ],
       "dependence": "Bonneville abstract cites Electron chronology; shared regional reference data may couple calendar assignments."

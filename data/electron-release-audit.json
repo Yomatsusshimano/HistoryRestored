@@ -37,7 +37,7 @@
   "measurement_transects": 86,
   "radiocarbon_rows": 8,
   "summary_reported_age_count": 7,
-  "assay_selection_resolved": false,
+  "assay_selection_resolved": true,
   "reference_rows": 34,
   "references_with_1507_best": [
     "Macblo",
@@ -295,5 +295,6 @@
   ],
   "identity_caution": "S2 ELE11 dated in 1994 must not be automatically joined to S1 ELE011 collected in 2024; identifiers and collection/analysis history need reconciliation.",
   "raw_ring_widths_in_release": false,
-  "independent_reproduction": false
+  "independent_reproduction": false,
+  "assay_selection_scope": "Figure S2 explicitly shows seven IDs; why the eighth table assay was omitted remains unknown. See data/electron-model-selection.json."
 }

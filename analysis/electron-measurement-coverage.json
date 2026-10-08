@@ -1,0 +1,957 @@
+{
+  "source_ids": [
+    "S72",
+    "S74"
+  ],
+  "input_url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa171-rwl-noaa.txt",
+  "input_sha256": "cb02dbf945b0b022e199b33f9e7c3470d9dff7302c8013f34e87b1200c57bd01",
+  "series_count": 86,
+  "tree_id_count": 21,
+  "first_assigned_year": 1033,
+  "last_assigned_year": 1507,
+  "calendar_rows": 475,
+  "observed_widths": 18489,
+  "all_tree_summaries_agree": false,
+  "trees": [
+    {
+      "tree": "ELE001",
+      "observed": {
+        "transects": 10,
+        "first": 1149,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 10,
+        "first": 1149,
+        "last": 1506
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE001B1_raw",
+          "first": 1250,
+          "last": 1447,
+          "observations": 198,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001B2_raw",
+          "first": 1250,
+          "last": 1447,
+          "observations": 198,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001D1_raw",
+          "first": 1290,
+          "last": 1499,
+          "observations": 210,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001D2_raw",
+          "first": 1285,
+          "last": 1499,
+          "observations": 215,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001F1_raw",
+          "first": 1289,
+          "last": 1506,
+          "observations": 218,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001F2_raw",
+          "first": 1289,
+          "last": 1506,
+          "observations": 218,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001G1_raw",
+          "first": 1333,
+          "last": 1506,
+          "observations": 174,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001G2_raw",
+          "first": 1333,
+          "last": 1506,
+          "observations": 174,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001I1_raw",
+          "first": 1149,
+          "last": 1497,
+          "observations": 349,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE001I2_raw",
+          "first": 1149,
+          "last": 1497,
+          "observations": 349,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE002",
+      "observed": {
+        "transects": 4,
+        "first": 1411,
+        "last": 1507
+      },
+      "table_S1": {
+        "transects": 4,
+        "first": 1411,
+        "last": 1507
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE002A1_raw",
+          "first": 1411,
+          "last": 1503,
+          "observations": 93,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE002A2_raw",
+          "first": 1411,
+          "last": 1506,
+          "observations": 96,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE002B1_raw",
+          "first": 1411,
+          "last": 1507,
+          "observations": 97,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE002B2_raw",
+          "first": 1411,
+          "last": 1507,
+          "observations": 97,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE003",
+      "observed": {
+        "transects": 2,
+        "first": 1294,
+        "last": 1507
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1294,
+        "last": 1507
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE003C1_raw",
+          "first": 1294,
+          "last": 1507,
+          "observations": 214,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE003C2_raw",
+          "first": 1294,
+          "last": 1491,
+          "observations": 198,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE004",
+      "observed": {
+        "transects": 4,
+        "first": 1170,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 4,
+        "first": 1170,
+        "last": 1506
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE004A1_raw",
+          "first": 1170,
+          "last": 1414,
+          "observations": 245,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE004A2_raw",
+          "first": 1170,
+          "last": 1414,
+          "observations": 245,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE004B1_raw",
+          "first": 1192,
+          "last": 1506,
+          "observations": 315,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE004B2_raw",
+          "first": 1192,
+          "last": 1506,
+          "observations": 315,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE006",
+      "observed": {
+        "transects": 6,
+        "first": 1178,
+        "last": 1507
+      },
+      "table_S1": {
+        "transects": 6,
+        "first": 1178,
+        "last": 1507
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE006A1_raw",
+          "first": 1178,
+          "last": 1507,
+          "observations": 330,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE006A2_raw",
+          "first": 1178,
+          "last": 1507,
+          "observations": 330,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE006B1_raw",
+          "first": 1282,
+          "last": 1503,
+          "observations": 222,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE006B2_raw",
+          "first": 1282,
+          "last": 1503,
+          "observations": 222,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE006C1_raw",
+          "first": 1236,
+          "last": 1506,
+          "observations": 271,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE006C2_raw",
+          "first": 1236,
+          "last": 1506,
+          "observations": 271,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE009",
+      "observed": {
+        "transects": 2,
+        "first": 1205,
+        "last": 1507
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1205,
+        "last": 1507
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE009B1_raw",
+          "first": 1210,
+          "last": 1507,
+          "observations": 298,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE009B2_raw",
+          "first": 1205,
+          "last": 1507,
+          "observations": 303,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE011",
+      "observed": {
+        "transects": 4,
+        "first": 1240,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 4,
+        "first": 1240,
+        "last": 1506
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE011A1_raw",
+          "first": 1240,
+          "last": 1506,
+          "observations": 267,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE011A2_raw",
+          "first": 1240,
+          "last": 1506,
+          "observations": 267,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE011B1_raw",
+          "first": 1254,
+          "last": 1506,
+          "observations": 253,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE011B2_raw",
+          "first": 1254,
+          "last": 1506,
+          "observations": 253,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE012",
+      "observed": {
+        "transects": 4,
+        "first": 1173,
+        "last": 1507
+      },
+      "table_S1": {
+        "transects": 4,
+        "first": 1173,
+        "last": 1507
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE012A1_raw",
+          "first": 1173,
+          "last": 1507,
+          "observations": 335,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE012A2_raw",
+          "first": 1173,
+          "last": 1507,
+          "observations": 335,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE012B1_raw",
+          "first": 1184,
+          "last": 1507,
+          "observations": 324,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE012B2_raw",
+          "first": 1184,
+          "last": 1506,
+          "observations": 323,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE014",
+      "observed": {
+        "transects": 4,
+        "first": 1266,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 4,
+        "first": 1266,
+        "last": 1506
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE014A1_raw",
+          "first": 1291,
+          "last": 1506,
+          "observations": 216,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE014A2_raw",
+          "first": 1291,
+          "last": 1506,
+          "observations": 216,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE014B1_raw",
+          "first": 1266,
+          "last": 1506,
+          "observations": 241,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE014B2_raw",
+          "first": 1266,
+          "last": 1506,
+          "observations": 241,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE017",
+      "observed": {
+        "transects": 2,
+        "first": 1236,
+        "last": 1477
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1236,
+        "last": 1477
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE017A1_raw",
+          "first": 1236,
+          "last": 1476,
+          "observations": 241,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE017A2_raw",
+          "first": 1236,
+          "last": 1477,
+          "observations": 242,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE028",
+      "observed": {
+        "transects": 2,
+        "first": 1221,
+        "last": 1475
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1221,
+        "last": 1475
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE028A1_raw",
+          "first": 1221,
+          "last": 1475,
+          "observations": 255,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE028A2_raw",
+          "first": 1221,
+          "last": 1475,
+          "observations": 255,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE031",
+      "observed": {
+        "transects": 2,
+        "first": 1278,
+        "last": 1496
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1278,
+        "last": 1496
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE031A1_raw",
+          "first": 1278,
+          "last": 1496,
+          "observations": 219,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE031A2_raw",
+          "first": 1278,
+          "last": 1496,
+          "observations": 219,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE032",
+      "observed": {
+        "transects": 2,
+        "first": 1172,
+        "last": 1419
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1172,
+        "last": 1419
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE032A1_raw",
+          "first": 1172,
+          "last": 1419,
+          "observations": 248,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE032A2_raw",
+          "first": 1172,
+          "last": 1419,
+          "observations": 248,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE033",
+      "observed": {
+        "transects": 4,
+        "first": 1368,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 4,
+        "first": 1368,
+        "last": 1506
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE033A1_raw",
+          "first": 1368,
+          "last": 1503,
+          "observations": 136,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE033A2_raw",
+          "first": 1368,
+          "last": 1503,
+          "observations": 136,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE033B1_raw",
+          "first": 1372,
+          "last": 1506,
+          "observations": 135,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE033B2_raw",
+          "first": 1372,
+          "last": 1506,
+          "observations": 135,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE039",
+      "observed": {
+        "transects": 16,
+        "first": 1033,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 16,
+        "first": 1033,
+        "last": 1506
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE039A1_raw",
+          "first": 1295,
+          "last": 1458,
+          "observations": 164,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039A2_raw",
+          "first": 1295,
+          "last": 1458,
+          "observations": 164,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039B1_raw",
+          "first": 1033,
+          "last": 1183,
+          "observations": 151,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039B2_raw",
+          "first": 1033,
+          "last": 1183,
+          "observations": 151,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039B3_raw",
+          "first": 1209,
+          "last": 1506,
+          "observations": 298,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039B4_raw",
+          "first": 1209,
+          "last": 1506,
+          "observations": 298,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039C1_raw",
+          "first": 1134,
+          "last": 1282,
+          "observations": 149,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039C2_raw",
+          "first": 1134,
+          "last": 1282,
+          "observations": 149,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039D1_raw",
+          "first": 1207,
+          "last": 1396,
+          "observations": 190,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039D2_raw",
+          "first": 1207,
+          "last": 1396,
+          "observations": 190,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039F1_raw",
+          "first": 1033,
+          "last": 1154,
+          "observations": 122,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039F2_raw",
+          "first": 1033,
+          "last": 1154,
+          "observations": 122,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039G1_raw",
+          "first": 1110,
+          "last": 1261,
+          "observations": 152,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039G2_raw",
+          "first": 1110,
+          "last": 1261,
+          "observations": 152,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039J1_raw",
+          "first": 1087,
+          "last": 1182,
+          "observations": 96,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE039J2_raw",
+          "first": 1086,
+          "last": 1182,
+          "observations": 97,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE044",
+      "observed": {
+        "transects": 8,
+        "first": 1251,
+        "last": 1496
+      },
+      "table_S1": {
+        "transects": 8,
+        "first": 1251,
+        "last": 1496
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE044A1_raw",
+          "first": 1357,
+          "last": 1449,
+          "observations": 93,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE044A2_raw",
+          "first": 1357,
+          "last": 1451,
+          "observations": 95,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE044C1_raw",
+          "first": 1288,
+          "last": 1496,
+          "observations": 209,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE044C2_raw",
+          "first": 1288,
+          "last": 1496,
+          "observations": 209,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE044D1_raw",
+          "first": 1251,
+          "last": 1496,
+          "observations": 246,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE044D2_raw",
+          "first": 1251,
+          "last": 1496,
+          "observations": 246,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE044E1_raw",
+          "first": 1323,
+          "last": 1475,
+          "observations": 153,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE044E2_raw",
+          "first": 1322,
+          "last": 1475,
+          "observations": 154,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE045",
+      "observed": {
+        "transects": 2,
+        "first": 1398,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1322,
+        "last": 1475
+      },
+      "agrees": false,
+      "series": [
+        {
+          "series": "ELE045A1_raw",
+          "first": 1398,
+          "last": 1506,
+          "observations": 109,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE045A2_raw",
+          "first": 1398,
+          "last": 1506,
+          "observations": 109,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE047",
+      "observed": {
+        "transects": 2,
+        "first": 1316,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1316,
+        "last": 1506
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE047A1_raw",
+          "first": 1316,
+          "last": 1506,
+          "observations": 191,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE047A2_raw",
+          "first": 1316,
+          "last": 1506,
+          "observations": 191,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE048",
+      "observed": {
+        "transects": 2,
+        "first": 1251,
+        "last": 1493
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1251,
+        "last": 1493
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE048A1_raw",
+          "first": 1251,
+          "last": 1493,
+          "observations": 243,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE048A2_raw",
+          "first": 1251,
+          "last": 1493,
+          "observations": 243,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "ELE050",
+      "observed": {
+        "transects": 2,
+        "first": 1356,
+        "last": 1506
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1356,
+        "last": 1506
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "ELE050A1_raw",
+          "first": 1356,
+          "last": 1506,
+          "observations": 151,
+          "internal_missing": 0
+        },
+        {
+          "series": "ELE050A2_raw",
+          "first": 1356,
+          "last": 1506,
+          "observations": 151,
+          "internal_missing": 0
+        }
+      ]
+    },
+    {
+      "tree": "KAP015",
+      "observed": {
+        "transects": 2,
+        "first": 1050,
+        "last": 1472
+      },
+      "table_S1": {
+        "transects": 2,
+        "first": 1050,
+        "last": 1472
+      },
+      "agrees": true,
+      "series": [
+        {
+          "series": "KAP015A1_raw",
+          "first": 1050,
+          "last": 1472,
+          "observations": 423,
+          "internal_missing": 0
+        },
+        {
+          "series": "KAP015A2_raw",
+          "first": 1050,
+          "last": 1472,
+          "observations": 423,
+          "internal_missing": 0
+        }
+      ]
+    }
+  ],
+  "crossdating_reproduced": false,
+  "limitations": "Counts and ranges in the published assignment only. Tree-ID grouping follows archive labels; it is not independent specimen authentication. Neither absolute years, bark preservation, chronology standardization nor external matching are validated here."
+}

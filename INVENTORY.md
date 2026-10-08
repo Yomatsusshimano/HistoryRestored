@@ -625,7 +625,9 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 
 **Sourced statements**
 
-- Release includes 21 tree records, eight assay rows and 34 reference comparisons; reported 1507 dating and 1477–1522 radiocarbon interval not independently reproduced. [S72](https://doi.org/10.5066/P13WAVXH). Locator: Release summary; C14_data_S1/S2/S3.csv. Access: FULL_TEXT_PORTION. Limit: Tables provide summary properties and reference-match results, not raw annual-width series. Eight assay rows versus seven ages in summary unresolved; article methods not yet fully inspected.
+- Release includes 21 tree records, eight assay rows and 34 reference comparisons; reported 1507 dating and 1477–1522 radiocarbon interval not independently reproduced. [S72](https://doi.org/10.5066/P13WAVXH). Locator: Release summary; C14_data_S1/S2/S3.csv. Access: FULL_TEXT_PORTION. Limit: Summary tables lack annual widths; S73 identifies the illustrated seven-assay selection, but its date intervals conflict with the summary. Article methods and model remain unreproduced.
+- Illustrated seven-assay membership identified; 99.7% range in panel B is 1486–1528 CE, unlike abstract 1477–1522. [S73](https://doi.org/10.1130/GEOL.S.30689474). Locator: Figure S2 A/B/D and caption. Access: SCAN_INSPECTED. Limit: Model inputs/code not recovered. Figure intervals differ from release abstract. Linked original under CC BY-NC 4.0; no document republication here.
+- 86 series from 21 tree IDs contain 18,489 widths over assigned years 1033–1507. All tree count/range summaries except ELE045 agree with S1. [S74](https://www.ncei.noaa.gov/access/paleo-search/study/43943). Locator: NOAA template annual rows; Tucson ELE045 rows. Access: FULL_TEXT_PORTION. Limit: Published year assignments are inputs, not newly established dates. ELE045 date range differs from both S1 tables. Standardization and external crossdating not reproduced.
 
 **Physical evidence:** Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.
 
@@ -637,12 +639,12 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 
 **Counterevidence:** Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.
 
-**Next test:** Resolve eight-row/seven-age selection and sample-ID mapping; retrieve raw Electron widths and reference data; reproduce external matching.
+**Next test:** Reconcile ELE045 ranges and radiocarbon interval versions; inspect full article methods, reproduce standardization and external matching with explicit sensitivity tests.
 
 **Dependence:** Bonneville abstract cites Electron chronology; shared regional reference data may couple calendar assignments.
 
 **Alternatives:** Separate regional lahar; Common-event proposal requiring compatible independently dated horizons
 
-**Chronology:** {"reported": "1507 CE by external crossdating; 1477\u20131522 CE reported 99.7% radiocarbon range", "dated_object": "Wood samples and ring patterns from buried trees", "method": "Radiocarbon wiggle matching and dendrochronology", "raw_date": "Eight assay rows retained in original S2 CSV", "uncertainty": "Reported model range; selection unresolved", "timescale": "Calendar CE, reported", "event_association": "REPORTED_NOT_REVALIDATED"}
+**Chronology:** {"reported": "1507 CE by external crossdating; 1477\u20131522 CE reported 99.7% radiocarbon range", "dated_object": "Wood samples and ring patterns from buried trees", "method": "Radiocarbon wiggle matching and dendrochronology", "raw_date": "Eight assay rows retained in original S2 CSV", "uncertainty": "Release abstract and supplement intervals disagree; illustrated selection known, model not rerun.", "timescale": "Calendar CE, reported", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Assay-selection explanation; Raw annual measurements; Sample identity crosswalk; Reproduced age model; Independent review
+**Missing:** Reason for eighth-assay exclusion; ELE045 date-range reconciliation; Sample identity and collection-history crosswalk; Reproduced age model and external ring matching; Independent review

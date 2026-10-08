@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Electron supplement and raw-series reconciliation
+
+Previous model-switch acknowledgment was no progress; revalidated a clean checkout at 614c0ae and continued available source analysis. Recovered supplement DOCX matches Figshare MD5; extracted captions/tables and visually inspected embedded Figure S2. Seven illustrated assay IDs identified, with KAP14a absent; reason unknown. Preserved panel A/B versus abstract interval differences. NOAA WA171 template parsed with hash-pinned script: 86 series, 21 tree IDs, 18,489 widths, 475 assigned calendar rows. Twenty tree summaries agree with USGS S1; ELE045 dates disagree. Checked DOCX S1 and Tucson boundary rows to confirm both sides. No source silently corrected, no absolute crossdating or age-model reproduction claimed. Added S73/S74; full objective remains active.
+
 ## 2026-10-08 - Electron Mudflow data release
 
 Previous turn made progress: 9c2f005 published seven byte-verified files. Clean checkout confirmed. Retrieved ScienceBase public data release and all four files; MD5 values match repository metadata. CSV decoding required Windows-1252; original bytes retained. Counted 21 tree rows and 86 transects, eight assay rows and 34 reference comparisons. Four references peak at 1507; six include it in their reported top five. Kept eight-versus-seven assay selection and ELE11/ELE011 date/identity mismatch unresolved. Added C020/S72; raw annual widths and model reproduction absent. No independent chronology or global catastrophe claim established.

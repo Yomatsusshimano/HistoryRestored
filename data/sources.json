@@ -1224,11 +1224,41 @@
       "source_type": "Original scientific data release",
       "access": "FULL_TEXT_PORTION",
       "inspected": "ScienceBase metadata, all three CSV tables and file checksums; XML retrieved but not fully audited.",
-      "limitations": "Tables provide summary properties and reference-match results, not raw annual-width series. Eight assay rows versus seven ages in summary unresolved; article methods not yet fully inspected.",
+      "limitations": "Summary tables lack annual widths; S73 identifies the illustrated seven-assay selection, but its date intervals conflict with the summary. Article methods and model remain unreproduced.",
       "local_copy": null,
       "sha256": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S73",
+      "title": "Supplemental Material: Forest-floor burial in 1507 by the largest Mount Rainier lahar of the past millennium",
+      "url": "https://doi.org/10.1130/GEOL.S.30689474",
+      "creator": "Bryan A. Black, Patrick T. Pringle, James W. Vallance",
+      "publication_date": "2025-12-09",
+      "source_type": "Original research supplement",
+      "access": "SCAN_INSPECTED",
+      "inspected": "DOCX paragraphs and tables extracted; embedded Figure S2 visually inspected. Table S1 ELE045 row checked. Not a full rendered-document review.",
+      "limitations": "Model inputs/code not recovered. Figure intervals differ from release abstract. Linked original under CC BY-NC 4.0; no document republication here.",
+      "sha256": "d2706fd5d9138427fb5f5fa65a140f037ac0b3185dc8e2ed02c8f8c1a7310435"
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S74",
+      "title": "Black - Electron Mudflow - PSME - ITRDB WA171",
+      "url": "https://www.ncei.noaa.gov/access/paleo-search/study/43943",
+      "creator": "Bryan Black, Patrick Pringle; NOAA NCEI archive",
+      "publication_date": "2025-11-17",
+      "source_type": "Original tree-ring measurement dataset",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Template metadata and all annual rows parsed; tree-ID coverage compared to USGS S1; Tucson ELE045 boundary rows checked.",
+      "limitations": "Published year assignments are inputs, not newly established dates. ELE045 date range differs from both S1 tables. Standardization and external crossdating not reproduced.",
+      "sha256": "cb02dbf945b0b022e199b33f9e7c3470d9dff7302c8013f34e87b1200c57bd01"
     }
   ]
 }
