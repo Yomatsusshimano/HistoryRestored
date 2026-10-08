@@ -329,6 +329,7 @@ Place: Haiti and Ile de la Tortue; sample-specific localities in dating records.
 **Sourced statements**
 
 - Nine specimen-linked AMS bone determinations extracted, retaining exact ages, a lower bound and split calendar intervals separately. [S22](https://pmc.ncbi.nlm.nih.gov/articles/PMC1187974/). Locator: Table 4 and caption; Figure 2 caption. Access: FULL_TEXT_PORTION. Limit: No laboratory worksheets, specimens, preparation audit, supplementary text or recalibration. Supplement link returned browser check. Historical paper, not a current literature consensus review.
+- Eight new rodent collagen dates from Trouing Jeremie 5 provide same-site temporal context, not remeasurements of the sloth specimens. [S36](https://doi.org/10.1177/09596836221101279). Locator: Site description and methods p. 4; Table 2 p. 5. Access: SCAN_INSPECTED. Limit: Different specimens from 2005 sloths. Raw assays, probability distributions and sample-specific depositional positions not audited. Table summary uncertainty label conflicts with footnote derivation.
 
 **Physical evidence:** Published biological sample measurements; no specimens or field sections inspected here.
 
@@ -340,7 +341,7 @@ Place: Haiti and Ile de la Tortue; sample-specific localities in dating records.
 
 **Counterevidence:** These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.
 
-**Next test:** Audit preparation, quality indicators, field context and later redating; extend geographic coverage and specify calibration before event fitting.
+**Next test:** Recover original sloth preparation and endpoint specimen assays; compare new rodent dates with sample-specific excavation context before inferring deposition.
 
 **Dependence:** One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations.
 

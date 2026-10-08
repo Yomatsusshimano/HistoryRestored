@@ -545,6 +545,11 @@
           "source_id": "S22",
           "locator": "Table 4 and caption; Figure 2 caption",
           "statement": "Nine specimen-linked AMS bone determinations extracted, retaining exact ages, a lower bound and split calendar intervals separately."
+        },
+        {
+          "source_id": "S36",
+          "locator": "Site description and methods p. 4; Table 2 p. 5",
+          "statement": "Eight new rodent collagen dates from Trouing Jeremie 5 provide same-site temporal context, not remeasurements of the sloth specimens."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
@@ -557,7 +562,7 @@
         "A common mortality episode, requiring an explicit fit and age-quality audit"
       ],
       "counterevidence": "These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.",
-      "next_test": "Audit preparation, quality indicators, field context and later redating; extend geographic coverage and specify calibration before event fitting.",
+      "next_test": "Recover original sloth preparation and endpoint specimen assays; compare new rodent dates with sample-specific excavation context before inferring deposition.",
       "chronology": {
         "reported": "Sample-level radiocarbon results and separately published calendar intervals",
         "dated_object": "Bone samples",

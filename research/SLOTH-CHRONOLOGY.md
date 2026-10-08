@@ -46,6 +46,20 @@ The result challenges treating this selected collection as a contemporaneous dea
 
 ## Next work
 
+### Later evidence from one of the same sites
+
+[Cooke and Crowley (2022), S36](https://doi.org/10.1177/09596836221101279) reports eight new rodent dates from Trouing Jérémie #5, the site of sloth AA-58431. These are different specimens, not sloth redeterminations. The [eight-row transcription](../data/haiti-rodent-dates.json) retains museum and UCIAMS identifiers, atomic C:N, radiocarbon results and the published two-sigma calendar ranges. Relevant methods/context were read in the [NSF-hosted article](https://par.nsf.gov/servlets/purl/10336169), and Table 2 was visually checked.
+
+The methods describe acid demineralization, base treatment, gelatinization, filtration and collagen-quality assessment. Atomic C:N values are 3.3–3.6; individual collagen yields are not tabulated here and stay unknown. Calibration used IntCal20 and Calib 8.2. This documents reported procedures, not an independent contamination test.
+
+The table's oldest range is 10,806–11,184 cal BP for UF 293822; the youngest is 289–429 cal BP for UF 293847. Their separation supports a collection containing biological material of different ages. It does not, by itself, prove uninterrupted sediment accumulation or date each specimen's entry into the sinkhole. The authors interpret prolonged accumulation; excavation positions and taphonomy are needed to discriminate that from later mixing.
+
+Table 2 labels one summary column “Mean ± 1σ,” but its footnote describes rounding two-sigma ranges to construct that summary. Preserve the labeling discrepancy; do not treat the half-range as a Gaussian standard deviation or replace the original range with it. Calibration probability structure was not reproduced.
+
+No later remeasurement of AA-58439, AA-58434 or AA-58431 was established by this limited search. Their original preparation audit remains open. These new measurements add site context without independently verifying the earlier sloth assays.
+
+### Remaining checks
+
 Retrieve preparation protocols, collagen-quality measures, original determinations and excavation context. Check later redating and taxonomic revisions by specimen identifier. Recalibrate only with an explicitly named curve, software/version and justified reservoir assumptions; retain the original published results beside any new calculation.
 
 Extend coverage to directly dated continental material and additional island samples before estimating extinction timing. Keep tests of death, deposition, migration and extinction distinct. No global event, cause of extinction, or historical rewriting follows from this extraction.

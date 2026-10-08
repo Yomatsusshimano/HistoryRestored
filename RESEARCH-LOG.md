@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Later same-site chronology found; sloth redating still unverified
+
+Previous turn made progress: 154d191 published seven verified files. Clean checkout rechecked. Searched AA-58439 and AA-58434 identifiers and sloth preparation/redating terms. No specimen-specific redetermination was found in this limited search. A new original 2022 rodent study from Trouing Jeremie 5 was retrieved through NSF's repository; methods and context read, Table 2 visually checked. PMC initially served the 2005 article but later method searches returned browser checks; no new sloth assay audit claimed.
+
+Added S36 and all eight Table 2 rodent records with lab/museum IDs and quality ratios. Retained the original two-sigma calendar ranges and the conflicting mean/one-sigma label versus footnote; no Gaussian error model inferred. New rodent measurements provide site context but do not repair or replace the sloth dates. Sixteen draft cases and thirty-six source records. Independent review remains absent.
+
 ## 2026-10-08 - Wildlife claim variants compared across the inventory
 
 Previous turn made progress: b3f1fd8 published seven verified public files. Rechecked clean checkout and read the current wildlife case records, audits and calculation outputs. This tranche synthesizes existing evidence; no new literature or field observation is claimed.

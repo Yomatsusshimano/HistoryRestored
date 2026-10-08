@@ -1,0 +1,176 @@
+{
+  "status": "SOURCED_DRAFT",
+  "calibration_as_reported": "IntCal20, Calib 8.2",
+  "summary_warning": "Mean plus/minus column is labeled 1 sigma, but footnote says derived from rounded 2-sigma ranges. Do not use as a Gaussian standard error.",
+  "rows": [
+    {
+      "taxon_as_published": "Brotomys voratus",
+      "museum_id": "UF 293811",
+      "lab_id": "UCIAMS 191024",
+      "atomic_CN": 3.4,
+      "radiocarbon_BP": 2960,
+      "radiocarbon_1sigma": 20,
+      "published_2sigma_cal_BP_range": [
+        3061,
+        3210
+      ],
+      "published_mean_cal_BP": 3135,
+      "published_mean_plus_minus": 75,
+      "published_median_cal_BP": 3122,
+      "source_id": "S36",
+      "locator": "Table 2, p. 5",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "dated_material": "mandible bone collagen",
+      "collagen_yield_percent": null
+    },
+    {
+      "taxon_as_published": "Hexolobodon phenax",
+      "museum_id": "UF 293817",
+      "lab_id": "UCIAMS 191026",
+      "atomic_CN": 3.6,
+      "radiocarbon_BP": 5955,
+      "radiocarbon_1sigma": 25,
+      "published_2sigma_cal_BP_range": [
+        6726,
+        6856
+      ],
+      "published_mean_cal_BP": 6790,
+      "published_mean_plus_minus": 65,
+      "published_median_cal_BP": 6779,
+      "source_id": "S36",
+      "locator": "Table 2, p. 5",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "dated_material": "mandible bone collagen",
+      "collagen_yield_percent": null
+    },
+    {
+      "taxon_as_published": "Isolobodon portoricensis",
+      "museum_id": "UF 293821",
+      "lab_id": "UCIAMS 191027",
+      "atomic_CN": 3.3,
+      "radiocarbon_BP": 1760,
+      "radiocarbon_1sigma": 15,
+      "published_2sigma_cal_BP_range": [
+        1605,
+        1707
+      ],
+      "published_mean_cal_BP": 1655,
+      "published_mean_plus_minus": 50,
+      "published_median_cal_BP": 1659,
+      "source_id": "S36",
+      "locator": "Table 2, p. 5",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "dated_material": "mandible bone collagen",
+      "collagen_yield_percent": null
+    },
+    {
+      "taxon_as_published": "Plagiodontia velozi",
+      "museum_id": "UF 293822",
+      "lab_id": "UCIAMS 191025",
+      "atomic_CN": 3.5,
+      "radiocarbon_BP": 9650,
+      "radiocarbon_1sigma": 25,
+      "published_2sigma_cal_BP_range": [
+        10806,
+        11184
+      ],
+      "published_mean_cal_BP": 10995,
+      "published_mean_plus_minus": 190,
+      "published_median_cal_BP": 11091,
+      "source_id": "S36",
+      "locator": "Table 2, p. 5",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "dated_material": "mandible bone collagen",
+      "collagen_yield_percent": null
+    },
+    {
+      "taxon_as_published": "Rhizoplagiodontia lemkei",
+      "museum_id": "UF 74968",
+      "lab_id": "UCIAMS 191021",
+      "atomic_CN": 3.5,
+      "radiocarbon_BP": 6145,
+      "radiocarbon_1sigma": 20,
+      "published_2sigma_cal_BP_range": [
+        6951,
+        7157
+      ],
+      "published_mean_cal_BP": 7052.5,
+      "published_mean_plus_minus": 102.5,
+      "published_median_cal_BP": 7050,
+      "source_id": "S36",
+      "locator": "Table 2, p. 5",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "dated_material": "mandible bone collagen",
+      "collagen_yield_percent": null
+    },
+    {
+      "taxon_as_published": "Rhizoplagiodontia lemkei",
+      "museum_id": "UF 74978",
+      "lab_id": "UCIAMS 191022",
+      "atomic_CN": 3.4,
+      "radiocarbon_BP": 5865,
+      "radiocarbon_1sigma": 20,
+      "published_2sigma_cal_BP_range": [
+        6641,
+        6741
+      ],
+      "published_mean_cal_BP": 6690,
+      "published_mean_plus_minus": 50,
+      "published_median_cal_BP": 6696,
+      "source_id": "S36",
+      "locator": "Table 2, p. 5",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "dated_material": "mandible bone collagen",
+      "collagen_yield_percent": null
+    },
+    {
+      "taxon_as_published": "Rattus sp.",
+      "museum_id": "UF 293844",
+      "lab_id": "UCIAMS 191028",
+      "atomic_CN": 3.4,
+      "radiocarbon_BP": 435,
+      "radiocarbon_1sigma": 15,
+      "published_2sigma_cal_BP_range": [
+        490,
+        515
+      ],
+      "published_mean_cal_BP": 502.5,
+      "published_mean_plus_minus": 12.5,
+      "published_median_cal_BP": 502,
+      "source_id": "S36",
+      "locator": "Table 2, p. 5",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "dated_material": "mandible bone collagen",
+      "collagen_yield_percent": null
+    },
+    {
+      "taxon_as_published": "Rattus sp.",
+      "museum_id": "UF 293847",
+      "lab_id": "UCIAMS 191029",
+      "atomic_CN": 3.4,
+      "radiocarbon_BP": 280,
+      "radiocarbon_1sigma": 20,
+      "published_2sigma_cal_BP_range": [
+        289,
+        429
+      ],
+      "published_mean_cal_BP": 360,
+      "published_mean_plus_minus": 70,
+      "published_median_cal_BP": 377,
+      "source_id": "S36",
+      "locator": "Table 2, p. 5",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "dated_material": "mandible bone collagen",
+      "collagen_yield_percent": null
+    }
+  ],
+  "limits": "No individual calibrated probability distributions, raw assays, or sample-specific stratigraphic positions audited. New rodents, not sloth redates."
+}
