@@ -27,3 +27,15 @@ S47, [The Hydraulic Jet for Railway Building](https://fraser.stlouisfed.org/file
 This is another contemporary publication, not demonstrated independent measurement: no underlying survey, contract, named informant or operational log is supplied in the passage. Its contract total and progress fraction must not be equated with Piper's approximate aggregate removed volume. Nor is this Lake Union installation automatically the earlier sound-water plant in S46. The article's preceding discussion of other projects does not supply Seattle-specific measurements.
 
 The rated flow corresponds to **18,144,000 gallons/day** only at uninterrupted operation. Pressure is printed as “180 lbs.” without an explicit area unit in the Seattle passage; no energy-efficiency estimate is assigned. Exact work boundaries, achieved production and source dependence remain unresolved.
+
+## Later contract: in-place and loose volume are different quantities
+
+[Nelson v. Seattle](https://www.casemine.com/judgement/us/5914ccb6add7b0493480c998), Washington Supreme Court, December 14, 1934, docket 25136 (S48), concerns the **second** Denny regrade, LID 4818, under a September 14, 1928 contract. The inspected opinion text describes excavation by Nevada Contracting Company, Nelson's conveyor transport to Wall Street dock, and Vigilant's scow disposal. This is a judicial account of contract evidence, not inspection of the original signed instruments or daily logs.
+
+Section [11] distinguishes a **4.2-million-cubic-yard estimate in place**, a planned **14,400 cubic yards/day**, and no more than **2.7 million cubic yards** reportedly moved after one year. These are estimate, target and reported progress respectively. The target times 300 working days gives 4.32 million cubic yards, about 2.9% above the rounded estimate; it is not a new final measurement.
+
+Nelson's cited testimony gives 30–40% expansion on excavation. Applying that claim to 4.2 million gives 5.46–5.88 million loose cubic yards. The opinion's approximate 5.4-million comparison is retained separately; no measured expansion factor is established. Crucially, this later quantity must not be identified with S47's similarly sized **1908** contract.
+
+The court favors inspector Harry C. Scott's reconciled delay records over conflicting party accounts, offering a specific next archival target. The underlying records remain uninspected. The opinion describes equipment failures and coordination delays; published capacity alone cannot establish actual throughput.
+
+**Archival caution:** UW files the circa-1910 Piper excerpt under LID 4818, which this opinion associates with later work. An earlier report could be retained in a later project file. Without the file arrangement and full report, neither a catalog error nor a revised report date is established. Preserve the supplied locator, but do not use it as a date or phase identifier.

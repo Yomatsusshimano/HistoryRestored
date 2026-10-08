@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Later Denny contract and volume basis
+
+Previous turn made progress: 1fee31d published eight public-byte-verified files. Clean checkout rechecked. Searched Piper title, LID 4818 and municipal contract terms. Found and read selected opinion portions in Nelson v. Seattle (1934), S48. Original contract and official reporter scan remain uninspected. Other search results retained only as navigation leads.
+
+Preserved in-place estimate, daily target, reported first-year progress and testimony-based loose-volume expansion separately. Executed conditional arithmetic: 14,400 times 300 = 4.32 million; 4.2 million expanded by 30–40% = 5.46–5.88 million. Neither is a final survey. Identified inspector Harry C. Scott's reconciled records as next target. Flagged LID 4818 as later-contract context without redating the circa-1910 report or declaring a catalog error. Seventeen drafts, forty-eight sources; no independent review.
+
 ## 2026-10-08 - Denny contract scope and later pumping installation
 
 Previous turn made progress: f9ebc87 published nine public-byte-verified files. Clean checkout rechecked. FRASER PDF exceeded web-tool size limit; downloaded the ordinary public PDF successfully and hashed it. Visually inspected printed p. 6, PDF page 4, with the PDF skill workflow; issue identification read from page 1 text. Added S47. Full-document text search also returned irrelevant financial-number matches; these were not used as findings.

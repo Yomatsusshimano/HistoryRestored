@@ -838,7 +838,7 @@
       "source_type": "participant engineering report, selected institutional transcription",
       "access": "FULL_TEXT_PORTION",
       "inspected": "All displayed excerpts and archival citation; LID 4818, control 2615-03, Letters Folder 3, pp. 2, 15-16, 33-34. Pump figures and approximate aggregate estimates extracted.",
-      "limitations": "Original microform, omitted portions, contracts and surveys uninspected. Participant account advocates benefits; capacity and aggregate estimates are not audited actual output.",
+      "limitations": "Original microform, omitted portions, contracts and surveys uninspected. Participant account advocates benefits; capacity and aggregate estimates are not audited actual output. LID 4818 locator is also associated with the later 1928 contract in S48; filing context must not be treated as report creation date.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
@@ -855,6 +855,20 @@
       "limitations": "Reported contract and equipment quantities; no underlying contract, survey, operating logs or named informant inspected. Independent origin of numerical claims not demonstrated. Other-project details on same page are not Seattle measurements.",
       "local_copy": "tmp/research/cfc-19100430.pdf",
       "sha256": "a21d775c8a25e1151660928db62750dfe5eec7e4870773bddef025b209090b69",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S48",
+      "title": "Nelson v. Seattle, Washington Supreme Court, docket 25136",
+      "url": "https://www.casemine.com/judgement/us/5914ccb6add7b0493480c998",
+      "creator": "Washington Supreme Court; opinion by Blake, J.; text hosted by CaseMine",
+      "publication_date": "1934-12-14",
+      "source_type": "judicial opinion reproduced as HTML",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Opinion introduction and section [11], including contract dates, parties, volume basis, progress and delay-account discussion; surrounding fine-grade dispute read for context.",
+      "limitations": "Third-party transcription; official reporter scan, original contracts, testimony and inspector daily records not inspected. Judicial findings are not independent physical measurements. Concerns later regrade, not 1908 contract.",
+      "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }

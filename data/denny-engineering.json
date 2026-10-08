@@ -51,5 +51,37 @@
     "actual_sediment_transport": null,
     "independent_measurement_demonstrated": false,
     "comparison_limit": "Different reported water source, equipment and contract scope from S46; do not merge totals or identify plants without full records."
+  },
+  "later_contract_opinion": {
+    "source_id": "S48",
+    "locator": "Opinion introduction and section [11]",
+    "contract_date": "1928-09-14",
+    "local_improvement_district": 4818,
+    "reported_work_start": "1929-06-10",
+    "reported_last_bay_dump": "1930-12-09",
+    "estimated_in_place_cubic_yards": 4200000,
+    "target_in_place_cubic_yards_per_working_day": 14400,
+    "planned_working_days": 300,
+    "target_product_cubic_yards": 4320000,
+    "reported_first_year_moved_upper_bound_cubic_yards": 2700000,
+    "testimony_loose_volume_expansion_percent": [
+      30,
+      40
+    ],
+    "conditional_loose_volume_cubic_yards": [
+      5460000,
+      5880000
+    ],
+    "opinion_approximate_loose_volume_cubic_yards": 5400000,
+    "final_surveyed_volume": null,
+    "original_contract_inspected": false,
+    "inspector_daily_records_inspected": false,
+    "next_archival_target": "Harry C. Scott reconciled daily delay records and original measurement clauses",
+    "limits": [
+      "Court account distinguishes in-place measurements from loose dirt",
+      "Testimony-based expansion is not a measured conversion factor",
+      "Do not identify this later 5.4-million comparison with S47 1908 contract",
+      "LID 4818 filing context alone does not date Piper report"
+    ]
   }
 }
