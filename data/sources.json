@@ -2506,6 +2506,50 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S156",
+      "title": "Some Notable Finds of Columbian Mammoths from Washington State",
+      "creator": "Bax R. Barton",
+      "publication_date": "1999-12",
+      "url": "https://dnr.wa.gov/sites/default/files/2025-04/ger_washington_geology_1999_v27_no2-3-4.pdf",
+      "source_type": "published geological report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed/PDF p.24 visually inspected for site 01; title and references pp.23,27 read as extracted text.",
+      "limitations": "Historical compilation, not original assay certificate. The cause of the young result is not established in the inspected entry; original dating and stratigraphic reports remain needed.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://dnr.wa.gov/sites/default/files/2025-04/ger_washington_geology_1999_v27_no2-3-4.pdf",
+          "sha256": "b44cdb3437298a7c3ed61ca4b8e1efd3e0ed1af479ddd813a358c946adb9b68c",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S157",
+      "title": "Geologic map of the proposed Paterson Ridge pumped-storage reservoir, south-central Washington: accompanying text",
+      "creator": "R. C. Newcomb",
+      "publication_date": "1971",
+      "url": "https://pubs.usgs.gov/imap/0653/report.pdf",
+      "source_type": "published geological report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All five PDF pages visually inspected: cover and four numbered text pages.",
+      "limitations": "Retrieved PDF contains accompanying reservoir geology/hydrogeology text, not the map sheet. No GX-1457 assay details found in this file; do not treat citation alone as verification of bone dating.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://pubs.usgs.gov/imap/0653/report.pdf",
+          "sha256": "06ed4e65862836ef608e9f55712047b9d08e4629552f986d407db79fdbe26651",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

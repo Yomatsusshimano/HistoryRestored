@@ -1,0 +1,26 @@
+{
+  "status": "SOURCED_DRAFT",
+  "source_id": "S156",
+  "locator": "Printed/PDF p.24, site 01",
+  "site": "Artesian Coulee / Dead Canyon",
+  "reported_material": "Post-cranial mammoth remains; exact dated element not specified in this entry",
+  "laboratory_id": "GX-1457",
+  "reported_radiocarbon_bp": 4905,
+  "reported_plus_minus_years": 140,
+  "error_level": null,
+  "calibrated_interval": null,
+  "pretreatment": null,
+  "dated_fraction": null,
+  "collagen_yield": null,
+  "carbon_nitrogen_ratio": null,
+  "blank_correction": null,
+  "collection_accession": null,
+  "source_assessment": "Anomalously young relative to stratigraphic interpretation",
+  "source_stratigraphic_range_yr_bp": [
+    11000,
+    13000
+  ],
+  "stratigraphic_timescale_definition": null,
+  "assessment": "Unresolved discrepancy; retained, not accepted as verified death date or discarded as demonstrated contamination",
+  "original_assay_certificate_inspected": false
+}

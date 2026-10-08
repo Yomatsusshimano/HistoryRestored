@@ -35,3 +35,7 @@ This supplies counterevidence to assigning every surveyed mammoth directly to on
 The summary's apparent 7,000–12,000-year age range is **not a series of direct bone dates**. The paper discusses inferred volcanic-ash relationships and then-current regional chronology; it supplies no individual mammoth radiocarbon assays. It also explicitly separates surface-found cultural objects from the extinct-fauna remains (pp.156,160). Nearby projectile points therefore cannot be imported as direct dates or proof of human association with those bones. No modern calendar range is assigned from these historical age statements.
 
 Next trace the recorded fossil sites to preserved specimens and original stratigraphic notes, verify ash identification and association, and obtain direct dates where available. Retain uncertain context labels and the survey's own adverse observations. The recovered paper improves the audit of discovery geography; it does not establish a shared regional or worldwide mortality episode.
+
+## Flood-hosted comparison with an unresolved date
+
+The [Dead Canyon dating audit](DEAD-CANYON-DATING.md) preserves a publicly reported younger bone result alongside its conflicting stratigraphic interpretation. This regional record must not be silently absorbed into a uniform late-Pleistocene mortality set; original assay and context controls remain required.
