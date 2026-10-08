@@ -1,0 +1,49 @@
+{
+  "status": "SOURCED_DRAFT",
+  "source_id": "S154",
+  "case_id": "C015",
+  "locator": "Single-page poster, Abstract, Discussion, map legend",
+  "counted_object": "Reported mammoth finds; not independently deduplicated biological individuals or contemporaneous deaths",
+  "reported_total": 45,
+  "regions": [
+    {
+      "name": "Horse Heaven Hills",
+      "reported_count": 30,
+      "printed_percent": 66.3,
+      "recomputed_percent": 66.66666666666667
+    },
+    {
+      "name": "Pasco Basin",
+      "reported_count": 11,
+      "printed_percent": 24.3,
+      "recomputed_percent": 24.444444444444443
+    },
+    {
+      "name": "Lower Yakima River Valley",
+      "reported_count": 4,
+      "printed_percent": 9.3,
+      "recomputed_percent": 8.88888888888889
+    }
+  ],
+  "survey_contribution": {
+    "survey": "Fry 1969, cited by poster; original not inspected",
+    "reported_finds": 21,
+    "reported_area_square_miles_approx": 25,
+    "share_of_horse_heaven_finds": 0.7,
+    "share_of_compilation": 0.4666666666666667
+  },
+  "map_context_classes": [
+    "Ice Age flood deposits",
+    "loess deposits",
+    "unknown deposits"
+  ],
+  "locality_quality": "Legend distinguishes poorly located finds; no coordinates digitized",
+  "timescale": null,
+  "individual_assay_dates": null,
+  "limits": [
+    "Unknown survey effort outside the cited survey",
+    "Different discovery activities and preservation contexts",
+    "No shared depositional horizon demonstrated",
+    "Other proboscidean records excluded by source from mammoth regional totals"
+  ]
+}

@@ -30,3 +30,7 @@ The [NSF Ice Core Facility catalog](https://icecores.org/inventory/camp-century)
 The mapped sites establish geographic separation only at the stated resolution. They do not establish a connected depositional horizon. A common later-deposition explanation still needs sediment provenance, age and transport evidence at each site; a mortality explanation must use specimen ages rather than these site coordinates. The [wildlife comparison](WILDLIFE-COMPARISON.md) retains those separate tests.
 
 Next recover missing original locality tables and survey metadata, then attach dated environmental evidence to the same stratigraphic units. No preservation exception, former shoreline or common event is inferred from the present gaps.
+
+## Regional discovery-effort comparison
+
+The [Benton County mammoth audit](BENTON-MAMMOTH-DISTRIBUTION.md) adds an inspected regional map with flood, loess and unknown contexts and explicit poor-locality symbols. Its 45 reported finds are not an independently dated mortality set. One cited survey supplied 21 records; no exact coordinates or density surface were inferred from the poster.

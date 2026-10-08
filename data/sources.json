@@ -2462,6 +2462,28 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S154",
+      "title": "The discovery and distribution of mammoth remains in Benton County, Washington State",
+      "creator": "Bax R. Barton and George V. Last",
+      "publication_date": "2010",
+      "url": "https://web.archive.org/web/20201124150656id_/https://coyotecanyonmammothsite.org/resources/barton-last_2010_discovery-distribution-of-mammoth-remains_ccms.pdf",
+      "source_type": "researcher compilation poster from historical reports, collections and personal accounts",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Whole single-page poster; enlarged Discussion and map legend. Regional totals, survey contribution and selected photo captions inspected. Full item table not transcribed.",
+      "limitations": "Reported discoveries, not standardized population sampling or direct specimen dates. Some localities and depositional contexts uncertain. Original newspapers, specimens and survey records not independently verified.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://web.archive.org/web/20201124150656id_/https://coyotecanyonmammothsite.org/resources/barton-last_2010_discovery-distribution-of-mammoth-remains_ccms.pdf",
+          "sha256": "c637446f68f8ef364e41a7526279271621e95c5351272d92d00aa217e12c1766",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

@@ -732,3 +732,7 @@ Recovered and visually inspected the 2012 NWSA abstract p.40 through the society
 ### 2026-10-08 — Archived Coyote poster recovered
 
 Internet Archive CDX identified a 2020-11-24 PDF capture of S153. Downloaded, hashed, rendered and visually inspected the full poster and enlarged Figures 5–7. Updated S153 access from text portion to scan inspected, retaining the prior live-site failure. The panorama locates two separate sections; neither measured column marks the mammoth or later A–G beds. Rechecked S32 Figure 6 grid/NAVD 88 labels: displayed pairs differ by 22 m. An early datum/reference-label confusion is a testable possibility, not a demonstrated correction or terrain-change measurement. No new source count, dates, flood count or scientific review claimed.
+
+### 2026-10-08 — Benton mammoth discovery geography
+
+The checked university-file archive queries did not recover the 2012 AMQUA dating abstract. A site-resource archive listing yielded the original Barton–Last 2010 distribution poster, downloaded from a 2020 capture, hashed and visually inspected. Added S154 and structured 30/11/4 regional counts; preserved printed percentages separately from arithmetic. The source attributes 21 finds to one survey. Map legend retains flood, loess, unknown contexts and poorly located records. No new coordinates, common mortality, flood count or density estimate inferred. Next recover original survey/specimen records to test discovery bias and depositional association.
