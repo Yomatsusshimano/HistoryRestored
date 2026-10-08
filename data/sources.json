@@ -1809,6 +1809,21 @@
       "downloaded_workbook_sha256": "7a056c2a630bbd16efa7eb936c457e04895edfb2067aa2771e44244961d78b23",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S111",
+      "title": "Source data to Figure 2, Sigl et al. (2015)",
+      "creator": "Sigl and colleagues",
+      "publication_date": "2015",
+      "source_type": "Original figure-source workbook",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM35_ESM.xlsx",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Readme; sheets a/b headers; a!A2010:C2015 compared with S109 annual values. Read-only cell inspection.",
+      "limitations": "No visual workbook render or full figure reproduction. Not an independent dataset; calendar crosswalk limited to selected boundary rows. No binary historical-validation event vector identified.",
+      "local_copy": null,
+      "downloaded_workbook_sha256": "11377fee583ad4ab9354ab1e9809767e9b88817353d6cfbc0dde9b9cc71427fd",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

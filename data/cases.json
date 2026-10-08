@@ -1479,6 +1479,11 @@
           "source_id": "S109",
           "locator": "README and 6 - NEEM_annual_combined, A1:E2499",
           "statement": "Workbook supplies processed layer-counting inputs and an annual combined sulfur record; its README describes TUNU dating as synchronization without annual-layer counting."
+        },
+        {
+          "source_id": "S111",
+          "locator": "a!A2010:C2015 compared with S109 combined annual sheet",
+          "statement": "Selected boundary rows distinguish signed BCE/CE year labels from midyear labels and corroborate one missing-value sentinel through a blank counterpart."
         }
       ],
       "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",

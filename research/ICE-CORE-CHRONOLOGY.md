@@ -39,3 +39,11 @@ Publisher-linked Supplementary Data 3 (S109, Greenland) and Data 5 (S110, recons
 The concentration series does not itself identify every year classified as volcanic for the historical test. The reconstruction workbook also concerns a combined forcing product, so its event list must not silently replace the NEEM-specific validation input. Thresholds, event duration, multi-core combination and calendar conversion need explicit reconciliation first. The historical ledger's individual match assignments therefore remain unknown.
 
 The Greenland README further states that TUNU2013 dates come from volcanic synchronization rather than annual-layer counting. It can contribute a separate measured chemical signal, but its assigned dates are not an independently counted chronology. This is a concrete dependency to preserve when assessing apparent agreement among cores.
+
+## Boundary encoding checked against Figure 2 source data
+
+The publisher's Figure 2 workbook (S111) supplies an integer BCE/CE column alongside sulfur values. A [six-row crosswalk](../data/ice-calendar-crosswalk.json) compares its rows for 3 CE through 3 BCE with S109. All five paired numerical concentrations agree within 0.0005 ppb, consistent with the three-decimal rounding in the annual combined column. The remaining row, 2 CE, is blank in the figure source and −9.999 in the annual workbook, corroborating missingness for that row.
+
+The pairs map 1.5 to 1 CE and −0.5 to 1 BCE. Thus the missing 0.5 label is not evidence of a missing historical year: these displayed labels omit year zero. Direct subtraction across the era boundary would introduce an extra year. Convert signed historical years to a continuous astronomical index explicitly before any duration calculation; do not regard that conversion as independent dating evidence.
+
+This resolves the selected boundary correspondence, not every calendar convention or missing cell throughout the workbooks. Source-data sheet headers still describe concentrations and tree responses rather than the binary event classification used for historical validation. A supplementary-guide download timed out; the event-selection rule and simulation code remain outstanding. No threshold was chosen to force the reported match count.

@@ -1,0 +1,66 @@
+{
+  "case_id": "C023",
+  "source_ids": [
+    "S109",
+    "S111"
+  ],
+  "rows": [
+    {
+      "year_BCE_CE_as_printed": 3,
+      "midyear_label": 3.5,
+      "figure_cell": "a!C2010",
+      "figure_value": 11.9195997,
+      "annual_cell": "6 - NEEM_annual_combined!E1997",
+      "annual_value": 11.92,
+      "within_0_0005": true
+    },
+    {
+      "year_BCE_CE_as_printed": 2,
+      "midyear_label": 2.5,
+      "figure_cell": "a!C2011",
+      "figure_value": null,
+      "annual_cell": "6 - NEEM_annual_combined!E1998",
+      "annual_value": -9.999,
+      "within_0_0005": null
+    },
+    {
+      "year_BCE_CE_as_printed": 1,
+      "midyear_label": 1.5,
+      "figure_cell": "a!C2012",
+      "figure_value": 16.8768817,
+      "annual_cell": "6 - NEEM_annual_combined!E1999",
+      "annual_value": 16.877,
+      "within_0_0005": true
+    },
+    {
+      "year_BCE_CE_as_printed": -1,
+      "midyear_label": -0.5,
+      "figure_cell": "a!C2013",
+      "figure_value": 11.0017803,
+      "annual_cell": "6 - NEEM_annual_combined!E2000",
+      "annual_value": 11.002,
+      "within_0_0005": true
+    },
+    {
+      "year_BCE_CE_as_printed": -2,
+      "midyear_label": -1.5,
+      "figure_cell": "a!C2014",
+      "figure_value": 12.6518555,
+      "annual_cell": "6 - NEEM_annual_combined!E2001",
+      "annual_value": 12.652,
+      "within_0_0005": true
+    },
+    {
+      "year_BCE_CE_as_printed": -3,
+      "midyear_label": -2.5,
+      "figure_cell": "a!C2015",
+      "figure_value": 15.5665535,
+      "annual_cell": "6 - NEEM_annual_combined!E2002",
+      "annual_value": 15.567,
+      "within_0_0005": true
+    }
+  ],
+  "scope": "Six inspected years only; matching concentration values within 0.0005 ppb where both present. This checks displayed encoding, not absolute calendar validity.",
+  "inference": "Signed historical year labels omit zero. Midyear labels must not be treated as a continuous astronomical-year axis across the boundary. Blank versus -9.999 correspondence corroborates missingness in the inspected 2 CE row.",
+  "event_classification_recovered": false
+}

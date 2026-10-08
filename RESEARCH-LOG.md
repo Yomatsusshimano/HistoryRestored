@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Ice workbook calendar boundary crosswalk
+
+Previous turn made progress: 51cad5d published seven publicly byte-verified files. Clean checkout confirmed. Downloaded actual publisher-linked Figure 2 source workbook; supplementary-guide request ended in read timeout. Inspected headers and six era-boundary rows by read-only extraction. Five numeric pairs match annual combined values within rounding; 2 CE blank corroborates its -9.999 sentinel. Corrected the open boundary question: 1.5 maps to 1 CE and -0.5 to 1 BCE, so absence of 0.5 does not establish a missing year. Added S111 and cell-specific crosswalk. Binary validation-event selection remains unrecovered; no match or significance reproduction claimed. Full goal remains active.
+
 ## 2026-10-08 - Original ice-core workbooks recovered
 
 Previous turn made progress: 0b7e0d2 published ten publicly byte-verified files. Clean checkout confirmed. Publisher HTML retrieval succeeded through direct HTTP after browser-fetch failure; extracted actual supplementary links and downloaded Greenland/reconstruction workbooks. Read-only cell inspection recovered input availability and annual-series structure; no source workbook edited. Added S109-S110 and acquisition hashes. Combined concentration values do not themselves provide the binary event vector required for validation; preserved sentinel and calendar-boundary questions instead of inventing a threshold. README identifies TUNU synchronization dependence. Match counts and Monte Carlo remain unreproduced. Full goal remains active.
