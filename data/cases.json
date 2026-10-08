@@ -533,6 +533,11 @@
           "source_id": "S206",
           "locator": "Printed24/PDF30 entry219 and printed2/PDF8",
           "statement": "Compilation identifies RD-16 as9.60 ±0.60 Ma K-Ar whole-rock basalt below Bouse, with tentative Osborne Wash assignment. Age and coordinates differ from S205; general recalculation policy is disclosed but RD-16-specific calculation remains unreproduced."
+        },
+        {
+          "source_id": "S207",
+          "locator": "Table1 K41-4, Discussion and Fugro bibliography",
+          "statement": "RD-16 is explicitly tabulated as reported9.3 ±0.6 Ma and recalculated9.6 ±0.6 Ma. DMS coordinates round to S206 values; S205 position remains different. This documents a revised calculation, not independent dating; original isotope inputs remain uninspected."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

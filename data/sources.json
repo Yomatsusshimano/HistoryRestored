@@ -3281,6 +3281,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S207",
+      "title": "Compilation of isotopic ages within the Needles 1 degree by 2 degree Quadrangle, California and Arizona",
+      "url": "https://pubs.usgs.gov/of/1980/1303/plate-1.pdf",
+      "creator": "J.P. Calzia and J.L. Morton",
+      "publication_date": "1980",
+      "source_type": "isotopic age compilation map and reported/recalculated table",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Single-sheet OFR80-1303: Table1 K41-4 (RD-16), Discussion and Fugro bibliography visually checked from enlarged renders. SHA256 850174baf1c4f6a3d163dd473217feb268a3a3d174e93ff49b51b55f57d99583.",
+      "limitations": "No raw isotope inputs or original laboratory report; not a complete map audit. Recalculation documented but not independently reproduced. Coordinate source/datum and discrepancy with S205 unresolved.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

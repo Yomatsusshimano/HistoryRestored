@@ -74,3 +74,5 @@ Next obtain the compilation entry and original report/sample identifier, then a 
 The [Sundesert record locator audit](SUNDESERT-RECORD-LOCATORS.md) now distinguishes dating, fossil, paleomagnetic and site-report appendices using S204. Underlying analytical records remain unrecovered; do not repeat bibliography discovery as pending.
 
 Update: the [RD-16 compilation audit](RD16-BASALT.md) now recovers the9.60 Ma entry and an earlier9.3 Ma version. Sample identity in the compilation is recovered; original laboratory analysis, coordinate reconciliation and contact verification remain pending.
+
+S207 now explicitly pairs RD-16 reported9.3 Ma with recalculated9.6 Ma; see the updated RD-16 audit. The age difference is documented as recalculation, while reproduction, the S205 coordinate variant and depositional transfer remain pending.

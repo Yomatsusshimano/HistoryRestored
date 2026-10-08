@@ -36,6 +36,27 @@
       "laboratory": null,
       "potassium_measurement": null,
       "argon_measurement": null
+    },
+    {
+      "source_id": "S207",
+      "entry": "K41-4",
+      "locator": "single sheet Table1 Arizona subsection",
+      "sample_id": "RD-16",
+      "rock": "Basalt at base of Bouse Formation",
+      "reported_age_Ma": 9.3,
+      "reported_plus_minus_Ma": 0.6,
+      "recalculated_age_Ma": 9.6,
+      "recalculated_plus_minus_Ma": 0.6,
+      "latitude_DMS": "34 13 19 N",
+      "longitude_DMS": "114 05 38 W",
+      "coordinate_datum": null,
+      "coordinate_uncertainty": null,
+      "method": "K-Ar",
+      "material_code": "WR",
+      "material": "whole rock",
+      "reference": "Fugro1975, Geotechnical investigations, Parker Valley alternate site, Sundesert Nuclear Project, section2.5 pp.53-63",
+      "raw_isotope_inputs": null,
+      "uncertainty_convention": null
     }
   ]
 }

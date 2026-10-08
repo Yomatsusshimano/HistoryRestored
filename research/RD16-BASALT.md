@@ -1,6 +1,6 @@
 # RD-16: the underlying basalt citation recovered
 
-2026-10-08. Two compilation entries, not two independent laboratory dates.
+2026-10-08. Three compilation entries, not three independent laboratory dates.
 
 S206, [Reynolds et al.1986, Bulletin197, first PDF segment](https://data.azgs.arizona.edu/api/v1/collections/AGSB-1552426601054-677/bulletin_197_txt_1.pdf), printed24/PDF30, entry219, identifies the previously unresolved9.60 ±0.60 Ma control as **RD-16**, K-Ar whole-rock basalt in the western Buckskin Mountains, Black Peak quadrangle. The entry reports it below the Bouse base and labels Osborne Wash Formation with a question mark. It cites Fugro1975 and says the date was reported in Calzia and Morton1980. This identifies the compilation's sample; the original analysis and bed contact remain uninspected.
 
@@ -23,3 +23,15 @@ The sample identifier, rock and region support a cross-compilation link. The coo
 Inspection: S205 p.48 and S206 pp.2/24 visually checked; S205 reference24 text-read. S205 PDF SHA256 `3c24f2381a3a44bc6ef0b78cd8e721d05a8ae95e8d78ef2a71873383cfb9236f`; S206 first50-page segment SHA256 `8c793e92aaffdc51b3864ffa905a8bdf995185080ad559562273f13a90ef2a0d`. S205 cover reads1981 while report identifier is82-57. No entire-compilation review claimed.
 
 Next retrieve Calzia and Morton1980 and the original RD-16 analytical page, reconcile the1975/1976 editions and coordinate changes, then verify the mapped contact. The accessible AZGS segment resolves the earlier compilation-access gap; original laboratory recovery remains pending.
+
+## Reported-versus-recalculated pair recovered
+
+S207, [Calzia and Morton1980, OFR80-1303](https://pubs.usgs.gov/of/1980/1303/plate-1.pdf), Table1, map entry **K41-4**, explicitly lists RD-16 as whole-rock basalt at the Bouse base with two labeled columns: **reported9.3 ±0.6 Ma; recalculated9.6 ±0.6 Ma**. The age change is now documented for this sample. The earlier discussion above records the uncertainty before this retrieval; the remaining gap is reproduction from original inputs, not whether the source labels a recalculation.
+
+The sheet's Discussion attributes recalculated ages to the updated constants of Steiger and Jager1977. It says most K-Ar ages were recalculated from original-author isotopic data, naming selected exceptions converted with correction factors. The Fugro exception named there is **RD-1**, not RD-16; do not transfer its method to RD-16. Raw RD-16 isotope measurements are absent from this table, so no independent recalculation is claimed.
+
+K41-4 gives34°13′19″N,114°05′38″W. Converting seconds to fractional minutes yields13.316666…′ and5.633333…′, which round to S206's13.32′ and5.63′. Thus those two coordinate representations agree at the printed rounding. S205's13.50′/5.60′ remains different. This arithmetic does not establish survey precision, datum or the actual collection point.
+
+The sheet's bibliography explicitly identifies Fugro1975 as the Parker Valley alternate-site investigation, section2.5, pp.53–63. It strengthens that retrieval target beyond a generic matching author/year. S205's1976 Appendix2.5J citation may involve republication or another compilation pathway; that relationship is still unverified. None of these derivative entries counts as independent dating confirmation.
+
+Access: single-sheet PDF had no extractable text. Enlarged table, Discussion and bibliography were visually checked; SHA256 `850174baf1c4f6a3d163dd473217feb268a3a3d174e93ff49b51b55f57d99583`. Next original RD-16 analytical inputs and field contact, then reconcile S205's coordinate/reference variant. The numerical discrepancy is explained at the published-document level without establishing the full depositional chronology.

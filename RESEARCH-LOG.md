@@ -916,3 +916,7 @@ Previous turn published verified progress; clean tree confirmed. Targeted search
 ### 2026-10-08 — RD-16 sample identity recovered
 
 Previous turn published verified progress; clean checkout confirmed. Retrieved USGS regional compilation; candidate RD-16 led targeted search to accessible AZGS Bulletin197 first segment. Visually checked both entries and1986 recalculation policy. Published identifier crosswalk, both age/location versions and absent analytical fields. No conversion reproduced or causal explanation assumed; original report versions and mapped Bouse contact remain unresolved.
+
+### 2026-10-08 — RD-16 recalculation documented
+
+Previous turn published verified progress; clean checkout confirmed. Followed institutional catalog to OFR80-1303 plate; retrieved and hashed image-only PDF, rendered enlarged table/discussion/bibliography. Sample-specific reported/recalculated pair resolves9.3/9.6 discrepancy at document level. DMS-to-minute arithmetic reconciles S207/S206 coordinates, leaving S205 variant. Preserved distinction between named RD-1 correction-factor exception and RD-16. No original analytical reproduction or independent dating claimed.
