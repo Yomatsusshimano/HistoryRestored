@@ -24,7 +24,24 @@ S168 pp.34 and 36 describe Sg glass as having lower calcium and iron relative to
 
 [Transcribed inputs](../data/set-s-tephra-check.json) and [calculation](check_set_s_ratios.py) preserve the published labels. These are ratios of means, not individual-shard ratios or significance tests. Converting the same oxides to elemental mass consistently would multiply each ratio by a fixed positive factor, preserving the ordering; it would not resolve this discrepancy. Raw shard covariance is unavailable, so no confidence interval is assigned.
 
-The discrepancy does **not** show which source is wrong, demonstrate switched labels, erase the stratigraphic order, or prove the deposits are identical. Differences in reference specimens, within-eruption variability, analytical treatment and reporting errors remain possibilities requiring evidence. The next source to recover is the 1978 glass analysis and specimen linkage cited by the 1996 report, followed by any published corrections. Until that comparison is possible, preserve both records and avoid treating the prose diagnostic as independently verified.
+The discrepancy alone does **not** show which source is wrong, demonstrate switched labels, erase the stratigraphic order, or prove the deposits are identical. The original analysis recovered below narrows its likely origin. Exact specimen linkage and any published correction remain to be recovered.
+
+## Original 1978 analysis recovered
+
+[Mullineaux and colleagues (1978), S169](https://pdw.hanford.gov/download/v2/E0008049), Table 2 on p.176, identifies Mount St. Helens samples 74W102 (So) and 74W101 (Sg). Their reported elemental means give:
+
+| Original sample / layer | Ca percent | Fe percent | K percent | Ca/K | Fe/K |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| 74W102 / So | 0.92 | 0.84 | 1.56 | 0.5897 | 0.5385 |
+| 74W101 / Sg | 1.07 | 0.94 | 1.54 | 0.6948 | 0.6104 |
+
+Page 177 explicitly describes higher K relative to Ca and Fe in So. Both original table and prose therefore agree in ordering with the 2003 means, against the 1996 wording. This makes a reversed 1996 description a better-supported explanation. It is not a confirmed erratum or proof that the 2003 standards are those same specimens. Elemental ratios and oxide ratios have different numerical scales; compare their ordering, not their raw magnitudes.
+
+The original authors also report that their microprobe data alone did not reliably distinguish sets S and M, relying chiefly on stratigraphy and petrography. Our ratio check does not reproduce that statistical analysis or validate every distal identification.
+
+On p.178, the authors allow eruption of the set within days or weeks; they do not measure such a duration. That possibility neither proves rapid emplacement nor supplies the later decades-long lower bound. The same page reports W-3136 and W-3133 with ±350-year allowances, wider than the 1996 entries. Preserve both reporting versions; repeated laboratory IDs are not independent dates. The 1996 methods discussion explains that some earlier allowances exceeded counting uncertainty, but the individual assay certificates remain uninspected.
+
+The [structured record](../data/set-s-tephra-check.json) retains original sample identifiers, standard deviations, instrument details and earlier date reporting. Printed pp.176–178, including Table 2 and Figure 3, were visually checked in the Hanford scan. OCR is poor; table transcription follows the image. SHA-256: `2b22965b58b12591db11507e59941505d6497618d85903b64c783faad99621e9`.
 
 The [magnetic audit](TOUCHET-MAGNETIC-AUDIT.md) remains a separate observation and inference chain. Neither this chemical discrepancy nor the missing core record supplies positive evidence of a single global event or fabricated chronology.
 

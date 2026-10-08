@@ -80,5 +80,52 @@
   ],
   "assay_source_id": "S168",
   "assay_locator": "Table 2, printed p.8; attributed there to Crandell et al.1981",
-  "assay_limits": "Uncalibrated reported laboratory ages, not direct dates of So/Sg eruptions; original certificates and preparation uninspected. W-3141 repeats an assay already cited elsewhere in the inventory."
+  "assay_limits": "Uncalibrated reported laboratory ages, not direct dates of So/Sg eruptions; original certificates and preparation uninspected. W-3141 repeats an assay already cited elsewhere in the inventory.",
+  "original_1978": {
+    "source_id": "S169",
+    "locator": "Table 2, printed p.176 (PDF p.7)",
+    "units": "Element mass percent as printed; not oxide percent",
+    "uncertainty": "Published means plus/minus SD; shard-level values and covariance not recovered",
+    "samples": [
+      {
+        "sample_id": "74W102",
+        "layer": "So",
+        "Ca": 0.92,
+        "Ca_SD": 0.05,
+        "Fe": 0.84,
+        "Fe_SD": 0.08,
+        "K": 1.56,
+        "K_SD": 0.1
+      },
+      {
+        "sample_id": "74W101",
+        "layer": "Sg",
+        "Ca": 1.07,
+        "Ca_SD": 0.13,
+        "Fe": 0.94,
+        "Fe_SD": 0.06,
+        "K": 1.54,
+        "K_SD": 0.15
+      }
+    ],
+    "method": "ARL-EMX microprobe, USGS Denver; relative to obsidian U of A 5831, quartz background correction; 15 kV, 15 nA (quartz), defocused 5-micrometre beam.",
+    "assessment": "Original table and p.177 prose agree with the direction of the 2003 ratio ordering, contrary to the 1996 prose. A reversed 1996 description is now a better-supported explanation, not a verified published correction. Exact specimen linkage to the 2003 standards remains missing."
+  },
+  "earlier_assay_reporting": [
+    {
+      "source_id": "S169",
+      "locator": "p.178",
+      "lab_id": "W-3136",
+      "age_14C_BP": 13650,
+      "printed_plus_minus": 350
+    },
+    {
+      "source_id": "S169",
+      "locator": "p.178",
+      "lab_id": "W-3133",
+      "age_14C_BP": 12120,
+      "printed_plus_minus": 350
+    }
+  ],
+  "earlier_assay_reporting_note": "Same central ages/lab IDs as 1996 with larger printed uncertainties. Not new assays. S168 pp.8-9 explains that some earlier error allowances exceeded counting uncertainty; assay-specific certificates remain uninspected."
 }

@@ -7,3 +7,8 @@ for g in d['groups']:
     for oxide in ['Fe2O3','CaO']:
         so=g['So'][oxide]/g['So']['K2O'];sg=g['Sg'][oxide]/g['Sg']['K2O']
         print(f"{g['group']}: {oxide}/K2O So={so:.4f}; Sg={sg:.4f}; Sg>So={sg>so}")
+if 'original_1978' in d:
+    samples={x['layer']:x for x in d['original_1978']['samples']}
+    for element in ['Fe','Ca']:
+        so=samples['So'][element]/samples['So']['K'];sg=samples['Sg'][element]/samples['Sg']['K']
+        print(f"1978 elemental means: {element}/K So={so:.4f}; Sg={sg:.4f}; Sg>So={sg>so}")

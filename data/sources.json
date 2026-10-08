@@ -2748,6 +2748,21 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "sha256": "e96e14ee0717dc2bab52661293c469a84e3ab2cb1aa80ef626c38f43c469b5c3"
+    },
+    {
+      "id": "S169",
+      "title": "Age of the Last Major Scabland Flood of the Columbia Plateau in Eastern Washington",
+      "creator": "Donal R. Mullineaux, Ray E. Wilcox, Walter F. Ebaugh, Roald Fryxell, Meyer Rubin",
+      "publication_date": "1978",
+      "url": "https://pdw.hanford.gov/download/v2/E0008049",
+      "source_type": "original research article",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Hanford archive E0008049: printed pp.176-178 (PDF pp.7-9), including Table 2, Figure 3 and timing discussion, visually inspected. Quaternary Research 10,171-180; DOI 10.1016/0033-5894(78)90099-6.",
+      "limitations": "Partial inspection of 11-page archived scan; OCR is poor and numeric transcription used the page image. No raw shard data, current specimen custody, laboratory certificates or independent reproduction of original confidence analysis. Archive copy is not independent research.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "sha256": "2b22965b58b12591db11507e59941505d6497618d85903b64c783faad99621e9"
     }
   ]
 }
