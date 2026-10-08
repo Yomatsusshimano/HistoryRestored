@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-13 sourced drafts; 0 independent scientific reviews.
+14 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -20,6 +20,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C011 | Haitian sloth bone chronology |
 | C012 | Muskox ancient-DNA population and geographic model |
 | C013 | Old Crow Arctic hyena teeth in reworked river deposits |
+| C014 | Camp Century fossil plants and upper sediment luminescence |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -397,3 +398,32 @@ Place: CRH 11A, lower Old Crow River, Yukon, Canada. Status: SOURCED_DRAFT.
 **Chronology:** {"reported": "Context approximately 1.4-0.012 Ma; authors favor teeth no younger than about 0.85 Ma, nearer 1.4 Ma", "dated_object": "Regional context and interpreted fossil range; not directly measured tooth age", "method": "Stratigraphic context plus comparative biochronology", "raw_date": null, "uncertainty": null, "timescale": "Ma as reported", "event_association": "UNTESTED"}
 
 **Missing:** Direct specimen age; Original source bed; Museum catalog verification; Coordinate datum/error; Supplementary review; Independent identification
+
+## C014: Camp Century fossil plants and upper sediment luminescence
+
+Place: Camp Century, northwestern Greenland. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Plant fragments are reported in upper and lower basal sediment samples; source identifications and dating limits audited in research/CAMP-CENTURY.md. [S25](https://doi.org/10.1073/pnas.2021442118). Locator: Figure 3, pages 3-4 results; radiocarbon methods. Access: SCAN_INSPECTED. Limit: No supplement or raw-data reanalysis, direct specimen inspection or independent dating. See research/CAMP-CENTURY.md for sample dependence and unresolved wording/size discrepancies.
+- Upper sediment 1059-4 has a reported pooled corrected luminescence age of 416 plus/minus 38 ka; this is a mineral exposure/deposition interpretation, not direct plant dating. [S26](https://doi.org/10.1126/science.ade4248). Locator: Page 2 and Figure 3. Access: SCAN_INSPECTED. Limit: No supplement or raw-data reanalysis, direct specimen inspection or independent dating. See research/CAMP-CENTURY.md for sample dependence and unresolved wording/size discrepancies.
+
+**Physical evidence:** Published plant micrographs and age figure visually checked; no core or plant examined directly.
+
+**Surviving documents:** Two original studies with main text and figures inspected; supplements and laboratory records pending.
+
+**Source interpretation:** Vegetation and sediment are interpreted as evidence of ice-free conditions followed by renewed ice cover; newer study assigns upper deposition to MIS 11.
+
+**Investigation inference:** Local environmental change is supported for further testing; biological remains, mineral ages and model-based ice extent must remain separate. No link to one global historical catastrophe established.
+
+**Counterevidence:** Preserved plants beneath ice do not alone imply rapid burial or a recent age. Shared sample material and pooled/fraction results are not independent confirmations.
+
+**Next test:** Audit supplements, handling history, age corrections, size-label discrepancy and plant transport; extend later-literature review.
+
+**Dependence:** Two papers partly share authors, material and data. Two fraction ages and pooled result concern one parent sample.
+
+**Alternatives:** Local vegetation, sediment transport and subsequent ice advance; Older plant fragments reworked into younger sediment where independently supported; A proposed shared catastrophe requiring compatible event strata and transport evidence
+
+**Chronology:** {"reported": "2023 pooled upper-sediment luminescence 416 +/- 38 ka; earlier plant radiocarbon statement is a bound, with preparation caveats", "dated_object": "Mineral sunlight-exposure history versus biological fragments", "method": "Luminescence with fading and residual-dose corrections; not reproduced here", "raw_date": null, "uncertainty": null, "timescale": "ka for luminescence; radiocarbon ka kept distinct", "event_association": "UNTESTED"}
+
+**Missing:** Raw aliquot and dose data; Radiocarbon supplement audit; Grain-size discrepancy resolution; Independent sample review; Plant taphonomy; Full later-literature synthesis

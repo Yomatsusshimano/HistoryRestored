@@ -432,6 +432,50 @@
           "public_mirror_in_this_repository": true
         }
       ]
+    },
+    {
+      "id": "S25",
+      "title": "A multimillion-year-old record of Greenland vegetation and glacial history preserved in sediment beneath 1.4 km of ice at Camp Century",
+      "url": "https://doi.org/10.1073/pnas.2021442118",
+      "doi": "10.1073/pnas.2021442118",
+      "creator": "Christ and colleagues",
+      "publication_date": "2021-03-15",
+      "source_type": "original subglacial sediment research",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Relevant main-text results/methods; Figure 3 page 4 plant micrographs visually checked.",
+      "limitations": "No supplement or raw-data reanalysis, direct specimen inspection or independent dating. See research/CAMP-CENTURY.md for sample dependence and unresolved wording/size discrepancies.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.vliz.be/imisdocs/publications/380026.pdf",
+          "sha256": "4708b99c3a6a9ca5d695a7a2572c257f83dabed4474348e53b7701543c25c8d1",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S26",
+      "title": "Deglaciation of northwestern Greenland during Marine Isotope Stage 11",
+      "url": "https://doi.org/10.1126/science.ade4248",
+      "doi": "10.1126/science.ade4248",
+      "creator": "Christ and colleagues",
+      "publication_date": "2023-07-21",
+      "source_type": "original subglacial sediment research",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Main-text sediment/luminescence results pages 1-4; Figure 3 page 4 ages and size labels visually checked; page 2 text extracted.",
+      "limitations": "No supplement or raw-data reanalysis, direct specimen inspection or independent dating. See research/CAMP-CENTURY.md for sample dependence and unresolved wording/size discrepancies.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://par.nsf.gov/servlets/purl/10488156",
+          "sha256": "b0f6802a2a49438e3d3f4db52df9be216c873695594ace2167a19bf62f483e01",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

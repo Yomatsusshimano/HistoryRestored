@@ -395,6 +395,78 @@
       "calibration_program_as_reported": "OxCal 3.9",
       "recalibrated_here": false,
       "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C014",
+      "source_id": "S26",
+      "locator": "Page 2 sediment deposition section; Figure 3 page 4",
+      "field_id": "1059-4-fine",
+      "parent_sample": "1059-4",
+      "dated_material": "potassium feldspar",
+      "method": "pIR-MET IRSL at 250 C, fading and residual-dose corrected",
+      "age_ka": 434,
+      "uncertainty_plus_minus_ka": 39,
+      "uncertainty_wording": "Pooled age described as mean plus/minus 1 sigma in text; Figure 3 uses 1 sigma, Figure 1 caption uses weighted mean plus/minus 1 SE. Definitions not reconciled here.",
+      "aliquot_count": 22,
+      "grain_size_um_in_text": [
+        63,
+        150
+      ],
+      "grain_size_um_in_figure3": [
+        63,
+        150
+      ],
+      "independent_of_other_parent_rows": false,
+      "derived_from": [],
+      "dated_event": "Last sunlight exposure interpreted as sediment deposition; not direct plant death",
+      "recalculated_here": false
+    },
+    {
+      "case_id": "C014",
+      "source_id": "S26",
+      "locator": "Page 2 sediment deposition section; Figure 3 page 4",
+      "field_id": "1059-4-coarse",
+      "parent_sample": "1059-4",
+      "dated_material": "potassium feldspar",
+      "method": "pIR-MET IRSL at 250 C, fading and residual-dose corrected",
+      "age_ka": 395,
+      "uncertainty_plus_minus_ka": 36,
+      "uncertainty_wording": "Pooled age described as mean plus/minus 1 sigma in text; Figure 3 uses 1 sigma, Figure 1 caption uses weighted mean plus/minus 1 SE. Definitions not reconciled here.",
+      "aliquot_count": 20,
+      "grain_size_um_in_text": [
+        150,
+        355
+      ],
+      "grain_size_um_in_figure3": [
+        150,
+        250
+      ],
+      "independent_of_other_parent_rows": false,
+      "derived_from": [],
+      "dated_event": "Last sunlight exposure interpreted as sediment deposition; not direct plant death",
+      "recalculated_here": false
+    },
+    {
+      "case_id": "C014",
+      "source_id": "S26",
+      "locator": "Page 2 sediment deposition section; Figure 3 page 4",
+      "field_id": "1059-4-pooled",
+      "parent_sample": "1059-4",
+      "dated_material": "potassium feldspar",
+      "method": "pIR-MET IRSL at 250 C, fading and residual-dose corrected",
+      "age_ka": 416,
+      "uncertainty_plus_minus_ka": 38,
+      "uncertainty_wording": "Pooled age described as mean plus/minus 1 sigma in text; Figure 3 uses 1 sigma, Figure 1 caption uses weighted mean plus/minus 1 SE. Definitions not reconciled here.",
+      "aliquot_count": 42,
+      "grain_size_um_in_text": null,
+      "grain_size_um_in_figure3": null,
+      "independent_of_other_parent_rows": false,
+      "derived_from": [
+        "1059-4-fine",
+        "1059-4-coarse"
+      ],
+      "dated_event": "Last sunlight exposure interpreted as sediment deposition; not direct plant death",
+      "recalculated_here": false
     }
   ],
   "aggregates": [

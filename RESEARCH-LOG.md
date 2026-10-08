@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Camp Century plants and sediment dating
+
+Previous goal turn made progress: Arctic hyena case 8e27517 was published with twelve public files verified. Rechecked clean worktree. Retrieved the 2021 and 2023 Camp Century papers from institutional PDF mirrors after PMC browser-check failure. A search hit in Geochronology proved to concern Quebec-Labrador rather than this site and was excluded. A later Camp Century climate paper was located but not audited; no comprehensive current-literature claim is made.
+
+Visually checked the 2021 plant figure and 2023 luminescence figure. Added C014/S25-S26 and three linked fraction/pooled dating rows, with explicit dependence. Preserved the 150-355 versus 150-250 micrometre discrepancy and uncertainty wording rather than harmonizing silently. The 2023 dark-interior sampling procedure is distinguished from earlier light-exposed material. Neither mineral ages nor a radiocarbon lower bound becomes an exact plant date.
+
+Fourteen drafts and twenty-six sources now exist. Raw dating data, laboratory corrections, handling and taphonomy remain unaudited. File checks cannot establish ice-sheet history or global catastrophe. Updated the research queue to reflect existing wildlife cases rather than continuing to list them as uncreated.
+
 ## 2026-10-08 - Arctic predator locality and reworking audit
 
 Previous goal turn made progress: muskox audit b09402d was published with eight public files verified. Rechecked clean state. A focused Arctic hyena search located the original 2019 description (S24). DOI retrieval failed in the web tool; the journal PDF downloaded successfully. Read relevant text and visually checked specimen photos, measurements, locality and age descriptions on pages 2-3. Poppler emitted a font-weight warning; the checked content remained legible.
