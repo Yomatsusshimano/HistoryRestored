@@ -451,6 +451,61 @@
         "Exact site metadata"
       ],
       "dependence": "Taxa and samples share a study, calibration and processing pipeline; they are not independent catastrophe confirmations."
+    },
+    {
+      "id": "C010",
+      "title": "John Graf: Fifth and Terrace street cuts and alleged slide",
+      "category": "urban grading and slope failure",
+      "place": "Northeast corner of Fifth and Terrace, lots 5 and 8, block 36, Boren's Addition, Seattle",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S21",
+          "locator": "Packet pages 11-12, facsimiles",
+          "statement": "Graf alleges a 12-foot street cut, loss of lateral support, changed drainage and a slide damaging his buildings; requests replacement of five or six feet of earth."
+        },
+        {
+          "source_id": "S21",
+          "locator": "Page 8, engineer letter dated December 5, 1890",
+          "statement": "Gardner reports a 121-foot Eastwick grade, floor 0.35 feet above it, and a 116-foot grade at the east side of Fifth on Terrace, all relative to an unspecified historical datum."
+        },
+        {
+          "source_id": "S21",
+          "locator": "Pages 9-10; page 9 date visually checked, page 10 transcription",
+          "statement": "Counsel letter dated November 21, 1890 discusses conditional responsibility and recommends further investigation; no adjudicated outcome established here."
+        }
+      ],
+      "physical_evidence": "No site or sediment inspected. Historical elevation report and allegations of excavation, building damage and sliding are documentary evidence.",
+      "surviving_documents": "Municipal packet 991085: resident petitions, engineer letter, counsel opinion and related administrative records. Detailed access and transcription discrepancies in research/SEATTLE-GRADE-DISPUTE.md.",
+      "source_interpretation": "Graf attributes damage to city excavation and diverted water. Engineer states the recorded grade predates Terrace House. Counsel makes a conditional legal assessment.",
+      "investigation_inference": "Contemporary disputed accounts provide a testable local excavation/slope-failure alternative; they do not independently establish causation, damages or a global event.",
+      "competing_explanations": [
+        "Grading-induced loss of support and drainage alteration as alleged by Graf",
+        "Natural slope instability or a combination with excavation, requiring physical evidence",
+        "Differences between claimed and legally established grades or construction timing, requiring original records"
+      ],
+      "counterevidence": "A proposed depositional explanation must confront explicit cut/regrade accounts. Official claims also remain unverified against their underlying records. Floor-to-grade arithmetic is not deposit thickness.",
+      "next_test": "Retrieve ordinances, survey/grade books, construction dates, pre/post imagery and final council or legal disposition; tie 12-foot and 5.35-foot quantities to exact positions before comparison.",
+      "chronology": {
+        "reported": "Letters dated November 21 and December 5, 1890; petition refers to October 28 without a full date",
+        "dated_object": "Documents, not sediment or directly dated slope movement",
+        "method": "Original letter dates visually read",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Underlying ordinances and survey books",
+        "Vertical datum benchmark",
+        "Physical sections and deposit dates",
+        "Verified building dates",
+        "Final disposition",
+        "Exact petition date"
+      ],
+      "dependence": "One archival packet. Same city as C001/C002 but separate site and process; no confirmation of Pioneer Square fill or common event follows."
     }
   ]
 }

@@ -18,6 +18,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Eiffel construction audit](research/EIFFEL-CONSTRUCTION-AUDIT.md): visually checked personnel and cost records from the 1900 technical account.
 - [Lamp patent comparison](research/LAMP-PATENT-COMPARISON.md): Woodward's earlier disclosure, Edison's claims, and unresolved transmission evidence.
 - [Cascadia chronology audit](research/CASCADIA-CHRONOLOGY.md): sample-level tree dates, an outlier, shared dating assumptions and the published correction.
+- [Seattle grade dispute](research/SEATTLE-GRADE-DISPUTE.md): resident allegations, original elevation report and unresolved source discrepancies.
 - [Physical constraints](PHYSICAL-MODEL.md): equations and required inputs; no fitted reconstruction yet.
 - [Full workplan](WORKPLAN.md): evidence needed for every original outcome.
 - [Research log](RESEARCH-LOG.md): inspected sources, limitations, and next actions.

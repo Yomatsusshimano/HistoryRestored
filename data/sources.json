@@ -127,7 +127,7 @@
     },
     {
       "id": "S08",
-      "title": "Vue de la tour Eiffel en construction le 10 f\u00e9vrier 1888",
+      "title": "Vue de la tour Eiffel en construction le 10 février 1888",
       "url": "https://www.parismuseescollections.paris.fr/en/node/587811",
       "creator": "Paris Musees collection catalog",
       "publication_date": null,
@@ -358,6 +358,20 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S21",
+      "title": "John Graf grading petitions and city responses, file 991085",
+      "url": "https://fromthepage.com/sma-archives/city-of-seattle-records/991085",
+      "creator": "John Graf; Seattle city officers; preserved by Seattle Municipal Archives",
+      "publication_date": null,
+      "source_type": "original municipal file facsimiles with separate indexed transcriptions",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Engineer letter page 8; counsel date and text page 9; petition pages 11-12 visually checked. Other packet pages read as transcriptions only. Letter dates: 1890-12-05 and 1890-11-21 respectively.",
+      "limitations": "One packet with multiple parties, not independent replication. No site survey, underlying grade books, verified final disposition or full paleographic review. Transcription and catalog discrepancies recorded in research/SEATTLE-GRADE-DISPUTE.md. Direct retrieval failed; public browser access succeeded.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

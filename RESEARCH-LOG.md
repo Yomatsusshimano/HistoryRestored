@@ -1,5 +1,15 @@
 # Research log
 
+## 2026-10-08 - Seattle resident petition and original grade report
+
+The immediately preceding model-switch acknowledgment made no research progress. Revalidated the clean checkout at 0174b79, retained all twenty outcomes, and resumed the already located Seattle file. The earlier research continuation had found new source evidence; this turn checked additional facsimiles and records the substantive result.
+
+Added C010/S21 and research/SEATTLE-GRADE-DISPUTE.md. File 991085 preserves John Graf's complaint about cuts, loss of support, water diversion and a slide at Fifth/Terrace, plus city responses. Visually checked pages 11-12 and page 9; page 8's engineer letter was visually checked in the preceding research session and its text revisited here. Other packet pages remain transcription-level inspection. The counselor's scan dates the letter November 21, 1890, contrary to the search-indexed catalog's October 21. The scan also exposes an omitted nearly in the damage transcription; an inconsistent printed dollar total remains unresolved.
+
+Gardner's 121 + 0.35 - 116 = 5.35 feet is internally consistent. These reported elevations use an unidentified historical datum; they are not deposit thickness or independent field measurements. Graf's 12-foot cut allegation is retained separately because measurement locations/quantities are not matched. No final award, fault finding, installed remedy or catastrophe association is established. C001's original Pioneer Square fill evidence remains missing.
+
+The original archive endpoint returned 404 and direct transcription retrieval failed in the earlier source search. Browser facsimiles were accessible without login; a navigation timeout this turn was followed by a successful state read of that same tab. No archive content was edited. Sources remain publicly linked, not fully mirrored. Scope is ten sourced drafts and twenty-one source records, zero independent reviews.
+
 ## 2026-10-08 - Cascadia tree-ring table and correction
 
 Previous goal turn made progress: patent comparison ad715b1 was published and its public files verified. This turn retrieved the full 1997 tree-ring correspondence from coauthor Daniel Bunker's NJIT page after USGS report downloads returned 403. Read the relevant article text on printed pages 922-923 and visually checked Table 1/page 923. PDF rendering reported font substitutions; sample identifiers, year values and latewood flags remained legible. The unrelated neighboring correspondence was not used.

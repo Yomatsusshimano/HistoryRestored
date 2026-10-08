@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-9 sourced drafts; 0 independent scientific reviews.
+10 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -16,6 +16,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C007 | Woodward and Edison incandescent-lamp patent comparison |
 | C008 | Missoula flood sequence |
 | C009 | Yukon mammoth and horse sedimentary DNA |
+| C010 | John Graf: Fifth and Terrace street cuts and alleged slide |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -279,3 +280,33 @@ Place: Klondike goldfields, Yukon, Canada. Status: SOURCED_DRAFT.
 **Chronology:** {"reported": "Sample-level age-model medians and 2-sigma ranges in linked audit", "dated_object": "Sediment chronology, not directly dated DNA molecules or animal deaths", "method": "Bayesian age-depth models using radiocarbon calibration", "raw_date": null, "uncertainty": "See sample records; no single event age assigned", "timescale": "cal BP as published", "event_association": "UNTESTED", "audit_file": "data/dating-records.json"}
 
 **Missing:** Raw reads and taxonomic audit; Age-model rerun; Independent late-survival specimens; Exact site metadata
+
+## C010: John Graf: Fifth and Terrace street cuts and alleged slide
+
+Place: Northeast corner of Fifth and Terrace, lots 5 and 8, block 36, Boren's Addition, Seattle. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Graf alleges a 12-foot street cut, loss of lateral support, changed drainage and a slide damaging his buildings; requests replacement of five or six feet of earth. [S21](https://fromthepage.com/sma-archives/city-of-seattle-records/991085). Locator: Packet pages 11-12, facsimiles. Access: SCAN_INSPECTED. Limit: One packet with multiple parties, not independent replication. No site survey, underlying grade books, verified final disposition or full paleographic review. Transcription and catalog discrepancies recorded in research/SEATTLE-GRADE-DISPUTE.md. Direct retrieval failed; public browser access succeeded.
+- Gardner reports a 121-foot Eastwick grade, floor 0.35 feet above it, and a 116-foot grade at the east side of Fifth on Terrace, all relative to an unspecified historical datum. [S21](https://fromthepage.com/sma-archives/city-of-seattle-records/991085). Locator: Page 8, engineer letter dated December 5, 1890. Access: SCAN_INSPECTED. Limit: One packet with multiple parties, not independent replication. No site survey, underlying grade books, verified final disposition or full paleographic review. Transcription and catalog discrepancies recorded in research/SEATTLE-GRADE-DISPUTE.md. Direct retrieval failed; public browser access succeeded.
+- Counsel letter dated November 21, 1890 discusses conditional responsibility and recommends further investigation; no adjudicated outcome established here. [S21](https://fromthepage.com/sma-archives/city-of-seattle-records/991085). Locator: Pages 9-10; page 9 date visually checked, page 10 transcription. Access: SCAN_INSPECTED. Limit: One packet with multiple parties, not independent replication. No site survey, underlying grade books, verified final disposition or full paleographic review. Transcription and catalog discrepancies recorded in research/SEATTLE-GRADE-DISPUTE.md. Direct retrieval failed; public browser access succeeded.
+
+**Physical evidence:** No site or sediment inspected. Historical elevation report and allegations of excavation, building damage and sliding are documentary evidence.
+
+**Surviving documents:** Municipal packet 991085: resident petitions, engineer letter, counsel opinion and related administrative records. Detailed access and transcription discrepancies in research/SEATTLE-GRADE-DISPUTE.md.
+
+**Source interpretation:** Graf attributes damage to city excavation and diverted water. Engineer states the recorded grade predates Terrace House. Counsel makes a conditional legal assessment.
+
+**Investigation inference:** Contemporary disputed accounts provide a testable local excavation/slope-failure alternative; they do not independently establish causation, damages or a global event.
+
+**Counterevidence:** A proposed depositional explanation must confront explicit cut/regrade accounts. Official claims also remain unverified against their underlying records. Floor-to-grade arithmetic is not deposit thickness.
+
+**Next test:** Retrieve ordinances, survey/grade books, construction dates, pre/post imagery and final council or legal disposition; tie 12-foot and 5.35-foot quantities to exact positions before comparison.
+
+**Dependence:** One archival packet. Same city as C001/C002 but separate site and process; no confirmation of Pioneer Square fill or common event follows.
+
+**Alternatives:** Grading-induced loss of support and drainage alteration as alleged by Graf; Natural slope instability or a combination with excavation, requiring physical evidence; Differences between claimed and legally established grades or construction timing, requiring original records
+
+**Chronology:** {"reported": "Letters dated November 21 and December 5, 1890; petition refers to October 28 without a full date", "dated_object": "Documents, not sediment or directly dated slope movement", "method": "Original letter dates visually read", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
+
+**Missing:** Underlying ordinances and survey books; Vertical datum benchmark; Physical sections and deposit dates; Verified building dates; Final disposition; Exact petition date
