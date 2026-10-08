@@ -268,3 +268,5 @@ Sanson candidate S188 recovered: printed 1656 map shares diagnostic outline and 
 S189 original 1776 Californie article recovered, title and pp.131-137 inspected. Explicit plate references and Kino crossing denial preserved. Next exact report accessible to its writer and manuscript comparison, plus plate-volume imprint/edition lineage; no automatic resolution from later translations. Sanson 1666 still unrecovered.
 
 S190 Buache pp.64-74 recovered: explicit Hila crossing conflicts with S189 denial; later crossing pronoun ambiguous. Next Gobien preliminary letter in 1705 fifth Lettres edifiantes collection (S38), distinct from Picolo report. Tidal-isthmus report requires separate located-sill test, not a regional-upheaval assumption.
+
+S191 Gobien epistle recovered: printed 1705 title and signed attribution checked; route uses Azul rather than Buache Hila and context strongly indicates Colorado crossing in 1701. Next original river/route identification and Alcazar communication/custody. Retain dependency on Kino-derived information; do not repeat epistle retrieval as pending.

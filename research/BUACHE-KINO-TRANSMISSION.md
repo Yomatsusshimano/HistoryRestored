@@ -42,3 +42,7 @@ Buache names the 1705 fifth collection of *Lettres edifiantes*, already represen
 ## Access record
 
 [Printed p.71 scan](https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA71-IA2). The Internet Archive item metadata was accessible, but its text download failed certificate verification; no security setting was weakened. Google Books returned valid page-image URLs. [Page hashes and identifiers](../data/buache-california-access.json) preserve the inspected set. No complete-volume audit or new physical reconstruction claimed.
+
+## Gobien passage now recovered
+
+The [1705 epistle audit](GOBIEN-CROSSING.md) finds Rio Azul in the explicit crossing clause where Buache writes Hila. The following Colorado crossing is strongly indicated by context, placing the claim in an early printed account, with no exact day or independently authenticated route. Alcazar is named as map intermediary; custody and original itinerary remain open.

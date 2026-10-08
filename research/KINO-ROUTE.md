@@ -57,3 +57,7 @@ The [saved response](../data/kino-horizons-response.json) preserves the returned
 ## Subsequent transmission comparison
 
 The [1776 geographical article](ENCYCLOPEDIE-CALIFORNIE.md), S189 p.133, denies Kino crossed the Colorado. This conflicts with the reported November 1701 crossing above; recover the report available to that writer and the underlying manuscript before assigning cause or intent.
+
+## Gobien passage now recovered
+
+The [1705 epistle audit](GOBIEN-CROSSING.md) finds Rio Azul in the explicit crossing clause where Buache writes Hila. The following Colorado crossing is strongly indicated by context, placing the claim in an early printed account, with no exact day or independently authenticated route. Alcazar is named as map intermediary; custody and original itinerary remain open.

@@ -3057,6 +3057,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S191",
+      "title": "Charles Le Gobien preliminary epistle, Lettres edifiantes et curieuses, V. Recueil",
+      "url": "https://books.google.com/books?id=Fsqj6xg8XxgC&pg=PP19",
+      "creator": "Charles Le Gobien",
+      "publication_date": "1705",
+      "source_type": "historical editorial epistle",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Title PP1, opening PP3-4, route PP17-20 and signature PP30; digital page IDs for unnumbered leaves. River-name comparison and map intermediary transcribed. Hashes in data/gobien-access.json.",
+      "limitations": "Selected passages, not entire letter. Same volume as S38 via different scan, not independent witness. Colorado crossing is contextual pronoun reading; no day/month or modern coordinates. Reported Alcazar transmission lacks verified custody documents. No independent translation review.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
