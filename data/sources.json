@@ -1289,6 +1289,36 @@
       "inspected": "ResearchGate author-uploaded full-text extraction: advance-page 2 methods and radiocarbon results. https://www.researchgate.net/publication/398469149_Forest-floor_burial_in_1507_by_the_largest_Mount_Rainier_lahar_of_the_past_millennium",
       "limitations": "Publisher PDF inaccessible via web tool; article page image not inspected. Extraction can contain errors. Detailed processing settings and executable model not recovered.",
       "sha256": null
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S77",
+      "title": "King - MacBlo - PSME - ITRDB CAN682",
+      "url": "https://www.ncei.noaa.gov/access/paleo-search/study/38202",
+      "creator": "Karen J. King, Grant L. Harley, Gordon C. Jacoby; NOAA NCEI",
+      "publication_date": "2023-06-12",
+      "source_type": "Tree-ring measurement archive",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Template metadata and annual widths parsed; 27 series; Tucson file acquired and hashed.",
+      "limitations": "Calendar labels accepted as published; exact processing equivalence to Electron reference not established. Label grouping does not authenticate tree identities.",
+      "sha256": "bf0993a3377e13796c6c45bc4b8c3cf587666816f40520a2137c4cad2202d0d4"
+    },
+    {
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "id": "S78",
+      "title": "Normalization: Proportion of last two years growth",
+      "url": "https://cdendro.se/wiki/index.php/Proportion_of_last_two_years_growth",
+      "creator": "Cybis / CDendro documentation",
+      "publication_date": null,
+      "source_type": "Software developer method documentation",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "P2Yrs formula and description; alternative normalization headings.",
+      "limitations": "Documentation is not evidence for the specific settings used in the Electron paper. Implemented unclipped P2, not P2YrsL.",
+      "sha256": null
     }
   ]
 }

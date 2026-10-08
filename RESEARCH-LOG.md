@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Electron–MacBlo exploratory alignment
+
+Previous turn made progress: 1c69413 published ten byte-verified files. Clean checkout confirmed. Recovered CAN682 NOAA template and Tucson measurements, matching the named reference code and dates. Implemented declared unclipped P2 alternative before inspecting its computed outcomes; published 1507 target already known, so no preregistration claim. In 1,690 placements, 1507 ranks first with series or tree-label weighting and after ELE045 omission. All 21 tree-label omission runs retain 1507. Pearson arithmetic agrees with statistics.correlation; synthetic +123 shift check passes. S77/S78 added. Exact paper processing, reference dating, multiple-search significance and independent review remain open.
+
 ## 2026-10-08 - Electron quality and replication depth
 
 Previous turn made progress: d47b469 published ten byte-verified files. Clean checkout confirmed. Retrieved S75 archived quality report and parsed Parts 5/7 with a hash-pinned script: 19 flags, 744 segments; all 86 spans/counts agree with raw archive. Calculated yearly tree-ID depth: one ID for 1033–1049, two for 1050–1148. Excluding ELE045 preserves outer coverage bounds only; correlation sensitivity not calculated. Author-uploaded paper text S76 explains separate KAP14 handling and agrees with supplement result intervals; publisher PDF retrieval failed. No scanned-article review, new COFECHA run, absolute crossdating or independent validation claimed.

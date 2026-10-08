@@ -37,3 +37,7 @@ Bonneville's abstract uses an Electron chronology as one external comparison. Th
 
 The [reproducible audit](../analysis/electron_quality_audit.py) also counts tree labels per year. The earliest interval, 1033–1049, contains only ELE039; 1050–1148 contains ELE039 and KAP015. Multiple radii are not independent trees. Removing ELE045 preserves the 1033–1507 coverage bounds, but this says nothing yet about the external correlation peak. [Results](../analysis/electron-quality-audit.json) preserve flags and coverage limits. Next, reproduce the actual processing and compare tree-weighted and leave-one-tree-out results without silently altering archive dates.
 
+
+## Exploratory alignment update
+
+A [separate, reproducible P2 comparison](ELECTRON-MACBLO-COMPARISON.md) now ranks 1507 first under series and tree-label weighting and all 21 leave-one-Electron-group-out runs. This narrows the earlier reproduction gap: an explicit alternative has been executed, while the authors’ exact processing and independent reference-calendar validation remain incomplete. The ELE045 discrepancy alone does not overturn this computed match.

@@ -1171,18 +1171,23 @@
           "source_id": "S76",
           "locator": "Advance-page 2, radiocarbon methods/results, extracted text",
           "statement": "KAP14 was separately calibrated; results give the same five- and seven-sample intervals as supplement Figure S2."
+        },
+        {
+          "source_id": "S77",
+          "locator": "Annual raw widths; analysis/electron_macblo_comparison.py and results JSON",
+          "statement": "Exploratory P2 comparison with archived Electron data ranks 1507 first under series/tree-label weighting and all 21 leave-one-Electron-group-out runs; exact published processing not reproduced."
         }
       ],
       "physical_evidence": "Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.",
       "surviving_documents": "USGS tables, NOAA raw measurements and QC report, supplement, and selected author-uploaded article text.",
       "source_interpretation": "Lahar killed a forest; external ring-pattern comparisons place tree death in 1507.",
-      "investigation_inference": "Potential separate event and a dependency in Bonneville external crossdating; shared chronologies require auditing.",
+      "investigation_inference": "Exploratory raw-data alignment supports published 1507 placement under declared assumptions; ELE045 discrepancy alone does not overturn it. Reference calendar authentication and full replication remain pending.",
       "competing_explanations": [
         "Separate regional lahar",
         "Common-event proposal requiring compatible independently dated horizons"
       ],
       "counterevidence": "Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.",
-      "next_test": "Recover precise CDendro processing settings and MacBlo reference version; reproduce alignment with tree-level weighting and leave-one-tree-out sensitivity, retaining unresolved ELE045 and interval differences.",
+      "next_test": "Audit reference calendar anchors, exact author processing, alternative normalizations and multiple-shift significance; resolve remaining sample and interval discrepancies.",
       "chronology": {
         "reported": "1507 CE by external crossdating; 1477–1522 CE reported 99.7% radiocarbon range",
         "dated_object": "Wood samples and ring patterns from buried trees",

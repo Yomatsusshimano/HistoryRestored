@@ -630,6 +630,7 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 - 86 series from 21 tree IDs contain 18,489 widths over assigned years 1033–1507. All tree count/range summaries except ELE045 agree with S1. [S74](https://www.ncei.noaa.gov/access/paleo-search/study/43943). Locator: NOAA template annual rows; Tucson ELE045 rows. Access: FULL_TEXT_PORTION. Limit: Published year assignments are inputs, not newly established dates. ELE045 date range differs from both S1 tables. Standardization and external crossdating not reproduced.
 - Archived diagnostics contain 19 flags across 744 overlapping segments; all 86 series spans and width counts match the recovered template. [S75](https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa171.txt). Locator: Parts 5 and 7; archive header. Access: FULL_TEXT_PORTION. Limit: Historical diagnostics, not a fresh analysis; overlapping segments and related radii are not independent tests.
 - KAP14 was separately calibrated; results give the same five- and seven-sample intervals as supplement Figure S2. [S76](https://doi.org/10.1130/G53721.1). Locator: Advance-page 2, radiocarbon methods/results, extracted text. Access: FULL_TEXT_PORTION. Limit: Publisher PDF inaccessible via web tool; article page image not inspected. Extraction can contain errors. Detailed processing settings and executable model not recovered.
+- Exploratory P2 comparison with archived Electron data ranks 1507 first under series/tree-label weighting and all 21 leave-one-Electron-group-out runs; exact published processing not reproduced. [S77](https://www.ncei.noaa.gov/access/paleo-search/study/38202). Locator: Annual raw widths; analysis/electron_macblo_comparison.py and results JSON. Access: FULL_TEXT_PORTION. Limit: Calendar labels accepted as published; exact processing equivalence to Electron reference not established. Label grouping does not authenticate tree identities.
 
 **Physical evidence:** Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.
 
@@ -637,11 +638,11 @@ Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DR
 
 **Source interpretation:** Lahar killed a forest; external ring-pattern comparisons place tree death in 1507.
 
-**Investigation inference:** Potential separate event and a dependency in Bonneville external crossdating; shared chronologies require auditing.
+**Investigation inference:** Exploratory raw-data alignment supports published 1507 placement under declared assumptions; ELE045 discrepancy alone does not overturn it. Reference calendar authentication and full replication remain pending.
 
 **Counterevidence:** Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.
 
-**Next test:** Recover precise CDendro processing settings and MacBlo reference version; reproduce alignment with tree-level weighting and leave-one-tree-out sensitivity, retaining unresolved ELE045 and interval differences.
+**Next test:** Audit reference calendar anchors, exact author processing, alternative normalizations and multiple-shift significance; resolve remaining sample and interval discrepancies.
 
 **Dependence:** Bonneville abstract cites Electron chronology; shared regional reference data may couple calendar assignments.
 

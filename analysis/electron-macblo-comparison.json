@@ -1,0 +1,378 @@
+{
+  "source_ids": [
+    "S74",
+    "S77",
+    "S78"
+  ],
+  "inputs": {
+    "electron": {
+      "name": "wa171-rwl-noaa.txt",
+      "sha256": "cb02dbf945b0b022e199b33f9e7c3470d9dff7302c8013f34e87b1200c57bd01"
+    },
+    "macblo": {
+      "name": "can682-rwl-noaa.txt",
+      "sha256": "bf0993a3377e13796c6c45bc4b8c3cf587666816f40520a2137c4cad2202d0d4"
+    }
+  },
+  "method": "Unclipped P2 on each series, annual arithmetic means, positive Pearson t ranking; see script docstring.",
+  "publication_replication": false,
+  "prospective_test": false,
+  "macblo_series": 27,
+  "electron_series": 86,
+  "variants": {
+    "series_equal": {
+      "top5": [
+        {
+          "end_year": 1507,
+          "overlap": 474,
+          "r": 0.3139069928474518,
+          "t": 7.182872893999509
+        },
+        {
+          "end_year": 772,
+          "overlap": 57,
+          "r": 0.4514301323175279,
+          "t": 3.7519569548088714
+        },
+        {
+          "end_year": 1461,
+          "overlap": 474,
+          "r": 0.1629679637228098,
+          "t": 3.588544387965912
+        },
+        {
+          "end_year": 881,
+          "overlap": 166,
+          "r": 0.25085036262852844,
+          "t": 3.3185601286629582
+        },
+        {
+          "end_year": 1594,
+          "overlap": 474,
+          "r": 0.14838836680503148,
+          "t": 3.2599104440454902
+        }
+      ],
+      "known_1507": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3139069928474518,
+        "t": 7.182872893999509
+      },
+      "known_1507_rank": 1,
+      "tested_shifts": 1690,
+      "best_at_least_100": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3139069928474518,
+        "t": 7.182872893999509
+      },
+      "best_at_least_300": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3139069928474518,
+        "t": 7.182872893999509
+      }
+    },
+    "tree_labels_equal": {
+      "top5": [
+        {
+          "end_year": 1507,
+          "overlap": 474,
+          "r": 0.31812150850946364,
+          "t": 7.290088713290328
+        },
+        {
+          "end_year": 772,
+          "overlap": 57,
+          "r": 0.4526770381578604,
+          "t": 3.764986646708047
+        },
+        {
+          "end_year": 881,
+          "overlap": 166,
+          "r": 0.2637228068000038,
+          "t": 3.5012492401749213
+        },
+        {
+          "end_year": 1461,
+          "overlap": 474,
+          "r": 0.1576708936093742,
+          "t": 3.4688783293190575
+        },
+        {
+          "end_year": 1594,
+          "overlap": 474,
+          "r": 0.15273156232585802,
+          "t": 3.357570860776606
+        }
+      ],
+      "known_1507": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.31812150850946364,
+        "t": 7.290088713290328
+      },
+      "known_1507_rank": 1,
+      "tested_shifts": 1690,
+      "best_at_least_100": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.31812150850946364,
+        "t": 7.290088713290328
+      },
+      "best_at_least_300": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.31812150850946364,
+        "t": 7.290088713290328
+      }
+    },
+    "tree_labels_equal_without_ELE045": {
+      "top5": [
+        {
+          "end_year": 1507,
+          "overlap": 474,
+          "r": 0.316714307926947,
+          "t": 7.254237033150212
+        },
+        {
+          "end_year": 772,
+          "overlap": 57,
+          "r": 0.4519210455961999,
+          "t": 3.7570835075493796
+        },
+        {
+          "end_year": 1461,
+          "overlap": 474,
+          "r": 0.15759040741061392,
+          "t": 3.4670624643241075
+        },
+        {
+          "end_year": 881,
+          "overlap": 166,
+          "r": 0.2584225005314364,
+          "t": 3.425790012939043
+        },
+        {
+          "end_year": 1594,
+          "overlap": 474,
+          "r": 0.15378242096517136,
+          "t": 3.3812299920413347
+        }
+      ],
+      "known_1507": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.316714307926947,
+        "t": 7.254237033150212
+      },
+      "known_1507_rank": 1,
+      "tested_shifts": 1690,
+      "best_at_least_100": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.316714307926947,
+        "t": 7.254237033150212
+      },
+      "best_at_least_300": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.316714307926947,
+        "t": 7.254237033150212
+      }
+    }
+  },
+  "leave_one_electron_tree_label_out": {
+    "ELE001": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3350145335841115,
+        "t": 7.724770287771127
+      },
+      "known_1507_rank": 1
+    },
+    "ELE002": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3187502888905622,
+        "t": 7.306125650488132
+      },
+      "known_1507_rank": 1
+    },
+    "ELE003": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3186637656266511,
+        "t": 7.303918252974097
+      },
+      "known_1507_rank": 1
+    },
+    "ELE004": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.31183940235441765,
+        "t": 7.130446931131403
+      },
+      "known_1507_rank": 1
+    },
+    "ELE006": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3162771505396739,
+        "t": 7.2431102965235254
+      },
+      "known_1507_rank": 1
+    },
+    "ELE009": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.320481197700837,
+        "t": 7.350327745710654
+      },
+      "known_1507_rank": 1
+    },
+    "ELE011": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3167068027408323,
+        "t": 7.254045964285861
+      },
+      "known_1507_rank": 1
+    },
+    "ELE012": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3176373117839851,
+        "t": 7.277746654186846
+      },
+      "known_1507_rank": 1
+    },
+    "ELE014": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3172159917902565,
+        "t": 7.267012460501902
+      },
+      "known_1507_rank": 1
+    },
+    "ELE017": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3198349688353755,
+        "t": 7.333815483523462
+      },
+      "known_1507_rank": 1
+    },
+    "ELE028": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.31388983500150053,
+        "t": 7.182437373655957
+      },
+      "known_1507_rank": 1
+    },
+    "ELE031": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.31724530129211725,
+        "t": 7.267759039327181
+      },
+      "known_1507_rank": 1
+    },
+    "ELE032": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.322859534769923,
+        "t": 7.4111971470111175
+      },
+      "known_1507_rank": 1
+    },
+    "ELE033": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3168515327552337,
+        "t": 7.257730803444197
+      },
+      "known_1507_rank": 1
+    },
+    "ELE039": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 457,
+        "r": 0.3001214075777321,
+        "t": 6.71118735995631
+      },
+      "known_1507_rank": 1
+    },
+    "ELE044": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3258283795470741,
+        "t": 7.487399722643041
+      },
+      "known_1507_rank": 1
+    },
+    "ELE045": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.316714307926947,
+        "t": 7.254237033150212
+      },
+      "known_1507_rank": 1
+    },
+    "ELE047": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.31668673548520604,
+        "t": 7.253535094620017
+      },
+      "known_1507_rank": 1
+    },
+    "ELE048": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3276802715713337,
+        "t": 7.535058277327632
+      },
+      "known_1507_rank": 1
+    },
+    "ELE050": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.3188102794315944,
+        "t": 7.3076562596072225
+      },
+      "known_1507_rank": 1
+    },
+    "KAP015": {
+      "best": {
+        "end_year": 1507,
+        "overlap": 474,
+        "r": 0.2676413528192556,
+        "t": 6.034817064388646
+      },
+      "known_1507_rank": 1
+    }
+  },
+  "limitations": "Published internal ring assignments and reference dating are accepted inputs. Grouping uses first six Electron or five MacBlo label characters, not authenticated specimen independence. P2 is a declared alternative, not the unknown article settings or P2YrsL. No multiple-search significance or independent calendar validation. Missing/zero-sum pairs excluded; no imputation."
+}

@@ -1,0 +1,21 @@
+{
+  "source_id": "S77",
+  "files": [
+    {
+      "name": "can682-rwl-noaa.txt",
+      "bytes": 159323,
+      "sha256": "bf0993a3377e13796c6c45bc4b8c3cf587666816f40520a2137c4cad2202d0d4",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/can682-rwl-noaa.txt"
+    },
+    {
+      "name": "can682.rwl",
+      "bytes": 102669,
+      "sha256": "0a489fdbf8972787b66ad3d7740fef97f01c74f34c0b4e539725369294bd913e",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/can682.rwl"
+    }
+  ],
+  "template_units": "millimeter",
+  "first_assigned_year": 715,
+  "last_assigned_year": 1990,
+  "exact_author_processing_verified": false
+}
