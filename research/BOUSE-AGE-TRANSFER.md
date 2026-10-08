@@ -36,3 +36,5 @@ The RD-16 revision is documented calculation history, and the9.2 Ma basalt/tuff 
 No Bouse result by itself establishes H2-G, the northern connection depicted on an island map. That claim still requires a fixed route, compatible terrain/deformation and dated in-place deposits along the entire route. A local marine episode and an island-surrounding passage are geographically different propositions.
 
 Detailed support: [chronology](BOUSE-CHRONOLOGY.md), [RD-16](RD16-BASALT.md), [argon](LAWLOR-ARGON-AUDIT.md), [zircon](LAWLOR-ZIRCON-CHECK.md), [oxygen](ZIRCON-OXYGEN-CHECK.md), [ash sections](BOUSE-ASH-STRATIGRAPHY.md). Existing rows and code checks remain source audits rather than independent scientific validation.
+
+The [Bullhead younger-constraint audit](BULLHEAD-YOUNGER-CONSTRAINTS.md) now identifies specific northern regional tephra, burial and basalt targets from S208, with a later chronology challenge from S209. These are useful bracket candidates; original analyses and transfer to Hart Mine Wash remain pending.

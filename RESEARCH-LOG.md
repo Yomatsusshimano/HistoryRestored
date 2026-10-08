@@ -924,3 +924,7 @@ Previous turn published verified progress; clean checkout confirmed. Followed in
 ### 2026-10-08 — Bed-specific age-transfer synthesis
 
 Previous turn published verified progress; clean tree confirmed. Compared current source audits with cross-case assessment and C005 next actions. Added explicit before-present inequality directions, differentiated age of primary ash from age of overlying fossils, and prioritized a dated bracket for a named bed. Integrated RD-16 recalculation and dependency findings; removed stale original-table retrieval task. No new measurement, historical-age assignment, fitted geography or independent review claimed.
+
+### 2026-10-08 — Younger regional age constraints
+
+Previous turn published verified synthesis; clean tree confirmed. Retrieved/hash-checked Howard2015 PDF and visually inspected age discussion on12. Identified distinct Mohave Valley and Greggs Basin controls without transferring them automatically to southern Bouse. Retrieved Crow2021 institutional abstract; web download403. Published later chronology challenge alongside older model and specified original-data checks. No new date, field contact, regional synchronization or independent review claimed.

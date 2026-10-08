@@ -538,6 +538,16 @@
           "source_id": "S207",
           "locator": "Table1 K41-4, Discussion and Fugro bibliography",
           "statement": "RD-16 is explicitly tabulated as reported9.3 ±0.6 Ma and recalculated9.6 ±0.6 Ma. DMS coordinates round to S206 values; S205 position remains different. This documents a revised calculation, not independent dating; original isotope inputs remain uninspected."
+        },
+        {
+          "source_id": "S208",
+          "locator": "PDF12, Timing of Bullhead Aggradation",
+          "statement": "Reports ancient tephra and burial constraints in Bullhead and a younger inset deposit in Mohave Valley, plus an interbedded basalt in Greggs Basin. These identify potentially younger regional controls; original analyses and transfer to Hart Mine Wash remain unverified."
+        },
+        {
+          "source_id": "S209",
+          "locator": "Institutional repository abstract",
+          "statement": "Authors propose a revised4.80–4.63 Ma river-to-Gulf integration interval and probable fault-related section duplication. Abstract-only access; not independent verification of their chronology or fault interpretation."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

@@ -3295,6 +3295,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S208",
+      "title": "River-evolution and tectonic implications of a major Pliocene aggradation on the lower Colorado River: The Bullhead Alluvium",
+      "url": "https://pages.uoregon.edu/rdorsey/Downloads/HowardEtal2015.pdf",
+      "creator": "Keith A. Howard, P. Kyle House, Rebecca J. Dorsey and Phillip A. Pearthree",
+      "publication_date": "2015",
+      "source_type": "original regional stratigraphy and chronology synthesis",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF12 visually checked; selected other age passages text-read. SHA256 5ff5552ff07687e9b9c9dfdccb2ca5fc00e4c447111cc5a909f37ae28a2b93c8.",
+      "limitations": "Original tephra analyses and cosmogenic inputs not reproduced. Northern-site chronology does not automatically transfer to Hart Mine Wash.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S209",
+      "title": "Redefining the age of the lower Colorado River, southwestern United States",
+      "url": "https://digitalcommons.usu.edu/geology_facpub/583/",
+      "creator": "R.S. Crow, J. Schwing, K.E. Karlstrom, M. Heizler, P.A. Pearthree, P.K. House, S. Dulin, S.U. Jänecke, M. Stelten and L.J. Crossey",
+      "publication_date": "2021",
+      "source_type": "original geochronology and magnetostratigraphy study",
+      "access": "ABSTRACT",
+      "inspected": "Institutional repository abstract and bibliographic metadata; DOI10.1130/G48080.1.",
+      "limitations": "Download returned403 via web. Full methods, sample data and proposed fault duplication unverified; conclusions retained as authors claims.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
