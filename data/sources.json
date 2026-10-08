@@ -3029,6 +3029,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S189",
+      "title": "Californie, Supplement a l Encyclopedie, tome II, pp.131-137",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA131",
+      "creator": "Samuel Engel (bibliographic attribution); article signed E.",
+      "publication_date": "1776",
+      "source_type": "historical geographical article",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Title leaf PP13 and printed pp.131-137 visually inspected; selected passages on uncertainty, supplement maps, Kino crossing denial and possible terrain change audited. Page hashes in data/engel-californie-access.json.",
+      "limitations": "No complete critical transcription or independent translation review. Relies on earlier reports; not eyewitness geography. Detached LOC plate printing date and Sanson 1666 attribution unresolved. Later Kino editions conflict with crossing denial; manuscript/transmission unresolved.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

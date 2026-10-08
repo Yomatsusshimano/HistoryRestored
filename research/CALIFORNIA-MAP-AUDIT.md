@@ -63,3 +63,7 @@ The [Bouse comparison and geographical test](CALIFORNIA-MARINE-TEST.md) now pres
 ## Sanson candidate recovered
 
 The [S188 comparison](SANSON-ANTECEDENT.md) finds matching diagnostic geometry and names in a scan with printed 1656 imprint. Shared lineage is supported without resolving the later 1666 attribution or proving direct copying. Northern label corrected to Agubela de Cato; no modern landmark identification made.
+
+## Subsequent transmission comparison
+
+The [1776 article audit](ENCYCLOPEDIE-CALIFORNIE.md) now documents explicit fourth/fifth supplementary map references and disagreement over Kino coverage. It does not independently date the detached LOC impression or resolve Sanson 1666.

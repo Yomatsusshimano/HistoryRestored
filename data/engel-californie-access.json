@@ -1,0 +1,50 @@
+{
+  "source_id": "S189",
+  "case_id": "C005",
+  "book_id": "qWrqlNvt6ZoC",
+  "accessed_date": "2026-10-08",
+  "scope": "Title leaf and pp.131-137 visually inspected; selected passages substantively transcribed and compared",
+  "pages": [
+    {
+      "page_id": "PP13",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PP13",
+      "sha256": "f239d8ac8442879c6bc81ee56c4c189c389183bc709a3eb3a7951788b8cec6cf"
+    },
+    {
+      "page_id": "PA131",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA131",
+      "sha256": "8d26d8b300250510329e67a7df055d10188b267c1af5489c89955038fc1db1b3"
+    },
+    {
+      "page_id": "PA132",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA132",
+      "sha256": "5a446840141704243b260a93571167c378444768bbef63df7da008ca7476f112"
+    },
+    {
+      "page_id": "PA133",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA133",
+      "sha256": "bb08db0fa36decb03d7003fb07713362760e9291870ac1de79967f56168c5111"
+    },
+    {
+      "page_id": "PA134",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA134",
+      "sha256": "43ddbc2c42ad18765d69da9d8d948099a45c0e04023c44d6212b090eb7b9b097"
+    },
+    {
+      "page_id": "PA135",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA135",
+      "sha256": "7875e0480692dda5fb2972fb782dd14eead49c191301618e63707bc98f5a6c2e"
+    },
+    {
+      "page_id": "PA136",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA136",
+      "sha256": "7cd03ab222a7bc6f9aae50c21837cd7431de082ac15d99b20cb60e79b409830e"
+    },
+    {
+      "page_id": "PA137",
+      "url": "https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA137",
+      "sha256": "bcc89293ee1a67bd3c52eaa0350dd244ac650a057d78768281e7a1cd55d10fee"
+    }
+  ],
+  "excluded_placeholder_sha256": "12557f8948b8bdc6af436e3a8b3adddd45f7f7d2b67c5832e799cdf4686f72bb"
+}

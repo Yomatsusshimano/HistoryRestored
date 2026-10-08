@@ -53,3 +53,7 @@ The 25 samples range from **-7.07571 to -6.69282 degrees**, versus the account's
 The original solar table, calendar convention, observation time, instrument uncertainty, horizon/refraction treatment and use of solar limb versus center remain unresolved. Do not treat the model output's printed precision as historical measurement precision, or silently correct the reported 52-degree altitude or 31.5-degree latitude. A geocentric declination calculation is not a reconstruction of the field observation. Seasonal similarity also cannot establish the year, manuscript authenticity, geographic upheaval or intentional rewriting.
 
 The [saved response](../data/kino-horizons-response.json) preserves the returned text inside JSON; its SHA-256 refers to that extracted UTF-8 text. [Structured results](../data/kino-solar-check.json) retain every sample and exact request parameters. Run `python analysis/kino_solar_check.py` to verify parsing and arithmetic against the saved response; `--fetch` requests a new response and replaces these two generated artifacts. This retrospective check is not a public preregistration or independent historical review.
+
+## Subsequent transmission comparison
+
+The [1776 geographical article](ENCYCLOPEDIE-CALIFORNIE.md), S189 p.133, denies Kino crossed the Colorado. This conflicts with the reported November 1701 crossing above; recover the report available to that writer and the underlying manuscript before assigning cause or intent.

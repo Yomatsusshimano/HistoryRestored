@@ -264,3 +264,5 @@ Bouse synthesis reconciled with CLAIMS, physical-model requirements, README and 
 Selected panel II for route-definition work. Enlarged cartouche reinspection reads Sanson 1666, correcting our earlier printed-date claim of 1656; retain 1656 as catalog attribution. Northern shore above native 45-degree latitude means southern Bouse evidence alone is not the depicted northern crossing. Next antecedent Sanson impression, longitude-origin/projection audit and landmark controls; no modern route fitted yet.
 
 Sanson candidate S188 recovered: printed 1656 map shares diagnostic outline and labels with panel II. Corrected northern land to Agubela de Cato. Next exact edition/transmission around 1666 and modern control-point identities; do not repeat retrieval as pending or count matching depictions as independent surveys.
+
+S189 original 1776 Californie article recovered, title and pp.131-137 inspected. Explicit plate references and Kino crossing denial preserved. Next exact report accessible to its writer and manuscript comparison, plus plate-volume imprint/edition lineage; no automatic resolution from later translations. Sanson 1666 still unrecovered.
