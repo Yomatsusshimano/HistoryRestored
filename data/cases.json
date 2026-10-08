@@ -1733,6 +1733,61 @@
         "Independent review"
       ],
       "dependence": "Ice isotope measurements and tree measurements are different observations, but assigning ice dates using tree markers creates chronological dependence. Shared markers also connect this audit to the MacBlo anchor discussion."
+    },
+    {
+      "id": "C024",
+      "title": "Moxee City mammoth: weathering before flood burial",
+      "category": "fossil and sediment chronology",
+      "place": "Moxee Valley, Washington",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S160",
+          "locator": "p.422; Figure 4 p.421",
+          "statement": "CAMS 79942 reports tusk collagen at 14570 +/-50 radiocarbon BP; tusk near base of Unit 4."
+        },
+        {
+          "source_id": "S160",
+          "locator": "pp.420,423",
+          "statement": "Weathered and sediment-filled older cracks contrast with fresh fractures; authors infer exposure before final burial."
+        },
+        {
+          "source_id": "S160",
+          "locator": "p.417 versus p.425",
+          "statement": "Abstract and discussion give different older age bounds, 15300 versus 19000 radiocarbon BP, for lower deposits."
+        }
+      ],
+      "physical_evidence": "Published tusk photograph, section diagrams and sediment tables inspected; specimen not independently examined.",
+      "surviving_documents": "Original 2005 article scan; assay communicated through museum personnel, certificate not recovered.",
+      "source_interpretation": "Weathered tusk transported into the third of three interpreted flood deposits; most likely Columbian mammoth.",
+      "investigation_inference": "Death and final deposition need separate dates. A reworked tusk above lower beds does not alone order its death relative to those lower beds.",
+      "competing_explanations": [
+        "Local reworking with an unmeasured delay",
+        "Longer transport or storage history",
+        "Alternative subdivision or correlation of sedimentary events requiring field testing"
+      ],
+      "counterevidence": "The reported fossil weathering challenges automatic flood-mortality attribution. Three interpreted units are not three independently dated floods; species attribution is circumstantial.",
+      "next_test": "Recover museum accession and original assay/preparation records; independently date host and lower sediments and audit contacts.",
+      "chronology": {
+        "reported": "14570 +/-50 radiocarbon yr BP, CAMS 79942",
+        "dated_object": "Tusk collagen",
+        "method": "AMS radiocarbon",
+        "raw_date": 14570,
+        "uncertainty": 50,
+        "timescale": "Radiocarbon BP; uncalibrated",
+        "event_association": "REWORKING_INFERRED_NOT_DIRECT_EVENT_DATE"
+      },
+      "missing": [
+        "Original CAMS certificate and Stafford preparation details",
+        "Collagen quality and blank controls",
+        "Accession and field records",
+        "Independent dates for sediment units",
+        "Quantified exposure and transport delay",
+        "Independent review"
+      ],
+      "dependence": "Original site study, but regional chronology and species interpretation use prior literature. Shared references do not independently replicate other regional sites."
     }
   ]
 }

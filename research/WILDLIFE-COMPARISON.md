@@ -50,3 +50,7 @@ This purposive collection is not a prevalence sample, a complete wildlife range 
 ## Spatial coverage audit
 
 The [locality map and coverage ledger](WILDLIFE-GEOGRAPHY.md) now distinguish ten reported positions across four cases from five cases with no audited coordinates. Sediment samples and regional/site coordinates remain separate from animal findspots. No species range, transport corridor or common horizon follows from this map.
+
+## Moxee mortality versus deposition check
+
+The [Moxee audit](MOXEE-MAMMOTH.md) adds physical weathering evidence and a reported collagen assay. It challenges treating fossil burial as automatically simultaneous with death. It also shows why a reworked tusk in an upper unit cannot by itself date lower units relative to the animal's death. Neither a delay duration nor shared regional burial is established.

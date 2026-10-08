@@ -748,3 +748,7 @@ Original 1970 fossil paper not recovered through checked searches. Downloaded th
 ### 2026-10-08 — Dead Canyon original-paper locator and laboratory scope
 
 Recovered the 1970 WSU contents HTML from its 2010-12-05 archive capture, identifying page 16 and the exact Newcomb–Repenning PDF address in the 1970-1978 directory. Added S158 as catalog metadata only. Live PDF returned 404; archive availability requests encountered service failure and HTTP 429, leaving capture availability unknown. Retrieved Geochron 1966 publisher HTML (S159): opening extract explicitly describes selected client-released results, not all laboratory measurements. PDF request timed out and web retrieval failed; full list and methods remain uninspected. Added recovery leads without changing GX-1457 measurement fields or scientific assessment. No private reports requested or third parties messaged.
+
+### 2026-10-08 — Moxee tusk and deposition-order audit
+
+Exact Dead Canyon archive query timed out; no availability conclusion drawn. Recovered CWU-hosted original Moxee 2005 PDF, hashed it and visually inspected all twelve pages. Added S160, C024 and structured CAMS 79942 record with preparation quality and error convention unknown. Recorded weathering evidence, circumstantial species attribution and abstract/discussion older-bound discrepancy. Demonstrated that reworked-tusk superposition alone cannot order lower deposits relative to death. No calibrated age, delay duration or new event count inferred.

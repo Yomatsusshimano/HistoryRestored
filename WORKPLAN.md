@@ -214,3 +214,5 @@ Fry 1969 recovered and all six pages inspected: 31 vertebrate sites, 21 with mam
 Dead Canyon discrepancy retained: S156 reports GX-1457 at 4905 +/-140 radiocarbon BP against an older contextual interpretation. Obtain original assay, fraction/preparation, specimen accession and bone-to-bed records; the retrieved S157 USGS accompanying text does not contain assay details or the map sheet. Neither age interpretation is validated here.
 
 Dead Canyon retrieval narrowed: S158 archived journal contents supplies exact original PDF filename and correct 1970-1978 directory. Retry that address when archive service permits; current failures do not establish absence. S159 opening confirms a selective client-release date list, not a complete assay register. Do not import generic laboratory methods into GX-1457.
+
+Moxee C024: original field study S160 inspected throughout. Recover CAMS 79942 certificate, Stafford preparation and museum accession/field records; independently date sediment units. Preserve 15300/19000 older-bound discrepancy and audit the assumed ordering of lower beds versus tusk death.

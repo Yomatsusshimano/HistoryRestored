@@ -1,0 +1,41 @@
+{
+  "status": "SOURCED_DRAFT",
+  "source_id": "S160",
+  "site": "Moxee City mammoth site, Washington",
+  "coordinates": null,
+  "reported_elevation_m_approx": 320,
+  "elevation_datum": null,
+  "laboratory_id": "CAMS 79942",
+  "dated_material": "Tusk collagen, as reported",
+  "locator": "p.422; preparation laboratory p.426",
+  "reported_radiocarbon_bp": 14570,
+  "reported_plus_minus_years": 50,
+  "error_level": null,
+  "calibrated_interval": null,
+  "preparation_laboratory": "Stafford Research Laboratories",
+  "pretreatment": null,
+  "collagen_yield": null,
+  "carbon_nitrogen_ratio": null,
+  "blank_correction": null,
+  "original_certificate_inspected": false,
+  "collection_accession": null,
+  "reported_museum_access": "Yakima Valley Museum, jacketed tusk and excavation records (pp.419,426); current custody not checked",
+  "host_unit": 4,
+  "host_position": "Near base",
+  "taxon_genus": "Mammuthus",
+  "species_attribution": "M. columbi, circumstantial in source",
+  "lower_units_source_age_bounds_radiocarbon_bp": [
+    {
+      "locator": "p.417 abstract",
+      "older": 15300,
+      "younger": 14570
+    },
+    {
+      "locator": "p.425 discussion",
+      "older": 19000,
+      "younger": 14570
+    }
+  ],
+  "death_to_burial_delay_years": null,
+  "assessment": "Reported dated tusk with pre-burial weathering; no demonstrated same-time mortality and deposition. Lower-unit age bound requires evidence beyond superposition and a reworked tusk."
+}

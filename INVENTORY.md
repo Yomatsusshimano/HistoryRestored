@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-23 sourced drafts; 0 independent scientific reviews.
+24 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -30,6 +30,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C021 | Heal Lake reference chronology disagreement |
 | C022 | Campo Laborde sloth: same-specimen chemical redating |
 | C023 | Ice-core chronology revision: isotope anchors and validation dependence |
+| C024 | Moxee City mammoth: weathering before flood burial |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -816,3 +817,33 @@ Place: Greenland and West Antarctica, compared with tree-ring records. Status: S
 **Chronology:** {"reported": "See data/ice-core-anchor-audit.json", "dated_object": "Ice layers carrying isotope signals", "method": "Layer chronology constrained by cross-archive markers", "raw_date": null, "uncertainty": null, "timescale": "Calendar CE", "event_association": "REPORTED_NOT_REVALIDATED"}
 
 **Missing:** Exact binary volcanic-event vector and selection rule for historical validation; Calendar/sentinel convention verification; Original historical and tephra validation records; Validation and age-model reproduction; Independent review
+
+## C024: Moxee City mammoth: weathering before flood burial
+
+Place: Moxee Valley, Washington. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- CAMS 79942 reports tusk collagen at 14570 +/-50 radiocarbon BP; tusk near base of Unit 4. [S160](https://www.gis.cwu.edu/geog/documents/Moxee-City-Mammoth-Morphostratigraphic-Taphonomic-Taxonomic-Considerations.pdf). Locator: p.422; Figure 4 p.421. Access: SCAN_INSPECTED. Limit: No original assay certificate or laboratory quality-control record. Flood count and transport history are interpretations of field evidence. Abstract and discussion give different older bounds for lower deposits. No independent review or sample examination by this investigation.
+- Weathered and sediment-filled older cracks contrast with fresh fractures; authors infer exposure before final burial. [S160](https://www.gis.cwu.edu/geog/documents/Moxee-City-Mammoth-Morphostratigraphic-Taphonomic-Taxonomic-Considerations.pdf). Locator: pp.420,423. Access: SCAN_INSPECTED. Limit: No original assay certificate or laboratory quality-control record. Flood count and transport history are interpretations of field evidence. Abstract and discussion give different older bounds for lower deposits. No independent review or sample examination by this investigation.
+- Abstract and discussion give different older age bounds, 15300 versus 19000 radiocarbon BP, for lower deposits. [S160](https://www.gis.cwu.edu/geog/documents/Moxee-City-Mammoth-Morphostratigraphic-Taphonomic-Taxonomic-Considerations.pdf). Locator: p.417 versus p.425. Access: SCAN_INSPECTED. Limit: No original assay certificate or laboratory quality-control record. Flood count and transport history are interpretations of field evidence. Abstract and discussion give different older bounds for lower deposits. No independent review or sample examination by this investigation.
+
+**Physical evidence:** Published tusk photograph, section diagrams and sediment tables inspected; specimen not independently examined.
+
+**Surviving documents:** Original 2005 article scan; assay communicated through museum personnel, certificate not recovered.
+
+**Source interpretation:** Weathered tusk transported into the third of three interpreted flood deposits; most likely Columbian mammoth.
+
+**Investigation inference:** Death and final deposition need separate dates. A reworked tusk above lower beds does not alone order its death relative to those lower beds.
+
+**Counterevidence:** The reported fossil weathering challenges automatic flood-mortality attribution. Three interpreted units are not three independently dated floods; species attribution is circumstantial.
+
+**Next test:** Recover museum accession and original assay/preparation records; independently date host and lower sediments and audit contacts.
+
+**Dependence:** Original site study, but regional chronology and species interpretation use prior literature. Shared references do not independently replicate other regional sites.
+
+**Alternatives:** Local reworking with an unmeasured delay; Longer transport or storage history; Alternative subdivision or correlation of sedimentary events requiring field testing
+
+**Chronology:** {"reported": "14570 +/-50 radiocarbon yr BP, CAMS 79942", "dated_object": "Tusk collagen", "method": "AMS radiocarbon", "raw_date": 14570, "uncertainty": 50, "timescale": "Radiocarbon BP; uncalibrated", "event_association": "REWORKING_INFERRED_NOT_DIRECT_EVENT_DATE"}
+
+**Missing:** Original CAMS certificate and Stafford preparation details; Collagen quality and blank controls; Accession and field records; Independent dates for sediment units; Quantified exposure and transport delay; Independent review

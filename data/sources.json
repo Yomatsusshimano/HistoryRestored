@@ -2594,6 +2594,28 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S160",
+      "title": "The Moxee City (Washington) mammoth: morphostratigraphic, taphonomic, and taxonomic considerations",
+      "creator": "Karl Lillquist, Steve Lundblad, and Bax R. Barton",
+      "publication_date": "2005",
+      "url": "https://www.gis.cwu.edu/geog/documents/Moxee-City-Mammoth-Morphostratigraphic-Taphonomic-Taxonomic-Considerations.pdf",
+      "source_type": "original field study",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All twelve PDF pages visually inspected, printed pp.417-428; Figures 1-5 and Tables 1-2 included. Image-only PDF; text extraction empty.",
+      "limitations": "No original assay certificate or laboratory quality-control record. Flood count and transport history are interpretations of field evidence. Abstract and discussion give different older bounds for lower deposits. No independent review or sample examination by this investigation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.gis.cwu.edu/geog/documents/Moxee-City-Mammoth-Morphostratigraphic-Taphonomic-Taxonomic-Considerations.pdf",
+          "sha256": "1ee571b9ad054b2eed05e27f19e1a0930989a54ad423463950504f973e397157",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }
