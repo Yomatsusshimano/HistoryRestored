@@ -2267,13 +2267,14 @@
       "creator": "Hawke Woznick",
       "publication_date": "2024-08",
       "url": "https://digitalcommons.usu.edu/etd2023/281/",
-      "source_type": "Thesis repository record",
-      "access": "CATALOG_METADATA",
-      "inspected": "Repository abstract and metadata only; linked full-text download returned 403.",
-      "limitations": "Access and dependency audit only; no independent scientific validation.",
+      "source_type": "MS thesis",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Browser Download recovered 110-page PDF. Visually checked Table 3.9 (printed p.65/PDF p.78), narrative p.63/PDF p.76 and Table 3.2 p.44/PDF p.57; methods p.43 and discussion p.72 read as extracted text.",
+      "limitations": "Selected portions inspected; new measurements share instrument and conditions with pilot study. Partial bleaching, text/table uncertainties and lower-sample ID conflict remain unresolved. No independent dating replication.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
-      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrieved_sha256": "5f0b47a0c0c3136ab22ecd41d948c73474dbb10516637241c43eeaece0a8f403"
     },
     {
       "id": "S143",

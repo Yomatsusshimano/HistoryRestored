@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camp Century thesis measurements recovered
+
+Previous assistant turn was no progress: it acknowledged the model switch. Revalidated the clean checkout and recovered PDF. Visually checked three source pages and recorded three new upper-segment ages, a lower saturation limit, unavailable Unit 2 results, shared-method dependence and partial-bleaching limits. Preserved uncertainty and identifier conflicts without silent repair. Updated the previous access failure with successful browser retrieval. No pooled age, independent replication or global event established. Full twenty-part goal remains active.
+
 ## 2026-10-08 - Camp Century later-data retrieval
 
 Previous turn made progress: dafd5a4 published seven verified files. Located a dedicated 2024 thesis, currently 403 on download, and read the 2025 reconstruction/data availability. Retrieved and hashed public repository metadata; checked resource-map membership and system metadata before recording the measurement-file retrieval gap. No new ages or independent replication claimed. Full goal remains active.

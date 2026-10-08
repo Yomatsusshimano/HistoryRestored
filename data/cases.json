@@ -984,8 +984,8 @@
         },
         {
           "source_id": "S142",
-          "locator": "Repository abstract",
-          "statement": "Later luminescence thesis identified; full text remains unrecovered."
+          "locator": "Table 3.9 p.65; narrative p.63; methods p.43; discussion p.72",
+          "statement": "Thesis adds three upper-segment finite estimates, 417 +/- 37, 422 +/- 34 and 414 +/- 34 ka (table, 1 SE), and a saturated lower-sample limit >850 ka. Narrative uncertainties and lower-sample lab IDs conflict with tables; partial bleaching and shared-method limits retained."
         },
         {
           "source_id": "S143",
@@ -999,7 +999,7 @@
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",
-      "surviving_documents": "Two original studies with main text and figures inspected; supplements and laboratory records pending.",
+      "surviving_documents": "Original studies, selected handling supplements and 2024 thesis tables inspected; full laboratory correction records remain unaudited.",
       "source_interpretation": "Vegetation and sediment are interpreted as evidence of ice-free conditions followed by renewed ice cover; newer study assigns upper deposition to MIS 11.",
       "investigation_inference": "Local environmental change is supported for further testing; biological remains, mineral ages and model-based ice extent must remain separate. No link to one global historical catastrophe established.",
       "competing_explanations": [
@@ -1008,9 +1008,9 @@
         "A proposed shared catastrophe requiring compatible event strata and transport evidence"
       ],
       "counterevidence": "Preserved plants beneath ice do not alone imply rapid burial or a recent age. Shared sample material and pooled/fraction results are not independent confirmations.",
-      "next_test": "Audit supplements, handling history, age corrections, size-label discrepancy and plant transport; extend later-literature review.",
+      "next_test": "Reproduce sample-specific dose, fading and residual corrections; reconcile thesis uncertainty and lab-ID conflicts before pooling; test light resetting and plant transport.",
       "chronology": {
-        "reported": "2023 pooled upper-sediment luminescence 416 +/- 38 ka; earlier plant radiocarbon statement is a bound, with preparation caveats",
+        "reported": "2023 pooled upper-sediment luminescence 416 +/- 38 ka; earlier plant radiocarbon statement is a bound, with preparation caveats; thesis adds three upper-segment estimates near 414-422 ka with tens-of-ka errors, not a measured 8 kyr depositional duration",
         "dated_object": "Mineral sunlight-exposure history versus biological fragments",
         "method": "Luminescence with fading and residual-dose corrections; not reproduced here",
         "raw_date": null,
@@ -1026,7 +1026,7 @@
         "Plant taphonomy",
         "Full later-literature synthesis"
       ],
-      "dependence": "Two papers partly share authors, material and data. Two fraction ages and pooled result concern one parent sample."
+      "dependence": "Two papers partly share authors, material and data. Two fraction ages and pooled result concern one parent sample. Thesis adds separate upper segments but uses the same instrument and conditions as the pilot study; lower-sample fading rate is reused."
     },
     {
       "id": "C015",

@@ -1,0 +1,188 @@
+{
+  "source_id": "S142",
+  "case_id": "C014",
+  "status": "SOURCE_TRANSCRIPTION_NOT_REPLICATION",
+  "accessed_date": "2026-10-08",
+  "pdf_sha256": "5f0b47a0c0c3136ab22ecd41d948c73474dbb10516637241c43eeaece0a8f403",
+  "units": "ka = thousand years; pairs retain reported central value and plus/minus uncertainty",
+  "uncertainty_definitions": {
+    "equivalent_dose_Gy": "Table header: 1 standard error",
+    "table_age_ka": "Table header: 1 standard error",
+    "fading_percent_per_decade": "Footnote 4: mean and standard error",
+    "dose_rate_Gy_per_kyr": "Plus/minus as printed; confidence level not assigned here",
+    "text_age_ka": "Narrative plus/minus; conflicts retained separately"
+  },
+  "new_finite_results": [
+    {
+      "segment": "1059-6",
+      "lab_id": "USU-4162A",
+      "unit": 5,
+      "depth_cm_reported": 29.5,
+      "grain_size_um": [
+        53,
+        150
+      ],
+      "aliquots_used": 6,
+      "aliquots_analyzed": 7,
+      "dose_rate_Gy_per_kyr": [
+        2.17,
+        0.23
+      ],
+      "equivalent_dose_Gy": [
+        906.6,
+        135.6
+      ],
+      "fading_percent_per_decade": [
+        2.17,
+        0.5
+      ],
+      "table_age_ka": [
+        417,
+        37
+      ],
+      "text_age_ka": [
+        417,
+        37
+      ],
+      "result_type": "FINITE_ESTIMATE",
+      "locator": "Table 3.9 printed p.65 / PDF p.78; narrative printed p.63 / PDF p.76"
+    },
+    {
+      "segment": "1060-C1",
+      "lab_id": "USU-4167A",
+      "unit": 4,
+      "depth_cm_reported": 88.5,
+      "grain_size_um": [
+        53,
+        150
+      ],
+      "aliquots_used": 12,
+      "aliquots_analyzed": 12,
+      "dose_rate_Gy_per_kyr": [
+        2.51,
+        0.25
+      ],
+      "equivalent_dose_Gy": [
+        1059.6,
+        155.6
+      ],
+      "fading_percent_per_decade": [
+        2.7,
+        0.54
+      ],
+      "table_age_ka": [
+        422,
+        34
+      ],
+      "text_age_ka": [
+        422,
+        42
+      ],
+      "result_type": "FINITE_ESTIMATE",
+      "locator": "Table 3.9 printed p.65 / PDF p.78; narrative printed p.63 / PDF p.76"
+    },
+    {
+      "segment": "1060-C3",
+      "lab_id": "USU-4169A",
+      "unit": 3,
+      "depth_cm_reported": 108.5,
+      "grain_size_um": [
+        53,
+        150
+      ],
+      "aliquots_used": 10,
+      "aliquots_analyzed": 12,
+      "dose_rate_Gy_per_kyr": [
+        2.13,
+        0.22
+      ],
+      "equivalent_dose_Gy": [
+        879.8,
+        90.1
+      ],
+      "fading_percent_per_decade": [
+        2.29,
+        0.49
+      ],
+      "table_age_ka": [
+        414,
+        34
+      ],
+      "text_age_ka": [
+        414,
+        38
+      ],
+      "result_type": "FINITE_ESTIMATE",
+      "locator": "Table 3.9 printed p.65 / PDF p.78; narrative printed p.63 / PDF p.76"
+    }
+  ],
+  "new_saturated_result": {
+    "segment": "1062-3",
+    "lab_id_table_3_9": "USU-4183A",
+    "lab_ids_table_3_2": [
+      "USU-4189A",
+      "USU-4189B",
+      "USU-4189C"
+    ],
+    "unit": 1,
+    "grain_size_um": [
+      53,
+      150
+    ],
+    "aliquots_used": 2,
+    "aliquots_analyzed": 2,
+    "dose_rate_Gy_per_kyr": [
+      2.62,
+      0.25
+    ],
+    "equivalent_dose_Gy": {
+      "operator": ">",
+      "value": 2200
+    },
+    "age_ka": {
+      "operator": ">",
+      "value": 850
+    },
+    "result_type": "SATURATION_LOWER_LIMIT",
+    "fading_percent_per_decade": [
+      2.65,
+      0.67
+    ],
+    "fading_source": "USU-3505 reused per Table 3.9 footnote 6",
+    "locator": "Table 3.9 p.65; Table 3.2 p.44; narrative p.63",
+    "identity_resolution": null
+  },
+  "unavailable_result": {
+    "segment": "1061-D1",
+    "unit": 2,
+    "age_ka": null,
+    "reason": "Results unavailable at thesis completion, printed p.63"
+  },
+  "reused_pilot_results": {
+    "1059-4": {
+      "source_ids": [
+        "S26"
+      ],
+      "table_weighted_mean_ka": [
+        416,
+        38
+      ],
+      "count_as_new_measurement": false
+    },
+    "1063-7": {
+      "source_ids": [
+        "S25"
+      ],
+      "table_age_literal": ">1500 +/- 250 ka",
+      "aliquots_literal": "12 (6)",
+      "count_as_new_measurement": false,
+      "note": "Used count exceeds analyzed count under footnote 1 definition; retained, not repaired."
+    }
+  },
+  "method_limits": [
+    "Printed p.43: same reader and conditions for pilot and thesis samples; distinct core segments do not constitute independent-laboratory replication.",
+    "Printed p.72: partial bleaching may overestimate ages; pilot residual dose 50 Gy and a similar correction for thesis samples. This does not supply an independently reproduced sample-specific correction.",
+    "No new pooled age, covariance model or global event date calculated. Saturation constrains signal history under method assumptions, not automatically final sediment deposition.",
+    "1060-C1 and 1060-C3 narrative uncertainties differ from Table 3.9. Resolve against original calculations before pooling."
+  ]
+}

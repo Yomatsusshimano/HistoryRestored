@@ -477,13 +477,13 @@ Place: Camp Century, northwestern Greenland. Status: SOURCED_DRAFT.
 - Handling study documents missing, thawed and inverted segments; reported orientation corrections require original-record verification. [S135](https://tc.copernicus.org/articles/18/4029/2024/). Locator: Sections 3.3,4.1; Table 5. Access: SCAN_INSPECTED. Limit: Reported reconstruction; original logs, photographs and orientation calculations not independently reproduced.
 - 1063-7 has no tabulated magnetic-direction measurements; inversion flags differ across source components and remain unreconciled. [S136](https://tc.copernicus.org/articles/18/4029/2024/tc-18-4029-2024-supplement.pdf). Locator: Tables S5 and S9. Access: SCAN_INSPECTED. Limit: Same study as S135, not independent evidence. Original vectors and reconstruction photos unreviewed.
 - Cosmogenic script prescribes the luminescence age as input; a lower-sediment uncertainty expression uses the upper-sediment ratio. Static concern, published effect unquantified. [S137](https://github.com/drewchrist-geo/Camp_Century_complex_26Al10Be_modelling/blob/b00d69a476ff0bba2d236bc180e48f88dece5982/lumin_cosmo_burial_model_jun23.m). Locator: Script lines 64-65 and 240-241. Access: FULL_TEXT_PORTION. Limit: Static inspection only; no MATLAB execution, raw measurement verification or published-figure reproduction.
-- Later luminescence thesis identified; full text remains unrecovered. [S142](https://digitalcommons.usu.edu/etd2023/281/). Locator: Repository abstract. Access: CATALOG_METADATA. Limit: Access and dependency audit only; no independent scientific validation.
+- Thesis adds three upper-segment finite estimates, 417 +/- 37, 422 +/- 34 and 414 +/- 34 ka (table, 1 SE), and a saturated lower-sample limit >850 ka. Narrative uncertainties and lower-sample lab IDs conflict with tables; partial bleaching and shared-method limits retained. [S142](https://digitalcommons.usu.edu/etd2023/281/). Locator: Table 3.9 p.65; narrative p.63; methods p.43; discussion p.72. Access: SCAN_INSPECTED. Limit: Selected portions inspected; new measurements share instrument and conditions with pilot study. Partial bleaching, text/table uncertainties and lower-sample ID conflict remain unresolved. No independent dating replication.
 - Proposed environmental sequence retains ambiguity in Unit 2 formation and cites earlier chronology. [S143](https://cp.copernicus.org/articles/21/1359/2025/). Locator: Sections 5.2-5.3; data availability. Access: FULL_TEXT_PORTION. Limit: Access and dependency audit only; no independent scientific validation.
 - Package metadata recovered; raw measurement files not recovered through the inspected public package. [S144](https://doi.org/10.18739/A2QN5ZD22). Locator: EML and public resource-map/index responses. Access: CATALOG_METADATA. Limit: Access and dependency audit only; no independent scientific validation.
 
 **Physical evidence:** Published plant micrographs and age figure visually checked; no core or plant examined directly.
 
-**Surviving documents:** Two original studies with main text and figures inspected; supplements and laboratory records pending.
+**Surviving documents:** Original studies, selected handling supplements and 2024 thesis tables inspected; full laboratory correction records remain unaudited.
 
 **Source interpretation:** Vegetation and sediment are interpreted as evidence of ice-free conditions followed by renewed ice cover; newer study assigns upper deposition to MIS 11.
 
@@ -491,13 +491,13 @@ Place: Camp Century, northwestern Greenland. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Preserved plants beneath ice do not alone imply rapid burial or a recent age. Shared sample material and pooled/fraction results are not independent confirmations.
 
-**Next test:** Audit supplements, handling history, age corrections, size-label discrepancy and plant transport; extend later-literature review.
+**Next test:** Reproduce sample-specific dose, fading and residual corrections; reconcile thesis uncertainty and lab-ID conflicts before pooling; test light resetting and plant transport.
 
-**Dependence:** Two papers partly share authors, material and data. Two fraction ages and pooled result concern one parent sample.
+**Dependence:** Two papers partly share authors, material and data. Two fraction ages and pooled result concern one parent sample. Thesis adds separate upper segments but uses the same instrument and conditions as the pilot study; lower-sample fading rate is reused.
 
 **Alternatives:** Local vegetation, sediment transport and subsequent ice advance; Older plant fragments reworked into younger sediment where independently supported; A proposed shared catastrophe requiring compatible event strata and transport evidence
 
-**Chronology:** {"reported": "2023 pooled upper-sediment luminescence 416 +/- 38 ka; earlier plant radiocarbon statement is a bound, with preparation caveats", "dated_object": "Mineral sunlight-exposure history versus biological fragments", "method": "Luminescence with fading and residual-dose corrections; not reproduced here", "raw_date": null, "uncertainty": null, "timescale": "ka for luminescence; radiocarbon ka kept distinct", "event_association": "UNTESTED"}
+**Chronology:** {"reported": "2023 pooled upper-sediment luminescence 416 +/- 38 ka; earlier plant radiocarbon statement is a bound, with preparation caveats; thesis adds three upper-segment estimates near 414-422 ka with tens-of-ka errors, not a measured 8 kyr depositional duration", "dated_object": "Mineral sunlight-exposure history versus biological fragments", "method": "Luminescence with fading and residual-dose corrections; not reproduced here", "raw_date": null, "uncertainty": null, "timescale": "ka for luminescence; radiocarbon ka kept distinct", "event_association": "UNTESTED"}
 
 **Missing:** Raw aliquot and dose data; Radiocarbon supplement audit; Grain-size discrepancy resolution; Independent sample review; Plant taphonomy; Full later-literature synthesis
 

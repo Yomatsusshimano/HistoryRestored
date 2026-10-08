@@ -89,10 +89,30 @@ Three analytic tests check inversion of the production equation, its boundary ca
 
 ## Later dating lead and raw-data access audit
 
-[Woznick's 2024 thesis record (S142)](https://digitalcommons.usu.edu/etd2023/281/) identifies a dedicated luminescence study, but its linked PDF returned HTTP 403. Only repository metadata and abstract were inspected; no additional sample ages are adopted.
+[Woznick's 2024 thesis record (S142)](https://digitalcommons.usu.edu/etd2023/281/) identifies a dedicated luminescence study, but its linked PDF returned HTTP 403. At that retrieval stage only repository metadata and abstract were inspected; the browser recovery below supersedes this access limitation.
 
 [Collins et al. (2025), S143](https://cp.copernicus.org/articles/21/1359/2025/), sections 5.2-5.3, proposes glacial deposition, retreat, weathering, downslope flow, fluvial deposition and readvance. It leaves Unit 2's origin uncertain between interglacial snow/firn and remnant basal ice, and cites earlier dating for its time constraints. This is a process interpretation, not an independently established new clock.
 
 The paper links [S144's sediment-characterization data package](https://doi.org/10.18739/A2QN5ZD22). Its public EML describes XRD, EDS, SEM and CT data. Our [access ledger](../data/camp-century-data-access.json) records downloaded metadata hashes and the public resource-map/index check: one indexed package member, the metadata itself. No measurement files were recovered through this package. System metadata marks it unarchived and supplies no successor identifier. This is a dated retrieval result, not proof that data are absent elsewhere; descriptive filenames are not downloaded data. It is also not a recovered substitute for the 2023 luminescence supplement.
 
 Next obtain the thesis/full supplement or their authenticated public deposits, then link dated aliquots to core segments and reproduce dose, fading and residual corrections. Additional interpretations of the same core cannot substitute for those input checks or establish a global synchronous event.
+
+## Recovered thesis: additional segments and resetting limits
+
+The normal repository Download link subsequently delivered [Woznick (2024), S142](https://digitalcommons.usu.edu/etd2023/281/). Table 3.9 (printed p.65/PDF p.78), the results narrative (p.63/PDF p.76) and Table 3.2 (p.44/PDF p.57) were visually inspected. The [transcription](../data/camp-century-thesis-luminescence.json) records the PDF hash, measured fractions, aliquot counts, doses, fading rates and conflicting entries. Font warnings occurred during rendering, but the checked values and labels were legible.
+
+| New upper segment | Sediment unit | Reported depth (cm) | Table age, ka (1 SE) | Narrative age, ka |
+| --- | --- | --- | --- | --- |
+| 1059-6 / USU-4162A | 5 | 29.5 | 417 +/- 37 | 417 +/- 37 |
+| 1060-C1 / USU-4167A | 4 | 88.5 | 422 +/- 34 | 422 +/- 42 |
+| 1060-C3 / USU-4169A | 3 | 108.5 | 414 +/- 34 | 414 +/- 38 |
+
+These are additional spatial samples from the core, strengthening the evidence that the upper units have similar luminescence histories under the method's assumptions. They are not three independent laboratories: p.43 says the pilot and thesis samples used the same reader and conditions. The older 1059-4 and 1063-7 results are reproduced for comparison, not counted as new measurements.
+
+The central ages' 414-422 ka spread is not an 8 kyr measured depositional duration. Errors span tens of thousands of years; shared systematic uncertainty and the narrative/table differences preclude an unqualified tighter pooled date. No new joint age or duration is calculated here.
+
+For Unit 1, segment 1062-3 is reported saturated, with a >850 ka limit and a fading rate reused from USU-3505. Table 3.9 identifies it as USU-4183A; Table 3.2 assigns USU-4189A/B/C to that segment. Both are retained pending the laboratory crosswalk. Unit 2 sample 1061-D1 had no result at thesis completion; its date remains null. A saturated mineral signal is not an exact date for final sediment emplacement.
+
+The discussion on p.72 explicitly allows incomplete bleaching and resulting age overestimates. It reports a 50 Gy residual correction for the pilot and a similar correction for thesis samples. This supports testing signal resetting rather than assuming that every transported grain began with zero stored dose. It does not demonstrate a recent burial date or quantify how much of the apparent age is inherited. A source's acknowledgement of an uncertainty is neither proof that it was fully corrected nor evidence of concealment.
+
+Next reconstruct the sample-specific correction chain from dose-rate inputs, aliquot distributions and residual/fading calculations, resolving the lab identifiers first. The thesis narrows the former access gap and adds observations, but does not establish a common catastrophe across distant sites or a mechanism of historical fabrication.

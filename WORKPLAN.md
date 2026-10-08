@@ -180,3 +180,5 @@ Island sloth comparison extended to a separate Cuban record. Recover original pr
 Cuban original report recovered: use Hd-21185 / Cuba 6 for laboratory follow-up. Resolve incisor/molariform specimen linkage before transferring excavation depth to Beta 206173. Original field and preparation records still needed.
 
 Camp Century next dating lead is Woznick 2024 thesis (S142), download currently 403. S144 sediment-characterization package exposes metadata in the inspected public membership; obtain actual data files before analysis. Unit 2 origin and independent chronology remain unresolved.
+
+Camp Century thesis recovered through browser Download: three new upper finite estimates and one lower saturation limit transcribed. Reconcile narrative/table uncertainties and 1062-3 laboratory IDs, then reproduce sample-specific fading/residual corrections. Distinct segments share instrument/conditions; no independent replication or global chronology established.
