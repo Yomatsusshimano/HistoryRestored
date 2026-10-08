@@ -796,6 +796,11 @@
           "source_id": "S22",
           "locator": "Introduction and Table 4, p. 11766",
           "statement": "Purified collagen is reported; nine printed carbon-isotope values are retained in a separate incomplete specimen-quality audit."
+        },
+        {
+          "source_id": "S140",
+          "locator": "pp.94-95; separate Cuban comparator",
+          "statement": "Additional island evidence is retained separately; it does not redetermine any Haitian specimen."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",

@@ -75,3 +75,11 @@ The interval calculations are unchanged. They remain conditional on published ag
 ## Identified redating comparator
 
 [Campo Laborde, C022](CAMPO-LABORDE.md) provides a separate same-specimen chemical-fraction redating example. It does not change any Haitian input. A fresh bounded search by endpoint lab IDs and preparation terms recovered no Haitian remeasurement; PMC main access returned browser verification and Europe PMC returned HTTP 500 for the 2005 full text. Those access failures supply no evidence about sample validity.
+
+## Cuban comparator: chronology and failed dating kept separate
+
+[MacPhee, Iturralde-Vinent and Jimenez Vazquez (2007), S140](https://doi.org/10.18475/cjos.v43i1.a9), pp.94-95, reports a dated *Megalocnus* tooth from Solapa de Silex and younger human remains. [Transcribed records](../data/sloth-cuba-comparator.json) preserve the assay, separate calendar intervals, and an unsuccessful protein screen for two *Parocnus* teeth. The author-uploaded text was inspected; laboratory certificates remain unavailable.
+
+This is a separate Cuban locality and taxon, not a Haitian redetermination. The Haitian interval calculation is unchanged. A failed assay supplies no numerical age. Shared occurrence within a broadly described layer does not establish simultaneous death, interaction or burial. Conversely, different biological ages do not alone rule out later co-deposition. Testing that possibility requires specimen positions, contact descriptions and transport evidence. A last known dated specimen also does not identify the last surviving animal.
+
+The current Haitian supplement attempts again returned a PMC browser check and Europe PMC HTTP 500. Neither access result changes the measurements. Further work should seek specimen-specific preparation records and the original Cuban excavation report before combining these localities into a mortality or geographic model.

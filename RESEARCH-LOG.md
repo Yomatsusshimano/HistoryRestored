@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Island sloth comparator
+
+Previous turn made progress: a290296 published seven verified files. Haitian preparation access remains unsuccessful. Recovered S140 discovery/dating text and a structured Cuban comparator with explicit failed-assay semantics. Kept it out of the Haitian calculation; no extinction or common-deposition date inferred. Original preparation and excavation records remain next evidence requirements. Full goal remains active.
+
 ## 2026-10-08 - Coyote burial-contact claim
 
 Previous turn made progress: 422955b published six byte-verified files. Institutional and conference searches did not recover the original mammoth assays. Recovered S139 abstract text, preserving its contact interpretation and distinguishing counts with different scopes. Added the missing contact-to-bone crosswalk as a discriminating requirement. No separate-flood count or burial duration independently established. Full goal remains active.

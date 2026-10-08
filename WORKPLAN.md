@@ -174,3 +174,5 @@ Cross-case assessment published: explicit claim versions, constraints and depend
 Coyote wildlife extension: dependent fossil age assignments and uncertainty mismatch recorded. Obtain model specification and original assay/context records before treating the extension as independent chronological evidence.
 
 Coyote burial-contact follow-up: recover the original profiles behind S139 and crosswalk its four-sequence claim to S32 bed labels and bone IDs. Separate local bed formation from distinct floods before counting events or assigning duration.
+
+Island sloth comparison extended to a separate Cuban record. Recover original preparation certificates and Solapa de Silex excavation context; do not merge its dates into the Haitian specimen test or equate an unsuccessful assay with an age.

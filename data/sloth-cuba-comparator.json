@@ -1,0 +1,53 @@
+{
+  "status": "SOURCED_DRAFT",
+  "source_id": "S140",
+  "locator": "pp.94-95",
+  "site": "Solapa de Silex, Cuba",
+  "coordinates": null,
+  "scope": "Comparator only; excluded from Haitian interval calculation",
+  "records": [
+    {
+      "taxon": "Megalocnus rodens",
+      "element": "molariform",
+      "lab_id": "Beta Analytic 206173",
+      "museum_id": null,
+      "radiocarbon_BP": 4190,
+      "reported_error": 40,
+      "error_level": null,
+      "calendar_BP_interval": [
+        4580,
+        4840
+      ],
+      "calendar_interval_level": "2 sigma",
+      "fractionation_corrected_reported": true,
+      "pretreatment": null,
+      "collagen_yield": null,
+      "atomic_CN": null
+    },
+    {
+      "taxon": "Homo sapiens",
+      "element": "skeletal remains",
+      "lab_id": null,
+      "laboratory": "Institut fur Umweltphysik, Heidelberg",
+      "radiocarbon_BP": 2987,
+      "reported_error": 37,
+      "error_level": null,
+      "calendar_BP_interval": [
+        3010,
+        3330
+      ],
+      "calendar_interval_level": "2 sigma"
+    },
+    {
+      "taxon": "Parocnus browni",
+      "element": "two molariforms from one jaw",
+      "context": "lower layer",
+      "lab_id": null,
+      "radiocarbon_BP": null,
+      "result": "Insufficient protein for age calculation",
+      "collagen_yield": null
+    }
+  ],
+  "null_semantics": "Not supplied in inspected text; never zero or proof of omitted laboratory work.",
+  "independent_review": false
+}
