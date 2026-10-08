@@ -1,0 +1,21 @@
+{
+  "source_id": "S68",
+  "date": "2026-10-08",
+  "status": "NOT_RETRIEVED",
+  "files": [
+    {
+      "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0033589422000072/resource/name/S0033589422000072sup001.xlsx",
+      "inspected": false
+    },
+    {
+      "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0033589422000072/resource/name/S0033589422000072sup002.xlsx",
+      "inspected": false
+    }
+  ],
+  "attempts": [
+    "Publisher HTML lists both links",
+    "Ordinary urllib download of supplement 1 returned HTTP 403",
+    "Web tool could access neither linked workbook"
+  ],
+  "limits": "No workbook content inspected; no raw-series reproduction. Links do not establish downloadable access."
+}

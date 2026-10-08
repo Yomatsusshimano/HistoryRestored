@@ -1,0 +1,210 @@
+{
+  "source_id": "S68",
+  "method": "t = r sqrt((n-2)/(1-r^2)); r rounding +/-0.005 and t rounding +/-0.05",
+  "scope": "Printed summary arithmetic only; no raw series, residual autocorrelation test, multiple-alignment correction, p-value audit or calendar calibration.",
+  "rows": [
+    {
+      "pair": "Powerhouse-Wyeth",
+      "rank": 1,
+      "overlap": 127,
+      "printed_r": 0.52,
+      "printed_t": 6.8,
+      "calculated_t": 6.8063760097400525,
+      "t_range_from_r_rounding": [
+        6.7171500499828465,
+        6.896561021683062
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Wyeth",
+      "rank": 2,
+      "overlap": 88,
+      "printed_r": 0.31,
+      "printed_t": 3.0,
+      "calculated_t": 3.023783732449491,
+      "t_range_from_r_rounding": [
+        2.9699655162987204,
+        3.0778795297412707
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Wyeth",
+      "rank": 3,
+      "overlap": 64,
+      "printed_r": 0.34,
+      "printed_t": 2.8,
+      "calculated_t": 2.8467569843430485,
+      "t_range_from_r_rounding": [
+        2.7995562391484468,
+        2.894230711666855
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Wyeth",
+      "rank": 4,
+      "overlap": 114,
+      "printed_r": 0.25,
+      "printed_t": 2.7,
+      "calculated_t": 2.7325202042558927,
+      "t_range_from_r_rounding": [
+        2.6743419955530063,
+        2.790931596998113
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Wyeth",
+      "rank": 5,
+      "overlap": 112,
+      "printed_r": 0.21,
+      "printed_t": 2.2,
+      "calculated_t": 2.252731368606212,
+      "t_range_from_r_rounding": [
+        2.1967119665713737,
+        2.308935681098562
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Perham",
+      "rank": 1,
+      "overlap": 116,
+      "printed_r": 0.43,
+      "printed_t": 5.0,
+      "calculated_t": 5.08528660550611,
+      "t_range_from_r_rounding": [
+        5.013026509266502,
+        5.158120792266607
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Perham",
+      "rank": 2,
+      "overlap": 53,
+      "printed_r": 0.34,
+      "printed_t": 2.5,
+      "calculated_t": 2.5819013115594283,
+      "t_range_from_r_rounding": [
+        2.539092014315305,
+        2.62495819330806
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Perham",
+      "rank": 3,
+      "overlap": 141,
+      "printed_r": 0.21,
+      "printed_t": 2.5,
+      "calculated_t": 2.5323309564962906,
+      "t_range_from_r_rounding": [
+        2.469358660769347,
+        2.5955111129927255
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Perham",
+      "rank": 4,
+      "overlap": 55,
+      "printed_r": 0.32,
+      "printed_t": 2.4,
+      "calculated_t": 2.458931843514922,
+      "t_range_from_r_rounding": [
+        2.4162414286685356,
+        2.5018511664883785
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Powerhouse-Perham",
+      "rank": 5,
+      "overlap": 113,
+      "printed_r": 0.22,
+      "printed_t": 2.4,
+      "calculated_t": 2.376057539819833,
+      "t_range_from_r_rounding": [
+        2.3194070984530013,
+        2.432904781282252
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Wyeth-Perham",
+      "rank": 1,
+      "overlap": 102,
+      "printed_r": 0.52,
+      "printed_t": 6.1,
+      "calculated_t": 6.087807775281011,
+      "t_range_from_r_rounding": [
+        6.008001650731102,
+        6.16847170218349
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Wyeth-Perham",
+      "rank": 2,
+      "overlap": 51,
+      "printed_r": 0.51,
+      "printed_t": 4.1,
+      "calculated_t": 4.150321139732913,
+      "t_range_from_r_rounding": [
+        4.095609754650869,
+        4.205601155511771
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Wyeth-Perham",
+      "rank": 3,
+      "overlap": 89,
+      "printed_r": 0.31,
+      "printed_t": 3.0,
+      "calculated_t": 3.0413130603570844,
+      "t_range_from_r_rounding": [
+        2.98718285193379,
+        3.0957224591009034
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Wyeth-Perham",
+      "rank": 4,
+      "overlap": 76,
+      "printed_r": 0.3,
+      "printed_t": 2.7,
+      "calculated_t": 2.7053061413971835,
+      "t_range_from_r_rounding": [
+        2.655879905977428,
+        2.754977403427909
+      ],
+      "compatible_with_printed_rounding": true
+    },
+    {
+      "pair": "Wyeth-Perham",
+      "rank": 5,
+      "overlap": 127,
+      "printed_r": 0.21,
+      "printed_t": 2.4,
+      "calculated_t": 2.401419707717995,
+      "t_range_from_r_rounding": [
+        2.341702824499793,
+        2.4613337061462137
+      ],
+      "compatible_with_printed_rounding": true
+    }
+  ],
+  "prose_example": {
+    "locator": "printed p. 75 / PDF p. 11",
+    "n": 50,
+    "r": 0.3281,
+    "printed_t": 3.5,
+    "calculated_t": 2.406351912141477
+  },
+  "raw_alignment_reproduced": false
+}

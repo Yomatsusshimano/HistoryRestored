@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Bonneville correlation arithmetic
+
+Previous turn made progress: da825c4 published seven byte-verified files. Clean checkout confirmed. Publisher HTML exposes two xlsx supplement links, but ordinary download returned 403 and web retrieval could not access either. Corrected progress wording that had called them available. No workbook contents inspected. Visually checked p. 75 prose; audited all 15 Table 3 rows against standard correlation t arithmetic with rounding bounds. All table rows are compatible; the prose n=50, r=.3281 example gives t=2.40635 rather than printed 3.5. No p-value or raw-series reproduction claimed. SciPy is unavailable in bundled Python; this audit uses standard-library arithmetic only.
+
 ## 2026-10-08 - Bonneville event comparison
 
 Previous turn made progress: 1adf486 published seven byte-verified files. Clean checkout confirmed. Downloaded Reynolds et al. 2022 and inspected selected text; visually checked Table 1 continuation and methods/results on printed pp. 70 and 78. Added C019/S68 and nine assay records, retaining ring offsets, missing outer rings and common calibration/model assumptions. Published interval separates this event from 1700 conditional on the study model; no new trigger identification or independent model reproduction claimed. Nineteen sourced drafts, sixty-eight sources.

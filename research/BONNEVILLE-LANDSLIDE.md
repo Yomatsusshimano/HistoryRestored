@@ -9,3 +9,9 @@ Relative growth-pattern matching supports their same-death-year interpretation. 
 Conditional on these assumptions, Bonneville was not caused by the 1700 earthquake. That narrows a proposed common regional catastrophe but neither dates Ozette nor identifies Bonneville's trigger. A hydrological trigger and earlier earthquakes remain alternatives.
 
 Next: retrieve the ring-width supplement and model code, reproduce alignments and calibration, and test sensitivity to missing rings and sample treatment. Historical specimen custody, original laboratory records and earlier determinations remain unaudited. No global-event conclusion follows from this comparison.
+
+## Correlation arithmetic audit
+
+The publisher lists two supplementary workbooks, but the attempted download returned HTTP 403 and web retrieval could not access either file. Neither was analyzed. This limits reproduction, not evidence that the data are absent.
+
+[The executable audit](../analysis/bonneville_correlation_audit.py) checks the 15 printed Table 3 rows using `t = r sqrt((n-2)/(1-r²))`. All are compatible with the displayed rounding of r and t. The visually inspected prose example on p. 75 instead gives n=50, r=0.3281 and t=3.5; the same formula produces 2.40635. This localized discrepancy does not invalidate the table or establish a different event date. No p-value, residual-autocorrelation or multiple-alignment significance audit has been completed. [Results](../analysis/bonneville-correlation-audit.json) retain that scope; raw-series alignment and calendar calibration remain unreproduced.
