@@ -1161,6 +1161,11 @@
           "source_id": "S154",
           "locator": "Poster Abstract, Discussion and map legend",
           "statement": "Regional compilation reports 45 mammoth finds in multiple or unknown deposit types; 21 of 30 Horse Heaven Hills finds derive from one cited survey. These are not dated independent flood deaths."
+        },
+        {
+          "source_id": "S155",
+          "locator": "pp.156–160; Table 1",
+          "statement": "Original regional survey confirms 21 mammoth sites collected from exposed material; no direct bone assays. Fry reinterprets many fossil-bearing silts as mainly eolian rather than direct flood beds."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",
@@ -1190,7 +1195,7 @@
         "Independent taphonomic assessment",
         "Horizontal coordinate datum and OSL time-reference audit",
         "XRF profiles, original/revised contacts and underlying 15 cm measurement cited by S101",
-        "Original Fry survey and regional discovery-effort denominator for the S154 distribution comparison"
+        "Specimen custody, field logs and comparable regional discovery-effort denominator for the S154/S155 distribution comparison"
       ],
       "dependence": "All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study. The 2012 four-bed statement explicitly cites the 2010 work; it is not an independent repetition."
     },

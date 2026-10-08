@@ -2484,6 +2484,28 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S155",
+      "title": "A Paleontological Site Survey Conducted in the Horse Heaven Hills of South-Central Washington",
+      "creator": "Willis E. Fry",
+      "publication_date": "1969",
+      "url": "https://web.archive.org/web/20110610115428id_/http://www.vetmed.wsu.edu/org_NWS/NWSci%20journal%20articles/1960-1969/1969%20vol%2043/43-4/p156%20Fry.pdf",
+      "source_type": "original survey paper, Northwest Science 43(4):156–161",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All six printed pages in three scanned spreads; Table 1 mammoth presence and elevation rows, survey method, geological interpretation and dating limitations.",
+      "limitations": "No direct bone assays or species-level identification; ages interpreted using context and then-current ash chronology. Exposure-driven collection, no equal-effort regional sampling. Scan has dark gutter. No physical specimens or original field logs inspected.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://web.archive.org/web/20110610115428id_/http://www.vetmed.wsu.edu/org_NWS/NWSci%20journal%20articles/1960-1969/1969%20vol%2043/43-4/p156%20Fry.pdf",
+          "sha256": "04e89c8b3f712aa5bfff7e25ee48c574459c3fa97e10994127e9eee62435830f",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

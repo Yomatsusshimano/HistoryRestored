@@ -1,0 +1,145 @@
+{
+  "status": "SOURCED_DRAFT",
+  "source_id": "S155",
+  "locator": "Table 1, printed p.158 / PDF p.2 left",
+  "scope": "Only rows marked mammoth; other taxa and coordinates not transcribed. Absence from this subset is not a biological absence.",
+  "reported_total_vertebrate_sites": 31,
+  "reported_mammoth_sites": 21,
+  "reported_horse_sites": 3,
+  "reported_bison_sites": 5,
+  "elevation_reference": "Printed feet above sea level; surveyed datum and uncertainty unknown",
+  "sites": [
+    {
+      "site_number": 1,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1390,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 2,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1100,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 5,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 580,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 6,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1480,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 7,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1180,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 9,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1070,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 11,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 850,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 13,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1040,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 14,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1200,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 15,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1000,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 16,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 930,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 17,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1140,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 18,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1100,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 19,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1000,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 21,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1200,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 24,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1050,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 25,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1150,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 26,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1050,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 27,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1355,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 30,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 770,
+      "direct_bone_age": null
+    },
+    {
+      "site_number": 31,
+      "mammoth_reported": true,
+      "elevation_ft_above_sea_level": 1140,
+      "direct_bone_age": null
+    }
+  ],
+  "limits": [
+    "Site presence, not number of individual animals",
+    "No independently reproduced identifications",
+    "No calibrated bone dates",
+    "Cannot transfer local elevation thresholds to global flood reconstruction"
+  ]
+}
