@@ -3477,6 +3477,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S221",
+      "title": "Geohydrology of the Needles Area, Arizona, California, and Nevada",
+      "url": "https://pubs.usgs.gov/pp/0486j/report.pdf",
+      "creator": "D. G. Metzger and O. J. Loeltz",
+      "publication_date": "1973",
+      "source_type": "USGS Professional Paper486-J, original geological/hydrological report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "J14/PDF20 Figures11/12 and adjacent text visually inspected; west-bank quarter-section locator and unit B mapping limitations checked. PDF SHA2561995b46342c4985e90dd5c6cf0a5406e958db90c71307220bce7fd799a9f3744.",
+      "limitations": "Selected page only; plates and original field records not inspected. Quarter-section not georeferenced. Exact S216 sample-cut identity and contacts unverified; unit B broader than later unit names.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

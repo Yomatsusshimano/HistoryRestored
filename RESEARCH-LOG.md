@@ -1070,3 +1070,8 @@ Previous turn made verified public progress. Read S219 original Qa2/Qa3/Qa4 desc
 ### 2026-10-08 — Earlier boulder-flood field account
 
 Previous turn made verified public progress. Retrieved original workshop volume using standard browser-style request, hashed it and inspected six-page S220 contribution plus Figures2/4. Identified reused S219 contact photo, wider cover relationship and distinct younger terrace boulders. Rendering emitted font warnings but inspected pages readable. No sample-cut match, independent photographic replication, flood discharge or new date claimed.
+
+
+### 2026-10-08 — Original west-bank boulder photograph
+
+Previous turn made verified public progress. Downloaded/hashed PP486-J, visually inspected J14 Fig11/12, recovered explicit west-bank locality and unit B mapping caveat. BLM cadastral request failed expired-certificate validation; no insecure fallback used and no polygon or exact point invented. No verified BC sample match, buried contact or new age.

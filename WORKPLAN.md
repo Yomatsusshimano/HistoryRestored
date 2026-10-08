@@ -428,3 +428,8 @@ Original cover descriptions constrain map mismatch: Qa2 is1-10m thick regionally
 ### 2026-10-08 — Earlier boulder-flood field account
 
 S220 earlier boulder-flood contribution recovered and figures inspected. Next west-bank photograph Metzger-Loeltz1973 Fig11 and actual S216 sample-cut crosswalk. Keep22km unit, conditional Laughlin extension, younger terraces and reused photographs separate; no hydraulic discharge inferred.
+
+
+### 2026-10-08 — Original west-bank boulder photograph
+
+S221 original west-bank photograph inspected; quarter-section5 T7N R24E recovered. Need cadastral/map-plate georeference and exposure-to-BC sample crosswalk. Original broad unit B and separate Sacramento Wash five-subunit sketch must not be silently assigned to later units.
