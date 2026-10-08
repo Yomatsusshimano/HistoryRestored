@@ -45,3 +45,20 @@ Obtain the actual modified terrain, blockage geometry, numerical configuration, 
 Compare modeled stage at each coordinate with the appropriate one-sided bound and its measurement/context uncertainty. Do not average a lower and upper constraint from different places into one alleged measured water level. Assess positional and vertical datum compatibility first. Search the unextracted table and underlying field records for further discrepancies before using the seven rows as representative.
 
 Then test conservation, resolution sensitivity, sediment entrainment and changes in ancient terrain. Keep calibration sites separate from genuinely uninspected validation sites. A model tuned to known scars cannot count those same scars as new successful predictions. Obtaining a regional fit would still leave the proposed worldwide event, wildlife chronology and historical-rewriting claims to be tested separately.
+
+### Four additional bounds with incomplete model registration
+
+The continuation of Table 1, printed p. 6 / PDF p. 7, was visually inspected. Its final four rows expand the extracted set from seven to eleven:
+
+| Local label | Latitude / longitude | Field elevation (m) | Constraint |
+| --- | --- | ---: | --- |
+| Evergreen-Babcock-1 | 47.0956 / -119.9602 | 419 | Noncrossing, upper bound |
+| Evergreen-Babcock-2 | 47.2118 / -119.9687 | 431 | Noncrossing, upper bound |
+| Camden-saddle | 48.0808 / -117.1970 | 880 | Noncrossing, upper bound |
+| Camden-gap | 48.0813 / -117.2239 | 795 | Crossing, lower bound |
+
+The source leaves projected x/y and terrain elevation blank for all four. Feet and contour interval are also unspecified. The executable audit now reports null field-minus-terrain comparisons and lists these unavailable rows. These blanks do not prove that the authors omitted the sites from their simulation; actual input/gauge files are still needed. The two Camden values refer to different locations and cannot be treated as an 85 m uncertainty interval around a single water-level measurement.
+
+The first two rows cite Waitt interpretation; the last two cite Waitt et al. (2019). This extraction is another portion of S27, not independent field confirmation. Noncrossing interpretation, event correlation and terrain registration must be checked before these become quantitative model rejection thresholds. This purposive extension was selected for missing-data diagnosis, not as an untouched validation set.
+
+Attempts to retrieve the underlying Wenatchee table and a separate USGS Willamette spatial-data package remained unsuccessful. Neither dataset is claimed as inspected. Long-11's discrepancy remains unresolved, and the regional hydraulic run remains pending its actual inputs.

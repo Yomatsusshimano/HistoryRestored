@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Additional flood bounds and missing model registration
+
+Previous turn made progress: 8850635 published eight byte-verified files. Rechecked clean checkout and resumed physical constraints. Waitt/Long/Stanton 2019 original-table retrieval remained unsuccessful; DOI retrieval failed and USGS page returned 403. A Willamette USGS spatial-data lead also returned 403 through both web and ordinary HTTP fetch. No access workaround or unavailable dataset inspection claimed.
+
+Visually inspected S27 Table 1 continuation p. 6 and Figure 10 p. 16. Extracted final four table rows (Evergreen-Babcock and Camden), explicitly retaining blank feet, projected coordinates and model terrain as null. Extended elevation audit to report unavailable comparisons rather than fail or substitute zero. Eleven selected controls now include three additional upper and one lower bound; selection remains retrospective and incomplete. Source date/datum uncertainty and actual solver usage remain unresolved. No hydraulic run, new source count or independent validation.
+
 ## 2026-10-08 - Holder patent and documentary date-order test
 
 Previous turn made progress: 663c8b4 published seven byte-verified files. Clean checkout rechecked. Downloaded and visually inspected all four pages of Edison 265,311, S57. Confirmed 1880 filing, 1882 renewal/grant, spring-contact construction and claims cited in the judgment.

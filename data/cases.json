@@ -515,6 +515,11 @@
           "source_id": "S31",
           "locator": "Retrieved opening comment, printed p. 573",
           "statement": "An early modeling comment reports downstream inundation deficits under stated assumptions; the retrieved fragment is incomplete and no simulation was rerun."
+        },
+        {
+          "source_id": "S27",
+          "locator": "Table 1 continuation p. 6, final four rows",
+          "statement": "Two Evergreen-Babcock Ridge noncrossing controls and Camden saddle/gap pair supply field elevations but blank projected coordinates and terrain elevations; these fields remain null in the expanded eleven-control selection."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.",
@@ -526,7 +531,7 @@
         "Shaw et al. regional pulse model for selected downstream sections with additional water sources; not a single event for all Scabland history"
       ],
       "counterevidence": "Intervening time indicators challenge treating the whole sequence as one uninterrupted event.",
-      "next_test": "Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs.",
+      "next_test": "Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation.",
       "chronology": {
         "reported": "Last-glacial sequence; S29 derives a conditional 15.8-14.9 cal ka interval for final Missoula floods from tephra correlation and varve counts, not a direct date of every flood.",
         "dated_object": "Flood sequence in review",

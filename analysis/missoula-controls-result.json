@@ -1,35 +1,68 @@
 {
-  "input_sha256_canonical_json": "fe5120220fa48b22739dd051bf5baaeff60f0824ad4f0d12f5758a856ba556ba",
+  "input_sha256_canonical_json": "480824da8ab739cc76d03982087d9e8c9f1ac5c9004e15bc6b840e857b11a954",
   "quantity": "field elevation minus terrain elevation, not flood-stage residual",
   "results": [
     {
       "id": "Long-10",
-      "field_minus_terrain_m": -8
+      "field_minus_terrain_m": -8,
+      "terrain_comparison_available": true
     },
     {
       "id": "Long-11",
-      "field_minus_terrain_m": 97
+      "field_minus_terrain_m": 97,
+      "terrain_comparison_available": true
     },
     {
       "id": "Long-12",
-      "field_minus_terrain_m": 7
+      "field_minus_terrain_m": 7,
+      "terrain_comparison_available": true
     },
     {
       "id": "Baker-5-uncrossed",
-      "field_minus_terrain_m": 4
+      "field_minus_terrain_m": 4,
+      "terrain_comparison_available": true
     },
     {
       "id": "Baker-5-crossed",
-      "field_minus_terrain_m": 3
+      "field_minus_terrain_m": 3,
+      "terrain_comparison_available": true
     },
     {
       "id": "Baker-8-uncrossed",
-      "field_minus_terrain_m": 3
+      "field_minus_terrain_m": 3,
+      "terrain_comparison_available": true
     },
     {
       "id": "Baker-8-crossed",
-      "field_minus_terrain_m": 2
+      "field_minus_terrain_m": 2,
+      "terrain_comparison_available": true
+    },
+    {
+      "id": "Evergreen-Babcock-1",
+      "field_minus_terrain_m": null,
+      "terrain_comparison_available": false
+    },
+    {
+      "id": "Evergreen-Babcock-2",
+      "field_minus_terrain_m": null,
+      "terrain_comparison_available": false
+    },
+    {
+      "id": "Camden-saddle",
+      "field_minus_terrain_m": null,
+      "terrain_comparison_available": false
+    },
+    {
+      "id": "Camden-gap",
+      "field_minus_terrain_m": null,
+      "terrain_comparison_available": false
     }
+  ],
+  "missing_terrain_ids": [
+    "Evergreen-Babcock-1",
+    "Evergreen-Babcock-2",
+    "Camden-saddle",
+    "Camden-gap"
   ],
   "distance_method": "Haversine on assumed radius 6371008.8 m sphere versus Euclidean distance in printed projected coordinates; not a CRS transformation or formal error test.",
   "distance_pairs": [

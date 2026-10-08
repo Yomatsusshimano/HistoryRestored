@@ -22,8 +22,10 @@ def audit(data):
     for r in rows:
         assert r['constraint'] in {'minimum', 'maximum'}
         assert -90 <= r['latitude'] <= 90 and -180 <= r['longitude'] <= 180
-        delta = r['field_elevation_m'] - r['terrain_elevation_m']
-        result.append({'id': r['id'], 'field_minus_terrain_m': delta})
+        terrain = r['terrain_elevation_m']
+        delta = None if terrain is None else r['field_elevation_m'] - terrain
+        result.append({'id': r['id'], 'field_minus_terrain_m': delta,
+                       'terrain_comparison_available': terrain is not None})
     canonical = json.dumps(data, sort_keys=True, separators=(',', ':'), ensure_ascii=False)
     indexed = {r['id']: r for r in rows}
     pairs = [('Long-10', 'Long-11'), ('Long-11', 'Long-12'), ('Long-10', 'Long-12'),
@@ -39,6 +41,7 @@ def audit(data):
         'input_sha256_canonical_json': hashlib.sha256(canonical.encode()).hexdigest(),
         'quantity': 'field elevation minus terrain elevation, not flood-stage residual',
         'results': result,
+        'missing_terrain_ids': [r['id'] for r in rows if r['terrain_elevation_m'] is None],
         'distance_method': 'Haversine on assumed radius 6371008.8 m sphere versus Euclidean distance in printed projected coordinates; not a CRS transformation or formal error test.',
         'distance_pairs': distances,
         'simulation_executed': False,

@@ -266,6 +266,7 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 - Mapped sections provide flow-direction contrasts, intervening couplets and a conditional tephra-anchored chronology; uncertainties and shared dating dependencies are retained in research/MISSOULA-STRATIGRAPHY.md. [S29](https://doi.org/10.1130/2021.0062(07)). Locator: Stops 2.3-2.5, pp. 275-277; Figure 17 p. 273; Table 1 p. 277. Access: SCAN_INSPECTED. Limit: Earlier logs, original assays, charcoal collection context and varve annuality not independently reanalyzed; partial guide inspection. Does not resolve Long site 11.
 - A regional alternative explains selected downstream beds as pulses within a flood while retaining centuries of lake sedimentation and a broader multiple-flood history; its printed water budget is audited separately. [S30](https://faculty.washington.edu/tswanson/302add/ESS%20Readings/Bretz.pdf). Locator: pp. 605-608, especially conclusions p. 608. Access: SCAN_INSPECTED. Limit: No field replication, reservoir reconstruction or complete subsequent debate reviewed. See research/MISSOULA-PULSE-ALTERNATIVE.md.
 - An early modeling comment reports downstream inundation deficits under stated assumptions; the retrieved fragment is incomplete and no simulation was rerun. [S31](https://www.droyer.wescreates.wesleyan.edu/reply.pdf). Locator: Retrieved opening comment, printed p. 573. Access: FULL_TEXT_PORTION. Limit: PDF ends before the comment finishes. Continuation, figure, references and author reply not reviewed; simulation not reproduced.
+- Two Evergreen-Babcock Ridge noncrossing controls and Camden saddle/gap pair supply field elevations but blank projected coordinates and terrain elevations; these fields remain null in the expanded eleven-control selection. [S27](https://doi.org/10.1130/2021.2548(17)). Locator: Table 1 continuation p. 6, final four rows. Access: SCAN_INSPECTED. Limit: Partial table extraction, no raw field audit, input retrieval or simulation rerun. See research/MISSOULA-MODEL-AUDIT.md.
 
 **Physical evidence:** Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.
 
@@ -277,7 +278,7 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Intervening time indicators challenge treating the whole sequence as one uninterrupted event.
 
-**Next test:** Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs.
+**Next test:** Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation.
 
 **Dependence:** Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood.
 

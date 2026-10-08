@@ -46,6 +46,6 @@ The present cases include positive examples of catastrophic processes and altern
 
 ## Source-constrained regional benchmark
 
-The [Missoula audit](research/MISSOULA-MODEL-AUDIT.md) now supplies seven mapped field controls and separates observational bounds from modeled terrain. Its executable elevation check is not a hydraulic model. Obtain and reproduce the published terrain/configuration before extending it, and preserve unresolved source discrepancies. No worldwide fitted reconstruction follows from this benchmark.
+The [Missoula audit](research/MISSOULA-MODEL-AUDIT.md) now supplies eleven field controls, four lacking published projected/model values and separates observational bounds from modeled terrain. Its executable elevation check is not a hydraulic model. Obtain and reproduce the published terrain/configuration before extending it, and preserve unresolved source discrepancies. No worldwide fitted reconstruction follows from this benchmark.
 
 The [published pulse alternative](research/MISSOULA-PULSE-ALTERNATIVE.md) now has an executed constant-discharge water-budget check. Its transcribed volume/discharge imply about 1,157 days, compared with about 100 days in the source. This is a consistency issue to resolve, not a reproduced hydrograph or a refutation of every pulse interpretation.
