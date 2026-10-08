@@ -20,6 +20,16 @@ Section 2.2 explicitly describes Kino's account and Anza's later journey as cons
 
 Lake sediment and aquatic remains are evidence of water. Their environment, geometry and chronology determine whether they support a proposed marine strait. A lake supplied by a river and an ocean channel make different predictions about fossil assemblages, salinity indicators, sediment sources, outlet elevation and through-going connections.
 
-This new case offers a physical comparison for C005, but no particular island-map strait has yet been geographically specified. It therefore cannot reject every possible former channel. Nor does the presence of these inland deposits establish one. A useful next step is specimen-level auditing of the freshwater attribution and paired shell/charcoal dating, followed by a dated transect across the proposed connection. Historical constraints must be removed or varied when using the age model to test those same histories.
+This new case offers a physical comparison for C005, but no particular island-map strait has yet been geographically specified. It therefore cannot reject every possible former channel. Nor does the presence of these inland deposits establish one. A useful next step is specimen-level auditing of the freshwater attribution and shell/charcoal comparisons, followed by a dated transect across the proposed connection. Historical constraints must be removed or varied when using the age model to test those same histories.
 
 Inspection scope: S41 scans pp. 375-378 and Figures 2-4; S42 abstract, section 2.2, methods opening and section 5.4 as extracted text. No complete-paper, supplementary-data, field, or independent scientific review claimed.
+
+## Subsequent specimen-date audit
+
+S41 pp. 379-381 and Table 1 are now visually inspected. The [fourteen-date ledger](../data/cahuilla-1983-dates.json) preserves original and fractionation-corrected radiocarbon ages, isotope values and historical calendar entries. Those calendar entries are not modern calibrated probability intervals. Confidence levels not stated in the inspected table footnotes remain unknown.
+
+Waters describes acid leaching of shell surfaces but retains concern about old carbon, especially for UCR-993. In interval 3 that shell's corrected age is 945 ± 100 BP, while three charcoal values are 655, 680 and 615 BP, each with printed ±100. Same-interval membership does not establish simultaneous formation; these differences cannot alone measure a reservoir offset.
+
+The subsequent S42 section 3.2 check finds that shell and fish-bone dates were excluded because reservoir corrections were poorly constrained. This changes how the two studies can be compared. Isotope fractionation normalization and reservoir correction address different effects; recording the former does not supply the latter.
+
+Correction to our earlier next-step wording: paired *Anodonta* refers to paired valves, not a demonstrated one-to-one shell/charcoal pairing. Establish sample association and old-wood history before using such a comparison as a correction or pooling ages. No recalibration or age-model reproduction was performed.

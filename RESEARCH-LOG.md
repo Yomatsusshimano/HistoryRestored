@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Cahuilla original date ledger and reservoir limits
+
+Previous turn made progress: 1733a24 published seven public-byte-verified files. Clean checkout rechecked. Visually inspected Waters pp. 379-381 and Table 1; read Rockwell et al. section 3.2 sample exclusions. Transcribed all fourteen original determinations with uncorrected and fractionation-corrected values, isotope values and historical calendar entries. Unknown confidence levels and reservoir offsets remain null.
+
+The 1983 study flags UCR-993; the 2022 model excludes shell/fish bone because of reservoir uncertainty. Clarified that paired shell valves do not establish coeval shell-charcoal pairs. No pooled age or recalibration produced. Seventeen cases and forty-two sources remain; independent review absent.
+
 ## 2026-10-08 - Cahuilla physical comparison and dating dependence
 
 Previous turn made progress: 5435f0b published seven public-byte-verified files. Clean checkout rechecked; no existing Cahuilla case found. Retrieved Waters 1983 through California agency hosting and Rockwell et al. 2022 through NTU. Visually checked 1983 pp. 375-378/Figures 2-4; read selected 2022 portions as text.

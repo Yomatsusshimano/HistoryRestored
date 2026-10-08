@@ -509,6 +509,8 @@ Place: Salton Trough; published sections near Indio, California. Status: SOURCED
 
 - Author reports freshwater-shell-bearing lake sediments alternating with river deposits; correlation completeness differs among sections. [S41](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=8973). Locator: pp. 377-378, Figure 4. Access: SCAN_INSPECTED. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
 - Latest-lake dating incorporates historical constraints involving Kino and Anza; it is not wholly independent of those records. [S42](https://dr.ntu.edu.sg/server/api/core/bitstreams/27c09858-8214-416b-8807-1c7c1321a8b1/content). Locator: Section 2.2. Access: FULL_TEXT_PORTION. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
+- Fourteen shell/charcoal dates are tabulated; author flags shell UCR-993 and discusses inherited carbon and pretreatment. [S41](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=8973). Locator: Table 1 and pp. 379-380. Access: SCAN_INSPECTED. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
+- Shell and fish-bone dates are excluded from age models because reservoir corrections are poorly constrained. [S42](https://dr.ntu.edu.sg/server/api/core/bitstreams/27c09858-8214-416b-8807-1c7c1321a8b1/content). Locator: Section 3.2, p. 9. Access: FULL_TEXT_PORTION. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
 
 **Physical evidence:** Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.
 
@@ -520,12 +522,12 @@ Place: Salton Trough; published sections near Indio, California. Status: SOURCED
 
 **Counterevidence:** Reported freshwater assemblages and alternating depositional environments challenge treating every aquatic deposit as one marine event; no defined strait/date hypothesis tested yet.
 
-**Next test:** Audit paired shell/charcoal specimens and reservoir effects; specify proposed connection and compare independent dated salinity and terrain evidence.
+**Next test:** Audit original assays, shell reservoir offsets and terrestrial-sample selection; distinguish coeval samples from same-interval material before recalibration or age-model reproduction.
 
 **Dependence:** 2022 synthesis incorporates earlier studies and historical accounts; its preferred ages cannot independently validate all inputs.
 
 **Alternatives:** River-fed lake cycles; Marine passage if independently demonstrated; Reworking or incomplete preservation affecting individual beds and dates
 
-**Chronology:** {"reported": "1983 and 2022 chronologies differ; individual event windows not adopted in this initial source audit.", "dated_object": "Published sediment-associated organic and shell samples", "method": "Radiocarbon with stratigraphic, historical and hydrological constraints", "raw_date": null, "uncertainty": "Specimen and age-model audit pending", "timescale": "Multiple original conventions; not pooled", "event_association": "UNTESTED"}
+**Chronology:** {"reported": "1983 and 2022 chronologies differ; individual event windows not adopted in this initial source audit.", "dated_object": "Published sediment-associated organic and shell samples", "method": "Radiocarbon with stratigraphic, historical and hydrological constraints", "raw_date": "Fourteen original determinations retained in data/cahuilla-1983-dates.json; no event date inferred.", "uncertainty": "Specimen and age-model audit pending", "timescale": "Multiple original conventions; not pooled", "event_association": "UNTESTED"}
 
 **Missing:** Exact site coordinates and elevation datum comparison; Specimen/laboratory records and reservoir audit; Independent chronology without tested historical constraints; Specified marine-corridor geometry

@@ -873,6 +873,16 @@
           "source_id": "S42",
           "locator": "Section 2.2",
           "statement": "Latest-lake dating incorporates historical constraints involving Kino and Anza; it is not wholly independent of those records."
+        },
+        {
+          "source_id": "S41",
+          "locator": "Table 1 and pp. 379-380",
+          "statement": "Fourteen shell/charcoal dates are tabulated; author flags shell UCR-993 and discusses inherited carbon and pretreatment."
+        },
+        {
+          "source_id": "S42",
+          "locator": "Section 3.2, p. 9",
+          "statement": "Shell and fish-bone dates are excluded from age models because reservoir corrections are poorly constrained."
         }
       ],
       "physical_evidence": "Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.",
@@ -885,12 +895,12 @@
         "Reworking or incomplete preservation affecting individual beds and dates"
       ],
       "counterevidence": "Reported freshwater assemblages and alternating depositional environments challenge treating every aquatic deposit as one marine event; no defined strait/date hypothesis tested yet.",
-      "next_test": "Audit paired shell/charcoal specimens and reservoir effects; specify proposed connection and compare independent dated salinity and terrain evidence.",
+      "next_test": "Audit original assays, shell reservoir offsets and terrestrial-sample selection; distinguish coeval samples from same-interval material before recalibration or age-model reproduction.",
       "chronology": {
         "reported": "1983 and 2022 chronologies differ; individual event windows not adopted in this initial source audit.",
         "dated_object": "Published sediment-associated organic and shell samples",
         "method": "Radiocarbon with stratigraphic, historical and hydrological constraints",
-        "raw_date": null,
+        "raw_date": "Fourteen original determinations retained in data/cahuilla-1983-dates.json; no event date inferred.",
         "uncertainty": "Specimen and age-model audit pending",
         "timescale": "Multiple original conventions; not pooled",
         "event_association": "UNTESTED"
