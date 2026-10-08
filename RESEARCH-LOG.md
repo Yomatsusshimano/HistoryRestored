@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camel pooling consistency check
+
+Previous turn made progress: e9587e4 published twelve publicly byte-verified files; clean checkout confirmed. Added S100 official method documentation and a reproducible conditional weighted-mean/chi-square calculation for the three S99 assays. Mean 20882.79 +/- 50.28 BP differs slightly from the reported combination; Q=8.66093, df=2, p=0.01316 flags heterogeneity under explicitly assumed independent one-sigma Gaussian errors. No assay removed, age recalibrated or contamination cause invented. Analytical-control tests cover known solution, permutation/translation, error scaling and invalid input. Searched the 2012 mammoth report by title, meeting, filename and lab identifier; old program URL https://www.cce.umn.edu/Documents/CPE-Conferences/2012AMQUAProgramAbstractsBook.pdf did not retrieve. Original mammoth measurements remain absent. Full goal remains active.
+
 ## 2026-10-08 - Coyote Canyon section and assay provenance
 
 Previous switch-only turn was no progress. Revalidated clean checkout at 56f969e and resumed available source work. Publisher CDN delivered the 17-page CC BY PDF; rendered and visually inspected pp.6-8,10. Recovered projected excavation geometry, uncertain contacts and Table 2 coordinates/datum; Table 4 age/aliquot transcription agrees. Corrected CCCS-OSL-6 measured moisture from 1.0% to the visually checked 1.9%; modeled moisture stays 9.8%. Preserved authors' within-event slope-wash caveat, preventing literal bed count from becoming an independently proven flood count. Retrieved original 2019 camel abstract and three separate reported measurements; no laboratory certificates or pooling reproduction claimed. Updated S32 access, added S99 and structured assay transcription. Original mammoth assay and field-contact tests remain open. Full goal remains active.

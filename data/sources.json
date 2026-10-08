@@ -1637,6 +1637,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S100",
+      "title": "OxCal Analysis: Specification of Information",
+      "url": "https://c14.arch.ox.ac.uk/oxcalhelp/hlp_analysis_inform.html",
+      "creator": "OxCal / Oxford Radiocarbon Accelerator Unit",
+      "publication_date": null,
+      "source_type": "Official software methods documentation",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "R_Combine radiocarbon section: weighted mean, standard error, chi-square statistic and degrees of freedom; systematic uncertainty.",
+      "limitations": "Current documentation, not archived OxCal 4.3 execution or the original S99 model. Formula check does not reproduce calibration.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -978,12 +978,17 @@
           "source_id": "S99",
           "locator": "Assay paragraph",
           "statement": "Three measurements from one camel metatarsal precede the reported combined age; original laboratory certificates remain uninspected."
+        },
+        {
+          "source_id": "S100",
+          "locator": "Radiocarbon calibration, R_Combine Maths",
+          "statement": "Documents the weighted-mean and chi-square method used for the conditional local pooling check, not an execution of the authors model."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",
       "surviving_documents": "2021 original study and its citations to earlier bone dating.",
       "source_interpretation": "Repeated flood deposition; possible flood-related mammoth death; reworking of the older camel bone.",
-      "investigation_inference": "Death, transport and sediment burial must be tested separately. Five flood OSL intervals overlap at 18.32-19.05 ka, so these ranges alone do not resolve event multiplicity.",
+      "investigation_inference": "Death, transport and sediment burial must be tested separately. Five flood OSL intervals overlap at 18.32-19.05 ka, so these ranges alone do not resolve event multiplicity. Conditional independent one-sigma pooling of three camel assays gives Q=8.66093 (df=2, p=0.01316); precise combined age needs laboratory/model audit.",
       "competing_explanations": [
         "Mammoth death associated with a flood and later burial",
         "Death before transport or deposition",

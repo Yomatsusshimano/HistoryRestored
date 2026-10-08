@@ -1,0 +1,47 @@
+{
+  "input_sha256_canonical_json": "017cf4ae47277abff6df18a516674f9c54cb27e0d04c06f615ffcf287ee99412",
+  "source_id": "S99",
+  "method_source_id": "S100",
+  "assumptions": [
+    "Printed uncertainties treated conditionally as one-sigma standard errors",
+    "Independent Gaussian measurement errors, common true radiocarbon age, no additional offsets or variance",
+    "Same bone does not establish independence of preparation or contamination errors"
+  ],
+  "weighted_mean_radiocarbon_BP": 20882.79086225443,
+  "standard_error_BP": 50.27876206673632,
+  "reported_mean_BP": 20890,
+  "reported_error_BP": 51,
+  "chi_square_Q": 8.660932772210586,
+  "degrees_of_freedom": 2,
+  "upper_tail_probability": 0.01316140776074311,
+  "reference_5_percent_threshold": 5.991464547107982,
+  "uniform_error_multiplier_to_5_percent_boundary": 1.2023082768231423,
+  "pairwise": [
+    {
+      "labels": [
+        "D-AMS 016465",
+        "Beta 45508"
+      ],
+      "difference_BP": 290,
+      "difference_in_combined_standard_errors": 2.8267470372057604
+    },
+    {
+      "labels": [
+        "D-AMS 016465",
+        "NOSAMS CCSH 03"
+      ],
+      "difference_BP": 380,
+      "difference_in_combined_standard_errors": 1.3560622431828795
+    },
+    {
+      "labels": [
+        "Beta 45508",
+        "NOSAMS CCSH 03"
+      ],
+      "difference_BP": 90,
+      "difference_in_combined_standard_errors": 0.3226656327219336
+    }
+  ],
+  "limits": "Retrospective diagnostic, not preregistered. No calibration curve, original laboratory certificates, OxCal model or error covariance recovered. Does not identify a faulty assay or invalidate radiocarbon dating.",
+  "scientific_validation": false
+}

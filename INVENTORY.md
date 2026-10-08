@@ -495,6 +495,7 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 - Seven sediment OSL ages are reported at two sigma; the nearby camel bone is reported older than host flood sediment, while the mammoth humerus age is compatible with part of the sequence. [S32](https://doi.org/10.3390/quat4030020). Locator: Tables 1, 3, 4; sections 3-5. Access: SCAN_INSPECTED. Limit: No independent field inspection, raw dose analysis or original laboratory certificates. Section contacts include uncertain projections; published bone ages depend on earlier reports.
 - Bone plan combines several excavation levels; section contacts include uncertain projections and overlying paleosol/loess. Authors acknowledge that slope wash can produce repeat beds within waning flood stages. [S32](https://doi.org/10.3390/quat4030020). Locator: Figures 4-7; section 2.1 pp.5-8. Access: SCAN_INSPECTED. Limit: No independent field inspection, raw dose analysis or original laboratory certificates. Section contacts include uncertain projections; published bone ages depend on earlier reports.
 - Three measurements from one camel metatarsal precede the reported combined age; original laboratory certificates remain uninspected. [S99](https://gsa.confex.com/gsa/2019CD/webprogram/Paper329689.html). Locator: Assay paragraph. Access: ABSTRACT. Limit: No laboratory certificates, collagen quality metrics, calibration curve or pooling diagnostics supplied. Identifiers preserved as printed.
+- Documents the weighted-mean and chi-square method used for the conditional local pooling check, not an execution of the authors model. [S100](https://c14.arch.ox.ac.uk/oxcalhelp/hlp_analysis_inform.html). Locator: Radiocarbon calibration, R_Combine Maths. Access: FULL_TEXT_PORTION. Limit: Current documentation, not archived OxCal 4.3 execution or the original S99 model. Formula check does not reproduce calibration.
 
 **Physical evidence:** Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.
 
@@ -502,7 +503,7 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 
 **Source interpretation:** Repeated flood deposition; possible flood-related mammoth death; reworking of the older camel bone.
 
-**Investigation inference:** Death, transport and sediment burial must be tested separately. Five flood OSL intervals overlap at 18.32-19.05 ka, so these ranges alone do not resolve event multiplicity.
+**Investigation inference:** Death, transport and sediment burial must be tested separately. Five flood OSL intervals overlap at 18.32-19.05 ka, so these ranges alone do not resolve event multiplicity. Conditional independent one-sigma pooling of three camel assays gives Q=8.66093 (df=2, p=0.01316); precise combined age needs laboratory/model audit.
 
 **Counterevidence:** Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.
 

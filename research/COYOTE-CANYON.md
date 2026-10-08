@@ -43,3 +43,15 @@ Table 2 supplies sample coordinates and NAVD 88 elevations, now transcribed with
 | NOSAMS CCSH 03 | 21,100 | 270 |
 
 The reported combination is 20,890 +/- 51 BP, calibrated to 25,020-25,450 cal BP at 95.4%. The abstract names collagen extraction, gelatinization, filtration and OxCal 4.3. Laboratory certificates, quality metrics, calibration curve and pooling diagnostics are absent. Preserve the printed identifiers pending verification. These are replicate samples of one animal, not three independently dated burial events. The mammoth's original 2012 assay report remains unrecovered.
+
+## Conditional pooling check
+
+The [reproducible calculation](../analysis/coyote_camel_pooling.py) and [result](../analysis/coyote-camel-pooling-result.json) use the error-weighted radiocarbon-age equations documented for [OxCal R_Combine (S100)](https://c14.arch.ox.ac.uk/oxcalhelp/hlp_analysis_inform.html). This is a retrospective check in BP age space, not an OxCal run or calendar recalibration. We conditionally treat the printed errors as independent Gaussian one-sigma standard errors around one true radiocarbon age. Original error definitions and covariance remain unavailable.
+
+The mean is **20,882.79 +/- 50.28 radiocarbon BP**, close to but not exactly the reported 20,890 +/- 51. Unrounded inputs, original settings and the cause of this small difference are unknown. More consequentially, the consistency statistic is **Q=8.66093 on 2 degrees of freedom**, giving **p=0.01316** under those assumptions. Q exceeds the 5% chi-square critical value of 5.99146. The printed observations therefore fail this conventional homogeneity check; reproducing a mean alone does not justify its narrow uncertainty.
+
+The two more precise determinations differ by 290 radiocarbon years, or 2.827 combined standard errors. This is an exploratory diagnostic, not an additional independent hypothesis test or a reason to discard either assay. Scaling every independent standard error by 1.2023 would place Q at the 5% boundary; that is only sensitivity arithmetic, not a measured correction. A shared systematic offset shifts the inferred age but does not remove between-assay disagreement.
+
+Potential causes include understated uncertainties, preparation differences, contamination, transcription or model details. The present data cannot choose among them. The result does not demonstrate a different burial date, collapse the biological and sediment clocks, or support historical fabrication. Preserve all three dates; obtain certificates, collagen quality metrics, original calibration/model settings and any explanation of the combination before adopting a precise pooled calendar age.
+
+The 2012 mammoth abstract search located an old University of Minnesota program URL, but direct retrieval failed. No individual mammoth assay values were inferred from that failure or from the later aggregate label.
