@@ -1238,6 +1238,11 @@
           "source_id": "S82",
           "locator": "Tables 3.2/3.3; printed pp.26/29",
           "statement": "Thesis lists 155 sequences and five radiocarbon entries; HLL035 span differs between two tables."
+        },
+        {
+          "source_id": "S82",
+          "locator": "Table 3.3 rows 1–100; analysis/heal-lake-overlap.json",
+          "statement": "Published interval geometry permits all 100 rows to connect to 1992 endpoints with 30-year links, but only 50 with 100-year links. This tests potential overlap, not pattern agreement or actual assembly."
         }
       ],
       "physical_evidence": "Reported living cores and submerged logs; physical wood not inspected.",
@@ -1250,7 +1255,7 @@
         "Other unresolved source/sample errors"
       ],
       "counterevidence": "Recent agreement and separate linked radiocarbon pulse evidence oppose treating the whole regional chronology as arbitrarily shifted.",
-      "next_test": "Recover exact Heal Lake raw series and reproduce original and alternative placements with version and calibration controls.",
+      "next_test": "Recover exact raw widths and wood scans for potential joins including HLL085–HLL372/HLL461; reconcile dataset versions before testing segment shifts.",
       "chronology": {
         "reported": "132-year disagreement in matched event placement",
         "dated_object": "Ring-pattern sequence relative to alternative references",

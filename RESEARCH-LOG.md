@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Heal Lake potential overlap links
+
+Previous turn made progress: 07a811b published seven byte-verified files. Clean checkout confirmed. Visually checked thesis pp.28 and 30, complementing prior p.29 inspection. Parsed Table 3.3 rows 1–100 with identified OCR label normalization and verified endpoint/span arithmetic. Computed potential interval-link reachability to 22 endpoint-1992 series across four exploratory thresholds; an independent graph traversal agrees. Identified named 77-year and 62-year bottlenecks but made no pattern-match or misdating claim. No year from 700–1992 has fewer than four listed sequences. Raw widths, anatomical checks and exact later-version membership remain missing.
+
 ## 2026-10-08 - Heal Lake chronology conflict and original thesis
 
 Previous turn made progress: bc3d041 published nine byte-verified files. Clean checkout confirmed. Traced the reported 132-year local discrepancy to the 2005 source and 1996 thesis; retrieved 99-page thesis through ordinary public download after web-tool 403. Visually checked S80 Figure S3 and S82 pp.26/29. Preserved 155 versus 150 version counts, five original radiocarbon rows without invented lab IDs or calibration intervals, and HLL035 span discrepancy. Added C021/S81/S82. No raw Heal Lake widths, corrected segment date, global chronology break or fabrication mechanism established.

@@ -62,3 +62,5 @@ Electron normalization sensitivity: P2, Hollstein and Baillie/Pilcher all favor 
 MacBlo anchors traced: reported collection/bark history and separate pulse assays documented. Thirty-five radiocarbon measurements yield maximum adjacent rises at assigned 774–775 in all three earthquake-tree site series. Original specimen logs and pulse-reference/model verification remain pending.
 
 Heal Lake C021 added: original thesis and later articles preserve a reported local 132-year disagreement, version-count differences, and five prior assays. Raw-series recovery and conflicting-match reproduction pending; no global conversion adopted.
+
+Heal Lake overlap audit: 100 original-table spans extracted and checked, with potential connection thresholds of 30/50/100/150 years. Identified 77-year and 62-year bottlenecks for named older sequences. These nominate joins for raw-pattern review, not corrections.

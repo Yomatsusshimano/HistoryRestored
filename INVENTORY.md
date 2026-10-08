@@ -664,6 +664,7 @@ Place: Heal Lake, southern Vancouver Island, British Columbia. Status: SOURCED_D
 - Reported 1055 versus 923 final-year matches differ by 132 years; suspected local reference misplacement, not independently reproduced here. [S79](https://doi.org/10.1126/sciadv.adh4973). Locator: MacBlo methods, Heal Lake comparison. Access: FULL_TEXT_PORTION. Limit: Collection logs and wood not inspected; reported chronology anchoring is not independently replicated. Article CAN382 versus linked NOAA CAN682 discrepancy retained.
 - Continuous chronology uses 150 samples; older floating components have radiocarbon placement constraints. [S81](https://doi.org/10.1029/2005GL022913). Locator: Methods paragraphs 3–5. Access: FULL_TEXT_PORTION. Limit: Original annual widths not retrieved. Continuous and floating components have distinct dating status; no climate reconstruction reproduced.
 - Thesis lists 155 sequences and five radiocarbon entries; HLL035 span differs between two tables. [S82](https://hdl.handle.net/1828/20271). Locator: Tables 3.2/3.3; printed pp.26/29. Access: SCAN_INSPECTED. Limit: 99-page PDF only partly inspected. No raw annual widths recovered; 155-sequence table not established identical to later 150-sample dataset. Lab accession IDs and calibration intervals absent from inspected date table.
+- Published interval geometry permits all 100 rows to connect to 1992 endpoints with 30-year links, but only 50 with 100-year links. This tests potential overlap, not pattern agreement or actual assembly. [S82](https://hdl.handle.net/1828/20271). Locator: Table 3.3 rows 1–100; analysis/heal-lake-overlap.json. Access: SCAN_INSPECTED. Limit: 99-page PDF only partly inspected. No raw annual widths recovered; 155-sequence table not established identical to later 150-sample dataset. Lab accession IDs and calibration intervals absent from inspected date table.
 
 **Physical evidence:** Reported living cores and submerged logs; physical wood not inspected.
 
@@ -675,7 +676,7 @@ Place: Heal Lake, southern Vancouver Island, British Columbia. Status: SOURCED_D
 
 **Counterevidence:** Recent agreement and separate linked radiocarbon pulse evidence oppose treating the whole regional chronology as arbitrarily shifted.
 
-**Next test:** Recover exact Heal Lake raw series and reproduce original and alternative placements with version and calibration controls.
+**Next test:** Recover exact raw widths and wood scans for potential joins including HLL085–HLL372/HLL461; reconcile dataset versions before testing segment shifts.
 
 **Dependence:** Later report uses MacBlo and earthquake-tree series already linked in C020 audit; repeated publication is not independent evidence.
 
