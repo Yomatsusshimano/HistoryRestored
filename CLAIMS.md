@@ -53,3 +53,7 @@ These are conditional prediction designs. They lack frozen locations, quantitati
 ## Present inference
 
 No common event time, worldwide deposit, chronology transformation, lost civilization, or post-catastrophe rewriting chain has been demonstrated in this archive. Regional catastrophic change, construction history, antiquity of fossils, and attribution errors must each be investigated on their own evidence. A valid outcome can be rejection of a proposed version.
+
+## H3 operational comparison, 2026-10-08
+
+[Wildlife comparison](research/WILDLIFE-COMPARISON.md) distinguishes H3-M (common mortality), H3-D (common later deposition) and H3-E (population disruption). Retrospective 0-, 1-, 10- and 100-year mortality scenarios fail to fit all selected sloth calendar sets internally. This is not a statistical rejection probability; preparation and calibration audits remain pending. Later deposition and extinction require separate evidence. No event date or global footprint has been selected by this comparison.

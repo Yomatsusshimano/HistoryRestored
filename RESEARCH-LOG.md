@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Wildlife claim variants compared across the inventory
+
+Previous turn made progress: b3f1fd8 published seven verified public files. Rechecked clean checkout and read the current wildlife case records, audits and calculation outputs. This tranche synthesizes existing evidence; no new literature or field observation is claimed.
+
+Separated H3-M common mortality, H3-D common later deposition and H3-E population disruption. Added an executable duration sensitivity using the existing sloth interval-cover result for 0, 1, 10 and 100 years, retaining its non-statistical limits. Compared that incompatibility with the Coyote sediment overlap without pooling different objects or timescales. Prioritized sloth endpoint specimen-quality checks and Coyote depositional context as discriminators. No independent review or overall goal completion follows from this synthesis.
+
 ## 2026-10-08 - Gold Run dated-sample locations traced
 
 Previous turn made progress: e451433 published nine verified files. Clean checkout rechecked. The Nature page yielded no download link through the local request. Candidate supplement endpoints failed (DNS failure and object access denied/missing); no supplement was read and no access controls changed. Searches instead located AVO sample/station records, which were inspected directly.
