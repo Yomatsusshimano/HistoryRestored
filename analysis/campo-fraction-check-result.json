@@ -1,0 +1,114 @@
+{
+  "case_id": "C022",
+  "source_ids": [
+    "S104",
+    "S133"
+  ],
+  "input_sha256": "cbf730041dbb6602466d19e876f2531ac3ea2f9e6d7b0a2e18316a5d0e36b5c2",
+  "formula": "Conventional age = -8033 ln(Fm); first-order SD = 8033 SD(Fm)/Fm",
+  "arithmetic_limits": "Assumes printed Fm is conventionally corrected. Derived age and published age are transformations of the same measurement, not independent observations. Differences are not statistical significance tests.",
+  "arithmetic": [
+    {
+      "lab_id": "AA-71665",
+      "fraction_modern": 0.298,
+      "fraction_modern_sd": 0.011,
+      "published_age_BP": 9730.0,
+      "published_sd_BP": 290.0,
+      "age_from_printed_fraction_BP": 9725.246178965594,
+      "first_order_sd_from_fraction_BP": 296.52013422818794,
+      "derived_minus_published_BP": -4.753821034406428
+    },
+    {
+      "lab_id": "CAMS-171861",
+      "fraction_modern": 0.2642,
+      "fraction_modern_sd": 0.0122,
+      "published_age_BP": 10690.0,
+      "published_sd_BP": 380.0,
+      "age_from_printed_fraction_BP": 10692.315708418795,
+      "first_order_sd_from_fraction_BP": 370.9409538228615,
+      "derived_minus_published_BP": 2.3157084187951114
+    },
+    {
+      "lab_id": "CAMS-171873",
+      "fraction_modern": 0.3397,
+      "fraction_modern_sd": 0.003,
+      "published_age_BP": 8670.0,
+      "published_sd_BP": 80.0,
+      "age_from_printed_fraction_BP": 8673.169079850706,
+      "first_order_sd_from_fraction_BP": 70.94200765381218,
+      "derived_minus_published_BP": 3.1690798507061118
+    },
+    {
+      "lab_id": "CAMS-171851",
+      "fraction_modern": 0.2684,
+      "fraction_modern_sd": 0.0056,
+      "published_age_BP": 10570.0,
+      "published_sd_BP": 170.0,
+      "age_from_printed_fraction_BP": 10565.619127915073,
+      "first_order_sd_from_fraction_BP": 167.6035767511177,
+      "derived_minus_published_BP": -4.380872084926523
+    },
+    {
+      "lab_id": "CAMS-171875",
+      "fraction_modern": 0.2983,
+      "fraction_modern_sd": 0.0167,
+      "published_age_BP": 9720.0,
+      "published_sd_BP": 450.0,
+      "age_from_printed_fraction_BP": 9717.1633340777,
+      "first_order_sd_from_fraction_BP": 449.7187395239691,
+      "derived_minus_published_BP": -2.8366659222992894
+    },
+    {
+      "lab_id": "CAMS-171852",
+      "fraction_modern": 0.2654,
+      "fraction_modern_sd": 0.001,
+      "published_age_BP": 10655.0,
+      "published_sd_BP": 35.0,
+      "age_from_printed_fraction_BP": 10655.912322856011,
+      "first_order_sd_from_fraction_BP": 30.267520723436316,
+      "derived_minus_published_BP": 0.9123228560110874
+    },
+    {
+      "lab_id": "CAMS-171874",
+      "fraction_modern": 0.3335,
+      "fraction_modern_sd": 0.0021,
+      "published_age_BP": 8670.0,
+      "published_sd_BP": 80.0,
+      "age_from_printed_fraction_BP": 8821.137018661342,
+      "first_order_sd_from_fraction_BP": 50.58260869565217,
+      "derived_minus_published_BP": 151.13701866134215
+    }
+  ],
+  "mixing": [
+    {
+      "contaminant_scenario": "Illustrative Fm=1 endmember",
+      "contaminant_fraction_modern": 1.0,
+      "required_fraction_of_mixture_carbon": 0.04437789273073777,
+      "central_value_between_zero_and_one": true,
+      "reconstructed_fraction_modern": 0.298
+    },
+    {
+      "contaminant_scenario": "CAMS-171873",
+      "contaminant_fraction_modern": 0.3397,
+      "required_fraction_of_mixture_carbon": 0.4387617765814263,
+      "central_value_between_zero_and_one": true,
+      "reconstructed_fraction_modern": 0.298
+    },
+    {
+      "contaminant_scenario": "CAMS-171875",
+      "contaminant_fraction_modern": 0.2983,
+      "required_fraction_of_mixture_carbon": 0.9908814589665647,
+      "central_value_between_zero_and_one": true,
+      "reconstructed_fraction_modern": 0.298
+    },
+    {
+      "contaminant_scenario": "CAMS-171874",
+      "contaminant_fraction_modern": 0.3335,
+      "required_fraction_of_mixture_carbon": 0.4787077826725399,
+      "central_value_between_zero_and_one": true,
+      "reconstructed_fraction_modern": 0.298
+    }
+  ],
+  "mixing_assumptions": "Fm_observed=(1-f)*Fm_original+f*Fm_contaminant. Assumes comparable normalization and linear carbon mixing. Original endmember is assumed equal to CAMS-171852; later extracted fractions are illustrative endmembers, not measured contamination of AA-71665.",
+  "mixing_limits": "Central-value scenarios only; no uncertainty distribution, isotope-fractionation mixture correction, blank correction, extraction yield or contaminant mass in the original aliquot established. Dated carbon masses are not a complete fraction-yield balance. No calendar calibration or new specimen age."
+}

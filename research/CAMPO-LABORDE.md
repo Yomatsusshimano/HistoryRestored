@@ -45,3 +45,24 @@ For the catastrophe comparison, Campo Laborde remains a documented local wetland
 The same table lists FCS.CLA.154 at 98 from level 0; the 2019 supplement gives 106.5 cm BGL. Those differently labeled references cannot be converted or declared contradictory without survey records. The selected pages do not resolve the gelatin/ABA labeling issue.
 
 This documentary sequence matters for the history audit: the earlier publication did not conceal all doubts and later present an unexplained date change. It recorded uncertainty before the subsequent chemical work. That finding does not establish the accuracy of every early measurement or prove any author's intentions. It identifies a public, traceable revision process for this case, with remaining measurement and metadata questions preserved.
+
+## Fraction-modern arithmetic and conditional contamination amounts
+
+Table 1 and methods on article pp.8-9 (combined CONICET PDF pp.9-10) were visually checked. The [reproducible audit](../analysis/campo_fraction_check.py) and [results](../analysis/campo-fraction-check-result.json) retain every printed value. Under the conventional conversion documented by [NOSAMS](https://www2.whoi.edu/site/nosams/calculations-and-reporting-of-results/) (S133), age = -8033 ln(Fm), with first-order uncertainty 8033 SD(Fm)/Fm. These are radiocarbon years, without calendar calibration.
+
+Six central ages agree with the conversion to within five years. **CAMS-171874 does not:** printed Fm 0.3335 +/- 0.0021 gives approximately **8,821 +/- 51 BP**, whereas Table 1 prints **8,670 +/- 80 BP**. Both the visual table and XML contain this pair. The latter age also appears in CAMS-171873's row, whose different Fm does agree approximately. Duplication is a possible reporting explanation, not an established correction. Original certificates must determine which field, if either, is erroneous; this audit does not replace the reported age. Error-column differences are retained separately, without assuming identical reporting/rounding conventions across laboratories.
+
+This is an internal arithmetic check, not an independent date comparison or a significance test. The selected collagen determination CAMS-171852 is not the discrepant fulvic-acid row. The discrepancy therefore does not by itself overturn the selected specimen chronology. The methods also explicitly describe AA-71665 as ABA-treated, reinforcing the previously recorded disagreement with its Table 1 gelatin label.
+
+For an illustrative two-component carbon balance, let the original endmember equal CAMS-171852's Fm=0.2654 and the mixture equal AA-71665's Fm=0.298. Then f=(Fm_mixture-Fm_original)/(Fm_contaminant-Fm_original).
+
+| Assumed contaminant endmember | Required share of mixture carbon, central values |
+| --- | ---: |
+| Illustrative Fm=1 | 4.44% |
+| CAMS-171873, Fm=0.3397 | 43.88% |
+| CAMS-171875, Fm=0.2983 | 99.09% |
+| CAMS-171874, Fm=0.3335 | 47.87% |
+
+These amounts are **not measured contamination fractions**. The original aliquot's contaminants were not characterized by these later extractions; comparable normalization and linear mixing are assumptions. We have not propagated uncertainty, corrected isotope fractionation in mixtures, or reproduced mass-dependent blank corrections. In particular, the near-99% scenario is sensitive to uncertain endmembers and is not a precise estimate. Carbon masses dated are not complete extraction yields and cannot independently verify the balance.
+
+The calculation shows that contamination composition matters as well as quantity. It neither verifies nor rules out the authors' chemical explanation. Required next evidence is original fraction/blank worksheets and yield balances linking the relevant aliquots. No correction is transferred to Haitian sloth dates or to a common catastrophe timeline. Three analytic software tests check conversion, mixture endpoints/interior and unidentifiable endmembers; they do not validate the sample chemistry.

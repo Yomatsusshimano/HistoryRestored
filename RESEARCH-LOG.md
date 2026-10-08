@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Campo Laborde arithmetic and mixing audit
+
+Previous turn made progress: 44fddad published seven byte-verified files. Current scan check confirms one fraction-modern/age mismatch in Table 1, retained without correcting either field. Added S133 conversion reference, seven-row arithmetic and four conditional mixing scenarios. Three analytic implementation tests pass. Original assays, mixture composition, yield/blank balance and uncertainty remain unresolved; no new specimen date or catastrophe inference. Full goal remains active.
+
 ## 2026-10-08 - Canadian drawing date distinguished
 
 Inspected the linked drawing reproduction at overview and enlarged date/signature views. July 24, 1874 appears beside drawing certification; register August 3 retained separately. Added S131 transcription and S132 drawing with distinct access limits. Original specification, filing receipt, grant instrument and custody chain remain unaudited. No chronology correction or Edison transfer inferred. Full goal remains active.

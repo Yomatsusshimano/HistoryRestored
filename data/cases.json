@@ -1442,6 +1442,11 @@
           "source_id": "S106",
           "locator": "Table 3 and discussion pp.106-107",
           "statement": "Original publication disclosed preservation and dating concerns; specimen-specific collagen/carbon percentages are reported."
+        },
+        {
+          "source_id": "S104",
+          "locator": "Table 1, article p.8; methods p.9",
+          "statement": "Printed CAMS-171874 lists Fm 0.3335 +/- 0.0021 and age 8670 +/- 80 BP; these do not match the conventional transformation. Original values retained pending lab documentation."
         }
       ],
       "physical_evidence": "Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination. Selected section, specimen context row and main geological discussion visually inspected; refit/displacement discussion read.",
