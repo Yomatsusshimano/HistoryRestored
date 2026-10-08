@@ -670,6 +670,23 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "pdf_url": "https://par.nsf.gov/servlets/purl/10336169"
+    },
+    {
+      "id": "S37",
+      "title": "Kino: Passage Par Terre A La Californie",
+      "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299062~90070085:Passage-Par-Terre-A-La-Californie-D",
+      "creator": "Eusebio Francisco Kino; engraved by Inselin",
+      "publication_date": "1705 (catalog attribution)",
+      "source_type": "engraved map and collection catalog",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Full map image, title, northern gulf, rivers and terrain labels; catalog identification fields.",
+      "limitations": "Accompanying text and volume title page not inspected. Catalog Pub Note describes an unrelated 1884 Sohr-Berghaus atlas. Survey accuracy and exact transmission route not verified.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "collection_id": "11561.004",
+      "image_url": "https://www.davidrumsey.com/rumsey/download.pl?image=/171/11561004.jp2",
+      "image_sha256": "139be9d51d66a0990b28dfcd483144299587c521ca90aac4e8ad95ff9a8c86c1"
     }
   ]
 }

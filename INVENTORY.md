@@ -151,10 +151,11 @@ Place: California/Baja California as depicted in a manuscript map. Status: SOURC
 - The 1639 caption links to item 99443375, the same catalog identifier used in S06. [S16](https://www.loc.gov/exhibits/lamapped/lamapped-exhibit.html#obj1). Locator: California as an Island caption and outbound item link (obj1). Access: FULL_TEXT_PORTION. Limit: Exhibition captions are not independent surveys. Dates differ from linked catalog metadata; original images and editorial dating rationale unreviewed.
 - The catalog identifies one comparison sheet with five representations attributed to earlier maps; its creation field gives 1770. [S15](https://www.loc.gov/item/2006627665). Locator: Title, Notes, Created/Published and Digital Id. Access: SCAN_INSPECTED. Limit: Antecedent maps and surveys unreviewed. Catalog 1770 versus exhibition ca. 1779 unresolved.
 - Printed source years are 1604, 1656, 1700, 1705 and 1767; island and peninsula depictions coexist on one compilation. [S15](https://www.loc.gov/item/2006627665). Locator: Title cartouche and panels I-V. Access: SCAN_INSPECTED. Limit: Antecedent maps and surveys unreviewed. Catalog 1770 versus exhibition ca. 1779 unresolved.
+- The map depicts continuous land around the gulf head and credits discoveries during 1698-1701. Its northern connection, river junction and Sierra Azul/M. Bleue labels agree qualitatively with panel IV. [S37](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299062~90070085:Passage-Par-Terre-A-La-Californie-D). Locator: Map title and northern gulf; compared visually with S15 panel IV. Access: SCAN_INSPECTED. Limit: Accompanying text and volume title page not inspected. Catalog Pub Note describes an unrelated 1884 Sohr-Berghaus atlas. Survey accuracy and exact transmission route not verified.
 
-**Physical evidence:** Comparison map scan visually inspected; no geological transect inspected.
+**Physical evidence:** Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected.
 
-**Surviving documents:** Comparison scan and catalog/exhibition records; island manuscript scan uninspected.
+**Surviving documents:** Comparison and Kino map scans and catalog/exhibition records; island manuscript and Kino accompanying narrative uninspected.
 
 **Source interpretation:** Curators describe a propagated geographic misconception.
 
@@ -162,15 +163,15 @@ Place: California/Baja California as depicted in a manuscript map. Status: SOURC
 
 **Counterevidence:** The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.
 
-**Next test:** Retrieve scans and edition provenance; identify the basis for catalog/exhibition dates; compare original source maps and exploration observations before selecting a physical transect.
+**Next test:** Inspect Kino volume title page and accompanying exploration narrative; resolve edition dates and manuscript attribution before testing a specified former strait against deposits.
 
-**Dependence:** Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines.
+**Dependence:** Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines. Kino scan agrees with the attributed panel on selected features; direct copying versus an intermediate source remains unresolved.
 
 **Alternatives:** Cartographic error/copying; A former waterway if independently evidenced
 
 **Chronology:** {"reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.", "dated_object": "Catalog/exhibition map dates", "method": "Catalog attribution", "raw_date": null, "uncertainty": "Same-item links verified; map creation/edition dating discrepancies unresolved.", "timescale": "CE", "event_association": "UNTESTED"}
 
-**Missing:** Island manuscript scan and antecedent maps; Date-attribution and edition rationale; Original source-map and survey lineage; Ground-truth deposits
+**Missing:** Island manuscript scan and other antecedent maps; Date-attribution and edition rationale; Original source-map and survey lineage; Ground-truth deposits
 
 ## C006: Eiffel Tower construction records and cost audit
 

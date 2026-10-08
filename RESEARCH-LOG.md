@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Kino antecedent map checked
+
+Previous release 0928fb5 was public-byte verified; checkout was clean. Followed the comparison sheet's Kino attribution to Rumsey item 11561.004. The catalog image endpoint returned 404; the linked JP2 download succeeded and was rendered locally for visual inspection. Compared northern gulf topology, river junction and a terrain label with S15 panel IV. Added S37 and an antecedent check without counting it as another independent survey.
+
+The catalog publication note describes an unrelated 1884 atlas; retained this conflict. Volume title page and accompanying narrative remain uninspected. Sixteen sourced drafts and thirty-seven sources; no independent review or reconstructed coastline established.
+
 ## 2026-10-08 - California comparison scan inspected
 
 Previous turn made progress: 4806173 published seven verified files. Clean checkout rechecked. LOC comparison JSON and image retrieval succeeded through PowerShell. Full sheet and higher-resolution title checked. Island manuscript request ended prematurely. Updated S15/C005 and recorded five panel labels. Printed 1604 is confirmed; edition dates and survey lineage remain unresolved. No geographic reconstruction or independent review claimed.

@@ -39,5 +39,27 @@
       "independent_survey_verified": false
     }
   ],
-  "limits": "One compilation; source labels are not verified survey or coastline dates."
+  "limits": "One compilation; source labels are not verified survey or coastline dates.",
+  "antecedent_checks": [
+    {
+      "panel": "IV",
+      "source_id": "S37",
+      "collection_id": "11561.004",
+      "image_url": "https://www.davidrumsey.com/rumsey/download.pl?image=/171/11561004.jp2",
+      "image_sha256": "139be9d51d66a0990b28dfcd483144299587c521ca90aac4e8ad95ff9a8c86c1",
+      "catalog_publication_year_CE": 1705,
+      "title_claimed_discovery_years_CE": [
+        1698,
+        1701
+      ],
+      "independent_publication_date_verified": false,
+      "observed_agreement": [
+        "Land around northern gulf head",
+        "River junction north of gulf head",
+        "Sierra Azul / M. Bleue terrain label"
+      ],
+      "inference": "Consistent with attribution; exact copying route and field accuracy unverified.",
+      "survey_narrative_inspected": false
+    }
+  ]
 }

@@ -35,3 +35,11 @@ The printed 1604 settles what this sheet says, against the exhibition's 1606 sta
 An earlier attributed peninsula precedes the island panel. Thus this compilation cannot simply be read as a measured progression from an island to a peninsula. Original maps and navigation records are needed to test its copying chain and geographic accuracy.
 
 The catalog's 1770 versus exhibition's approximately 1779 remains unresolved; no impression year was independently confirmed from the scan. The item 99443375 request ended prematurely, leaving its manuscript appearance and 1639/ca. 1650 dates open. No former strait or geographic upheaval is established by this image check.
+
+## Kino antecedent: image agreement, survey still untested
+
+The [Rumsey Kino map, item 11561.004](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299062~90070085:Passage-Par-Terre-A-La-Californie-D) is cataloged as a 1705 publication. Its linked JP2 was downloaded and visually inspected. The map title attributes discoveries to 1698-1701; these dates describe its claim, not an independently checked travel chronology. The volume title page and accompanying narrative have not been inspected.
+
+Both this image and comparison panel IV show land enclosing the northern gulf, a river junction north of its head, and the Sierra Azul / M. Bleue terrain label. These selected similarities support the panel's attribution. They do not establish the complete copying route, positional accuracy, or independent observation. No georeferenced residual analysis was performed.
+
+The catalog's publication note instead describes an 1884 Sohr-Berghaus atlas, inconsistent with the item's other identification fields. That description is excluded from the map's provenance pending correction or explanation. The next discriminator is the original exploration narrative and its observations, followed by independent terrain evidence along a specified proposed strait.
