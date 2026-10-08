@@ -643,6 +643,11 @@
           "source_id": "S214",
           "locator": "Fig2 printed773/PDF3 and thickness methods printed775; research/FISH-CREEK-AGE-MODEL.md",
           "statement": "Wind Caves and upper tuffs lie within reported hand-measured intervals; intervening thickness calculations use bedding and topography. Reported2–5percent check agreement is not an uncertainty bound on fault repetition. Regional map inspected, but detailed restoration remains unreproduced."
+        },
+        {
+          "source_id": "S216",
+          "locator": "Table2/printed57; research/COLORADO-BURIAL-DATING.md; data/colorado-burial-rows.json",
+          "statement": "Four regional burial-age results use22 cobbles with5 exclusions. Table/prose differ for three ages;26Al-method versus27Al-column header discrepancy retained. Distinct measurement route, not yet reproduced or direct age of the Bouse target bed."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

@@ -1010,3 +1010,8 @@ Previous turn made verified public progress; clean checkout confirmed. Visually 
 ### 2026-10-08 — Structural map and thickness methods
 
 Previous turn made verified public progress; clean checkout confirmed. Rechecked main-paper access, found an exact bundle path through OpenAlex and recorded certificate/web failures without weakening validation. Visually inspected S214 regional Fig2 and text-read thickness methods. Published limits of hand measurement, geometry checks and regional map scale. No main-paper structural figure inspection, fault restoration or scientific validation claimed.
+
+
+### 2026-10-08 — Regional burial-dating evidence
+
+Previous turn made verified public progress; clean checkout confirmed. Pursued distinct burial measurements while structural paper unavailable. Crossref supplied working publisher PDF after DOI-web timeout. Inspected Table2 and selected methods; retained three differing age summaries and isotope-header discrepancy. Published22 rows including5 source exclusions. No regression, primary sample validation or independence of all assumptions claimed.

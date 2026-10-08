@@ -32,3 +32,6 @@ Follow-up: [Crow supplemental calibration audit](CROW-SUPPLEMENT-AUDIT.md) recov
 
 
 The [published2021 debate](COLORADO-2021-DEBATE.md) now records the Comment and the accessible Reply summary, separating analytical, magnetic and structural tests. Full Reply/main paper remain pending.
+
+
+A later [cosmogenic burial-dating audit](COLORADO-BURIAL-DATING.md) adds sample-level measurements for related regional deposits. Initial inspection preserves conflicting age summaries and all exclusions; it is not a direct date of the Bouse target bed.

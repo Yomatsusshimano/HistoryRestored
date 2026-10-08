@@ -368,3 +368,8 @@ Tuff field interpretation recovered explicitly as air-fall; original magnetic ta
 ### 2026-10-08 — Structural map and thickness methods
 
 Original regional map and thickness methods inspected: distinguish hand-measured Wind Caves/tuff intervals from geometrically calculated segments. Exact USU main/debate bundle URL recovered but certificate/web access failed. Next working bundle access and original station/bedding/marker restoration; do not substitute overview map for duplication test.
+
+
+### 2026-10-08 — Regional burial-dating evidence
+
+New S216 burial-dating branch: publisher full PDF recovered, Table2 visually checked,22 rows/5 exclusions preserved. Next Figure4 and actual isochron/correction reproduction, table/prose reconciliation and sample burial histories. Existing structural-source access gap remains; no global blocker.

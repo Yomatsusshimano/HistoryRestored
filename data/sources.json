@@ -3407,6 +3407,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S216",
+      "title": "New 10Be–26Al isochron burial dating informs the Pliocene and Pleistocene evolution of the lower Colorado River, southwestern United States",
+      "url": "https://doi.org/10.18814/epiiugs/2024/024015",
+      "creator": "Yeong Bae Seong, Ryan Crow, P. Kyle House, Keith Howard, Cho-Hee Lee and Byong Yong Yu",
+      "publication_date": "2024-07-01 online; 2025 issue",
+      "source_type": "original research article and analytical table",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Publisher13-page PDF recovered; Table2 printed57/PDF7 visually checked; abstract and selected methods/results pp55-57 text-read. All22 analytical rows and5 source exclusions extracted. research/COLORADO-BURIAL-DATING.md.",
+      "limitations": "Partial inspection only. Three table/prose age differences and27Al header retained. Isochron regression, corrections, covariance and site contexts not reproduced. Shared authors/mapping prevent treating this as wholly independent review.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
