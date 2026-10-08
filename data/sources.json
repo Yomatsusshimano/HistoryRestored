@@ -387,6 +387,28 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S23",
+      "title": "Ancient DNA analyses exclude humans as the driving force behind late Pleistocene musk ox (Ovibos moschatus) population dynamics",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2851807/",
+      "doi": "10.1073/pnas.0907189107",
+      "creator": "Campos and colleagues",
+      "publication_date": "2010-03-08",
+      "source_type": "original ancient-DNA population-genetic research",
+      "access": "SCAN_INSPECTED",
+      "inspected": "HTML results, Table 1, captions and discussion; author PDF page 5 methods and Figure 4 visually checked; page 2 results read as text.",
+      "limitations": "Supplement returned HTML browser check instead of PDF. No specimen-table extraction, sequence reanalysis, model rerun or field sampling. Count reconciliation and causal limits in research/MUSKOX-METHODS.md.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://pgl.soe.ucsc.edu/campos2010.pdf",
+          "sha256": "e8fc391c78c12993bf7f3b7a6e5398fa42a10c6903bcf666bd5704c46e0627e0",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

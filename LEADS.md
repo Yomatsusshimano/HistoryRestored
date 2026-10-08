@@ -13,7 +13,7 @@
 | Horses | Site-specific fossil/ancient-DNA reports with specimen dates and transport/reworking checks |
 | Mammoths | Distinguish mainland and island populations, direct dates, and local extinction histories |
 | Sloths | C011 extracts nine Haitian bone dates; audit preparation and later redating, extend continental/island coverage and depositional context |
-| Muskoxen | Specimen and genetic distribution histories with locality/date metadata |
+| Muskoxen | C012 audits main-paper methods; retrieve supplement, reconcile counts and join specimen/sequence/date/locality metadata |
 | Predators | Specify species; examine co-occurrence, trophic relationships, and age overlap |
 | Fossil plants | Identify taxa and whether wood/pollen/leaves are in-place, transported, or reworked |
 | Patents/invention | Retrieve antecedents and notebooks alongside patent scans; include workshop workers and manufacturers |

@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Muskox model and sample-accounting audit
+
+Previous goal turn made progress: 1f2cd45 published the sloth interval calculation and chart, with nine public files verified. Rechecked the clean worktree. Searched original muskox ancient-DNA research; inspected S23 main text and a downloaded author PDF. Rendered and visually checked page 5 methods and sampling map after text extraction warned about PDF object pointers.
+
+Added C012/S23 and research/MUSKOX-METHODS.md. The audit distinguishes genetic model output from census abundance, physical migration routes and depositional chronology. It preserves the source's own limitation on climate comparison and an unresolved sample-count difference. No missing specimen rows or coordinates were invented. Source map inspected but not georeferenced.
+
+The supplement link returned non-PDF HTML; later PMC access also returned a browser-check page. No bypass attempted. The paper's mirror is one source, not independent corroboration. Twelve sourced drafts and twenty-three source records now exist; specimen-table and model replication work remain pending.
+
 ## 2026-10-08 - Executed sloth interval comparison
 
 Previous goal turn made progress: d5539a0 published nine specimen records, and all nine changed public files were verified. Clean worktree rechecked. This turn added an executable interval-union/intersection and shortest-cover calculation, canonical input hash, result JSON and a matplotlib figure. No new source date or calibration was invented.

@@ -551,6 +551,52 @@
         "Independent review"
       ],
       "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations."
+    },
+    {
+      "id": "C012",
+      "title": "Muskox ancient-DNA population and geographic model",
+      "category": "wildlife distribution and population history",
+      "place": "Urals, Taimyr, Northeast Siberia, North America and Greenland",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S23",
+          "locator": "Results/Figure 1; Methods, author PDF page 5",
+          "statement": "Population and geographic histories are inferred from mitochondrial sequences; method scope and unresolved sample accounting audited in research/MUSKOX-METHODS.md."
+        }
+      ],
+      "physical_evidence": "Published sequence-derived summaries and source sampling map; no specimen, sediment or alignment directly analyzed here.",
+      "surviving_documents": "Main article HTML and six-page author PDF; supplementary data not accessed successfully.",
+      "source_interpretation": "Authors favor environmental rather than human explanations; read with the explicit comparison limits recorded in the methods audit.",
+      "investigation_inference": "This is a model-dependent biological history, not a measurement of population headcount, an event deposit or a migration corridor. Exact sample mapping and independent environmental comparison remain necessary.",
+      "competing_explanations": [
+        "Environmental effects on population history",
+        "Human effects at specified times and places",
+        "Population structure and sampling effects on inferred histories",
+        "A proposed shared upheaval, requiring independent event evidence"
+      ],
+      "counterevidence": "Neither a causal title nor a lack of detected association establishes a universal mechanism. No common depositional horizon or geographical displacement is identified by this audit.",
+      "next_test": "Recover supplement and sequence inputs, reconcile sample accounting, audit dates and rerun sensitivity analyses before comparing independent environmental records.",
+      "chronology": {
+        "reported": "Sample and model times are discussed in radiocarbon units; no specimen-level dates entered in this audit",
+        "dated_object": "Biological specimens and inferred genetic histories, not event strata",
+        "method": "Reported radiocarbon-linked genetic inference",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "Radiocarbon YBP as reported",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Supplementary specimen table",
+        "Sample count reconciliation",
+        "Sequence/input audit",
+        "Georeferenced specimen locations",
+        "Independent event layers",
+        "Model replication"
+      ],
+      "dependence": "One study and its mirror. Shared models, calibration and sampling cannot be counted as independent confirmations."
     }
   ]
 }

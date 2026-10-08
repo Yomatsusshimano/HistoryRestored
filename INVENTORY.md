@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-11 sourced drafts; 0 independent scientific reviews.
+12 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -18,6 +18,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C009 | Yukon mammoth and horse sedimentary DNA |
 | C010 | John Graf: Fifth and Terrace street cuts and alleged slide |
 | C011 | Haitian sloth bone chronology |
+| C012 | Muskox ancient-DNA population and geographic model |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -339,3 +340,31 @@ Place: Haiti and Ile de la Tortue; sample-specific localities in dating records.
 **Chronology:** {"reported": "Sample-level radiocarbon results and separately published calendar intervals", "dated_object": "Bone samples", "method": "AMS radiocarbon as reported; not independently rerun", "raw_date": null, "uncertainty": null, "timescale": "Radiocarbon BP and calibrated BP kept distinct", "event_association": "UNTESTED"}
 
 **Missing:** Preparation and quality audit; Original laboratory reports; Specimen-level coordinates; Depositional chronology; Later literature and redating audit; Independent review
+
+## C012: Muskox ancient-DNA population and geographic model
+
+Place: Urals, Taimyr, Northeast Siberia, North America and Greenland. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Population and geographic histories are inferred from mitochondrial sequences; method scope and unresolved sample accounting audited in research/MUSKOX-METHODS.md. [S23](https://pmc.ncbi.nlm.nih.gov/articles/PMC2851807/). Locator: Results/Figure 1; Methods, author PDF page 5. Access: SCAN_INSPECTED. Limit: Supplement returned HTML browser check instead of PDF. No specimen-table extraction, sequence reanalysis, model rerun or field sampling. Count reconciliation and causal limits in research/MUSKOX-METHODS.md.
+
+**Physical evidence:** Published sequence-derived summaries and source sampling map; no specimen, sediment or alignment directly analyzed here.
+
+**Surviving documents:** Main article HTML and six-page author PDF; supplementary data not accessed successfully.
+
+**Source interpretation:** Authors favor environmental rather than human explanations; read with the explicit comparison limits recorded in the methods audit.
+
+**Investigation inference:** This is a model-dependent biological history, not a measurement of population headcount, an event deposit or a migration corridor. Exact sample mapping and independent environmental comparison remain necessary.
+
+**Counterevidence:** Neither a causal title nor a lack of detected association establishes a universal mechanism. No common depositional horizon or geographical displacement is identified by this audit.
+
+**Next test:** Recover supplement and sequence inputs, reconcile sample accounting, audit dates and rerun sensitivity analyses before comparing independent environmental records.
+
+**Dependence:** One study and its mirror. Shared models, calibration and sampling cannot be counted as independent confirmations.
+
+**Alternatives:** Environmental effects on population history; Human effects at specified times and places; Population structure and sampling effects on inferred histories; A proposed shared upheaval, requiring independent event evidence
+
+**Chronology:** {"reported": "Sample and model times are discussed in radiocarbon units; no specimen-level dates entered in this audit", "dated_object": "Biological specimens and inferred genetic histories, not event strata", "method": "Reported radiocarbon-linked genetic inference", "raw_date": null, "uncertainty": null, "timescale": "Radiocarbon YBP as reported", "event_association": "UNTESTED"}
+
+**Missing:** Supplementary specimen table; Sample count reconciliation; Sequence/input audit; Georeferenced specimen locations; Independent event layers; Model replication
