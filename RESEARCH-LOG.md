@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Original Camp Century supplement recovered
+
+Previous goal turn made progress: 090fc80 published ten byte-verified files. Publisher article opened normally in browser; verified link downloads recovered methods and all 19 workbooks after initial PDF timeout. Hashed files, visually checked methods p.3, inspected key workbook cells and reproduced S8 mean/SE from four aliquots and its formulas. Registered S145-S146. Original grain-fraction explanation narrows an earlier discrepancy; original-study versus thesis dose rates remain separate. Next use recovered fading and DRAC records, not further access speculation. Full goal remains active.
+
 ## 2026-10-08 - Camp Century dose-rate sensitivity
 
 Previous goal turn made progress: 69eb2c7 published eight byte-verified files. Clean checkout confirmed. Visually checked thesis Tables 3.4, 3.8 and appendix p.96. Transcribed four dose scenarios and computed inverse-dose-rate age ratios with equivalent dose fixed. Water sensitivity is larger than internal-potassium sensitivity in these rows; no uncertainty distribution, revised date or full correction replication claimed. Additional geochemistry rows corroborate the 4183/1062-3 association without replacing laboratory records. Full goal remains active.

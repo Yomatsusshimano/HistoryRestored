@@ -184,3 +184,5 @@ Camp Century next dating lead is Woznick 2024 thesis (S142), download currently 
 Camp Century thesis recovered through browser Download: three new upper finite estimates and one lower saturation limit transcribed. Reconcile narrative/table uncertainties and 1062-3 laboratory IDs, then reproduce sample-specific fading/residual corrections. Distinct segments share instrument/conditions; no independent replication or global chronology established.
 
 Camp Century dose sensitivity: four visually checked scenario rows yield fixed-dose age changes of about -3% to +18% when both inputs change. This is not a new age estimate. Geochemistry tables corroborate 4183/1062-3 internally; original aliquot crosswalk and full DRAC/fading/residual records remain required.
+
+Camp Century original supplement recovered: 25-page methods PDF and all 19 XLSX files hashed. S8 residual mean/SE reproduced; original versus dominant coarse-grain fractions explained in methods and footnotes. Next reproduce S3-S5 fading, S11 DRAC and pooled-age uncertainty. Retrieval gap closed for this package; scientific replication remains incomplete.

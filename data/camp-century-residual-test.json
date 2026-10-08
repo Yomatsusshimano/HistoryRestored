@@ -1,0 +1,47 @@
+{
+  "source_id": "S146",
+  "case_id": "C014",
+  "workbook": "science.ade4248_data_s8.xlsx",
+  "sheet": "Data S8 Residual dose test",
+  "workbook_sha256": "25a9fd7d2181fe00bd521a4371a8f8624f06768a2f872aaba887a628741e7947",
+  "segment": "1059-4",
+  "sample_role": "Outer light-exposed companion material, then eight weeks natural light on windowsill; not the untouched dated interior",
+  "grain_size_um": [
+    150,
+    355
+  ],
+  "step_C": 250,
+  "aliquots": [
+    {
+      "id": "p21",
+      "residual_Gy": 37.21048890281331,
+      "reported_error_Gy": 3.435287352409563,
+      "locator": "A8,J8,K8"
+    },
+    {
+      "id": "p23",
+      "residual_Gy": 55.75728737052092,
+      "reported_error_Gy": 6.192076949514014,
+      "locator": "A9,J9,K9"
+    },
+    {
+      "id": "p25",
+      "residual_Gy": 60.33961985051028,
+      "reported_error_Gy": 7.750250003220831,
+      "locator": "A10,J10,K10"
+    },
+    {
+      "id": "p27",
+      "residual_Gy": 52.14190819472298,
+      "reported_error_Gy": 5.190472911658575,
+      "locator": "A11,J11,K11"
+    }
+  ],
+  "workbook_mean_Gy": 51.362326079641875,
+  "workbook_standard_error_Gy": 5.0065767741909495,
+  "adopted_residual_Gy": 50,
+  "adopted_locator": "J20 and S1 footnote 6",
+  "formula_mean": "AVERAGE(J8:J11)",
+  "formula_SE": "STDEV(J8:J11)/SQRT(COUNT(J8:J11))",
+  "limitations": "Reproduces summary of four experimental aliquots. Does not establish natural preburial bleaching or independently validate transfer to other grain sizes or thesis samples."
+}

@@ -481,6 +481,8 @@ Place: Camp Century, northwestern Greenland. Status: SOURCED_DRAFT.
 - Proposed environmental sequence retains ambiguity in Unit 2 formation and cites earlier chronology. [S143](https://cp.copernicus.org/articles/21/1359/2025/). Locator: Sections 5.2-5.3; data availability. Access: FULL_TEXT_PORTION. Limit: Access and dependency audit only; no independent scientific validation.
 - Package metadata recovered; raw measurement files not recovered through the inspected public package. [S144](https://doi.org/10.18739/A2QN5ZD22). Locator: EML and public resource-map/index responses. Access: CATALOG_METADATA. Limit: Access and dependency audit only; no independent scientific validation.
 - Dose-rate scenarios expose sensitivity to water content; geochemistry tables corroborate the 4183/1062-3 association but do not replace an original aliquot crosswalk. Fixed-dose sensitivity is published separately from age estimates. [S142](https://digitalcommons.usu.edu/etd2023/281/). Locator: Tables 3.4,3.8; Appendix I Table A.2 p.96. Access: SCAN_INSPECTED. Limit: Selected portions inspected; new measurements share instrument and conditions with pilot study. Partial bleaching, text/table uncertainties and lower-sample ID conflict remain unresolved. No independent dating replication.
+- Coarse fraction was sieved 150-355 micrometres; 95% was 150-250 on re-sieving, explaining a dominant-size versus original-fraction distinction. Residual correction used a light-exposed companion sample. [S145](https://www.science.org/doi/suppl/10.1126/science.ade4248/suppl_file/science.ade4248_sm.pdf). Locator: Supplementary methods pp.2-3. Access: SCAN_INSPECTED. Limit: Same study as S26; retrieval and component checks are not independent scientific validation. Complete age correction chain remains unreproduced.
+- Four 250 C residual-test aliquots yield 51.3623 +/- 5.0066 Gy (arithmetic mean and sampling SE); 50 Gy was used in the published correction. Summary reproduced; full age correction not yet replicated. [S146](https://www.science.org/doi/suppl/10.1126/science.ade4248/suppl_file/science.ade4248_data_s1_to_s19.zip). Locator: Data S8 A8:K14,J20; Data S1. Access: FULL_TEXT_PORTION. Limit: Same study as S26; retrieval and component checks are not independent scientific validation. Complete age correction chain remains unreproduced.
 
 **Physical evidence:** Published plant micrographs and age figure visually checked; no core or plant examined directly.
 
@@ -492,7 +494,7 @@ Place: Camp Century, northwestern Greenland. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Preserved plants beneath ice do not alone imply rapid burial or a recent age. Shared sample material and pooled/fraction results are not independent confirmations.
 
-**Next test:** Reproduce sample-specific dose, fading and residual corrections; reconcile thesis uncertainty and lab-ID conflicts before pooling; test light resetting and plant transport.
+**Next test:** Reproduce recovered S3-S5 fading calculations and S11 DRAC outputs, then final age pooling and uncertainty; retain natural-resetting and plant-transport questions.
 
 **Dependence:** Two papers partly share authors, material and data. Two fraction ages and pooled result concern one parent sample. Thesis adds separate upper segments but uses the same instrument and conditions as the pilot study; lower-sample fading rate is reused.
 
@@ -500,7 +502,7 @@ Place: Camp Century, northwestern Greenland. Status: SOURCED_DRAFT.
 
 **Chronology:** {"reported": "2023 pooled upper-sediment luminescence 416 +/- 38 ka; earlier plant radiocarbon statement is a bound, with preparation caveats; thesis adds three upper-segment estimates near 414-422 ka with tens-of-ka errors, not a measured 8 kyr depositional duration", "dated_object": "Mineral sunlight-exposure history versus biological fragments", "method": "Luminescence with fading and residual-dose corrections; not reproduced here", "raw_date": null, "uncertainty": null, "timescale": "ka for luminescence; radiocarbon ka kept distinct", "event_association": "UNTESTED"}
 
-**Missing:** Raw aliquot and dose data; Radiocarbon supplement audit; Grain-size discrepancy resolution; Independent sample review; Plant taphonomy; Full later-literature synthesis
+**Missing:** Full aliquot-to-age calculation reproduction; Radiocarbon supplement audit; Resolution of remaining size labels and laboratory crosswalks; Independent sample review; Plant taphonomy; Full later-literature synthesis
 
 ## C015: Coyote Canyon mammoth and reworked camel comparison
 

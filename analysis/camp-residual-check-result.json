@@ -1,0 +1,7 @@
+{
+  "n": 4,
+  "mean_Gy": 51.362326079641875,
+  "standard_error_Gy": 5.006576774190952,
+  "method": "Arithmetic mean; sample standard deviation / sqrt(n), matching S8 formulas.",
+  "scope": "Workbook summary reproduction only; no fading, DRAC, geological resetting or final-age validation."
+}

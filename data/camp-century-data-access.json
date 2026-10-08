@@ -48,5 +48,95 @@
   "thesis_access_history": [
     "Web and shell returned HTTP 403.",
     "Normal browser Download succeeded; delivered PDF has 110 pages."
-  ]
+  ],
+  "original_2023_supplements": {
+    "status": "RECOVERED_BROWSER_DOWNLOAD",
+    "source_ids": [
+      "S145",
+      "S146"
+    ],
+    "methods_pdf_pages": 25,
+    "zip_member_count": 19,
+    "methods_sha256": "77a99cce18e5df7775844c34ba3b1fa7f40f8db1a1e8f5899389389e7658d21c",
+    "zip_sha256": "90534ff26827a55cf122237f48a3890ccaef1214d2d7b60b08dba789a741288a",
+    "members": [
+      {
+        "name": "science.ade4248_data_s1.xlsx",
+        "sha256": "6aa336e2764d030a1b3ab872f70642fd92b87f4ad05390821ef24492046afc41"
+      },
+      {
+        "name": "science.ade4248_data_s10.xlsx",
+        "sha256": "cee17ce481345ad08e913443b47e47f36878f8c8fe48446cab0681c44298cc9d"
+      },
+      {
+        "name": "science.ade4248_data_s11.xlsx",
+        "sha256": "9f1d6f2ce4974283c6541e50433840eea572210dd6f0c8d991897e8d81e00956"
+      },
+      {
+        "name": "science.ade4248_data_s12.xlsx",
+        "sha256": "83a7f857a9737d6c69a10f7356bd9cf213360c850d49f753ab433fce2b9a880f"
+      },
+      {
+        "name": "science.ade4248_data_s13.xlsx",
+        "sha256": "105563912e7d130cadfbce9e0c542811b61f763839dcd7ec5494f3c26d25bcea"
+      },
+      {
+        "name": "science.ade4248_data_s14.xlsx",
+        "sha256": "d7aa90097ea389c8701c8f2ddf12c444ad70ed0764589e9ba842596cae430d34"
+      },
+      {
+        "name": "science.ade4248_data_s15.xlsx",
+        "sha256": "e864acba8e9fc33bea670eeb79601f1199c31ab12c3247a2561c8a6862ac5f55"
+      },
+      {
+        "name": "science.ade4248_data_s16.xlsx",
+        "sha256": "6b53a574d680f6e8126237f374c6903b4361cb84a2bd46950913a3ff6979e268"
+      },
+      {
+        "name": "science.ade4248_data_s17.xlsx",
+        "sha256": "81747f7a7371fb33d4fbb37c4e559056304fc3c32c82c007c2efadebd9f82011"
+      },
+      {
+        "name": "science.ade4248_data_s18.xlsx",
+        "sha256": "690ea239e4a697cdec2ef1040405d0e778e5d9c3ca63176e593b95b00e19d329"
+      },
+      {
+        "name": "science.ade4248_data_s19.xlsx",
+        "sha256": "2d5161bc8a276be36a8756200b7bea3792dbc9585d7679221bc93dc838fe1943"
+      },
+      {
+        "name": "science.ade4248_data_s2.xlsx",
+        "sha256": "75bef178262cb53b52ce28da4d963b1b417e3f0b70abb25c772111ed9b6365a2"
+      },
+      {
+        "name": "science.ade4248_data_s3.xlsx",
+        "sha256": "c2cc94a1aeeb053accf876ba209540d70e9e46bba0ca3b22bde6e00453c17a23"
+      },
+      {
+        "name": "science.ade4248_data_s4.xlsx",
+        "sha256": "26702348b129b659a987359b6d4998fd01b7672be12132406cd9e57177fa10e1"
+      },
+      {
+        "name": "science.ade4248_data_s5.xlsx",
+        "sha256": "8fcdc3632482822d455cb7647e9962220a5994ab02be45c3992f27b2e4527718"
+      },
+      {
+        "name": "science.ade4248_data_s6.xlsx",
+        "sha256": "8faebbc26cec6541e044997cd9453bd13b905100745f8960eaf116c25ccac71a"
+      },
+      {
+        "name": "science.ade4248_data_s7.xlsx",
+        "sha256": "45f54ecbdf5bcdf153f946be9cfec1d46e4181aaa2002f6fc885b5c06913fc00"
+      },
+      {
+        "name": "science.ade4248_data_s8.xlsx",
+        "sha256": "25a9fd7d2181fe00bd521a4371a8f8624f06768a2f872aaba887a628741e7947"
+      },
+      {
+        "name": "science.ade4248_data_s9.xlsx",
+        "sha256": "777cbabad2f0516a739410ab9f8fa495aea8f8d7785390a29fca77653da37971"
+      }
+    ],
+    "history": "Earlier web/shell 403 and initial browser PDF timeout; downloads succeeded via observed publisher links. No absence of public data inferred."
+  }
 }

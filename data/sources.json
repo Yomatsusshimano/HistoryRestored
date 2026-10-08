@@ -2303,6 +2303,36 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S145",
+      "title": "Christ et al. 2023 supplementary methods and figures",
+      "creator": "Andrew J. Christ et al.",
+      "publication_date": "2023-07-20",
+      "url": "https://www.science.org/doi/suppl/10.1126/science.ade4248/suppl_file/science.ade4248_sm.pdf",
+      "source_type": "Original research supplement",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Methods pp.2-4 read; p.3 visually checked for residual treatment and grain-size resieving explanation.",
+      "limitations": "Same study as S26; retrieval and component checks are not independent scientific validation. Complete age correction chain remains unreproduced.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrieved_sha256": "77a99cce18e5df7775844c34ba3b1fa7f40f8db1a1e8f5899389389e7658d21c"
+    },
+    {
+      "id": "S146",
+      "title": "Christ et al. 2023 Data S1-S19 supplementary workbooks",
+      "creator": "Andrew J. Christ et al.",
+      "publication_date": "2023-07-20",
+      "url": "https://www.science.org/doi/suppl/10.1126/science.ade4248/suppl_file/science.ade4248_data_s1_to_s19.zip",
+      "source_type": "Original research supplement",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "All 19 XLSX members recovered. S1,S8,S9,S10 cell contents inspected; S8 residual formulas and cached values compared. S4/S5/S11 structure inspected; full calculations pending.",
+      "limitations": "Same study as S26; retrieval and component checks are not independent scientific validation. Complete age correction chain remains unreproduced.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrieved_sha256": "90534ff26827a55cf122237f48a3890ccaef1214d2d7b60b08dba789a741288a"
     }
   ]
 }
