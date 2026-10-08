@@ -860,3 +860,7 @@ Previous turn made verified public progress; current tree clean. Archive metadat
 ### 2026-10-08 — Gobien early crossing account and river-name change
 
 Previous turn made verified public progress; current tree clean. Bibliographic lead identified Google Books Fsqj6xg8XxgC; searched Colorado and retrieved returned image URLs. Inspected selected epistle leaves, printed 1705 title and Charles Le Gobien signature. Original explicitly says Rio Azul where Buache summary says Hila. Context makes subsequent Colorado crossing the stronger reading; retained pronoun, year-only timing and reported downstream distance. PP20 names Alcazar as map communicator. Added S191 as another section/copy of S38 volume, not independent witness. Early printed crossing claim now established as documentary content, not independently verified travel. No deliberate rewriting or physical geography conclusion.
+
+### 2026-10-08 — River-network cross-check of the name substitution
+
+Previous turn made verified public progress; current tree clean. Hash-verified retained S37 JP2, viewed full sheet and enlarged northern network. Recorded separate Azul/Bleue and Hila/filasse branches, their junction and Colorado connection. Compared with S191 drainage wording. This supports a substantive branch-name change in S190 without deciding actual travel, modern identities or intention. Preserved possible additional crossings and shared map/text dependence; did not convert year annotations to dated crossing coordinates. Updated C005 and linked audits; no new source or independent validation.

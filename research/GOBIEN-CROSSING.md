@@ -43,3 +43,7 @@ PP20 attributes the map to Kino and says Father Barthelemy Alcazar, teaching mat
 The result strengthens the documentary basis for an early crossing claim and exposes a specific change of river name in a later summary. It does not establish deliberate suppression, a modern-coordinate route, a through-going Pacific channel, or catastrophic land change. Next compare the map's river labels and original itinerary/manuscript, then investigate Alcazar's communication. No need to keep Gobien's preliminary letter listed as unrecovered.
 
 [Original route passage](https://books.google.com/books?id=Fsqj6xg8XxgC&pg=PP19). [Selected-page access hashes](../data/gobien-access.json). These identify inspected digital objects; they are not historical authentication. Full twenty-part investigation remains active.
+
+## Map-label cross-check
+
+The [river-network inspection](KINO-RIVER-NETWORK.md) finds Azul/Bleue and Hila/filasse on separate joining branches. This corroborates the distinction in Gobien at the level of shared depiction, not independent terrain observation. Buache changes the named branch; actual itinerary, modern identification and reason for substitution remain open.

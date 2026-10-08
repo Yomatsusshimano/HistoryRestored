@@ -61,3 +61,7 @@ The [1776 geographical article](ENCYCLOPEDIE-CALIFORNIE.md), S189 p.133, denies 
 ## Gobien passage now recovered
 
 The [1705 epistle audit](GOBIEN-CROSSING.md) finds Rio Azul in the explicit crossing clause where Buache writes Hila. The following Colorado crossing is strongly indicated by context, placing the claim in an early printed account, with no exact day or independently authenticated route. Alcazar is named as map intermediary; custody and original itinerary remain open.
+
+## Map-label cross-check
+
+The [river-network inspection](KINO-RIVER-NETWORK.md) finds Azul/Bleue and Hila/filasse on separate joining branches. This corroborates the distinction in Gobien at the level of shared depiction, not independent terrain observation. Buache changes the named branch; actual itinerary, modern identification and reason for substitution remain open.

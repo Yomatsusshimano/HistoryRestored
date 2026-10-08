@@ -443,6 +443,11 @@
           "source_id": "S191",
           "locator": "Preliminary epistle PP18-20; title PP1, signature PP30; research/GOBIEN-CROSSING.md",
           "statement": "1705 epistle explicitly names Rio Azul crossing, near-Colorado in 1700 and a subsequent crossing/California arrival in 1701; Colorado is the stronger contextual pronoun reading. Buache substitutes Hila. Epistle names Alcazar as map intermediary."
+        },
+        {
+          "source_id": "S37",
+          "locator": "Northern river junctions near S. Philipe, Casa grande and S. Dionysio; research/KINO-RIVER-NETWORK.md",
+          "statement": "Map labels Rio Azul/R. Bleue and R. de Hila/ou de la filasse on distinct joining branches. This agrees with Gobien distinguishing the names and makes Buache substitution a change of named branch, without proving actual crossings or intent."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",
@@ -454,7 +459,7 @@
         "A former waterway if independently evidenced"
       ],
       "counterevidence": "The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.",
-      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: reconcile recovered Bouse sample table with original specimen/counting records and age controls and separately specify a georeferenced map-implied route before testing connectivity. Resolve Sanson edition/imprint lineage and control-point identities before georeferencing panel II. Identify the Kino report available to S189 and reconcile its crossing denial against the manuscript and later editions. Gobien letter now inspected: compare original river labels/itinerary and seek Alcazar communication or manuscript custody evidence.",
+      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: reconcile recovered Bouse sample table with original specimen/counting records and age controls and separately specify a georeferenced map-implied route before testing connectivity. Resolve Sanson edition/imprint lineage and control-point identities before georeferencing panel II. Identify the Kino report available to S189 and reconcile its crossing denial against the manuscript and later editions. Gobien letter now inspected: compare original river labels/itinerary and seek Alcazar communication or manuscript custody evidence. Use original itinerary and network context before mapping Hila/Azul names to modern crossing locations.",
       "chronology": {
         "reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.",
         "dated_object": "Catalog/exhibition map dates",
