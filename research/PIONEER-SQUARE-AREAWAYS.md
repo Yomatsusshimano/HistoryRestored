@@ -75,4 +75,4 @@ Page 37 predicts a larger city in eighteen months and refers to rebuilding in co
 
 For a building audit, match a named list entry to an original contract, dated progress record and completion evidence before testing labor or construction duration. Do not use the promotional heading as a numerical schedule, and do not treat the list's inclusion of a project as evidence that the building already existed. No inference about inherited construction follows from this mixed list alone.
 
-[Pioneer Building follow-up](PIONEER-BUILDING.md): an archival construction photograph was visually inspected and a working section located in the catalog. This separate building supplies a project-level audit route; its evidence must not be transferred to Grand Central Block.
+[Pioneer Building follow-up](PIONEER-BUILDING.md): an archival construction photograph, working section and first-floor plan were visually inspected. The plan labels exterior rectangles Hyatt Lights; installation and dating remain unresolved. This separate building supplies a project-level audit route; its evidence must not be transferred to Grand Central Block.

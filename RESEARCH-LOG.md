@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Pioneer working drawings visually inspected
+
+Previous turn made progress: f6fe529 published seven byte-verified files; clean checkout confirmed. Normal collection viewer exposed a working IIIF image URL after the earlier alternate endpoint failed. Inspected ARC0508 section and enlarged lower levels; inspected ARC0503 first-floor plan and enlarged entrance. Read Hyatt Lights and up labels without turning design into completed work or a burial date. Updated S93 from catalog-only to scan-inspected, added S94, and revised current report while preserving historical log entries. No calendar date, street-grade datum or uncertain fractional dimension promoted to a measurement. Seventeen related drawing records appeared in the subject search; no claim that all sheets or the complete archive were inspected.
+
 ## 2026-10-08 - Pioneer Building photographic construction evidence
 
 Previous turn made progress: 8887925 published six publicly byte-verified files. Clean checkout rechecked. Followed S91's named Pioneer Building to MOHAI photograph 2011.26.7.14 and UW drawing ARC0508. Inspected photograph in background browser and catalog metadata via public API; separated visible work apparatus from attributed building, date and construction status. Drawing image connection failed, so S93 remains catalog-only. Bibliographic leads to February 17, 1889 p.5 and June 6, 1891 p.12 of the Seattle Post-Intelligencer did not yield original pages; LOC retrieval failed, ordinary JSON access returned 403. No newspaper transcription adopted. Published a separate building audit to prevent mixing Pioneer and Grand Central evidence. No exact completion date, labor audit or inheritance claim established.
