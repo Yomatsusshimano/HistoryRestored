@@ -27,6 +27,8 @@
 
 ## Next research tranche
 
+S08 photograph resolved: Carnavalet PH73441 front and dated mount inscription inspected through normal browser and IIIF. Compare intervening construction states; reverse, original-negative provenance, exact member matching and supplier/manufacture evidence remain open.
+
 Eiffel progress comparison: F/12/3871 date and assembly/riveting legend checked on the scan. Qualitative 1888–1889 comparison added; exact member matching, intervening images and supplier provenance remain open. Untinted elements are not assigned an invented state.
 
 Eiffel intermediate-state evidence: F/12/3896 inspection dated 4 January 1889 visually checked on all eight pages. Compare its roughly 220 m height and unfinished upper connection against original erection diagrams, photographs and part registers. Survey qualifications remain visible; no material chronology established.

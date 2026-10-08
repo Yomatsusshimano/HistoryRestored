@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Eiffel photograph access resolved
+
+Previous turn made progress: 2190a66 published six verified files. Clean checkout confirmed. Web fetch failed again, but normal browser opened S08 and its catalog-linked IIIF manifest exposed the larger image. PH73441 front visually inspected: lower frame, connecting girders, temporary supports and absent upper shaft; mount date 10 February 1888 read directly. Recorded Blancard attribution, print technique, dimensions and donor association as catalog claims. Reverse, exposure-date authentication and complete custody remain unverified. Updated S08 rather than counting a new independent source. Comparison with S150/S151 remains qualitative and retrospective. Full goal active.
+
 ## 2026-10-08 - Erection diagram and inspection comparison
 
 Previous turn made progress: 0f91651 published seven verified files. Clean checkout confirmed. Visually inspected archive-provided F/12/3871 whole sheet and enlarged caption/legend in browser. Sheet date reads progress through 8 January 1888. Light versus dark tint separates assembly from completed riveting; untinted lines remain unclassified. Qualitative comparison with January 1889 inspection supports progressive assembly, but no member-level match, early total height, rate or component manufacture date established. Same-project archival dependence retained. Next retrieve intervening sheets and photographs. Full goal active.

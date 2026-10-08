@@ -443,8 +443,8 @@
       "claims": [
         {
           "source_id": "S08",
-          "locator": "Indexed museum catalog title",
-          "statement": "The museum catalogs a view described as tower construction on 10 February 1888."
+          "locator": "PH73441, front image and lower mount inscription; catalog and IIIF manifest 320352593",
+          "statement": "Photograph shows lower legs and connecting girders with temporary supports and no upper shaft; mount label dates the construction view to 10 February 1888. Museum attributes the print to Hippolyte Blancard."
         },
         {
           "source_id": "S17",
@@ -482,8 +482,8 @@
           "statement": "Progress sheet dated through 8 January 1888 distinguishes assembled but unriveted iron from assembled and riveted iron. Comparison with S150 supports a progressive-assembly account without establishing material manufacture dates."
         }
       ],
-      "physical_evidence": "Digitized roster, cost account and workshop-account pages visually inspected; museum photograph and building fabric not inspected.",
-      "surviving_documents": "1900 participant monograph with personnel and cost breakdown; earlier museum photograph catalog lead retained.",
+      "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",
+      "surviving_documents": "1900 participant monograph with personnel and cost breakdown; earlier museum photograph catalog lead retained. PH73441 front photograph and its dated mount inscription now inspected.",
       "source_interpretation": "Eiffel presents a constructed project with named staff and separate infrastructure, superstructure and overhead costs.",
       "investigation_inference": "This is a checkable construction account beyond a caption; its principal cost subtotals reconcile. That supports further documentary testing, not independent authentication of every expenditure. The quoted 250-worker site limit cannot be treated as total project labor; fabrication has a named upstream supplier and explicit quantity exclusions. A contemporary inspection describes an intermediate assembly state; this supports assembly at the reported date but does not itself date component manufacture.",
       "competing_explanations": [
@@ -493,9 +493,9 @@
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
       "next_test": "Cross-identify members in F/12/3871 and F/12/3896 with intervening progress sheets, photographs and part registers; recover supplier receipts to test new manufacture versus reuse.",
       "chronology": {
-        "reported": "1900 monograph publication; 10 February 1888 in separate photograph catalog title",
-        "dated_object": "Publication and cataloged view; neither a direct material date",
-        "method": "Catalog title",
+        "reported": "1900 monograph; progress sheet through 8 January 1888; photographic mount inscription 10 February 1888; inspection report 4 January 1889.",
+        "dated_object": "Documents and photograph inscription; not independent component manufacture dates.",
+        "method": "Visual readings of selected source dates and museum catalog attribution; no material dating.",
         "raw_date": null,
         "uncertainty": null,
         "timescale": "CE",

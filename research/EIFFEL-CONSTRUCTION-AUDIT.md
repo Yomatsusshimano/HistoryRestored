@@ -29,7 +29,7 @@ The first three amounts sum to the Eiffel subtotal; adding the operating-company
 
 There is a detailed construction account to test. An argument based on the absence of named builders or a budget fails for this source. An inherited-structure hypothesis would need positive evidence and an explanation of the documented work; general suspicion cannot substitute for that comparison.
 
-Next checks are original supplier and payroll records, fabrication quantities, transport and assembly rates, and a dated image sequence. The museum photograph in S08 remains uninspected. Agreement among chapters of one book is internal consistency, not independent corroboration. No finding here establishes a global pattern of construction or inheritance.
+Next checks are original supplier and payroll records, fabrication quantities, transport and assembly rates, and a dated image sequence. The museum photograph in S08 has now been inspected; see the [photographic comparison](EIFFEL-VERTICALITY-REPORT.md). Agreement among chapters of one book is internal consistency, not independent corroboration. No finding here establishes a global pattern of construction or inheritance.
 
 ## Workshop preparation and the labor denominator
 
