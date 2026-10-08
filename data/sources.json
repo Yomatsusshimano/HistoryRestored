@@ -3622,6 +3622,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S231",
+      "title": "Yamaguchi et al. supplementary dating methods and later NOAA COFECHA output",
+      "creator": "Yamaguchi and colleagues / NOAA NCEI",
+      "publication_date": null,
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa129.txt",
+      "source_type": "Archived author supplement and later quality-control output",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "1997 supplementary methods and Tables S1–S2; Long Island 2006 COFECHA header, flag definitions and Part7. Five file hashes retained; repeated supplement compared by script.",
+      "limitations": "Author-reported calculations not reproduced. 2006 QC differs from1997 processing. Other four QC sections not substantively audited; repeated supplement is one source.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

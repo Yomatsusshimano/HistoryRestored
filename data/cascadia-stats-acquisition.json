@@ -1,0 +1,38 @@
+{
+  "accessed_date": "2026-10-08",
+  "files": [
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa129.txt",
+      "file": "tmp/research/wa129-stats.txt",
+      "sha256": "ce2cfcb362abd109e9748c94e2acbff45008375ccc8fddd379aabef7f1ea12d9",
+      "bytes": 22557
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa130.txt",
+      "file": "tmp/research/wa130-stats.txt",
+      "sha256": "eccbc1c9da7b94d37ac2c67b61f32090382c07ecfb8e3b629d2a5b0370f91917",
+      "bytes": 17021
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa131.txt",
+      "file": "tmp/research/wa131-stats.txt",
+      "sha256": "3b25a5e4db89f1cfd4d6f7fcee48531d8fe304749aa0315d29538620d2522be4",
+      "bytes": 16663
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa132.txt",
+      "file": "tmp/research/wa132-stats.txt",
+      "sha256": "f7d3dcbd34cd4938beed46639587892375aa5318522bf8cc29ee5872758b8768",
+      "bytes": 17279
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/wa133.txt",
+      "file": "tmp/research/wa133-stats.txt",
+      "sha256": "168310a43c41091f5cd96486193fab1964b7af52abad59a128d4200ffecd381b",
+      "bytes": 16141
+    }
+  ],
+  "source_id": "S231",
+  "encoding_used_for_inspection": "cp1252",
+  "redistribution": "Linked originals; full supplementary text retained only in ignored local cache."
+}

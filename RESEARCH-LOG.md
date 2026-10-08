@@ -1114,3 +1114,8 @@ The immediately preceding model-switch acknowledgment was no progress. Revalidat
 ### 2026-10-08 — Cascadia measurement acquisition
 
 Previous turn made verified public progress. Revalidated clean checkout and chronology audits. Targeted reference search located USGS p96 raw-file citation; downloaded official part3 PDF with ordinary User-Agent after web-tool403, rendered and visually inspected p96. Downloaded five NOAA files, hashed and parsed48 series. Read official format guidance; excluded terminators and recorded per-series unit scale. Checks establish record structure only, not crossdating. Added trunk/root and raw/master-coverage distinctions. No root death-date replacement, independent review or chronology-break claim.
+
+
+### 2026-10-08 — Cascadia supplement and QC distinction
+
+Previous turn made verified public progress. Retrieved five official additional-information files after web-tool decoding failure; decoded locally with cp1252. Read complete supplementary methods/Tables S1–S2 and selected Long Island QC sections. Verified repeated supplement text identity and21 raw-series extents against2006 Part7, including aggregate counts. Published method/dependency audit; no new date or reproduced original statistical significance. Kept full supplemental text in ignored cache and linked originals. No outreach or independent-review claim.

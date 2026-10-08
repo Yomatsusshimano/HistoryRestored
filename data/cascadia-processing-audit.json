@@ -1,0 +1,226 @@
+{
+  "source_id": "S231",
+  "status": "ARCHIVED_OUTPUT_ACCOUNTING_NOT_COFECHA_REPRODUCTION",
+  "supplement_body_identical_across_five_files": true,
+  "normalized_body_sha256": "a8b09fc37aa09dce521311c64acc42bb58e5ae995efefb7b6f2accf0cc1a4372",
+  "qc_date": "2006-05-25",
+  "qc_spline_years": 32,
+  "qc_segment_years": 50,
+  "qc_lag_years": 25,
+  "years": 9067,
+  "segments": 359,
+  "flags": 123,
+  "rows": [
+    {
+      "id": "LIDY701",
+      "start": 1323,
+      "end": 1986,
+      "years": 664,
+      "segments": 27,
+      "flags": 13,
+      "correlation_with_master": 0.345,
+      "ar_order": 1
+    },
+    {
+      "id": "LI702O",
+      "start": 991,
+      "end": 1368,
+      "years": 378,
+      "segments": 13,
+      "flags": 9,
+      "correlation_with_master": 0.279,
+      "ar_order": 2
+    },
+    {
+      "id": "LI745",
+      "start": 1408,
+      "end": 1933,
+      "years": 526,
+      "segments": 21,
+      "flags": 4,
+      "correlation_with_master": 0.445,
+      "ar_order": 2
+    },
+    {
+      "id": "LI751",
+      "start": 1486,
+      "end": 1893,
+      "years": 408,
+      "segments": 16,
+      "flags": 4,
+      "correlation_with_master": 0.42,
+      "ar_order": 1
+    },
+    {
+      "id": "LI752",
+      "start": 1680,
+      "end": 1986,
+      "years": 307,
+      "segments": 12,
+      "flags": 2,
+      "correlation_with_master": 0.443,
+      "ar_order": 1
+    },
+    {
+      "id": "LI753",
+      "start": 1417,
+      "end": 1986,
+      "years": 570,
+      "segments": 23,
+      "flags": 3,
+      "correlation_with_master": 0.437,
+      "ar_order": 1
+    },
+    {
+      "id": "LI754",
+      "start": 1452,
+      "end": 1986,
+      "years": 535,
+      "segments": 21,
+      "flags": 11,
+      "correlation_with_master": 0.324,
+      "ar_order": 4
+    },
+    {
+      "id": "LI755",
+      "start": 1425,
+      "end": 1873,
+      "years": 449,
+      "segments": 17,
+      "flags": 3,
+      "correlation_with_master": 0.432,
+      "ar_order": 1
+    },
+    {
+      "id": "LI756",
+      "start": 1424,
+      "end": 1923,
+      "years": 500,
+      "segments": 20,
+      "flags": 5,
+      "correlation_with_master": 0.445,
+      "ar_order": 3
+    },
+    {
+      "id": "LI757",
+      "start": 1515,
+      "end": 1911,
+      "years": 397,
+      "segments": 16,
+      "flags": 7,
+      "correlation_with_master": 0.322,
+      "ar_order": 1
+    },
+    {
+      "id": "LI758",
+      "start": 1419,
+      "end": 1922,
+      "years": 504,
+      "segments": 20,
+      "flags": 8,
+      "correlation_with_master": 0.334,
+      "ar_order": 1
+    },
+    {
+      "id": "LI759",
+      "start": 1746,
+      "end": 1986,
+      "years": 241,
+      "segments": 10,
+      "flags": 1,
+      "correlation_with_master": 0.454,
+      "ar_order": 1
+    },
+    {
+      "id": "LI760",
+      "start": 1722,
+      "end": 1986,
+      "years": 265,
+      "segments": 11,
+      "flags": 2,
+      "correlation_with_master": 0.486,
+      "ar_order": 1
+    },
+    {
+      "id": "LI761",
+      "start": 1289,
+      "end": 1874,
+      "years": 586,
+      "segments": 23,
+      "flags": 4,
+      "correlation_with_master": 0.432,
+      "ar_order": 2
+    },
+    {
+      "id": "LI762",
+      "start": 1411,
+      "end": 1756,
+      "years": 346,
+      "segments": 14,
+      "flags": 7,
+      "correlation_with_master": 0.362,
+      "ar_order": 1
+    },
+    {
+      "id": "LI766I",
+      "start": 1350,
+      "end": 1582,
+      "years": 233,
+      "segments": 9,
+      "flags": 2,
+      "correlation_with_master": 0.458,
+      "ar_order": 3
+    },
+    {
+      "id": "LI766O",
+      "start": 1515,
+      "end": 1986,
+      "years": 472,
+      "segments": 19,
+      "flags": 4,
+      "correlation_with_master": 0.434,
+      "ar_order": 1
+    },
+    {
+      "id": "LI767I",
+      "start": 1036,
+      "end": 1535,
+      "years": 500,
+      "segments": 20,
+      "flags": 13,
+      "correlation_with_master": 0.276,
+      "ar_order": 1
+    },
+    {
+      "id": "LI767O",
+      "start": 1544,
+      "end": 1917,
+      "years": 374,
+      "segments": 15,
+      "flags": 3,
+      "correlation_with_master": 0.403,
+      "ar_order": 1
+    },
+    {
+      "id": "LIDY768",
+      "start": 1528,
+      "end": 1986,
+      "years": 459,
+      "segments": 18,
+      "flags": 11,
+      "correlation_with_master": 0.316,
+      "ar_order": 1
+    },
+    {
+      "id": "LI769",
+      "start": 1634,
+      "end": 1986,
+      "years": 353,
+      "segments": 14,
+      "flags": 7,
+      "correlation_with_master": 0.367,
+      "ar_order": 2
+    }
+  ],
+  "limitations": "Overlapping segments are not independent. Flags are diagnostics, not proven dating errors. 2006 QC processing is not the 1997 analysis."
+}

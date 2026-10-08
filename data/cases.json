@@ -326,6 +326,11 @@
           "source_id": "S230",
           "locator": "Format for Tree-Ring Data Files, Raw Data Files",
           "statement": "999 and -9999 terminate series and indicate0.01mm and0.001mm measurement units respectively; parser excludes terminators from year counts."
+        },
+        {
+          "source_id": "S231",
+          "locator": "Supplement: correlation methods, statistical significance, Table S1; 2006 COFECHA Part7",
+          "statement": "Authors disclose CP-790 fourth-ranked Long Island alignment, local-master comparisons and radiocarbon-based search bounds. Later32-year-spline QC is distinct from reported1997 processing using128-year trunk splines."
         }
       ],
       "physical_evidence": "Published tree-ring table visually checked; raw ring measurements and sediment core logs not reanalyzed.",
