@@ -221,6 +221,16 @@
           "source_id": "S44",
           "locator": "pp. 88-91 height scenarios and assumptions",
           "statement": "Tanabe/Shinjō heights derive from alternative assumptions about building/field elevations, tide, flow depth and later land movement. The 5.4 m storehouse scenario requires an uncertain site identification; it is not a directly measured 1700 watermark."
+        },
+        {
+          "source_id": "S60",
+          "locator": "Printed pp. 1001-1002",
+          "statement": "Survivor responses include disturbed, apparently undisturbed and unclassified trees; killed-cedar dating uses an Ozette reference chronology."
+        },
+        {
+          "source_id": "S61",
+          "locator": "PDF pp. 2-4",
+          "statement": "Original published width tables recovered; three related root-radius terminal decades transcribed, without rerunning crossdating."
         }
       ],
       "physical_evidence": "Published tree-ring table visually checked; raw ring measurements and sediment core logs not reanalyzed.",
@@ -232,7 +242,7 @@
         "Other local inundation processes to compare using deposits"
       ],
       "counterevidence": "The 1708 root date remains visible. Authors propose delayed death of a higher root; this archive has not independently tested that explanation. Regional evidence cannot establish global burial. Tanabe dawn-of-eighth wording is not a clean exact-time match; literal and harmonized readings are preserved separately.",
-      "next_test": "Obtain raw ring widths and rerun crossdating; inspect calendar reference tables and original snowstorm entries supporting the Tsugaruishi month correction; reproduce tsunami travel-time inference with arrival uncertainty. Inspect Tanabe preceding entry and parallel Mandaiki passage; seek independent day-boundary translation. Verify storehouse identity, original surveys and tide/land-level corrections before treating Japanese height estimates as hydraulic model controls.",
+      "next_test": "Obtain raw ring widths and rerun crossdating; inspect calendar reference tables and original snowstorm entries supporting the Tsugaruishi month correction; reproduce tsunami travel-time inference with arrival uncertainty. Inspect Tanabe preceding entry and parallel Mandaiki passage; seek independent day-boundary translation. Verify storehouse identity, original surveys and tide/land-level corrections before treating Japanese height estimates as hydraulic model controls. Complete S61 transcription and acquire Ozette reference widths to audit alternate crossdating placements.",
       "chronology": {
         "reported": "1700 CE",
         "dated_object": "Final root growth and inferred mortality, not direct earthquake-clock measurement",

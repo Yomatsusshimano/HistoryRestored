@@ -1,0 +1,84 @@
+{
+  "source_id": "S61",
+  "retrieved": "2026-10-08",
+  "download_url": "https://ndownloader.figshare.com/files/22742351",
+  "metadata_api": "https://api.figshare.com/v2/articles/12335987",
+  "sha256": "daa3895a61dc5fa0bdb4dc6e3b3ccb07e76e9873f523ed24cdd40a4bd1349740",
+  "md5": "66bfaf4ad279b0d7aa45b5de55c2bfef",
+  "bytes": 4193230,
+  "actual_pdf_pages": 45,
+  "catalog_and_cover_pages": 37,
+  "unit": "micrometre",
+  "year_assignment": "As published; not independently crossdated",
+  "selection": "Terminal decade of three related root-radius series, selected retrospectively",
+  "independent_tree_count": null,
+  "specimen_crosswalk_to_S19": null,
+  "series": [
+    {
+      "id": "GF2RTC",
+      "pdf_page": 3,
+      "start_year": 1690,
+      "widths": [
+        264,
+        250,
+        185,
+        242,
+        211,
+        256,
+        259,
+        237,
+        142,
+        202
+      ],
+      "following_printed_year": 1700,
+      "following_printed_marker": -9999,
+      "marker_treatment": "Excluded from measured widths; no 1700 measurement inferred"
+    },
+    {
+      "id": "GF2RTB",
+      "pdf_page": 4,
+      "start_year": 1690,
+      "widths": [
+        288,
+        298,
+        235,
+        269,
+        246,
+        362,
+        328,
+        295,
+        241,
+        250
+      ],
+      "following_printed_year": 1700,
+      "following_printed_marker": -9999,
+      "marker_treatment": "Excluded from measured widths; no 1700 measurement inferred"
+    },
+    {
+      "id": "GF2RTA",
+      "pdf_page": 4,
+      "start_year": 1690,
+      "widths": [
+        586,
+        463,
+        351,
+        490,
+        394,
+        610,
+        532,
+        453,
+        455,
+        293
+      ],
+      "following_printed_year": 1700,
+      "following_printed_marker": -9999,
+      "marker_treatment": "Excluded from measured widths; no 1700 measurement inferred"
+    }
+  ],
+  "limitations": [
+    "Partial visual transcription only",
+    "Related radii are not independent trees",
+    "Reference chronology not acquired",
+    "No crossdating rerun"
+  ]
+}

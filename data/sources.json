@@ -1034,6 +1034,36 @@
       "sha256": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S60",
+      "title": "Tree-ring evidence for an A.D. 1700 Cascadia earthquake in Washington and northern Oregon",
+      "url": "https://web.njit.edu/~dbunker/publications/Jacoby%20etal%2097%20Geology.pdf",
+      "creator": "Gordon C. Jacoby, Daniel E. Bunker, Boyd E. Benson",
+      "publication_date": "1997",
+      "source_type": "Original research article",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Full article text; printed pp. 1001-1002 visually inspected.",
+      "limitations": "Raw statistical comparison not rerun; shared samples and reference chronologies require dependence audit.",
+      "local_copy": null,
+      "sha256": "e12e8f4c15329a15379a66826a96026d60db5db6db827704a0bf9f05b5441177",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S61",
+      "title": "GSA Data Repository item 9756: tree-ring width measurements",
+      "url": "https://doi.org/10.1130/9756",
+      "creator": "Gordon C. Jacoby, Daniel E. Bunker, Boyd E. Benson",
+      "publication_date": "1997",
+      "source_type": "Original measurement supplement",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF pp. 1-4, 43 and 45 visually inspected; API metadata and file MD5 verified.",
+      "limitations": "45-page file versus 37-page cover/catalog retained; partial transcription only. Published dates not independently crossdated.",
+      "local_copy": null,
+      "sha256": "daa3895a61dc5fa0bdb4dc6e3b3ccb07e76e9873f523ed24cdd40a4bd1349740",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

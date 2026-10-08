@@ -1,5 +1,17 @@
 # Cascadia: testing a link between trees and documents
 
+## Measurement supplement recovered, 2026-10-08
+
+[Jacoby, Bunker and Benson (1997), S60](https://web.njit.edu/~dbunker/publications/Jacoby%20etal%2097%20Geology.pdf), printed pp. 1001–1002, reports 15 disturbed trees, five apparently undisturbed trees and fourteen unclassified trees. Responses vary in direction and timing; the narrowest ring need not date the disturbance. Its killed-cedar comparison searched placements from 1400 to 1740 against an Ozette chronology, reporting r=0.21 over 300 years and t=3.7. Other alignments had slightly higher correlations but shorter overlaps and lower t values. Those comparisons have not been rerun here. The article identifies GSA repository item 9756 as its measurement supplement.
+
+The [original supplement, S61](https://doi.org/10.1130/9756) was located through the public Figshare API and downloaded. The file contains **45 PDF pages**, while both cover and catalog describe 37. This discrepancy is retained, not interpreted as missing or fabricated measurements. The PDF has no extracted text in its opening pages. Cover, methods, killed-cedar tables on PDF pp. 3–4, and selected later tables on pp. 43 and 45 were visually inspected. This is not a full-page audit.
+
+The methods note specifies micron units and decadal layout, with site/tree/core identifiers. It describes within-tree, within-site and between-site crossdating using anatomy as well as widths. Thus these are published, already calendar-assigned measurements, not blind calendar-independent observations.
+
+[Selected transcription and acquisition record](../data/cascadia-width-extract.json) preserves the 1690s rows of GF2RTC, GF2RTB and GF2RTA, with the following printed -9999 marker kept separately. It is not a negative width or an additional 1700 observation. These three related root-radius series must not be counted as three independent trees. Their precise crosswalk to S19 specimen identifiers remains to be verified.
+
+Next: transcribe and check all killed-cedar series and obtain the Ozette reference measurements; preserve alternate placements, overlap lengths, preprocessing, serial correlation and multiple-placement testing. A date assigned in the source table does not independently reproduce the original crossdating. Anatomy, bark preservation and field association require their own evidence. The supplement is linked rather than redistributed; Figshare lists CC BY-NC 4.0. Local retrieval hashes preserve file identity.
+
 Research draft, 2026-10-08. C004 remains without independent review.
 
 [Yamaguchi et al. (1997)](https://doi.org/10.1038/40048), accessed through an [author-hosted copy](https://web.njit.edu/~dbunker/publications/Yamaguchi%20etal%2097%20N.pdf), provides a sample-level test. Table 1 on printed page 923 was visually checked. The [transcription](../data/cascadia-rings.json) retains all eight usable root dates: seven end in 1699; CP-791 ends in 1708. Six preserve latewood supporting death between August 1699 and May 1700. The authors suggest that the exceptional root's height delayed mortality; that explanation is not independently tested here.

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Original Cascadia ring-width supplement recovered
+
+Previous turn made progress: 465dc97 published seven byte-verified files. Clean checkout rechecked. Retrieved Jacoby et al. 1997 article and followed its repository identifier to Figshare item 12335987, DOI 10.1130/9756. Downloaded 4,193,230-byte supplement; MD5 matches repository. Actual PDF has 45 pages versus catalog/cover 37. Visually inspected article pp. 1001-1002 and supplement PDF pp. 1-4, 43, 45. Corrected initial progress description of 37 pages after inspecting actual file.
+
+Added S60/S61 and selected 30 width measurements from three related root radii, retaining printed marker separately. No independent-tree multiplication, crossdating rerun, or complete supplement inspection claimed. Article survivor counts retain unclassified and apparently undisturbed categories. Source files remain local, public originals linked. Seventeen draft cases, sixty-one sources; goal active.
+
 ## 2026-10-08 - Alternative canyon geometry and actual data location
 
 Previous acknowledgement turn made no research progress. Revalidated clean checkout and continued the available primary-source audit. Inspected David et al. 2022 text sections and the UMass dataset API. Added S58/S59; distinguished within-study and prior-study discharge comparisons and sediment-size calibration. Direct Caltech downloads returned 403; PDF text was available through web retrieval, but figure images were not successfully inspected. No visual verification claimed.
