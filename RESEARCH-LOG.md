@@ -812,3 +812,7 @@ Previous turn published verified progress; current tree clean. Recovered N085171
 ### 2026-10-08 — Shared calculation inputs and adjacent failed tests
 
 Previous turn made verified public progress; current tree clean. Inspected live N085 folder index and recovered N085165/N085169A manifests and all three images. Added S181/S182, preserving mixed dates, apparatus-link uncertainty and failures. Reconstructed apparent resistance ratio from S180 rather than treating reported resistance as independent input; retained both conditional numerical paths. Added executable calculation and checked algebraic equivalence. No circuit identity, calibration, corrected historical reading or independent replication claimed.
+
+### 2026-10-08 — Invention inference and cross-case reconciliation
+
+Previous turn published verified progress; current tree clean. Reconciled S175-S182 notebook findings with H5/H7 and cross-case assessment. Added explicit retrospective comparisons, dependencies and evidence that would change each conclusion. Preserved development/borrowing coexistence, scoped named contributions, unresolved transfer instruments and absence of an authenticated ancient antecedent. Updated public entry points. No new source, review, prospective success, prevalence estimate or completion claim.

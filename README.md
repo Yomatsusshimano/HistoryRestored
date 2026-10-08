@@ -19,6 +19,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Lake Cahuilla audit](research/CAHUILLA.md): physical lake-versus-marine evidence and historical dependencies in the chronology.
 - [California map audit](research/CALIFORNIA-MAP-AUDIT.md): verified item links, unresolved catalog dates, and the distinction between compilation and survey evidence.
 - [Eiffel construction audit](research/EIFFEL-CONSTRUCTION-AUDIT.md): visually checked personnel and cost records from the 1900 technical account.
+- [Invention discrimination](research/INVENTION-DISCRIMINATION.md): development, named contributions, ownership and recovery tested separately.
 - [Lamp patent comparison](research/LAMP-PATENT-COMPARISON.md): Woodward's earlier disclosure, Edison's claims, and unresolved transmission evidence.
 - [Cascadia chronology audit](research/CASCADIA-CHRONOLOGY.md): sample-level tree dates, an outlier, shared dating assumptions and the published correction.
 - [Seattle grade dispute](research/SEATTLE-GRADE-DISPUTE.md): resident allegations, original elevation report and unresolved source discrepancies.
