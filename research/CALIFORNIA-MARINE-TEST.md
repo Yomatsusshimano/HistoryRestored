@@ -12,6 +12,8 @@ The island-map question needs three separate tests: environment, time and connec
 
 The latter paper explicitly investigates the same Hart Mine Wash outcrop as the former study. Opposing interpretations are therefore not two geographically independent demonstrations. This initial comparison does not resolve the marine-versus-lake disagreement or survey all subsequent research. It identifies an accessible, specimen-linked test case and prevents selective citation of only the interpretation favorable to a proposed reconstruction.
 
+The recovered [marine-study supplement](BOUSE-MARINE-LEDGER.md), S186, adds morphological notes and thirteen Hart Mine Wash laboratory records. It makes the identification rationale auditable, while showing why shared locality must not be treated as proven identical-bed sampling. The main marine paper remains abstract-only here.
+
 ## Consequences for the historical map claim
 
 | Proposed inference | Required evidence | Present boundary |

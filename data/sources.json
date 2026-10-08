@@ -2987,6 +2987,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S186",
+      "title": "Supplemental material: Evidence for a marine incursion along the lower Colorado River corridor",
+      "url": "https://doi.org/10.1130/GES00975.S1",
+      "creator": "Kristin McDougall and Adriana Yanet Miranda Martinez",
+      "publication_date": "2014",
+      "source_type": "original research supplement: taxonomic notes and sample locations",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Selected taxonomic paragraphs including Streptochilus, sample-field definitions and thirteen Hart Mine Wash records Mf12912-Mf12921, Mf12925, Mf12935-Mf12936. DOCX extraction; hash and row locators in data/bouse-marine-ledger.json.",
+      "limitations": "Rendering unavailable: bundled LibreOffice missing. Main paper remains abstract-only in S183. Other location rows not substantively audited. No specimen images, species-count matrix or biostratigraphic calibration reproduced. Archive holdings not currently verified.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

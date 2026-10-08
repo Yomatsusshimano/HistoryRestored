@@ -1430,6 +1430,11 @@
           "source_id": "S185",
           "locator": "Supplement 1 S6:S29; Supplement 2 A5:F57; research/BOUSE-ISOTOPES.md",
           "statement": "Same-sample oxygen offsets decline across the DCL within Cyprideis, while pre-DCL trends, genus differences and a 9-per-mil HM54 spread prevent treating all results as a uniform step. Descriptive reproduction does not establish a unique mechanism or duration."
+        },
+        {
+          "source_id": "S186",
+          "locator": "Taxonomic notes, Streptochilus entries; sample table Mf12912-Mf12921, Mf12925, Mf12935-Mf12936",
+          "statement": "Marine-study supplement supplies morphological identification rationale and thirteen Hart Mine Wash laboratory records. Shared locality is not established identical-bed sampling; interpreted assemblage ages are not direct numerical assays."
         }
       ],
       "physical_evidence": "Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.",
