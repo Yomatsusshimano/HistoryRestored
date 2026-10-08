@@ -30,6 +30,41 @@
       "independent_check_of_comparison_snow_records": false,
       "dependence": "Kuwagasaki fire is hearsay in this account, not a second direct observation of that fire.",
       "reported_absence": "Account says no earthquake occurred locally; not a global absence of earthquake."
+    },
+    {
+      "record": "Tanabe-machi daicho",
+      "locator": "p. 86 columns 1-5; volume context pp. 84, 87; competing time readings p. 43",
+      "reported_day": 8,
+      "reported_time": "Since about dawn of the eighth day",
+      "year_month_context": "First word means same year and month as preceding entry, per report note; preceding entry not inspected here.",
+      "reported_phenomenon_term": "abiki",
+      "term_limit": "Report warns that this term means unusual seas without specifying tsunami versus tide, weather or pressure effects.",
+      "translated_content": "Water reported entering Shinjō government storehouse and other buildings; crop/field losses in Atonoura; water reaches Horidobashi along a moat near the writer.",
+      "reporting_limit": "Some clauses explicitly relay reports; do not label all observations eyewitness testimony.",
+      "physical_document_context": "Report reproduces water-damaged entry and volume title. Damage is not independently dated and is not proof of contact with the 1700 wave.",
+      "parallel_record": "Mandaiki, private Tadokoro family series; report p. 84 cites librarian opinion that extant volume for 1700 is a later copy.",
+      "independent_witness_count": null,
+      "alternative_time_readings": [
+        {
+          "reading": "Dawn at start of eighth day",
+          "conditional_Gregorian_date": "1700-01-27",
+          "relation_to_proposed_origin": "Before the nominal earthquake after conversion to Japan time; conflicts with causal arrival from that origin."
+        },
+        {
+          "reading": "Following dawn, treated as start of ninth for agreement",
+          "conditional_Gregorian_date": "1700-01-28",
+          "relation_to_proposed_origin": "After nominal origin; chronological order alone does not establish source or travel-time fit."
+        }
+      ],
+      "conditional_order_check": {
+        "nominal_Cascadia_origin": "1700-01-26T21:00:00",
+        "assumed_Japan_offset_hours": 17,
+        "Japan_equivalent": "1700-01-27T14:00:00",
+        "test": "Dawn of January 27 is before noon January 27, which precedes 14:00 January 27. No exact dawn minute assigned.",
+        "model_or_calendar_independently_validated": false
+      },
+      "exact_modern_timestamp": null,
+      "next_test": "Inspect preceding dated entry and parallel record, obtain independent linguistic review of day-boundary usage, and test source-time alternatives without forcing agreement."
     }
   ],
   "calendar_check": {
@@ -49,6 +84,6 @@
     "reported_result": "About 21:00 January 26, 1700 Cascadia local time",
     "uncertainty": "Report allows an earlier earthquake if reported flooding lagged the leading wave by one to two hours; no new confidence interval computed.",
     "model_reproduced": false,
-    "other_document_ambiguity": "Report notes Tanabe dawn-of-eighth wording can mean start of eighth or be interpreted as ninth for agreement; Tanabe original passage not independently inspected in this tranche."
+    "other_document_ambiguity": "Tanabe p. 86 reproduction now visually checked: dawn-of-eighth wording retained. See Tanabe record for literal-versus-following-dawn branches and conditional causal-order conflict."
   }
 }

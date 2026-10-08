@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Tanabe arrival ambiguity and causal ordering
+
+Previous turn made progress: 7b56628 published seven public-byte-verified documentary-audit files. Clean checkout rechecked. Visually inspected S44 printed pp. 84 and 86-87, including the Tanabe entry, supplied translation, notes and volume context. First word inherits year/month from a preceding entry not yet inspected. The phenomenon word does not itself identify a tsunami cause. Parallel Mandaiki is not automatically an independent witness; report describes later copying.
+
+Preserved literal dawn-of-eighth versus following-dawn interpretation. Executed nominal conversion January 26 21:00 plus 17 hours = January 27 14:00 Japan time; January 27 dawn precedes this origin, whereas January 28 dawn does not. This tests conditional causal ordering, not a new exact arrival time, propagation model or statistical rejection. Seventeen cases, forty-four sources; original manuscript authentication and independent linguistic review remain absent.
+
 ## 2026-10-08 - Japanese tsunami documents and calendar assumptions
 
 Previous turn made progress: 7b26c5c published ten public-byte-verified solar-check files. Clean checkout rechecked. USGS chapter returned 403; Alaska mirror failed certificate validation (not disabled); J-STAGE 1998 PDF download ended incomplete and was not inspected. Its HTML abstract was read for navigation only. A Miami University hosted copy of the 2015 USGS report downloaded successfully and was hashed.

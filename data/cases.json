@@ -180,6 +180,11 @@
           "source_id": "S44",
           "locator": "pp. 38-39, 42-43, 52-53",
           "statement": "Reproduced Japanese accounts preserve flood/fire and nighttime timing; a Tsugaruishi month discrepancy is explicitly corrected by report authors. January 26 Cascadia earthquake time combines calendar interpretation with assumed tsunami travel time, not a direct Japanese earthquake timestamp."
+        },
+        {
+          "source_id": "S44",
+          "locator": "pp. 43, 84, 86-87",
+          "statement": "Tanabe entry says dawn of eighth day; report offers following-dawn interpretation for agreement. Literal January 27 dawn precedes nominal earthquake in Japan-time conversion, so that reading conflicts with the proposed causal sequence."
         }
       ],
       "physical_evidence": "Published tree-ring table visually checked; raw ring measurements and sediment core logs not reanalyzed.",
@@ -190,8 +195,8 @@
         "Earthquake/tsunami",
         "Other local inundation processes to compare using deposits"
       ],
-      "counterevidence": "The 1708 root date remains visible. Authors propose delayed death of a higher root; this archive has not independently tested that explanation. Regional evidence cannot establish global burial.",
-      "next_test": "Obtain raw ring widths and rerun crossdating; inspect calendar reference tables and original snowstorm entries supporting the Tsugaruishi month correction; reproduce tsunami travel-time inference with arrival uncertainty.",
+      "counterevidence": "The 1708 root date remains visible. Authors propose delayed death of a higher root; this archive has not independently tested that explanation. Regional evidence cannot establish global burial. Tanabe dawn-of-eighth wording is not a clean exact-time match; literal and harmonized readings are preserved separately.",
+      "next_test": "Obtain raw ring widths and rerun crossdating; inspect calendar reference tables and original snowstorm entries supporting the Tsugaruishi month correction; reproduce tsunami travel-time inference with arrival uncertainty. Inspect Tanabe preceding entry and parallel Mandaiki passage; seek independent day-boundary translation.",
       "chronology": {
         "reported": "1700 CE",
         "dated_object": "Final root growth and inferred mortality, not direct earthquake-clock measurement",
