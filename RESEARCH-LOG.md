@@ -1095,3 +1095,8 @@ Previous turn made verified public progress. Revisited C015 and searched exact m
 ### 2026-10-08 — Coyote Canyon printed regression recovered
 
 Previous turn made verified public progress. Recovered Reading repository PDF of S138 and hashed it; rendered and inspected Figures 1-2. Poppler emitted font warnings but axes, coefficients and captions were readable. Figure uses excavation levels rather than the methods depths directly, narrowing the prior conditional concern. Executed standard-library quadratic inversion with substitution checks; both roots retained. Approximate central ages recovered, no original fit or uncertainty reproduction. Updated source access and case claims; no new source count or independent review.
+
+
+### 2026-10-08 — Coyote Canyon candidate regression inputs
+
+Previous turn made verified public progress. Inspected repository links and publisher supplement/data-availability listing. Two supplement requests returned403. Fit graph-read levels35,26,14,11 against reported OSL ages using centered NumPy least squares; checked against polyfit and residual orthogonality. All printed coefficient/R-squared rounding reproduced. This is a candidate input reconstruction, not unique original-input recovery or confidence-interval reproduction. Added shared-curve dependence to cross-case assessment. No new source or independently validated age claimed.

@@ -1596,6 +1596,11 @@
           "source_id": "S138",
           "locator": "Figures 1-2, printed pp.3-4 / repository PDF pp.5-6",
           "statement": "Figure 2 uses excavation levels. Inverting its rounded equation with negative levels gives 13.250631 and 15.381277 ka, close to the reported approximate central ages. This is not a refit or reproduction of confidence intervals; prior mixed-reference scenario is not demonstrated as the implementation."
+        },
+        {
+          "source_id": "S138",
+          "locator": "Figure 2; public supporting-information listing and data-availability statement",
+          "statement": "Candidate graph-read levels 35,26,14,11 paired with reported OSL ages reproduce all printed quadratic coefficients and R squared using unweighted least squares. Original inputs and age confidence intervals remain unverified; supplement retrieval returned 403."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",

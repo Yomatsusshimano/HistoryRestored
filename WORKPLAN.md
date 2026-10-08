@@ -453,3 +453,8 @@ Depth-reference comparison now published for S138 versus S32: original sample pa
 ### 2026-10-08 — Coyote Canyon printed regression recovered
 
 S138 original figures recovered. Printed equation now yields approximate central fossil-age read-offs under inferred negative-level convention. Prior mixed-depth scenario is not established as actual implementation. Next recover numerical sample-to-level conversion and uncertainty calculation; preserve depth-wording and error discrepancies.
+
+
+### 2026-10-08 — Coyote Canyon candidate regression inputs
+
+Graph-read candidate levels reproduce S138 printed coefficients and R squared. Next verify sample-to-level survey conversion and propagate OSL/shared errors; do not use the two curve-derived fossil ages as independent chronological evidence. Supplement requests returned403; author-request data remain unrecovered, no outreach made.

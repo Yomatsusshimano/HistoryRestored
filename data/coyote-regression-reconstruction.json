@@ -1,0 +1,52 @@
+{
+  "source_id": "S138",
+  "locator": "Figure 2, printed p.4 / repository PDF p.6; ages from chronology text",
+  "input_status": "Candidate integer levels read from plotted points; not recovered author input file.",
+  "model": "Unweighted ordinary least squares of negative excavation level on age and age squared; age treated as exact for this reconstruction.",
+  "rows": [
+    {
+      "sample_id": "CCMS-OSL-1",
+      "age_ka": 20.87,
+      "candidate_level": 35.0,
+      "residual_negative_levels": 0.5739222981111709
+    },
+    {
+      "sample_id": "CCMS-OSL-2",
+      "age_ka": 16.77,
+      "candidate_level": 26.0,
+      "residual_negative_levels": -2.4194593256056898
+    },
+    {
+      "sample_id": "CCMS-OSL-3",
+      "age_ka": 14.01,
+      "candidate_level": 14.0,
+      "residual_negative_levels": 2.7211283289734105
+    },
+    {
+      "sample_id": "CCMS-OSL-4",
+      "age_ka": 10.88,
+      "candidate_level": 11.0,
+      "residual_negative_levels": -0.8755913014789023
+    }
+  ],
+  "coefficients_descending": [
+    -0.06412838223378926,
+    -0.5114227228950163,
+    3.031029296472145
+  ],
+  "coefficients_rounded_as_figure": [
+    -0.0641,
+    -0.5114,
+    3.031
+  ],
+  "R_squared": 0.9610992689905239,
+  "residual_degrees_of_freedom": 1,
+  "checks": "Centered least squares agrees with numpy.polyfit; normal-equation orthogonality and printed rounding checks pass.",
+  "numpy_version": "2.3.5",
+  "limits": [
+    "Matching rounded coefficients and R squared supports this reconstruction but does not prove unique inputs or original settings.",
+    "Sample levels need independent survey and bed correlation, including conversion from original OSL locations.",
+    "No measurement-error model, shared error covariance, age confidence interval or geological validation reproduced.",
+    "The two fossil ages are derived from the same four-point curve and cannot be treated as independent assays."
+  ]
+}
