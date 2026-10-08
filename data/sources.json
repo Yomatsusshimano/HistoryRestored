@@ -3169,6 +3169,48 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S199",
+      "title": "Upper limestone of the southern Bouse Formation: evidence for unsteady origins of the Colorado River",
+      "url": "https://pages.uoregon.edu/rdorsey/Downloads/Dorseyetal2016DS.pdf",
+      "creator": "Rebecca J. Dorsey, Brennan O’Connell, Mindy Homan and Keith Howard",
+      "publication_date": "2016",
+      "source_type": "original stratigraphic research",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Nine-page PDF; printed149-151/Figures6-8 visually inspected. SHA256 11b95deff5bd605d6f852b4bffa0edf923b82f7afac9ce568dab3026db95f06a.",
+      "limitations": "Selected stratigraphic scope only; no field verification. Proposed correlations and restoration assumptions retained. Shares earlier dating and sections with subsequent studies.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S200",
+      "title": "Bouse Formation in the Bristol basin near Amboy, California, USA",
+      "url": "https://doi.org/10.1130/GES00934.1",
+      "creator": "David M. Miller, Robert E. Reynolds, Jordon E. Bright and Scott W. Starratt",
+      "publication_date": "2014",
+      "source_type": "original stratigraphic research",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Selected interval A-C descriptions p.465 in author-uploaded ResearchGate full text; USGS70135985 abstract checked.",
+      "limitations": "Publisher PDF certificate failure; ResearchGate PDF retrieval failed. No local scan, hash, figure/sample match or complete study audit. Tephra assignment shares earlier analytical sources.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S201",
+      "title": "Punctuated Sediment Discharge during Early Pliocene Birth of the Colorado River: Evidence from Regional Stratigraphy, Sedimentology, and Paleontology",
+      "url": "https://pages.uoregon.edu/rdorsey/BasinAnalysis/BasinPapers/Dorsey%20etal%202018.pdf",
+      "creator": "Rebecca J. Dorsey, Brennan O’Connell, Kristin McDougall and Mindy B. Homan",
+      "publication_date": "2018",
+      "source_type": "original stratigraphic research",
+      "access": "SCAN_INSPECTED",
+      "inspected": "33-page PDF; sections3.4.3/3.5 pp.18-19 visually inspected; selected other chronology passages text-read. SHA256 350bb76bdd91296e464940a0f65a2433eb66a62dc262428c97539f5a1ac164ef.",
+      "limitations": "Selected scope only; not a full audit of chronology, fossils or process interpretation. Same-study lineage as S199 and shared previous dating; proposed ash links are not independent confirmations.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

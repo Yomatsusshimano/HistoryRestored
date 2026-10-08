@@ -892,3 +892,7 @@ The model-switch acknowledgement made no research progress. Revalidated the thre
 ### 2026-10-08 — Original Lawlor argon inputs recovered
 
 Previous turn made verified public progress; clean tree confirmed. Institutional abstract retrieved through web index; direct USGS access failed403 and publisher DOI certificate validation failed. Supplemental DOI resolved to Figshare workbook, retrieved and hashed without weakening certificate checks. Read-only xlrd extraction preserves35 Lawlor steps, six marked omissions and original multirow headers. Identified noncumulative percent values normalized over ordinary blocks, scaled J fields and numeric-zero external-error cells that cannot establish zero uncertainty. No final isochron reconstruction, monitor calibration, formula execution, rendered workbook or bed-age transfer claimed.
+
+### 2026-10-08 — Ash-to-bed stratigraphic dependencies
+
+Previous turn made verified public progress; clean checkout confirmed. Retrieved and hashed Dorsey2016 and Dorsey2018 university PDFs; visually inspected selected sections/figures. Read selected Miller2014 original article passages through author-uploaded full text after publisher certificate failure and failed PDF retrieval. Published a comparison separating sediment description, proposed lateral matching and restored geometry. Added concrete sample/bed tests instead of transferring an eruption age to all fossil records. No complete formation chronology, field survey or independent review claimed.

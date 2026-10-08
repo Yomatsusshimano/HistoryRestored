@@ -41,3 +41,5 @@ S196 now supplies the original analytical supplement. The [Lawlor calculation au
 The [oxygen comparison](ZIRCON-OXYGEN-CHECK.md) now audits Pre-Kilgore alongside Bouse and Lawlor. Broad compositional differences survive the prior-source split, but selected error intervals overlap. Other candidate groups and bed-specific age transfer remain pending.
 
 The [argon source audit](LAWLOR-ARGON-AUDIT.md) now recovers 35 original Lawlor heating-step rows and an explicit one-sigma convention from the study abstract. Calibration, regression selection and primary-deposition transfer remain unresolved.
+
+The [ash-to-bed audit](BOUSE-ASH-STRATIGRAPHY.md) separates local observations, proposed lateral correlations and restoration assumptions using S199-S201. Exact sampling heights and the connection to the inventoried fossil beds remain unresolved.
