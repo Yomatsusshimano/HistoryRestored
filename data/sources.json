@@ -513,6 +513,29 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S29",
+      "title": "Upper Grand Coulee: New views of a channeled scabland megafloods enigma",
+      "url": "https://doi.org/10.1130/2021.0062(07)",
+      "doi": "10.1130/2021.0062(07)",
+      "creator": "Richard B. Waitt, Brian F. Atwater, Karin Lehnigk, Isaac J. Larsen, Bruce N. Bjornstad, Michelle A. Hanson and Jim E. O’Connor",
+      "publication_date": "2021",
+      "source_type": "geological field guide with stratigraphic synthesis",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Relevant text printed pp. 273-277; Figure 17B-H p. 273 and Table 1/chronology p. 277 visually checked. PDF pages are printed page minus 244.",
+      "limitations": "Earlier logs, original assays, charcoal collection context and varve annuality not independently reanalyzed; partial guide inspection. Does not resolve Long site 11.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "license": "First page states copyright 2021 the authors and CC-BY; linked rather than republished.",
+      "retrievals": [
+        {
+          "url": "https://par.nsf.gov/servlets/purl/10635924",
+          "sha256": "61bf11abb20dc10cada6dd9349a4632bcee77165394bc942a7fad3a60d5ce9c1",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

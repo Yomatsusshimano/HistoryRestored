@@ -238,6 +238,7 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 - The older report describes varves between successive graded flood beds. [S12](https://www.usgs.gov/publications/tens-successive-colossal-missoula-floods-north-and-east-margins-channeled-scabland). Locator: Indexed abstract. Access: SEARCH_EXCERPT. Limit: Direct page timed out; sample-level stratigraphy not inspected.
 - The original modeling study supplies field controls, alternative configurations and unresolved model discrepancies; see research/MISSOULA-MODEL-AUDIT.md. [S27](https://doi.org/10.1130/2021.2548(17)). Locator: Table 1 pp. 5-6; methods pp. 8-10; discussion pp. 11, 15-16. Access: SCAN_INSPECTED. Limit: Partial table extraction, no raw field audit, input retrieval or simulation rerun. See research/MISSOULA-MODEL-AUDIT.md.
 - A separate public Missoula example names raster inputs absent from its inspected repository tree; equivalence to S27 is unestablished. [S28](https://github.com/KYANJO/GeoFlood/blob/cf9a82345e77c614c2ccd93e57cf392af687b763/examples/cpu_cuda/missoula/setrun.py). Locator: Pinned setrun.py lines 83-85, 572, 579-580; recursive tree. Access: FULL_TEXT_PORTION. Limit: No compiled model or raster inputs; not established as the 2021 published configuration. File-name absence is limited to inspected trees.
+- Mapped sections provide flow-direction contrasts, intervening couplets and a conditional tephra-anchored chronology; uncertainties and shared dating dependencies are retained in research/MISSOULA-STRATIGRAPHY.md. [S29](https://doi.org/10.1130/2021.0062(07)). Locator: Stops 2.3-2.5, pp. 275-277; Figure 17 p. 273; Table 1 p. 277. Access: SCAN_INSPECTED. Limit: Earlier logs, original assays, charcoal collection context and varve annuality not independently reanalyzed; partial guide inspection. Does not resolve Long site 11.
 
 **Physical evidence:** Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.
 
@@ -249,15 +250,15 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Intervening time indicators challenge treating the whole sequence as one uninterrupted event.
 
-**Next test:** Audit source coordinates and original field records, retrieve modified terrain and full solver configuration, reproduce one scenario; inspect stratigraphic timing separately.
+**Next test:** Inspect original section logs, annuality indicators, tephra analyses and charcoal context; resolve Long site 11 from the 2019 table; obtain complete model inputs.
 
 **Dependence:** Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood.
 
 **Alternatives:** Repeated outburst floods; One episode only if intervening time indicators are convincingly reinterpreted
 
-**Chronology:** {"reported": "Last-glacial sequence; precise dated sample intervals not entered", "dated_object": "Flood sequence in review", "method": "Reported multiple methods; not individually reanalyzed", "raw_date": null, "uncertainty": null, "timescale": "Geological interval", "event_association": "REPORTED_NOT_REVALIDATED"}
+**Chronology:** {"reported": "Last-glacial sequence; S29 derives a conditional 15.8-14.9 cal ka interval for final Missoula floods from tephra correlation and varve counts, not a direct date of every flood.", "dated_object": "Flood sequence in review", "method": "Reported multiple methods; not individually reanalyzed", "raw_date": null, "uncertainty": null, "timescale": "Geological interval", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Measured sections; Sample-level ages; Complete executable model inputs; Independent field and simulation review
+**Missing:** Independent inspection of original measured sections; Original dating/tephra assays and sample context; Complete executable model inputs; Independent field and simulation review
 
 ## C009: Yukon mammoth and horse sedimentary DNA
 

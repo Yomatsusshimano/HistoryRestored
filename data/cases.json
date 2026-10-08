@@ -389,6 +389,11 @@
           "source_id": "S28",
           "locator": "Pinned setrun.py lines 83-85, 572, 579-580; recursive tree",
           "statement": "A separate public Missoula example names raster inputs absent from its inspected repository tree; equivalence to S27 is unestablished."
+        },
+        {
+          "source_id": "S29",
+          "locator": "Stops 2.3-2.5, pp. 275-277; Figure 17 p. 273; Table 1 p. 277",
+          "statement": "Mapped sections provide flow-direction contrasts, intervening couplets and a conditional tephra-anchored chronology; uncertainties and shared dating dependencies are retained in research/MISSOULA-STRATIGRAPHY.md."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.",
@@ -400,9 +405,9 @@
         "One episode only if intervening time indicators are convincingly reinterpreted"
       ],
       "counterevidence": "Intervening time indicators challenge treating the whole sequence as one uninterrupted event.",
-      "next_test": "Audit source coordinates and original field records, retrieve modified terrain and full solver configuration, reproduce one scenario; inspect stratigraphic timing separately.",
+      "next_test": "Inspect original section logs, annuality indicators, tephra analyses and charcoal context; resolve Long site 11 from the 2019 table; obtain complete model inputs.",
       "chronology": {
-        "reported": "Last-glacial sequence; precise dated sample intervals not entered",
+        "reported": "Last-glacial sequence; S29 derives a conditional 15.8-14.9 cal ka interval for final Missoula floods from tephra correlation and varve counts, not a direct date of every flood.",
         "dated_object": "Flood sequence in review",
         "method": "Reported multiple methods; not individually reanalyzed",
         "raw_date": null,
@@ -411,8 +416,8 @@
         "event_association": "REPORTED_NOT_REVALIDATED"
       },
       "missing": [
-        "Measured sections",
-        "Sample-level ages",
+        "Independent inspection of original measured sections",
+        "Original dating/tephra assays and sample context",
         "Complete executable model inputs",
         "Independent field and simulation review"
       ],

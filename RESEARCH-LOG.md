@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Sanpoil stratigraphy and conditional age anchor
+
+Previous turn made progress: 8dba221 published ten public-byte-verified files. Clean checkout rechecked. Traced Long site 11's citation to Waitt, Long and Stanton (2019), DOI 10.3955/046.092.0503. Crossref resolved its publisher URL; the publisher returned a security-check page, not article text. No bypass attempted and the original table remains unverified.
+
+Retrieved the 2021 Upper Grand Coulee field guide from NSF's public repository. Inspected relevant section descriptions and visually checked Figure 17B-H and Table 1. Added S29, a stratigraphic audit and structured localities, count limits, two reported radiocarbon anchors, chemical-group counts and derived ages. Preserved compound-count, interpolation, erosion, correlation and reworking qualifications. Nineteen plus seven analyses reconcile with 26 from one field sample; age bounds are ordered. No isotope calibration, raw-assay analysis, field visit or independent annuality test was performed.
+
+This supplies more direct regional evidence for testing an uninterrupted single-event interpretation, while leaving the original coordinate issue unresolved. The publication now has fourteen sourced drafts and twenty-nine sources. All twenty objectives remain active; a regional chronology does not establish the proposed worldwide event or historical fabrication.
+
 ## 2026-10-08 - Missoula coordinate diagnostic and reproducibility search
 
 Previous turn made progress: 3ce50b4 published eleven verified public files. Revalidated clean checkout. Inspected three author-associated repository trees, then a separate GeoFlood Missoula setup at a pinned commit. The three referenced raster basenames are absent from that complete tree. Followed the wiki's Zenodo dataset link; metadata retrieval worked after web download failure. HTTP range requests retrieved the complete ZIP directory, parsed all 548 entries, and found no Missoula-named paths. Full archive content and provider checksum were not verified. No global absence claim or third-party contact.

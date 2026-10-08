@@ -1,0 +1,126 @@
+{
+  "source_id": "S29",
+  "case_id": "C008",
+  "status": "SOURCED_DRAFT",
+  "sites": [
+    {
+      "label": "Stop 2.3 Ranger Station",
+      "latitude": 48.0845,
+      "longitude": -118.691,
+      "locator": "p. 275",
+      "datum": null,
+      "position_error_m": null
+    },
+    {
+      "label": "Stop 2.4 shore sections",
+      "latitude": 47.98,
+      "longitude": -118.695,
+      "locator": "p. 276",
+      "datum": null,
+      "position_error_m": null
+    },
+    {
+      "label": "Stop 2.5 Switchback",
+      "latitude": 48.0094,
+      "longitude": -118.7092,
+      "locator": "p. 276",
+      "datum": null,
+      "position_error_m": null
+    },
+    {
+      "label": "Stop 2.5 Arrieta",
+      "latitude": 48.0098,
+      "longitude": -118.7061,
+      "locator": "p. 276",
+      "datum": null,
+      "position_error_m": null
+    }
+  ],
+  "composite_couplet_count": {
+    "low_approximate": 1800,
+    "high_approximate": 2600,
+    "locator": "p. 276 and Figure 17C notes, p. 273",
+    "annual_interpretation": "REPORTED_NOT_INDEPENDENTLY_VALIDATED",
+    "statistical_confidence": null,
+    "includes_interpolated_uncounted_packets": true,
+    "losses_from_erosion_and_fault_truncation_not_restored": true
+  },
+  "tephra_populations": {
+    "locator": "Table 1 p. 277, columns 5a and 5b",
+    "field_sample_count": 1,
+    "analysis_count": 26,
+    "groups": [
+      {
+        "label": "5a",
+        "n": 19,
+        "source_correlation": "Sg",
+        "similarity_coefficient": 0.93
+      },
+      {
+        "label": "5b",
+        "n": 7,
+        "source_correlation": "Similar to set C; possibly reworked material",
+        "similarity_coefficient": 0.84
+      }
+    ],
+    "individual_shard_analyses_retrieved": false,
+    "field_sample_identifier": null
+  },
+  "radiocarbon_reports": [
+    {
+      "lab_id": "W-3141",
+      "material": "charcoal",
+      "raw_age_14C_BP": 12910,
+      "raw_plus_minus_years": 160,
+      "raw_uncertainty_level": null,
+      "reported_cal_ka_younger": 15.0,
+      "reported_cal_ka_older": 15.9,
+      "reported_calendar_confidence": "95 percent",
+      "reported_calibration": "IntCal20",
+      "locator": "p. 277; Figure 17D p. 273",
+      "underlying_source": "Crandell et al. (1981), via Clynne et al. (2008)",
+      "calibration_rerun": false,
+      "role": "Ash age equated with this charcoal age in the guide; conditional anchor, not direct dating of ash glass."
+    },
+    {
+      "lab_id": "USGS-1860",
+      "material": "detrital wood",
+      "raw_age_14C_BP": 14490,
+      "raw_plus_minus_years": 290,
+      "raw_uncertainty_level": null,
+      "reported_cal_ka_younger": 16.9,
+      "reported_cal_ka_older": 18.6,
+      "reported_calendar_confidence": null,
+      "reported_calibration": null,
+      "locator": "Figure 17D p. 273; p. 277",
+      "underlying_source": "Atwater (1986), p. 29",
+      "calibration_rerun": false,
+      "role": "Biological age distinct from inferred deposition."
+    }
+  ],
+  "derived_ages": [
+    {
+      "event": "Last Lake Missoula floods",
+      "younger_cal_ka": 14.9,
+      "older_cal_ka": 15.8,
+      "locator": "p. 277 and Figure 17D",
+      "dependencies": [
+        "W-3141 anchor equated with ash age",
+        "Sg correlation",
+        "Composite couplets interpreted as annual",
+        "Stratigraphic matching"
+      ],
+      "independent_measurement": false
+    },
+    {
+      "event": "Deposition of USGS-1860 wood-bearing diamict",
+      "younger_cal_ka": 15.8,
+      "older_cal_ka": 17.2,
+      "locator": "p. 277 and Figure 17D",
+      "dependencies": [
+        "Tephra anchored composite varve chronology"
+      ],
+      "independent_measurement": false
+    }
+  ]
+}
