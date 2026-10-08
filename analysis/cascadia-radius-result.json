@@ -1,0 +1,21 @@
+{
+  "input_sha256": "e05dbe03f6b9ac3da41881a65f4e7d5217c3574c31c668680a567575af49a02d",
+  "series": [
+    "GF2RTC",
+    "GF2RTB"
+  ],
+  "alignment": "Published year labels; no search over calendar placements",
+  "common_start": 1400,
+  "common_end": 1699,
+  "paired_widths": 300,
+  "raw_pearson_r": 0.5029301759546282,
+  "first_difference_pairs": 299,
+  "first_difference_pearson_r": 0.47367954887916275,
+  "significance_test": null,
+  "limitations": [
+    "Related radii from the same root, not independent trees",
+    "No external reference chronology or absolute date test",
+    "No serial-correlation correction or anatomical reassessment",
+    "Manual transcription has documented corrections; independent audit pending"
+  ]
+}

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Transcription correction and second complete radius
+
+Previous turn made progress: 9426ad1 published eight verified files, but publication-byte verification and structural checks did not detect transcription mistakes. Enlarged 200-dpi reinspection found seven wrong GF2RTC values, including swapped 1618/1619 widths. Corrected each with old/new values and source locators preserved. Earlier visual-check claim did not ensure accuracy; no calendar result had been calculated.
+
+Completed GF2RTB (332 widths, 1368-1699) from enlarged tables on PDF pp. 3-4; total 642 stored widths. Calculated raw and first-difference Pearson correlations against GF2RTC at published alignment, independently checked arithmetic with Python statistics. These are related-root associations without external chronology, significance test or independent scientific review. Broader goal remains active.
+
 ## 2026-10-08 - Complete first root-radius series and bounded reference search
 
 Previous turn made progress: b8d72b6 published seven verified files. Clean checkout rechecked. Transcribed all 30 decadal rows of GF2RTC from S61 PDF p. 3: 300 widths for source-assigned 1400-1699. Visually checked values against the rendered scan and confirmed the terminal decade matches prior extraction. Two other terminal decades retained, giving 320 stored widths; these are related radii, not independent trees. No new scientific dating result claimed.

@@ -1,5 +1,27 @@
 # Cascadia: testing a link between trees and documents
 
+## Correction and within-root comparison, 2026-10-08
+
+**Our previous GF2RTC transcription contained seven wrong values.** Enlarged 200-dpi portions of S61 PDF page 3 exposed the errors. These are our digitization mistakes, not changes in the original measurements. The earlier statement that a visual check had been completed was insufficient assurance of accuracy. Commit 9426ad1 is superseded for these values:
+
+| Source-assigned year | Previous width (µm) | Corrected width (µm) |
+| --- | ---: | ---: |
+| 1461 | 675 | 764 |
+| 1463 | 1092 | 902 |
+| 1586 | 1397 | 1239 |
+| 1602 | 1539 | 1639 |
+| 1618 | 411 | 657 |
+| 1619 | 657 | 411 |
+| 1676 | 556 | 956 |
+
+The [data record](../data/cascadia-width-extract.json) retains old and corrected values and their locators. A renewed enlarged-image check covered the full GF2RTC series. Independent transcription review remains absent. No calendar-dating result was based on the erroneous values.
+
+GF2RTB is now fully transcribed from PDF pages 3–4: 332 widths, source-assigned 1368–1699. Together with corrected GF2RTC and the ten GF2RTA values, the record contains 642 widths. The -9999 markers remain outside measurement arrays.
+
+The executable [within-root comparison](../analysis/cascadia_radius_comparison.py) uses the shared 300 published year labels, 1400–1699. [Results](../analysis/cascadia-radius-result.json) give Pearson r=0.502930 for widths and r=0.473680 for their 299 successive annual differences. These are descriptive associations between related radii. They do not test calendar placement, supply independent tree evidence, or reproduce the article's comparison with Ozette. No significance probability is reported. Both calendars could shift together without changing either correlation.
+
+The next useful dating step remains acquiring the external reference chronology and auditing all contributing radii and trunk measurements, with alternate placements and preprocessing explicitly preserved.
+
 ## Measurement supplement recovered, 2026-10-08
 
 [Jacoby, Bunker and Benson (1997), S60](https://web.njit.edu/~dbunker/publications/Jacoby%20etal%2097%20Geology.pdf), printed pp. 1001–1002, reports 15 disturbed trees, five apparently undisturbed trees and fourteen unclassified trees. Responses vary in direction and timing; the narrowest ring need not date the disturbance. Its killed-cedar comparison searched placements from 1400 to 1740 against an Ozette chronology, reporting r=0.21 over 300 years and t=3.7. Other alignments had slightly higher correlations but shorter overlaps and lower t values. Those comparisons have not been rerun here. The article identifies GSA repository item 9756 as its measurement supplement.
@@ -8,9 +30,9 @@ The [original supplement, S61](https://doi.org/10.1130/9756) was located through
 
 The methods note specifies micron units and decadal layout, with site/tree/core identifiers. It describes within-tree, within-site and between-site crossdating using anatomy as well as widths. Thus these are published, already calendar-assigned measurements, not blind calendar-independent observations.
 
-[Selected transcription and acquisition record](../data/cascadia-width-extract.json) now preserves all 300 published GF2RTC widths (1400–1699) and the 1690s rows of GF2RTB and GF2RTA, with the following printed -9999 marker kept separately. It is not a negative width or an additional 1700 observation. These three related root-radius series must not be counted as three independent trees. Their precise crosswalk to S19 specimen identifiers remains to be verified.
+[Selected transcription and acquisition record](../data/cascadia-width-extract.json) preserves complete GF2RTC and GF2RTB series and the 1690s row of GF2RTA, with the following printed -9999 marker kept separately. It is not a negative width or an additional 1700 observation. These three related root-radius series must not be counted as three independent trees. Their precise crosswalk to S19 specimen identifiers remains to be verified.
 
-The full GF2RTC transcription was checked visually against PDF page 3. Each of its thirty decadal rows contains ten measurements; the last decade matches our earlier extraction. These are transcription checks, not dating verification. There are now 320 stored widths across one complete and two partial related series.
+The full GF2RTC transcription was checked visually against PDF page 3. Each of its thirty decadal rows contains ten measurements; the last decade matches our earlier extraction. These are transcription checks, not dating verification. That earlier stage contained 320 stored widths; the correction and extension above supersede it.
 
 A [bounded reference-data search](../data/cascadia-reference-search.json) retrieved the first three header lines from 92 Washington chronology files in NOAA’s public USA chronology directory (filenames matching `wa` + digits + `.crn`). None contained Ozette, Jozsa or Parker, case-insensitively. This excludes neither suffix variants nor renamed deposits, other directories or alternate archives. No substitute reference was selected merely because it is geographically nearby.
 
