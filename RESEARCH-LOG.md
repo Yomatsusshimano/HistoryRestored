@@ -29,4 +29,10 @@ Documented catastrophic processes deserve inclusion. Their existence does not es
 
 ### Next actions
 
-Resolve public destination. Retrieve original street-grade/areaway drawings, camel dating methods and supplement, original Cascadia report/sample data, and map scans/copy lineages. Select additional regions and source-specific fossil cases. Freeze a candidate event window only after dated contextual evidence is available, then test held-out sites.
+Retrieve original street-grade/areaway drawings, camel dating methods and supplement, original Cascadia report/sample data, and map scans/copy lineages. Select additional regions and source-specific fossil cases. Freeze a candidate event window only after dated contextual evidence is available, then test held-out sites.
+
+### First public release verified
+
+Commit 4a0b8ed4ef32f2df8cb50ad933a03696b7791db9 was pushed to main. Public unauthenticated retrieval of README.md, STANDARDS.md, INVENTORY.md, both data registries and the patent PDF matched their committed Git blob bytes. A first comparison to working-tree text differed because Windows/Git line endings differ; comparison to the committed bytes passed. No publication success was inferred from that failed comparison.
+
+Record integrity passed for eight cases and twelve sources. Staged whitespace checks passed after removing extra terminal blank lines. A local snapshot was created and its file hashes verified; snapshots are excluded from Git, while public commits preserve release history. These execution results concern files and publication, not scientific validation.
