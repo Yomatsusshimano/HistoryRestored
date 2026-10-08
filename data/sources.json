@@ -1169,6 +1169,36 @@
       "sha256": "bd85a64d268c735425907dfb7289dc880b1309ec859eaa25fb9cdfe7ddb73f82",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S69",
+      "title": "Tree-ring dating of the Bonneville landslide to late 1446 or early 1447 CE",
+      "url": "https://gsa.confex.com/gsa/2021AM/webprogram/Paper369596.html",
+      "creator": "Patrick Pringle, Nathaniel Reynolds, Jim O’Connor, Robert Schuster, Russ Weaver, Bryan Black",
+      "publication_date": "2021-10-11",
+      "source_type": "Conference abstract",
+      "access": "ABSTRACT",
+      "inspected": "Complete conference abstract.",
+      "limitations": "Provisional result; no underlying external alignments, correlations or archive identifiers supplied.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S70",
+      "title": "Brubaker - Lava Beds - PSME - ITRDB WA027",
+      "url": "https://www.ncei.noaa.gov/access/paleo-search/study/2900",
+      "creator": "L. B. Brubaker; NOAA NCEI archive",
+      "publication_date": "2002-04-26 (contribution metadata)",
+      "source_type": "Tree-ring archive dataset",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "NOAA measurement-template metadata and data structure; Tucson raw file and chronology file retrieved.",
+      "limitations": "Candidate reference only; identity with the abstract’s Big Lava Beds chronology unconfirmed. Not independently dated or standardized here.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

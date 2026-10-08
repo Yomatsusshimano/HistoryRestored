@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Bonneville external chronology candidate
+
+Previous turn made progress: c15253d and 08b2100 published seven byte-verified changed files. Clean checkout confirmed. Read the 2021 GSA abstract; its provisional 1446/1447 date adds named external references rather than deriving the year solely from radiocarbon. Reused prior NOAA header inventory to locate WA027 Lava Beds, then downloaded chronology, raw Tucson measurements and NOAA template with metadata. Preserved hashes, 30 measurement-series columns, six nonmissing 1446 values, and differing raw/chronology end years. Exact match to the abstract’s reference remains unconfirmed; no new crossdating result. Nineteen drafts, seventy sources.
+
 ## 2026-10-08 - Bonneville earlier dates and treatment history
 
 Previous turn made progress: 68209ab published seven byte-verified files. Clean checkout confirmed. Visually inspected S68 pp. 68-69 and transcribed nine earlier determinations with lab IDs and distinct depositional/sample contexts. Kept possible PEG contamination qualified, not demonstrated. Recorded internal 400 +/-70 versus 410 +/-50 retelling discrepancy without choosing an unsupported correction. Original reports and treatment records remain uninspected. Search also located a 2021 conference abstract claiming provisional finer tree-ring placement; it remains a lead for the next audit, not adopted evidence.

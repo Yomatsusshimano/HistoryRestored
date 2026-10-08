@@ -2,6 +2,12 @@
 
 2026-10-08. C019, sourced draft; no independent review.
 
+## External calendar placement
+
+[Pringle and colleagues' 2021 abstract, S69](https://gsa.confex.com/gsa/2021AM/webprogram/Paper369596.html) reports a provisional final ring in 1446 and death during the following dormant season. It adds external chronology comparisons to the relative three-tree alignment, including Big Lava Beds, a nearby old tree, two unpublished Oregon chronologies and Electron Mudflow trees. These are reported comparisons, not newly reproduced results.
+
+[NOAA study 2900, S70](https://www.ncei.noaa.gov/access/paleo-search/study/2900) supplies a candidate: Brubaker's WA027 Lava Beds. Three files were downloaded and hashed in [the acquisition record](../data/bonneville-reference-candidate.json). The measurement template spans 1397–1976 with 30 series columns; the chronology header ends in 1975. Six series have values for 1446; series must not be counted as independent trees. The abstract supplies no archive identifier, so exact reference identity remains unconfirmed. This is a concrete route toward replication, not confirmation of 1446.
+
 [Reynolds and colleagues (2022), S68](https://doi.org/10.1017/qua.2022.7) connect a landslide-buried tree with two upstream drowned trees. Their nine wood determinations and ring offsets are transcribed in [the sample ledger](../data/bonneville-dates.json), from visually inspected Table 1, p. 70. Methods and results on p. 78 were also visually checked.
 
 Relative growth-pattern matching supports their same-death-year interpretation. Absolute placement uses IntCal20 and OxCal, moving calibrated sample distributions forward to the last growth ring before combining them. Perham Creek requires 25 inferred missing outer rings. The reported result is 1421–1455 CE at three sigma; nine assays do not constitute nine independent events.

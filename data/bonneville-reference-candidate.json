@@ -1,0 +1,64 @@
+{
+  "case_id": "C019",
+  "source_ids": [
+    "S69",
+    "S70"
+  ],
+  "date": "2026-10-08",
+  "candidate": "WA027 Lava Beds",
+  "identity_with_abstract_reference": "UNCONFIRMED",
+  "files": [
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wa027.crn",
+      "bytes": 5166,
+      "sha256": "2c873ecac5a0f165d9155e1f1bb9f90314b53c32835ad5fd8b1d32889f5f0523"
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa027.rwl",
+      "bytes": 101554,
+      "sha256": "23b416b3c430b752782ad345fd41fd2dc9c3e5a465f06861a9b4459c2604a7c4"
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa027-rwl-noaa.txt",
+      "bytes": 90959,
+      "sha256": "24e989136dcc7deb2128a994678cbe25729b2d582ab7708145a13a389d657b08"
+    }
+  ],
+  "header_chronology_years": [
+    1397,
+    1975
+  ],
+  "raw_template_years": [
+    1397,
+    1976
+  ],
+  "measurement_series_count": 30,
+  "series_count_is_not_independent_tree_count": true,
+  "raw_template_1446": {
+    "731011_raw": 0.98,
+    "731012_raw": 0.94,
+    "731091_raw": 0.54,
+    "731101_raw": 0.92,
+    "731102_raw": 1.08,
+    "731151_raw": 1.32
+  },
+  "raw_template_units": "millimetres",
+  "abstract_result": {
+    "final_ring_CE": 1446,
+    "event_window": "late 1446 or early 1447, dormancy",
+    "status": "provisional",
+    "additional_references": [
+      "Nearby old-growth Douglas-fir",
+      "Soapgrass Mountain, unpublished",
+      "Canyon Creek, unpublished",
+      "Electron Mudflow chronology, 14 trees, reported late 1507"
+    ]
+  },
+  "crossdating_reproduced": false,
+  "limits": [
+    "Victim-tree series still unretrieved",
+    "Reference name match alone does not establish exact data version",
+    "Different chronology and measurement end years retained without assuming error",
+    "Several references may share calibration or crossdating dependencies"
+  ]
+}
