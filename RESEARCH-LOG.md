@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Ozette 1700 attribution audit
+
+Previous turn made progress: bda8d9e published seven byte-verified files. Clean checkout confirmed. NTIS report-detail retrieval failed; USGS 1988 report returned 403, so neither full text is claimed inspected. Retrieved Wessen project-history body and WSU 2009 article HTML (ordinary shell fetch succeeded after web fetch failed). Their earthquake attributions differ in qualification: WSU reports a likely exact date, Wessen asserts the year. Neither inspected account supplies sample-level dating linkage. Added S66/S67 and attribution ledger; do not count repeated dates as independent corroboration or infer historical fabrication from differences in wording. Eighteen drafts and sixty-seven sources; original assay and field-report audit remains pending.
+
 ## 2026-10-08 - Ozette report chain and constructed floors
 
 Previous turn made progress: d2dddde published seven byte-verified files. Retrieved WSU 1976 date list; ten-page extracted-text search found no Ozette or target assay identifiers. Its methods are not transferred to unlisted samples. Retrieved NPS 1979 recovery report and visually inspected p. 60 (PDF 66): Phase XI report is PB81 102196, describing 1977 work and beach-sand floor construction. Full excavation report remains uninspected; rounded abstract ages are not matched to assays. Added S64/S65 and bounded acquisition ledger. No new event date, independent review or global correlation established.

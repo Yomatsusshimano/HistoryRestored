@@ -1124,6 +1124,36 @@
       "sha256": "9dafb9498c4765dcbca5a878e401f11c41a108c04a6f84aa2b13206da9a9d666",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S66",
+      "title": "History of the Ozette Archaeological Project",
+      "url": "https://www.northwestanthropology.com/history-ozette-archaeological-project",
+      "creator": "Gary C. Wessen; Journal of Northwest Anthropology",
+      "publication_date": null,
+      "source_type": "Retrospective project history",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Project-history body, including explicit 1700 earthquake attribution and bibliography identifying Kirk 2015.",
+      "limitations": "Not an assay publication or independent event dating; sampled materials and dating calculation for the slide are not supplied in the inspected account.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S67",
+      "title": "The Home of My Family: Ozette, the Makahs, and Doc Daugherty",
+      "url": "https://magazine.wsu.edu/2009/05/01/the-home-of-my-family-ozette-the-makahs-and-doc-daugherty/",
+      "creator": "Tim Steury; Washington State Magazine",
+      "publication_date": "2009-05-01",
+      "source_type": "University magazine reporting and interviews",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Downloaded HTML; selected passages on 1966-1967 trenches, radiocarbon summary, and qualified January 26, 1700 attribution.",
+      "limitations": "Not an assay publication or independent event dating; sampled materials and dating calculation for the slide are not supplied in the inspected account.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

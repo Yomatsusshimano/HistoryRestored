@@ -1052,6 +1052,16 @@
           "source_id": "S64",
           "locator": "Printed p. 60 / PDF p. 66",
           "statement": "Phase XI abstract identifies report PB81 102196 and reports beach-sand floor construction; full report and sediment methods not inspected."
+        },
+        {
+          "source_id": "S66",
+          "locator": "Paragraph on completed excavation and recovered material",
+          "statement": "Retrospective project history assigns the clay slide to an earthquake in 1700; no sample-level dating argument supplied on this page."
+        },
+        {
+          "source_id": "S67",
+          "locator": "Paragraph preceding Gleeson beach interview",
+          "statement": "2009 university report presents a January 26, 1700 earthquake trigger as likely from geological and historical evidence; sampled objects and calculation are not provided."
         }
       ],
       "physical_evidence": "Reported buried wooden structures, displaced planks, artifacts and alternating cultural/slide units; no field inspection.",
@@ -1079,7 +1089,7 @@
         "Original oral-history recording and provenance",
         "Independent review"
       ],
-      "dependence": "Nomination synthesizes excavation reports; museum summarizes the same site. These are not independent field replications."
+      "dependence": "Nomination synthesizes excavation reports; museum summarizes the same site. These are not independent field replications. Later 1700 attributions are separate reported interpretations, not independent dates; direct textual dependence between these accounts is unestablished."
     }
   ]
 }

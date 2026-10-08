@@ -1,0 +1,27 @@
+{
+  "case_id": "C018",
+  "status": "SOURCED_DRAFT",
+  "date": "2026-10-08",
+  "entries": [
+    {
+      "source_id": "S67",
+      "reported_event_date": "1700-01-26",
+      "source_modality": "likely",
+      "mechanism": "earthquake-triggered slide",
+      "sample_ids_supplied": false
+    },
+    {
+      "source_id": "S66",
+      "reported_event_year": 1700,
+      "source_modality": "asserted",
+      "mechanism": "earthquake-driven clay slide",
+      "sample_ids_supplied": false
+    }
+  ],
+  "inference": "These statements document attribution history, not two independent measurements. No date adopted or rejected on this basis.",
+  "unresolved": [
+    "Original dating argument connecting a particular Ozette slide horizon to Cascadia 1700",
+    "Whether earlier BP summaries date timber growth, occupation or burial",
+    "Dependence of later accounts on shared geological and archaeological sources"
+  ]
+}

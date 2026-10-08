@@ -565,6 +565,8 @@ Place: Ozette, Olympic Peninsula, Washington. Status: SOURCED_DRAFT.
 - Excavation-era description separates slides, occupation deposits and three radiocarbon sample contexts; see research/OZETTE-BURIAL.md. [S62](https://npshistory.com/publications/olym/nr-ozette-indian-village-as.pdf). Locator: PDF pp. 12-14; item 7 continuation pp. 3-5. Access: SCAN_INSPECTED. Limit: Not original trench notebooks or laboratory certificates; source redactions preserved; no field or complete-packet inspection.
 - Makah Museum relates community oral history, archaeological collaboration and tribal stewardship of the recovered collection. [S63](https://makahmuseum.com/about/ozette-archaeological-site/). Locator: Ozette Archaeological Site article body. Access: FULL_TEXT_PORTION. Limit: Retrospective institutional summary; original oral-history recording and assay records not supplied. Stale operational notices not used as current visiting guidance.
 - Phase XI abstract identifies report PB81 102196 and reports beach-sand floor construction; full report and sediment methods not inspected. [S64](https://www.nps.gov/orgs/1187/upload/1979a_508-2.pdf). Locator: Printed p. 60 / PDF p. 66. Access: SCAN_INSPECTED. Limit: Inspection is of a reproduced abstract, not the full Phase XI report or sediment analysis.
+- Retrospective project history assigns the clay slide to an earthquake in 1700; no sample-level dating argument supplied on this page. [S66](https://www.northwestanthropology.com/history-ozette-archaeological-project). Locator: Paragraph on completed excavation and recovered material. Access: FULL_TEXT_PORTION. Limit: Not an assay publication or independent event dating; sampled materials and dating calculation for the slide are not supplied in the inspected account.
+- 2009 university report presents a January 26, 1700 earthquake trigger as likely from geological and historical evidence; sampled objects and calculation are not provided. [S67](https://magazine.wsu.edu/2009/05/01/the-home-of-my-family-ozette-the-makahs-and-doc-daugherty/). Locator: Paragraph preceding Gleeson beach interview. Access: FULL_TEXT_PORTION. Limit: Not an assay publication or independent event dating; sampled materials and dating calculation for the slide are not supplied in the inspected account.
 
 **Physical evidence:** Reported buried wooden structures, displaced planks, artifacts and alternating cultural/slide units; no field inspection.
 
@@ -578,7 +580,7 @@ Place: Ozette, Olympic Peninsula, Washington. Status: SOURCED_DRAFT.
 
 **Next test:** Retrieve Phase XI report PB81 102196 and lab records for WSU 1777, 1965 and 1779; the 1976 published date-list text search did not recover these assays.
 
-**Dependence:** Nomination synthesizes excavation reports; museum summarizes the same site. These are not independent field replications.
+**Dependence:** Nomination synthesizes excavation reports; museum summarizes the same site. These are not independent field replications. Later 1700 attributions are separate reported interpretations, not independent dates; direct textual dependence between these accounts is unestablished.
 
 **Alternatives:** Repeated local slope failures with reoccupation; A proposed regional catastrophe affecting a particular horizon, requiring independent dating and correlation
 

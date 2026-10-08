@@ -22,6 +22,12 @@ The [Makah Museum's account, S63](https://makahmuseum.com/about/ozette-archaeolo
 
 ## Next discriminating tests
 
+### The later 1700 attribution
+
+[Tim Steury's 2009 reporting, S67](https://magazine.wsu.edu/2009/05/01/the-home-of-my-family-ozette-the-makahs-and-doc-daugherty/) describes a January 26, 1700 earthquake trigger as likely, referring generally to geological and historical evidence. [Gary Wessen's project history, S66](https://www.northwestanthropology.com/history-ozette-archaeological-project) states the 1700 attribution without that qualification. Neither inspected account provides the sample-to-slide dating calculation. Their date statements are recorded in [a separate ledger](../data/ozette-event-attributions.json). Direct dependence between these texts has not been established; both concern the same excavation and cannot be treated as independent physical measurements.
+
+These are leads to the original argument, not grounds to accept or reject the event date. Earlier BP summaries may date wood growth or occupation rather than burial, so apparent disagreement with 1700 cannot be evaluated by subtracting those ages from 1950. The needed test links a named dated object to a specified slide horizon, with calibration, residual age and redeposition assessed.
+
 The [NPS recovery-program abstract, S64](https://www.nps.gov/orgs/1187/upload/1979a_508-2.pdf), printed p. 60 (PDF p. 66), identifies Mauger's 1979 Phase XI report, edited by Daugherty, as **NTIS PB81 102196**, describing 1977 excavations. This page was visually checked; the full excavation report remains uninspected. It assigns rounded ages of 400 BP to Houses 2 and 5 and 800 BP to a deeper cultural deposit. These are not additional identified assays and cannot yet be cross-matched to the nomination's determinations. It reports beach sand used to construct floors. Our inference: sand in a house context requires discrimination between intentional placement and natural deposition; this abstract alone does not resolve the sedimentary mechanism of individual layers.
 
 The [1976 WSU date list, S65](https://doi.org/10.1017/S0033822200002435) was downloaded and all ten pages searched as extracted text. Neither Ozette nor WSU 1777, 1779 or 1965 was found. This is a bounded search, not evidence that the assays do not exist. The list's methods cannot fill the unknown conventions of absent assays. Search scope and report identifiers are retained in [the acquisition ledger](../data/ozette-report-search.json).
