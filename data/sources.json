@@ -2170,6 +2170,21 @@
       "downloaded_pdf_sha256": "35c1a4f806281aa85df6c1cc20ed77625ffdc13501ada9afac4748720b2b8a40",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S136",
+      "title": "Supplement to Bierman et al. (2024), Camp Century subglacial material",
+      "creator": "Paul R. Bierman et al.",
+      "publication_date": "2024-09-05",
+      "url": "https://tc.copernicus.org/articles/18/4029/2024/tc-18-4029-2024-supplement.pdf",
+      "source_type": "Original supplementary tables",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Tables S5 and S9, PDF pp.6 and 10, visually inspected.",
+      "limitations": "Same study as S135, not independent evidence. Original vectors and reconstruction photos unreviewed.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "a0a8b8f68a1f7e808b257c6538f7389f6e848ab7b45d01b8b71daa61ce113be4",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

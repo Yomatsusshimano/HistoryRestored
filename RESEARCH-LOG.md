@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camp Century supplement cross-check
+
+Previous turn made progress: a986443 published seven verified files. Retrieved and visually inspected supplementary S5/S9, adding S136. Original target remains unresolved but its magnetic-data gap is now explicit; additional sample-flag differences retained. No vector or date altered. Original photographs and raw orientation records remain required. Full goal remains active.
+
 ## 2026-10-08 - Camp Century handling record
 
 Previous turn made progress: d8aed88 published twelve verified files and a rendered locality map. Added S135 and segment-level handling ledger after original table inspection. Preserved text/table flag difference without assigning blame or correcting dates. Original reconstruction and aliquot linkage remain pending. Full goal remains active.

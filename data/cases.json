@@ -961,6 +961,11 @@
           "source_id": "S135",
           "locator": "Sections 3.3,4.1; Table 5",
           "statement": "Handling study documents missing, thawed and inverted segments; reported orientation corrections require original-record verification."
+        },
+        {
+          "source_id": "S136",
+          "locator": "Tables S5 and S9",
+          "statement": "1063-7 has no tabulated magnetic-direction measurements; inversion flags differ across source components and remain unreconciled."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",

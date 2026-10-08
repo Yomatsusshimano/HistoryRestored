@@ -23,5 +23,29 @@
   "table5_inversion_flag_for_1063_7": null,
   "table5_1063_7_entry": "Prior pilot sampling only",
   "null_meaning": "Not specified in that table; not a negative observation",
-  "independent_reconstruction": false
+  "independent_reconstruction": false,
+  "supplement_audit": {
+    "source_id": "S136",
+    "locator": "S5 p.6; S9 p.10",
+    "1063-7": {
+      "S5_magnetic_values": null,
+      "S9_inversion_statement": null,
+      "S9_dimensions": "Unavailable after pilot cutting"
+    },
+    "S5_inversion_footnote_d": [
+      "1060-C3",
+      "1061-D3",
+      "1062-2",
+      "1062-3"
+    ],
+    "S9_explicit_inversion_statements": [
+      "1060-C4",
+      "1061-D3",
+      "1062-2",
+      "1062-3",
+      "1063-4"
+    ],
+    "corrected_orientation_adopted": null,
+    "limits": "Flag absence is not upright orientation. No missing measurement is zero."
+  }
 }

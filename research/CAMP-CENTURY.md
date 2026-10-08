@@ -48,3 +48,11 @@ S134, the [NSF Ice Core Facility catalog](https://icecores.org/inventory/camp-ce
 For our interpretation, storage orientation, original depositional order and event age are distinct. A stored cylinder turned upside down does not by itself redetermine its age, prove geological overturning or invalidate other segments. Conversely, a reported correction cannot substitute for checking the photographs, sample axes and resulting measurements. The 1063-7 discrepancy should be reconciled before using its directional evidence.
 
 This publication narrows the earlier custody gap but does not close the chain of handling. Next inspect the segment-level supplement and original photographs, and connect the dated interior aliquots to their precise parent segments. No missing segment is treated as an absent geological layer, and no archive alteration establishes intentional historical fabrication.
+
+## Supplement follow-up: scope of the orientation issue
+
+[S136, Tables S5 and S9](https://tc.copernicus.org/articles/18/4029/2024/tc-18-4029-2024-supplement.pdf), PDF pp.6 and 10, were visually inspected. S5 supplies no magnetic-direction values for 1063-7; S9 lacks an inversion statement and says its dimensions could not be measured after pilot cutting. Thus these tables do not resolve the main-text statement, but they prevent us from assigning this sample a magnetic result that is not reported.
+
+S9 explicitly calls 1060-C4 inverted, whereas the main text and S5 footnote flag 1060-C3. S5 also lacks an inversion footnote on 1063-4, despite main-text/Table 5 reporting. The ledger keeps each source component separately. Missing flags are not assertions of upright orientation.
+
+The next discriminating evidence is the original segment photographs, sample-axis records and uncorrected magnetic vectors. Until those are reconciled, do not silently swap sample identities, flip published values again, infer polarity boundaries, or convert these metadata differences into age corrections. These tables are from the same study and provide internal cross-checks, not independent validation.
