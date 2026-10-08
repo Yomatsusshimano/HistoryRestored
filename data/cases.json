@@ -506,6 +506,51 @@
         "Exact petition date"
       ],
       "dependence": "One archival packet. Same city as C001/C002 but separate site and process; no confirmation of Pioneer Square fill or common event follows."
+    },
+    {
+      "id": "C011",
+      "title": "Haitian sloth bone chronology",
+      "category": "fossils and wildlife chronology",
+      "place": "Haiti and Ile de la Tortue; sample-specific localities in dating records",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S22",
+          "locator": "Table 4 and caption; Figure 2 caption",
+          "statement": "Nine specimen-linked AMS bone determinations extracted, retaining exact ages, a lower bound and split calendar intervals separately."
+        }
+      ],
+      "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
+      "surviving_documents": "Research article HTML; structured extraction in data/dating-records.json and audit in research/SLOTH-CHRONOLOGY.md.",
+      "source_interpretation": "The paper compares regional survival chronologies; its broader causal account has not been independently audited here.",
+      "investigation_inference": "Direct biological ages can constrain a common-death claim, but do not alone date a later redeposition episode or establish extinction.",
+      "competing_explanations": [
+        "Different biological ages and local depositional histories",
+        "Later reworking of older remains, if independently demonstrated",
+        "A common mortality episode, requiring an explicit fit and age-quality audit"
+      ],
+      "counterevidence": "No shared event horizon or synchronous mortality is established by this extraction. Unknown extinction dates do not make every dated individual contemporaneous.",
+      "next_test": "Audit preparation, quality indicators, field context and later redating; extend geographic coverage and specify calibration before event fitting.",
+      "chronology": {
+        "reported": "Sample-level radiocarbon results and separately published calendar intervals",
+        "dated_object": "Bone samples",
+        "method": "AMS radiocarbon as reported; not independently rerun",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "Radiocarbon BP and calibrated BP kept distinct",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Preparation and quality audit",
+        "Original laboratory reports",
+        "Specimen-level coordinates",
+        "Depositional chronology",
+        "Later literature and redating audit",
+        "Independent review"
+      ],
+      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations."
     }
   ]
 }

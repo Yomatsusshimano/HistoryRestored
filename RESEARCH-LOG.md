@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Haitian sloth sample chronology
+
+Previous goal turn made progress: Seattle audit 546f6c6 was published and all seven public files verified. Rechecked a clean worktree. Searched for original sloth radiocarbon research and read the 2005 paper's HTML Table 4, captions and chronology discussion. Added C011/S22 and all nine Table 4 rows, preserving split calendar intervals, an open lower bound, missing calendar values and unknown raw-error confidence. Supplement retrieval returned a browser-check page; no attempt was made to bypass it.
+
+The audit separates biological death, later deposition, extinction and range reconstruction. It does not infer current archaeological consensus from a 2005 paper, claim independent laboratory validation, or fit a global event from a selected table. Eleven cases and twenty-two source records now exist. Preparation, later redating, calibration and physical context remain the next discriminating evidence.
+
 ## 2026-10-08 - Seattle resident petition and original grade report
 
 The immediately preceding model-switch acknowledgment made no research progress. Revalidated the clean checkout at 0174b79, retained all twenty outcomes, and resumed the already located Seattle file. The earlier research continuation had found new source evidence; this turn checked additional facsimiles and records the substantive result.

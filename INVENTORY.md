@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-10 sourced drafts; 0 independent scientific reviews.
+11 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -17,6 +17,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C008 | Missoula flood sequence |
 | C009 | Yukon mammoth and horse sedimentary DNA |
 | C010 | John Graf: Fifth and Terrace street cuts and alleged slide |
+| C011 | Haitian sloth bone chronology |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -310,3 +311,31 @@ Place: Northeast corner of Fifth and Terrace, lots 5 and 8, block 36, Boren's Ad
 **Chronology:** {"reported": "Letters dated November 21 and December 5, 1890; petition refers to October 28 without a full date", "dated_object": "Documents, not sediment or directly dated slope movement", "method": "Original letter dates visually read", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
 **Missing:** Underlying ordinances and survey books; Vertical datum benchmark; Physical sections and deposit dates; Verified building dates; Final disposition; Exact petition date
+
+## C011: Haitian sloth bone chronology
+
+Place: Haiti and Ile de la Tortue; sample-specific localities in dating records. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Nine specimen-linked AMS bone determinations extracted, retaining exact ages, a lower bound and split calendar intervals separately. [S22](https://pmc.ncbi.nlm.nih.gov/articles/PMC1187974/). Locator: Table 4 and caption; Figure 2 caption. Access: FULL_TEXT_PORTION. Limit: No laboratory worksheets, specimens, preparation audit, supplementary text or recalibration. Supplement link returned browser check. Historical paper, not a current literature consensus review.
+
+**Physical evidence:** Published biological sample measurements; no specimens or field sections inspected here.
+
+**Surviving documents:** Research article HTML; structured extraction in data/dating-records.json and audit in research/SLOTH-CHRONOLOGY.md.
+
+**Source interpretation:** The paper compares regional survival chronologies; its broader causal account has not been independently audited here.
+
+**Investigation inference:** Direct biological ages can constrain a common-death claim, but do not alone date a later redeposition episode or establish extinction.
+
+**Counterevidence:** No shared event horizon or synchronous mortality is established by this extraction. Unknown extinction dates do not make every dated individual contemporaneous.
+
+**Next test:** Audit preparation, quality indicators, field context and later redating; extend geographic coverage and specify calibration before event fitting.
+
+**Dependence:** One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations.
+
+**Alternatives:** Different biological ages and local depositional histories; Later reworking of older remains, if independently demonstrated; A common mortality episode, requiring an explicit fit and age-quality audit
+
+**Chronology:** {"reported": "Sample-level radiocarbon results and separately published calendar intervals", "dated_object": "Bone samples", "method": "AMS radiocarbon as reported; not independently rerun", "raw_date": null, "uncertainty": null, "timescale": "Radiocarbon BP and calibrated BP kept distinct", "event_association": "UNTESTED"}
+
+**Missing:** Preparation and quality audit; Original laboratory reports; Specimen-level coordinates; Depositional chronology; Later literature and redating audit; Independent review

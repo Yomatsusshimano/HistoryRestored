@@ -12,7 +12,7 @@
 | Arctic camels | Tables now audited in C003; resolve exposure/burial history and source discrepancies; exact specimen coordinates remain unavailable |
 | Horses | Site-specific fossil/ancient-DNA reports with specimen dates and transport/reworking checks |
 | Mammoths | Distinguish mainland and island populations, direct dates, and local extinction histories |
-| Sloths | Separate taxa, regions, fossil strata, and directly dated remains |
+| Sloths | C011 extracts nine Haitian bone dates; audit preparation and later redating, extend continental/island coverage and depositional context |
 | Muskoxen | Specimen and genetic distribution histories with locality/date metadata |
 | Predators | Specify species; examine co-occurrence, trophic relationships, and age overlap |
 | Fossil plants | Identify taxa and whether wood/pollen/leaves are in-place, transported, or reworked |

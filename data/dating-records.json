@@ -129,6 +129,272 @@
       "uncertainty_level": "2 sigma as reported; not hard bounds",
       "sample_taxa_independently_checked": false,
       "use": "chronology audit only; no sample-specific taxon confirmation claimed"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58439",
+      "field_id": "AA-58439",
+      "museum_catalog_id": "UF 170123",
+      "taxon_as_published": "Neocnus comes",
+      "site": "Trouing Ismays",
+      "coordinates": null,
+      "elevation_m_as_published": 970,
+      "elevation_datum": null,
+      "dated_material": "bone; Right humerus, left ulna",
+      "radiocarbon_age_BP": 4391,
+      "radiocarbon_error_plus_minus": 42,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": null,
+      "lower_bound_operator": null,
+      "published_cal_BP_intervals_young_old": [
+        [
+          5180,
+          5260
+        ],
+        [
+          4840,
+          5060
+        ]
+      ],
+      "published_cal_confidence_percent": 95,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58430",
+      "field_id": "AA-58430",
+      "museum_catalog_id": "UF 170210",
+      "taxon_as_published": "Neocnus comes",
+      "site": "Trouing Deron 1",
+      "coordinates": null,
+      "elevation_m_as_published": 1000,
+      "elevation_datum": null,
+      "dated_material": "bone; Right pelvis",
+      "radiocarbon_age_BP": 4486,
+      "radiocarbon_error_plus_minus": 39,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": null,
+      "lower_bound_operator": null,
+      "published_cal_BP_intervals_young_old": [
+        [
+          5030,
+          5300
+        ],
+        [
+          4970,
+          5020
+        ]
+      ],
+      "published_cal_confidence_percent": 95,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58435",
+      "field_id": "AA-58435",
+      "museum_catalog_id": "UF 170429",
+      "taxon_as_published": "Neocnus comes",
+      "site": "Trouing Attie",
+      "coordinates": null,
+      "elevation_m_as_published": 1770,
+      "elevation_datum": null,
+      "dated_material": "bone; Right and left tibia",
+      "radiocarbon_age_BP": 6161,
+      "radiocarbon_error_plus_minus": 45,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": null,
+      "lower_bound_operator": null,
+      "published_cal_BP_intervals_young_old": [
+        [
+          6900,
+          7210
+        ]
+      ],
+      "published_cal_confidence_percent": 95,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58432",
+      "field_id": "AA-58432",
+      "museum_catalog_id": "UF 170308",
+      "taxon_as_published": "Neocnus comes",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "elevation_m_as_published": 1275,
+      "elevation_datum": null,
+      "dated_material": "bone; Left tibia",
+      "radiocarbon_age_BP": 6875,
+      "radiocarbon_error_plus_minus": 47,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": null,
+      "lower_bound_operator": null,
+      "published_cal_BP_intervals_young_old": [
+        [
+          7610,
+          7790
+        ]
+      ],
+      "published_cal_confidence_percent": 95,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58433",
+      "field_id": "AA-58433",
+      "museum_catalog_id": "UF 170311",
+      "taxon_as_published": "Neocnus comes",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "elevation_m_as_published": 1275,
+      "elevation_datum": null,
+      "dated_material": "bone; Right tibia",
+      "radiocarbon_age_BP": 7411,
+      "radiocarbon_error_plus_minus": 51,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": null,
+      "lower_bound_operator": null,
+      "published_cal_BP_intervals_young_old": [
+        [
+          8150,
+          8350
+        ],
+        [
+          8110,
+          8140
+        ],
+        [
+          8040,
+          8090
+        ]
+      ],
+      "published_cal_confidence_percent": 95,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58431",
+      "field_id": "AA-58431",
+      "museum_catalog_id": "UF 170046",
+      "taxon_as_published": "Neocnus comes",
+      "site": "Trouing Jeremie 5",
+      "coordinates": null,
+      "elevation_m_as_published": 1275,
+      "elevation_datum": null,
+      "dated_material": "bone; Right radius, right ulna",
+      "radiocarbon_age_BP": 8326,
+      "radiocarbon_error_plus_minus": 57,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": null,
+      "lower_bound_operator": null,
+      "published_cal_BP_intervals_young_old": [
+        [
+          9240,
+          9490
+        ],
+        [
+          9190,
+          9220
+        ],
+        [
+          9130,
+          9180
+        ]
+      ],
+      "published_cal_confidence_percent": 95,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58434",
+      "field_id": "AA-58434",
+      "museum_catalog_id": "UF 75469",
+      "taxon_as_published": "Neocnus dousman",
+      "site": "Trouing Marassa/Trujin Bridge",
+      "coordinates": null,
+      "elevation_m_as_published": 1875,
+      "elevation_datum": null,
+      "dated_material": "bone; Right tibia",
+      "radiocarbon_age_BP": 9897,
+      "radiocarbon_error_plus_minus": 65,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": null,
+      "lower_bound_operator": null,
+      "published_cal_BP_intervals_young_old": [
+        [
+          11170,
+          11560
+        ]
+      ],
+      "published_cal_confidence_percent": 95,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58436",
+      "field_id": "AA-58436",
+      "museum_catalog_id": "UF 169942",
+      "taxon_as_published": "Parocnus serus",
+      "site": "Trouing Gallery, Ile de la Tortue",
+      "coordinates": null,
+      "elevation_m_as_published": 40,
+      "elevation_datum": null,
+      "dated_material": "bone; Right femur",
+      "radiocarbon_age_BP": null,
+      "radiocarbon_error_plus_minus": null,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": 14200,
+      "lower_bound_operator": ">",
+      "published_cal_BP_intervals_young_old": null,
+      "published_cal_confidence_percent": null,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
+    },
+    {
+      "case_id": "C011",
+      "source_id": "S22",
+      "locator": "Table 4, row AA-58438",
+      "field_id": "AA-58438",
+      "museum_catalog_id": "UF 170195",
+      "taxon_as_published": "Neocnus comes",
+      "site": "Trouing de la Scierie",
+      "coordinates": null,
+      "elevation_m_as_published": 1815,
+      "elevation_datum": null,
+      "dated_material": "bone; Left tibia",
+      "radiocarbon_age_BP": 27720,
+      "radiocarbon_error_plus_minus": 560,
+      "radiocarbon_error_confidence": null,
+      "radiocarbon_lower_bound_BP": null,
+      "lower_bound_operator": null,
+      "published_cal_BP_intervals_young_old": null,
+      "published_cal_confidence_percent": null,
+      "calibration_program_as_reported": "OxCal 3.9",
+      "recalibrated_here": false,
+      "event_association": "UNTESTED"
     }
   ],
   "aggregates": [

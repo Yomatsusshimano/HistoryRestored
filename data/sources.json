@@ -372,6 +372,21 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S22",
+      "title": "Asynchronous extinction of late Quaternary sloths on continents and islands",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1187974/",
+      "doi": "10.1073/pnas.0502777102",
+      "creator": "Steadman and colleagues",
+      "publication_date": "2005-08-05",
+      "source_type": "original research with compiled continental comparison",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "HTML Table 4 and caption, Figure 2 caption, chronology discussion; other tables read for context, not extracted.",
+      "limitations": "No laboratory worksheets, specimens, preparation audit, supplementary text or recalibration. Supplement link returned browser check. Historical paper, not a current literature consensus review.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
