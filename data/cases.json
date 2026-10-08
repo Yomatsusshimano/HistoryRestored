@@ -257,6 +257,11 @@
           "source_id": "S40",
           "locator": "Title page; pp. 148, 161-162",
           "statement": "Selected Spanish edition passages retain the core route account but differ from English in complement wording and an informant journey estimate. Original manuscript remains unchecked."
+        },
+        {
+          "source_id": "S43",
+          "locator": "Saved response headers and 25 hourly rows, Gregorian 1702-Mar-03 00:00 through Mar-04 00:00 UT",
+          "statement": "Modern geocentric apparent solar declinations range from -7.07571 to -6.69282 degrees in the sampled window, differing from the reported -6.5 degrees. Unknown historical uncertainty prevents a statistical compatibility decision."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected.",
@@ -268,7 +273,7 @@
         "A former waterway if independently evidenced"
       ],
       "counterevidence": "The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.",
-      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses.",
+      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy.",
       "chronology": {
         "reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.",
         "dated_object": "Catalog/exhibition map dates",

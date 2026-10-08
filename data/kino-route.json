@@ -35,7 +35,8 @@
       "measurement_uncertainty_deg": null,
       "longitude_deg": null,
       "modern_coordinates": null,
-      "ephemeris_verified": false
+      "ephemeris_verified": false,
+      "ephemeris_check": "Retrospective Gregorian calculation executed; reported value not exactly reproduced; see kino-solar-check.json. Historical validation remains false."
     },
     {
       "date_reported": "1702-03-10",

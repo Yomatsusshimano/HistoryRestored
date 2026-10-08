@@ -14,7 +14,7 @@ This is a later translation of a historical account attributed to a participant.
 | --- | --- | --- | --- |
 | 21 November 1701 | pp. 316-317 | Kino describes crossing the Colorado on a raft with help from the Quiquima captain and others, then traveling about three leagues. River width is estimated at about 200 varas. | A measured modern coordinate, precise river width, or a complete traverse to the Pacific coast. |
 | 21 November 1701 | p. 317 | Visitors bring blue shells and information about the opposite coast and the gulf's end. | Kino personally observing the shell source or completing their reported journey. |
-| 3 March 1702 | pp. 340-341 | Noon solar altitude reported as 52 degrees; south declination 6.5 degrees; derived latitude 31.5 degrees. | Calibrated instrument accuracy, a checked solar ephemeris, longitude, or an exact modern site. |
+| 3 March 1702 | pp. 340-341 | Noon solar altitude reported as 52 degrees; south declination 6.5 degrees; derived latitude 31.5 degrees. | Calibrated instrument accuracy, a historically validated solar declination, longitude, or an exact modern site. |
 | 10 March 1702 | p. 343 | Another raft crossing is deferred because of illness and boggy banks that impede horses; the party spends the night near the estuary. | A successful crossing on this date. |
 | 11 March 1702 | p. 344 | Kino reports sea to the east and continuous land visible south, west and north; he interprets this as proof of the land connection. | A surveyed coastline or independent verification of the claimed viewing distances. |
 
@@ -22,7 +22,7 @@ These distinctions matter. A successful crossing in 1701 and a deferred crossing
 
 ## Quantitative and chronological limits
 
-The printed latitude arithmetic is internally consistent as `90 - (52 + 6.5) = 31.5` degrees. Bolton's footnote 467 comments on awkward English complement wording; the Spanish comparison below requires revising our earlier description of that footnote as simply a clarification. This checks arithmetic only: solar declination, observation date/calendar, horizon correction, instrument error and site identification still require separate tests. No longitude or metric conversion of leagues/varas is invented. [Structured observations](../data/kino-route.json) preserve these limits.
+The printed latitude arithmetic is internally consistent as `90 - (52 + 6.5) = 31.5` degrees. Bolton's footnote 467 comments on awkward English complement wording; the Spanish comparison below requires revising our earlier description of that footnote as simply a clarification. This checks arithmetic only: historical solar-table provenance, observation date/calendar, horizon correction, instrument error and site identification still require separate tests. No longitude or metric conversion of leagues/varas is invented. [Structured observations](../data/kino-route.json) preserve these limits.
 
 The March 1702 observations are later than the 1698-1701 discovery period printed on the inspected map. They cannot silently be treated as observations underlying a map completed in 1701. Establish the map's revision/transmission history before assigning them that role.
 
@@ -43,3 +43,13 @@ Source S40 is [*Las misiones de Sonora y Arizona*](https://www.fondazioneintorce
 | Crossing, p. 148; deferred crossing and sighting, p. 162 | Raft crossing, Indigenous assistance, later deferral and sea-to-east/land-to-other-directions claims present | Selected core observations agree in substance. This is an edition comparison, not a second witness to the events. |
 
 Short transcriptions normalize line breaks only. Interpretation of the Spanish has not received independent linguistic review. The latitude wording differs at the edition/translation level; without the manuscript and editorial production records, responsibility cannot be assigned definitively. Our previous wording gave too little attention to this distinction. Neither discrepancy changes the reported 31.5-degree result or establishes intentional alteration, a chronology break, or geographic upheaval.
+
+## Retrospective solar-declination calculation
+
+Source S43: [JPL Horizons manual, quantity 2](https://ssd.jpl.nasa.gov/horizons/manual.html) and [API documentation](https://ssd-api.jpl.nasa.gov/doc/horizons.html). The request uses Sun (10), Earth center (500@399), airless apparent declination of date, Gregorian calendar and hourly UT samples from 3 March 1702 00:00 through 4 March 00:00. The response identifies DE441; its historical UT labels mean UT1. This is an explicitly assumed calendar and a sampled one-day window, not an identified local noon or historical observer location.
+
+The 25 samples range from **-7.07571 to -6.69282 degrees**, versus the account's **-6.5 degrees**. Absolute differences are **0.19282 to 0.57571 degrees**. Those bounds describe the selected samples, not a confidence interval or a measured instrument error. No sampled value exactly reproduces the reported declination. The historical value is nevertheless in the same broad seasonal neighborhood; that qualitative observation is not a statistical acceptance decision.
+
+The original solar table, calendar convention, observation time, instrument uncertainty, horizon/refraction treatment and use of solar limb versus center remain unresolved. Do not treat the model output's printed precision as historical measurement precision, or silently correct the reported 52-degree altitude or 31.5-degree latitude. A geocentric declination calculation is not a reconstruction of the field observation. Seasonal similarity also cannot establish the year, manuscript authenticity, geographic upheaval or intentional rewriting.
+
+The [saved response](../data/kino-horizons-response.json) preserves the returned text inside JSON; its SHA-256 refers to that extracted UTF-8 text. [Structured results](../data/kino-solar-check.json) retain every sample and exact request parameters. Run `python analysis/kino_solar_check.py` to verify parsing and arithmetic against the saved response; `--fetch` requests a new response and replaces these two generated artifacts. This retrospective check is not a public preregistration or independent historical review.

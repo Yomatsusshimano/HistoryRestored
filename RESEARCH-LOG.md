@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Kino solar-declination compatibility check
+
+Previous release 9d530ae published the Cahuilla screening audit. Clean checkout rechecked. Read JPL observer-quantity and API calendar documentation; executed a Gregorian Earth-center solar query for 25 hourly samples on March 3-4, 1702. Preserved the exact returned text, request, hash, script and computed differences.
+
+Computed south declinations are 6.69282-7.07571 degrees, compared with the account's 6.5. Preserved the discrepancy without inventing instrument uncertainty, local noon or a rejection probability. Calendar, original solar table and manuscript remain unchecked. This does not independently date the account. Seventeen drafts and forty-three sources; independent review absent.
+
 ## 2026-10-08 - Cahuilla model screening reconciled
 
 Previous turn made progress: a15e25a published seven public-byte-verified files. Clean checkout rechecked. Read S42 sections 3.4-3.5. Traced NTU public repository API from main-paper bitstream to ORIGINAL bundle and item 10356/155815; only the main paper is listed in that bundle. Publisher page returned 403 and a candidate supplementary ZIP returned not found. No access challenge bypassed, no supplement inspected.
