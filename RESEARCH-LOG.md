@@ -728,3 +728,7 @@ Added explicit dependencies for the participant monograph, ministerial construct
 ### 2026-10-08 — Coyote early stratigraphic lineage
 
 Recovered and visually inspected the 2012 NWSA abstract p.40 through the society's current archive. This is distinct from the unrecovered AMQUA dating abstract. Added S152 and S153; the latter is indexed 2010 poster text with a directly inspected GSA abstract, not a recovered figure scan. Direct poster PDF and screenshot attempts returned 404. The four-bed claim in 2012 cites 2010 and is not independent replication. Reported underlying-sediment reworking does not establish mammoth reworking. Carbonate exposure duration, section-to-bone links and early elevation reference remain unresolved. No new age or flood count inferred.
+
+### 2026-10-08 — Archived Coyote poster recovered
+
+Internet Archive CDX identified a 2020-11-24 PDF capture of S153. Downloaded, hashed, rendered and visually inspected the full poster and enlarged Figures 5–7. Updated S153 access from text portion to scan inspected, retaining the prior live-site failure. The panorama locates two separate sections; neither measured column marks the mammoth or later A–G beds. Rechecked S32 Figure 6 grid/NAVD 88 labels: displayed pairs differ by 22 m. An early datum/reference-label confusion is a testable possibility, not a demonstrated correction or terrain-change measurement. No new source count, dates, flood count or scientific review claimed.

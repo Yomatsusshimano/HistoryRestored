@@ -1154,8 +1154,8 @@
         },
         {
           "source_id": "S153",
-          "locator": "Indexed poster text, Findings and Further Investigation; GSA abstract p.119",
-          "statement": "Reports possible reworking of older underlying deposits and leaves flood frequency and mammoth burial relationships unresolved; section figures remain uninspected."
+          "locator": "Poster Figures 5-7, Findings and Further Investigation; archived PDF visually inspected",
+          "statement": "Two section locations and sediment contacts are illustrated, without bone positions in those columns. Older-deposit reworking is reported; exact flood frequency and burial timing remain unresolved."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",
@@ -1169,7 +1169,7 @@
         "Dating or context errors requiring laboratory and field checks"
       ],
       "counterevidence": "Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.",
-      "next_test": "Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing. Reconcile S138 OSL uncertainty reporting and reproduce its depth-to-age model before extending the wildlife chronology. Recover S153 section figures and match their locations/contacts to later excavation sections; reconcile early site elevation reference before hydraulic use.",
+      "next_test": "Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing. Reconcile S138 OSL uncertainty reporting and reproduce its depth-to-age model before extending the wildlife chronology. Match recovered S153 section locations/contacts to later excavation sections and identified bones; test whether the early elevation report used a local grid before hydraulic use.",
       "chronology": {
         "reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json",
         "dated_object": "Quartz-bearing sediment and previously reported bone material",

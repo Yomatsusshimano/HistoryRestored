@@ -2447,12 +2447,21 @@
       "creator": "Maxamilian W. Guettinger, George V. Last and Bax R. Barton",
       "publication_date": "2010",
       "source_type": "original research poster; indexed PDF text with corresponding GSA abstract",
-      "access": "FULL_TEXT_PORTION",
-      "inspected": "Web-indexed single-page poster text: Methods, Findings, Discussion and Further Investigation. Corresponding GSA abstract directly inspected at https://gsa.confex.com/gsa/2010AM/webprogram/Paper181951.html .",
-      "limitations": "Direct PDF download and screenshot returned 404; figures and section geometry not visually inspected. Indexed text is not a recovered PDF. Preliminary interpretations, not laboratory chronology or validated flood count.",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Single-page poster recovered from Internet Archive capture 2020-11-24; whole page and enlarged Figures 5-7 visually inspected. Corresponding GSA abstract also inspected.",
+      "limitations": "Archived copy, not a new independent source. No original survey logs or bone-to-section crosswalk. Figures show section locations and sediment contacts but do not mark mammoth bones in the measured columns. No independently validated flood count or duration.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
-      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "archive_url": "https://web.archive.org/web/20201124144425id_/https://coyotecanyonmammothsite.org/resources/guettinger_et_al_2010_geology-of-ccms_ccms.pdf",
+      "retrievals": [
+        {
+          "url": "https://web.archive.org/web/20201124144425id_/https://coyotecanyonmammothsite.org/resources/guettinger_et_al_2010_geology-of-ccms_ccms.pdf",
+          "sha256": "a571197ee88bdad689e2c6e17608ac4890f034abc0962deac3ace68960ec34cb",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }
