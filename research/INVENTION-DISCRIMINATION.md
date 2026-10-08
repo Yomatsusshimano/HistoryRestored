@@ -1,6 +1,6 @@
 # What the lamp case can distinguish
 
-Retrospective assessment, 2026-10-08. These comparison versions operationalize H5/H7; they are not claims attributed verbatim to Nathan, prospective predictions or an exhaustive partition of possible histories. All cited cases remain SOURCED_DRAFT, without independent review.
+Retrospective assessment, 2026-10-08. These comparison versions operationalize H5/H7; they are not claims attributed verbatim to the project owner, prospective predictions or an exhaustive partition of possible histories. All cited cases remain SOURCED_DRAFT, without independent review.
 
 The inspected lamp records support specific nineteenth-century disclosures, design revisions and reported experiments by several named participants. They do not establish an ancient device or a recovery pathway. That result narrows this selected case; it does not estimate how often inventions elsewhere involved borrowing, appropriation or recovery.
 

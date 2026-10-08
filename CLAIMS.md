@@ -6,11 +6,11 @@ Version 0.1, 2026-10-08. Operational proposals for investigation.
 
 A catastrophic mud flood and rapid geographic upheaval reshaped Earth. Much recorded history was fabricated afterward; many founders and inventors rediscovered what survived.
 
-This sentence contains several independent propositions. Evidence for a flood alone cannot establish the others. The date is unknown by Nathan's instruction. Compare candidate periods; do not assume all unusual remains belong together.
+This sentence contains several independent propositions. Evidence for a flood alone cannot establish the others. The date is unknown by the project owner's instruction. Compare candidate periods; do not assume all unusual remains belong together.
 
 ## Parameters that must be declared
 
-For an event model, specify event time T, duration D, footprint F, deposit thickness h(x), sediment/water sources, source elevations, and the proposed displacement field u(x). Compare short episodes (one year or less), decades, and longer sequences separately. These duration bins are proposed sensitivity analyses, not dates supplied by Nathan.
+For an event model, specify event time T, duration D, footprint F, deposit thickness h(x), sediment/water sources, source elevations, and the proposed displacement field u(x). Compare short episodes (one year or less), decades, and longer sequences separately. These duration bins are proposed sensitivity analyses, not dates supplied by the project owner.
 
 A worldwide version must identify what worldwide means, which regions it predicts were affected, and which preservation settings should retain traces. A regional version must name its region before testing. A model allowed to change its date, extent, and preservation exceptions after every result has no meaningful rejection test.
 
@@ -52,7 +52,7 @@ These are conditional prediction designs. They lack frozen locations, quantitati
 
 ## H2 operational comparison, 2026-10-08
 
-The [Bouse discrimination assessment](research/BOUSE-DISCRIMINATION.md) separates H2-L (lake mixing/outlet change), H2-M (marine influence followed by lake conditions), H2-T (historical-map age association), and H2-G (a continuous Gulf-to-Pacific connection). These are retrospective test versions, not verbatim claims attributed to Nathan. The first two require comparison of the same beds and may coexist at different stages. Neither establishes the last two. The present isotope and faunal observations support investigating environmental change but do not supply a unique mechanism, event date or connected historical route.
+The [Bouse discrimination assessment](research/BOUSE-DISCRIMINATION.md) separates H2-L (lake mixing/outlet change), H2-M (marine influence followed by lake conditions), H2-T (historical-map age association), and H2-G (a continuous Gulf-to-Pacific connection). These are retrospective test versions, not verbatim claims attributed to the project owner. The first two require comparison of the same beds and may coexist at different stages. Neither establishes the last two. The present isotope and faunal observations support investigating environmental change but do not supply a unique mechanism, event date or connected historical route.
 
 ## Present inference
 
@@ -68,10 +68,10 @@ The [cross-case assessment](research/CROSS-CASE-ASSESSMENT.md) compares explicit
 
 ## H4 operational comparison, 2026-10-08
 
-The Eiffel case now separates H4-I (an already-complete structure remaining unchanged through the recorded 1888–1889 interval), H4-R (erection using earlier components), and H4-N (recorded new manufacture and erection). These are retrospective test versions, not verbatim claims attributed to Nathan. Partial reuse and new manufacture can coexist; the comparison is not an exhaustive partition of possible histories.
+The Eiffel case now separates H4-I (an already-complete structure remaining unchanged through the recorded 1888–1889 interval), H4-R (erection using earlier components), and H4-N (recorded new manufacture and erection). These are retrospective test versions, not verbatim claims attributed to the project owner. Partial reuse and new manufacture can coexist; the comparison is not an exhaustive partition of possible histories.
 
 The [erection records](research/EIFFEL-VERTICALITY-REPORT.md) challenge H4-I through a depicted partial structure and reported unfinished connections. They support erection, but alone do not distinguish newly manufactured from reused components. H4-R has no established positive antecedent/transfer evidence here; failure to exclude it is not support. H4-N still needs original supplier transactions linked to part registers and fabric. Documentary and mount-inscription dates are not independent material ages. The [cross-case assessment](research/CROSS-CASE-ASSESSMENT.md) retains those dependencies and specifies evidence that could change each result.
 
 ## H5/H7 operational comparison, 2026-10-08
 
-The [invention discrimination assessment](research/INVENTION-DISCRIMINATION.md) separates H5-R (recovered earlier-civilization device), H5-D (recorded workshop development), H5-C (sole-contributor attribution) and H7-T (ownership/retelling transmission). These retrospective comparison versions are not verbatim claims attributed to Nathan or an exhaustive set of histories. Recorded development and partial borrowing can coexist. The selected lamp case supports documented development and multiple named contributions; an ancient antecedent and recovery route remain unestablished. Original ownership transactions and a specific credit-change chain are still required before inferring a rewriting mechanism.
+The [invention discrimination assessment](research/INVENTION-DISCRIMINATION.md) separates H5-R (recovered earlier-civilization device), H5-D (recorded workshop development), H5-C (sole-contributor attribution) and H7-T (ownership/retelling transmission). These retrospective comparison versions are not verbatim claims attributed to the project owner or an exhaustive set of histories. Recorded development and partial borrowing can coexist. The selected lamp case supports documented development and multiple named contributions; an ancient antecedent and recovery route remain unestablished. Original ownership transactions and a specific credit-change chain are still required before inferring a rewriting mechanism.

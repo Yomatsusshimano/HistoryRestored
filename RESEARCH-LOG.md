@@ -686,7 +686,7 @@ Internal checks now include dating-record references, unique sample identifiers,
 
 Previous visible turn was a greeting, with no research progress to assess. Current files in Science and Physics were inspected. EmergenceAtlas is a separate research project and was left intact. No existing catastrophe investigation was located in these two workspace roots. Neither workspace root is a Git repository.
 
-Nathan set the event date to unknown with candidate periods to be compared. Public destination: https://github.com/Yomatsusshimano/HistoryRestored. Nathan installed the dedicated deploy key and authorized publication as work progresses. SSH access succeeded. The continuing local checkout is D:/Projects/Science/HistoryRestored; HistoricalEvidence is the preliminary draft directory.
+the project owner set the event date to unknown with candidate periods to be compared. Public destination: https://github.com/Yomatsusshimano/HistoryRestored. the project owner installed the dedicated deploy key and authorized publication as work progresses. SSH access succeeded. The continuing local checkout is D:/Projects/Science/HistoryRestored; HistoricalEvidence is the preliminary draft directory.
 
 Initial selection is purposive: urban regrading, fossil-context dating, a historical tsunami, a map discrepancy, construction evidence, an invention record, and repeated megafloods. It is not an estimate of prevalence or a balanced global sample.
 
@@ -721,7 +721,7 @@ Record integrity passed for eight cases and twelve sources. Staged whitespace ch
 
 ### 2026-10-08 — Construction evidence in the cross-case assessment
 
-Integrated the already inspected Eiffel sources S08, S17, S147–S151 into the synthesis without adding sources or changing case review status. Retrospective H4-I/H4-R/H4-N comparisons separate an unchanged completed tower, reused components and recorded new manufacture/erection. Partial erection challenges the unchanged-complete version; assembly alone neither excludes reuse nor independently verifies all manufacture. These versions are analytical specifications, not claims attributed verbatim to Nathan. Mixed manufacture/reuse remains possible but unestablished.
+Integrated the already inspected Eiffel sources S08, S17, S147–S151 into the synthesis without adding sources or changing case review status. Retrospective H4-I/H4-R/H4-N comparisons separate an unchanged completed tower, reused components and recorded new manufacture/erection. Partial erection challenges the unchanged-complete version; assembly alone neither excludes reuse nor independently verifies all manufacture. These versions are analytical specifications, not claims attributed verbatim to the project owner. Mixed manufacture/reuse remains possible but unestablished.
 
 Added explicit dependencies for the participant monograph, ministerial construction records and museum photograph. Separate custody is not an independently measured material chronology. Updated the Camp Century next-action statement: the original supplement and nineteen workbooks are recovered, while full fitting, aggregation, covariance and DRAC reproduction remain incomplete. Updated the workplan source count and builder audit. No new prospective prediction, independent review or global reconstruction is claimed.
 

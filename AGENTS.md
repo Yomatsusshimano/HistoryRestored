@@ -1,10 +1,12 @@
 # HistoryRestored research instructions
 
-Read README.md, PROTOCOL.md, CLAIMS.md, STANDARDS.md, WORKPLAN.md and RESEARCH-LOG.md before continuing. This is local research on Nathan's Windows computer, independent of Gateway and EmergenceAtlas.
+Public privacy preference: refer to the user as "the project owner" or "the user". Do not publish their personal name, local account identity or personal filesystem paths. Preserve historical source authors' names for attribution.
+
+Read README.md, PROTOCOL.md, CLAIMS.md, STANDARDS.md, WORKPLAN.md and RESEARCH-LOG.md before continuing. This is local research on the project owner's Windows computer, independent of Gateway and EmergenceAtlas.
 
 Preserve all twenty original objectives. Test the starting propositions; never manufacture support or invent mechanisms, actors, reviews, dates, or restored identities. Negative and narrowing findings are valid scientific outcomes. The goal remains active until its actual completion evidence exists.
 
-Nathan authorized publication to Yomatsusshimano/HistoryRestored and said "Publish as you go" on 2026-10-08. Publish substantive, verified research updates with uncertainties and adverse evidence included. Keep credentials and deployment configuration out of Git. Do not message third parties without explicit authorization.
+the project owner authorized publication to Yomatsusshimano/HistoryRestored and said "Publish as you go" on 2026-10-08. Publish substantive, verified research updates with uncertainties and adverse evidence included. Keep credentials and deployment configuration out of Git. Do not message third parties without explicit authorization.
 
 Use primary records and original research when available. Distinguish scans, text portions, abstracts, catalog metadata, and search excerpts. Preserve inaccessible-source limits and source dependencies. A source mirror is not independent evidence. Unknown dates and coordinates stay null; sample-level measurements require sample identifiers and locators.
 

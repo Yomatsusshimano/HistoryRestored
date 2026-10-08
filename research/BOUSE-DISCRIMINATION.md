@@ -6,7 +6,7 @@ The recovered measurements support a change in the sampled environment, but do n
 
 ## State each proposition separately
 
-These operational versions are introduced for comparison; they are not verbatim claims attributed to Nathan.
+These operational versions are introduced for comparison; they are not verbatim claims attributed to the project owner.
 
 - **H2-L:** A stratified lake at Hart Mine Wash became more mixed during outlet change or spillover.
 - **H2-M:** Marine influence reached the southern Bouse basin, followed by a change toward lake conditions.
