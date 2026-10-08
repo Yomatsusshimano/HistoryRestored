@@ -24,3 +24,6 @@ The existing [Highwall arithmetic](HIGHWALL-WASH.md), [directional-table audit](
 Next prioritize the Wind Caves sample04PW30 and its measured section, retrieve the full Reply/main paper, and compare the mapped fault geometry with the original section chronology. Keep the separate historical-catastrophe hypothesis subject to positive sedimentary, geographic and chronological tests.
 
 Follow-up: [Wind Caves sample audit](WIND-CAVES.md) now reproduces the five-grain summary and links all selected ages to run IDs. Exact section placement and fault tests remain pending.
+
+
+Follow-up: [original2011 age-model comparison](FISH-CREEK-AGE-MODEL.md) identifies its anchors and the scope of its rejected alternatives; a geometry-changing model requires a separate test against the retained observations.

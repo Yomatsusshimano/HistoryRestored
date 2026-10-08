@@ -988,3 +988,9 @@ Previous turn made verified public progress. Clean checkout confirmed. Visually 
 ### 2026-10-08 — Original Wind Caves coordinates
 
 Previous turn made verified public progress; clean checkout confirmed. Recovered original11-page supplement through exact quoted Figshare search. Visually checked datum headers and Wind Caves rows; preserved fault-interval annotation. Installed pyproj and downloaded the explicit NADCON5 grid after no non-ballpark transformation was initially available. Reproducible conversion yields2.44m locality separation. Preserved height-version difference and unknown field/custody errors; no inferred exact specimen identity, fault displacement or depositional age.
+
+
+
+### 2026-10-08 — Original age-model comparison
+
+Previous turn made verified public progress; clean checkout confirmed. Text-read original mapping/magnetic methods and chronology, visually checked Fig11, and published the conditional dependence of assigned ages on anchors and section geometry. Resolved gradeB meaning at method level without inventing site-specific trajectories. Separated rate-smoothness objections from upper-tuff consistency. No new chronology, rate reproduction, fault mapping or independent review claimed.

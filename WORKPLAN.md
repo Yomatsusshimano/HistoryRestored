@@ -346,3 +346,9 @@ S212 Comment body and S213 Reply introductory summary recovered; unequal access 
 ### 2026-10-08 — Original Wind Caves coordinates
 
 S215 TableDR1 recovered and pp1-2 visually checked. Datum transformation puts04Pw30 within2.44m of later dating locality; source precision is not field accuracy. Table-derived147.5m member height differs from figureapprox151m. Next custody/bed link and mapped structural restoration; do not repeat GPS-table retrieval as pending.
+
+
+
+### 2026-10-08 — Fish Creek age-model dependencies
+
+S214 methods and Fig11 inspected: fossil boundary is an explicit anchor, upper tuff constraints retained, and unchanged-section alternatives are distinct from fault restoration. Next georeferenced marker/fault comparison and site-specific demagnetization records. Rate spikes alone do not decide rapid-deposition hypotheses.

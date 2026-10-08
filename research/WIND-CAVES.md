@@ -59,3 +59,6 @@ Using the [PROJ-hosted NADCON5 grid](https://cdn.proj.org/us_noaa_nadcon5_nad27_
 The [reproducible comparison](../analysis/compare_wind_coordinates.py) records the grid hash, software versions, explicit transformation and both unmodified input pairs in [structured data](../data/wind-caves-location-comparison.json). The operation catalog's0.15m accuracy is not the field GPS accuracy; source collection errors are unknown. Millimetre-level output digits are computational precision, not achieved positional accuracy. Original grids and PDFs remain local; links identify them for reproduction.
 
 This close correspondence strengthens the link to the same locality. It does not prove the same specimen or exact bed was used, establish sample custody, or validate either chronology. Next trace collection records and the geological mapping/restoration across the flagged interval. The remaining problem is narrower than an unidentified location but broader than an arithmetic discrepancy.
+
+
+The [older age-model dependency audit](FISH-CREEK-AGE-MODEL.md) now separates fossil/tuff anchors, magnetic quality and unchanged-geometry alternatives. These tests do not substitute for the proposed fault restoration.
