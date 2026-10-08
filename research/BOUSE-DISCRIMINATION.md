@@ -45,3 +45,7 @@ First select a particular map and trace the channel it actually depicts, with co
 Only observations withheld from that model's construction can test a new prediction. Existing Bouse data and maps are already inspected discovery material. Freeze the route, date/deformation model, sampling coverage and rejection conditions publicly before examining new target observations. A missing marine bed is informative only where the model predicts preservation and the sampling could detect it.
 
 Present status: H2-L and H2-M remain incompletely discriminated here. H2-T lacks an established chronological association. H2-G lacks a specified and verified continuous route. These are different evidential gaps, not four confirmations or four global refutations. None establishes historical fabrication.
+
+## Chronology dependencies recovered
+
+The [chronology audit](BOUSE-CHRONOLOGY.md) now separates underlying-rock limits, fossil-range dating and the Bouse-Lawlor ash correlation, using S194/S195. A secure older limit alone cannot exclude historical deposition; a primary correlated ash provides a different test. Exact stratigraphic transfer and raw dating analyses remain pending. Environmental disagreement does not erase these distinct chronological constraints.

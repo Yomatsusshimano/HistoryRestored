@@ -3099,6 +3099,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S194",
+      "title": "Freshwater plumes and brackish lakes: integrated microfossil and O-C-Sr isotopic evidence from the Bouse Formation",
+      "url": "https://geo.arizona.edu/sites/default/files/data/1875.pdf",
+      "creator": "Jordon Bright, Andrew S. Cohen, David L. Dettman and Philip A. Pearthree",
+      "publication_date": "2018",
+      "source_type": "original research article with chronology synthesis",
+      "access": "SCAN_INSPECTED",
+      "inspected": "DOI 10.1130/GES01610.1. Abstract/background extracted; printed pp.1876 and 1878 visually checked for age controls and alternate ash placement. SHA256 816d6ba638dbcb476ed1626ef18fb9831311b62a1fb57cfb8313a78435785dc3.",
+      "limitations": "Selected chronology discussion, not full study audit. Ages in this section cite earlier analyses; raw assays and their uncertainty conventions not verified. Environmental findings and complete isotope dataset not reproduced. Shared authors/research lineage with S184/S185."
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S195",
+      "title": "Zircon age and oxygen isotopic correlations between Bouse Formation tephra and the Lawlor Tuff",
+      "url": "https://tectonics.caltech.edu/publications/pdf/harvey_Geosphere_2014.pdf",
+      "creator": "Janet C. Harvey",
+      "publication_date": "2014",
+      "source_type": "original tephrochronology research",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "DOI 10.1130/GES00904.1. Web-extracted abstract/introduction PDF p.1; selected methods/results returned by search index, explicitly distinguished in research/BOUSE-CHRONOLOGY.md.",
+      "limitations": "Local download failed certificate validation; subsequent web full-page and screenshot attempts failed. No local PDF hash, visual figures, full analytical tables or supplement. Indexed numerical results remain leads for full-table verification. Crystallization and correlated eruption ages are distinct; no independent reproduction."
     }
   ]
 }
