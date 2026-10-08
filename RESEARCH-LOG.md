@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camp Century exposure threshold
+
+Previous turn made progress: 83bdcfc published nine verified files. Solved the source production-equation threshold and propagated declared independent input uncertainties with a fixed seed. Central Al-26 crossing explains the 16 kyr grid result, without promoting it to a statistical upper confidence bound. Alternative production scenario retained. Three analytic tests pass. Full model and luminescence input reproduction remain incomplete.
+
 ## 2026-10-08 - Camp Century central-input sensitivity
 
 Previous turn made progress: b276762 published seven verified files. Decoded pinned MAT arrays, preserving unknown assay identities, and quantified the uncertainty-prefactor effect on deterministic central inputs. Three analytic checks pass. No full MATLAB run, published-error correction or new age claimed. Full goal remains active.

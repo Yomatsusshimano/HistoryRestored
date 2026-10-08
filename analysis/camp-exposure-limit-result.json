@@ -1,0 +1,28 @@
+{
+  "source_ids": [
+    "S26",
+    "S137"
+  ],
+  "input_sha256": "8a58ad1ca6a7b983f52a9360699585c033b722b78369f2a7fcf44eca7bd2fc02",
+  "central_crossings_years": {
+    "Al26": 16701.8269145735,
+    "Be10": 22460.49122136635
+  },
+  "central_alternative_P26_27_8_crossings_years": {
+    "Al26": 18217.09006417924,
+    "Be10": 22460.49122136635
+  },
+  "seed": 20261008,
+  "draws": 100000,
+  "excluded_draws": 0,
+  "Al26_limiting_draws": 100000,
+  "threshold_quantiles_years": {
+    "0.025": 15318.845255516653,
+    "0.5": 16698.434853304345,
+    "0.975": 18182.069979346874
+  },
+  "fraction_threshold_above_16000": 0.83766,
+  "assumptions": "Independent Gaussian measurement entries, isotopes and luminescence input; source inverse-square-root-error weights and fixed production/decay constants. Linear Gaussian aggregation exactly matches the weighted-mean sampling distribution, not the source finite simulation or random stream.",
+  "equation": "N_produced=P/lambda*(1-exp(-lambda*t)); threshold at N_produced=N_observed*exp(age/tau), taking the smaller isotope crossing.",
+  "limits": "Threshold distribution is not an actual-exposure posterior or confidence bound. No production uncertainty, shielding, correlated errors, erosion, full MATLAB execution or luminescence reproduction. The isolated lower-sediment uncertainty prefactor is not used."
+}

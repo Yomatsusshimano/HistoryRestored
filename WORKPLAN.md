@@ -166,3 +166,5 @@ Camp Century supplement: S5/S9 checked; 1063-7 magnetic values absent, orientati
 Camp Century model: author-linked cosmogenic code prescribes luminescence age; static uncertainty-variable concern recorded. Retrieve luminescence inputs and reproduce model before estimating scientific impact; publisher supplement access currently 403.
 
 Camp Century component check: central-input uncertainty-prefactor multiplier 2.5263; mean ratios unaffected by that isolated substitution. Full stochastic model and publication-output comparison pending.
+
+Camp Century exposure component: central nonnegative-inventory crossing 16.702 kyr; input-uncertainty threshold distribution and production-rate sensitivity published. This is not actual exposure dating or full model replication.

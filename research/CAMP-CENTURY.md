@@ -74,3 +74,15 @@ The [component calculation](../analysis/camp_uncertainty_prefactor.py) uses the 
 With normalized weighted within-array spreads, the expression gives approximately 0.9840 using the upper ratio and 0.3895 using the corresponding lower ratio. These are illustrative component spreads, **not replacement published uncertainties**. Monte Carlo perturbations, covariance, measurement calibration and other code paths have not been reproduced. Substituting only this uncertainty prefactor leaves the mean ratio unchanged. Neither value changes the imposed luminescence age or independently dates deposition.
 
 Three analytic checks verify equal weights, the inverse-square-root weighting rule and zero spread for identical observations. They test the implementation, not the physical model. Full execution and comparison with the published outputs remain necessary before assigning a scientific effect to the source-code concern.
+
+## Surface-exposure threshold reproduced as a component
+
+The [threshold calculation](../analysis/camp_exposure_limit.py) solves the source model's production equation for the duration at which inherited inventory reaches zero, separately for Al-26 and Be-10. At the central weighted inputs and prescribed 416 ka burial, the crossings are **16,701.8 years for Al-26** and **22,460.5 years for Be-10**. Both inventories must remain nonnegative, so the Al-26 crossing controls. The last admissible point on a 1,000-year grid is therefore 16,000 years, consistent with the source code's approximate central criterion.
+
+Using its alternative Al-26 production rate of 27.8 rather than 30.3 atoms/g/year gives a central crossing of 18,217.1 years, with other inputs fixed. These rates are source-code scenarios, not newly calibrated measurements. The article itself cautions that production below the surface permits longer exposure (S26, pp.2-3).
+
+A seeded 100,000-draw component calculation propagates independent Gaussian measurement errors and the specified 416 +/- 38 ka input. Its threshold median is 16,698 years, with 2.5th and 97.5th percentiles of approximately 15,319 and 18,182 years. No draws were excluded; Al-26 controlled every sampled crossing. The [result file](../analysis/camp-exposure-limit-result.json) records assumptions and the input hash.
+
+These are percentiles of a **conditional threshold distribution**, not a posterior for actual exposure or a confidence limit proving exposure ended by 16 ka. Production uncertainties, shielding, erosion and error correlations remain omitted. The two nuclides share the sampled burial age. Gaussian aggregation reproduces the linear weighted-mean sampling distribution under independence; it does not reproduce the finite MATLAB random stream, its plots or the full model. The previously flagged lower-sediment uncertainty expression is not used in this upper-sediment threshold calculation.
+
+Three analytic tests check inversion of the production equation, its boundary cases and weighted-Gaussian variance. This supports a specific numerical interpretation of the exposure limit, while the luminescence input and the broader catastrophe claim remain independently unverified.

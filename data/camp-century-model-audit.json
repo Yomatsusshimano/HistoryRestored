@@ -36,5 +36,10 @@
     "result": "analysis/camp-uncertainty-prefactor-result.json",
     "type": "Deterministic central-input prefactor sensitivity",
     "full_MATLAB_execution": false
+  },
+  "exposure_threshold_check": {
+    "result": "analysis/camp-exposure-limit-result.json",
+    "scope": "Upper-sediment nonnegative-inventory criterion only",
+    "full_model_reproduced": false
   }
 }
