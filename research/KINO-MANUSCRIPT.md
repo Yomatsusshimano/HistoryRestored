@@ -42,3 +42,21 @@ S40, [Spanish edition](https://www.fondazioneintorcetta.info/pdf/biblioteca-virt
 These are lookup anchors, not a complete foliation concordance. The selected introduction and four route pages were visually checked. Retained S40 PDF SHA-256: `a5e6a5c5f9da1054613a9a2337035b547db19f60450adaed852e1134b214c35e`.
 
 The March 2 text explicitly recalls the preceding November's raft crossing while describing travel past that location. That supports separating the two episodes within this narrative, without independently proving either journey. Target the section containing markers 165-166 and 183-186 first, with neighboring leaves and the reproduction's numbering key. No complete public manuscript facsimile was recovered in the targeted searches this turn; that result does not establish that none exists.
+
+## Bolton research copies: current component records
+
+S193: [Bancroft collection BANC MSS C-B 840](https://oac.cdlib.org/findaid/ark:/13030/kt9z09s1s7), individual catalog records accessed 2026-10-08.
+
+| Component | Container and catalog extent | Provenance note |
+| --- | --- | --- |
+| [Favores Celestiales](https://oac.cdlib.org/findaid/ark:/13030/kt9z09s1s7_c03-1-3-6-2-10-15) | Carton 15, folders 1-6; 941 p. Phot. | AGN Mis, Vol.27 |
+| [Favores continuation](https://oac.cdlib.org/findaid/ark:/13030/kt9z09s1s7_c03-1-3-6-2-10-16) | Carton 16, folders 1-8; 960 p. Tcpt. | Includes English introduction by HEB |
+| [Mangé/Kino expedition diaries and correspondence](https://oac.cdlib.org/findaid/ark:/13030/kt9z09s1s7_c03-1-3-6-2-10-14) | Carton 14, folders 16-19; 98 p. Phot., 400 p. Trsl. | BN Mad; Parral |
+
+The first two entries carry 1699-1745; the third 1697-1706. Retain these as catalog ranges, not personally observed travel dates or proof of authorship throughout. Item identities and internal divisions require inspection. The collection description says many copied manuscripts also exist on microfilm, without identifying all corresponding reels.
+
+The local PDF download failed DNS resolution; web PDF retrieval failed 502. Printable HTML did not return usable text. Ordinary requests to current component pages succeeded after following the site's collection hierarchy. Thus the entries above are directly inspected catalog metadata, superseding preliminary search excerpts. Saved response hashes are in [the access ledger](../data/bolton-catalog-access.json); no source facsimile was retrieved.
+
+Photographic copies could permit comparison of manuscript marks with the transcript and published edition. Their catalog totals must not be subtracted from UNM or Bolton counts to infer loss: reproduction units, duplication and scope have not been matched. The transcript's English introduction does not establish that every page is an English translation or that it is the exact copy used for the 1919 edition.
+
+Prioritize the photographic-copy numbering key and sections around the S40 markers above, then the corresponding transcript. The separate expedition collection is a candidate for checking another participant's account, but its title and date range alone do not establish coverage of the disputed crossing or an independent witness. No archive request has been sent.

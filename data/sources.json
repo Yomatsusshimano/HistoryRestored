@@ -3085,6 +3085,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S193",
+      "title": "Herbert Eugene Bolton papers: selected Pimeria Alta component catalog records",
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/kt9z09s1s7",
+      "creator": "The Bancroft Library, University of California, Berkeley; Online Archive of California",
+      "publication_date": "2008 (finding-aid source date; live component pages accessed 2026-10-08)",
+      "source_type": "institutional archival catalog",
+      "access": "CATALOG_METADATA",
+      "inspected": "Collection description and component records ending -15, -16, -14: containers, extent, date ranges and source notes. Exact URLs and HTML hashes in data/bolton-catalog-access.json.",
+      "limitations": "No manuscript images, transcripts or originals inspected. PDF download failed DNS/web 502; printable HTML unusable; live component HTML successfully retrieved. Counts describe catalog units, not demonstrated original pagination. Date ranges and catalog source notes do not authenticate every document or establish independent crossing testimony.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
