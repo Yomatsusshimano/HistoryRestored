@@ -27,3 +27,18 @@ The catalog references Seattle Ordinance 12022. The attempted Clerk page returne
 The adjacent drawings propose support, new footings and concrete over metal decking. These are design details, not completed-work records or sediment sections. Photographic material contrasts suggest alterations worth tracing, but cannot establish their dates. No original grade datum or surrounding fill sample is supplied by these inspected sheets.
 
 [Structured observations](../data/grand-central-areaways.json) distinguish visible features, author interpretations and proposed work. Match individual compartments to dated permits and as-built alterations before using their appearance to infer burial history. The broader catastrophe claim remains untested at this location.
+
+## Feature-specific chronology and rejection tests
+
+S87 page 39, also visually inspected, attributes fire-escape records to 1904 and alterations to 1972, 1974 and 2002. Its reproduced maps are captioned 1893, 1904 and 1916. Original sheets and permits remain unchecked; attempted Library of Congress access failed. Missing notation in 1893 cannot prove absence, and a first record in 1904 cannot fix installation to that year.
+
+Page 41 pairs an existing south-entry photograph with a proposed reopening. Masonry occupies an arched outline; the caption identifies infill. The adjacent door rendering is a proposal, not evidence of completed removal. Neither image dates the opening or infill. These facade features must remain distinct from basement enclosure.
+
+| Feature | Observation to obtain | Consequence for competing explanations |
+| --- | --- | --- |
+| S1 arched opening | Dated alteration permit plus masonry bonding/contact inspection | Built infill would explain this closure; it would not date surrounding ground |
+| Sidewalk arches and patches | Compartment-matched installation and repair records | Separate construction episodes would reject treating all visible fabric as one unchanged event surface |
+| Material outside the street wall | Logged sediment section, samples and surveyed elevations | Placement lifts or natural bedding could discriminate mechanisms, subject to disturbance and context |
+| Fire escape | Original map legends, sheet revisions and installation/removal permits | Could establish facade changes; cannot by itself date the areaway |
+
+These are unresolved tests formulated after inspecting this block, not preregistered discoveries. No row currently supplies a date for a common catastrophe or a demonstrated original ground surface.

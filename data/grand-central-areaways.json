@@ -9,7 +9,9 @@
   },
   "pages_inspected": [
     26,
-    27
+    27,
+    39,
+    41
   ],
   "observations": [
     {
@@ -36,11 +38,59 @@
       "page": 27,
       "type": "proposed_work",
       "description": "Structural detail includes new footings and lightweight concrete over metal deck; not evidence of historic sediment or completed repair."
+    },
+    {
+      "page": 41,
+      "type": "photo_observation",
+      "description": "South facade photograph shows an arched outline with masonry within it; original opening and infill dates unknown."
+    },
+    {
+      "page": 41,
+      "type": "author_interpretation",
+      "description": "Caption identifies existing masonry infill at historic entry S1."
+    },
+    {
+      "page": 41,
+      "type": "proposed_work",
+      "description": "Adjacent rendering and elevation propose reopening S1 with a door. This is not an after-work photograph."
     }
   ],
   "original_construction_date": null,
   "repair_completion_verified": false,
   "sediment_description": null,
   "surveyed_grade_datum": null,
-  "limits": "No chronology or catastrophe mechanism inferred from material appearance."
+  "limits": "No chronology or catastrophe mechanism inferred from material appearance.",
+  "reported_fire_escape_history": {
+    "source_page": 39,
+    "status": "AUTHOR_HISTORY_NOT_INDEPENDENTLY_VERIFIED",
+    "entries": [
+      {
+        "year": 1893,
+        "claim": "No alley escapes noted in reproduced map; absence of notation is not demonstrated physical absence."
+      },
+      {
+        "year": 1903,
+        "claim": "City Loan construction reported; briefing says construction drawings unavailable."
+      },
+      {
+        "year": 1904,
+        "claim": "First record at this location reported; not necessarily installation year."
+      },
+      {
+        "year": 1972,
+        "claim": "Grand Central escapes reportedly removed in renovation."
+      },
+      {
+        "year": 1974,
+        "claim": "Escape reportedly modified for greenhouse."
+      },
+      {
+        "year": 2002,
+        "claim": "Escape reportedly decommissioned; Buttnick escape removed."
+      }
+    ],
+    "original_map_sheet_ids": null,
+    "original_permits_inspected": false
+  },
+  "access_followup": "LOC 1893 map collection located by search; attempted Vol.1 item and JSON endpoint returned 403. No original sheet inspected."
 }

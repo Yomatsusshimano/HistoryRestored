@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Grand Central feature-specific chronology
+
+Previous turn made progress: e5347e0 published seven byte-verified files; clean checkout confirmed. Rendered S87 pp.39/41 and inspected map reproductions, attributed fire-escape history, existing south-entry photo and proposed reopening. Preserved six reported historical entries without treating missing map notation as physical absence or first record as installation. LOC original-map item/API attempts returned 403; no original map-sheet verification claimed. Added explicit feature-level tests to avoid transferring facade dates to areaway origins. Source count remains 87.
+
 ## 2026-10-08 - Grand Central Block physical-condition documentation
 
 Previous turn made progress: 05742c2 published six byte-verified files; clean checkout confirmed. Recovered a 48-page Clark Barnes briefing via ordinary download after web-tool 403. Rendered and visually inspected pp.26–27. Recorded photographic observations separately from author material identifications and proposed strengthening. Added S87 and structured observations with checksum; selected this block for permit/alteration matching. No sediment, original material date or completed repair established.

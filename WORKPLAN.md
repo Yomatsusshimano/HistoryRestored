@@ -70,3 +70,5 @@ Heal Lake dissertation recovered: older BC floating-group adjustments and explic
 Pioneer Square update: pre-fire 1883 council transcriptions establish documented grade-planning and bidding activity. Areaway permit series 0605-01 (1905–1921) provides a parcel-level retrieval route; underlying forms, original scans and finished-work evidence remain pending.
 
 Grand Central Block selected for a parcel-specific C001 follow-up: 2020 briefing condition photographs and repair diagrams inspected. Mixed fabric and proposed work separated; historical grades, sediment logs and alteration dates still needed.
+
+Grand Central feature chronology: S87 fire-escape history and south-entry infill documented separately. Original map-sheet and permit checks remain open; do not transfer facade alteration dates to basement enclosure.
