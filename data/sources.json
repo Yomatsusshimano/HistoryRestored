@@ -3323,6 +3323,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S210",
+      "title": "Supplemental Material: Redefining the age of the lower Colorado River, southwestern United States",
+      "url": "https://doi.org/10.1130/GEOL.S.13530698.v1",
+      "creator": "R.S. Crow, J. Schwing, K.E. Karlstrom, M. Heizler, P.A. Pearthree, P.K. House, S. Dulin, S.U. Jänecke, M. Stelten and L.J. Crossey",
+      "publication_date": "2021",
+      "source_type": "original methods and supplementary analytical workbooks",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Methods PDF pp1-2 visually checked; other extracted text read. Table1 stored cells read and Lawlor rows20-24/formula references audited. Other workbook layouts inventoried. See research/CROW-SUPPLEMENT-AUDIT.md.",
+      "limitations": "Main paper remains abstract-only. Tables2-6 analyses, fault geometry, full recalibration and shared uncertainties unaudited. No workbook rendering or formula execution. Text error-expression discrepancy and summary mismatch preserved.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

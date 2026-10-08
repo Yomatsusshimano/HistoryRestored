@@ -26,3 +26,6 @@ Retain this later alternative when reviewing the S2012018 regional model. A revi
 Next recover House2008b tephra sample/log records, Matmon2012 burial inputs and Crow2021 full methods/supplement. Prioritize the Nomlaki bed's primary-deposition evidence and the erosional sequence before transferring its age to a specific Bouse horizon.
 
 S208 retained30-page PDF SHA256 `5ff5552ff07687e9b9c9dfdccb2ca5fc00e4c447111cc5a909f37ae28a2b93c8`; page12 visually checked, selected other age passages text-read. No complete article or structural-map audit claimed.
+
+
+Follow-up: [Crow supplemental calibration audit](CROW-SUPPLEMENT-AUDIT.md) recovers methods and workbooks; main-paper fault interpretation remains unverified.

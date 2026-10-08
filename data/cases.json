@@ -548,6 +548,11 @@
           "source_id": "S209",
           "locator": "Institutional repository abstract",
           "statement": "Authors propose a revised4.80–4.63 Ma river-to-Gulf integration interval and probable fault-related section duplication. Abstract-only access; not independent verification of their chronology or fault interpretation."
+        },
+        {
+          "source_id": "S210",
+          "locator": "Methods PDF pp1-2; Table1 Sheet1 rows20-24,59-64; Sheet2 broken formulas",
+          "statement": "Supplement documents calibration assumptions and revised Lawlor ages. Displayed Berkeley pair gives a conditional weighted mean differing from the preferred stored summary; auxiliary sheet has17 broken references. These reproducibility limits do not establish false ages or historical-era deposition; see research/CROW-SUPPLEMENT-AUDIT.md."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

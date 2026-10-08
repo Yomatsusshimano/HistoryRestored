@@ -1,0 +1,55 @@
+{
+  "source_id": "S210",
+  "metadata_url": "https://api.figshare.com/v2/articles/13530698",
+  "files": [
+    {
+      "name": "G48080_SuppMat.pdf",
+      "url": "https://ndownloader.figshare.com/files/25972898",
+      "bytes": 2995622,
+      "sha256": "da95aa4426441373d4665d0839121913651652f5801ec87f38cdcbe4c75c29b8",
+      "inspection": "PDF pages1-2 visually inspected; remaining extracted text read, figures unaudited"
+    },
+    {
+      "name": "G48080_SuppTab1.xlsx",
+      "url": "https://ndownloader.figshare.com/files/25972901",
+      "bytes": 33782,
+      "sha256": "ce56e3718ee95870756129be2ba8c90d1a43f48617ed0dce897970062ebe13a3",
+      "inspection": "Stored content read; selected Lawlor cells and broken formulas audited; not rendered or executed"
+    },
+    {
+      "name": "G48080_SuppTab2.xlsx",
+      "url": "https://ndownloader.figshare.com/files/25972904",
+      "bytes": 2471928,
+      "sha256": "9bedd2c351880c6889e8862014c9f8ccd43f5c318115ba26f498a0a625c19c1c",
+      "inspection": "Sheet names and dimensions only; analytical contents unaudited"
+    },
+    {
+      "name": "G48080_SuppTab3.xlsx",
+      "url": "https://ndownloader.figshare.com/files/25972907",
+      "bytes": 150441,
+      "sha256": "f2d5283df26bcdd6fda30368573515fd78f51b8d3dfc249abb8c2521744faa9e",
+      "inspection": "Sheet names and dimensions only; analytical contents unaudited"
+    },
+    {
+      "name": "G48080_SuppTab4.xlsx",
+      "url": "https://ndownloader.figshare.com/files/25972910",
+      "bytes": 22701,
+      "sha256": "f7a64222335ee97a1607cdb2695959182a91fe1de6463489077198b0ad1e9152",
+      "inspection": "Sheet names and dimensions only; analytical contents unaudited"
+    },
+    {
+      "name": "G48080_SuppTab5.xlsx",
+      "url": "https://ndownloader.figshare.com/files/25972913",
+      "bytes": 21180,
+      "sha256": "250d49e4de43cd269a30af35632f375010a59a4ec3b2423b7ef47b24a2f73520",
+      "inspection": "Sheet names and dimensions only; analytical contents unaudited"
+    },
+    {
+      "name": "G48080_SuppTab6.xlsx",
+      "url": "https://ndownloader.figshare.com/files/25972916",
+      "bytes": 22243,
+      "sha256": "f86de6cdec7dcf9b9e62b45b5898f538d7e29812357efb828561ae6d85d1660c",
+      "inspection": "Sheet names and dimensions only; analytical contents unaudited"
+    }
+  ]
+}

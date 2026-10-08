@@ -304,3 +304,6 @@ S207 Calzia/Morton1980 recovered: K41-4 labels RD-16 reported9.3/recalculated9.6
 Integrated S194-S207 into cross-case and Bouse discrimination assessments. Prioritize measured brackets or a bounded lag for a named target fossil bed over additional underlying dates. Original supplemental-row retrieval is complete; final argon reproduction, bed transfer and independent route tests remain open.
 
 S208 identifies younger regional controls, especially Nomlaki tephra in a post-Bullhead inset fan. Next primary-deposition/age-correlation records, Matmon2012 inputs and target-bed transfer. S209 abstract proposes later revised integration chronology; retrieve full methods before adopting or rejecting fault-duplication explanation.
+
+
+S210 supplement recovered and hashed; methods pp1-2 and selected Lawlor Table1 cells audited. Next reconcile preferred summary/covariance, Highwall Wash Tables2/3/6 and main-paper fault argument. Do not repeat supplemental retrieval as pending. Broken auxiliary references and prose error-expression issue remain scoped reproducibility questions.

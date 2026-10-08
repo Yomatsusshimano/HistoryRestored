@@ -928,3 +928,8 @@ Previous turn published verified progress; clean tree confirmed. Compared curren
 ### 2026-10-08 — Younger regional age constraints
 
 Previous turn published verified synthesis; clean tree confirmed. Retrieved/hash-checked Howard2015 PDF and visually inspected age discussion on12. Identified distinct Mohave Valley and Greggs Basin controls without transferring them automatically to southern Bouse. Retrieved Crow2021 institutional abstract; web download403. Published later chronology challenge alongside older model and specified original-data checks. No new date, field contact, regional synchronization or independent review claimed.
+
+
+### 2026-10-08 — Crow supplemental calibration audit
+
+The model-switch acknowledgement made no research progress; clean checkout revalidated. Confirmed seven recovered files and inspected methods scans plus Table1 stored cells/styles/formulas. Preserved Lawlor recalibration versions, conditional mean mismatch and17 broken auxiliary references. Published reproducible extraction with explicit independence assumption. Main paper remains abstract-only; other workbook analyses and fault duplication remain unverified. No revised eruption age, historical-age inference or independent review claimed.

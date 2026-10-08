@@ -1,0 +1,292 @@
+{
+  "source_id": "S210",
+  "sha256": "ce56e3718ee95870756129be2ba8c90d1a43f48617ed0dce897970062ebe13a3",
+  "inspection": "Stored cells and font metadata; workbook not rendered or executed.",
+  "lawlor_rows": [
+    {
+      "row": 20,
+      "cells": {
+        "A20": {
+          "value": "20954-01p",
+          "underline": null,
+          "type": "s"
+        },
+        "B20": {
+          "value": "Sarna-Wojcicki et al., 2011",
+          "underline": null,
+          "type": "s"
+        },
+        "C20": {
+          "value": "Berk",
+          "underline": null,
+          "type": "s"
+        },
+        "D20": {
+          "value": "FSC, 28.02",
+          "underline": null,
+          "type": "s"
+        },
+        "E20": {
+          "value": "Steiger and Jager, 1977",
+          "underline": null,
+          "type": "s"
+        },
+        "F20": {
+          "value": 4.843,
+          "underline": null,
+          "type": "n"
+        },
+        "G20": {
+          "value": 0.032,
+          "underline": null,
+          "type": "n"
+        },
+        "H20": {
+          "value": 4.874,
+          "underline": null,
+          "type": "n"
+        },
+        "I20": {
+          "value": 0.032,
+          "underline": null,
+          "type": "n"
+        }
+      }
+    },
+    {
+      "row": 21,
+      "cells": {
+        "A21": {
+          "value": "20955-02p",
+          "underline": null,
+          "type": "s"
+        },
+        "B21": {
+          "value": "Sarna-Wojcicki et al., 2011",
+          "underline": null,
+          "type": "s"
+        },
+        "C21": {
+          "value": "Berk",
+          "underline": null,
+          "type": "s"
+        },
+        "D21": {
+          "value": "FSC, 28.02",
+          "underline": null,
+          "type": "s"
+        },
+        "E21": {
+          "value": "Steiger and Jager, 1977",
+          "underline": null,
+          "type": "s"
+        },
+        "F21": {
+          "value": 4.833,
+          "underline": null,
+          "type": "n"
+        },
+        "G21": {
+          "value": 0.026,
+          "underline": null,
+          "type": "n"
+        },
+        "H21": {
+          "value": 4.864,
+          "underline": null,
+          "type": "n"
+        },
+        "I21": {
+          "value": 0.026,
+          "underline": null,
+          "type": "n"
+        }
+      }
+    },
+    {
+      "row": 22,
+      "cells": {
+        "A22": {
+          "value": "758-318Xp",
+          "underline": null,
+          "type": "s"
+        },
+        "B22": {
+          "value": "Sarna-Wojcicki et al., 2011",
+          "underline": null,
+          "type": "s"
+        },
+        "C22": {
+          "value": "USGS-m",
+          "underline": null,
+          "type": "s"
+        },
+        "D22": {
+          "value": "TCR, 28.02¥",
+          "underline": null,
+          "type": "s"
+        },
+        "E22": {
+          "value": "Steiger and Jager, 1977",
+          "underline": null,
+          "type": "s"
+        },
+        "F22": {
+          "value": 4.67,
+          "underline": null,
+          "type": "n"
+        },
+        "G22": {
+          "value": 0.06,
+          "underline": null,
+          "type": "n"
+        },
+        "H22": {
+          "value": 4.756,
+          "underline": null,
+          "type": "n"
+        },
+        "I22": {
+          "value": 0.06,
+          "underline": null,
+          "type": "n"
+        }
+      }
+    },
+    {
+      "row": 23,
+      "cells": {
+        "A23": {
+          "value": "  weighted mean of Berkeley Ages",
+          "underline": "single",
+          "type": "s"
+        },
+        "F23": {
+          "value": 4.865,
+          "underline": "single",
+          "type": "n"
+        },
+        "G23": {
+          "value": 0.0212,
+          "underline": "single",
+          "type": "n"
+        },
+        "H23": {
+          "value": 4.865,
+          "underline": "single",
+          "type": "n"
+        },
+        "I23": {
+          "value": 0.0212,
+          "underline": "single",
+          "type": "n"
+        }
+      }
+    },
+    {
+      "row": 24,
+      "cells": {
+        "A24": {
+          "value": "  weighted mean of all ages",
+          "underline": null,
+          "type": "s"
+        },
+        "F24": {
+          "value": 4.8566,
+          "underline": null,
+          "type": "n"
+        },
+        "G24": {
+          "value": 0.0483,
+          "underline": null,
+          "type": "n"
+        },
+        "H24": {
+          "value": 4.8566,
+          "underline": null,
+          "type": "n"
+        },
+        "I24": {
+          "value": 0.0483,
+          "underline": null,
+          "type": "n"
+        }
+      }
+    }
+  ],
+  "conditional_two_row_calculation": {
+    "assumption": "Independent displayed ages/errors, inverse variance weighting; no shared calibration covariance or additional inputs. Errors follow table 2sigma convention.",
+    "mean_Ma": 4.867976470588236,
+    "internal_2sigma_Ma": 0.020178964003022902
+  },
+  "auxiliary_broken_references": [
+    {
+      "cell": "C3",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "D3",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "E3",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "C10",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "D10",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "E10",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "D21",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "E21",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "C22",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "D22",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "E22",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "C23",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "D23",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "E23",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "C24",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "D24",
+      "formula": "=Sheet1!#REF!"
+    },
+    {
+      "cell": "E24",
+      "formula": "=Sheet1!#REF!"
+    }
+  ]
+}
