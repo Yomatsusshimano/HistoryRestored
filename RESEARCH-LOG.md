@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Contemporary Canadian lamp attribution
+
+Previous turn made progress: f26555f published six verified files; clean checkout confirmed. Located August 1874 Patent Office Record through Canadiana. Browser exposed a working PDF download; inspected printed pp.71,72,75 visually. Added S130 and structured entry for No.3738, preserving joint names, printed date role and claim summary. No original application or Edison assignment acquired. Contemporary predecessor credit does not establish ancient recovery or complete technical priority. Full goal remains active.
+
 ## 2026-10-08 - Public attribution versus transaction evidence
 
 Previous turn made progress: dfa652e published six verified files; clean checkout confirmed. Returned to C007 and searched for the original rights transfer. No transaction instrument recovered. Added S129 as evidence of institutional public attribution only, preserving secondary status for historical claims. Local download returned HTML and screenshot retrieval did not produce an inspected image; access remains text portion. No concealment mechanism, global prevalence or new institutional adoption claimed. Full goal remains active.

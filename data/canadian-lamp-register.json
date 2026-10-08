@@ -1,0 +1,21 @@
+{
+  "case_id": "C007",
+  "source_id": "S130",
+  "locator": "Printed p.75, left column, entry No.3738; section heading on p.71",
+  "patent_number": "3738",
+  "jurisdiction": "Canada",
+  "title_printed": "Electric Light",
+  "names_printed": [
+    "Henry Woodward",
+    "Mathew Evans"
+  ],
+  "place_printed": "Toronto, Ont.",
+  "date_printed": "1874-08-03",
+  "date_role": "Date in Inventions Patented register entry; original grant instrument not inspected",
+  "term_printed_years": 5,
+  "application_date": null,
+  "assignment_to_edison": null,
+  "performance_test": null,
+  "claim_summary": "Carbons in lamps or other suitable vessels filled with rarefied gas that does not chemically combine with incandescent carbon, with electrodes fixing or connecting the carbon.",
+  "limits": "Printed attribution and date, not absolute invention priority or proof of transfer. Nulls indicate unaudited matters."
+}

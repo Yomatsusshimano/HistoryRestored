@@ -18,6 +18,14 @@ Locators: Woodward PDF pages 1-3; Edison PDF pages 2-3. The table summarizes dis
 
 ## Credit and transmission
 
+### Canadian register: joint attribution and a distinct patent date
+
+[The Canadian Patent Office Record, August 1874, S130](https://www.canadiana.ca/view/oocihm.8_04863_17/6), printed p.75, lists No.3738, Electric Light, under Henry Woodward and Mathew Evans of Toronto. Its date is **3 August 1874**, with a five-year term. Printed p.71 places the entries under Inventions Patented. Both pages and the intervening p.72 were visually inspected in the downloaded facsimile. [Structured record](../data/canadian-lamp-register.json).
+
+The claim summary concerns carbon in a rarefied, nonreactive gas and the electrode connection, consistent with the broad arrangement already inspected in the later US disclosure. The Canadian notice names both men; the US specification heading names Woodward. This difference establishes what the two documents print, not why the names differ. Canadian application papers, US prosecution and assignments remain needed before alleging erased authorship.
+
+The August register date must not be collapsed into an application, affidavit or invention date. The July 24 date encountered in later accounts may refer to a different documentary step; its original instrument has not been inspected here. No contradiction requiring a rewritten chronology follows merely from distinct dates. The register does establish contemporary published predecessor credit, but supplies neither an Edison purchase record nor independent lamp-performance evidence.
+
 ### Public attribution is not uniformly Edison-only
 
 [S129, Innovation Canada (2011)](https://publications.gc.ca/collections/collection_2011/ic/Iu4-149-1-2011-eng.pdf), PDF p.2, names Woodward and Evans and presents lamp development as incremental. It also reports patent purchases, but supplies no inspected transfer instrument here. Page 4 cautions that attributed statements need not represent government policy. Only extracted text was inspected.

@@ -2083,6 +2083,21 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S130",
+      "title": "The Canadian Patent Office Record, volume II, no. 5, August 1874",
+      "creator": "The Canadian Patent Office Record; Montreal: G. E. Desbarats",
+      "publication_date": "1874-08",
+      "source_type": "Contemporary printed patent register",
+      "url": "https://www.canadiana.ca/view/oocihm.8_04863_17/6",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp.71,72,75 / PDF pp.2,3,6; issue heading, Inventions Patented heading, and entry 3738.",
+      "limitations": "Register notice and claim summary, not complete Canadian prosecution file or later assignment instrument. No performance measurements.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "cbb8162d50d95703a99feb09d71d9e5a18e63ec43bb270d046d5c1b8e7910362",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
