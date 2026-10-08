@@ -963,3 +963,8 @@ Previous turn made verified public progress; clean tree confirmed. Visually insp
 ### 2026-10-08 — Ash inheritance and physical sequence
 
 Previous turn made verified public progress; clean tree confirmed. Visually checked thesis ash discussion, sediment interpretation and Highwall photograph/caption. Published source-aware sample settings and separate tests of in-place exposure, transported fragments and later alteration. Preserved approximate height variants and caption uncertainty/locality discrepancies. No new depositional date, field verification, measured duration or global event inference claimed.
+
+
+### 2026-10-08 — Youngest Lost Cabin grain uncertainty
+
+Previous turn made verified public progress; clean tree confirmed. Visually inspected Table5 headers/first3 rows and text-read analysis methods. Resolved quoted0.788Ma as one sigma including J, retaining equal rounded errors and missing unique grain ID. Published first-two interval overlap and strictly mineral-age interpretation of doubled error. No full population pooling, isotope refit or sediment date inferred.

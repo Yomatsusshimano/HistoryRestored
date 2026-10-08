@@ -40,3 +40,15 @@ If interbedded horizons demonstrably formed in place and were subsequently burie
 These are proposed follow-up tests, **not preregistered successes** or features all verified here. Field photographs, thin sections, surveyed contacts and sample-level analytical context are needed. This keeps physical sequencing evidence in the test even while the magnetic calculation remains unresolved.
 
 Related: [age-transfer bounds](BOUSE-AGE-TRANSFER.md), [Highwall age arithmetic](HIGHWALL-WASH.md), [magnetic-source audit](LOST-CABIN-REVERSAL.md).
+
+## Youngest-grain analytical crosswalk
+
+Follow-up visual inspection of Table5, printed56/PDF64, resolves the uncertainty convention. The first analytical row is RC15-LCW-111, aliquot label#10, **5.489 ±0.788Ma at one sigma**. Separate columns without and with J uncertainty both round to0.788Ma. Methods printed13 (text-read) also specifies one-sigma errors including counting, J and correction-factor contributions. Identical rounded errors do not establish a zero J contribution.
+
+The next two displayed rows, also labeled RC15-LCW-111#10, are6.720 ±0.843 and7.108 ±0.382Ma, with one-sigma errors. No unique crystal identifier distinguishes these rows in the printed table; the archive uses explicit page/row locators, not invented laboratory IDs. [Transcribed rows](../data/lcw111-youngest-rows.json) retain isotope-ratio, radiogenic-fraction and reported error fields.
+
+For the first two rows, direct age±one-sigma intervals are4.701–6.277 and5.877–7.563Ma and overlap. Thus the youngest point estimate is not, from these uncertainties alone, a sharply separated youngest age population. This overlap neither proves a common eruption nor licenses pooling different inherited grains into an eruption date. The entire99-grain distribution, analytical suitability and source context remain to be assessed.
+
+Doubling the youngest row's printed one-sigma error gives a descriptive two-sigma interval3.913–7.065Ma. This is an interval around a **mineral age**, not a depositional-age interval or a probability that a catastrophe occurred then. A reworked grain can predate its host sediment by an unknown amount. The source's interpreted ashfall and depositional connection still needs evidence beyond choosing the smallest point estimate.
+
+The printed J field is rounded to0.0007, with reported J error0.000000904; it should not be treated as the full-precision original calibration input. No isotope-age recalculation is claimed. Earlier statements that the quoted sigma convention was unresolved describe the pre-crosswalk audit and are superseded by this table check. Unique grain ID and original acquisition-record linkage remain unresolved.

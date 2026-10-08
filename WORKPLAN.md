@@ -325,3 +325,6 @@ S211 Table2 scan pass completed; no missing normal pair recovered. Three equal-w
 
 
 S211 sediment settings inspected: LCW-ASH2/3 interpreted reworked; RC15-LCW-111 thin-bed context and height variants retained. Next analytical youngest-grain crosswalk and in-place versus transported exposure surfaces. Full-section one-pulse and later reworking models require different contacts; do not conflate them.
+
+
+LCW111 youngest-row crosswalk completed: Table5 aliquot10, first row, one-sigma with J confirmed; first3 rows preserved. Next unique grain/acquisition record, full population/calibration and primary-deposition linkage. Do not repeat sigma discovery as pending or interpret mineral interval as bed age.

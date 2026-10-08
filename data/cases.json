@@ -583,6 +583,11 @@
           "source_id": "S211",
           "locator": "printed20-21,27-28,96; research/LOST-CABIN-SEDIMENTS.md",
           "statement": "Author interprets LCW-ASH2/3 as reworked older material and reports burrows, mudcracks and soil horizons in sediment sequence. Inherited crystal ages are not direct depositional dates; verified in-place interbedded exposure would challenge uninterrupted single-flood deposition without by itself supplying duration. Field verification and youngest-grain crosswalk remain pending."
+        },
+        {
+          "source_id": "S211",
+          "locator": "Table5 printed56/PDF64 first3 data rows; methods13",
+          "statement": "RC15-LCW-111 aliquot10 first row confirms5.489±0.788Ma at one sigma with J; no unique crystal ID printed. First two age±one-sigma ranges overlap, so youngest point estimate is not alone an isolated eruption population. Mineral uncertainty interval is not a sediment deposition interval."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",
