@@ -78,3 +78,34 @@ A bound on fitted slope and a cutoff on each point's ratio are mathematically di
 This algebra matters because S216's method includes a common post-burial contribution rather than forcing the line through the origin. The nominal production ratio alone therefore does not prove that every higher measured ratio is incompatible with every common-history isochron. A physically constrained model of intercept, production and shielding might still reject particular points; that requires the model and data, not just a comparison of a central ratio with6.75.
 
 The predecessor's rule must not be substituted silently for the later paper's stated procedure. Its priors, posterior summary and rejection threshold are useful lineage evidence, but citation does not prove that S216 inherited every setting. Our next reconstruction should explicitly compare the published ratio-screened membership against an all-point, errors-in-both-variables fit with declared priors and residual checks. Any replacement implementation must be labeled independently specified until checked against original code and inputs. Other publicly searchable burial packages are not established copies of the program used here.
+
+## Independent fit with uncertainty in both isotopes
+
+We now fit the preserved Table2 measurements with an explicitly specified **profile chi-square diagnostic**, keeping all source exclusions visible. [Python code](../analysis/fit_burial_eiv.py) uses only the standard library; [complete results](../data/burial-eiv-fit.json) include membership, intercepts and signed residuals. The aluminium header discrepancy remains: use as26Al is conditional.
+
+Let x and y be the reported10Be and aluminium concentrations, with errors sx and sy. Assume independent Gaussian measurement errors, zero covariance and a straight relationship with no intrinsic scatter. Minimizing over each unknown true x coordinate gives
+
+`Q(m,b) = sum[(y - m*x - b)^2 / (sy^2 + m^2*sx^2)]`.
+
+At each slope, the intercept is the weighted mean of `y-m*x`. This profiles the latent coordinates; it does **not** integrate them out. Accordingly it is not the marginalized likelihood with a log-variance term, a Bayesian posterior, or a reproduction of the original MATLAB calculation. The declared slope range is0–6.75, motivated by the predecessor's reported range but not asserted to reproduce S216's settings. Intercepts are unconstrained. All fitted slopes are interior and all intercepts positive; this alone does not establish physically feasible shielding or post-burial production.
+
+| Site / membership | n | Fitted slope | Intercept, atoms/g | Q/(n−2) |
+|---|---:|---:|---:|---:|
+| Topock, source retained |4|2.392369|118329|7.791|
+| Topock, all measured |6|1.971779|171351|21.188|
+| Bat Cave, source retained |4|2.472629|69973|2.812|
+| Bat Cave, all measured |5|2.048330|104855|19.629|
+| Santa Fe Railway, all six retained |6|0.797257|219080|9.413|
+| Palo Verde, source retained |3|1.651889|256915|1.011|
+| Palo Verde, restore PVD021 |4|1.424877|271869|1.038|
+| Palo Verde, all measured |5|2.591745|206735|11.917|
+
+The retained Topock and Bat Cave slopes round to the published2.39 and2.47. Santa Fe rounds to0.80 versus printed0.79, and Palo Verde to1.65 versus1.63. Approximate numerical agreement is informative but cannot identify an unrecovered algorithm or reproduce its uncertainty interval.
+
+Restoring PVD021 changes the Palo Verde slope by about14% while Q/(n−2) remains near1. Its signed normalized residual in that four-point fit is about1.00. Adding PVD020 as well increases scatter substantially; its residual in the five-point fit is about5.55. Thus these two exclusions do not have equivalent effects in this diagnostic. No point is newly rejected here, and neither fit establishes which cobbles share a burial history.
+
+The retained Topock and Santa Fe sets already scatter more than this measurement-only line model would suggest. For example, TPK006 has normalized residual−3.43 in the retained Topock fit, and CHM018 has+4.36 at Santa Fe. These are fitted residuals, not independently calibrated standard-normal test statistics. Q/(n−2) is descriptive here: we do not assign p-values, apply iterative clipping, or claim that any single residual disproves the complete source model. Unknown covariance, systematic errors, extra scatter, differing histories and transcription/analytical issues need separate investigation.
+
+The optimizer checks both slope endpoints and refines every grid-local minimum found in4096 intervals. Doubling to8192 changes the fitted slopes by less than6.2e−8. A noisy equal-error synthetic dataset matches an independent closed-form Deming regression within1e−6, and an exact synthetic line is recovered. These checks support the numerical implementation, not the geological assumptions or a global chronology.
+
+No diagnostic slope is converted into a new age. Source erosion, full post-burial production, shared errors, sample history and the original posterior calculation remain unresolved. Next inspect the original sampling sections and burial-depth histories, particularly whether the common-history assumption can explain the retained scatter and the selective effect of PVD021. This directly tests whether a date of prior burial can be transferred to the deposition episode relevant to the catastrophe hypothesis.

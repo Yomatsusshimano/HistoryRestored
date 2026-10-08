@@ -663,6 +663,11 @@
           "source_id": "S217",
           "locator": "Publisher Bayesian-method paragraphs and data/code availability; research/COLORADO-BURIAL-DATING.md",
           "statement": "Cited predecessor bounds fitted slopes0–6.75 and excludes points by departure from fitted line, unlike S216 point-ratio cutoff. Positive intercept makes these different tests. Exact inherited software/settings remain unverified."
+        },
+        {
+          "source_id": "S216",
+          "locator": "Table2; analysis/fit_burial_eiv.py; data/burial-eiv-fit.json; research/COLORADO-BURIAL-DATING.md",
+          "statement": "Independent profile chi-square fit includes both isotope measurement errors with zero covariance assumed. Restoring PVD021 changes slope1.651889 to1.424877 with Q/(n-2) near1; all five yield2.591745 and11.917. Retained Topock/Santa Fe have Q/(n-2)7.791/9.413. No original Bayesian reproduction, calibrated rejection test or new burial age."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

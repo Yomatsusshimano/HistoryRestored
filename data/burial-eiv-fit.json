@@ -1,0 +1,247 @@
+{
+  "source_id": "S216",
+  "model": "Profile latent-coordinate Gaussian chi-square: Q=sum((y-m*x-b)^2/(sy^2+m^2*sx^2)); at each m, b is weighted mean(y-m*x).",
+  "assumptions": [
+    "Al column conditionally interpreted as26Al despite printed27Al header.",
+    "Independent Gaussian measurement errors with supplied one-sigma magnitudes; covariance set to zero because unavailable.",
+    "Slope constrained to [0,6.75] as a declared comparison range; unconstrained intercept.",
+    "No intrinsic scatter, shared systematic errors, erosion correction or full post-burial production model."
+  ],
+  "limits": "Not a Bayesian posterior or marginalized likelihood; no log-variance term. Not reproduction of original MATLAB code. Q/(n-2) and residuals are descriptive, not calibrated p-values. No new exclusion decisions or burial ages.",
+  "optimizer": "4096 grid intervals; golden-section refinement at each grid-local minimum; endpoints compared; checked at8192 intervals.",
+  "numerical_checks": {
+    "closed_form_Deming_slope": 1.982379198090853,
+    "computed_slope": 1.9823792049256959,
+    "exact_synthetic_line_recovered": true,
+    "max_slope_change_on_grid_doubling": 6.193287704903128e-08
+  },
+  "groups": [
+    {
+      "site": "Topock",
+      "published_rounded_slope": 2.39,
+      "selections": {
+        "source_retained": {
+          "samples": [
+            "TPK002",
+            "TPK003",
+            "TPK005",
+            "TPK006"
+          ],
+          "n": 4,
+          "slope": 2.3923694585009763,
+          "intercept_atoms_g": 118329.08761037805,
+          "Q": 15.58210051553324,
+          "nominal_degrees_of_freedom": 2,
+          "Q_over_n_minus_2": 7.79105025776662,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "TPK002": 0.823093465873824,
+            "TPK003": -1.2403034057986184,
+            "TPK005": 1.2686804183955365,
+            "TPK006": -3.4288066611451176
+          }
+        },
+        "all_measured": {
+          "samples": [
+            "TPK001",
+            "TPK002",
+            "TPK003",
+            "TPK004",
+            "TPK005",
+            "TPK006"
+          ],
+          "n": 6,
+          "slope": 1.9717788777966563,
+          "intercept_atoms_g": 171350.64899271305,
+          "Q": 84.75246631565133,
+          "nominal_degrees_of_freedom": 4,
+          "Q_over_n_minus_2": 21.188116578912833,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "TPK001": 5.5706429382156175,
+            "TPK002": -2.3544242368917216,
+            "TPK003": -3.6366748233119592,
+            "TPK004": 4.7224770687780415,
+            "TPK005": 1.1325286297143233,
+            "TPK006": -3.3715390477537874
+          }
+        }
+      }
+    },
+    {
+      "site": "Bat Cave",
+      "published_rounded_slope": 2.47,
+      "selections": {
+        "source_retained": {
+          "samples": [
+            "BC007",
+            "BC008",
+            "BC010",
+            "BC011"
+          ],
+          "n": 4,
+          "slope": 2.472628961796822,
+          "intercept_atoms_g": 69972.78326135105,
+          "Q": 5.623115589138378,
+          "nominal_degrees_of_freedom": 2,
+          "Q_over_n_minus_2": 2.811557794569189,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "BC007": -0.19676967132236226,
+            "BC008": 1.0977794669887138,
+            "BC010": 0.14535791117692376,
+            "BC011": -2.087617926034916
+          }
+        },
+        "all_measured": {
+          "samples": [
+            "BC007",
+            "BC008",
+            "BC009",
+            "BC010",
+            "BC011"
+          ],
+          "n": 5,
+          "slope": 2.048329846773245,
+          "intercept_atoms_g": 104854.9280207595,
+          "Q": 58.887610898270054,
+          "nominal_degrees_of_freedom": 3,
+          "Q_over_n_minus_2": 19.629203632756685,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "BC007": -1.6841558144300277,
+            "BC008": 1.1441411770897443,
+            "BC009": 6.716537887261351,
+            "BC010": -2.2933663477008213,
+            "BC011": -2.0906364251336247
+          }
+        }
+      }
+    },
+    {
+      "site": "Santa Fe Railway",
+      "published_rounded_slope": 0.79,
+      "selections": {
+        "source_retained": {
+          "samples": [
+            "CHM013",
+            "CHM014",
+            "CHM015",
+            "CHM016",
+            "CHM017",
+            "CHM018"
+          ],
+          "n": 6,
+          "slope": 0.7972570033054533,
+          "intercept_atoms_g": 219080.21399459845,
+          "Q": 37.651330865996236,
+          "nominal_degrees_of_freedom": 4,
+          "Q_over_n_minus_2": 9.412832716499059,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "CHM013": -0.5353446338762787,
+            "CHM014": -2.799771330591824,
+            "CHM015": 0.14017400575313968,
+            "CHM016": 3.0799678057892863,
+            "CHM017": 1.0188561411172001,
+            "CHM018": 4.35684509851941
+          }
+        },
+        "all_measured": {
+          "samples": [
+            "CHM013",
+            "CHM014",
+            "CHM015",
+            "CHM016",
+            "CHM017",
+            "CHM018"
+          ],
+          "n": 6,
+          "slope": 0.7972570033054533,
+          "intercept_atoms_g": 219080.21399459845,
+          "Q": 37.651330865996236,
+          "nominal_degrees_of_freedom": 4,
+          "Q_over_n_minus_2": 9.412832716499059,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "CHM013": -0.5353446338762787,
+            "CHM014": -2.799771330591824,
+            "CHM015": 0.14017400575313968,
+            "CHM016": 3.0799678057892863,
+            "CHM017": 1.0188561411172001,
+            "CHM018": 4.35684509851941
+          }
+        }
+      }
+    },
+    {
+      "site": "Palo Verde",
+      "published_rounded_slope": 1.63,
+      "selections": {
+        "source_retained": {
+          "samples": [
+            "PVD019",
+            "PVD022",
+            "PVD023"
+          ],
+          "n": 3,
+          "slope": 1.6518891174671806,
+          "intercept_atoms_g": 256915.22132993548,
+          "Q": 1.0105150442993023,
+          "nominal_degrees_of_freedom": 1,
+          "Q_over_n_minus_2": 1.0105150442993023,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "PVD019": 0.24206537959411153,
+            "PVD022": -0.9630830904610087,
+            "PVD023": 0.15617412451918328
+          }
+        },
+        "all_measured": {
+          "samples": [
+            "PVD019",
+            "PVD020",
+            "PVD021",
+            "PVD022",
+            "PVD023"
+          ],
+          "n": 5,
+          "slope": 2.5917453675057516,
+          "intercept_atoms_g": 206735.18085146544,
+          "Q": 35.75178059484406,
+          "nominal_degrees_of_freedom": 3,
+          "Q_over_n_minus_2": 11.917260198281353,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "PVD019": -0.3167632751990612,
+            "PVD020": 5.5477675490221685,
+            "PVD021": 1.038063664994875,
+            "PVD022": -1.3653011731603888,
+            "PVD023": -1.3899976181022946
+          }
+        },
+        "restore_PVD021": {
+          "samples": [
+            "PVD019",
+            "PVD021",
+            "PVD022",
+            "PVD023"
+          ],
+          "n": 4,
+          "slope": 1.4248770622354376,
+          "intercept_atoms_g": 271869.160097986,
+          "Q": 2.076093685654535,
+          "nominal_degrees_of_freedom": 2,
+          "Q_over_n_minus_2": 1.0380468428272676,
+          "at_slope_boundary": false,
+          "standardized_residuals": {
+            "PVD019": -0.0043607979637374766,
+            "PVD021": 0.9983937403514066,
+            "PVD022": -1.0106571636274215,
+            "PVD023": 0.24053420948247234
+          }
+        }
+      }
+    }
+  ]
+}

@@ -388,3 +388,8 @@ All5 excluded points checked against reported errors under explicit zero covaria
 ### 2026-10-08 — Burial software lineage and exclusion logic
 
 S217 cited-method lineage recovered: slope prior and residual-based exclusion differ from S216 point-ratio cutoff. Code offered on request, not recovered; no contact made. Next declared errors-in-variables all-point versus screened comparison and physical intercept constraints, retaining exact-code uncertainty.
+
+
+### 2026-10-08 — Burial errors-in-variables diagnostic
+
+Independent errors-in-both-isotope profile fits published for every site and declared membership, including restored PVD021. Next inspect original sampling sections, burial-depth and shielding histories, and physical intercept constraints; pursue exact-code/covariance gaps without calling this diagnostic an original Bayesian reproduction.

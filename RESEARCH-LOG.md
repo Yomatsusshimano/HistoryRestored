@@ -1030,3 +1030,8 @@ Previous turn made verified public progress; clean checkout confirmed. Computed 
 ### 2026-10-08 — Burial software lineage and exclusion logic
 
 Previous turn made verified public progress; clean checkout confirmed. Read S216 acknowledgements and S217 publisher methods/availability. Bounded searches did not recover the original MATLAB implementation. Published distinction between slope bounds and point ratios with explicitly synthetic algebraic counterexample. No substitute package claimed as original, author contact, actual Bayesian reproduction or revised age.
+
+
+### 2026-10-08 — Burial errors-in-variables diagnostic
+
+The immediately preceding model-switch acknowledgment made no research progress; resumed from the verified clean repository. Added an independently specified profile chi-square diagnostic with both measurement errors, preserved all source selections, and compared all points plus restored PVD021. Found selection sensitivity and retained-sample excess scatter under the declared model. Closed-form Deming and synthetic-line checks plus grid doubling verify numerical behavior only. No calibrated p-values, new exclusion rule, replacement burial ages, or scientific validation claimed.
