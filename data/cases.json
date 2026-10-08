@@ -62,18 +62,23 @@
           "source_id": "S45",
           "locator": "Item 9349, full displayed photograph and caption; lower-left inscription",
           "statement": "Image shows buildings beside steep earth faces and a broad cleared area. Visible 6-27-10 inscription agrees with cataloged June 27, 1910 date; location and camera direction are institutional attributions."
+        },
+        {
+          "source_id": "S46",
+          "locator": "UW Document 46, equipment and final aggregate excerpts",
+          "statement": "Participant engineering account describes mechanized excavation and gives pump capacity and approximate combined excavation/cost estimates; original records and actual throughput remain unchecked."
         }
       ],
       "physical_evidence": "One digitized archival photograph visually inspected; exposed earth faces, remaining buildings and cleared ground visible. No site inspection, sediment sample or calibrated survey.",
-      "surviving_documents": "Album finding aid plus inspected item 9349 from separate Engineering Department negative series 2613-07; not a verified chronological image sequence.",
+      "surviving_documents": "Album finding aid plus inspected item 9349 from separate Engineering Department negative series 2613-07; not a verified chronological image sequence. Selected institutional transcription of Piper report, circa 1910, now inspected; underlying microform pending.",
       "source_interpretation": "The catalog attributes terrain changes to a regrade project.",
-      "investigation_inference": "Image supports an urban excavation/regrade context but cannot independently establish full project history, excavation volume or the origin/age of exposed sediment.",
+      "investigation_inference": "Image supports an urban excavation/regrade context but cannot independently establish full project history, excavation volume or the origin/age of exposed sediment. Engineering narrative supports deliberate excavation. Daily water-capacity arithmetic agrees, but does not validate achieved sediment removal.",
       "competing_explanations": [
         "Documented earthmoving",
         "An earlier natural event, separately testable"
       ],
       "counterevidence": "A regrade catalog cannot be recast as a catastrophe deposit without examining the underlying objects.",
-      "next_test": "Retrieve adjacent dated frames and block-specific grade plans; register stable buildings/streets to survey control before calculating terrain change.",
+      "next_test": "Retrieve full Piper report and contracts, pump operating logs and block-specific before/after grade surveys; register photographs to survey control and reconcile phase-specific excavation totals.",
       "chronology": {
         "reported": "Album collection 1904-1929; separately inspected item 9349 cataloged 1910-06-27 with visible 6-27-10 inscription.",
         "dated_object": "Cataloged photograph creation",
@@ -86,10 +91,11 @@
       "missing": [
         "Registered before/after image sequence",
         "Original negative provenance and survey control",
-        "Excavation volumes",
-        "Original contracts"
+        "Surveyed excavation volumes and phase boundaries",
+        "Original contracts",
+        "Full Piper report, actual pump logs and slurry concentration"
       ],
-      "dependence": "Related urban context to C001. Shared archival narratives are not independent global-event evidence. Item 9349 belongs to negative series 2613-07, not album series 2613-22; its Flickr caption and image are one archival lineage."
+      "dependence": "Related urban context to C001. Shared archival narratives are not independent global-event evidence. Item 9349 belongs to negative series 2613-07, not album series 2613-22; its Flickr caption and image are one archival lineage. Piper report and municipal photograph may share institutional context; no independent quantitative volume agreement demonstrated."
     },
     {
       "id": "C003",

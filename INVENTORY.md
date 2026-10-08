@@ -61,26 +61,27 @@ Place: Denny Hill, Seattle, Washington. Status: SOURCED_DRAFT.
 
 - The finding aid describes earthmoving and a photograph collection created in 1904-1929. [S02](https://archives.seattle.gov/finding-aids/repositories/2/resources/451). Locator: Scope and Contents and Dates fields. Access: SEARCH_EXCERPT. Limit: Direct page human-verification blocked; photographs not inspected; item 4017 link returned 404.
 - Image shows buildings beside steep earth faces and a broad cleared area. Visible 6-27-10 inscription agrees with cataloged June 27, 1910 date; location and camera direction are institutional attributions. [S45](https://www.flickr.com/photos/seattlemunicipalarchives/8699489754). Locator: Item 9349, full displayed photograph and caption; lower-left inscription. Access: SCAN_INSPECTED. Limit: Original negative and reverse not inspected; no calibrated scale, survey, volume estimate or before/after match. Camera direction/location remains catalog attribution. Former item permalink returns 404.
+- Participant engineering account describes mechanized excavation and gives pump capacity and approximate combined excavation/cost estimates; original records and actual throughput remain unchecked. [S46](https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Building%20Nature/Documents/46.html). Locator: UW Document 46, equipment and final aggregate excerpts. Access: FULL_TEXT_PORTION. Limit: Original microform, omitted portions, contracts and surveys uninspected. Participant account advocates benefits; capacity and aggregate estimates are not audited actual output.
 
 **Physical evidence:** One digitized archival photograph visually inspected; exposed earth faces, remaining buildings and cleared ground visible. No site inspection, sediment sample or calibrated survey.
 
-**Surviving documents:** Album finding aid plus inspected item 9349 from separate Engineering Department negative series 2613-07; not a verified chronological image sequence.
+**Surviving documents:** Album finding aid plus inspected item 9349 from separate Engineering Department negative series 2613-07; not a verified chronological image sequence. Selected institutional transcription of Piper report, circa 1910, now inspected; underlying microform pending.
 
 **Source interpretation:** The catalog attributes terrain changes to a regrade project.
 
-**Investigation inference:** Image supports an urban excavation/regrade context but cannot independently establish full project history, excavation volume or the origin/age of exposed sediment.
+**Investigation inference:** Image supports an urban excavation/regrade context but cannot independently establish full project history, excavation volume or the origin/age of exposed sediment. Engineering narrative supports deliberate excavation. Daily water-capacity arithmetic agrees, but does not validate achieved sediment removal.
 
 **Counterevidence:** A regrade catalog cannot be recast as a catastrophe deposit without examining the underlying objects.
 
-**Next test:** Retrieve adjacent dated frames and block-specific grade plans; register stable buildings/streets to survey control before calculating terrain change.
+**Next test:** Retrieve full Piper report and contracts, pump operating logs and block-specific before/after grade surveys; register photographs to survey control and reconcile phase-specific excavation totals.
 
-**Dependence:** Related urban context to C001. Shared archival narratives are not independent global-event evidence. Item 9349 belongs to negative series 2613-07, not album series 2613-22; its Flickr caption and image are one archival lineage.
+**Dependence:** Related urban context to C001. Shared archival narratives are not independent global-event evidence. Item 9349 belongs to negative series 2613-07, not album series 2613-22; its Flickr caption and image are one archival lineage. Piper report and municipal photograph may share institutional context; no independent quantitative volume agreement demonstrated.
 
 **Alternatives:** Documented earthmoving; An earlier natural event, separately testable
 
 **Chronology:** {"reported": "Album collection 1904-1929; separately inspected item 9349 cataloged 1910-06-27 with visible 6-27-10 inscription.", "dated_object": "Cataloged photograph creation", "method": "Archive catalog plus agreement with an on-image date inscription; original negative dating not independently authenticated.", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
-**Missing:** Registered before/after image sequence; Original negative provenance and survey control; Excavation volumes; Original contracts
+**Missing:** Registered before/after image sequence; Original negative provenance and survey control; Surveyed excavation volumes and phase boundaries; Original contracts; Full Piper report, actual pump logs and slurry concentration
 
 ## C003: High Arctic camel-bearing deposits
 

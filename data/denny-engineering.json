@@ -1,0 +1,35 @@
+{
+  "case_id": "C002",
+  "source_id": "S46",
+  "status": "SOURCED_DRAFT",
+  "locator": "UW Document 46, excerpt following first divider; original cited pp. 15-16 within composite selection",
+  "pump": {
+    "reported_start_date": "1907-02-01",
+    "motor_hp": 800,
+    "guaranteed_gallons_per_minute": 3500,
+    "gallon_definition_verified": false,
+    "reported_pressure_head_literal": "180# at the pump",
+    "pressure_unit_interpretation_verified": false,
+    "reported_daily_delivery": "slightly more than 5,000,000 gallons per 24 hr. day",
+    "calculated_gallons_per_24_hours": 5040000,
+    "actual_uptime": null,
+    "actual_water_delivered": null,
+    "sediment_concentration": null,
+    "actual_sediment_transport": null
+  },
+  "aggregate_estimates": {
+    "locator": "Final excerpt, original cited pp. 33-34 within composite selection",
+    "reported_excavation_cubic_yards_approx": 6000000,
+    "excavation_qualifier": "almost; no uncertainty or surveyed breakdown recovered",
+    "reported_cost_dollars_approx": 3000000,
+    "cost_qualifier": "probably more than; public and private combined",
+    "phase_boundaries_verified": false
+  },
+  "limits": [
+    "University transcription of selected excerpts; no original microform or contracts inspected",
+    "Original page assignment within selection is inferred from excerpt order, not scan verified",
+    "Capacity guarantee is not measured operation or excavation throughput",
+    "Report author participated in the project and advocates its benefits",
+    "Does not establish a global catastrophe or date unrelated Seattle areaways"
+  ]
+}

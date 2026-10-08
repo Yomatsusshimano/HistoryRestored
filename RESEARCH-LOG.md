@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Denny engineering account and capacity distinction
+
+Previous turn was no progress: model-switch acknowledgment only. Rechecked local instructions and current research state; resumed available source audit. Read the complete displayed UW Document 46 transcription and archival citation. Added S46, retaining selected-excerpt access and uninspected original microform. Separated participant-reported approximate excavation/cost totals from surveyed or audited quantities.
+
+Executed pump-flow conversion: 3,500 gallons/minute at continuous operation implies 5,040,000 gallons/day. No measured uptime, sediment concentration or excavation throughput inferred. Original pressure notation preserved without silently assigning units. Next full report, contracts and phase-specific surveys. Seventeen drafts, forty-six sources; no independent review or global-event conclusion.
+
 ## 2026-10-08 - First Denny regrade image inspected
 
 Previous turn made progress: ae9967a published eight public-byte-verified height-audit files. Clean checkout rechecked. Old municipal item links returned 404. Institutional Flickr item 9349 displayed successfully in background browser after web image fetch returned 403; visually inspected image, caption and on-image date. University of Washington SEA2147 catalog metadata was accessible, but its viewer was blank and expansion failed; no inspection claim or additional image finding is made for that item.

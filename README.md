@@ -20,7 +20,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Lamp patent comparison](research/LAMP-PATENT-COMPARISON.md): Woodward's earlier disclosure, Edison's claims, and unresolved transmission evidence.
 - [Cascadia chronology audit](research/CASCADIA-CHRONOLOGY.md): sample-level tree dates, an outlier, shared dating assumptions and the published correction.
 - [Seattle grade dispute](research/SEATTLE-GRADE-DISPUTE.md): resident allegations, original elevation report and unresolved source discrepancies.
-- [Denny regrade image audit](research/DENNY-REGRADE.md): first inspected archival frame, with visible terrain separated from catalog attribution and missing survey control.
+- [Denny regrade audit](research/DENNY-REGRADE.md): inspected archival frame and participant engineering account, with rated pump capacity separated from actual excavation.
 - [Sloth chronology audit](research/SLOTH-CHRONOLOGY.md): specimen-level bone dates and separate tests of death, deposition and extinction.
 - [Muskox methods audit](research/MUSKOX-METHODS.md): sample accounting, genetic-model assumptions and causal limits.
 - [Arctic hyena audit](research/ARCTIC-HYENA.md): identified teeth, a mapped collection locality and reworking limits.
