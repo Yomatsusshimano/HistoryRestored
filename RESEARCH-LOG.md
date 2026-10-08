@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camp Century dose-rate sensitivity
+
+Previous goal turn made progress: 69eb2c7 published eight byte-verified files. Clean checkout confirmed. Visually checked thesis Tables 3.4, 3.8 and appendix p.96. Transcribed four dose scenarios and computed inverse-dose-rate age ratios with equivalent dose fixed. Water sensitivity is larger than internal-potassium sensitivity in these rows; no uncertainty distribution, revised date or full correction replication claimed. Additional geochemistry rows corroborate the 4183/1062-3 association without replacing laboratory records. Full goal remains active.
+
 ## 2026-10-08 - Camp Century thesis measurements recovered
 
 Previous assistant turn was no progress: it acknowledged the model switch. Revalidated the clean checkout and recovered PDF. Visually checked three source pages and recorded three new upper-segment ages, a lower saturation limit, unavailable Unit 2 results, shared-method dependence and partial-bleaching limits. Preserved uncertainty and identifier conflicts without silent repair. Updated the previous access failure with successful browser retrieval. No pooled age, independent replication or global event established. Full twenty-part goal remains active.

@@ -996,6 +996,11 @@
           "source_id": "S144",
           "locator": "EML and public resource-map/index responses",
           "statement": "Package metadata recovered; raw measurement files not recovered through the inspected public package."
+        },
+        {
+          "source_id": "S142",
+          "locator": "Tables 3.4,3.8; Appendix I Table A.2 p.96",
+          "statement": "Dose-rate scenarios expose sensitivity to water content; geochemistry tables corroborate the 4183/1062-3 association but do not replace an original aliquot crosswalk. Fixed-dose sensitivity is published separately from age estimates."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",

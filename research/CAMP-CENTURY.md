@@ -116,3 +116,22 @@ For Unit 1, segment 1062-3 is reported saturated, with a >850 ka limit and a fad
 The discussion on p.72 explicitly allows incomplete bleaching and resulting age overestimates. It reports a 50 Gy residual correction for the pilot and a similar correction for thesis samples. This supports testing signal resetting rather than assuming that every transported grain began with zero stored dose. It does not demonstrate a recent burial date or quantify how much of the apparent age is inherited. A source's acknowledgement of an uncertainty is neither proof that it was fully corrected nor evidence of concealment.
 
 Next reconstruct the sample-specific correction chain from dose-rate inputs, aliquot distributions and residual/fading calculations, resolving the lab identifiers first. The thesis narrows the former access gap and adds observations, but does not establish a common catastrophe across distant sites or a mechanism of historical fabrication.
+
+## Dose-rate scenarios: a reproducible component sensitivity
+
+Thesis Tables 3.4 and 3.8 (printed pp.47 and 62) were visually checked. The [scenario ledger](../data/camp-century-dose-scenarios.json) preserves four fine-fraction rows and their three alternatives: assumed internal potassium and water; measured potassium with assumed water; measured potassium and water. These alternatives must not be mistaken for four independent measurements or silently substituted into the final age table. A-only and A+B sample labels remain distinct.
+
+At fixed equivalent dose, age is inversely proportional to dose rate. The [calculation](../analysis/camp_dose_sensitivity.py) and [results](../analysis/camp-dose-sensitivity-result.json) therefore isolate the consequence of changing each denominator, without claiming to rerun DRAC or correct an age:
+
+| Table 3.8 label (53-150 micrometres) | Internal-K change alone | Water change alone | Both changes |
+| --- | --- | --- | --- |
+| USU-4162A+B | +1.68% | -5.06% | -3.46% |
+| USU-4162A | +1.72% | -5.08% | -3.45% |
+| USU-4167A | +0.59% | -3.53% | -2.96% |
+| USU-4169A+B | +0.24% | +17.38% | +17.66% |
+
+Percentages describe conditional age changes, not probabilities or corrected published dates. The water comparison holds measured internal potassium fixed. For 4169A+B, the source dose rates fall from 2.533 to 2.158 Gy/kyr; the corresponding fixed-dose age increases by 17.38%. The combined percentage is multiplicative, not the sum of the other two. Uncertainty and covariance have not been propagated. This establishes sensitivity to a documented input choice, not that the choice was wrong. Present/core water measurements also do not by themselves reconstruct moisture throughout burial.
+
+Table 3.4 explicitly lists 20% water as used for 1059-6 and 1060-C1, and 42% for 1060-C3. Its role must be reconciled with Table 3.8's scenario columns and the final Table 3.9 rates. A nearest numerical match is insufficient evidence to choose a correction pipeline. The original DRAC inputs/outputs, aliquot dose-response and fading experiments, residual-dose estimates and their uncertainty propagation remain the next required records. No extra 50 Gy subtraction has been applied to values that may already contain that correction.
+
+The same inspection narrows the lower-sample identity issue: Table 3.4 and Appendix I Table A.2 (p.96) both pair USU-4183A/B with 1062-3; the appendix pairs USU-4189A with 1063-5. This supports the age table's lab family within the thesis, but does not replace the original luminescence submission and aliquot records. The conflicting Table 3.2 entries remain visible.

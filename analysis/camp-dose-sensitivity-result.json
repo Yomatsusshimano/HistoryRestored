@@ -1,0 +1,31 @@
+{
+  "source_id": "S142",
+  "formula": "At fixed equivalent dose, age_new / age_old = dose_rate_old / dose_rate_new.",
+  "scope": "Central-value component sensitivity only; no uncertainty propagation, revised age or correction-chain replication.",
+  "results": [
+    {
+      "lab_fraction_label": "USU-4162A+B_53-150",
+      "K_only_age_change_percent": 1.6838166510757757,
+      "water_only_age_change_percent": -5.062166962699822,
+      "combined_age_change_percent": -3.4635879218472443
+    },
+    {
+      "lab_fraction_label": "USU-4162A_53-150",
+      "K_only_age_change_percent": 1.7225325884543619,
+      "water_only_age_change_percent": -5.081749889527165,
+      "combined_age_change_percent": -3.446752098983641
+    },
+    {
+      "lab_fraction_label": "USU-4167A_53-150",
+      "K_only_age_change_percent": 0.5898545025560198,
+      "water_only_age_change_percent": -3.5280728376327786,
+      "combined_age_change_percent": -2.959028831562982
+    },
+    {
+      "lab_fraction_label": "USU-4169A+B_53-150",
+      "K_only_age_change_percent": 0.23687327279906523,
+      "water_only_age_change_percent": 17.377201112140874,
+      "combined_age_change_percent": 17.655236329935132
+    }
+  ]
+}

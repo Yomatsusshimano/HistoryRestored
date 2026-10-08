@@ -150,7 +150,12 @@
     ],
     "fading_source": "USU-3505 reused per Table 3.9 footnote 6",
     "locator": "Table 3.9 p.65; Table 3.2 p.44; narrative p.63",
-    "identity_resolution": null
+    "identity_resolution": null,
+    "additional_identity_evidence": {
+      "locator": "Table 3.4 p.47 and Appendix I Table A.2 p.96, visually checked",
+      "finding": "Both associate USU-4183A/B with 1062-3. Appendix associates USU-4189A with 1063-5.",
+      "interpretation": "Corroborates Table 3.9 lab family within the thesis, but is not the original luminescence submission/aliquot crosswalk. Identity resolution remains null."
+    }
   },
   "unavailable_result": {
     "segment": "1061-D1",

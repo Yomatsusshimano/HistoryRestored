@@ -182,3 +182,5 @@ Cuban original report recovered: use Hd-21185 / Cuba 6 for laboratory follow-up.
 Camp Century next dating lead is Woznick 2024 thesis (S142), download currently 403. S144 sediment-characterization package exposes metadata in the inspected public membership; obtain actual data files before analysis. Unit 2 origin and independent chronology remain unresolved.
 
 Camp Century thesis recovered through browser Download: three new upper finite estimates and one lower saturation limit transcribed. Reconcile narrative/table uncertainties and 1062-3 laboratory IDs, then reproduce sample-specific fading/residual corrections. Distinct segments share instrument/conditions; no independent replication or global chronology established.
+
+Camp Century dose sensitivity: four visually checked scenario rows yield fixed-dose age changes of about -3% to +18% when both inputs change. This is not a new age estimate. Geochemistry tables corroborate 4183/1062-3 internally; original aliquot crosswalk and full DRAC/fading/residual records remain required.

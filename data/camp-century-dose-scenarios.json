@@ -1,0 +1,120 @@
+{
+  "source_id": "S142",
+  "case_id": "C014",
+  "locator": "Table 3.8 printed p.62 / PDF p.75, visually checked",
+  "column_order": [
+    "12.5% internal K, 20% H2O",
+    "Measured internal K, 20% H2O",
+    "Measured internal K, measured H2O"
+  ],
+  "pair_definition": "Central dose rate and printed err; uncertainty level not assigned here",
+  "rows": [
+    {
+      "lab_fraction_label": "USU-4162A+B_53-150",
+      "dose_rates_Gy_per_kyr": [
+        [
+          2.174,
+          0.224
+        ],
+        [
+          2.138,
+          0.209
+        ],
+        [
+          2.252,
+          0.216
+        ]
+      ]
+    },
+    {
+      "lab_fraction_label": "USU-4162A_53-150",
+      "dose_rates_Gy_per_kyr": [
+        [
+          2.185,
+          0.224
+        ],
+        [
+          2.148,
+          0.21
+        ],
+        [
+          2.263,
+          0.217
+        ]
+      ]
+    },
+    {
+      "lab_fraction_label": "USU-4167A_53-150",
+      "dose_rates_Gy_per_kyr": [
+        [
+          2.558,
+          0.23
+        ],
+        [
+          2.543,
+          0.224
+        ],
+        [
+          2.636,
+          0.23
+        ]
+      ]
+    },
+    {
+      "lab_fraction_label": "USU-4169A+B_53-150",
+      "dose_rates_Gy_per_kyr": [
+        [
+          2.539,
+          0.23
+        ],
+        [
+          2.533,
+          0.227
+        ],
+        [
+          2.158,
+          0.21
+        ]
+      ]
+    }
+  ],
+  "water_input_table_3_4": {
+    "locator": "Printed p.47 / PDF p.60, visually checked",
+    "1059-6": {
+      "measured_percent": [
+        14,
+        17
+      ],
+      "used_percent": 20
+    },
+    "1060-C1": {
+      "measured_percent": [
+        16,
+        22,
+        26
+      ],
+      "used_percent": 20
+    },
+    "1060-C3": {
+      "measured_percent": [
+        41,
+        59
+      ],
+      "used_percent": 42
+    },
+    "1062-3": {
+      "measured_percent": [
+        12,
+        36
+      ],
+      "used_percent": 20
+    }
+  },
+  "limits": [
+    "Table 3.8 is a sensitivity table, not an unambiguous map to each final Table 3.9 dose rate.",
+    "Keep A and A+B labels distinct; no automatic substitution of pooled geochemistry for dated aliquots.",
+    "Measured present/core water content is not a reconstructed time history of moisture during burial.",
+    "Table 3.4 used values and Table 3.8 measured-water scenarios serve distinct purposes; do not silently substitute either.",
+    "No probability or revised age is assigned to these scenarios."
+  ]
+}
