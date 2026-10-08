@@ -378,3 +378,8 @@ New S216 burial-dating branch: publisher full PDF recovered, Table2 visually che
 ### 2026-10-08 — Burial figure and equation audit
 
 Figure4 and equation5 visually inspected. Fourth age-summary discrepancy found at Palo Verde; printed sign/ratio order tested explicitly. Next original MATLAB/prior/correction inputs and full retained/excluded measurement fits. Do not treat back-calculated initial ratios as recovered physical inputs.
+
+
+### 2026-10-08 — Burial exclusion sensitivity
+
+All5 excluded points checked against reported errors under explicit zero covariance. PVD021 is only0.49 measurement sigma above cutoff; diagnostic WLS sensitivity published without age conversion. Next original implementation and sample-specific exclusion rationale; do not call WLS the authors Bayesian method.

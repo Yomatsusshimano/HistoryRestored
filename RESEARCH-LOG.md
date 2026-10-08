@@ -1020,3 +1020,8 @@ Previous turn made verified public progress; clean checkout confirmed. Pursued d
 ### 2026-10-08 — Burial figure and equation audit
 
 Previous turn made verified public progress; clean checkout confirmed. Visually inspected original figure/method page. Recorded Palo Verde figure variant, preserved printed negative-age equation outcome and separate algebraically decay-consistent calculation. Published rounded-slope diagnostics without claiming reproduction of the uninspected Bayesian implementation. No new age, code-error attribution, independent validation or historical-event inference claimed.
+
+
+### 2026-10-08 — Burial exclusion sensitivity
+
+Previous turn made verified public progress; clean checkout confirmed. Computed residual-to-cutoff diagnostics for all5 exclusions, with optional common3percent production-ratio term. Published declared3/4/5-point Palo Verde WLS sensitivity. No unpublished covariance guessed, source exclusions altered, p-values assigned or replacement ages produced.

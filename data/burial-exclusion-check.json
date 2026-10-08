@@ -1,0 +1,75 @@
+{
+  "source_id": "S216",
+  "assumptions": "Al column interpreted as26Al for this conditional calculation despite printed27Al header. Measurement covariance unavailable and set to zero only as an explicit assumption.",
+  "threshold_checks": [
+    {
+      "sample": "TPK001",
+      "residual_atoms_g": 144245.75,
+      "sigma_residual_zero_covariance": 31632.949471239637,
+      "scaled_residual_fixed_ratio": 4.559984206693935,
+      "scaled_residual_with_3percent_ratio_uncertainty": 4.405886547273433
+    },
+    {
+      "sample": "TPK004",
+      "residual_atoms_g": 53657.5,
+      "sigma_residual_zero_covariance": 18646.355181710445,
+      "scaled_residual_fixed_ratio": 2.8776401327285,
+      "scaled_residual_with_3percent_ratio_uncertainty": 2.619802425298116
+    },
+    {
+      "sample": "BC009",
+      "residual_atoms_g": 103009.25,
+      "sigma_residual_zero_covariance": 21295.67699234988,
+      "scaled_residual_fixed_ratio": 4.837096751467651,
+      "scaled_residual_with_3percent_ratio_uncertainty": 4.686677574111707
+    },
+    {
+      "sample": "PVD020",
+      "residual_atoms_g": 69988.5,
+      "sigma_residual_zero_covariance": 25526.263827673647,
+      "scaled_residual_fixed_ratio": 2.7418231070746732,
+      "scaled_residual_with_3percent_ratio_uncertainty": 2.4312553847149703
+    },
+    {
+      "sample": "PVD021",
+      "residual_atoms_g": 18582.0,
+      "sigma_residual_zero_covariance": 37686.97964897824,
+      "scaled_residual_fixed_ratio": 0.49306153406495634,
+      "scaled_residual_with_3percent_ratio_uncertainty": 0.4731950589872555
+    }
+  ],
+  "threshold_limits": "Scaled residuals are diagnostics, not p-values. 3percent ratio term is a common model uncertainty, not independent evidence per sample.",
+  "palo_verde_WLS": {
+    "retained_three": {
+      "samples": [
+        "PVD019",
+        "PVD022",
+        "PVD023"
+      ],
+      "slope": 1.6355787981757273,
+      "intercept_atoms_g": 258023.49053132266
+    },
+    "restore_PVD021": {
+      "samples": [
+        "PVD019",
+        "PVD022",
+        "PVD023",
+        "PVD021"
+      ],
+      "slope": 1.4236607594869053,
+      "intercept_atoms_g": 271957.7080291838
+    },
+    "all_five": {
+      "samples": [
+        "PVD019",
+        "PVD020",
+        "PVD021",
+        "PVD022",
+        "PVD023"
+      ],
+      "slope": 2.2995678498666723,
+      "intercept_atoms_g": 224287.07116818955
+    }
+  },
+  "fit_limits": "WLS weights only Al errors, treats Be as exact, includes an intercept; no Bayesian priors, errors-in-variables, covariance, erosion or post-burial correction. Slopes are not new burial ages or independent validation."
+}

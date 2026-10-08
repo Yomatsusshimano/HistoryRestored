@@ -46,3 +46,24 @@ Equation5 prints `t = tau ln(Rm/Rinh)`, with tau positive at approximately2.07Ma
 For diagnosis only, solving the decay-consistent relation backward from the figure ages yields implied initial ratios6.656,6.650,6.523 and7.079 respectively. Those numbers are algebraically fitted to the published answers. They are not independent estimates of source erosion or validation of any correction. In particular, the Palo Verde value merits checking against the actual correction parameters rather than silently selecting a different age version to make it fit.
 
 The physically meaningful audit remains open: recover the MATLAB implementation, priors and post-burial/erosion corrections, reproduce Figure4 from the22 preserved measurements, then examine exclusion sensitivity and field histories. Documentation discrepancies narrow the reproducibility task; they do not by themselves establish a different burial time or historical catastrophe.
+
+
+## Exclusion sensitivity: point cutoff versus uncertainty
+
+The source excludes five points because their measured ratios exceed6.75. We tested that rule against the published errors without changing the source selection. For each point define `D = N26 - 6.75*N10`. With measurement covariance set to zero, `sigma_D = sqrt(sigma26² + 6.75²*sigma10²)`. This uses the aluminium column as26Al conditionally, preserving its printed-header warning.
+
+| Excluded sample | D/sigma_D, fixed6.75 | Including a3% initial-ratio uncertainty term |
+|---|---:|---:|
+|TPK001|4.56|4.41|
+|TPK004|2.88|2.62|
+|BC009|4.84|4.69|
+|PVD020|2.74|2.43|
+|PVD021|0.49|0.47|
+
+PVD021 is not well separated from the cutoff under these assumptions: the threshold lies within one propagated measurement standard deviation. That is a reason to examine the exclusion's effect, not proof that the grain shares the modeled history. The other four are farther above the cutoff. These scaled residuals are not calibrated rejection probabilities; covariance and full analytical error structure remain unknown. The3% production-ratio term is shared model uncertainty, not five independent additional measurements.
+
+For a transparent sensitivity diagnostic, we fitted `N26 = intercept + slope*N10` using inverse aluminium-error variance weights. The Palo Verde source-retained three points yield slope1.63558. Restoring PVD021 gives1.42366; including all five gives2.29957. [Code](../analysis/check_burial_exclusions.py) and [results](../data/burial-exclusion-check.json) retain every membership choice.
+
+These are deliberately limited weighted least-squares calculations: they treat10Be as exact and omit covariance, Bayesian priors, erosion correction and full post-burial modeling. The three-point slope's proximity to the published1.63 is a useful arithmetic comparison, not replication of the authors' method. No ages are inferred from these diagnostic slopes. The membership choices materially change the slope, so a robust age assessment must carry the selection alternatives through the complete model rather than report only the retained fit.
+
+Next prioritize recovery of the original fitting implementation and the sample-specific reason for rejecting PVD021 beyond its central ratio. Keep physically different histories and analytical uncertainty as separate possible explanations until tested.
