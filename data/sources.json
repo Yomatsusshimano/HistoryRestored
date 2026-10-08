@@ -2763,6 +2763,20 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "sha256": "2b22965b58b12591db11507e59941505d6497618d85903b64c783faad99621e9"
+    },
+    {
+      "id": "S170",
+      "title": "A Holocene paleosecular variation record from 14C-dated volcanic rocks in western North America",
+      "creator": "Jonathan T. Hagstrum and Duane E. Champion",
+      "publication_date": "2002",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2001JB000524",
+      "source_type": "original research comparison",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher HTML paragraphs 6,11-20, Table 1 explanatory notes and Table 2 values/notes. DOI 10.1029/2001JB000524.",
+      "limitations": "Selected text and HTML tables, not visual figure inspection or raw-data reproduction. Fish Lake sampling and assay counts are attributed to Verosub et al.1986, not separately recovered here. Volcanic comparison includes shared orientation data, adjusted ages and interpolated points. Younger-period offset must not be extrapolated to all older dates.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

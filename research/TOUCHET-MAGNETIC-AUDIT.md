@@ -39,3 +39,5 @@ Consequently, neither “all beds formed during one short event” nor “every 
 Reproduce from the repository root: `python research/check_touchet_directions.py`. Output is a conditional geometrical calculation, not scientific validation.
 
 Follow-up: the [set S audit](SET-S-TEPHRA-AUDIT.md) adds volcano-side stratigraphy and contextual dates, while preserving a chemical-description discrepancy and the still-missing Little Boulder Lake original records.
+
+The [Fish Lake reference audit](FISH-LAKE-REFERENCE-AUDIT.md) distinguishes shared orientation anchoring, magnetic age adjustments and interpolated points in an external comparison. Its reported younger-period offset is not applied to the older flood chronology.
