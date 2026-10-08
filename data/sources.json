@@ -2327,7 +2327,7 @@
       "url": "https://www.science.org/doi/suppl/10.1126/science.ade4248/suppl_file/science.ade4248_data_s1_to_s19.zip",
       "source_type": "Original research supplement",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "All 19 XLSX members recovered. S1,S8,S9,S10 cell contents inspected; S8 residual formulas and cached values compared. S4/S5/S11 structure inspected; full calculations pending. S5 example formulas B62:G90 and cached factors reproduced; S11 highlighted/detailed dose outputs and mixture cells checked.",
+      "inspected": "All 19 XLSX members recovered. S1,S8,S9,S10 cell contents inspected; S8 residual formulas and cached values compared. S4/S5/S11 structure inspected; full calculations pending. S5 example formulas B62:G90 and cached factors reproduced; S11 highlighted/detailed dose outputs and mixture cells checked. S4 250 C aliquot values, rejection cell styling and stored mean/SE compared with explicit aggregation rules.",
       "limitations": "Same study as S26; retrieval and component checks are not independent scientific validation. Complete age correction chain remains unreproduced.",
       "local_copy": null,
       "accessed_date": "2026-10-08",

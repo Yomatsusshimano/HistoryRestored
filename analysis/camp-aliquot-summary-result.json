@@ -1,0 +1,35 @@
+{
+  "scope": "Exploratory comparison of two explicit aggregation rules. Inverse-variance calculation assumes independent errors; shared error omitted. Neither rule is asserted to be the authors method.",
+  "results": [
+    {
+      "fraction_um": [
+        63,
+        150
+      ],
+      "accepted_n": 22,
+      "arithmetic_mean_Gy": 941.1401986463692,
+      "arithmetic_sampling_SE_Gy": 23.571557377382273,
+      "inverse_variance_mean_Gy": 912.7264642296426,
+      "inverse_variance_formal_SE_Gy": 21.64085737785835,
+      "source_summary_Gy": [
+        940.4888266638329,
+        24.99901072593386
+      ]
+    },
+    {
+      "fraction_um": [
+        150,
+        355
+      ],
+      "accepted_n": 20,
+      "arithmetic_mean_Gy": 981.2659523602276,
+      "arithmetic_sampling_SE_Gy": 26.235071515731555,
+      "inverse_variance_mean_Gy": 952.1008864291455,
+      "inverse_variance_formal_SE_Gy": 20.804863102342285,
+      "source_summary_Gy": [
+        979.9092256272893,
+        26.235071515730876
+      ]
+    }
+  ]
+}

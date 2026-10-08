@@ -1,0 +1,347 @@
+{
+  "source_id": "S146",
+  "case_id": "C014",
+  "workbook": "science.ade4248_data_s4.xlsx",
+  "sha256": "26702348b129b659a987359b6d4998fd01b7672be12132406cd9e57177fa10e1",
+  "sheet": "Data S4 De per pIR temp",
+  "step_C": 250,
+  "rejection_key": "O8: grey = aliquot rejected; J9/K9 and J16/K16 match its solid theme-0 fill with tint -0.1499984740745262. Read from workbook styles, not rendered inspection.",
+  "groups": [
+    {
+      "fraction_um": [
+        63,
+        150
+      ],
+      "source_summary_Gy": [
+        940.4888266638329,
+        24.99901072593386
+      ],
+      "summary_locator": "J31:K31",
+      "summary_formula_present": false,
+      "aliquots": [
+        {
+          "id": "A_USU09Oct20 p1",
+          "dose_Gy": 988.5635278921187,
+          "error_Gy": 73.2020992963321,
+          "rejected_by_cell_fill": false,
+          "locator": "A6,J6,K6"
+        },
+        {
+          "id": "A_USU09Oct20 p3",
+          "dose_Gy": 922.4386082727921,
+          "error_Gy": 107.71520120932477,
+          "rejected_by_cell_fill": false,
+          "locator": "A7,J7,K7"
+        },
+        {
+          "id": "A_USU19Oct20 p1",
+          "dose_Gy": 1049.7833372362925,
+          "error_Gy": 152.99929907093,
+          "rejected_by_cell_fill": false,
+          "locator": "A8,J8,K8"
+        },
+        {
+          "id": "A_USU19Oct20 p3",
+          "dose_Gy": 535.6981114307006,
+          "error_Gy": 63.34907354225821,
+          "rejected_by_cell_fill": true,
+          "locator": "A9,J9,K9"
+        },
+        {
+          "id": "A_USU19Oct20 p7",
+          "dose_Gy": 1049.6576125169418,
+          "error_Gy": 120.970094097371,
+          "rejected_by_cell_fill": false,
+          "locator": "A10,J10,K10"
+        },
+        {
+          "id": "A_USU19Oct20 p9",
+          "dose_Gy": 1025.8187962146,
+          "error_Gy": 137.994684518891,
+          "rejected_by_cell_fill": false,
+          "locator": "A11,J11,K11"
+        },
+        {
+          "id": "A_USU19Oct20 p11",
+          "dose_Gy": 957.1133650618743,
+          "error_Gy": 109.48829249383856,
+          "rejected_by_cell_fill": false,
+          "locator": "A12,J12,K12"
+        },
+        {
+          "id": "A_USU19Oct20 p13",
+          "dose_Gy": 1041.4680467238784,
+          "error_Gy": 81.48541928511264,
+          "rejected_by_cell_fill": false,
+          "locator": "A13,J13,K13"
+        },
+        {
+          "id": "A_USU19Oct20 p15",
+          "dose_Gy": 1012.9382823015079,
+          "error_Gy": 95.51758927553686,
+          "rejected_by_cell_fill": false,
+          "locator": "A14,J14,K14"
+        },
+        {
+          "id": "A_USU19Oct20 p17",
+          "dose_Gy": 980.137549362917,
+          "error_Gy": 99.35551573511513,
+          "rejected_by_cell_fill": false,
+          "locator": "A15,J15,K15"
+        },
+        {
+          "id": "A_USU19Oct20 p19",
+          "dose_Gy": 1344.2836924808976,
+          "error_Gy": 136.35667646691883,
+          "rejected_by_cell_fill": true,
+          "locator": "A16,J16,K16"
+        },
+        {
+          "id": "A_USU09Nov20 p1",
+          "dose_Gy": 871.9568208651883,
+          "error_Gy": 109.77080760152855,
+          "rejected_by_cell_fill": false,
+          "locator": "A17,J17,K17"
+        },
+        {
+          "id": "A_USU09Nov20 p3",
+          "dose_Gy": 916.487474807391,
+          "error_Gy": 66.0164089084092,
+          "rejected_by_cell_fill": false,
+          "locator": "A18,J18,K18"
+        },
+        {
+          "id": "A_USU09Nov20 p5",
+          "dose_Gy": 897.1853506739345,
+          "error_Gy": 114.62585232903629,
+          "rejected_by_cell_fill": false,
+          "locator": "A19,J19,K19"
+        },
+        {
+          "id": "A_USU25Nov20 p1",
+          "dose_Gy": 1070.0250000186438,
+          "error_Gy": 199.83272737234006,
+          "rejected_by_cell_fill": false,
+          "locator": "A20,J20,K20"
+        },
+        {
+          "id": "A_USU25Nov20 p3",
+          "dose_Gy": 870.0373653147848,
+          "error_Gy": 108.74859285671715,
+          "rejected_by_cell_fill": false,
+          "locator": "A21,J21,K21"
+        },
+        {
+          "id": "A_USU25Nov20 p5",
+          "dose_Gy": 1039.342574525939,
+          "error_Gy": 155.93240055866679,
+          "rejected_by_cell_fill": false,
+          "locator": "A22,J22,K22"
+        },
+        {
+          "id": "A_USU25Nov20 p7",
+          "dose_Gy": 966.7450571666824,
+          "error_Gy": 126.53008286116372,
+          "rejected_by_cell_fill": false,
+          "locator": "A23,J23,K23"
+        },
+        {
+          "id": "A_USU25Nov20 p9",
+          "dose_Gy": 819.6828693388815,
+          "error_Gy": 109.1086534713979,
+          "rejected_by_cell_fill": false,
+          "locator": "A24,J24,K24"
+        },
+        {
+          "id": "A_USU20Feb23 p1",
+          "dose_Gy": 733.3581352325523,
+          "error_Gy": 79.79125771416106,
+          "rejected_by_cell_fill": false,
+          "locator": "A25,J25,K25"
+        },
+        {
+          "id": "A_USU20Feb23 p3",
+          "dose_Gy": 748.4773680074032,
+          "error_Gy": 86.61458207239393,
+          "rejected_by_cell_fill": false,
+          "locator": "A26,J26,K26"
+        },
+        {
+          "id": "A_USU20Feb23 p5",
+          "dose_Gy": 708.8339988863731,
+          "error_Gy": 75.95601304770055,
+          "rejected_by_cell_fill": false,
+          "locator": "A27,J27,K27"
+        },
+        {
+          "id": "A_USU20Feb23 p7",
+          "dose_Gy": 961.0317803500676,
+          "error_Gy": 138.544468435517,
+          "rejected_by_cell_fill": false,
+          "locator": "A28,J28,K28"
+        },
+        {
+          "id": "A_USU20Feb23 p9",
+          "dose_Gy": 1074.0014494493578,
+          "error_Gy": 138.1171370387575,
+          "rejected_by_cell_fill": false,
+          "locator": "A29,J29,K29"
+        }
+      ]
+    },
+    {
+      "fraction_um": [
+        150,
+        355
+      ],
+      "source_summary_Gy": [
+        979.9092256272893,
+        26.235071515730876
+      ],
+      "summary_locator": "J57:K57",
+      "summary_formula_present": false,
+      "aliquots": [
+        {
+          "id": "A_USU09Oct20 p7",
+          "dose_Gy": 953.6384593886263,
+          "error_Gy": 83.69796277547248,
+          "rejected_by_cell_fill": false,
+          "locator": "A36,J36,K36"
+        },
+        {
+          "id": "A_USU09Oct20 p3",
+          "dose_Gy": 750.9233697908742,
+          "error_Gy": 84.34505842315268,
+          "rejected_by_cell_fill": false,
+          "locator": "A37,J37,K37"
+        },
+        {
+          "id": "A_USU22March21 p1",
+          "dose_Gy": 976.7957811325947,
+          "error_Gy": 131.61352489355204,
+          "rejected_by_cell_fill": false,
+          "locator": "A38,J38,K38"
+        },
+        {
+          "id": "A_USU22March21 p3",
+          "dose_Gy": 920.7741723799382,
+          "error_Gy": 111.44926106100282,
+          "rejected_by_cell_fill": false,
+          "locator": "A39,J39,K39"
+        },
+        {
+          "id": "A_USU22March21 p5",
+          "dose_Gy": 832.2791855577431,
+          "error_Gy": 86.56363677864128,
+          "rejected_by_cell_fill": false,
+          "locator": "A40,J40,K40"
+        },
+        {
+          "id": "A_USU22March21 p7",
+          "dose_Gy": 1166.9850489259227,
+          "error_Gy": 168.7975210197052,
+          "rejected_by_cell_fill": false,
+          "locator": "A41,J41,K41"
+        },
+        {
+          "id": "A_USU22March21 p9",
+          "dose_Gy": 921.252024006419,
+          "error_Gy": 68.0388039356402,
+          "rejected_by_cell_fill": false,
+          "locator": "A42,J42,K42"
+        },
+        {
+          "id": "A_USU22March21 p11",
+          "dose_Gy": 903.5096946110149,
+          "error_Gy": 78.45149949950844,
+          "rejected_by_cell_fill": false,
+          "locator": "A43,J43,K43"
+        },
+        {
+          "id": "A_USU22March21 p13",
+          "dose_Gy": 981.5685280057285,
+          "error_Gy": 91.70744125923693,
+          "rejected_by_cell_fill": false,
+          "locator": "A44,J44,K44"
+        },
+        {
+          "id": "A_USU22March21 p15",
+          "dose_Gy": 837.0346687136773,
+          "error_Gy": 105.98948842724342,
+          "rejected_by_cell_fill": false,
+          "locator": "A45,J45,K45"
+        },
+        {
+          "id": "A_USU10May21 p1",
+          "dose_Gy": 1166.762181210497,
+          "error_Gy": 222.42085536048472,
+          "rejected_by_cell_fill": false,
+          "locator": "A46,J46,K46"
+        },
+        {
+          "id": "A_USU10May21 p3",
+          "dose_Gy": 1076.3167179336317,
+          "error_Gy": 91.85465806297519,
+          "rejected_by_cell_fill": false,
+          "locator": "A47,J47,K47"
+        },
+        {
+          "id": "A_USU10May21 p5",
+          "dose_Gy": 934.8910668304211,
+          "error_Gy": 61.9936338917823,
+          "rejected_by_cell_fill": false,
+          "locator": "A48,J48,K48"
+        },
+        {
+          "id": "A_USU10May21 p7",
+          "dose_Gy": 1009.122958692134,
+          "error_Gy": 129.28567282485398,
+          "rejected_by_cell_fill": false,
+          "locator": "A49,J49,K49"
+        },
+        {
+          "id": "A_USU10May21 p9",
+          "dose_Gy": 1107.105012419377,
+          "error_Gy": 95.06223070645214,
+          "rejected_by_cell_fill": false,
+          "locator": "A50,J50,K50"
+        },
+        {
+          "id": "A_USU10May21 p11",
+          "dose_Gy": 1119.5344754139276,
+          "error_Gy": 96.58677534467616,
+          "rejected_by_cell_fill": false,
+          "locator": "A51,J51,K51"
+        },
+        {
+          "id": "A_USU10May21 p13",
+          "dose_Gy": 870.2897086405926,
+          "error_Gy": 84.41810173813748,
+          "rejected_by_cell_fill": false,
+          "locator": "A52,J52,K52"
+        },
+        {
+          "id": "A_USU10May21 p15",
+          "dose_Gy": 1093.67219273277,
+          "error_Gy": 116.38579983761652,
+          "rejected_by_cell_fill": false,
+          "locator": "A53,J53,K53"
+        },
+        {
+          "id": "A_USU10May21 p17",
+          "dose_Gy": 1071.498556679588,
+          "error_Gy": 108.62851241939073,
+          "rejected_by_cell_fill": false,
+          "locator": "A54,J54,K54"
+        },
+        {
+          "id": "A_USU10May21 p19",
+          "dose_Gy": 931.3652441390756,
+          "error_Gy": 79.48358270217564,
+          "rejected_by_cell_fill": false,
+          "locator": "A55,J55,K55"
+        }
+      ]
+    }
+  ]
+}

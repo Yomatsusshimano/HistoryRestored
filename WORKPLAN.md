@@ -188,3 +188,5 @@ Camp Century dose sensitivity: four visually checked scenario rows yield fixed-d
 Camp Century original supplement recovered: 25-page methods PDF and all 19 XLSX files hashed. S8 residual mean/SE reproduced; original versus dominant coarse-grain fractions explained in methods and footnotes. Next reproduce S3-S5 fading, S11 DRAC and pooled-age uncertainty. Retrieval gap closed for this package; scientific replication remains incomplete.
 
 S5 example fading factors reproduced (30 cells); S11 output crosswalk and coarse 95:5 mixture checked. Resolve divergent highlight/detailed rates against original DRAC processing and trace corrected aliquot fits to final pooled age and uncertainty. Component reproduction remains distinct from scientific validation.
+
+S4 aggregation: 22/20 accepted aliquots match source counts; arithmetic and inverse-variance means do not exactly reproduce stored weighted means. Preserve rejected rows and recover the actual weighting/input-version and shared-error definitions before final-age reproduction.

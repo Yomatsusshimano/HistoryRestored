@@ -157,3 +157,16 @@ The [S11 crosswalk](../data/camp-century-drac-crosswalk.json) exposes different 
 | 250-355 | 2.685 +/- 0.221 | Not populated |
 
 S11 cells T17/U17 weight the two coarse highlight rows 95:5, yielding 2.3544 +/- 0.20865, consistent with S1's rounded 2.35 +/- 0.21. The error formula is a linear weighted sum; covariance has not been established. The detailed 150-250 output rounds to the thesis's 2.52 +/- 0.41. This numerical match narrows the provenance question but does not identify which processing version was intended. Full DRAC recalculation and the transition from corrected dose-response curves to pooled age/uncertainty remain necessary.
+
+## Aliquot aggregation remains unresolved
+
+The [250-degree aliquot transcription](../data/camp-century-aliquots-250.json) preserves all 44 S4 rows, including two fine-fraction values marked rejected. Rejection was decoded from cell styles matching the workbook's grey key, not inferred from numerical extremeness. It leaves 22 fine and 20 coarse accepted aliquots, consistent with S1. Summary cells contain stored numbers, not aggregation formulas.
+
+An [exploratory calculation](../analysis/camp_aliquot_summary.py) compares two explicit rules against those stored summaries ([results](../analysis/camp-aliquot-summary-result.json)):
+
+| Fraction, micrometres | Source weighted mean, Gy | Arithmetic mean, Gy | Inverse-variance mean, Gy |
+| --- | --- | --- | --- |
+| 63-150 | 940.4888 | 941.1402 | 912.7265 |
+| 150-355 | 979.9092 | 981.2660 | 952.1009 |
+
+The arithmetic means differ by less than 0.2% from the stored means, but do not reproduce them exactly. Inverse-variance weighting differs more and is not established as the source's rule. For the coarse fraction, the ordinary sampling SE (26.2351 Gy) reproduces the stored SE; for the fine fraction, it gives 23.5716 versus 24.9990 Gy. No replacement ages follow from this comparison. The actual weighting, accepted-input version, shared uncertainties and final pooling procedure must be identified before claiming complete reproduction or a scientific dating error.
