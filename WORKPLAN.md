@@ -294,3 +294,5 @@ S202 original section logs now provide ash sample IDs and endpoint locators for 
 S203 original K-Ar table resolves9.2 Ma material as sanidine in tuff, correcting repeated S194 basalt wording. Separate16.8 Ma basalt retained with rejected-fraction disclosure and printed-mean discrepancy. Next original9.6 Ma basalt identifier, laboratory records and bed-specific stratigraphic connection; no direct Bouse age recalculation claimed.
 
 S203 contact audit separates reported sandstone/carbonate interfingering from inferred upper-volcanic ordering. Reynolds1986 PDF and S183 direct article access failed403;9.6 Ma sample remains unresolved. Fugro1975 Parker Valley section2.5 pp.53-63 is a bibliographic lead, not a confirmed sample match. Next compilation entry, original sample and measured fossil-bed tie.
+
+S204 Sundesert bibliography recovered and selected pages visually checked. Separate original-record targets recorded in research/SUNDESERT-RECORD-LOCATORS.md; no original9.6 Ma sample match. Next retrieve named appendices and accession/version metadata, not another generalized Fugro citation.

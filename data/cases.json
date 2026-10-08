@@ -518,6 +518,11 @@
           "source_id": "S203",
           "locator": "Printed160-161/PDF176-177, contact discussion and Figure2",
           "statement": "The report describes upper-clastic capping sandstone interfingering with basal Bouse carbonate, but no exposed direct contact between upper clastic and upper volcanic units. Their ordering is inferred from erosional geometry. Figure2 is a sketch, not a surveyed age-transfer section."
+        },
+        {
+          "source_id": "S204",
+          "locator": "Printed84/PDF97 and86/PDF99, Sundesert entries75-1/2/3/6/7",
+          "statement": "Annotated bibliography separates microfossil, dating, site-investigation, paleomagnetic and geomorphic reports with volume/appendix locators. These are retrieval targets; the underlying sample measurements and the9.6 Ma basalt identity remain unverified."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

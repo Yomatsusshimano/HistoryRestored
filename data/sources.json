@@ -3239,6 +3239,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S204",
+      "title": "Application of private site-specific data to regional evaluation of earthquake and faulting potential in Southern California",
+      "url": "https://pubs.usgs.gov/of/1983/0834/report.pdf",
+      "creator": "D.L. Lamar, J.L. Smith, J.W. La Violette, K. Custis and P.J. Scrivner",
+      "publication_date": "1982",
+      "source_type": "annotated bibliography of original engineering reports",
+      "access": "SCAN_INSPECTED",
+      "inspected": "USGS OFR83-834; printed84/PDF97 and86/PDF99 visually inspected. Selected nearby entries text-read. Catalog year1982 retained separately from report number. SHA256 ef88f93d4c6eace55168b51261dc302afbabd0d29a3ecb368f9277e68599a6af.",
+      "limitations": "Bibliography summarizes underlying reports; original analyses and specimen identities not inspected. Report-number year differs from catalog year. No current custody or sample-specific9.6 Ma match established.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -908,3 +908,7 @@ The model-switch acknowledgement made no research progress; clean checkout reval
 ### 2026-10-08 — Underlying-unit contact audit
 
 Previous turn published verified progress; clean tree confirmed. S183 indexed passage traces9.6 Ma basalt to Fugro1975 through Reynolds1986/Buising1988; original compilation retrieval failed403. Expanded S203 inspection to visually checked pp.160-161 and text-read162. Recorded observed/interpreted contact distinctions, interfingering and out-of-map dated flows. Identified a precise Fugro bibliography target without asserting sample identity. No continuous measured section, new dating, original9.6 Ma analysis or formation-wide age transfer recovered.
+
+### 2026-10-08 — Sundesert appendix retrieval targets
+
+Previous turn published verified progress; clean tree confirmed. Targeted searches led to USGS OFR83-834. Web PDF request failed403, ordinary local retrieval succeeded with certificate validation retained. Hashed215-page PDF and visually checked printed84/86. Registered S204 and separated five original-report targets. Catalog year1982/report identifier83-834 retained; no dating samples, polarity boundary or sample match promoted from bibliography to verified analysis. Original appendices remain unrecovered.
