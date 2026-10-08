@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Grand Central parcel and geotechnical identifiers
+
+Previous turn made progress: de1b9f4 published seven byte-verified files; clean checkout confirmed. Retrieved 116-page permit plan set and hash-pinned it. Inspected cover CS1 with enlarged legal-description crop and structural sheet S0.0 (PDF77). Recovered permit and parcel identifiers, a specific ordinance/court reference for a horizontal nine-foot strip, and the geotechnical report identifier/date. No measured subsurface section recovered. Preserved distinction between modern recitation and original instrument, and between design values and deposition evidence. Poppler text executable was unavailable; pypdf extraction and Poppler rendering worked. Added S88.
+
 ## 2026-10-08 - Grand Central feature-specific chronology
 
 Previous turn made progress: e5347e0 published seven byte-verified files; clean checkout confirmed. Rendered S87 pp.39/41 and inspected map reproductions, attributed fire-escape history, existing south-entry photo and proposed reopening. Preserved six reported historical entries without treating missing map notation as physical absence or first record as installation. LOC original-map item/API attempts returned 403; no original map-sheet verification claimed. Added explicit feature-level tests to avoid transferring facade dates to areaway origins. Source count remains 87.

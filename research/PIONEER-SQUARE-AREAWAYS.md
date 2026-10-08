@@ -42,3 +42,9 @@ Page 41 pairs an existing south-entry photograph with a proposed reopening. Maso
 | Fire escape | Original map legends, sheet revisions and installation/removal permits | Could establish facade changes; cannot by itself date the areaway |
 
 These are unresolved tests formulated after inspecting this block, not preregistered discoveries. No row currently supplies a date for a common catastrophe or a demonstrated original ground surface.
+
+## Parcel and subsurface records identified
+
+The [renovation plan set (S88)](https://www.seattle.gov/Documents/Departments/Neighborhoods/HistoricPreservation/HistoricDistricts/PioneerSquare/MeetingDocuments/Grand_Central_plan.pdf) identifies permit **6714121-CN** and parcels **524780-0380, -0385 and -0390**. Cover sheet CS1/PDF1 was visually checked. Its legal descriptions cite Maynard's Block 7 and removal of the western nine-foot strip for street purposes under **Ordinance 1106 and District Court case 7094**. This is horizontal width, not burial depth. The modern recital is a retrieval lead; the original judgment and ordinance, including their dates, remain unchecked.
+
+Structural sheet S0.0/PDF77 names **GeoEngineers report 9061-013-01, March 30, 2020**, for Grand Central Block renovation. It contains foundation design requirements and directs field determination of actual elevations. Those specifications cannot substitute for borehole descriptions or dated strata. The report and underlying logs are the next acquisition targets. The 116-page PDF was only partly inspected; it is a design set, not proof of completed work.

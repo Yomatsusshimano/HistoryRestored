@@ -92,5 +92,37 @@
     "original_map_sheet_ids": null,
     "original_permits_inspected": false
   },
-  "access_followup": "LOC 1893 map collection located by search; attempted Vol.1 item and JSON endpoint returned 403. No original sheet inspected."
+  "access_followup": "LOC 1893 map collection located by search; attempted Vol.1 item and JSON endpoint returned 403. No original sheet inspected.",
+  "plan_followup": {
+    "source_id": "S88",
+    "download": {
+      "url": "https://www.seattle.gov/Documents/Departments/Neighborhoods/HistoricPreservation/HistoricDistricts/PioneerSquare/MeetingDocuments/Grand_Central_plan.pdf",
+      "bytes": 36465145,
+      "sha256": "06112cf8f6ff2ec3c0f1e6ded14fcf9a4ed0ee3cd3300ec2dc5f45f9f4070dc0"
+    },
+    "permit": "6714121-CN",
+    "parcel_numbers_as_listed": [
+      "524780-0380",
+      "524780-0385",
+      "524780-0390"
+    ],
+    "legal_description_locator": "CS1/PDF1",
+    "plat": "D.S. Maynard, Block 7, Volume 1 of plats, p.23",
+    "street_widening_reference": {
+      "west_strip_feet": 9,
+      "ordinance": "1106",
+      "district_court_case": "7094",
+      "original_documents_inspected": false,
+      "event_date": null
+    },
+    "geotechnical_reference": {
+      "author": "GeoEngineers",
+      "title": "Geotechnical Engineering Services, Grand Central Block Renovation",
+      "report_number": "9061-013-01",
+      "date": "2020-03-30",
+      "locator": "S0.0/PDF77",
+      "report_retrieved": false
+    },
+    "limits": "Parcel IDs are listed as a group; no one-to-one mapping inferred. Nine feet is horizontal property width, not vertical burial thickness. Foundation criteria do not substitute for measured stratigraphy."
+  }
 }

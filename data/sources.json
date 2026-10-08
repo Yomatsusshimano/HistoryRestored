@@ -1454,6 +1454,21 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S88",
+      "title": "Grand Central Block historic renovation/addition plan set",
+      "url": "https://www.seattle.gov/Documents/Departments/Neighborhoods/HistoricPreservation/HistoricDistricts/PioneerSquare/MeetingDocuments/Grand_Central_plan.pdf",
+      "creator": "Clark Barnes; Coughlin Porter Lundeen",
+      "publication_date": "2021-05-04",
+      "source_type": "Architectural and structural permit plans",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF1/CS1 cover and legal descriptions visually inspected, including enlarged crop; PDF77/S0.0 rendered and inspected for geotechnical reference. Cover revision May 4, 2021; structural sheet dated April 23, 2021.",
+      "limitations": "116-page set only partly inspected; plans are not as-built or original court records. Referenced geotechnical report and boring logs not acquired.",
+      "sha256": "06112cf8f6ff2ec3c0f1e6ded14fcf9a4ed0ee3cd3300ec2dc5f45f9f4070dc0",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
