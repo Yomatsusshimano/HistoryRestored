@@ -423,9 +423,14 @@
           "source_id": "S15",
           "locator": "Panel II northern coastline and latitude 45 graticule; research/CALIFORNIA-PANEL-II.md",
           "statement": "Panel II places its northern island coast above 45 degrees in its own grid. A southern Bouse marine locality alone cannot establish the northern crossing depicted on this selected map; no modern georeferencing performed."
+        },
+        {
+          "source_id": "S188",
+          "locator": "Title cartouche, northern coastline and western place-name sequence; research/SANSON-ANTECEDENT.md",
+          "statement": "Printed 1656 Sanson map shares distinctive coastline and names with S15 panel II, supporting shared lineage but not identifying its exact 1666 source. Northern land reads Agubela de Cato; our prior Anian transcription is corrected."
         }
       ],
-      "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected.",
+      "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",
       "surviving_documents": "Comparison and Kino map scans, volume title page and selected translated Picolo report portions, plus catalog/exhibition records; island manuscript uninspected. Selected Kino route passages now inspected in Bolton's 1919 translation.",
       "source_interpretation": "Curators describe a propagated geographic misconception.",
       "investigation_inference": "Audit map lineages and physical coast evidence; do not treat drawn water as a surveyed former strait.",
@@ -434,7 +439,7 @@
         "A former waterway if independently evidenced"
       ],
       "counterevidence": "The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.",
-      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: reconcile recovered Bouse sample table with original specimen/counting records and age controls and separately specify a georeferenced map-implied route before testing connectivity.",
+      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: reconcile recovered Bouse sample table with original specimen/counting records and age controls and separately specify a georeferenced map-implied route before testing connectivity. Resolve Sanson edition/imprint lineage and control-point identities before georeferencing panel II.",
       "chronology": {
         "reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.",
         "dated_object": "Catalog/exhibition map dates",
@@ -450,7 +455,7 @@
         "Original source-map and survey lineage",
         "Ground-truth deposits"
       ],
-      "dependence": "Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines. Kino scan agrees with the attributed panel on selected features; direct copying versus an intermediate source remains unresolved. S39 supplies participant testimony through later translation; its 1702 events postdate the map title's discovery period. S183/S184 address overlapping outcrop evidence with competing interpretations, not independent regional confirmations."
+      "dependence": "Exhibitions and catalog point to the same items. A retrospective comparison sheet and its named antecedents cannot be counted as independently surveyed coastlines. Kino scan agrees with the attributed panel on selected features; direct copying versus an intermediate source remains unresolved. S39 supplies participant testimony through later translation; its 1702 events postdate the map title's discovery period. S183/S184 address overlapping outcrop evidence with competing interpretations, not independent regional confirmations. S188 and panel II share diagnostic geometry and labels; exact transmission path remains unresolved, and they are not independent surveyed-coast confirmations."
     },
     {
       "id": "C006",

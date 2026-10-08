@@ -21,9 +21,10 @@
       "independent_survey_verified": false,
       "catalog_attributed_source_year_CE": 1656,
       "date_correction": "Reinspection of enlarged cartouche reads Sanson 1666; prior archive transcription 1656 followed catalog and was incorrectly called printed. Antecedent date not independently established.",
-      "northern_coast_observation": "Northern coast above the panel graticule line labeled 45 degrees; opposite land labeled Anian.",
+      "northern_coast_observation": "Northern coast above the panel graticule line labeled 45 degrees; opposite land labeled Agubela de Cato.",
       "modern_route": null,
-      "longitude_origin": null
+      "longitude_origin": null,
+      "label_correction": "Previous Anian reading corrected by enlarged visual comparison with S188 on 2026-10-08."
     },
     {
       "panel": "III",
@@ -68,6 +69,21 @@
       "volume_title_page_source_id": "S38",
       "volume_printed_year_CE": 1705,
       "publication_date_limit": "1705 volume imprint visually verified; binding history and first map issue remain unverified."
+    },
+    {
+      "panel": "II",
+      "source_id": "S188",
+      "collection_id": "xw933tj8982",
+      "printed_year_CE": 1656,
+      "exact_source_impression_verified": false,
+      "observed_agreement": [
+        "Distinctive indented northern coast and offshore islands",
+        "Agubela de Cato and R. de Estiete labels",
+        "Western coastal-name sequence",
+        "Northern island coast above native 45-degree latitude"
+      ],
+      "inference": "Supports shared cartographic lineage; direct copy versus intermediate edition unresolved.",
+      "image_sha256": "48d12f5c320e461c2adf681932e84e03b76d586c3b4da3614551f25c97057dd2"
     }
   ],
   "correction_evidence": {

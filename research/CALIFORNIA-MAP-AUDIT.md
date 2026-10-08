@@ -59,3 +59,7 @@ The [Bouse comparison and geographical test](CALIFORNIA-MARINE-TEST.md) now pres
 ## Panel II correction and route scope
 
 [Reinspection of panel II](CALIFORNIA-PANEL-II.md) corrects this archive's earlier printed-year transcription from 1656 to 1666; the catalog's 1656 remains a separate attribution. The panel places its northern island coast above the 45-degree line in its own graticule. That depicted crossing must be located and tested separately from southern marine deposits. No modern route or date conversion has been fitted.
+
+## Sanson candidate recovered
+
+The [S188 comparison](SANSON-ANTECEDENT.md) finds matching diagnostic geometry and names in a scan with printed 1656 imprint. Shared lineage is supported without resolving the later 1666 attribution or proving direct copying. Northern label corrected to Agubela de Cato; no modern landmark identification made.

@@ -3015,6 +3015,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S188",
+      "title": "Le Nouveau Mexique, et la Floride: Stanford xw933tj8982",
+      "url": "https://purl.stanford.edu/xw933tj8982",
+      "creator": "Nicolas Sanson; Pierre Mariette, publisher",
+      "publication_date": "1656 (printed imprint)",
+      "source_type": "historical map scan",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Full-sheet 3000-pixel image and enlarged northern coast and title cartouche; IIIF manifest metadata. Image SHA256 48d12f5c320e461c2adf681932e84e03b76d586c3b4da3614551f25c97057dd2. Selected features compared with S15 panel II.",
+      "limitations": "Candidate antecedent, not demonstrated direct source impression. Other states and ultimate survey sources uninspected. Printed 1656 does not resolve S15 attribution 1666. No modern georeferencing or shoreline date.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

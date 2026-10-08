@@ -10,7 +10,7 @@ This is a correction to this archive's reading and an unresolved catalog-versus-
 
 ## Select the depiction before selecting the terrain
 
-Panel II is the island depiction in this comparison sheet. Its northern coast lies above the graticule line labeled 45 degrees. The land across the water is labeled Anian. The panel's native longitude labels include 235, 240 and 245 near its top, but the prime meridian and its conversion to modern longitude have not been established in this audit.
+Panel II is the island depiction in this comparison sheet. Its northern coast lies above the graticule line labeled 45 degrees. The land across the water is labeled Agubela de Cato (corrected from our earlier Anian reading; see subsequent check below). The panel's native longitude labels include 235, 240 and 245 near its top, but the prime meridian and its conversion to modern longitude have not been established in this audit.
 
 Those are observations about the drawing. They do not verify a real channel at that latitude. They do establish that a modern route near Hart Mine Wash (reported latitude about 33.29 degrees) cannot be adopted as the drawing's northern crossing merely because both concern California. Under literal latitude correspondence the difference exceeds eleven degrees; that is a conditional comparison, not a measured geographic displacement. Any large distortion or alternative identification must be justified through control points and source-map history.
 
@@ -23,3 +23,7 @@ The selected object is this panel, not every historical California-island map. I
 Next recover the antecedent Sanson impression and examine its full extent, graticule and named places. Use multiple independently identified landmarks and preserve residuals instead of forcing the island into a preferred modern basin. A geographic transformation must state its longitude origin, projection assumptions, control points and uncertainties. Only then can a fixed transect be compared against dated geological observations.
 
 The already inspected panel and Bouse records remain discovery evidence. A future route chosen using them cannot retroactively turn them into successful held-out predictions.
+
+## Subsequent candidate antecedent check
+
+The [Sanson scan comparison](SANSON-ANTECEDENT.md) now recovers a map with a printed 1656 imprint and matching diagnostic coastline/name sequence. Shared lineage is supported; the exact 1666 source impression and modern route remain unresolved. This comparison also corrects our prior northern-label transcription.
