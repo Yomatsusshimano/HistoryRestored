@@ -86,3 +86,5 @@ Pioneer Building follow-up: MOHAI 2011.26.7.14 inspected; UW ARC0508 working sec
 Pioneer drawing access resolved through viewer-linked IIIF: ARC0508 section and ARC0503 first-floor plan inspected. Trace Hyatt Lights specification/installation and original revision dates; neither drawing supplies verified street-grade chronology. Earlier catalog-only status is superseded by this inspection.
 
 Hyatt lights audit: three patent reproductions preserved and selected pages visually checked. Engineered under-sidewalk daylighting is explicitly described; Pioneer model/installation remains unlinked. Earlier patents, later print dates and reissue/application dates stay distinct; no recovered-technology mechanism inferred.
+
+Hyatt original/reissue comparison: US68332 recovered; 1867 drawing and text already include the under-sidewalk arrangement. Seven versus sixteen numbered claims prevent treating versions as interchangeable. Seek independent Herald installation records; applicant recollections remain uncorroborated.

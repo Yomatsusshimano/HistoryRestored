@@ -1598,10 +1598,25 @@
       "publication_date": "1881-09-27",
       "source_type": "Historical patent reproduction",
       "access": "SCAN_INSPECTED",
-      "inspected": "PDF pp.3 and 5 visually inspected: drawing sheet 3/Fig.7 and specification opening with dated reissue chain and assignee.",
-      "limitations": "Ten-page document partly inspected. Earlier 1867/1878 versions not compared; later wording must not be backdated. No model or installation tied to Pioneer Building.",
+      "inspected": "PDF pp.3 and 5 visually inspected: drawing sheet 3/Fig.7 and specification opening with dated reissue chain and assignee. PDF9–10 also rendered and visually checked for claims 1–16; compared selected construction subjects to original US68332.",
+      "limitations": "Ten-page document partly inspected. Selected 1867 content compared; 1878 intermediate version and full prosecution history remain unchecked. No model or installation tied to Pioneer Building.",
       "local_copy": "sources/originals/hyatt/USRE9883.pdf",
       "sha256": "30e30deaaaf6fbb0db30f4de1b46eb9da48b52b2df3acff48ba43fe171c2edf8",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S98",
+      "title": "Improvement in illuminating-roofs and roof-pavements, US 68,332",
+      "url": "https://patents.google.com/patent/US68332A/en",
+      "creator": "Thaddeus Hyatt, assignor to Elizabeth Adelaide Lake; United States Patent Office",
+      "publication_date": "1867-08-27",
+      "source_type": "Historical patent reproduction",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Seven-page PDF; pages 2 (Drawing B), 5 (opening specification/heading) and 7 (claims 1–7) rendered and visually inspected. Selected comparison to S97.",
+      "limitations": "Physical printing date and original application file not established. Retrospective 1850 and later installation claims remain applicant testimony. No full legal-scope comparison or independent manufacture evidence.",
+      "local_copy": "sources/originals/hyatt/US68332.pdf",
+      "sha256": "12420e3589edb33f518d6137b0d093326fe4d9aa8f2912f1ec8b45789d3f65bb",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }

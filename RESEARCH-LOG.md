@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Hyatt original and reissue compared
+
+Previous turn made progress: 62c48e1 published eleven publicly byte-verified files; clean checkout confirmed. Retrieved and hash-pinned seven-page US68332 reproduction. Visually checked Drawing B, opening specification and seven claims; additionally rendered S97 claim pages showing sixteen claims. Core under-sidewalk/basement design is already present in the 1867 record. Recorded revision without equating textual change to fabrication or making a legal scope conclusion. Retrospective Herald 1850/work-failure narrative retained as applicant testimony, not independent installation evidence. Added S98, preserved PDF, and updated current access/comparison statements. Full goal remains incomplete.
+
 ## 2026-10-08 - Hyatt daylighting and invention attribution
 
 Previous turn made progress: c1fb760 published seven publicly byte-verified files; clean checkout confirmed. Retrieved US4266, US21050 and USRE9883 PDF reproductions, rendered selected pages with Poppler and visually inspected them. Identified intended daylight transmission, acknowledged antecedent covers, designed under-sidewalk rooms, and separate grant/reissue/specification/printing dates. Preserved Elizabeth A. L. Hyatt's assignee attribution without inferring design authorship. Added S95–S97 and unchanged PDF copies with SHA-256 values. These establish documentary design alternatives, not installed Pioneer hardware, experimental performance or a lost-civilization transmission chain.
