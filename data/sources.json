@@ -2417,6 +2417,42 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S152",
+      "title": "Preliminary stratigraphic context of the Coyote Canyon Mammoth Site",
+      "url": "https://northwestscience.org/web/default/files/resources/annual_meetings/older_annual_meetings/2012_NWSA_83rdAnnMtg.pdf",
+      "creator": "George V. Last, Bax R. Barton and Gary C. Kleinknecht",
+      "publication_date": "2012",
+      "source_type": "original conference abstract",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed and PDF p.40, full abstract visually inspected after PDF text extraction.",
+      "limitations": "Preliminary interpretation; four-bed claim cites Guettinger et al. 2010. No assay certificates, mapped bone/contact crosswalk or carbonate formation duration.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://northwestscience.org/web/default/files/resources/annual_meetings/older_annual_meetings/2012_NWSA_83rdAnnMtg.pdf",
+          "sha256": "62bb7d1e64c45b7b937f3cc36aab33f166cc2bc6c04a9e305c34de1ab15c4940",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S153",
+      "title": "Geology of the Coyote Canyon Mammoth Site, Benton County, Washington State",
+      "url": "https://www.coyotecanyonmammothsite.org/resources/guettinger_et_al_2010_geology-of-ccms_ccms.pdf",
+      "creator": "Maxamilian W. Guettinger, George V. Last and Bax R. Barton",
+      "publication_date": "2010",
+      "source_type": "original research poster; indexed PDF text with corresponding GSA abstract",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Web-indexed single-page poster text: Methods, Findings, Discussion and Further Investigation. Corresponding GSA abstract directly inspected at https://gsa.confex.com/gsa/2010AM/webprogram/Paper181951.html .",
+      "limitations": "Direct PDF download and screenshot returned 404; figures and section geometry not visually inspected. Indexed text is not a recovered PDF. Preliminary interpretations, not laboratory chronology or validated flood count.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
