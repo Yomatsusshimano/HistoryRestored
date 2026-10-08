@@ -2034,10 +2034,24 @@
       "source_type": "Author dataset documentation",
       "url": "https://scholarworks.umass.edu/bitstreams/a06e913f-1976-4af0-8e2c-fa6fa0e6dbf1/download",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "Header; directory descriptions A-B and K-L; additional notes on file relationships. Software requirements and associated ZIP directory listing.",
+      "inspected": "Header; directory descriptions A-B and K-L; additional notes on file relationships. Software requirements and associated ZIP directory listing. Nested archive entries and eight projection files; workbook cell values not inspected.",
       "limitations": "README inspected; associated simulation files not yet inspected or executed.",
       "local_copy": null,
       "downloaded_sha256": "00998b6d1c293beea243ffabda76c8e32bd6d0a63ff549e66724c90459aea7cf",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S127",
+      "title": "Grand Coulee dataset repository metadata and ORIGINAL bundle inventory",
+      "creator": "University of Massachusetts Amherst ScholarWorks",
+      "publication_date": null,
+      "source_type": "Repository metadata",
+      "url": "https://scholarworks.umass.edu/server/api/core/items/f7ace593-37f4-4f14-ac2b-818abd0976dc",
+      "access": "CATALOG_METADATA",
+      "inspected": "Item metadata and complete one-page ORIGINAL bundle inventory, two bitstreams.",
+      "limitations": "Full dataset directed to authenticated Globus; no authenticated listing or hydraulic execution.",
+      "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }

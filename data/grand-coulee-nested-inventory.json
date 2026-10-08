@@ -1,0 +1,352 @@
+{
+  "source_id": "S126",
+  "outer_sha256": "459d1db73f006bd24746d695ebc5e9ca67f6834610dddbf2b85cfbb6622acbe4",
+  "nested_archives": [
+    {
+      "path": "area_error_column_counts/column_counts-20210201T193956Z-001.zip",
+      "sha256": "a0bd8cb78b705b7caaa02f5e13b1beeb03e7f4a968a619f09e3a7b5e92cfdffd",
+      "entries": [
+        {
+          "path": "column_counts/GC_dimensions.xls",
+          "bytes": 28160,
+          "sha256": "9f91537470db7bc235f488729bb1278dcf7bf1c5de738b022939babe930f83d1"
+        }
+      ]
+    },
+    {
+      "path": "area_error_column_counts/area_error_polygons-20210201T193946Z-001.zip",
+      "sha256": "af83806aa4a9a6b06a74a2d3d9dc6dd6c19400879e8558c80d7b834759bbd555",
+      "entries": [
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_outer.sbx",
+          "bytes": 116,
+          "sha256": "766d9068e2e41f572ccf490e05231bed62a3db2baab4f84b85e9c0eb39bc8748"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_inner.shx",
+          "bytes": 108,
+          "sha256": "7b21edd94b2b5b0f44fbb965cb82c166115fe845fad983f389cc60643156edd0"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_outer.shp.xml",
+          "bytes": 827,
+          "sha256": "494ba49f05f9f0d8f32405ba18d91b73d6088c7136e4583bee09fc6a22208fb5"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_outer.dbf",
+          "bytes": 128,
+          "sha256": "265a85511e330a2d9b471d6a5274aaa0c19daf8f42709dd920325fde08460051"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_inner.dbf",
+          "bytes": 128,
+          "sha256": "453fe930915d63138b15d6ab457161b3c113b0baaeabe3d0d8fab93010fa86f0"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_outer.shp.xml",
+          "bytes": 6125,
+          "sha256": "10a34493673ecbb68a9a5e5c4d9f8a75833559b29aeb2fb71f051ba8a1aa7297"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_inner.sbn",
+          "bytes": 132,
+          "sha256": "980498a732cc276bf5cf35183ac7f28fbd812880fc0195355b3cfc1353fbb026"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_inner.sbn",
+          "bytes": 132,
+          "sha256": "dbc9dcbe283ee050ae5c94b783839d18f52e0a38256a758a78e3a454ff33de65"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_outer.shp.xml",
+          "bytes": 839,
+          "sha256": "4249d6cefc1c89516e395208d1215293d2c2a2f31efb43e3bd988ab2084247d9"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_inner.shp.xml",
+          "bytes": 833,
+          "sha256": "98fae6749921315cc13856dc8159d66b6359a49d49aaa80653089210db6e93f9"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_inner.sbx",
+          "bytes": 116,
+          "sha256": "3ac22a19598d07f348018b14098d04f250f23b28d93fa60a6a0099b2b026c805"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_inner.dbf",
+          "bytes": 128,
+          "sha256": "dd2a78cf04a30ea35deaf643a14f407e80758e83cdd4fe5442d0f9dfc01732de"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_inner.shp.xml",
+          "bytes": 839,
+          "sha256": "4fee96aa8a23f4c9c7c743bd71c7eda3b44c7b89a05a5cf45e03d1429e5deb24"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_outer.shp",
+          "bytes": 27004,
+          "sha256": "b58f8970a136ef6a8813e3acb54476a6bc037ae902e799005c915c5b312a330a"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_inner.shp.xml",
+          "bytes": 6125,
+          "sha256": "82a192921b0d2f62de10413417d32412d97b28d791f936fb90611affd61e20fa"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_outer.sbn",
+          "bytes": 132,
+          "sha256": "4074c0b26029f5be2c416314cc5e9c81eb589923446a10fad8c1233192c129ca"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_outer.shx",
+          "bytes": 108,
+          "sha256": "5f58b948bb6829baf08f1c401099435a8ddc8ad35b1a5cadd870ca8f19d9e2ef"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_inner.sbx",
+          "bytes": 116,
+          "sha256": "4ee6148a55e154b12a725ceaefc09b8fb69f69ce497a3473e6bb77f172731cd5"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_outer.prj",
+          "bytes": 426,
+          "sha256": "a4b2fd01c7e01acabe2be9800da3499610594c842d0797fd6025d51931204aad",
+          "projection_text": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_inner.shp",
+          "bytes": 27228,
+          "sha256": "6ced1c7c3ab0b4204165e800e42490408b00e6ece958209eb3a400aa223365f3"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_inner.prj",
+          "bytes": 426,
+          "sha256": "a4b2fd01c7e01acabe2be9800da3499610594c842d0797fd6025d51931204aad",
+          "projection_text": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_inner.shp.xml",
+          "bytes": 827,
+          "sha256": "ea3be5ac8d9d317ea79dc687d425e74ae87f454c6260e8c8148255dff2fa73ac"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_outer.shx",
+          "bytes": 108,
+          "sha256": "32b22e0a77b79716646f584732b29f5ad82ff7048790903c1e509a035db472fb"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_inner.shp",
+          "bytes": 7820,
+          "sha256": "955d3f2755db613eff1fb6b4cc22b846e49d3be746407ec26d01bdff02c2997c"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_outer.shp",
+          "bytes": 7820,
+          "sha256": "b3ddba2bdedfd9f2956f63729b35c13563017a4e7c2edcfd5604fbd5fae06659"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_outer.sbn",
+          "bytes": 132,
+          "sha256": "c6ce3e6fcab4068ec41debb6718b06953ffaa1bceab99ab665357d02eb734272"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_outer.shp.xml",
+          "bytes": 833,
+          "sha256": "b59150ce4312d9911c04b323c2a3d25276942377eb4a0714e4f507867c7c97db"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_inner.CPG",
+          "bytes": 5,
+          "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_outer.sbx",
+          "bytes": 116,
+          "sha256": "f25f13ada2e9b7a5a12583f482fdc42f906587710da6551a6ba1cf6a7be37f68"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_inner.dbf",
+          "bytes": 128,
+          "sha256": "11e884e54e4cd336725f38428cdc13fbb745167e6e5a07713b4aaf5510d09f3c"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_inner.CPG",
+          "bytes": 5,
+          "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_inner.sbx",
+          "bytes": 116,
+          "sha256": "2c786db796316498d8435d8193ff1ec049cd4dae1ded8c57f6bab07f3f98e666"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_inner.shx",
+          "bytes": 108,
+          "sha256": "098144e4dd90413ad4397b819709ffc793d669ca859eb45fd5397a9ee7e0a9f7"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_inner.shx",
+          "bytes": 108,
+          "sha256": "cf34b18f2f1645b1cd4d442c2af2afa53a886e1dbd1ddc1ea62c39ca444e11db"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_inner.sbn",
+          "bytes": 132,
+          "sha256": "ff257ac1b92bce279927e77c5c9cf18be047620afb5dacafda6954aeac061ee6"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_loop_small_outer.CPG",
+          "bytes": 5,
+          "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_inner.sbx",
+          "bytes": 116,
+          "sha256": "0e0c7920d1b8372ab19c8c7d1e07534cab3e21d3608ab5e008a93050d6c0ea26"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_inner.shx",
+          "bytes": 108,
+          "sha256": "d6a1f8127f1eb1286dde0d5ef8f7547d0b6e64d63764f74ca00604af069fe16a"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_outer.sbx",
+          "bytes": 116,
+          "sha256": "403f544e1a00fa088964d3689abb8b98d9d2e5ba6fa6d86a440805150c3b6ff0"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_outer.sbn",
+          "bytes": 132,
+          "sha256": "c8ba094ef41bb60bc6d579d059f30d273a783f8c84c2a7f53f68b5cbc9152a0c"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_outer.sbn",
+          "bytes": 132,
+          "sha256": "f8eef62bb46c48a0df54719994a904b2a1c0bc925d913ec232458b311eb53af3"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_inner.shp",
+          "bytes": 37212,
+          "sha256": "775e76827d1c2b7179c6ea9c5f1e4ae2fe5e0c414958753adf96919969be08d0"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_outer.dbf",
+          "bytes": 128,
+          "sha256": "208485d0c49dd78fc64cc2de56433238431050a3a86f94d1788228c30fef136b"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_outer.dbf",
+          "bytes": 128,
+          "sha256": "64a1cbc534f8fdc52277f21cba6d7c8b4c2f7fa04a29f4d645092593dcf5e636"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_inner.prj",
+          "bytes": 426,
+          "sha256": "a4b2fd01c7e01acabe2be9800da3499610594c842d0797fd6025d51931204aad",
+          "projection_text": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_outer.shx",
+          "bytes": 108,
+          "sha256": "a2b7f4579fce66d8dbddd8be332d92c4cd7f21655ef0e9f01c2c8d3c606ca3b9"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_outer.CPG",
+          "bytes": 5,
+          "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_outer.sbx",
+          "bytes": 116,
+          "sha256": "8c4e609ffba95ca87122669a97d307081cddf3f6842e1c6e3eff1ad7f08e5d69"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_inner.CPG",
+          "bytes": 5,
+          "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_outer.dbf",
+          "bytes": 128,
+          "sha256": "4fc16d37289a4088c1f9bcd19186df42dd2ec98fbeff3a052be4ecd259f3cfac"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_small_outer.prj",
+          "bytes": 426,
+          "sha256": "a4b2fd01c7e01acabe2be9800da3499610594c842d0797fd6025d51931204aad",
+          "projection_text": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_outer.CPG",
+          "bytes": 5,
+          "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_inner.CPG",
+          "bytes": 5,
+          "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_outer.shp",
+          "bytes": 113100,
+          "sha256": "f3917e6657da9c0bf382b7df69b44c177af7a30989ab3f0927ee8bdf558efee5"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_inner.shp",
+          "bytes": 113068,
+          "sha256": "67cdc03b7fde9be92d28eda6d61bf0ab4acc537671b8cea17307feb3ab43ab60"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_outer.shx",
+          "bytes": 108,
+          "sha256": "4aa77582d2f72fc0824f7a6814a5514850247f2ffdf39e6cd73d993ecff75fcc"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_outer.prj",
+          "bytes": 426,
+          "sha256": "a4b2fd01c7e01acabe2be9800da3499610594c842d0797fd6025d51931204aad",
+          "projection_text": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_outer.prj",
+          "bytes": 426,
+          "sha256": "a4b2fd01c7e01acabe2be9800da3499610594c842d0797fd6025d51931204aad",
+          "projection_text": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_inner.dbf",
+          "bytes": 128,
+          "sha256": "59a10612f2299211ad703eb3bfb230f53e34a5f6db61ba489d06aa32de6d67e3"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_inner.sbn",
+          "bytes": 132,
+          "sha256": "4ee62d498110e782b7bc02ae6c61f5a046fd758cf4319da43a79e7c47f439f4c"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_outer.shp",
+          "bytes": 37212,
+          "sha256": "cd11fd94057a4370be725c3e233d73d716a7c5f426cf3353fcabb3f1269ac690"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_exp_bar_inner.prj",
+          "bytes": 426,
+          "sha256": "a4b2fd01c7e01acabe2be9800da3499610594c842d0797fd6025d51931204aad",
+          "projection_text": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_inner.prj",
+          "bytes": 426,
+          "sha256": "a4b2fd01c7e01acabe2be9800da3499610594c842d0797fd6025d51931204aad",
+          "projection_text": "PROJCS[\"NAD_1927_UTM_Zone_11N\",GEOGCS[\"GCS_North_American_1927\",DATUM[\"D_North_American_1927\",SPHEROID[\"Clarke_1866\",6378206.4,294.9786982]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-117.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"
+        },
+        {
+          "path": "area_error_polygons/zone_simple_north_big_outer.CPG",
+          "bytes": 5,
+          "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+        }
+      ]
+    }
+  ],
+  "limit": "Directory and projection text inspection only; geometry, workbook values and hydraulic model not validated."
+}

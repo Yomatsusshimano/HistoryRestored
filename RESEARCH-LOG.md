@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Grand Coulee storage and coordinate provenance
+
+Previous turn made progress: 0bf35c7 published seven verified files; clean checkout confirmed. Retrieved complete public bundle inventory and item metadata. Full model is explicitly located on Globus, not absent from the archive. Inspected nested ZIP paths and eight projection files without executing source code. Preserved hashes and NAD27 / UTM zone 11N declaration; no coordinate transformation or geometry validation claimed. Workbook values and authenticated model access remain pending. Full goal remains active.
+
 ## 2026-10-08 - Grand Coulee terrain and reproduction lead
 
 Previous turn made progress: ba38a6c publicly verified six files. Clean checkout confirmed. Added S125-S126 after inspecting selected article text and downloading the author README. Distinguished fitting controls from future independent tests. Direct DOI resolution recovered a repository and advertised ZIP despite web-tool access failures. No hydraulic execution or independent validation claimed. Downloaded and listed advertised ZIP: ancillary nested archives, not full model verified. Recorded hash, listing and legacy software requirements. Next action: locate full model files and inspect nested ancillary data. Full goal remains active.

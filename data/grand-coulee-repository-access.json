@@ -1,0 +1,30 @@
+{
+  "source_id": "S127",
+  "accessed_date": "2026-10-08",
+  "item_endpoint": "https://scholarworks.umass.edu/server/api/core/items/f7ace593-37f4-4f14-ac2b-818abd0976dc",
+  "bundle_endpoint": "https://scholarworks.umass.edu/server/api/core/bundles/e83a505c-7f14-49ff-b8f1-f8f2a7891f52/bitstreams?size=100",
+  "pagination": {
+    "number": 0,
+    "size": 100,
+    "totalPages": 1,
+    "totalElements": 2
+  },
+  "public_files": [
+    {
+      "name": "README.txt",
+      "uuid": "a06e913f-1976-4af0-8e2c-fa6fa0e6dbf1",
+      "bytes": 37895
+    },
+    {
+      "name": "area_error_column_counts.zip",
+      "uuid": "e0eb9412-d19e-4ba6-9be5-e6ad46eeb90a",
+      "bytes": 284322
+    }
+  ],
+  "related_urls": [
+    "https://app.globus.org/file-manager?origin_id=b9120884-93ae-4a90-9f91-1556b01569e7&origin_path=%2FGrand_Coulee_Repository%2F",
+    "https://doi.org/10.1029/2021JF006135"
+  ],
+  "full_dataset_access": "Repository says Globus login required. Authenticated listing not attempted.",
+  "model_executed": false
+}
