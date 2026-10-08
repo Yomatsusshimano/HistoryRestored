@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Within-tree systematic-error sensitivity
+
+Previous turn made progress: 953ace2 published seven verified files; clean checkout confirmed. Integrated illustrative shared Gaussian radiocarbon-age offsets analytically within each tree and repeated duration constraints. Short-event penalties weaken across the selected SD range, retained openly. Three analytic covariance tests pass; zero-offset case matches prior implementation within 1e-10 log-likelihood units. No empirical offset distribution, contamination correction, cross-tree covariance or rejection probability claimed. Full goal remains active.
+
 ## 2026-10-08 - Direct regional duration constraints
 
 Previous turn made progress: c7ae3a2 published six verified files; clean checkout confirmed. Executed constrained two-date maximum-likelihood comparisons using existing assay inputs and the same IntCal20 assumptions. Evaluated six duration caps, retaining full data and two tree-omission sensitivities. Short-duration constraints lower maximum fit in all variants. Analytic Gaussian and reversed-order tests pass; finer grid comparison recorded. This tests an explicit version of H1 conditionally, not a universal event or statistical rejection probability. Full goal remains active.

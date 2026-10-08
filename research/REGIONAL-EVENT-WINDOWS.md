@@ -19,7 +19,25 @@ Short-episode assignments incur substantial fit loss across these variants. The 
 
 Synthetic Gaussian tests verify a known constrained optimum and reverse event ordering. [Grid refinement](../analysis/regional-duration-grid-check.json) checks numerical discretization separately from scientific validity. This is retrospective and does not count as a prospective prediction or independent discovery.
 
-## Earlier comparison of published marginal intervals
+## Sensitivity to a shared radiocarbon offset within each tree
+
+Repeated assays may share errors. The [new calculation](../analysis/regional_tree_offset_sensitivity.py) assigns each tree a zero-mean Gaussian radiocarbon-age offset with standard deviation τ and integrates that offset analytically. Within-tree covariance becomes `diag(assay variance + curve variance) + τ² 11ᵀ`. Different trees remain independent. This supplements rather than replaces the earlier independent-error calculation. [Results](../analysis/regional-tree-offset-sensitivity-result.json).
+
+| Assumed τ, radiocarbon years | Same-date log-likelihood loss | Maximum 10-year separation | Maximum 50-year separation |
+| ---: | ---: | ---: | ---: |
+| 0 | 20.91 | 20.68 | 3.26 |
+| 10 | 19.88 | 19.59 | 3.09 |
+| 25 | 16.82 | 16.66 | 2.36 |
+| 50 | 12.98 | 11.89 | 1.30 |
+| 100 | 9.71 | 7.15 | 0.66 |
+
+All five variants allow their separate-date optima within 100 years. Short-event penalties decline materially as assumed shared error grows. They remain nonzero in these scenarios, but this is not a calibrated rejection test. Compare constrained versus unrestricted fits within each row; the table does not estimate which τ is correct.
+
+**The selected τ values are illustrative, not empirical errors, fitted corrections or evidence of contamination.** Their units are radiocarbon years, not calendar years. No specific mechanism justifies applying these offsets to the specimens. Common calibration errors across trees/sites, ring alignment and sample averaging remain unmodeled. This sensitivity therefore tests one dependence structure only; it cannot establish robustness to every plausible source error.
+
+Three analytic checks cover one-observation variance addition, zero-offset independence and a direct two-observation covariance inverse. The zero-offset fit reproduces the previous calculation within 1e-10 log-likelihood units. These checks verify arithmetic, not assumptions or chronology.
+
+## Original published-interval comparison
 
 2026-10-08. Retrospective comparison of C019 and C020; sourced draft without independent review. No new source discovery or date recalibration.
 

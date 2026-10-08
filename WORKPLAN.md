@@ -146,3 +146,5 @@ Bonneville simplified calibration check executed on nine assays with IntCal20: m
 Electron simplified calibration: matched seven lab IDs and offsets to the audited model selection; seven-assay peak near published date, two-assay remainder shifts later when ELE01 is omitted. Preserve dependence on the five-assay tree. Full OxCal and calibration covariance remain unmodeled.
 
 Regional timing fit: directly constrained Bonneville/Electron date separation at 0, 1, 10, 25, 50 and 100 years under the same simplified calibration likelihood. Short-window fit losses persist after omitting either key tree. No p-value, Bayes factor, physical common cause or independent chronology established.
+
+Regional within-tree dependence sensitivity executed: shared Gaussian radiocarbon offsets with illustrative SDs 0, 10, 25, 50, 100 years weaken short-duration fit penalties but do not eliminate them in this model. These SDs are not measured corrections; cross-tree curve covariance remains open.

@@ -1,0 +1,209 @@
+{
+  "source_ids": [
+    "S68",
+    "S72",
+    "S128"
+  ],
+  "input_hashes": {
+    "bonneville": "6b70edba4cf8ee690a7b54cdc1e753418d44945e180469163e5005268c60e238",
+    "electron": "5acb7e0aa2337cb524bb149ddccf7564deeefaf88fd435f5764a180dd5e2de25",
+    "curve": "974a66649f2ac8a53e6c99e256b019ac6982f999b12dcf7193162d4c1c09168e"
+  },
+  "method": "Each tree has an independent zero-mean Gaussian age offset b with SD tau; integrate b analytically. Covariance is diag(assay variance + curve variance) + tau^2 11T within each tree. Constants common within each tau comparison omitted.",
+  "tau_status": "Illustrative analyst-selected sensitivities, not measured errors or fitted corrections. Units are conventional radiocarbon years, not calendar years.",
+  "grid": "1\u20131950 CE every 0.25 year",
+  "results": [
+    {
+      "tree_offset_sigma_radiocarbon_years": 0,
+      "unrestricted_modes_CE": [
+        1438.5,
+        1509.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1438.5,
+          "log_likelihood_loss": 20.911761007793842,
+          "relative_maximum_likelihood": 8.282045029548879e-10
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 20.680971332666857,
+          "relative_maximum_likelihood": 1.0432016608688825e-09
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1444.0,
+          "best_Electron_CE": 1494.0,
+          "log_likelihood_loss": 3.262638907225792,
+          "relative_maximum_likelihood": 0.038287228144302556
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1509.0,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    },
+    {
+      "tree_offset_sigma_radiocarbon_years": 10,
+      "unrestricted_modes_CE": [
+        1438.75,
+        1509.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1440.25,
+          "best_Electron_CE": 1440.25,
+          "log_likelihood_loss": 19.881787194913414,
+          "relative_maximum_likelihood": 2.3197945878371906e-09
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1438.75,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 19.588352344088847,
+          "relative_maximum_likelihood": 3.1109044158131847e-09
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1444.5,
+          "best_Electron_CE": 1494.5,
+          "log_likelihood_loss": 3.0855195193244356,
+          "relative_maximum_likelihood": 0.045706282434107015
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1438.75,
+          "best_Electron_CE": 1509.0,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    },
+    {
+      "tree_offset_sigma_radiocarbon_years": 25,
+      "unrestricted_modes_CE": [
+        1440.5,
+        1512.25
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1442.0,
+          "best_Electron_CE": 1442.0,
+          "log_likelihood_loss": 16.82207101820987,
+          "relative_maximum_likelihood": 4.9461511354667104e-08
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1440.5,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 16.658830460871656,
+          "relative_maximum_likelihood": 5.8232020046881826e-08
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1447.0,
+          "best_Electron_CE": 1497.0,
+          "log_likelihood_loss": 2.3616869803647944,
+          "relative_maximum_likelihood": 0.09426107241359738
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1440.5,
+          "best_Electron_CE": 1512.25,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    },
+    {
+      "tree_offset_sigma_radiocarbon_years": 50,
+      "unrestricted_modes_CE": [
+        1442.5,
+        1509.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1444.0,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 12.982356466081896,
+          "relative_maximum_likelihood": 2.300563497595619e-06
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1470.5,
+          "best_Electron_CE": 1480.5,
+          "log_likelihood_loss": 11.894854382064707,
+          "relative_maximum_likelihood": 6.82543568661065e-06
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1449.0,
+          "best_Electron_CE": 1499.0,
+          "log_likelihood_loss": 1.30224373570492,
+          "relative_maximum_likelihood": 0.2719209892166732
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1442.5,
+          "best_Electron_CE": 1509.0,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    },
+    {
+      "tree_offset_sigma_radiocarbon_years": 100,
+      "unrestricted_modes_CE": [
+        1444.5,
+        1529.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1551.25,
+          "best_Electron_CE": 1551.25,
+          "log_likelihood_loss": 9.710995675860218,
+          "relative_maximum_likelihood": 6.061333280162578e-05
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1560.25,
+          "best_Electron_CE": 1550.25,
+          "log_likelihood_loss": 7.153498180607841,
+          "relative_maximum_likelihood": 0.0007821232817029097
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1449.0,
+          "best_Electron_CE": 1499.0,
+          "log_likelihood_loss": 0.6575971121917945,
+          "relative_maximum_likelihood": 0.5180947635740121
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1444.5,
+          "best_Electron_CE": 1529.0,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Tree offsets independent across trees and sites; cross-tree calibration covariance not modeled.",
+    "No ring-offset uncertainty or within-sample averaging.",
+    "No mechanism or empirical prior for these systematic offsets established.",
+    "Compare constrained and unrestricted fits within each tau only; no model probabilities or statistical rejection calibration."
+  ],
+  "scientific_validation": false
+}
