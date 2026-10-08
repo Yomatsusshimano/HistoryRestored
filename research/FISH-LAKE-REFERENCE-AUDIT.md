@@ -2,7 +2,7 @@
 
 Research draft, 2026-10-08. C008. Source-dependency audit, not a reproduced chronology.
 
-The [Touchet study](TOUCHET-MAGNETIC-AUDIT.md) fits a combined Fish Lake, Oregon–Mono Lake, California magnetic reference curve. The original 1986 Fish Lake numerical directions and assay table remain unrecovered here; publisher retrieval returned an error. Do not substitute data from the different Fish Lake in Utah.
+The [Touchet study](TOUCHET-MAGNETIC-AUDIT.md) fits a combined Fish Lake, Oregon–Mono Lake, California magnetic reference curve. The original 1986 paper and assay table remain unrecovered here; publisher retrieval returned an error. A subsequent [NOAA archive recovery](NOAA-LAKE-RECOVERY.md) supplies numerical directions, but its Fish Lake record stops before the overlap described in 2003. Do not substitute data from the different Fish Lake in Utah.
 
 [Hagstrum and Champion (2002), S170](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2001JB000524), provides an original volcanic-rock comparison and describes the reference's construction:
 
@@ -21,4 +21,4 @@ Agreement around the shared Mazama orientation anchor is therefore not a fully i
 
 The younger-period offset cannot justify subtracting 280 years from the older Touchet ash fits or all regional dates. That would assume an untested constant error across the entire record. Nor does a local age-model discrepancy demonstrate a fabricated historical chronology. The two proposed Touchet fits must be tested against the actual reference-series versions, their age uncertainties and any shared anchors.
 
-Finally, S170's volcanic comparison curve is not the Fish Lake–Mono Lake curve fitted by S166. Importing its interpolated Table 2 values as though they were the original lake measurements would change the experiment. A useful reproduction requires the original lake directions, depths, dated materials, laboratory IDs, age–depth interpolation, orientation transformations and the exact series used in 2003. Those inputs remain pending. The magnetic-direction observations already recovered from Touchet are retained; this audit adds no new duration bound.
+Finally, S170's volcanic comparison curve is not the Fish Lake–Mono Lake curve fitted by S166. Importing its interpolated Table 2 values as though they were the original lake measurements would change the experiment. A useful reproduction requires the original lake directions, depths, dated materials, laboratory IDs, age–depth interpolation, orientation transformations and the exact series used in 2003. Exact 2003 inputs remain pending; the newly recovered archive version is insufficient for that reproduction. The magnetic-direction observations already recovered from Touchet are retained; this audit adds no new duration bound.

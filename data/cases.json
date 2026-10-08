@@ -715,6 +715,11 @@
           "source_id": "S170",
           "locator": "Paragraphs 11-20 and table notes",
           "statement": "Fish Lake volcanic comparison contains shared orientation anchoring and magnetically adjusted ages; its younger-period offset is not a demonstrated correction to the older Touchet chronology."
+        },
+        {
+          "source_id": "S171",
+          "locator": "SECVR v3.5 LAKESTACK/LAKESMOOTH/C14AGES selections; research/NOAA-LAKE-RECOVERY.md",
+          "statement": "Recovered Fish Lake archive series ends at 9966 C14 BP and cannot supply the 12300-13100 overlap described in the 2003 Touchet reference. Both lake assay tables have blank placeholders; Mono Lake stacked/smoothed rows duplicate one series. This version mismatch leaves exact reference reproduction pending."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.",
@@ -745,7 +750,7 @@
         "Steele 1991 numerical directions, demagnetization, orientation and age inputs for rate inference",
         "Clague 2003 raw magnetic vectors, ambiguous DR1 labels/counts, reference-curve age models, and Little Boulder Lake original core/assay records",
         "Original glass-standard sample linkage to resolve S168 prose versus S167 ratio ordering; direct So-Sg interval evidence",
-        "Original Fish Lake Oregon and Mono Lake reference directions, dated-sample depth tables and exact 2003 series/transformations"
+        "Exact extended Fish Lake and Mono Lake series used in 2003, original dated-sample depth/assay tables and reference transformations; recovered SECVR version does not cover stated overlap"
       ],
       "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood."
     },

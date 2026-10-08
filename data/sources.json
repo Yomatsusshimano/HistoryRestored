@@ -2777,6 +2777,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S171",
+      "title": "IAGA Paleomagnetic Databases version 3.5: SECVR lake-sediment ASCII exports and Access 2000 database",
+      "creator": "IAGA database compilers; NOAA National Geophysical Data Center distributor",
+      "publication_date": "2000-07",
+      "url": "https://www.ngdc.noaa.gov/geomag/paleo.shtml",
+      "source_type": "archived research database",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Release-note text; complete Fish Lake Oregon and Mono Lake selections in LOCATION, REFSECVR, C14AGES, LAKESTACK and LAKESMOOTH ASCII exports. MDB schema read through OpenSchema(4); selected numeric/assay tables cross-checked read-only. URLs, hashes and row locators in data/secvr-lake-subset.json.",
+      "limitations": "Archived derivative, not confirmed exact 2003 reference input. Fish Lake ends at 9966 C14 BP, short of reported 12300-13100 overlap. Assay tables have blank placeholders; no original dated-material records. Mono smoothed data duplicate stacked series. ASCII truncates 415 Fish Lake depth values relative to MDB; both retained. Depth units not inferred. No age model or curve-fit reproduction.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
