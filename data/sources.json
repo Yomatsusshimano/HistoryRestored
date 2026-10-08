@@ -3126,7 +3126,21 @@
       "source_type": "original tephrochronology research",
       "access": "FULL_TEXT_PORTION",
       "inspected": "DOI 10.1130/GES00904.1. Web-extracted abstract/introduction PDF p.1; selected methods/results returned by search index, explicitly distinguished in research/BOUSE-CHRONOLOGY.md.",
-      "limitations": "Local download failed certificate validation; subsequent web full-page and screenshot attempts failed. No local PDF hash, visual figures, full analytical tables or supplement. Indexed numerical results remain leads for full-table verification. Crystallization and correlated eruption ages are distinct; no independent reproduction."
+      "limitations": "Local download failed certificate validation; subsequent web full-page and screenshot attempts failed. No local PDF hash, visual figures, full analytical tables or supplement. Indexed numerical results remain leads for full-table verification. Crystallization and correlated eruption ages are distinct; no independent reproduction. Supplemental Bouse/Lawlor rows subsequently recovered separately as S196; main-paper access limitations remain."
+    },
+    {
+      "id": "S196",
+      "title": "Harvey 2014 supplemental individual zircon analyses",
+      "url": "https://doi.org/10.1130/GES00904.S1",
+      "creator": "Janet C. Harvey",
+      "publication_date": "2014",
+      "source_type": "original analytical supplement",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Figshare article12187278 file22408581 (904_Supp1.pdf). Pages1-3 visually checked; all Bouse/Lawlor rows transcribed with locators. Seven-page PDF hash f8471d7875cd50542ad1f99af53581512f739e76063316933ef17b5340100e46. Preparation note and header uncertainty labels inspected.",
+      "limitations": "No original ion-count records or independent analytical validation. Other sample groups not audited. Rounded ages and errors support limited arithmetic checks only; systematic covariance, full main-paper selection rationale and argon age calibration remain unverified. Same study as S195, not independent evidence.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

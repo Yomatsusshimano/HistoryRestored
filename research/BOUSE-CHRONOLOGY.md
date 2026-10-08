@@ -33,3 +33,7 @@ Zircon crystallization, eruption, ash deposition and later reworking are distinc
 For H2-T in the [Bouse comparison](BOUSE-DISCRIMINATION.md), the next decisive work is sample-level verification of the ash correlation, primary-deposition evidence and stratigraphic transfer to the specific fossil beds. Even a secure local ancient marine incursion would not establish the historical map's northern Gulf-to-Pacific route, H2-G.
 
 Next recover Harvey's full tables/supplement and Sarna-Wojcicki et al.'s argon analyses, including standards, corrections and uncertainty conventions. Compare candidate tephras and excluded grains explicitly; then inspect measured sections behind the competing ash placements. No confidence bound for the formation's entire duration or corrected global chronology is calculated here.
+
+## Supplemental recovery update
+
+S196 now supplies the original analytical supplement. The [Lawlor calculation audit](LAWLOR-ZIRCON-CHECK.md) preserves all tabulated Bouse/Lawlor rows and sampling-history notes, and approximately reproduces the proximal trimmed mean from rounded values. Supplement retrieval is complete; remaining candidate groups, full selection rationale, argon calibration and bed-specific age transfer remain pending. Earlier main-paper access limits still apply.
