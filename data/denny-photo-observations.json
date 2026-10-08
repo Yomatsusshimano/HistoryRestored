@@ -1,0 +1,28 @@
+{
+  "case_id": "C002",
+  "source_id": "S45",
+  "status": "SOURCED_DRAFT",
+  "reviewers": [],
+  "item_identifier": "9349",
+  "record_series": "2613-07",
+  "cataloged_date": "1910-06-27",
+  "visible_date_inscription": "6-27-10",
+  "image_observations": [
+    "Multiple buildings remain beside steep exposed earth faces and isolated high remnants.",
+    "A broad bare or cleared area occupies much of the middle ground.",
+    "Street infrastructure and advertising boards occupy the foreground."
+  ],
+  "catalog_attributions": [
+    "Denny Regrade",
+    "Looking northeast from Second Avenue",
+    "Seattle Engineering Department Photographic Negatives"
+  ],
+  "investigation_inference": "Scene is consistent with an urban excavation/regrade context. The image alone does not prove the complete process history or the origin of the exposed sediment.",
+  "coordinates": null,
+  "calibrated_vertical_scale_m": null,
+  "excavated_volume_m3": null,
+  "sediment_age": null,
+  "before_after_registration": false,
+  "dependence": "Institutional Flickr page and its image are one archival item, not independent witnesses. Series 2613-07 is distinct from album series 2613-22 in S02.",
+  "next_test": "Find adjacent dated frames and block-specific grade plans; register buildings/streets to survey control before measuring change."
+}

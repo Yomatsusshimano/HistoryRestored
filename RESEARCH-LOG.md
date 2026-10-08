@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - First Denny regrade image inspected
+
+Previous turn made progress: ae9967a published eight public-byte-verified height-audit files. Clean checkout rechecked. Old municipal item links returned 404. Institutional Flickr item 9349 displayed successfully in background browser after web image fetch returned 403; visually inspected image, caption and on-image date. University of Washington SEA2147 catalog metadata was accessible, but its viewer was blank and expansion failed; no inspection claim or additional image finding is made for that item.
+
+Added S45 and item-level observation ledger. Distinguished visible terrain/buildings from institutional location/direction/date attribution and from unmeasured excavation quantities. Negative series 2613-07 differs from the prior album finding aid's 2613-22. No registered sequence or causal conclusion about unrelated Pioneer Square areaways. Seventeen cases, forty-five sources; independent review absent.
+
 ## 2026-10-08 - Tanabe height scenarios and land-level dependence
 
 Previous turn made progress: 7e8b550 published seven public-byte-verified files. Clean checkout rechecked. Visually inspected S44 pp. 88, 90-91; read adjacent storehouse discussion and tide-method text. Transcribed six alternative scenario component sets. Arithmetic reproduces five printed totals; Tanabe B sums to 2.6 m while printing 3 m, compatible with whole-metre rounding without an explicit rounding statement.

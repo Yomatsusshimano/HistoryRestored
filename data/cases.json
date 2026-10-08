@@ -57,34 +57,39 @@
           "source_id": "S02",
           "locator": "Scope and Contents and Dates fields",
           "statement": "The finding aid describes earthmoving and a photograph collection created in 1904-1929."
+        },
+        {
+          "source_id": "S45",
+          "locator": "Item 9349, full displayed photograph and caption; lower-left inscription",
+          "statement": "Image shows buildings beside steep earth faces and a broad cleared area. Visible 6-27-10 inscription agrees with cataloged June 27, 1910 date; location and camera direction are institutional attributions."
         }
       ],
-      "physical_evidence": "No image or site directly inspected.",
-      "surviving_documents": "Engineering photograph collection located through its finding aid.",
+      "physical_evidence": "One digitized archival photograph visually inspected; exposed earth faces, remaining buildings and cleared ground visible. No site inspection, sediment sample or calibrated survey.",
+      "surviving_documents": "Album finding aid plus inspected item 9349 from separate Engineering Department negative series 2613-07; not a verified chronological image sequence.",
       "source_interpretation": "The catalog attributes terrain changes to a regrade project.",
-      "investigation_inference": "Provides a route to original evidence of human terrain change, not a verified image sequence yet.",
+      "investigation_inference": "Image supports an urban excavation/regrade context but cannot independently establish full project history, excavation volume or the origin/age of exposed sediment.",
       "competing_explanations": [
         "Documented earthmoving",
         "An earlier natural event, separately testable"
       ],
       "counterevidence": "A regrade catalog cannot be recast as a catastrophe deposit without examining the underlying objects.",
-      "next_test": "Inspect identified photographs and engineering quantities; record individual identifiers and phases.",
+      "next_test": "Retrieve adjacent dated frames and block-specific grade plans; register stable buildings/streets to survey control before calculating terrain change.",
       "chronology": {
-        "reported": "Photograph collection 1904-1929",
+        "reported": "Album collection 1904-1929; separately inspected item 9349 cataloged 1910-06-27 with visible 6-27-10 inscription.",
         "dated_object": "Cataloged photograph creation",
-        "method": "Archive catalog",
+        "method": "Archive catalog plus agreement with an on-image date inscription; original negative dating not independently authenticated.",
         "raw_date": null,
         "uncertainty": null,
         "timescale": "CE",
         "event_association": "UNTESTED"
       },
       "missing": [
-        "Photo scans",
-        "Item provenance",
-        "Volumes",
+        "Registered before/after image sequence",
+        "Original negative provenance and survey control",
+        "Excavation volumes",
         "Original contracts"
       ],
-      "dependence": "Related urban context to C001. Shared archival narratives are not independent global-event evidence."
+      "dependence": "Related urban context to C001. Shared archival narratives are not independent global-event evidence. Item 9349 belongs to negative series 2613-07, not album series 2613-22; its Flickr caption and image are one archival lineage."
     },
     {
       "id": "C003",

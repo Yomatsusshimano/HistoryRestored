@@ -810,6 +810,24 @@
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "pdf_sha256": "92950a01c7a028aa38823f8e6f00665e913582cee7e4ed1998a03c6c881f3817",
       "rights_note": "Report states public domain text with some separately owned images; images not republished here."
+    },
+    {
+      "id": "S45",
+      "title": "Denny Regrade looking northeast from Second Avenue, 1910",
+      "url": "https://www.flickr.com/photos/seattlemunicipalarchives/8699489754",
+      "creator": "Seattle Engineering Department; institutional digital copy by Seattle Municipal Archives",
+      "publication_date": "1910-06-27 (cataloged photograph date); 2013-05-01 upload",
+      "source_type": "archival photograph digital reproduction and institutional caption",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Photograph displayed in institutional Flickr page through browser; caption, item 9349, series 2613-07, catalog date and lower-left 6-27-10 inscription checked. Displayed asset 800 by 569 pixels.",
+      "limitations": "Original negative and reverse not inspected; no calibrated scale, survey, volume estimate or before/after match. Camera direction/location remains catalog attribution. Former item permalink returns 404.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "item_identifier": "9349",
+      "record_series": "2613-07",
+      "image_asset_url": "https://live.staticflickr.com/8557/8699489754_582f9a9e43_c.jpg",
+      "rights": "Institutional Flickr page displays CC BY 2.0; image not republished in repository."
     }
   ]
 }
