@@ -463,3 +463,7 @@ Graph-read candidate levels reproduce S138 printed coefficients and R squared. N
 ### 2026-10-08 — Woodward purchase publication lineage
 
 Original1900 purchase report S223 recovered and visually inspected; still no transfer instrument, exact date or price. S224 modern assignment database excludes the target period; S225 RG241 digests/indexes cover it. Next locate the actual entries under inventor and assignees, separating US ownership from Canadian license. No external contact authorized or made.
+
+### 2026-10-08 — Assignment retrieval route
+
+Live catalog S226–S228 establishes index593144 to digest593129 to transfer593148. Published an unsent retrieval specification with seller names, date-window limits and required fields. Catalog marks records unavailable online; exact entries remain missing. Preserve conflicting index start dates and confirm physical availability before any future visit/order. This access gap does not block other investigation branches or complete any reconstruction outcome.

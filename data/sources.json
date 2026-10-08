@@ -3538,6 +3538,48 @@
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     },
     {
+      "id": "S226",
+      "title": "Patent Assignment Digests, 1837–1957",
+      "creator": "National Archives and Records Administration",
+      "publication_date": null,
+      "url": "https://catalog.archives.gov/id/593129",
+      "source_type": "Official archival series catalog",
+      "access": "CATALOG_METADATA",
+      "inspected": "Live browser description, arrangement, finding aids, custody and control numbers; NC 147 28.",
+      "limitations": "No individual entry inspected; online unavailability and custody caveat retained. Cross-reference date differs from index title.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S227",
+      "title": "Index to Assignments, 1834–1923",
+      "creator": "National Archives and Records Administration",
+      "publication_date": null,
+      "url": "https://catalog.archives.gov/id/593144",
+      "source_type": "Official archival series catalog",
+      "access": "CATALOG_METADATA",
+      "inspected": "Live browser description, arrangement, dates, custody and control numbers; NC 147 27.",
+      "limitations": "No individual entry inspected;1834 start differs from1864 in digest cross-reference. Online unavailability and custody caveat retained.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S228",
+      "title": "Records of Transfer of Patents, 1836–1954",
+      "creator": "National Archives and Records Administration",
+      "publication_date": null,
+      "url": "https://catalog.archives.gov/id/593148",
+      "source_type": "Official archival series catalog",
+      "access": "CATALOG_METADATA",
+      "inspected": "Live browser description, arrangement, finding aid, custody and control numbers; A1 1009 / UD 100001.",
+      "limitations": "No transfer inspected; records are copies. Online unavailability and custody caveat retained.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
       "id": "S225",
       "title": "Records of the Patent and Trademark Office, Record Group 241",
       "creator": "National Archives and Records Administration",

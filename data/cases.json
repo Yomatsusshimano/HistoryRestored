@@ -949,6 +949,21 @@
           "statement": "Current online assignment database begins August1980; a missing1879 transaction there cannot establish absence."
         },
         {
+          "source_id": "S226",
+          "locator": "Description and finding aids",
+          "statement": "Digest catalog describes a route to Liber volume/page; no Woodward entry recovered."
+        },
+        {
+          "source_id": "S227",
+          "locator": "Description and arrangement",
+          "statement": "Index uses assignor names and date spans; its title starts1834 versus1864 in the digest cross-reference."
+        },
+        {
+          "source_id": "S228",
+          "locator": "Description and finding aid",
+          "statement": "Liber volumes contain transfer notice copies indexed through digests; no alleged Edison purchase verified."
+        },
+        {
           "source_id": "S225",
           "locator": "Section241.3 textual records",
           "statement": "Lists assignment digests1837-1905 and indexes1837-1923; individual Woodward entries remain uninspected."
