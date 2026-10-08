@@ -1417,6 +1417,11 @@
           "source_id": "S105",
           "locator": "Figure S5 p.6; Table S1 pp.9-10",
           "statement": "Schematic section records multiple soil horizons; Table S1 locates redated specimen FCS.CLA.154 at grid I6, 106.5 cm BGL. Local coordinates are not surveyed global elevations."
+        },
+        {
+          "source_id": "S106",
+          "locator": "Table 3 and discussion pp.106-107",
+          "statement": "Original publication disclosed preservation and dating concerns; specimen-specific collagen/carbon percentages are reported."
         }
       ],
       "physical_evidence": "Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination. Selected section, specimen context row and main geological discussion visually inspected; refit/displacement discussion read.",
@@ -1427,7 +1432,7 @@
         "Younger contaminant carbon affected earlier gelatin measurements",
         "Other processing or measurement effects requiring raw quality records"
       ],
-      "counterevidence": "Reported fractions distinguish a documented contamination mechanism from assuming any inconvenient fossil age is wrong. The corrected result remains specimen-specific.",
+      "counterevidence": "Reported fractions distinguish a documented contamination mechanism from assuming any inconvenient fossil age is wrong. The corrected result remains specimen-specific. Earlier publicly stated dating doubts challenge describing this particular revision as a concealed or unexplained chronology change.",
       "next_test": "Recover control carbon masses, background corrections, batch mapping and original AA-71665 preparation record; inspect archaeological association separately.",
       "chronology": {
         "reported": "Original 9730 +/- 290 BP; selected redetermination 10655 +/- 35 BP; calendar ranges retained separately in data/campo-laborde-assays.json",
@@ -1444,7 +1449,7 @@
         "Independent processing replication",
         "Independent archaeological/taphonomic association review"
       ],
-      "dependence": "Replicate fractions share one bone and burial history. Historical age is restated by the 2019 article, not independently recovered from the 2007 assay report."
+      "dependence": "Replicate fractions share one bone and burial history. Original 2008 publication now inspected for Table 3 and chronology discussion; lab worksheets remain absent."
     }
   ]
 }

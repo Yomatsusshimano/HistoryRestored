@@ -45,5 +45,14 @@
     "authors_interpretation": "Vertical migration of microflakes; soil formation and fossorial activity proposed",
     "limits": "No transport duration or velocity inferred; original field records uninspected."
   },
-  "implication": "Local vertical displacement is reported; neither a perfectly undisturbed assemblage nor wholesale catastrophic transport follows."
+  "implication": "Local vertical displacement is reported; neither a perfectly undisturbed assemblage nor wholesale catastrophic transport follows.",
+  "earlier_context": {
+    "source_id": "S106",
+    "locator": "Table 3 p.106",
+    "specimen": "FCS.CLA.154",
+    "depth_from_level_0_as_printed": 98,
+    "depth_unit_explicit_in_table": null,
+    "conversion_to_later_106_5_cm_BGL": null,
+    "interpretation": "Different reference labels; discrepancy not corrected without original survey/field records."
+  }
 }

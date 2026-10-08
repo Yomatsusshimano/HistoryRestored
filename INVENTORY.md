@@ -720,6 +720,7 @@ Place: Campo Laborde, Argentine Pampas. Status: SOURCED_DRAFT.
 - One previously dated metacarpal was reprocessed; purified amino-acid fractions produced older ages than the original gelatin result, while separated fulvic acids contained more modern carbon. [S104](https://doi.org/10.1126/sciadv.aau4546). Locator: Table 1 and chronology/methods sections. Access: SCAN_INSPECTED. Limit: Main Table 1 inspected as XML, not visually; selected geological-context page/Figure 4 visually inspected. Supplement inspection recorded separately in S105. Raw assays and independent field/laboratory review absent.
 - Six control results are reported without mass/batch mapping; original assay fraction label differs between supplement and main table. [S105](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6402857/supplementaryFiles). Locator: Tables S3-S4, PDF pp.15-16. Access: SCAN_INSPECTED. Limit: Six control results without carbon masses or batch mapping; original certificates and consensus-source records uninspected. Same study as S104, not independent replication.
 - Schematic section records multiple soil horizons; Table S1 locates redated specimen FCS.CLA.154 at grid I6, 106.5 cm BGL. Local coordinates are not surveyed global elevations. [S105](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6402857/supplementaryFiles). Locator: Figure S5 p.6; Table S1 pp.9-10. Access: SCAN_INSPECTED. Limit: Six control results without carbon masses or batch mapping; original certificates and consensus-source records uninspected. Same study as S104, not independent replication.
+- Original publication disclosed preservation and dating concerns; specimen-specific collagen/carbon percentages are reported. [S106](https://doi.org/10.1016/j.quaint.2007.12.003). Locator: Table 3 and discussion pp.106-107. Access: SCAN_INSPECTED. Limit: Original lab worksheets absent; selected pages do not resolve fraction label or depth-datum differences. Neither regional stratigraphy nor OCR dating independently reproduced.
 
 **Physical evidence:** Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination. Selected section, specimen context row and main geological discussion visually inspected; refit/displacement discussion read.
 
@@ -729,11 +730,11 @@ Place: Campo Laborde, Argentine Pampas. Status: SOURCED_DRAFT.
 
 **Investigation inference:** An identified same-bone redating supplies a concrete method-sensitive chronology revision. It cannot be transferred to Haitian sloths or establish a common flood. Reported cross-boundary refits require localized displacement to be considered; they do not establish wholesale flood transport.
 
-**Counterevidence:** Reported fractions distinguish a documented contamination mechanism from assuming any inconvenient fossil age is wrong. The corrected result remains specimen-specific.
+**Counterevidence:** Reported fractions distinguish a documented contamination mechanism from assuming any inconvenient fossil age is wrong. The corrected result remains specimen-specific. Earlier publicly stated dating doubts challenge describing this particular revision as a concealed or unexplained chronology change.
 
 **Next test:** Recover control carbon masses, background corrections, batch mapping and original AA-71665 preparation record; inspect archaeological association separately.
 
-**Dependence:** Replicate fractions share one bone and burial history. Historical age is restated by the 2019 article, not independently recovered from the 2007 assay report.
+**Dependence:** Replicate fractions share one bone and burial history. Original 2008 publication now inspected for Table 3 and chronology discussion; lab worksheets remain absent.
 
 **Alternatives:** Younger contaminant carbon affected earlier gelatin measurements; Other processing or measurement effects requiring raw quality records
 

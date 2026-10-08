@@ -102,3 +102,5 @@ Campo Laborde C022 added as a same-specimen redating comparator, with seven Tabl
 Campo supplement recovered: six controls retained with typed reference uncertainties/bounds; carbon masses and batch mapping absent. Resolve AA-71665 gelatin/ABA labels and laboratory background model before claiming small-sample validation.
 
 Campo depositional context: S5 section and S1 dated-bone row inspected; local I6/106.5 cm BGL context recovered. Reported cross-boundary artifact refits require displacement assessment. Obtain original profiles/field coordinates; do not equate specimen age with enclosing strata.
+
+Campo original publication recovered: S106 Table 3 supplies six quality rows and predates the correction with explicit uncertainty. Reconcile level-0 versus BGL depth references and preparation labels through original lab/survey records; no numerical correction inferred.

@@ -1,0 +1,57 @@
+{
+  "source_id": "S106",
+  "case_id": "C022",
+  "locator": "Table 3, p.106 / PDF p.9",
+  "access": "SCAN_INSPECTED",
+  "rows": [
+    {
+      "specimen": "FCS.CLA.1979",
+      "lab_id": "AA-71667",
+      "depth_from_level_0_as_printed": 125,
+      "depth_unit_explicit_in_table": null,
+      "collagen_percent": 0.8,
+      "carbon_percent": 1.5
+    },
+    {
+      "specimen": "FCS.CLA.211",
+      "lab_id": "AA-71666",
+      "depth_from_level_0_as_printed": 116.5,
+      "depth_unit_explicit_in_table": null,
+      "collagen_percent": 1.1,
+      "carbon_percent": 1.5
+    },
+    {
+      "specimen": "FCS.CLA.28",
+      "lab_id": "AA-55117",
+      "depth_from_level_0_as_printed": 116.5,
+      "depth_unit_explicit_in_table": null,
+      "collagen_percent": 9,
+      "carbon_percent": 1.4
+    },
+    {
+      "specimen": "FCS.CLA.99",
+      "lab_id": "AA-55118",
+      "depth_from_level_0_as_printed": 104.8,
+      "depth_unit_explicit_in_table": null,
+      "collagen_percent": 5.5,
+      "carbon_percent": 1.9
+    },
+    {
+      "specimen": "FCS.CLA.100",
+      "lab_id": "AA-55119",
+      "depth_from_level_0_as_printed": 103,
+      "depth_unit_explicit_in_table": null,
+      "collagen_percent": 0.4,
+      "carbon_percent": 21
+    },
+    {
+      "specimen": "FCS.CLA.154",
+      "lab_id": "AA-71665",
+      "depth_from_level_0_as_printed": 98,
+      "depth_unit_explicit_in_table": null,
+      "collagen_percent": 0.8,
+      "carbon_percent": 5.3
+    }
+  ],
+  "limits": "Percentages retain source labels; exact denominator/processing stage and lab worksheets unverified. Level 0 has not been reconciled with later BGL datum."
+}

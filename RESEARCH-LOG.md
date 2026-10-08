@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Original Campo dating disclosure
+
+Previous turn made progress: 4673755 published seven publicly byte-verified files; clean checkout confirmed. Retrieved the 2008 original publication from UNLP and rendered pp.106-107. Added S106 and six specimen-linked quality rows. AA-71665 collagen/carbon values and pre-existing dating caution are now directly documented; preparation label remains unresolved. Preserved the level-0 versus later BGL depth difference without assuming equivalent datums or changing coordinates. This supports a documented public revision history, not a finding of fabricated chronology. Full goal remains active.
+
 ## 2026-10-08 - Campo specimen-to-deposit context
 
 Previous turn made progress: 5624eba published eight publicly byte-verified files; clean checkout confirmed. Used existing downloaded main/supplement copies; inspected article p.5/Figure 4, S5 section and S1 header/specimen row. Recovered FCS.CLA.154 local grid/depth and reported cross-boundary refits, preserving unknown coordinate transforms and depth-to-ID assignments. Added structured context and separated bone chronology, wetland interpretation and localized displacement. No field reanalysis, hydraulic reconstruction or event-duration conclusion claimed. Full goal remains active.

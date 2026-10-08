@@ -15,7 +15,8 @@
       "radiocarbon_age_1SD_BP_as_printed": "9730 ± 290",
       "calibrated_95_4_percent_BP_as_printed": "10,250–11,982",
       "supplement_fraction_label": "ABA Treated Bone",
-      "label_discrepancy": "Main Table 1 says Gelatin; supplement S3 says ABA Treated Bone. Original preparation record not recovered."
+      "label_discrepancy": "Main Table 1 says Gelatin; supplement S3 says ABA Treated Bone. Original preparation record not recovered.",
+      "original_quality_source": "S106 Table 3: collagen 0.8%, carbon 5.3%; denominators and original lab worksheet unverified."
     },
     {
       "lab_id": "CAMS-171861",

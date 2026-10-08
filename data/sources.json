@@ -1730,6 +1730,23 @@
       "downloaded_pdf_sha256": "bc35f0367aa8dd29c87da0c47c651ab268d86d039a3f28ce9d76102329d77cec",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S106",
+      "title": "The Campo Laborde site: New evidence for the Holocene survival of Pleistocene megafauna in the Argentine Pampas",
+      "creator": "Gustavo G. Politis and Pablo G. Messineo",
+      "publication_date": "2008-01-19",
+      "doi": "10.1016/j.quaint.2007.12.003",
+      "url": "https://doi.org/10.1016/j.quaint.2007.12.003",
+      "pdf_mirror": "https://api.naturalis.fcnym.unlp.edu.ar/server/api/core/bitstreams/f97383e3-8b39-46e1-a5d9-9d7305f93cce/content",
+      "source_type": "Original site study; online publication date",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Table 3 and chronology discussion, printed pp.106-107 / PDF pp.9-10, visually inspected.",
+      "limitations": "Original lab worksheets absent; selected pages do not resolve fraction label or depth-datum differences. Neither regional stratigraphy nor OCR dating independently reproduced.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "4a244508c582e1d85975bd4fb67f164340bee1eb328d1beb7fb1c57c80fd93fc",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
