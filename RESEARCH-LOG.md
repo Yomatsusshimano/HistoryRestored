@@ -1100,3 +1100,8 @@ Previous turn made verified public progress. Recovered Reading repository PDF of
 ### 2026-10-08 — Coyote Canyon candidate regression inputs
 
 Previous turn made verified public progress. Inspected repository links and publisher supplement/data-availability listing. Two supplement requests returned403. Fit graph-read levels35,26,14,11 against reported OSL ages using centered NumPy least squares; checked against polyfit and residual orthogonality. All printed coefficient/R-squared rounding reproduced. This is a candidate input reconstruction, not unique original-input recovery or confidence-interval reproduction. Added shared-curve dependence to cross-case assessment. No new source or independently validated age claimed.
+
+
+### 2026-10-08 — Woodward purchase publication lineage
+
+Previous turn made verified public progress. Shifted to H7-T ownership/attribution. Bounded exact-name/assignee searches recovered a1900 journal lead via Wikipedia citation. Retrieved original issue through archive-listed replica after certificate failure on default redirect; hashed PDF and visually inspected full p540 article. Preserved unnamed-correspondent/named-informant mediation and lack of transaction terms. Read official USPTO coverage and NARA period-appropriate series guide. No assignment recovered, no price/date invented, no messages or orders sent. Modern and derivative accounts not counted as independent transaction proof.

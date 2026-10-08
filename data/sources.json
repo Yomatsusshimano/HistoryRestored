@@ -3507,6 +3507,49 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S223",
+      "title": "Invention of the Incandescent Lamp",
+      "creator": "Electrical World and Engineer; unsigned article",
+      "publication_date": "1900-04-14",
+      "url": "https://archive.org/details/sim_electrical-world_1900-04-14_35_15/page/540/mode/2up",
+      "source_type": "Original trade-journal article reporting retrospective claims",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Vol.35 no.15 printed p.540 / PDF p.4, full article visually inspected including right-column continuation; first-page issue date text checked.",
+      "limitations": "Unnamed correspondent relays named informants; no assignment instrument, exact sale date, price or patent number. Original transaction and engineering claims unverified.",
+      "local_copy": "tmp/research/electrical-world-1900-04-14.pdf",
+      "sha256": "6f606672fb11fe6e11c9f50ac0412c65e41e42bf6dab19f01629b1e59991756c",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S224",
+      "title": "Patent advanced assignment search: database coverage",
+      "creator": "United States Patent and Trademark Office",
+      "publication_date": null,
+      "url": "https://assignmentcenter.uspto.gov/search/advanced",
+      "source_type": "Official database coverage documentation",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Assignment Search introduction and coverage statement.",
+      "limitations": "Coverage documentation only; no historical Woodward assignment searched or recovered from this post-1980 database.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S225",
+      "title": "Records of the Patent and Trademark Office, Record Group 241",
+      "creator": "National Archives and Records Administration",
+      "publication_date": null,
+      "url": "https://www.archives.gov/research/guide-fed-records/groups/241.html",
+      "source_type": "Official archival collection guide",
+      "access": "CATALOG_METADATA",
+      "inspected": "Section241.3 textual records: assignment digests1837-1905 and indexes1837-1923.",
+      "limitations": "Series-level description only. No Woodward-specific index entry, instrument, survival or digitization verified.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
