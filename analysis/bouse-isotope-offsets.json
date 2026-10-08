@@ -1,0 +1,1062 @@
+{
+  "source_id": "S185",
+  "input_sha256": "5d04c687d9d5637e175d03fbb7e7b8c942569960a9ecb337b8fe5e5aa6c425ec",
+  "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+  "method": "Subtract the same-sample micrite oxygen value from each reported ostracode oxygen value, then summarize within sample and genus. No pooling across samples or genera.",
+  "limitations": [
+    "Reported rows lack individual specimen identifiers and do not establish independent biological replicates.",
+    "All offsets in a sample share its single micrite value.",
+    "Means and ranges are descriptive, not confidence intervals.",
+    "No age, salinity, temperature or hydrological mechanism estimated."
+  ],
+  "sediment_records": [
+    {
+      "sample": "HM 45",
+      "elevation_m_asl": 109.85,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "oxygen_per_mil_vpdb": -10.6,
+      "carbon_per_mil_vpdb": 0.5,
+      "locator": "Supplement 1!A6:T6"
+    },
+    {
+      "sample": "HM 46",
+      "elevation_m_asl": 109.95,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "oxygen_per_mil_vpdb": -9.4,
+      "carbon_per_mil_vpdb": 1.6,
+      "locator": "Supplement 1!A7:T7"
+    },
+    {
+      "sample": "HM 47",
+      "elevation_m_asl": 110.05,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "oxygen_per_mil_vpdb": -9.3,
+      "carbon_per_mil_vpdb": 1.5,
+      "locator": "Supplement 1!A8:T8"
+    },
+    {
+      "sample": "HM 48",
+      "elevation_m_asl": 110.26,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "oxygen_per_mil_vpdb": -10.5,
+      "carbon_per_mil_vpdb": 1.5,
+      "locator": "Supplement 1!A9:T9"
+    },
+    {
+      "sample": "HM 49",
+      "elevation_m_asl": 110.38,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "oxygen_per_mil_vpdb": -9,
+      "carbon_per_mil_vpdb": 1.7,
+      "locator": "Supplement 1!A10:T10"
+    },
+    {
+      "sample": "HM 50",
+      "elevation_m_asl": 110.74,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "oxygen_per_mil_vpdb": -8.3,
+      "carbon_per_mil_vpdb": 1.6,
+      "locator": "Supplement 1!A11:T11"
+    },
+    {
+      "sample": "HM 51",
+      "elevation_m_asl": 111.02,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "oxygen_per_mil_vpdb": -8.3,
+      "carbon_per_mil_vpdb": 1.6,
+      "locator": "Supplement 1!A12:T12"
+    },
+    {
+      "sample": "HM 52",
+      "elevation_m_asl": 111.2,
+      "unit": "Distinctive Clay Layer",
+      "oxygen_per_mil_vpdb": -8,
+      "carbon_per_mil_vpdb": -1.7,
+      "locator": "Supplement 1!A13:T13"
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "oxygen_per_mil_vpdb": -10.9,
+      "carbon_per_mil_vpdb": 0.1,
+      "locator": "Supplement 1!A14:T14"
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "oxygen_per_mil_vpdb": -9.6,
+      "carbon_per_mil_vpdb": 0.8,
+      "locator": "Supplement 1!A15:T15"
+    },
+    {
+      "sample": "HM 55",
+      "elevation_m_asl": 111.83,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "oxygen_per_mil_vpdb": -11,
+      "carbon_per_mil_vpdb": -0.6,
+      "locator": "Supplement 1!A16:T16"
+    },
+    {
+      "sample": "HM 56",
+      "elevation_m_asl": 112.19,
+      "unit": "Interbedded Unit - green claystone",
+      "oxygen_per_mil_vpdb": -10.4,
+      "carbon_per_mil_vpdb": -0.7,
+      "locator": "Supplement 1!A17:T17"
+    },
+    {
+      "sample": "HM 57",
+      "elevation_m_asl": 112.54,
+      "unit": "Interbedded Unit - green claystone",
+      "oxygen_per_mil_vpdb": -10.3,
+      "carbon_per_mil_vpdb": -0.9,
+      "locator": "Supplement 1!A18:T18"
+    },
+    {
+      "sample": "HM 58",
+      "elevation_m_asl": 113.15,
+      "unit": "Interbedded Unit - green claystone",
+      "oxygen_per_mil_vpdb": -8.8,
+      "carbon_per_mil_vpdb": -2.9,
+      "locator": "Supplement 1!A19:T19"
+    },
+    {
+      "sample": "HM 59",
+      "elevation_m_asl": 114.42,
+      "unit": "Interbedded Unit - green claystone",
+      "oxygen_per_mil_vpdb": -9.2,
+      "carbon_per_mil_vpdb": -3,
+      "locator": "Supplement 1!A20:T20"
+    },
+    {
+      "sample": "HM 60",
+      "elevation_m_asl": 114.63,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -9.4,
+      "carbon_per_mil_vpdb": -3.7,
+      "locator": "Supplement 1!A21:T21"
+    },
+    {
+      "sample": "HM 61",
+      "elevation_m_asl": 119.2,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -8.6,
+      "carbon_per_mil_vpdb": -3.3,
+      "locator": "Supplement 1!A22:T22"
+    },
+    {
+      "sample": "HM 62",
+      "elevation_m_asl": 123.16,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -8.9,
+      "carbon_per_mil_vpdb": -2.7,
+      "locator": "Supplement 1!A23:T23"
+    },
+    {
+      "sample": "HM 90",
+      "elevation_m_asl": 124.5,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -8.2,
+      "carbon_per_mil_vpdb": -2.8,
+      "locator": "Supplement 1!A24:T24"
+    },
+    {
+      "sample": "HM 63",
+      "elevation_m_asl": 125.9,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -9.1,
+      "carbon_per_mil_vpdb": -3.6,
+      "locator": "Supplement 1!A25:T25"
+    },
+    {
+      "sample": "HM 64",
+      "elevation_m_asl": 130.09,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -9.4,
+      "carbon_per_mil_vpdb": -4.4,
+      "locator": "Supplement 1!A26:T26"
+    },
+    {
+      "sample": "HM 89",
+      "elevation_m_asl": 131.4,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -8.2,
+      "carbon_per_mil_vpdb": -4.2,
+      "locator": "Supplement 1!A27:T27"
+    },
+    {
+      "sample": "HM 88",
+      "elevation_m_asl": 131.64,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -8.3,
+      "carbon_per_mil_vpdb": -3.4,
+      "locator": "Supplement 1!A28:T28"
+    },
+    {
+      "sample": "HM 87",
+      "elevation_m_asl": 132,
+      "unit": "Interbedded Unit - reddish claystone",
+      "oxygen_per_mil_vpdb": -8.3,
+      "carbon_per_mil_vpdb": -4.8,
+      "locator": "Supplement 1!A29:T29"
+    }
+  ],
+  "ostracode_records": [
+    {
+      "sample": "HM 45",
+      "elevation_m_asl": 109.85,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -2.4,
+      "carbon_per_mil_vpdb": -6.1,
+      "locator": "Supplement 2!A5:F5",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 8.2
+    },
+    {
+      "sample": "HM 45",
+      "elevation_m_asl": 109.85,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3.2,
+      "carbon_per_mil_vpdb": -5,
+      "locator": "Supplement 2!A6:F6",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 7.4
+    },
+    {
+      "sample": "HM 45",
+      "elevation_m_asl": 109.85,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -2.3,
+      "carbon_per_mil_vpdb": -4.8,
+      "locator": "Supplement 2!A7:F7",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 8.3
+    },
+    {
+      "sample": "HM 48",
+      "elevation_m_asl": 110.26,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -2.7,
+      "carbon_per_mil_vpdb": -4.3,
+      "locator": "Supplement 2!A8:F8",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 7.8
+    },
+    {
+      "sample": "HM 48",
+      "elevation_m_asl": 110.26,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -2.9,
+      "carbon_per_mil_vpdb": -4.2,
+      "locator": "Supplement 2!A9:F9",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 7.6
+    },
+    {
+      "sample": "HM 48",
+      "elevation_m_asl": 110.26,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3.1,
+      "carbon_per_mil_vpdb": -4.4,
+      "locator": "Supplement 2!A10:F10",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 7.4
+    },
+    {
+      "sample": "HM 49",
+      "elevation_m_asl": 110.38,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3.2,
+      "carbon_per_mil_vpdb": -3.6,
+      "locator": "Supplement 2!A11:F11",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.8
+    },
+    {
+      "sample": "HM 49",
+      "elevation_m_asl": 110.38,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3.6,
+      "carbon_per_mil_vpdb": -4.1,
+      "locator": "Supplement 2!A12:F12",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.4
+    },
+    {
+      "sample": "HM 49",
+      "elevation_m_asl": 110.38,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3,
+      "carbon_per_mil_vpdb": -4,
+      "locator": "Supplement 2!A13:F13",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 6
+    },
+    {
+      "sample": "HM 49",
+      "elevation_m_asl": 110.38,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3.3,
+      "carbon_per_mil_vpdb": -4.3,
+      "locator": "Supplement 2!A14:F14",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.7
+    },
+    {
+      "sample": "HM 49",
+      "elevation_m_asl": 110.38,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cytheromorpha sp. A",
+      "oxygen_per_mil_vpdb": -6.1,
+      "carbon_per_mil_vpdb": -0.7,
+      "locator": "Supplement 2!A15:F15",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.9
+    },
+    {
+      "sample": "HM 49",
+      "elevation_m_asl": 110.38,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cytheromorpha sp. A",
+      "oxygen_per_mil_vpdb": -6.4,
+      "carbon_per_mil_vpdb": -1,
+      "locator": "Supplement 2!A16:F16",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.6
+    },
+    {
+      "sample": "HM 50",
+      "elevation_m_asl": 110.74,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -2.7,
+      "carbon_per_mil_vpdb": -3.8,
+      "locator": "Supplement 2!A17:F17",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.6
+    },
+    {
+      "sample": "HM 50",
+      "elevation_m_asl": 110.74,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -2.7,
+      "carbon_per_mil_vpdb": -3.9,
+      "locator": "Supplement 2!A18:F18",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.6
+    },
+    {
+      "sample": "HM 50",
+      "elevation_m_asl": 110.74,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3.2,
+      "carbon_per_mil_vpdb": -3.6,
+      "locator": "Supplement 2!A19:F19",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.1
+    },
+    {
+      "sample": "HM 50",
+      "elevation_m_asl": 110.74,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -2.9,
+      "carbon_per_mil_vpdb": -3.5,
+      "locator": "Supplement 2!A20:F20",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.4
+    },
+    {
+      "sample": "HM 51",
+      "elevation_m_asl": 111.02,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -2.8,
+      "carbon_per_mil_vpdb": -3.8,
+      "locator": "Supplement 2!A21:F21",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.5
+    },
+    {
+      "sample": "HM 51",
+      "elevation_m_asl": 111.02,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3,
+      "carbon_per_mil_vpdb": -3.4,
+      "locator": "Supplement 2!A22:F22",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.3
+    },
+    {
+      "sample": "HM 51",
+      "elevation_m_asl": 111.02,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3.3,
+      "carbon_per_mil_vpdb": -3,
+      "locator": "Supplement 2!A23:F23",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.0
+    },
+    {
+      "sample": "HM 51",
+      "elevation_m_asl": 111.02,
+      "unit": "Basal Carbonate Unit  oxidized pre-DCL marl",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -3.2,
+      "carbon_per_mil_vpdb": -3.7,
+      "locator": "Supplement 2!A24:F24",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.1
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -10.3,
+      "carbon_per_mil_vpdb": -3.9,
+      "locator": "Supplement 2!A25:F25",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 0.6
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -9.7,
+      "carbon_per_mil_vpdb": -5,
+      "locator": "Supplement 2!A26:F26",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 1.2
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -9.5,
+      "carbon_per_mil_vpdb": -3.7,
+      "locator": "Supplement 2!A27:F27",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 1.4
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -8.9,
+      "carbon_per_mil_vpdb": -4.5,
+      "locator": "Supplement 2!A28:F28",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.0
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cytheromorpha sp. A",
+      "oxygen_per_mil_vpdb": -8.3,
+      "carbon_per_mil_vpdb": -2.7,
+      "locator": "Supplement 2!A29:F29",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.6
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cytheromorpha sp. A",
+      "oxygen_per_mil_vpdb": -8.5,
+      "carbon_per_mil_vpdb": -3.2,
+      "locator": "Supplement 2!A30:F30",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.4
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -8.5,
+      "carbon_per_mil_vpdb": -1,
+      "locator": "Supplement 2!A31:F31",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.4
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -8.7,
+      "carbon_per_mil_vpdb": -2.5,
+      "locator": "Supplement 2!A32:F32",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.2
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -8.7,
+      "carbon_per_mil_vpdb": -2.2,
+      "locator": "Supplement 2!A33:F33",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.2
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Heterocypris sp.",
+      "oxygen_per_mil_vpdb": -9.1,
+      "carbon_per_mil_vpdb": -1.5,
+      "locator": "Supplement 2!A34:F34",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 1.8
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Heterocypris sp.",
+      "oxygen_per_mil_vpdb": -10.3,
+      "carbon_per_mil_vpdb": -1.1,
+      "locator": "Supplement 2!A35:F35",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 0.6
+    },
+    {
+      "sample": "HM 53",
+      "elevation_m_asl": 111.35,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Heterocypris sp.",
+      "oxygen_per_mil_vpdb": -9.2,
+      "carbon_per_mil_vpdb": -2,
+      "locator": "Supplement 2!A36:F36",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 1.7
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -4.2,
+      "carbon_per_mil_vpdb": -3,
+      "locator": "Supplement 2!A37:F37",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 5.4
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -13.2,
+      "carbon_per_mil_vpdb": -4.7,
+      "locator": "Supplement 2!A38:F38",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -3.6
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -8.6,
+      "carbon_per_mil_vpdb": -4.6,
+      "locator": "Supplement 2!A39:F39",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 1.0
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -11.1,
+      "carbon_per_mil_vpdb": -4.1,
+      "locator": "Supplement 2!A40:F40",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -1.5
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cytheromorpha sp. A",
+      "oxygen_per_mil_vpdb": -10.2,
+      "carbon_per_mil_vpdb": -2.2,
+      "locator": "Supplement 2!A41:F41",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -0.6
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cytheromorpha sp. A",
+      "oxygen_per_mil_vpdb": -9.6,
+      "carbon_per_mil_vpdb": -1.6,
+      "locator": "Supplement 2!A42:F42",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 0.0
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cytheromorpha sp. A",
+      "oxygen_per_mil_vpdb": -9.5,
+      "carbon_per_mil_vpdb": -2,
+      "locator": "Supplement 2!A43:F43",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 0.1
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -10,
+      "carbon_per_mil_vpdb": -3.1,
+      "locator": "Supplement 2!A44:F44",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -0.4
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -9.9,
+      "carbon_per_mil_vpdb": -1.4,
+      "locator": "Supplement 2!A45:F45",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -0.3
+    },
+    {
+      "sample": "HM 54",
+      "elevation_m_asl": 111.63,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -10.3,
+      "carbon_per_mil_vpdb": -2.2,
+      "locator": "Supplement 2!A46:F46",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -0.7
+    },
+    {
+      "sample": "HM 55",
+      "elevation_m_asl": 111.83,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -14.4,
+      "carbon_per_mil_vpdb": -4.2,
+      "locator": "Supplement 2!A47:F47",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -3.4
+    },
+    {
+      "sample": "HM 55",
+      "elevation_m_asl": 111.83,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -8.8,
+      "carbon_per_mil_vpdb": -4,
+      "locator": "Supplement 2!A48:F48",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.2
+    },
+    {
+      "sample": "HM 55",
+      "elevation_m_asl": 111.83,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -11.3,
+      "carbon_per_mil_vpdb": -3.7,
+      "locator": "Supplement 2!A49:F49",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -0.3
+    },
+    {
+      "sample": "HM 55",
+      "elevation_m_asl": 111.83,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -10.2,
+      "carbon_per_mil_vpdb": -3.8,
+      "locator": "Supplement 2!A50:F50",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 0.8
+    },
+    {
+      "sample": "HM 55",
+      "elevation_m_asl": 111.83,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -10,
+      "carbon_per_mil_vpdb": -1,
+      "locator": "Supplement 2!A51:F51",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 1
+    },
+    {
+      "sample": "HM 55",
+      "elevation_m_asl": 111.83,
+      "unit": "Interbedded Unit - transitional post-DCL marl/mudstone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -10.2,
+      "carbon_per_mil_vpdb": -2.8,
+      "locator": "Supplement 2!A52:F52",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 0.8
+    },
+    {
+      "sample": "HM 56",
+      "elevation_m_asl": 112.19,
+      "unit": "Interbedded Unit - green claystone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -11.7,
+      "carbon_per_mil_vpdb": -2.9,
+      "locator": "Supplement 2!A53:F53",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -1.3
+    },
+    {
+      "sample": "HM 56",
+      "elevation_m_asl": 112.19,
+      "unit": "Interbedded Unit - green claystone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -11.6,
+      "carbon_per_mil_vpdb": -3.1,
+      "locator": "Supplement 2!A54:F54",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": -1.2
+    },
+    {
+      "sample": "HM 57",
+      "elevation_m_asl": 112.54,
+      "unit": "Interbedded Unit - green claystone",
+      "genus": "Cyprideis sp.",
+      "oxygen_per_mil_vpdb": -7.5,
+      "carbon_per_mil_vpdb": -3.6,
+      "locator": "Supplement 2!A55:F55",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 2.8
+    },
+    {
+      "sample": "HM 57",
+      "elevation_m_asl": 112.54,
+      "unit": "Interbedded Unit - green claystone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -9.5,
+      "carbon_per_mil_vpdb": -2.9,
+      "locator": "Supplement 2!A56:F56",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 0.8
+    },
+    {
+      "sample": "HM 57",
+      "elevation_m_asl": 112.54,
+      "unit": "Interbedded Unit - green claystone",
+      "genus": "Candona spp.",
+      "oxygen_per_mil_vpdb": -9.6,
+      "carbon_per_mil_vpdb": -3.3,
+      "locator": "Supplement 2!A57:F57",
+      "individual_specimen_id": null,
+      "oxygen_minus_same_sample_micrite": 0.7
+    }
+  ],
+  "sample_genus_summaries": [
+    {
+      "sample": "HM 45",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 3,
+      "offset_mean": 7.966667,
+      "offset_min": 7.4,
+      "offset_max": 8.3,
+      "offset_range": 0.9,
+      "sediment_locator": "Supplement 1!A6:T6",
+      "ostracode_locators": [
+        "Supplement 2!A5:F5",
+        "Supplement 2!A6:F6",
+        "Supplement 2!A7:F7"
+      ]
+    },
+    {
+      "sample": "HM 48",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 3,
+      "offset_mean": 7.6,
+      "offset_min": 7.4,
+      "offset_max": 7.8,
+      "offset_range": 0.4,
+      "sediment_locator": "Supplement 1!A9:T9",
+      "ostracode_locators": [
+        "Supplement 2!A8:F8",
+        "Supplement 2!A9:F9",
+        "Supplement 2!A10:F10"
+      ]
+    },
+    {
+      "sample": "HM 49",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 4,
+      "offset_mean": 5.725,
+      "offset_min": 5.4,
+      "offset_max": 6,
+      "offset_range": 0.6,
+      "sediment_locator": "Supplement 1!A10:T10",
+      "ostracode_locators": [
+        "Supplement 2!A11:F11",
+        "Supplement 2!A12:F12",
+        "Supplement 2!A13:F13",
+        "Supplement 2!A14:F14"
+      ]
+    },
+    {
+      "sample": "HM 49",
+      "genus": "Cytheromorpha sp. A",
+      "n_reported_rows": 2,
+      "offset_mean": 2.75,
+      "offset_min": 2.6,
+      "offset_max": 2.9,
+      "offset_range": 0.3,
+      "sediment_locator": "Supplement 1!A10:T10",
+      "ostracode_locators": [
+        "Supplement 2!A15:F15",
+        "Supplement 2!A16:F16"
+      ]
+    },
+    {
+      "sample": "HM 50",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 4,
+      "offset_mean": 5.425,
+      "offset_min": 5.1,
+      "offset_max": 5.6,
+      "offset_range": 0.5,
+      "sediment_locator": "Supplement 1!A11:T11",
+      "ostracode_locators": [
+        "Supplement 2!A17:F17",
+        "Supplement 2!A18:F18",
+        "Supplement 2!A19:F19",
+        "Supplement 2!A20:F20"
+      ]
+    },
+    {
+      "sample": "HM 51",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 4,
+      "offset_mean": 5.225,
+      "offset_min": 5.0,
+      "offset_max": 5.5,
+      "offset_range": 0.5,
+      "sediment_locator": "Supplement 1!A12:T12",
+      "ostracode_locators": [
+        "Supplement 2!A21:F21",
+        "Supplement 2!A22:F22",
+        "Supplement 2!A23:F23",
+        "Supplement 2!A24:F24"
+      ]
+    },
+    {
+      "sample": "HM 53",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 4,
+      "offset_mean": 1.3,
+      "offset_min": 0.6,
+      "offset_max": 2.0,
+      "offset_range": 1.4,
+      "sediment_locator": "Supplement 1!A14:T14",
+      "ostracode_locators": [
+        "Supplement 2!A25:F25",
+        "Supplement 2!A26:F26",
+        "Supplement 2!A27:F27",
+        "Supplement 2!A28:F28"
+      ]
+    },
+    {
+      "sample": "HM 53",
+      "genus": "Cytheromorpha sp. A",
+      "n_reported_rows": 2,
+      "offset_mean": 2.5,
+      "offset_min": 2.4,
+      "offset_max": 2.6,
+      "offset_range": 0.2,
+      "sediment_locator": "Supplement 1!A14:T14",
+      "ostracode_locators": [
+        "Supplement 2!A29:F29",
+        "Supplement 2!A30:F30"
+      ]
+    },
+    {
+      "sample": "HM 53",
+      "genus": "Candona spp.",
+      "n_reported_rows": 3,
+      "offset_mean": 2.266667,
+      "offset_min": 2.2,
+      "offset_max": 2.4,
+      "offset_range": 0.2,
+      "sediment_locator": "Supplement 1!A14:T14",
+      "ostracode_locators": [
+        "Supplement 2!A31:F31",
+        "Supplement 2!A32:F32",
+        "Supplement 2!A33:F33"
+      ]
+    },
+    {
+      "sample": "HM 53",
+      "genus": "Heterocypris sp.",
+      "n_reported_rows": 3,
+      "offset_mean": 1.366667,
+      "offset_min": 0.6,
+      "offset_max": 1.8,
+      "offset_range": 1.2,
+      "sediment_locator": "Supplement 1!A14:T14",
+      "ostracode_locators": [
+        "Supplement 2!A34:F34",
+        "Supplement 2!A35:F35",
+        "Supplement 2!A36:F36"
+      ]
+    },
+    {
+      "sample": "HM 54",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 4,
+      "offset_mean": 0.325,
+      "offset_min": -3.6,
+      "offset_max": 5.4,
+      "offset_range": 9.0,
+      "sediment_locator": "Supplement 1!A15:T15",
+      "ostracode_locators": [
+        "Supplement 2!A37:F37",
+        "Supplement 2!A38:F38",
+        "Supplement 2!A39:F39",
+        "Supplement 2!A40:F40"
+      ]
+    },
+    {
+      "sample": "HM 54",
+      "genus": "Cytheromorpha sp. A",
+      "n_reported_rows": 3,
+      "offset_mean": -0.166667,
+      "offset_min": -0.6,
+      "offset_max": 0.1,
+      "offset_range": 0.7,
+      "sediment_locator": "Supplement 1!A15:T15",
+      "ostracode_locators": [
+        "Supplement 2!A41:F41",
+        "Supplement 2!A42:F42",
+        "Supplement 2!A43:F43"
+      ]
+    },
+    {
+      "sample": "HM 54",
+      "genus": "Candona spp.",
+      "n_reported_rows": 3,
+      "offset_mean": -0.466667,
+      "offset_min": -0.7,
+      "offset_max": -0.3,
+      "offset_range": 0.4,
+      "sediment_locator": "Supplement 1!A15:T15",
+      "ostracode_locators": [
+        "Supplement 2!A44:F44",
+        "Supplement 2!A45:F45",
+        "Supplement 2!A46:F46"
+      ]
+    },
+    {
+      "sample": "HM 55",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 3,
+      "offset_mean": -0.5,
+      "offset_min": -3.4,
+      "offset_max": 2.2,
+      "offset_range": 5.6,
+      "sediment_locator": "Supplement 1!A16:T16",
+      "ostracode_locators": [
+        "Supplement 2!A47:F47",
+        "Supplement 2!A48:F48",
+        "Supplement 2!A49:F49"
+      ]
+    },
+    {
+      "sample": "HM 55",
+      "genus": "Candona spp.",
+      "n_reported_rows": 3,
+      "offset_mean": 0.866667,
+      "offset_min": 0.8,
+      "offset_max": 1,
+      "offset_range": 0.2,
+      "sediment_locator": "Supplement 1!A16:T16",
+      "ostracode_locators": [
+        "Supplement 2!A50:F50",
+        "Supplement 2!A51:F51",
+        "Supplement 2!A52:F52"
+      ]
+    },
+    {
+      "sample": "HM 56",
+      "genus": "Candona spp.",
+      "n_reported_rows": 2,
+      "offset_mean": -1.25,
+      "offset_min": -1.3,
+      "offset_max": -1.2,
+      "offset_range": 0.1,
+      "sediment_locator": "Supplement 1!A17:T17",
+      "ostracode_locators": [
+        "Supplement 2!A53:F53",
+        "Supplement 2!A54:F54"
+      ]
+    },
+    {
+      "sample": "HM 57",
+      "genus": "Cyprideis sp.",
+      "n_reported_rows": 1,
+      "offset_mean": 2.8,
+      "offset_min": 2.8,
+      "offset_max": 2.8,
+      "offset_range": 0.0,
+      "sediment_locator": "Supplement 1!A18:T18",
+      "ostracode_locators": [
+        "Supplement 2!A55:F55"
+      ]
+    },
+    {
+      "sample": "HM 57",
+      "genus": "Candona spp.",
+      "n_reported_rows": 2,
+      "offset_mean": 0.75,
+      "offset_min": 0.7,
+      "offset_max": 0.8,
+      "offset_range": 0.1,
+      "sediment_locator": "Supplement 1!A18:T18",
+      "ostracode_locators": [
+        "Supplement 2!A56:F56",
+        "Supplement 2!A57:F57"
+      ]
+    }
+  ]
+}

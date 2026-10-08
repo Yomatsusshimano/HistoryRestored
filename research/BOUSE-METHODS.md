@@ -38,4 +38,4 @@ The article's 4.2-6.4 Ma interval for Pacific isotope comparison material (Fig.6
 
 ## Next discriminating work
 
-Reconcile HM51/HM52 entries with the original counting sheets, specimen images and sample processing. Reproduce isotope comparisons by genus and sample, retaining the large within-sample spread rather than replacing all valves with one point. Obtain the marine study's full identifications and subsurface context, and independent age controls for this section. Separately define a map-derived channel route and test its continuity. No geological-to-historical date conversion is justified by the present audit.
+The [sample/genus isotope comparison](BOUSE-ISOTOPES.md) now reproduces all 53 reported rows and preserves their within-sample spread. Next reconcile HM51/HM52 entries with the original counting sheets, specimen images and sample processing. Obtain the marine study's full identifications and subsurface context, original isotope aliquot/specimen records, and independent age controls for this section. Separately define a map-derived channel route and test its continuity. No geological-to-historical date conversion is justified by the present audit.

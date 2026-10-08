@@ -1425,6 +1425,11 @@
           "source_id": "S185",
           "locator": "Supplement 1 K12, O13, R13; S184 pp.88-89; research/BOUSE-METHODS.md",
           "statement": "Supplement retains trace pre-DCL Candona and nonzero DCL foraminifers despite categorical prose. Proposed 3-300-year duration comes from assumed rates, not a direct age bracket."
+        },
+        {
+          "source_id": "S185",
+          "locator": "Supplement 1 S6:S29; Supplement 2 A5:F57; research/BOUSE-ISOTOPES.md",
+          "statement": "Same-sample oxygen offsets decline across the DCL within Cyprideis, while pre-DCL trends, genus differences and a 9-per-mil HM54 spread prevent treating all results as a uniform step. Descriptive reproduction does not establish a unique mechanism or duration."
         }
       ],
       "physical_evidence": "Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.",
