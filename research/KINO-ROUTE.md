@@ -69,3 +69,7 @@ The [river-network inspection](KINO-RIVER-NETWORK.md) finds Azul/Bleue and Hila/
 ## Manuscript retrieval path
 
 The [manuscript audit](KINO-MANUSCRIPT.md) records S192 institutional reproduction locators and Bolton's explicit editorial interventions. Original pages remain uninspected; differing extent descriptions do not establish missing pages.
+
+## Provisional manuscript lookup anchors
+
+The Spanish edition explicitly supplies original-foja markers. The [checked concordance](KINO-MANUSCRIPT.md#edition-provided-manuscript-markers-recovered) locates the November crossing around 165-166 and March observations around 183-186. These markers await verification against original images. March 2 text recalls the previous November crossing; local river information is separately scoped in the [network audit](KINO-RIVER-NETWORK.md#march-1702-narrative-adds-an-information-source-limit).

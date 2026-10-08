@@ -31,3 +31,11 @@ Do not locate a field crossing by assigning every occurrence of Hila, Azul or Co
 This map shows land around the northern gulf; it is not the island geometry of S15 panel II. Its local river topology therefore cannot by itself disprove every proposed island route. The selected island panel's far-northern connection still needs its own control-point identification and geological test.
 
 Next compare original manuscript/route passages at the named junctions, keeping multiple possible modern identifications and travel episodes separate. Alcazar's reported map communication remains a custody lead. The [Gobien audit](GOBIEN-CROSSING.md) and [Buache comparison](BUACHE-KINO-TRANSMISSION.md) retain exact source locators and dependencies.
+
+## March 1702 narrative adds an information-source limit
+
+S40 printed pp.160-162, visually checked, reports inquiries among residents before describing western rivers. Page 161, after manuscript marker (184), lists Azul from the north, Amarillo from the northwest, Colorado from the northeast, and Grande/Hila from the east. Page 162's March 9 entry says the party wanted to cross to see Amarillo and reach the opposite sea; the account then postpones the March 10 crossing. Therefore the listed network must not be treated as four branches personally surveyed on that trip.
+
+The narrative continues to distinguish Azul from Hila and introduces Amarillo, requiring comparison with the particular map/version referenced by the text. Do not force all these directions into S37's earlier discovery-period drawing or assign present river names from color alone. The March 10 entry describes Colorado, Grande/Hila and Azul as forming one body at the outlet; this downstream description does not erase the distinction between their upstream branches. These are reported descriptions through an edited text, without measured bearings, precise confluence positions or independently preserved informant accounts.
+
+The [manuscript marker table](KINO-MANUSCRIPT.md#edition-provided-manuscript-markers-recovered) now supplies targeted retrieval anchors. Original folios and exact map correspondence remain pending.

@@ -453,6 +453,11 @@
           "source_id": "S192",
           "locator": "pp.20-21; research/KINO-MANUSCRIPT.md",
           "statement": "Finding aid provides specific reproduction locators for Favores celestiales; manuscript images and current availability remain unverified. Catalog extent descriptions differ from Bolton and are not reconciled."
+        },
+        {
+          "source_id": "S40",
+          "locator": "Introduccion PDF13; printed pp.148,160-162; research/KINO-MANUSCRIPT.md",
+          "statement": "Edition explains inserted original-foja markers; selected crossing and observation passages bracket markers 165-166 and 183-186. March 2 explicitly recalls prior November crossing; river descriptions include local information, not a demonstrated four-branch survey."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",
@@ -464,7 +469,7 @@
         "A former waterway if independently evidenced"
       ],
       "counterevidence": "The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.",
-      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: reconcile recovered Bouse sample table with original specimen/counting records and age controls and separately specify a georeferenced map-implied route before testing connectivity. Resolve Sanson edition/imprint lineage and control-point identities before georeferencing panel II. Identify the Kino report available to S189 and reconcile its crossing denial against the manuscript and later editions. Gobien letter now inspected: compare original river labels/itinerary and seek Alcazar communication or manuscript custody evidence. Use original itinerary and network context before mapping Hila/Azul names to modern crossing locations. Follow S192 reproduction locators, match original foliation to selected crossing passages and reconcile extent descriptions before inferring omissions.",
+      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: reconcile recovered Bouse sample table with original specimen/counting records and age controls and separately specify a georeferenced map-implied route before testing connectivity. Resolve Sanson edition/imprint lineage and control-point identities before georeferencing panel II. Identify the Kino report available to S189 and reconcile its crossing denial against the manuscript and later editions. Gobien letter now inspected: compare original river labels/itinerary and seek Alcazar communication or manuscript custody evidence. Use original itinerary and network context before mapping Hila/Azul names to modern crossing locations. Follow S192 reproduction locators, match original foliation to selected crossing passages and reconcile extent descriptions before inferring omissions. Use S40 markers 165-166 and 183-186 as provisional lookup anchors, verifying numbering against original images and distinguishing reported river information from traveled segments.",
       "chronology": {
         "reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.",
         "dated_object": "Catalog/exhibition map dates",
