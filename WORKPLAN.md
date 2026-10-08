@@ -398,3 +398,8 @@ Independent errors-in-both-isotope profile fits published for every site and dec
 ### 2026-10-08 — Burial field context and landscape history
 
 Sampling context now inspected: four site depths,22 linked lithologies, explicit Palo Verde reburial/exhumation alternatives and unobserved inter-unit relation preserved. Next cited original mapping and subsequent carbonate-coating dates, then physical shielding-history constraints; present depth alone is not a history.
+
+
+### 2026-10-08 — Map coverage and citation lineage
+
+S218 Castle Rock map lineage identified, selected map text inspected. Latitude extent excludes all four S216 sample sites; direct-contact evidence still needs the actual sampling-area maps. Bounded coating-date searches found no sample-linked result. Next House2016 original discussion and site-covering mapping, with explicit correlation crosswalk.

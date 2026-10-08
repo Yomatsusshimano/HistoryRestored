@@ -136,3 +136,11 @@ The source also offers analytical or inherited-history explanations for high rat
 For the catastrophe test, distinguish initial burial, subsequent reburial, terrace formation and final exposure. The million-year interpretation challenges recent **first burial** under the stated model. It does not, by itself, rule out later movement or landscape modification. Conversely, the paper's acknowledgment of possible exhumation does not demonstrate a recent flood, worldwide upheaval or fabricated chronology. A proposed later event must independently predict mapped contacts, sediment provenance and transport, exposure history and an event-specific bracket.
 
 Next recover the cited local mapping and any subsequent carbonate-coating dates; seek actual overburden/exposure histories before attempting physical intercept or reburial calculations. No shielding history is filled in from present depth alone.
+
+## Mapping coverage and citation lineage
+
+The cited [Castle Rock map, S218](https://doi.org/10.3133/sim3411) covers34°30′–34°37′30″N, from selected marginal text in the [author-uploaded map](https://www.researchgate.net/publication/329352022_Geologic_map_of_the_Castle_Rock_75%27_quadrangle_Arizona_and_California). All four S216 sample latitudes fall outside that interval. It provides regional context, not direct mapped contacts at those exposures. This latitude comparison requires no correction of S216's longitude header. Map graphics and the accompanying pamphlet remain uninspected after USGS access errors.
+
+S216's bibliography has2018 and2019 Castle Rock entries with the same SIM3411 identifier and DOI. They are not two independent mapping confirmations. Also, a passage about incomplete Palo Verde mapping on the ResearchGate page belongs to a2019 citing article, not the map itself; it must not be attributed to the2018 document.
+
+Bounded searches pairing Palo Verde alluvium with U-series, carbonate dating and coatings found no new date linked to PVD019–023. This is a search limit, not evidence that no such measurements exist. House2016 and mapping that actually covers the sampled exposure remain the next targets.

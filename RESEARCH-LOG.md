@@ -1040,3 +1040,8 @@ The immediately preceding model-switch acknowledgment made no research progress;
 ### 2026-10-08 — Burial field context and landscape history
 
 Previous turn made verified public progress. Visually inspected S216 Table1 and Figures2-3, text-read context/discussion54-60. Preserved longitude-header,10cm-footnote and density-status ambiguities. Recorded source-authored Palo Verde history alternatives and explicit lack of observed Palo Verde-Santa Fe superposition. Publisher web reader could not load12MB PDF; existing publisher PDF rendered locally. No field visit, independent mapping, new coating measurement or historical-event date claimed.
+
+
+### 2026-10-08 — Map coverage and citation lineage
+
+Previous turn made verified public progress. USGS SIM3411 catalog/pamphlet access returned403 via web and Python. Read selected author-uploaded map text via ResearchGate, verified latitude extent and identified citing-text contamination: the Palo Verde incomplete-mapping passage on that page belongs to a2019 citing article, not the2018 map. S2162018/2019 bibliography entries share the same map DOI. Bounded searches for Palo Verde alluvium with U-series, carbonate dating and coatings yielded no sample-linked new date; absence not established. No graphical contact inspection or new field chronology claimed.

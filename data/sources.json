@@ -3435,6 +3435,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S218",
+      "title": "Geologic map of the Castle Rock 7.5 minute quadrangle, Arizona and California",
+      "url": "https://doi.org/10.3133/sim3411",
+      "creator": "P. Kyle House, Barbara E. John, Daniel V. Malmon, Debra Block, L. Sue Beard, Tracey J. Felger, Ryan S. Crow, Jonathan E. Schwing and Colleen E. Cassidy",
+      "publication_date": "2018",
+      "source_type": "USGS geological map and accompanying pamphlet",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "USGS catalog search record and selected author-uploaded map text on ResearchGate: title, mapping credits, coordinate framework and latitude boundaries. Pamphlet not recovered. research/COLORADO-BURIAL-DATING.md.",
+      "limitations": "USGS page and pamphlet returned403; map graphics and unit-contact geometry not inspected. ResearchGate citing-article excerpts are not text of this map. Covers Castle Rock, not the Palo Verde sampled exposure.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
