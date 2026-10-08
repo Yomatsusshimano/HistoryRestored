@@ -1,0 +1,47 @@
+{
+  "case_id": "C023",
+  "source_id": "S107",
+  "locator": "pp.544-545, Figures 1-2 and chronology text",
+  "status": "SOURCED_DRAFT",
+  "reported_marker_comparisons": [
+    {
+      "cores": [
+        "NEEM-2011-S1",
+        "NGRIP",
+        "WDC"
+      ],
+      "ice_signal": "10Be maximum",
+      "old_ice_model_CE": 768,
+      "tree_marker_CE": 775,
+      "difference_years": 7,
+      "depth_m": null,
+      "individual_assay_ids": null
+    },
+    {
+      "cores": [
+        "NEEM-2011-S1"
+      ],
+      "ice_signal": "10Be anomaly",
+      "old_ice_model_CE": 987,
+      "tree_marker_CE": 994,
+      "difference_years": 7,
+      "depth_m": null,
+      "individual_assay_ids": null
+    }
+  ],
+  "greenland_fixed_markers_CE_as_Figure_2_caption": [
+    536,
+    626,
+    775,
+    939,
+    1258
+  ],
+  "reported_evaluation_categories": [
+    "Historical dust-veil observations",
+    "Tephra evidence",
+    "994 CE isotope event"
+  ],
+  "independence_verified": false,
+  "raw_series_reproduced": false,
+  "limits": "Marker dates and fitted/evaluation roles are author reports. Calendar-year labels are not raw assay values. Historical calibration and checking sets may overlap; item-level roles need audit."
+}

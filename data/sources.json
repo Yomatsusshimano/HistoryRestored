@@ -1747,6 +1747,23 @@
       "downloaded_pdf_sha256": "4a244508c582e1d85975bd4fb67f164340bee1eb328d1beb7fb1c57c80fd93fc",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S107",
+      "title": "Timing and climate forcing of volcanic eruptions for the past 2,500 years",
+      "creator": "Michael Sigl and colleagues",
+      "publication_date": "2015-07-30",
+      "source_type": "Original research article; issue date",
+      "doi": "10.1038/nature14565",
+      "url": "https://doi.org/10.1038/nature14565",
+      "pdf_mirror": "https://www.whoi.edu/cms/files/sigl15nat_240284.pdf",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp.544-545 / PDF pp.2-3: chronology text, Figures 1-2 and captions visually inspected.",
+      "limitations": "Selected pages only. Raw isotope series, counting inputs and supplementary dating constraints not reproduced. Modern superseding chronologies not audited.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "fcd1387f22731f778e9b0f973ad5137ac008cdab3f2bb6272aab9fd35cf4fffc",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

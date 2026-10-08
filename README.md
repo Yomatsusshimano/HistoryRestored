@@ -33,6 +33,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Missoula model audit](research/MISSOULA-MODEL-AUDIT.md): field controls, source discrepancies and requirements for reproduction.
 - [Physical constraints](PHYSICAL-MODEL.md): equations and required inputs; no fitted reconstruction yet.
 - [Regional event-window comparison](research/REGIONAL-EVENT-WINDOWS.md): conditional Bonneville–Electron duration tests across every recorded interval variant.
+- [Ice-core chronology audit](research/ICE-CORE-CHRONOLOGY.md): documented date corrections and the distinction between fitted anchors and independent checks.
 - [Full workplan](WORKPLAN.md): evidence needed for every original outcome.
 - [Research log](RESEARCH-LOG.md): inspected sources, limitations, and next actions.
 - [Structured records](data/cases.json) and [source registry](data/sources.json).

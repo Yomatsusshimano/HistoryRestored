@@ -1450,6 +1450,48 @@
         "Independent archaeological/taphonomic association review"
       ],
       "dependence": "Replicate fractions share one bone and burial history. Original 2008 publication now inspected for Table 3 and chronology discussion; lab worksheets remain absent."
+    },
+    {
+      "id": "C023",
+      "title": "Ice-core chronology revision: isotope anchors and validation dependence",
+      "category": "ice-core chronology",
+      "place": "Greenland and West Antarctica, compared with tree-ring records",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S107",
+          "locator": "pp.544-545, Figures 1-2 and chronology text",
+          "statement": "The study reports mismatched isotope-marker dates and explicitly identifies fixed markers used in revised dating."
+        }
+      ],
+      "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",
+      "surviving_documents": "Original article facsimile linked; selected pages visually checked.",
+      "source_interpretation": "Older ice-core timescales contain a bias corrected using revised layer counting and age constraints.",
+      "investigation_inference": "A documented chronology mismatch warrants method-specific testing. Fitted anchors cannot simultaneously serve as independent validation.",
+      "competing_explanations": [
+        "Ice-layer counting or assigned-anchor error",
+        "Marker association or tree-calendar error requiring independent tests"
+      ],
+      "counterevidence": "A published technical revision is not evidence of concealed historical fabrication. This case also prevents treating all older ice dates as immune to correction.",
+      "next_test": "Recover raw isotope series and full constraint tables; distinguish every fitting observation from evaluation evidence before reproducing the age model.",
+      "chronology": {
+        "reported": "See data/ice-core-anchor-audit.json",
+        "dated_object": "Ice layers carrying isotope signals",
+        "method": "Layer chronology constrained by cross-archive markers",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "Calendar CE",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Raw isotope measurements and sample depths",
+        "Full fitting and evaluation ledger",
+        "Age-model reproduction",
+        "Independent review"
+      ],
+      "dependence": "Ice isotope measurements and tree measurements are different observations, but assigning ice dates using tree markers creates chronological dependence. Shared markers also connect this audit to the MacBlo anchor discussion."
     }
   ]
 }

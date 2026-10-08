@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Ice-core chronology and marker dependence
+
+Previous turn made progress: 76646f9 published eight publicly byte-verified files. Clean checkout confirmed. Searched primary literature for ice/tree chronology corrections, retrieved S107 from WHOI, and rendered/visually inspected printed pp.544-545. Added C023 and a typed marker-role ledger with missing depths and assay IDs left null. Separated published chronology corrections from universal calendar shifts and fitted anchors from independent checks. No concentration extraction, raw-layer counting, model reproduction or later-version audit claimed. Added the first ice-core chronology case to the public inventory; full goal remains active.
+
 ## 2026-10-08 - Regional candidate-window comparison
 
 Previous turn made progress: f733816 published nine publicly byte-verified files. Clean checkout confirmed. Compared existing S68 Bonneville and S72/S73 Electron calendar ledgers without adding sources or recalibrating dates. A reproducible input-hashed calculation retains all five matching-coverage variants; their minimum touching windows span 21–46 years. Instantaneous, one-year and decadal scenarios fail the conditional interval test, while 50-year scenarios fit geometrically. Added explicit shared-dependency, association and confidence limits; a uniform calendar shift cannot remove the separation. Tests check interval geometry only. Corrected stale inventory counts in the workplan. Full goal remains active.
