@@ -1,6 +1,6 @@
 {
   "status": "SOURCED_DRAFT",
-  "transcription_limit": "Text mirror; original table facsimile not visually checked.",
+  "transcription_limit": "Tables 2-4 visually checked against publisher PDF pp.8,10. No raw laboratory data.",
   "method": "Small-aliquot quartz SAR, Minimum Age Model; reported 2 sigma uncertainties.",
   "samples": [
     {
@@ -16,9 +16,14 @@
       "dose_model_moisture_percent": 9.8,
       "source_id": "S32",
       "case_id": "C015",
-      "locator": "Tables 3-4; Results section 4",
-      "access": "FULL_TEXT_PORTION",
-      "time_origin_calendar_year": null
+      "locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+      "access": "SCAN_INSPECTED",
+      "time_origin_calendar_year": null,
+      "latitude": 46.15864,
+      "longitude": -119.26479,
+      "elevation_m": 315.7,
+      "vertical_datum": "NAVD 88",
+      "horizontal_datum": null
     },
     {
       "field_id": "CCMS-OSL-2",
@@ -33,9 +38,14 @@
       "dose_model_moisture_percent": 6.9,
       "source_id": "S32",
       "case_id": "C015",
-      "locator": "Tables 3-4; Results section 4",
-      "access": "FULL_TEXT_PORTION",
-      "time_origin_calendar_year": null
+      "locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+      "access": "SCAN_INSPECTED",
+      "time_origin_calendar_year": null,
+      "latitude": 46.1587,
+      "longitude": -119.26482,
+      "elevation_m": 316.3,
+      "vertical_datum": "NAVD 88",
+      "horizontal_datum": null
     },
     {
       "field_id": "CCMS-OSL-3",
@@ -50,9 +60,14 @@
       "dose_model_moisture_percent": 9.8,
       "source_id": "S32",
       "case_id": "C015",
-      "locator": "Tables 3-4; Results section 4",
-      "access": "FULL_TEXT_PORTION",
-      "time_origin_calendar_year": null
+      "locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+      "access": "SCAN_INSPECTED",
+      "time_origin_calendar_year": null,
+      "latitude": 46.1587,
+      "longitude": -119.26482,
+      "elevation_m": 317.5,
+      "vertical_datum": "NAVD 88",
+      "horizontal_datum": null
     },
     {
       "field_id": "CCMS-OSL-4",
@@ -67,9 +82,14 @@
       "dose_model_moisture_percent": 9.8,
       "source_id": "S32",
       "case_id": "C015",
-      "locator": "Tables 3-4; Results section 4",
-      "access": "FULL_TEXT_PORTION",
-      "time_origin_calendar_year": null
+      "locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+      "access": "SCAN_INSPECTED",
+      "time_origin_calendar_year": null,
+      "latitude": 46.15867,
+      "longitude": -119.26484,
+      "elevation_m": 318.0,
+      "vertical_datum": "NAVD 88",
+      "horizontal_datum": null
     },
     {
       "field_id": "CCCS-OSL-5",
@@ -84,9 +104,14 @@
       "dose_model_moisture_percent": 9.8,
       "source_id": "S32",
       "case_id": "C015",
-      "locator": "Tables 3-4; Results section 4",
-      "access": "FULL_TEXT_PORTION",
-      "time_origin_calendar_year": null
+      "locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+      "access": "SCAN_INSPECTED",
+      "time_origin_calendar_year": null,
+      "latitude": 46.15923,
+      "longitude": -119.26855,
+      "elevation_m": 316.3,
+      "vertical_datum": "NAVD 88",
+      "horizontal_datum": null
     },
     {
       "field_id": "CCCS-OSL-6",
@@ -97,13 +122,18 @@
       "age_ka": 16.85,
       "reported_2sigma_ka": 3.23,
       "context": "flood sediment",
-      "measured_moisture_percent": 1.0,
+      "measured_moisture_percent": 1.9,
       "dose_model_moisture_percent": 9.8,
       "source_id": "S32",
       "case_id": "C015",
-      "locator": "Tables 3-4; Results section 4",
-      "access": "FULL_TEXT_PORTION",
-      "time_origin_calendar_year": null
+      "locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+      "access": "SCAN_INSPECTED",
+      "time_origin_calendar_year": null,
+      "latitude": 46.15923,
+      "longitude": -119.2685,
+      "elevation_m": 317.7,
+      "vertical_datum": "NAVD 88",
+      "horizontal_datum": null
     },
     {
       "field_id": "CCCS-OSL-7",
@@ -118,9 +148,14 @@
       "dose_model_moisture_percent": 9.8,
       "source_id": "S32",
       "case_id": "C015",
-      "locator": "Tables 3-4; Results section 4",
-      "access": "FULL_TEXT_PORTION",
-      "time_origin_calendar_year": null
+      "locator": "Tables 2-4, PDF pp.8,10; Results section 4",
+      "access": "SCAN_INSPECTED",
+      "time_origin_calendar_year": null,
+      "latitude": 46.15922,
+      "longitude": -119.26845,
+      "elevation_m": 319.2,
+      "vertical_datum": "NAVD 88",
+      "horizontal_datum": null
     }
   ],
   "bone_reports": [
@@ -129,9 +164,9 @@
       "reported_aggregate_lab_label": "Wk-32731&2",
       "age_cal_ka_BP": 17.4,
       "plus_minus_ka": 0.2,
-      "uncertainty_level": null,
+      "uncertainty_level": "1 sigma, stated in section 2.1",
       "original_assays_inspected": false,
-      "locator": "Table 1 and Results section 4"
+      "locator": "Table 1; section 2.1 p.5; Figure 6 p.7"
     },
     {
       "material": "Camelops hesternus metatarsal",

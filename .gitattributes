@@ -1,3 +1,4 @@
 # Preserve checksum-verified scientific source files byte for byte.
 sources/originals/electron/* -text
 sources/originals/hyatt/* -text
+sources/originals/coyote/* -text

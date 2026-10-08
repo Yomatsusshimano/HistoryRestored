@@ -968,9 +968,19 @@
           "source_id": "S32",
           "locator": "Tables 1, 3, 4; sections 3-5",
           "statement": "Seven sediment OSL ages are reported at two sigma; the nearby camel bone is reported older than host flood sediment, while the mammoth humerus age is compatible with part of the sequence."
+        },
+        {
+          "source_id": "S32",
+          "locator": "Figures 4-7; section 2.1 pp.5-8",
+          "statement": "Bone plan combines several excavation levels; section contacts include uncertain projections and overlying paleosol/loess. Authors acknowledge that slope wash can produce repeat beds within waning flood stages."
+        },
+        {
+          "source_id": "S99",
+          "locator": "Assay paragraph",
+          "statement": "Three measurements from one camel metatarsal precede the reported combined age; original laboratory certificates remain uninspected."
         }
       ],
-      "physical_evidence": "Published excavation and dating descriptions; seven sample-level OSL rows transcribed from text. No field or specimen inspection.",
+      "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",
       "surviving_documents": "2021 original study and its citations to earlier bone dating.",
       "source_interpretation": "Repeated flood deposition; possible flood-related mammoth death; reworking of the older camel bone.",
       "investigation_inference": "Death, transport and sediment burial must be tested separately. Five flood OSL intervals overlap at 18.32-19.05 ka, so these ranges alone do not resolve event multiplicity.",
@@ -981,7 +991,7 @@
         "Dating or context errors requiring laboratory and field checks"
       ],
       "counterevidence": "Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.",
-      "next_test": "Inspect section/table facsimiles, original bone assays, dose distributions and moisture/bleaching sensitivity; test taphonomic association.",
+      "next_test": "Recover original mammoth assay report and camel laboratory quality records; check pooling and calibration; examine field logs to distinguish flood episodes from within-event beds.",
       "chronology": {
         "reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json",
         "dated_object": "Quartz-bearing sediment and previously reported bone material",
@@ -992,10 +1002,10 @@
         "event_association": "REPORTED_NOT_REVALIDATED"
       },
       "missing": [
-        "Facsimile checks",
-        "Raw dose and bone-assay data",
+        "Original field logs and contact-level validation",
+        "Raw dose and bone-assay certificates",
         "Independent taphonomic assessment",
-        "Complete sampling coordinates and time-reference audit"
+        "Horizontal coordinate datum and OSL time-reference audit"
       ],
       "dependence": "All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study."
     },

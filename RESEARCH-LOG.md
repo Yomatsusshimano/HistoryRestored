@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Coyote Canyon section and assay provenance
+
+Previous switch-only turn was no progress. Revalidated clean checkout at 56f969e and resumed available source work. Publisher CDN delivered the 17-page CC BY PDF; rendered and visually inspected pp.6-8,10. Recovered projected excavation geometry, uncertain contacts and Table 2 coordinates/datum; Table 4 age/aliquot transcription agrees. Corrected CCCS-OSL-6 measured moisture from 1.0% to the visually checked 1.9%; modeled moisture stays 9.8%. Preserved authors' within-event slope-wash caveat, preventing literal bed count from becoming an independently proven flood count. Retrieved original 2019 camel abstract and three separate reported measurements; no laboratory certificates or pooling reproduction claimed. Updated S32 access, added S99 and structured assay transcription. Original mammoth assay and field-contact tests remain open. Full goal remains active.
+
 ## 2026-10-08 - Hyatt original and reissue compared
 
 Previous turn made progress: 62c48e1 published eleven publicly byte-verified files; clean checkout confirmed. Retrieved and hash-pinned seven-page US68332 reproduction. Visually checked Drawing B, opening specification and seven claims; additionally rendered S97 claim pages showing sixteen claims. Core under-sidewalk/basement design is already present in the 1867 record. Recorded revision without equating textual change to fabrication or making a legal scope conclusion. Retrospective Herald 1850/work-failure narrative retained as applicant testimony, not independent installation evidence. Added S98, preserved PDF, and updated current access/comparison statements. Full goal remains incomplete.

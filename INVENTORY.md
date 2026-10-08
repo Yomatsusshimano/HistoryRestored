@@ -492,9 +492,11 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 
 **Sourced statements**
 
-- Seven sediment OSL ages are reported at two sigma; the nearby camel bone is reported older than host flood sediment, while the mammoth humerus age is compatible with part of the sequence. [S32](https://doi.org/10.3390/quat4030020). Locator: Tables 1, 3, 4; sections 3-5. Access: FULL_TEXT_PORTION. Limit: Direct PDF retrieval failed. No table/figure visual verification, raw dose analysis, bone assay audit or independent field examination. Mirror text has layout duplication.
+- Seven sediment OSL ages are reported at two sigma; the nearby camel bone is reported older than host flood sediment, while the mammoth humerus age is compatible with part of the sequence. [S32](https://doi.org/10.3390/quat4030020). Locator: Tables 1, 3, 4; sections 3-5. Access: SCAN_INSPECTED. Limit: No independent field inspection, raw dose analysis or original laboratory certificates. Section contacts include uncertain projections; published bone ages depend on earlier reports.
+- Bone plan combines several excavation levels; section contacts include uncertain projections and overlying paleosol/loess. Authors acknowledge that slope wash can produce repeat beds within waning flood stages. [S32](https://doi.org/10.3390/quat4030020). Locator: Figures 4-7; section 2.1 pp.5-8. Access: SCAN_INSPECTED. Limit: No independent field inspection, raw dose analysis or original laboratory certificates. Section contacts include uncertain projections; published bone ages depend on earlier reports.
+- Three measurements from one camel metatarsal precede the reported combined age; original laboratory certificates remain uninspected. [S99](https://gsa.confex.com/gsa/2019CD/webprogram/Paper329689.html). Locator: Assay paragraph. Access: ABSTRACT. Limit: No laboratory certificates, collagen quality metrics, calibration curve or pooling diagnostics supplied. Identifiers preserved as printed.
 
-**Physical evidence:** Published excavation and dating descriptions; seven sample-level OSL rows transcribed from text. No field or specimen inspection.
+**Physical evidence:** Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.
 
 **Surviving documents:** 2021 original study and its citations to earlier bone dating.
 
@@ -504,7 +506,7 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.
 
-**Next test:** Inspect section/table facsimiles, original bone assays, dose distributions and moisture/bleaching sensitivity; test taphonomic association.
+**Next test:** Recover original mammoth assay report and camel laboratory quality records; check pooling and calibration; examine field logs to distinguish flood episodes from within-event beds.
 
 **Dependence:** All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study.
 
@@ -512,7 +514,7 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 
 **Chronology:** {"reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json", "dated_object": "Quartz-bearing sediment and previously reported bone material", "method": "OSL with Minimum Age Model; earlier radiocarbon reports", "raw_date": null, "uncertainty": null, "timescale": "OSL ka and calibrated radiocarbon ka BP retained separately", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Facsimile checks; Raw dose and bone-assay data; Independent taphonomic assessment; Complete sampling coordinates and time-reference audit
+**Missing:** Original field logs and contact-level validation; Raw dose and bone-assay certificates; Independent taphonomic assessment; Horizontal coordinate datum and OSL time-reference audit
 
 ## C016: Thistle Creek horse chronology and calibration dependence
 

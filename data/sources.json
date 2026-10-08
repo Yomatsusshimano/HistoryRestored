@@ -593,13 +593,16 @@
       "creator": "George V. Last and Tammy M. Rittenour",
       "publication_date": "2021-07-06",
       "source_type": "original sediment dating study",
-      "access": "FULL_TEXT_PORTION",
-      "inspected": "Publisher-provided ResearchGate full-text mirror: methods, Tables 1/3/4 and results/discussion; text only.",
-      "limitations": "Direct PDF retrieval failed. No table/figure visual verification, raw dose analysis, bone assay audit or independent field examination. Mirror text has layout duplication.",
-      "local_copy": null,
+      "access": "SCAN_INSPECTED",
+      "inspected": "Publisher PDF: visually inspected pp.6-8 Figures 4-7 and Table 2; p.10 Tables 3-4. Text inspected sections 2-5 and references. Earlier mirror access retained.",
+      "limitations": "No independent field inspection, raw dose analysis or original laboratory certificates. Section contacts include uncertain projections; published bone ages depend on earlier reports.",
+      "local_copy": "sources/originals/coyote/quat4030020.pdf",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
-      "text_mirror": "https://www.researchgate.net/publication/353041154_Chronology_of_Missoula_Flood_Deposits_at_the_Coyote_Canyon_Mammoth_Site_Washington_State_USA"
+      "text_mirror": "https://www.researchgate.net/publication/353041154_Chronology_of_Missoula_Flood_Deposits_at_the_Coyote_Canyon_Mammoth_Site_Washington_State_USA",
+      "sha256": "4a118500c350e271ab42bd96affa8d4856d30529c59711476e5a6fa327fefa99",
+      "pdf_url": "https://mdpi-res.com/d_attachment/quaternary/quaternary-04-00020/article_deploy/quaternary-04-00020.pdf",
+      "rights": "CC BY 4.0; authors Last and Rittenour, 2021; unchanged publisher PDF."
     },
     {
       "id": "S33",
@@ -1617,6 +1620,21 @@
       "limitations": "Physical printing date and original application file not established. Retrospective 1850 and later installation claims remain applicant testimony. No full legal-scope comparison or independent manufacture evidence.",
       "local_copy": "sources/originals/hyatt/US68332.pdf",
       "sha256": "12420e3589edb33f518d6137b0d093326fe4d9aa8f2912f1ec8b45789d3f65bb",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S99",
+      "title": "Updated chronology of the Camelops hesternus specimen from the Coyote Canyon/South Hill-Mauldin Site, Benton County, Washington",
+      "url": "https://gsa.confex.com/gsa/2019CD/webprogram/Paper329689.html",
+      "doi": "10.1130/abs/2019CD-329689",
+      "creator": "Bax R. Barton, Neil Mara and Betty L. Adams",
+      "publication_date": "2019-05-17",
+      "source_type": "original conference abstract; presentation date",
+      "access": "ABSTRACT",
+      "inspected": "Complete abstract; three reported assays and combined age.",
+      "limitations": "No laboratory certificates, collagen quality metrics, calibration curve or pooling diagnostics supplied. Identifiers preserved as printed.",
+      "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }

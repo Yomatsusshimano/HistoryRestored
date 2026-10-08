@@ -88,3 +88,5 @@ Pioneer drawing access resolved through viewer-linked IIIF: ARC0508 section and 
 Hyatt lights audit: three patent reproductions preserved and selected pages visually checked. Engineered under-sidewalk daylighting is explicitly described; Pioneer model/installation remains unlinked. Earlier patents, later print dates and reissue/application dates stay distinct; no recovered-technology mechanism inferred.
 
 Hyatt original/reissue comparison: US68332 recovered; 1867 drawing and text already include the under-sidewalk arrangement. Seven versus sixteen numbered claims prevent treating versions as interchangeable. Seek independent Herald installation records; applicant recollections remain uncorroborated.
+
+Coyote Canyon facsimile update: figures and OSL tables visually checked; sample coordinates/elevations recovered. Three camel assays recovered from original 2019 abstract. Audit pooling/quality controls and original mammoth report; drawn bed counts remain distinct from independently demonstrated flood counts.

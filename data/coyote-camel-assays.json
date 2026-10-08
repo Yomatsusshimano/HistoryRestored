@@ -1,0 +1,38 @@
+{
+  "status": "SOURCED_DRAFT",
+  "source_id": "S99",
+  "locator": "2019 GSA abstract, assay paragraph",
+  "access": "ABSTRACT",
+  "material": "Three samples from one Camelops metatarsal",
+  "preparation_reported": "Collagen extracted, gelatinized and filtered",
+  "original_lab_certificates_inspected": false,
+  "calibration_software_reported": "OxCal 4.3",
+  "calibration_curve": null,
+  "uncertainty_convention": "Printed plus/minus; sigma level not explicitly stated for raw dates",
+  "assays": [
+    {
+      "label_as_printed": "D-AMS 016465",
+      "radiocarbon_BP": 20720,
+      "plus_minus_BP": 75
+    },
+    {
+      "label_as_printed": "Beta 45508",
+      "radiocarbon_BP": 21010,
+      "plus_minus_BP": 70
+    },
+    {
+      "label_as_printed": "NOSAMS CCSH 03",
+      "radiocarbon_BP": 21100,
+      "plus_minus_BP": 270
+    }
+  ],
+  "reported_combination": {
+    "radiocarbon_BP": 20890,
+    "plus_minus_BP": 51,
+    "calibrated_95_4_percent_range_BP": [
+      25020,
+      25450
+    ]
+  },
+  "dependence": "Same bone; separate laboratories do not provide independent deposition events. No recalibration or pooling validation performed."
+}
