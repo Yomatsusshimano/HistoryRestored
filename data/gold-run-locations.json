@@ -1,0 +1,53 @@
+{
+  "status": "SOURCED_DRAFT",
+  "case_id": "C016",
+  "records": [
+    {
+      "sample_id": "UT1791",
+      "station": "Sixtymile_River_1",
+      "latitude": 63.533,
+      "longitude": -139.887,
+      "sample_url": "https://avo.alaska.edu/geochem/sample/156401",
+      "station_url": "https://avo.alaska.edu/geochem/station/5965171",
+      "role": "Dated ash sample in S34 Table S1",
+      "source_id": "S35",
+      "coordinate_scope": "Catalog station, not exact sample or horse find spot",
+      "displayed_datum": "NAD83",
+      "datum_status": "Assumed by catalog; original datum unspecified",
+      "coordinate_uncertainty_m": null,
+      "access": "CATALOG_METADATA"
+    },
+    {
+      "sample_id": "UT1907",
+      "station": "Dominion_Creek",
+      "latitude": 63.668,
+      "longitude": -138.637,
+      "sample_url": "https://avo.alaska.edu/geochem/sample/156481",
+      "station_url": "https://avo.alaska.edu/geochem/station/5965081",
+      "role": "Dated ash sample in S34 Table S1",
+      "source_id": "S35",
+      "coordinate_scope": "Catalog station, not exact sample or horse find spot",
+      "displayed_datum": "NAD83",
+      "datum_status": "Assumed by catalog; original datum unspecified",
+      "coordinate_uncertainty_m": null,
+      "access": "CATALOG_METADATA"
+    },
+    {
+      "sample_id": "UT1806",
+      "station": "Thistle_Creek",
+      "latitude": 63.06,
+      "longitude": -139.32,
+      "sample_url": "https://avo.alaska.edu/geochem/sample/156491",
+      "station_url": "https://avo.alaska.edu/geochem/station/5965201",
+      "role": "Local ash sample; not a dated row in S34 Table S1",
+      "source_id": "S35",
+      "coordinate_scope": "Catalog station, not exact sample or horse find spot",
+      "displayed_datum": "NAD83",
+      "datum_status": "Assumed by catalog; original datum unspecified",
+      "coordinate_uncertainty_m": null,
+      "access": "CATALOG_METADATA"
+    }
+  ],
+  "interpretation": "Transferring the dated ash age to the horse site requires verified tephra correlation and local stratigraphic association.",
+  "limitations": "No chemical correlation recomputed; original field coordinates not audited; station records can combine visits and samples."
+}

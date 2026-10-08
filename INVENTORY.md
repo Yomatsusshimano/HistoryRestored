@@ -471,6 +471,7 @@ Place: Thistle Creek, Yukon, Canada. Status: SOURCED_DRAFT.
 
 - Reported fossil age is based on geological context; see research/THISTLE-CREEK.md. [S33](https://doi.org/10.1038/nature12323). Locator: pp. 74-75; Figure 1b. Access: SCAN_INSPECTED. Limit: Original dating assays, supplement and raw genomes not audited. Geological age is also a genomic calibration input.
 - Two corrected ash-age summaries combine consistently at reported precision; the permafrost study locality is distinct from Thistle Creek. [S34](https://doi.org/10.1126/science.1157525). Locator: Supporting Online Material Table S1 and site description. Access: SCAN_INSPECTED. Limit: No raw calibration reanalysis; main study locality is Dominion Creek, not the horse locality.
+- Dated ash samples and local Thistle Creek ash have different identifiers and stations; see data/gold-run-locations.json. [S35](https://avo.alaska.edu/explore/reference/6782). Locator: UT1791, UT1907 and UT1806 sample records and linked station records. Access: CATALOG_METADATA. Limit: Catalog derives from earlier publications, not new independent measurements. Coordinates are station-level; NAD83 is assumed by catalog.
 
 **Physical evidence:** Published metapodial and section; no specimen inspection.
 
@@ -484,10 +485,10 @@ Place: Thistle Creek, Yukon, Canada. Status: SOURCED_DRAFT.
 
 **Next test:** Resolve 2008 versus 2013 ash uncertainty through the 2009 study and horse supplement; audit correlation and fossil association.
 
-**Dependence:** Fossil age constrains genomic divergence estimates.
+**Dependence:** Fossil age constrains genomic divergence estimates. Regional ash correlation transfers dates from other stations; catalog repeats published observations.
 
 **Alternatives:** Reported stratigraphic association; Reworking or incorrect association requiring site evidence
 
 **Chronology:** {"reported": "Approximately 560-780 kyr BP", "dated_object": "Fossil assigned through context", "method": "Stratigraphic association", "raw_date": null, "uncertainty": null, "timescale": "kyr BP as reported", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Raw ash dating and bone assays; Supplementary field documentation; Exact coordinates; Independent review
+**Missing:** Raw ash dating and bone assays; Supplementary field documentation; Exact horse find coordinates; catalog station location available; Independent review

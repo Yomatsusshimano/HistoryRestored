@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Gold Run dated-sample locations traced
+
+Previous turn made progress: e451433 published nine verified files. Clean checkout rechecked. The Nature page yielded no download link through the local request. Candidate supplement endpoints failed (DNS failure and object access denied/missing); no supplement was read and no access controls changed. Searches instead located AVO sample/station records, which were inspected directly.
+
+Added S35 and three station records linking UT1791, UT1907 and UT1806. This identifies the regional correlation needed to transfer the dated ash age to Thistle Creek. Coordinates retain the catalog's assumed-datum status and are not assigned to the horse find spot. No geochemistry reanalysis or new age measurement occurred. Sixteen cases, thirty-five sources; all remain sourced drafts without independent review.
+
 ## 2026-10-08 - Original Gold Run dating summary checked
 
 Previous turn made progress: 72066eb published eight verified files. Rechecked clean checkout and followed the horse article references. Retrieved the 2008 supplement through PowerShell with normal certificate verification after Python certificate validation failed; no trust settings changed. Read methods and visually checked its image-only Table S1. Web access also supplied the main article text. The 2009 ResearchGate landing page exposed an abstract/captions but its PDF link failed; no full-text inspection claimed.

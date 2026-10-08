@@ -786,6 +786,11 @@
           "source_id": "S34",
           "locator": "Supporting Online Material Table S1 and site description",
           "statement": "Two corrected ash-age summaries combine consistently at reported precision; the permafrost study locality is distinct from Thistle Creek."
+        },
+        {
+          "source_id": "S35",
+          "locator": "UT1791, UT1907 and UT1806 sample records and linked station records",
+          "statement": "Dated ash samples and local Thistle Creek ash have different identifiers and stations; see data/gold-run-locations.json."
         }
       ],
       "physical_evidence": "Published metapodial and section; no specimen inspection.",
@@ -810,10 +815,10 @@
       "missing": [
         "Raw ash dating and bone assays",
         "Supplementary field documentation",
-        "Exact coordinates",
+        "Exact horse find coordinates; catalog station location available",
         "Independent review"
       ],
-      "dependence": "Fossil age constrains genomic divergence estimates."
+      "dependence": "Fossil age constrains genomic divergence estimates. Regional ash correlation transfers dates from other stations; catalog repeats published observations."
     }
   ]
 }

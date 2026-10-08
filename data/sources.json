@@ -628,6 +628,28 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "supplement_url": "https://sites.ualberta.ca/~areyes/BertoPage/Publications_files/Science_relictIW_suppdata.pdf"
+    },
+    {
+      "id": "S35",
+      "title": "Alaska Volcano Observatory Gold Run sample and station catalog records",
+      "url": "https://avo.alaska.edu/explore/reference/6782",
+      "creator": "Alaska Volcano Observatory",
+      "publication_date": null,
+      "source_type": "geochemical sample and station catalog",
+      "access": "CATALOG_METADATA",
+      "inspected": "Sample identifiers, station links, coordinates, datum caveats and descriptions for UT1791, UT1907 and UT1806.",
+      "limitations": "Catalog derives from earlier publications, not new independent measurements. Coordinates are station-level; NAD83 is assumed by catalog.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "record_urls": [
+        "https://avo.alaska.edu/geochem/sample/156401",
+        "https://avo.alaska.edu/geochem/station/5965171",
+        "https://avo.alaska.edu/geochem/sample/156481",
+        "https://avo.alaska.edu/geochem/station/5965081",
+        "https://avo.alaska.edu/geochem/sample/156491",
+        "https://avo.alaska.edu/geochem/station/5965201"
+      ]
     }
   ]
 }

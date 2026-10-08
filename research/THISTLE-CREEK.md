@@ -17,3 +17,17 @@ S34: Froese et al. (2008), [original study](https://doi.org/10.1126/science.1157
 [Transcribed age summaries](../data/gold-run-dates.json) retain corrected and uncorrected UT1791 results separately. The uncorrected value is not a third independent sample. Using the two corrected results, an inverse-variance check gives 0.73638 ± 0.05525 Ma, rounding to the reported 0.74 ± 0.06 Ma. The table specifies one-sigma standard errors. The [calculation](../analysis/gold_run_mean.py) assumes zero covariance and checks rounded summaries only; shared calibration uncertainty requires further analysis.
 
 The later horse article gives 735 ± 88 kyr BP. Its uncertainty is not explained by merely converting the 2008 combined result into kyr. Both values are retained; neither is silently corrected. Resolving this requires the 2009 Gold Run study and 2013 supplement. The accessible 2009 abstract and figure captions are leads, not a reviewed dating table; its download link failed. Regional ash correlation and local fossil association remain separate links in the evidence chain.
+
+## Where the dated ash samples came from
+
+S35, the [Alaska Volcano Observatory catalog](https://avo.alaska.edu/explore/reference/6782), links the two dated samples to different stations from the horse locality. The [location records](../data/gold-run-locations.json) preserve the individual catalog URLs.
+
+| Sample | Catalog station | Latitude | Longitude | Role in the present audit |
+| --- | --- | --- | --- | --- |
+| UT1791 | Sixtymile River 1 | 63.533 | -139.887 | Corrected fission-track result in S34 |
+| UT1907 | Dominion Creek | 63.668 | -138.637 | Plateau fission-track result in S34 |
+| UT1806 | Thistle Creek | 63.06 | -139.32 | Local ash sample, absent from S34 dating table |
+
+These are station coordinates, not exact specimen find spots. The catalog labels them NAD83 while explicitly saying the original datum was unspecified and NAD83 was assumed. It also notes varying published station coordinates. The horse case's exact coordinate remains null.
+
+This establishes a concrete next test: compare the chemistry and stratigraphic placement of UT1806 against the dated material before transferring its age. The catalog supplies a traceable sampling chain, not independent confirmation of the correlations it summarizes. The unresolved numerical uncertainty and unavailable horse supplement remain open; catalog recovery does not close either issue.
