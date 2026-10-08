@@ -236,10 +236,11 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 
 - The review reports catastrophic landforms, repeated flood beds and intervening indicators of elapsed time. [S11](https://www.usgs.gov/publications/missoula-and-bonneville-floods-a-review-ice-age-megafloods-columbia-river-basin). Locator: Hosted summary: stratigraphic and chronology paragraphs. Access: FULL_TEXT_PORTION. Limit: Underlying field datasets and journal figures not independently analyzed.
 - The older report describes varves between successive graded flood beds. [S12](https://www.usgs.gov/publications/tens-successive-colossal-missoula-floods-north-and-east-margins-channeled-scabland). Locator: Indexed abstract. Access: SEARCH_EXCERPT. Limit: Direct page timed out; sample-level stratigraphy not inspected.
+- The original modeling study supplies field controls, alternative configurations and unresolved model discrepancies; see research/MISSOULA-MODEL-AUDIT.md. [S27](https://doi.org/10.1130/2021.2548(17)). Locator: Table 1 pp. 5-6; methods pp. 8-10; discussion pp. 11, 15-16. Access: SCAN_INSPECTED. Limit: Partial table extraction, no raw field audit, input retrieval or simulation rerun. See research/MISSOULA-MODEL-AUDIT.md.
 
-**Physical evidence:** Published geomorphic/stratigraphic observations; no field section inspected.
+**Physical evidence:** Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.
 
-**Surviving documents:** 2020 review summary and 1983 research abstract.
+**Surviving documents:** 2020 review summary, 1983 abstract and relevant portions of the 2021 original modeling study.
 
 **Source interpretation:** Authors infer repeated glacial-outburst floods.
 
@@ -247,15 +248,15 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Intervening time indicators challenge treating the whole sequence as one uninterrupted event.
 
-**Next test:** Inspect measured sections, tephra relations, dates and varve criteria; test separate-event alternatives quantitatively.
+**Next test:** Audit source coordinates and original field records, retrieve modified terrain and full solver configuration, reproduce one scenario; inspect stratigraphic timing separately.
 
-**Dependence:** Review incorporates earlier research; do not count the review as a fresh independent field dataset.
+**Dependence:** Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood.
 
 **Alternatives:** Repeated outburst floods; One episode only if intervening time indicators are convincingly reinterpreted
 
 **Chronology:** {"reported": "Last-glacial sequence; precise dated sample intervals not entered", "dated_object": "Flood sequence in review", "method": "Reported multiple methods; not individually reanalyzed", "raw_date": null, "uncertainty": null, "timescale": "Geological interval", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Measured sections; Sample-level ages; Model inputs; Site coordinates
+**Missing:** Measured sections; Sample-level ages; Complete executable model inputs; Independent field and simulation review
 
 ## C009: Yukon mammoth and horse sedimentary DNA
 

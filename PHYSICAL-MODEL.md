@@ -43,3 +43,7 @@ For wildlife, map specimen coordinates and contextual age distributions before c
 Start with local explanations and their published measured parameters. Fit a candidate catastrophe model on a declared discovery subset. Freeze parameters; predict held-out sites. Compare error, uncertainty, and number of unsupported adjustments. Do not use qualitative resemblance as a fit statistic.
 
 The present cases include positive examples of catastrophic processes and alternatives to catastrophic burial. They supply methodological comparisons, not a unified reconstructed geography.
+
+## Source-constrained regional benchmark
+
+The [Missoula audit](research/MISSOULA-MODEL-AUDIT.md) now supplies seven mapped field controls and separates observational bounds from modeled terrain. Its executable elevation check is not a hydraulic model. Obtain and reproduce the published terrain/configuration before extending it, and preserve unresolved source discrepancies. No worldwide fitted reconstruction follows from this benchmark.

@@ -379,10 +379,15 @@
           "source_id": "S12",
           "locator": "Indexed abstract",
           "statement": "The older report describes varves between successive graded flood beds."
+        },
+        {
+          "source_id": "S27",
+          "locator": "Table 1 pp. 5-6; methods pp. 8-10; discussion pp. 11, 15-16",
+          "statement": "The original modeling study supplies field controls, alternative configurations and unresolved model discrepancies; see research/MISSOULA-MODEL-AUDIT.md."
         }
       ],
-      "physical_evidence": "Published geomorphic/stratigraphic observations; no field section inspected.",
-      "surviving_documents": "2020 review summary and 1983 research abstract.",
+      "physical_evidence": "Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.",
+      "surviving_documents": "2020 review summary, 1983 abstract and relevant portions of the 2021 original modeling study.",
       "source_interpretation": "Authors infer repeated glacial-outburst floods.",
       "investigation_inference": "Catastrophic processes are a valid comparison; evidence of intervals tests a single-episode version.",
       "competing_explanations": [
@@ -390,7 +395,7 @@
         "One episode only if intervening time indicators are convincingly reinterpreted"
       ],
       "counterevidence": "Intervening time indicators challenge treating the whole sequence as one uninterrupted event.",
-      "next_test": "Inspect measured sections, tephra relations, dates and varve criteria; test separate-event alternatives quantitatively.",
+      "next_test": "Audit source coordinates and original field records, retrieve modified terrain and full solver configuration, reproduce one scenario; inspect stratigraphic timing separately.",
       "chronology": {
         "reported": "Last-glacial sequence; precise dated sample intervals not entered",
         "dated_object": "Flood sequence in review",
@@ -403,10 +408,10 @@
       "missing": [
         "Measured sections",
         "Sample-level ages",
-        "Model inputs",
-        "Site coordinates"
+        "Complete executable model inputs",
+        "Independent field and simulation review"
       ],
-      "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset."
+      "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood."
     },
     {
       "id": "C009",

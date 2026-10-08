@@ -476,6 +476,29 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S27",
+      "title": "Diverse cataclysmic floods from Pleistocene glacial Lake Missoula",
+      "url": "https://doi.org/10.1130/2021.2548(17)",
+      "doi": "10.1130/2021.2548(17)",
+      "creator": "Roger P. Denlinger, David L. George, Charles M. Cannon, Jim E. O’Connor and Richard B. Waitt",
+      "publication_date": "2021",
+      "source_type": "original hydraulic modeling study",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Relevant methods, scenario definitions and discussion; Table 1 printed p. 5 and scenario-label paragraph p. 11 visually inspected. Author PDF has preliminary profile sheet; printed pagination 1-18.",
+      "limitations": "Partial table extraction, no raw field audit, input retrieval or simulation rerun. See research/MISSOULA-MODEL-AUDIT.md.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://dlgeorge.github.io/pubs/DenlingerGeorgeEtAl2021.pdf",
+          "sha256": "7e45cbfa694bc9cff242c896feb113bd060898c1b77b11dd63da68b8b89f4e76",
+          "public_mirror_in_this_repository": false
+        }
+      ],
+      "date_note": "Article citation says 2021; preliminary ResearchGate profile sheet says October 2020 and upload March 25, 2021. No exact publication day assigned."
     }
   ]
 }

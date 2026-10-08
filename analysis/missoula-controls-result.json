@@ -1,0 +1,36 @@
+{
+  "input_sha256_canonical_json": "fe5120220fa48b22739dd051bf5baaeff60f0824ad4f0d12f5758a856ba556ba",
+  "quantity": "field elevation minus terrain elevation, not flood-stage residual",
+  "results": [
+    {
+      "id": "Long-10",
+      "field_minus_terrain_m": -8
+    },
+    {
+      "id": "Long-11",
+      "field_minus_terrain_m": 97
+    },
+    {
+      "id": "Long-12",
+      "field_minus_terrain_m": 7
+    },
+    {
+      "id": "Baker-5-uncrossed",
+      "field_minus_terrain_m": 4
+    },
+    {
+      "id": "Baker-5-crossed",
+      "field_minus_terrain_m": 3
+    },
+    {
+      "id": "Baker-8-uncrossed",
+      "field_minus_terrain_m": 3
+    },
+    {
+      "id": "Baker-8-crossed",
+      "field_minus_terrain_m": 2
+    }
+  ],
+  "simulation_executed": false,
+  "independent_scientific_validation": false
+}

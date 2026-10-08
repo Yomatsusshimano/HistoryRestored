@@ -23,6 +23,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Muskox methods audit](research/MUSKOX-METHODS.md): sample accounting, genetic-model assumptions and causal limits.
 - [Arctic hyena audit](research/ARCTIC-HYENA.md): identified teeth, a mapped collection locality and reworking limits.
 - [Camp Century audit](research/CAMP-CENTURY.md): fossil plants, later sediment dating and shared-sample limits.
+- [Missoula model audit](research/MISSOULA-MODEL-AUDIT.md): field controls, source discrepancies and requirements for reproduction.
 - [Physical constraints](PHYSICAL-MODEL.md): equations and required inputs; no fitted reconstruction yet.
 - [Full workplan](WORKPLAN.md): evidence needed for every original outcome.
 - [Research log](RESEARCH-LOG.md): inspected sources, limitations, and next actions.

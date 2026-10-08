@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Missoula field controls and model audit
+
+Previous visible turn acknowledged a model switch and made no research progress. Revalidated clean HEAD 6e106d8. Searched original modeling studies; located the 2021 author PDF via David George's publications page. Earlier direct USGS report access had failed; the original 1983 report remains abstract-level evidence.
+
+Inspected relevant methods/results text and visually checked Table 1 printed page 5 and the page 11 scenario paragraph. Added S27, seven selected control rows, a reproducible field-minus-terrain calculation and an audit of outstanding model requirements. Preserved source discrepancies without claiming fabrication or resolving them by guesswork. No hydraulic calculation, independent review, dating reconciliation or new prospective prediction was performed.
+
+The selected controls make model comparison more concrete but do not complete objective 5. Full terrain and solver inputs, source-field audit, dynamic sediment treatment and independent validation remain required. All twenty objectives remain intact. Fourteen sourced draft cases and twenty-seven sources are now recorded.
+
 ## 2026-10-08 - Camp Century plants and sediment dating
 
 Previous goal turn made progress: Arctic hyena case 8e27517 was published with twelve public files verified. Rechecked clean worktree. Retrieved the 2021 and 2023 Camp Century papers from institutional PDF mirrors after PMC browser-check failure. A search hit in Geochronology proved to concern Quebec-Labrador rather than this site and was excluded. A later Camp Century climate paper was located but not audited; no comprehensive current-literature claim is made.
