@@ -3225,6 +3225,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S203",
+      "title": "Preliminary stratigraphic reevaluation of Upper Tertiary units, Osborne Wash area, La Paz County, Arizona",
+      "url": "https://pubs.usgs.gov/bul/2053/report.pdf",
+      "creator": "Anna V. Buising and Kathi K. Beratan",
+      "publication_date": "1993",
+      "source_type": "original stratigraphic research and K-Ar analytical table",
+      "access": "SCAN_INSPECTED",
+      "inspected": "USGS Bulletin2053 pp.159-163; note added in proof and Table1 printed163/PDF179 visually inspected. SHA256 69dcdf20cfa97b11f488a51b7e8f923c028a90cd2b5b89e33befe3ef3379149a.",
+      "limitations": "Selected page only; no original laboratory records, rejected-fraction numerical age, uncertainty convention or independent dating reproduction. Underlying units constrain ordering, not directly the Bouse depositional age.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

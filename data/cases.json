@@ -508,6 +508,11 @@
           "source_id": "S202",
           "locator": "Printed125-126, sections61-62; data/buzzards-section-locators.json",
           "statement": "Named ash samples and section endpoints recovered; these are traceable retrieval targets, not completed dating or independently confirmed correlations."
+        },
+        {
+          "source_id": "S203",
+          "locator": "Printed163/PDF179, note added in proof and Table1",
+          "statement": "Original table assigns 9.2 ±0.3 Ma to sanidine from tuff sample OWBP-ML30-11/91, whereas S194 describes the 9.2 Ma underlying control as basalt. A separate basalt sample OWBP-LD-LVU-11/91 yielded16.8 ±0.6 Ma using magnetic residuum after a rejected plagioclase fraction; its rejected numerical age and error convention are not supplied. These are underlying-unit ages, not direct Bouse deposition dates."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

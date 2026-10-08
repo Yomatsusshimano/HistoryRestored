@@ -1,0 +1,64 @@
+{
+  "source_id": "S203",
+  "locator": "printed163/PDF179 Table1 and note added in proof",
+  "inspection": "Visual transcription; not new dating or independent review",
+  "uncertainty_convention": null,
+  "laboratory": "Geochron Laboratories, Cambridge, Massachusetts",
+  "preparation": "Both samples crushed to -80/+200 mesh and treated with dilute HF and HNO3",
+  "constants": {
+    "decay_to_argon_per_year": 5.81e-11,
+    "beta_decay_per_year": 4.962e-10,
+    "K40_to_total_K_g_per_g": 0.0001193
+  },
+  "samples": [
+    {
+      "sample_id": "OWBP-ML30-11/91",
+      "material": "Sanidine (tuff bed)",
+      "location": "Upper clastic unit near south end of Osborne Ridge",
+      "age_Ma": 9.2,
+      "reported_plus_minus_Ma": 0.3,
+      "K2O_wt_percent_replicates": [
+        6.937,
+        6.949
+      ],
+      "K2O_printed_mean": 6.943,
+      "Ar40_rad_1e_minus11_mol_per_g_replicates": [
+        9.2925,
+        9.1325
+      ],
+      "Ar40_rad_printed_mean": 9.2125,
+      "percent_Ar40_rad": [
+        69.4,
+        69.8
+      ]
+    },
+    {
+      "sample_id": "OWBP-LD-LVU-11/91",
+      "material": "Basalt; magnetic residuum of whole-rock plagioclase separation",
+      "location": "Near base of lower volcanic unit at north end of Osborne Ridge",
+      "age_Ma": 16.8,
+      "reported_plus_minus_Ma": 0.6,
+      "K2O_wt_percent_replicates": [
+        1.356,
+        1.332
+      ],
+      "K2O_printed_mean": 1.344,
+      "Ar40_rad_1e_minus11_mol_per_g_replicates": [
+        3.2075,
+        3.31
+      ],
+      "Ar40_rad_printed_mean": 3.26,
+      "Ar40_rad_arithmetic_mean_of_displayed_replicates": 3.25875,
+      "percent_Ar40_rad": [
+        50.0,
+        50.7
+      ],
+      "rejected_fraction": "Plagioclase concentrate, nonmagnetic whole-rock fraction",
+      "rejected_fraction_age_Ma": null,
+      "reported_residuum_plagioclase_free_percent": [
+        90,
+        98
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@ S194, [Bright et al. 2018](https://geo.arizona.edu/sites/default/files/data/1875
 | --- | --- | --- |
 | Northern underlying ash, alternative correlations | Conant Creek 5.51 ±0.08 Ma; Wolverine Creek 5.59 ±0.05 Ma | Older limit; about 60 m below northern deposits |
 | Higher underlying northern ash | 5.35 ±0.07 Ma | Preliminary older limit |
-| Basalt beneath southern deposits | 9.2 ±0.3 Ma | Older limit |
+| Southern underlying control, called basalt in S194; original S203 identifies dated sanidine in tuff | 9.2 ±0.3 Ma | Older limit; material wording corrected by original table |
 | Globorotalia lenguaensis occurrence | Last appearance 6 Ma | Fossil-range constraint; described as a single test |
 | Correlated Lawlor Tuff | 4.83 ±0.01 Ma | Ash horizon; disputed assignment to basal carbonate versus upper bioclastic interval |
 
@@ -43,3 +43,13 @@ The [oxygen comparison](ZIRCON-OXYGEN-CHECK.md) now audits Pre-Kilgore alongside
 The [argon source audit](LAWLOR-ARGON-AUDIT.md) now recovers 35 original Lawlor heating-step rows and an explicit one-sigma convention from the study abstract. Calibration, regression selection and primary-deposition transfer remain unresolved.
 
 The [ash-to-bed audit](BOUSE-ASH-STRATIGRAPHY.md) separates local observations, proposed lateral correlations and restoration assumptions using S199-S201. Exact sampling heights and the connection to the inventoried fossil beds remain unresolved.
+
+## Original underlying-unit table: material correction
+
+S203, [Buising and Beratan 1993](https://pubs.usgs.gov/bul/2053/report.pdf), USGS Bulletin2053, printed p.163/PDF179, identifies **9.2 ±0.3 Ma sanidine from a pumiceous lapilli tuff** in the upper clastic unit near the south end of Osborne Ridge. This differs from S194 p.1876's basalt wording, which our initial table repeated. The original table controls the sample identification here. The discrepancy establishes a material-description problem; it does not establish fabrication or invalidate all dating.
+
+A separate sample near the base of the lower volcanic unit at north Osborne Ridge is reported as **16.8 ±0.6 Ma basalt**. Footnote4 specifies that the accepted analysis used magnetic residuum, chiefly glass and ferromagnesian minerals, after a plagioclase concentrate gave an age the authors rejected as too old. The rejected numerical age is not supplied. The residuum was reportedly90–98% free of plagioclase; this is a source report, not a purity measurement reproduced here.
+
+[Transcribed inputs](../data/osborne-kar-inputs.json) preserve sample identifiers, replicate values, printed means and preparation notes. Table1's printed basalt argon mean3.2600 differs from the arithmetic mean3.25875 of its two displayed replicates. Both are retained; rounding or transcription cannot be distinguished from this page. No age recalculation or uncertainty confidence level is inferred. Footnote3 supplies decay constants and potassium abundance, but laboratory provenance and rejected-fraction results remain necessary for a full analytical audit.
+
+These units underlie Bouse in the source interpretation. Their ages alone supply older limits, not a younger bound excluding historical deposition. The note's approximately5.5 Ma bound is a then-used correlated Bouse age, not a third measurement in Table1. The separate9.6 Ma basalt mentioned in later literature must not be identified with this16.8 Ma sample without its original identifier and record. Next retrieve that original record and inspect the mapped stratigraphic connection to the specific fossil-bearing beds.

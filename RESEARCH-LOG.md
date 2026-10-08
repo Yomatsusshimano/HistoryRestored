@@ -900,3 +900,7 @@ Previous turn made verified public progress; clean checkout confirmed. Retrieved
 ### 2026-10-08 — Buzzards Peak sample locators
 
 Previous turn published verified progress; clean tree confirmed. Targeted later-analysis searches recovered O’Connell2016 thesis. Downloaded159-page PDF, verified hash, visually checked printed125-126 against extracted text and preserved section endpoints, nine sample labels and question-marked interpretations. No datum or collection date guessed from labels; no precise heights digitized. Later results were not recovered by this bounded search. Published locators to make the next laboratory-record search specific, without claiming new dating or independent corroboration.
+
+### 2026-10-08 — Underlying age-control material correction
+
+The model-switch acknowledgement made no research progress; clean checkout revalidated. Visually compared S194 p.1876 with S203 printed163/PDF179. Original table identifies9.2 Ma tuff sanidine and separate16.8 Ma basalt. Preserved analytical inputs, rejected plagioclase fraction without invented numerical age, unspecified error convention and small printed-mean discrepancy. Corrected chronology wording while retaining source disagreement. No age refit, full stratigraphic audit, historical-era exclusion from an older bound or independent review claimed.
