@@ -1,0 +1,114 @@
+{
+  "source_id": "S185",
+  "url": "https://www.sepm.org/supplemental-materials/207/download",
+  "sha256": "5d04c687d9d5637e175d03fbb7e7b8c942569960a9ecb337b8fe5e5aa6c425ec",
+  "accessed_date": "2026-10-08",
+  "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+  "scope": "Workbook values and headers read; selected factual cells retained. Original workbook unchanged. No raw laboratory records or specimens inspected.",
+  "sheet_data_rows": {
+    "Supplement 1": 24,
+    "Supplement 2": 53
+  },
+  "selected_cells": [
+    {
+      "sheet": "Supplement 1",
+      "cell": "A12",
+      "value": "HM 51"
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "B12",
+      "value": 111.02
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "C12",
+      "value": "Basal Carbonate Unit  oxidized pre-DCL marl"
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "K12",
+      "value": 0.1
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "A13",
+      "value": "HM 52"
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "B13",
+      "value": 111.2
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "C13",
+      "value": "Distinctive Clay Layer"
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "O13",
+      "value": 0.2
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "R13",
+      "value": 1
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "S13",
+      "value": -8
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "T13",
+      "value": -1.7
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "A14",
+      "value": "HM 53"
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "J14",
+      "value": 0.1
+    },
+    {
+      "sheet": "Supplement 1",
+      "cell": "K14",
+      "value": 0.5
+    }
+  ],
+  "column_meanings": {
+    "K": "juvenile Candona, valves/g",
+    "J": "adult Candona, valves/g",
+    "O": "spiraled foraminifers >120 micrometres, tests/g",
+    "R": "spiraled foraminifers 45-120 micrometres, relative abundance",
+    "S": "micrite oxygen delta, per mil VPDB",
+    "T": "micrite carbon delta, per mil VPDB"
+  },
+  "reported_locality": {
+    "source_id": "S184",
+    "locator": "p.87",
+    "latitude": 33.2907,
+    "longitude": -114.6364,
+    "coordinate_datum": null
+  },
+  "duration_calculation": {
+    "source_id": "S184",
+    "locator": "pp.88-89",
+    "thickness_mm": 30,
+    "assumed_rates_mm_per_year": [
+      0.1,
+      10
+    ],
+    "calculated_years": [
+      300,
+      3
+    ],
+    "direct_age_bracket": null,
+    "interpretation": "Conditional thickness/rate estimate, not a confidence interval."
+  }
+}

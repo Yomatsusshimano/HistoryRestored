@@ -413,6 +413,11 @@
           "source_id": "S184",
           "locator": "pp.81-84, Figures 1-2",
           "statement": "A competing interpretation examines the same Hart Mine Wash outcrop. Environmental disagreement must be resolved separately from chronology and channel connectivity."
+        },
+        {
+          "source_id": "S185",
+          "locator": "Supplement 1 K12, O13, R13; S184 pp.88-89; research/BOUSE-METHODS.md",
+          "statement": "Supplement retains trace pre-DCL Candona and nonzero DCL foraminifers despite categorical prose. Proposed 3-300-year duration comes from assumed rates, not a direct age bracket."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected.",
@@ -424,7 +429,7 @@
         "A former waterway if independently evidenced"
       ],
       "counterevidence": "The 1639 exhibition caption and ca. 1650 catalog description refer through the same item link. This is an unresolved metadata discrepancy, not evidence of two coastal states. A comparison plate is one compilation, not five independent surveys.",
-      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: recover Bouse sample/context ledger and separately specify a georeferenced map-implied route before testing connectivity.",
+      "next_test": "Compare manuscript and broader edition transmission, reconstruct route with spatial uncertainty, and seek independent coastal deposits; two editions of Kino are not independent field witnesses. Identify the historical solar table, calendar and instrument uncertainty before interpreting the modern declination discrepancy. Follow research/CALIFORNIA-MARINE-TEST.md: reconcile recovered Bouse sample table with original specimen/counting records and age controls and separately specify a georeferenced map-implied route before testing connectivity.",
       "chronology": {
         "reported": "Item 99443375: catalog ca. 1650, linked exhibition 1639. Comparison item 2006627665: catalog 1770, linked exhibition ca. 1779.",
         "dated_object": "Catalog/exhibition map dates",
@@ -1415,6 +1420,11 @@
           "source_id": "S184",
           "locator": "pp.81-84, Figures 1-2",
           "statement": "A competing interpretation examines the same Hart Mine Wash outcrop. Environmental disagreement must be resolved separately from chronology and channel connectivity."
+        },
+        {
+          "source_id": "S185",
+          "locator": "Supplement 1 K12, O13, R13; S184 pp.88-89; research/BOUSE-METHODS.md",
+          "statement": "Supplement retains trace pre-DCL Candona and nonzero DCL foraminifers despite categorical prose. Proposed 3-300-year duration comes from assumed rates, not a direct age bracket."
         }
       ],
       "physical_evidence": "Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.",
@@ -1427,7 +1437,7 @@
         "Reworking or incomplete preservation affecting individual beds and dates"
       ],
       "counterevidence": "Reported freshwater assemblages and alternating depositional environments challenge treating every aquatic deposit as one marine event; no defined strait/date hypothesis tested yet.",
-      "next_test": "Retrieve supplementary sample-context ledger and OxCal code, audit exclusion membership, and test sensitivity to growth-period assumptions and historical constraints. Follow research/CALIFORNIA-MARINE-TEST.md: recover Bouse sample/context ledger and separately specify a georeferenced map-implied route before testing connectivity.",
+      "next_test": "Retrieve supplementary sample-context ledger and OxCal code, audit exclusion membership, and test sensitivity to growth-period assumptions and historical constraints. Follow research/CALIFORNIA-MARINE-TEST.md: reconcile recovered Bouse sample table with original specimen/counting records and age controls and separately specify a georeferenced map-implied route before testing connectivity.",
       "chronology": {
         "reported": "1983 and 2022 chronologies differ; individual event windows not adopted in this initial source audit.",
         "dated_object": "Published sediment-associated organic and shell samples",

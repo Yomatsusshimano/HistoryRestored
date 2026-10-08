@@ -2971,8 +2971,22 @@
       "publication_date": "2016-03",
       "source_type": "original research article",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "Printed pp.81-84 visually inspected, including Figures 1-2; DOI 10.2110/palo.2015.035. Retrieved 11-page PDF SHA256 ee1a884ece5693349c5cc409e7d5baeea711ac4b7a2719057ea8151dea5a0c26.",
-      "limitations": "Selected introductory pages and figures only. Full methods, isotope tables, age controls and inferred transition duration not audited. Same outcrop comparison, not an independent region. No historical-map connection established."
+      "inspected": "Printed pp.81-84 and 88-90 visually inspected, including Figures 1-2 and 6-7; pp.85-87 extracted text read. DOI 10.2110/palo.2015.035. Retrieved PDF SHA256 ee1a884ece5693349c5cc409e7d5baeea711ac4b7a2719057ea8151dea5a0c26.",
+      "limitations": "Figures 3-5 not visually audited. Methods and conditional duration inspected; supplementary data separately registered as S185. No direct age bracket reproduced. Shared outcrop and inherited foraminifer identity; subsurface marine evidence not tested by this study. No historical-map connection established."
+    },
+    {
+      "id": "S185",
+      "title": "Bright et al. 2016 supplementary data tables SD1 and SD2",
+      "url": "https://www.sepm.org/supplemental-materials/207/view",
+      "creator": "Jordon Bright, Andrew S. Cohen, David L. Dettman, Philip A. Pearthree, Rebecca J. Dorsey and Mindy B. Homan",
+      "publication_date": "2016",
+      "source_type": "original research supplementary data workbook",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "READ ME and both data-sheet values/headers read: Supplement 1 A1:T29 and Supplement 2 A1:F57. Selected cells preserved in data/bouse-methods.json with downloaded workbook hash. No formulas present.",
+      "limitations": "Same study as S184, not independent replication. No specimen identifiers for individual repeated isotope rows; original laboratory sheets and specimen classification not audited. Main-text boundary exceptions retained.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
