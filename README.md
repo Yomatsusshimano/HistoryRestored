@@ -4,7 +4,7 @@ Research edition: 2026-10-08 (America/New_York). Research drafts published incre
 
 The starting hypothesis is a catastrophic mud flood and rapid geographic upheaval, followed by widespread historical fabrication and misattribution of surviving structures and technology. This archive tests those propositions separately. It does not treat them as established facts. Findings may support, narrow, or reject any proposition.
 
-The event date is unknown. Nathan requested comparison of candidate periods and authorized publication as work progresses to this repository.
+The event date is unknown. User requested comparison of candidate periods and authorized publication as work progresses to this repository.
 
 ## Start here
 
