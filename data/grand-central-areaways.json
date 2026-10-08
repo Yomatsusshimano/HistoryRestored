@@ -168,5 +168,41 @@
     "historical_grade_surface": null,
     "historical_to_NAVD88_conversion": null,
     "limits": "Survey reports benchmarks; no new field verification. Benchmark heights are not fill thickness. Monochrome/color plan repetitions are one survey, not independent observations. Underground utility depiction includes record-derived locations."
+  },
+  "ordinance_correspondence": {
+    "sources": [
+      "S89",
+      "S90"
+    ],
+    "events": [
+      {
+        "date": "1889-07-19",
+        "source": "S89",
+        "status": "CATALOG_ONLY",
+        "event": "Yesler appoints Leary and objects to Ordinance 1106, according to catalog."
+      },
+      {
+        "date": "1889-07-30",
+        "source": "S90",
+        "status": "DATE_REPORTED_IN_LATER_LETTER",
+        "event": "City notification of appraisal appointment, as recited by Leary."
+      },
+      {
+        "date": "1889-08-03",
+        "source": "S90",
+        "status": "TRANSCRIPTION_INSPECTED",
+        "event": "Leary declines Commercial Street appointment under 1106, citing prior engagements."
+      }
+    ],
+    "separate_project": {
+      "ordinance": "1129",
+      "route": "Front Street, Yesler Avenue to Depot Street",
+      "letter_date": "1889-08-03"
+    },
+    "commercial_route_as_transcribed": "Commercial Street, Yesler Avenue to city limits",
+    "judgment_7094_recovered": false,
+    "ordinance_passage_date": null,
+    "construction_completion_date": null,
+    "limits": "Modern parcel recital and correspondence share ordinance number; exact parcel adjudication still unverified. Yesler appointment and city notification need not be identical acts."
   }
 }

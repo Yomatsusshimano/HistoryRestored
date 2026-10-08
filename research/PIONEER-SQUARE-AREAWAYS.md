@@ -56,3 +56,11 @@ S88 PDF12–14 reproduces Bush, Roed & Hitchings survey 2019062.00, dated May 1,
 The plan labels resolve the building/parcel crosswalk: Buttnick, 202 First Avenue S, is 524780-0380; City Loan, 206 First Avenue S, is 524780-0385; Grand Central, 216 First Avenue S, is 524780-0390. Those identifiers can now constrain historical permit searches.
 
 A historical grade must be tied to its own datum and converted before comparison with this survey. Neither an old grade surface nor that conversion has been recovered. Modern basement-to-sidewalk separation would measure present geometry, not automatically the thickness or age of deposited sediment. Some underground utility locations derive from records; they are not independent excavated sections.
+
+## Correspondence behind the ordinance reference
+
+[Seattle Archives record 993597 (S89)](https://archives.seattle.gov/digital-collections/index.php/Detail/objects/3726) catalogs a July 19, 1889 communication in which H. L. Yesler appoints John Leary to appraise condemned property and objects to Ordinance 1106. The original letter was not inspected; the grounds of objection remain unknown. Its archival locator is series 1802-04, Box 26, Folder 2.
+
+[Leary's August 3, 1889 letter, record 991765 page 4 (S90)](https://www.fromthepage.com/sma-archives/city-of-seattle-records/991765/display/32048858?translation=false), inspected as a transcription, acknowledges a July 30 city notification and declines appraisal because of prior engagements. It associates Ordinance 1106 with Commercial Street from Yesler Avenue to the city limits. This supplies a contemporary documentary connection to the number in the modern parcel recital, subject to transcription verification; it does not recover the court judgment or parcel-specific outcome.
+
+[Page 3 of the same record](https://fromthepage.com/sma-archives/city-of-seattle-records/991765/display/32048857?translation=false) declines a separate appointment under **Ordinance 1129**, for Front Street from Yesler Avenue to Depot Street. Keep these routes and acts distinct. The July 19 private appointment and July 30 city notice need not describe the same administrative act. No completed appraisal, excavation quantity or construction date follows from either refusal. Original images were not verified.

@@ -1469,6 +1469,36 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S89",
+      "title": "Yesler communication regarding Ordinance 1106, record 993597",
+      "url": "https://archives.seattle.gov/digital-collections/index.php/Detail/objects/3726",
+      "publication_date": "1889-07-19",
+      "creator": "H. L. Yesler; catalog by Seattle Municipal Archives",
+      "source_type": "Historical correspondence or catalog record",
+      "access": "CATALOG_METADATA",
+      "inspected": "Catalog description, date, series 1802-04, Box 26 Folder 2.",
+      "limitations": "Original letter not inspected; grounds of objection unknown. Catalog date is document date, not ordinance passage or construction date.",
+      "sha256": null,
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S90",
+      "title": "John Leary appraisal refusals, record 991765, pages 3–4",
+      "url": "https://www.fromthepage.com/sma-archives/city-of-seattle-records/991765/display/32048858?translation=false",
+      "publication_date": "1889-08-03",
+      "creator": "John Leary; Seattle Municipal Archives transcription project",
+      "source_type": "Historical correspondence or catalog record",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Indexed transcriptions of pages 3 and 4; page 3 at display/32048857.",
+      "limitations": "Handwriting not checked. Page 4 image loading failed and direct image access was unavailable. Letters record refusals, not completed appraisal or street work.",
+      "sha256": null,
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

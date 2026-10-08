@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Ordinance 1106 correspondence chain
+
+Previous turn made progress: 612b756 published seven byte-verified files; clean checkout confirmed. Located Yesler record 993597 catalog and inspected Leary record 991765 pp.3–4 transcriptions. Distinguished catalog-only objection, reported notification and appraisal refusal; retained separate ordinance numbers and routes. Failed page-4 image access prevents scan-verification claims. Connected a modern recital to 1889 correspondence by ordinance number without inventing original judgment content, passage date, completed appraisal or construction. Added S89/S90 and structured event chain.
+
 ## 2026-10-08 - Grand Central survey datum and parcel crosswalk
 
 Previous turn made progress: 4034281 published seven byte-verified files; clean checkout confirmed. Located survey sheets at S88 PDF12–14, rendered them and enlarged benchmark block. Recorded NAVD 88, SNV-5133 26.28 ft and SNV-779 17.60 ft as reported benchmarks, not sediment depths. Extracted and located building/parcel labels. Preserved survey date/revision and duplicate monochrome/color-sheet dependence. Rendering emitted missing-font warnings, but selected benchmark block was legible; no full drawing-transcription completeness claimed. Exact geotechnical-report searches still found plan references rather than the report itself. Updated C001 missing-data description; no new source count or historical elevation inferred.
