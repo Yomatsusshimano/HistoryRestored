@@ -1559,6 +1559,51 @@
       "sha256": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S95",
+      "title": "Illuminating vault-cover, US 4,266",
+      "url": "https://patents.google.com/patent/US4266A/en",
+      "creator": "Thaddeus Hyatt; United States Patent Office",
+      "publication_date": "1845-11-12",
+      "source_type": "Historical patent reproduction",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF pp.2–3 visually inspected: specification, claim, patent/reissue dates and First printed 1914 notice.",
+      "limitations": "Later printing of historical patent text; original manuscript and 1855 reissue not inspected. Patent disclosure is not proof of manufacture or Seattle installation.",
+      "local_copy": "sources/originals/hyatt/US4266.pdf",
+      "sha256": "8910610b24d051d45159159024f39450c6d5400436fb873085e4187fc26abe4e",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S96",
+      "title": "Illuminating-glass for vault-covers, US 21,050",
+      "url": "https://patents.google.com/patent/US21050A/en",
+      "creator": "Thaddeus Hyatt; United States Patent Office",
+      "publication_date": "1858-07-27",
+      "source_type": "Historical patent reproduction",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF p.2 visually inspected: optical description, claim, assignment heading, header date and December 15, 1857 closing date.",
+      "limitations": "Only specification page visually inspected. Closing date is not independently verified filing date. Claimed optical performance not experimentally reproduced.",
+      "local_copy": "sources/originals/hyatt/US21050.pdf",
+      "sha256": "f1a948da7146505af1b27b0e8c3d6f5751ddcd56af24d102a06998fda44e7055",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S97",
+      "title": "Illuminating roof and roof-pavement, Reissue 9,883",
+      "url": "https://patents.google.com/patent/USRE9883E/en",
+      "creator": "Thaddeus Hyatt; United States Patent Office",
+      "publication_date": "1881-09-27",
+      "source_type": "Historical patent reproduction",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF pp.3 and 5 visually inspected: drawing sheet 3/Fig.7 and specification opening with dated reissue chain and assignee.",
+      "limitations": "Ten-page document partly inspected. Earlier 1867/1878 versions not compared; later wording must not be backdated. No model or installation tied to Pioneer Building.",
+      "local_copy": "sources/originals/hyatt/USRE9883.pdf",
+      "sha256": "30e30deaaaf6fbb0db30f4de1b46eb9da48b52b2df3acff48ba43fe171c2edf8",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

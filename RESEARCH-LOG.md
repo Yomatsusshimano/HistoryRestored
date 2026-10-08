@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Hyatt daylighting and invention attribution
+
+Previous turn made progress: c1fb760 published seven publicly byte-verified files; clean checkout confirmed. Retrieved US4266, US21050 and USRE9883 PDF reproductions, rendered selected pages with Poppler and visually inspected them. Identified intended daylight transmission, acknowledged antecedent covers, designed under-sidewalk rooms, and separate grant/reissue/specification/printing dates. Preserved Elizabeth A. L. Hyatt's assignee attribution without inferring design authorship. Added S95–S97 and unchanged PDF copies with SHA-256 values. These establish documentary design alternatives, not installed Pioneer hardware, experimental performance or a lost-civilization transmission chain.
+
 ## 2026-10-08 - Pioneer working drawings visually inspected
 
 Previous turn made progress: f6fe529 published seven byte-verified files; clean checkout confirmed. Normal collection viewer exposed a working IIIF image URL after the earlier alternate endpoint failed. Inspected ARC0508 section and enlarged lower levels; inspected ARC0503 first-floor plan and enlarged entrance. Read Hyatt Lights and up labels without turning design into completed work or a burial date. Updated S93 from catalog-only to scan-inspected, added S94, and revised current report while preserving historical log entries. No calendar date, street-grade datum or uncertain fractional dimension promoted to a measurement. Seventeen related drawing records appeared in the subject search; no claim that all sheets or the complete archive were inspected.
