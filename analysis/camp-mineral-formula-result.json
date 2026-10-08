@@ -1,0 +1,71 @@
+{
+  "scope": "Source formulas reproduce cached values. Alternative sums use workbook mineral labels only; not validated replacement mineralogy. No pooling across size fractions without weights.",
+  "results": [
+    {
+      "segment": "1059-4",
+      "grain_size_um": [
+        0,
+        63
+      ],
+      "source_formula_sum_percent_area": 9.968847381403732,
+      "label_based_sum_percent_area": 0.8900756652202524,
+      "garnet_over_source_formula_sum": 0.16140109708271572,
+      "garnet_over_label_based_sum": 1.8076922748029196
+    },
+    {
+      "segment": "1059-4",
+      "grain_size_um": [
+        63,
+        125
+      ],
+      "source_formula_sum_percent_area": 9.378235404741861,
+      "label_based_sum_percent_area": 1.3169868629599406,
+      "garnet_over_source_formula_sum": 0.13720094171553768,
+      "garnet_over_label_based_sum": 0.977004984141378
+    },
+    {
+      "segment": "1059-4",
+      "grain_size_um": [
+        125,
+        250
+      ],
+      "source_formula_sum_percent_area": 8.358798336687439,
+      "label_based_sum_percent_area": 0.8646451893191571,
+      "garnet_over_source_formula_sum": 0.10332618204885995,
+      "garnet_over_label_based_sum": 0.9988868605472252
+    },
+    {
+      "segment": "1063-7",
+      "grain_size_um": [
+        0,
+        63
+      ],
+      "source_formula_sum_percent_area": 12.291870794218982,
+      "label_based_sum_percent_area": 1.195047492564089,
+      "garnet_over_source_formula_sum": 0.06355898706164302,
+      "garnet_over_label_based_sum": 0.6537471202059812
+    },
+    {
+      "segment": "1063-7",
+      "grain_size_um": [
+        63,
+        125
+      ],
+      "source_formula_sum_percent_area": 8.482222714792952,
+      "label_based_sum_percent_area": 1.184214819231513,
+      "garnet_over_source_formula_sum": 0.037986603886215574,
+      "garnet_over_label_based_sum": 0.2720881626448453
+    },
+    {
+      "segment": "1063-7",
+      "grain_size_um": [
+        125,
+        250
+      ],
+      "source_formula_sum_percent_area": 8.033518448741436,
+      "label_based_sum_percent_area": 1.0337199092184615,
+      "garnet_over_source_formula_sum": 0.03477725993048568,
+      "garnet_over_label_based_sum": 0.27027027027027045
+    }
+  ]
+}

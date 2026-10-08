@@ -1,0 +1,251 @@
+{
+  "source_id": "S146",
+  "case_id": "C014",
+  "workbook": "science.ade4248_data_s18.xlsx",
+  "sha256": "690ea239e4a697cdec2ef1040405d0e778e5d9c3ca63176e593b95b00e19d329",
+  "sheet": "Data S18 Mineralogy",
+  "units": "Percent area, not mass fraction or grain counts",
+  "rows": [
+    {
+      "column": "B",
+      "segment": "1059-4",
+      "grain_size_um": [
+        0,
+        63
+      ],
+      "combined_formula": "=SUM(B4,B35,B15)",
+      "combined_cached": 9.968847381403732,
+      "minerals": {
+        "Albite": {
+          "cell": "B4",
+          "value": 9.9594331197075
+        },
+        "Amphibole": {
+          "cell": "B6",
+          "value": 0.0111259458120104
+        },
+        "CaFe-amphibole": {
+          "cell": "B12",
+          "value": 0
+        },
+        "Calcite (low Mg)": {
+          "cell": "B15",
+          "value": 0.00941426169623312
+        },
+        "Garnet": {
+          "cell": "B24",
+          "value": 1.60898290400872
+        },
+        "Pyrite": {
+          "cell": "B35",
+          "value": 0
+        },
+        "Pyroxene": {
+          "cell": "B36",
+          "value": 0.878949719408242
+        }
+      }
+    },
+    {
+      "column": "C",
+      "segment": "1059-4",
+      "grain_size_um": [
+        63,
+        125
+      ],
+      "combined_formula": "=SUM(C4,C35,C15)",
+      "combined_cached": 9.378235404741861,
+      "minerals": {
+        "Albite": {
+          "cell": "C4",
+          "value": 9.37510256331434
+        },
+        "Amphibole": {
+          "cell": "C6",
+          "value": 0.0428154995094506
+        },
+        "CaFe-amphibole": {
+          "cell": "C12",
+          "value": 0
+        },
+        "Calcite (low Mg)": {
+          "cell": "C15",
+          "value": 0.00298365850240074
+        },
+        "Garnet": {
+          "cell": "C24",
+          "value": 1.28670272916058
+        },
+        "Pyrite": {
+          "cell": "C35",
+          "value": 0.000149182925120037
+        },
+        "Pyroxene": {
+          "cell": "C36",
+          "value": 1.27417136345049
+        }
+      }
+    },
+    {
+      "column": "D",
+      "segment": "1059-4",
+      "grain_size_um": [
+        125,
+        250
+      ],
+      "combined_formula": "=SUM(D4,D35,D15)",
+      "combined_cached": 8.358798336687439,
+      "minerals": {
+        "Albite": {
+          "cell": "D4",
+          "value": 8.35470790447519
+        },
+        "Amphibole": {
+          "cell": "D6",
+          "value": 0.0309188552546371
+        },
+        "CaFe-amphibole": {
+          "cell": "D12",
+          "value": 0
+        },
+        "Calcite (low Mg)": {
+          "cell": "D15",
+          "value": 0.00372951167980198
+        },
+        "Garnet": {
+          "cell": "D24",
+          "value": 0.863682718646274
+        },
+        "Pyrite": {
+          "cell": "D35",
+          "value": 0.000360920532447915
+        },
+        "Pyroxene": {
+          "cell": "D36",
+          "value": 0.83372633406452
+        }
+      }
+    },
+    {
+      "column": "E",
+      "segment": "1063-7",
+      "grain_size_um": [
+        0,
+        63
+      ],
+      "combined_formula": "=SUM(E4,E35,E15)",
+      "combined_cached": 12.291870794218982,
+      "minerals": {
+        "Albite": {
+          "cell": "E4",
+          "value": 12.1376920148558
+        },
+        "Amphibole": {
+          "cell": "E6",
+          "value": 0.022511397407019
+        },
+        "CaFe-amphibole": {
+          "cell": "E12",
+          "value": 0
+        },
+        "Calcite (low Mg)": {
+          "cell": "E15",
+          "value": 0.108346222052489
+        },
+        "Garnet": {
+          "cell": "E24",
+          "value": 0.781258856773152
+        },
+        "Pyrite": {
+          "cell": "E35",
+          "value": 0.0458325573106933
+        },
+        "Pyroxene": {
+          "cell": "E36",
+          "value": 1.17253609515707
+        }
+      }
+    },
+    {
+      "column": "F",
+      "segment": "1063-7",
+      "grain_size_um": [
+        63,
+        125
+      ],
+      "combined_formula": "=SUM(F4,F35,F15)",
+      "combined_cached": 8.482222714792952,
+      "minerals": {
+        "Albite": {
+          "cell": "F4",
+          "value": 8.39525729057997
+        },
+        "Amphibole": {
+          "cell": "F6",
+          "value": 0.819140043589694
+        },
+        "CaFe-amphibole": {
+          "cell": "F12",
+          "value": 0.081790250197721
+        },
+        "Calcite (low Mg)": {
+          "cell": "F15",
+          "value": 0.0852778674688754
+        },
+        "Garnet": {
+          "cell": "F24",
+          "value": 0.3222108343415
+        },
+        "Pyrite": {
+          "cell": "F35",
+          "value": 0.00168755674410707
+        },
+        "Pyroxene": {
+          "cell": "F36",
+          "value": 0.283284525444098
+        }
+      }
+    },
+    {
+      "column": "G",
+      "segment": "1063-7",
+      "grain_size_um": [
+        125,
+        250
+      ],
+      "combined_formula": "=SUM(G4,G35,G15)",
+      "combined_cached": 8.033518448741436,
+      "minerals": {
+        "Albite": {
+          "cell": "G4",
+          "value": 8.00405961698397
+        },
+        "Amphibole": {
+          "cell": "G6",
+          "value": 0.765169397777813
+        },
+        "CaFe-amphibole": {
+          "cell": "G12",
+          "value": 0.0756426776740113
+        },
+        "Calcite (low Mg)": {
+          "cell": "G15",
+          "value": 0.0294588317574667
+        },
+        "Garnet": {
+          "cell": "G24",
+          "value": 0.279383759248233
+        },
+        "Pyrite": {
+          "cell": "G35",
+          "value": 0
+        },
+        "Pyroxene": {
+          "cell": "G36",
+          "value": 0.192907833766637
+        }
+      }
+    }
+  ],
+  "scope": "Formula dependency audit; mineral classifications and original instrument output not independently checked."
+}

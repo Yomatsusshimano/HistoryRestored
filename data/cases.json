@@ -1026,6 +1026,11 @@
           "source_id": "S145",
           "locator": "Figure S1 p.8; compared with S146 S4/S11",
           "statement": "Figure fine-age variant 435 ka and main-text 434 ka can each be recovered using different stored dose rates. Fraction central-value arithmetic reproduced conditionally; full uncertainty and pooled age remain unresolved."
+        },
+        {
+          "source_id": "S146",
+          "locator": "S18 A4:G36, especially row 5; S16/S19",
+          "statement": "Combined amphibole/pyroxene formulas sum cells labelled albite, pyrite and low-Mg calcite. Diagnostic labelled-mineral sums change garnet-ratio magnitudes but preserve upper-greater-than-lower direction; provenance interpretation remains to verify."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",

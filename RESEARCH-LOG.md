@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Mineral provenance formula audit
+
+Previous turn made progress: 1eec3e5 published eight verified files. Read S16, S18 and S19. S18 combined amphibole/pyroxene formulas reference three differently labelled minerals; reproduced all six cached sums and compared an explicitly label-based alternative. Ratio magnitudes change, but upper exceeds lower in all size classes under both definitions. Original classifications and figure aggregation unresolved. Non-rejection is not proof of common provenance; no transport route inferred. Full goal remains active.
+
 ## 2026-10-08 - Fraction central-age chain
 
 Previous turn made progress: 8de8af5 published nine verified files. Visually inspected Figure S1; its caption does not specify aggregation. Recovered fraction central ages from stored S4 summaries, adopted residual and S11 rates. Different fine rates round to the figure/main-text variants, differing by about 1.27 ka. No weighting, uncertainty or pooled-age replication claimed. Full goal remains active.

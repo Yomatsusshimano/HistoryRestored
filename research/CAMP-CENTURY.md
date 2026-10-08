@@ -184,3 +184,19 @@ Using the stored S4 dose summaries, the adopted 50 Gy residual and S11 rates, th
 | Coarse, 95:5 mixture rate | (979.9092256 - 50) / 2.3544 | 394.9665 | S1/Figure S1: 395 |
 
 This recovers the published fraction central values conditionally on stored intermediate results. It does not recover their uncertainty, the underlying weighted dose summaries or the pooled 416 +/- 38 ka result. The fine variants differ by about 1.27 ka, small compared with the reported 39 ka uncertainty; this discrepancy alone is not evidence of a materially different chronology. Matching rounded values is a reproducible explanation to investigate, not proof of the authors' processing history. Resolve the aggregation and uncertainty chain before promoting the component audit to full replication.
+
+## Provenance: mineral formula mismatch
+
+S146 Data S18 reports mineral abundance as percent area. Its row 5, labelled Amphi+Pyrox, contains formulas such as `SUM(B4,B35,B15)`. Those cells are labelled Albite, Pyrite and Calcite (low Mg), respectively. The same references occur in all six size/sample columns. The [dependency transcription](../data/camp-century-mineral-formulas.json) preserves formulas, labels and values; the [calculation](../analysis/camp_mineral_formula.py) reproduces all six cached sums.
+
+As a diagnostic, summing the rows labelled Amphibole, CaFe-amphibole and Pyroxene gives different garnet-to-sum ratios ([results](../analysis/camp-mineral-formula-result.json)):
+
+| Size, micrometres | Upper 1059-4: source formula / label-based ratio | Lower 1063-7: source formula / label-based ratio |
+| --- | --- | --- |
+| 0-63 | 0.161 / 1.808 | 0.064 / 0.654 |
+| 63-125 | 0.137 / 0.977 | 0.038 / 0.272 |
+| 125-250 | 0.103 / 0.999 | 0.035 / 0.270 |
+
+The upper sample's ratio exceeds the lower sample's in every size class under both calculations. Thus this formula concern changes magnitudes but does not reverse that directional comparison. Original mineral classifications and the figure's aggregation must be checked before replacing published values or attributing an effect to the weathering interpretation. No cross-fraction pooling is justified without weights.
+
+S16's five geochronology K-S p-values range from 0.100 to 0.918, and S19 reports mineralogy non-rejections. These are reported test outcomes, not proof of identical sources or a unique local origin. Similar source materials can occupy more than one location. The workbook concern does not establish distant transport, geographic upheaval or intentional misrepresentation. A transport reconstruction still needs source-terrain discrimination and mapped feasible paths, beyond comparisons between two core samples.

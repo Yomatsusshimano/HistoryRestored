@@ -192,3 +192,5 @@ S5 example fading factors reproduced (30 cells); S11 output crosswalk and coarse
 S4 aggregation: 22/20 accepted aliquots match source counts; arithmetic and inverse-variance means do not exactly reproduce stored weighted means. Preserve rejected rows and recover the actual weighting/input-version and shared-error definitions before final-age reproduction.
 
 Fraction central values now reproduced conditionally from stored dose summaries: 433.750 and 394.967 ka round to 434 and 395. Alternative fine rate yields 435.021 ka, matching Figure S1. Aggregation, uncertainty and pooled age remain unresolved; do not mistake a 1.27 ka variant for a revised chronology.
+
+Camp provenance: S18 combined-mineral formulas reference albite, pyrite and low-Mg calcite. Inspect original mineral exports and figure aggregation before correction. Diagnostic labelled amphibole/pyroxene sums change ratio magnitude but preserve upper-greater-than-lower direction. S16/S19 non-rejections do not uniquely locate source terrain.
