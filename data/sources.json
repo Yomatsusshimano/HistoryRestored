@@ -3136,8 +3136,8 @@
       "publication_date": "2014",
       "source_type": "original analytical supplement",
       "access": "SCAN_INSPECTED",
-      "inspected": "Figshare article12187278 file22408581 (904_Supp1.pdf). Pages1-3 visually checked; all Bouse/Lawlor rows transcribed with locators. Seven-page PDF hash f8471d7875cd50542ad1f99af53581512f739e76063316933ef17b5340100e46. Preparation note and header uncertainty labels inspected.",
-      "limitations": "No original ion-count records or independent analytical validation. Other sample groups not audited. Rounded ages and errors support limited arithmetic checks only; systematic covariance, full main-paper selection rationale and argon age calibration remain unverified. Same study as S195, not independent evidence.",
+      "inspected": "Figshare article12187278 file22408581 (904_Supp1.pdf). Pages1-3 visually checked; all Bouse/Lawlor rows transcribed with locators. Seven-page PDF hash f8471d7875cd50542ad1f99af53581512f739e76063316933ef17b5340100e46. Preparation note and header uncertainty labels inspected. Page5 Pre-Kilgore table visually checked; all 24 rows transcribed with prior-source markers and missing-cell styles.",
+      "limitations": "No original ion-count records or independent analytical validation. Candidate groups beyond Pre-Kilgore not audited. Duplicate HS14-2 labels and reused Watts2011 rows prevent assuming row independence. Descriptive oxygen contrasts do not establish unique source assignment. Rounded ages and errors support limited arithmetic checks only; systematic covariance, full main-paper selection rationale and argon age calibration remain unverified. Same study as S195, not independent evidence.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"

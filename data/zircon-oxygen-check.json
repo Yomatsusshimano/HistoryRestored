@@ -1,0 +1,75 @@
+{
+  "source_id": "S196",
+  "units": "per mil; published oxygen values",
+  "groups": {
+    "Bouse": {
+      "rows": 51,
+      "measured": 12,
+      "missing": 39,
+      "mean": 6.923333333333333,
+      "median": 7.08,
+      "minimum": 5.92,
+      "maximum": 7.47
+    },
+    "Lawlor": {
+      "rows": 52,
+      "measured": 20,
+      "missing": 32,
+      "mean": 6.628,
+      "median": 6.66,
+      "minimum": 5.77,
+      "maximum": 7.59
+    },
+    "Pre-Kilgore": {
+      "rows": 24,
+      "measured": 21,
+      "missing": 3,
+      "mean": 2.408571428571429,
+      "median": 1.96,
+      "minimum": 0.44,
+      "maximum": 5.52
+    },
+    "Pre-Kilgore unmarked": {
+      "rows": 15,
+      "measured": 13,
+      "missing": 2,
+      "mean": 2.143076923076923,
+      "median": 1.88,
+      "minimum": 0.44,
+      "maximum": 5.52
+    },
+    "Pre-Kilgore prior": {
+      "rows": 9,
+      "measured": 8,
+      "missing": 1,
+      "mean": 2.84,
+      "median": 2.205,
+      "minimum": 0.89,
+      "maximum": 5.45
+    }
+  },
+  "minimum_point_gap": 0.40000000000000036,
+  "gap_ids": [
+    "Amboy_r2-4",
+    "HS14-19_unmarked"
+  ],
+  "two_sigma_interval_overlap_pairs": [
+    [
+      "Amboy_r2-4",
+      "HS14-8_prior"
+    ],
+    [
+      "Amboy_r2-4",
+      "HS14-19_unmarked"
+    ],
+    [
+      "Buzzard_R3-15",
+      "HS14-8_prior"
+    ],
+    [
+      "Buzzard_R3-15",
+      "HS14-19_unmarked"
+    ]
+  ],
+  "limitations": "Unweighted descriptive summaries of selected analyses. Interval overlaps use printed one-sigma errors, not calibrated joint confidence or independent source-assignment tests. No unmeasured values filled; no grain-level independence assumed."
+}

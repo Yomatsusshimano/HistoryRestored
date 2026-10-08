@@ -20,3 +20,5 @@ The second mean rounds to the reported 4.94 Ma in the previously retrieved S195 
 Removed IDs: LAWL2-106, Lawlor2_z1-1, Lawlor1_z1-1, LAWL1-119, LAWL2-107, LAWL2-120, LAWL2-130 and LAWL1-109. There is no tied age at the boundary. All removed values remain public. Improved agreement with a single-age model does not independently justify a geological exclusion rule. No single-age fit is assigned to the mixed Bouse population.
 
 Run `python analysis/lawlor_age_check.py`; [saved output](../data/lawlor-age-check.json) includes retained and removed IDs. This concerns zircon crystallization, not the eruption or a historical shoreline. Next recover the full selection discussion and analytical covariance/standards, audit remaining candidate-tephra rows, and test primary deposition and stratigraphic transfer described in [the chronology audit](BOUSE-CHRONOLOGY.md).
+
+The subsequent [oxygen comparison](ZIRCON-OXYGEN-CHECK.md) extends the audit to all 24 Pre-Kilgore rows and tests composition separately from age similarity.
