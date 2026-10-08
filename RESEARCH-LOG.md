@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Complete first root-radius series and bounded reference search
+
+Previous turn made progress: b8d72b6 published seven verified files. Clean checkout rechecked. Transcribed all 30 decadal rows of GF2RTC from S61 PDF p. 3: 300 widths for source-assigned 1400-1699. Visually checked values against the rendered scan and confirmed the terminal decade matches prior extraction. Two other terminal decades retained, giving 320 stored widths; these are related radii, not independent trees. No new scientific dating result claimed.
+
+Retrieved all 92 unsuffixed Washington .crn headers selected from NOAA USA chronology directory; no Ozette/Jozsa/Parker label among first three lines. Saved filenames, headers, selection and limits. This is a bounded search, not archive-wide absence. Reference chronology and complete multi-radius transcription still needed before crossdating. Seventeen drafts, sixty-one sources; goal remains active.
+
 ## 2026-10-08 - Original Cascadia ring-width supplement recovered
 
 Previous turn made progress: 465dc97 published seven byte-verified files. Clean checkout rechecked. Retrieved Jacoby et al. 1997 article and followed its repository identifier to Figshare item 12335987, DOI 10.1130/9756. Downloaded 4,193,230-byte supplement; MD5 matches repository. Actual PDF has 45 pages versus catalog/cover 37. Visually inspected article pp. 1001-1002 and supplement PDF pp. 1-4, 43, 45. Corrected initial progress description of 37 pages after inspecting actual file.

@@ -1,0 +1,752 @@
+{
+  "checked_date": "2026-10-08",
+  "directory": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/",
+  "selection": "Names matching wa followed by digits and .crn; no suffix variants, measurements directory, or other states searched in this pass",
+  "inspection": "First three lines of each file",
+  "terms": [
+    "ozette",
+    "jozsa",
+    "parker"
+  ],
+  "case_sensitive": false,
+  "matching_headers": [],
+  "files": [
+    {
+      "file": "wa001.crn",
+      "header": [
+        "211    1 CHURCHILL MTN.                                      PSME               ",
+        "",
+        "211    2 WA, USA      DOUGLAS FIR       1372M  4859-11803W         1822 1975    "
+      ]
+    },
+    {
+      "file": "wa002.crn",
+      "header": [
+        "231    1 ST. PETER\"S CREEK                                   PSME               ",
+        "",
+        "231    2 WA, USA      DOUGLAS FIR       1676M  4846-11829W         1825 1975    "
+      ]
+    },
+    {
+      "file": "wa003.crn",
+      "header": [
+        "241    1 BIG BOULDER CREEK                                   PSME               ",
+        "",
+        "241    2 WA, USA      DOUGLAS FIR       3200M  4850-11818W         1743 1975    "
+      ]
+    },
+    {
+      "file": "wa004.crn",
+      "header": [
+        "271    1 LONG LAKE                                           PSME               ",
+        "",
+        "271    2 WA, USA      DOUGLAS FIR       1120M  4829-11848W         1822 1975    "
+      ]
+    },
+    {
+      "file": "wa005.crn",
+      "header": [
+        "281    1 SNACKOUT RD.                                        PSME               ",
+        "",
+        "281    2 WA, USA      DOUGLAS FIR       1219M  4850-11733W         1800 1975    "
+      ]
+    },
+    {
+      "file": "wa006.crn",
+      "header": [
+        "311    1 NEWPORT                                             PSME               ",
+        "",
+        "311    2 WA, USA      DOUGLAS FIR        914M  4818-11710W         1807 1975    "
+      ]
+    },
+    {
+      "file": "wa007.crn",
+      "header": [
+        "331    1 COLVILLE INDIAN RESERVATION                         PSME               ",
+        "",
+        "331    2 WA, USA      DOUGLAS FIR        988M  4815-11845W         1794 1975    "
+      ]
+    },
+    {
+      "file": "wa008.crn",
+      "header": [
+        "341    1 COLVILLE INDIAN RESERVATION                         PSME               ",
+        "",
+        "341    2 WA, USA      DOUGLAS FIR       1253M  4807-11847W         1791 1975    "
+      ]
+    },
+    {
+      "file": "wa009.crn",
+      "header": [
+        "503000 1 WAR CREEK                                           PIPO           1440",
+        "",
+        "503000 2 WASHINGTON   PINUS PONDEROSA   1224M  4825-12024          1695 1975    "
+      ]
+    },
+    {
+      "file": "wa010.crn",
+      "header": [
+        "513000 1 LUCKY POINT                                         PIPO           1440",
+        "",
+        "513000 2 WASHINGTON   PINUS PONDEROSA    765M  4830-11848          1653 1975    "
+      ]
+    },
+    {
+      "file": "wa011.crn",
+      "header": [
+        "533000 1 AENAES MOUNTAINS                                    PIPO           1440",
+        "",
+        "533000 2 WASHINGTON   PINUS PONDEROSA   1285M  4834-11909          1632 1975    "
+      ]
+    },
+    {
+      "file": "wa012.crn",
+      "header": [
+        "543000 1 KAMIAK BUTTE                                        PIPO           1440",
+        "",
+        "543000 2 WASHINGTON   PINUS PONDEROSA    765M  4651-11710          1813 1975    "
+      ]
+    },
+    {
+      "file": "wa013.crn",
+      "header": [
+        "553000 1 INDIAN RIDGE                                        PIPO           1440",
+        "",
+        "553000 2 WASHINGTON   PINUS PONDEROSA    918M  4613-11742          1623 1975    "
+      ]
+    },
+    {
+      "file": "wa014.crn",
+      "header": [
+        "563000 1 WINDY MEADOWS                                       PIPO           1440",
+        "",
+        "563000 2 WASHINGTON   PINUS PONDEROSA   1071M  4519-11848          1538 1975    "
+      ]
+    },
+    {
+      "file": "wa015.crn",
+      "header": [
+        "583000 1 GOVERNMENT CAMP                                     PIPO           1440",
+        "",
+        "583000 2 WASHINGTON   PINUS PONDEROSA   1775M  4739-12026          1640 1975    "
+      ]
+    },
+    {
+      "file": "wa016.crn",
+      "header": [
+        "603000 1 WINDY POINT RIDGE                                   PIPO           1440",
+        "",
+        "603000 2 WASHINGTON   PINUS PONDEROSA   1377M  4640-12056          1682 1975    "
+      ]
+    },
+    {
+      "file": "wa017.crn",
+      "header": [
+        "611000 1 SUMMIT LODE ROAD                                    PSME               ",
+        "",
+        "611000 2 WASHINGTON DOUGLAS-FIR         1224M 04640-12132          1420 1975    "
+      ]
+    },
+    {
+      "file": "wa018.crn",
+      "header": [
+        "633000 1 FORT LEWIS                                          PIPO           1440",
+        "",
+        "633000 2 WASHINGTON   PINUS PONDEROSA     61M  4702-12235          1887 1975    "
+      ]
+    },
+    {
+      "file": "wa019.crn",
+      "header": [
+        "651000 1 NOOKSAK FALLS                                       PSME           1440",
+        "",
+        "651000 2 WASHINGTON   DOUGLAS FIR        550M  4854-12148          1548 1976    "
+      ]
+    },
+    {
+      "file": "wa020.crn",
+      "header": [
+        "811000 1 DEER PARK BURN                                      PSME           1440",
+        "",
+        "811000 2 WASHINGTON   DOUGLAS FIR       1550M  4757-12315          1710 1976    "
+      ]
+    },
+    {
+      "file": "wa021.crn",
+      "header": [
+        "666000 1 WANLICK CREEK                                       TSHE           1440",
+        "",
+        "666000 2 WASHINGTON   T. HETEROPHYLLA    765M  4839-12150          1668 1975    "
+      ]
+    },
+    {
+      "file": "wa022.crn",
+      "header": [
+        "675000 1 RAINY PASS 1                                        PCEN           1440",
+        "",
+        "675000 2 WASHINGTON   PICEA ENGELMANNI  1468M  4829-12044          1708 1976    "
+      ]
+    },
+    {
+      "file": "wa023.crn",
+      "header": [
+        "671000 1 RAINY PASS 2                                        PSME           1440",
+        "",
+        "671000 2 WASHINGTON   DOUGLAS FIR       1468M  4829-12044          1748 1976    "
+      ]
+    },
+    {
+      "file": "wa024.crn",
+      "header": [
+        "685000 1 HART'S PASS                                         PCEN           1440",
+        "",
+        "685000 2 WASHINGTON   PICEA ENGELMANNI  2142M  4843-12039          1700 1976    "
+      ]
+    },
+    {
+      "file": "wa025.crn",
+      "header": [
+        "691000 1 ROSS LAKE                                           PSME           1440",
+        "",
+        "691000 2 WASHINGTON   DOUGLAS FIR        612M  4844-12103          1586 1976    "
+      ]
+    },
+    {
+      "file": "wa026.crn",
+      "header": [
+        "721000 1 BOX CANYON                                          PIPO           1440",
+        "",
+        "721000 2 WASHINGTON   PINUS PONDEROSA    775M  4559-12036          1607 1976    "
+      ]
+    },
+    {
+      "file": "wa027.crn",
+      "header": [
+        "731000 1 LAVA BEDS                                           PSME               ",
+        "",
+        "731000 2 WASHINGTON DOUGLAS-FIR          930M 04558-12159          1397 1975    "
+      ]
+    },
+    {
+      "file": "wa029.crn",
+      "header": [
+        "757000 1 BUTTE CAMP                                          ABPR           1440",
+        "",
+        "757000 2 WASHINGTON   ABIES PROCERA     1300M  4610-12212          1653 1976    "
+      ]
+    },
+    {
+      "file": "wa030.crn",
+      "header": [
+        "794000 1 FINDLEY LAKE                                        TSME           1440",
+        "",
+        "794000 2 WASHINGTON   T. MERTENSIANA    1270M  4723-12130          1800 1976    "
+      ]
+    },
+    {
+      "file": "wa031.crn",
+      "header": [
+        "841000 1 BOULDER SHELTER                                     PSME           1440",
+        "",
+        "841000 2 WASHINGTON   DOUGLAS FIR       1550M  4749-12309          1750 1976    "
+      ]
+    },
+    {
+      "file": "wa032.crn",
+      "header": [
+        "831000 1 HURRICANE RIDGE                                     PSME           1440",
+        "",
+        "831000 2 WASHINGTON   DOUGLAS FIR       1550M  4759-12328          1742 1976    "
+      ]
+    },
+    {
+      "file": "wa033.crn",
+      "header": [
+        "741000 1 DRY CREEK                                           PSME           1469",
+        "",
+        "741000 2 WASHINGTON   DOUGLAS FIR        810M  4553-12202          1534 1976    "
+      ]
+    },
+    {
+      "file": "wa034.crn",
+      "header": [
+        "711000 1 MT. PILCHUCK                                        PSME           1469",
+        "",
+        "711000 2 WASHINGTON   DOUGLAS FIR        710M  4808-12138          1628 1976    "
+      ]
+    },
+    {
+      "file": "wa035.crn",
+      "header": [
+        "808000 1 DEER PARK                                           ABLA           1469",
+        "",
+        "808000 2 WASHINGTON   ABIES LASIOCARPA  1860M  4751-12317          1788 1976    "
+      ]
+    },
+    {
+      "file": "wa036.crn",
+      "header": [
+        "821000 1 EAGLE POINT                                         PSME           1469",
+        "",
+        "821000 2 WASHINGTON   DOUGLAS FIR       1550M  4758-12328          1772 1976    "
+      ]
+    },
+    {
+      "file": "wa037.crn",
+      "header": [
+        "523000 1 BEAR CREEK                                          PIPO           1469",
+        "",
+        "523000 2 WASHINGTON   PINUS PONDEROSA   1085M  4817-12014          1648 1975    "
+      ]
+    },
+    {
+      "file": "wa038.crn",
+      "header": [
+        "593000 1 COLOCKUM PASS                                       PIPO           1469",
+        "",
+        "593000 2 WASHINGTON   PINUS PONDEROSA   1670M  4712-12017          1490 1975    "
+      ]
+    },
+    {
+      "file": "wa039.crn",
+      "header": [
+        "644000 1 BAKER SKI                                           TSME           1469",
+        "",
+        "644000 2 WASHINGTON   T. MERTEMSIANA    1330M  4850-12039          1331 1976    "
+      ]
+    },
+    {
+      "file": "wa040.crn",
+      "header": [
+        "622000 1 SUNRISE RIDGE                                       PIAL           1469",
+        "",
+        "622000 2 WASHINGTON   PINUS ALBICAULIS  1860M  4655-12144          1605 1976    "
+      ]
+    },
+    {
+      "file": "wa041.crn",
+      "header": [
+        "701000 1 SEGELSON PASS                                       PSME           1469",
+        "",
+        "701000 2 WASHINGTON   DOUGLAS FIR       1180M  4821-12145          1321 1976    "
+      ]
+    },
+    {
+      "file": "wa042.crn",
+      "header": [
+        "066548 1 BOULDER CREEK, WINTHROP, WASHINGTON  066548         PSME            369",
+        "",
+        "066548 2 WASHINGTON   DOUGLAS-FIR        701M  4835-12010          1520 1965    "
+      ]
+    },
+    {
+      "file": "wa043.crn",
+      "header": [
+        "066640 1 BOULDER CREEK, WINTHROP, WASHINGTON   066640        PIPO            369",
+        "",
+        "066640 2 WASHINGTON   PONDEROSA PINE     701M  4835-12010          1468 1965    "
+      ]
+    },
+    {
+      "file": "wa045.crn",
+      "header": [
+        "067547 1 PIPESTONE CANYON, TWISP, WASHINGTON   067547        PSME            566",
+        "",
+        "067547 2 WASHINGTON   DOUGLAS-FIR        914M  4825-12003          1700 1966    "
+      ]
+    },
+    {
+      "file": "wa046.crn",
+      "header": [
+        "CRATMT 1 CRATER MOUNTAIN                                     LALY               ",
+        "",
+        "CRATMT 2 WASHINGTON   SUBALPINE LARCH   1800M  4844-12054          1698 1989    "
+      ]
+    },
+    {
+      "file": "wa047.crn",
+      "header": [
+        "001PM0 1 Elliot Creek  INDEX                                 PSME                 ",
+        "",
+        "001PM0 2 Washington   Douglas-fir        805M  4803-12124          1248 1980      "
+      ]
+    },
+    {
+      "file": "wa048.crn",
+      "header": [
+        "002PM0 1 Frying Pan Creek  INDEX                             PSME                 ",
+        "",
+        "002PM0 2 Washington   Douglas-fir       1170M  4653-12137          1286 1979      "
+      ]
+    },
+    {
+      "file": "wa049.crn",
+      "header": [
+        "004PM0 1 Cougar Creek  INDEX                                 PSME                 ",
+        "",
+        "004PM0 2 Washington   Douglas-fir        747M  4804-12120          1500 1980      "
+      ]
+    },
+    {
+      "file": "wa050.crn",
+      "header": [
+        "005PM0 1 N. Fork White Creek  INDEX                          PSME                 ",
+        "",
+        "005PM0 2 Washington   Douglas-fir        914M  4701-12142          1447 1980      "
+      ]
+    },
+    {
+      "file": "wa051.crn",
+      "header": [
+        "006TM0 1 Oakes Pk  INDEX                                     TSME                 ",
+        "",
+        "006TM0 2 Washington   Mountain Hemlock  1140M  4838-12122          1401 1980      "
+      ]
+    },
+    {
+      "file": "wa052.crn",
+      "header": [
+        "007LO0 1 Haney Road  INDEX                                   LAOC                 ",
+        "",
+        "007LO0 2 Washington   Western Larch     1682M  4718-12033          1487 1980      "
+      ]
+    },
+    {
+      "file": "wa053.crn",
+      "header": [
+        "008PM0 1 Boulder Creek  INDEX                                PSME                 ",
+        "",
+        "008PM0 2 Washington   Douglas-fir        988M  4736-12335          1324 1980      "
+      ]
+    },
+    {
+      "file": "wa054.crn",
+      "header": [
+        "009PM0 1 Tunnel Creek  INDEX                                 PSME                 ",
+        "",
+        "009PM0 2 Washington   Douglas-fir        830M  4736-12314          1574 1980      "
+      ]
+    },
+    {
+      "file": "wa055.crn",
+      "header": [
+        "010PM0 1 Soleduck  INDEX                                     PSME                 ",
+        "",
+        "010PM0 2 Washington   Douglas-fir        750M  4759-12303          1499 1980      "
+      ]
+    },
+    {
+      "file": "wa056.crn",
+      "header": [
+        "011TM0 1 Granite Mtn  INDEX                                  TSME                 ",
+        "",
+        "011TM0 2 Washington   Mountain Hemlock  1530M  4725-12128          1259 1979      "
+      ]
+    },
+    {
+      "file": "wa057.crn",
+      "header": [
+        "012PA0 1 Paddy-Go-Easy Pass  INDEX                           PIAL                 ",
+        "",
+        "012PA0 2 Washington   Whitebark Pine    1840M  4732-12103          1430 1980      "
+      ]
+    },
+    {
+      "file": "wa058.crn",
+      "header": [
+        "013TM0 1 Wynoochee Falls  INDEX                              TSME                 ",
+        "",
+        "013TM0 2 Washington   Mountain Hemlock  1140M  4729-12335          1417 1980      "
+      ]
+    },
+    {
+      "file": "wa059.crn",
+      "header": [
+        "014PP0 1 Blewett Pass  INDEX                                 PIPO                 ",
+        "",
+        "014PP0 2 Washington   Ponderosa Pine    1240M  4721-12033          1433 1980      "
+      ]
+    },
+    {
+      "file": "wa060.crn",
+      "header": [
+        "015PP0 1 North Fork Campground  INDEX                        PIPO                 ",
+        "",
+        "015PP0 2 Washington   Ponderosa Pine     915M  4800-12036          1649 1980      "
+      ]
+    },
+    {
+      "file": "wa061.crn",
+      "header": [
+        "016LL0 1 Scatter Lake  INDEX                                 LALY                 ",
+        "",
+        "016LL0 2 Washington   Alpine Larch      2100M  4828-12030          1316 1980      "
+      ]
+    },
+    {
+      "file": "wa062.crn",
+      "header": [
+        "018PM0 1 The Dalles  INDEX                                   PSME                 ",
+        "",
+        "018PM0 2 Washington   Douglas-fir        790M  4704-12134          1601 1980      "
+      ]
+    },
+    {
+      "file": "wa063.crn",
+      "header": [
+        "019TM0 1 Chinook Pass  INDEX                                 TSME                 ",
+        "",
+        "019TM0 2 Washington   Mountain Hemlock  1660M  4651-12130          1586 1980      "
+      ]
+    },
+    {
+      "file": "wa064.crn",
+      "header": [
+        "043LL0 1 Sunrise Lake  INDEX                                 LALY                 ",
+        "",
+        "043LL0 2 Washington   Alpine Larch      2195M  4810-12022          1487 1982      "
+      ]
+    },
+    {
+      "file": "wa065.crn",
+      "header": [
+        "044LL0 1 Enchantment Lakes  INDEX                            LALY                 ",
+        "",
+        "044LL0 2 Washington   Alpine Larch      2164M  4730-12048          1542 1982      "
+      ]
+    },
+    {
+      "file": "wa066.crn",
+      "header": [
+        "045TM0 1 White Pass  INDEX                                   TSME                 ",
+        "",
+        "045TM0 2 Washington   Mountain Hemlock  1750M  4637-12125          1520 1982      "
+      ]
+    },
+    {
+      "file": "wa067.crn",
+      "header": [
+        "R1     1 HART'S PASS R1                                      LALY               ",
+        "",
+        "R1     2 WASHINGTON   SUBALPINE LARCH   2050M +4841-12038          1471 1991    "
+      ]
+    },
+    {
+      "file": "wa068.crn",
+      "header": [
+        "R1     1 HART'S PASS R1                                      PIAL               ",
+        "",
+        "R1     2 WASHINGTON   WHITEBARK PINE    2050M +4841-12038          1669 1991    "
+      ]
+    },
+    {
+      "file": "wa069.crn",
+      "header": [
+        "N1     1 HART'S PASS N1                                      LALY               ",
+        "",
+        "N1     2 WASHINGTON   SUBALPINE LARCH   1925M +4842-12039          1685 1991    "
+      ]
+    },
+    {
+      "file": "wa070.crn",
+      "header": [
+        "N1     1 HART'S PASS N1                                      ABLA               ",
+        "",
+        "N1     2 WASHINGTON   SUBALPINE FIR     1925M +4842-12039          1722 1991    "
+      ]
+    },
+    {
+      "file": "wa071.crn",
+      "header": [
+        "N1     1 HART'S PASS N1                                      PCEN               ",
+        "",
+        "N1     2 WASHINGTON   ENGELMANN SPRUCE  1925M +4842-12039          1585 1991    "
+      ]
+    },
+    {
+      "file": "wa072.crn",
+      "header": [
+        "N2     1 HART'S PASS N2                                      LALY               ",
+        "",
+        "N2     2 WASHINGTON   SUBALPINE LARCH   2000M +4844-12039          1529 1990    "
+      ]
+    },
+    {
+      "file": "wa073.crn",
+      "header": [
+        "N2     1 HART'S PASS N2                                      ABLA               ",
+        "",
+        "N2     2 WASHINGTON   SUBALPINE FIR     2000M +4844-12039          1683 1990    "
+      ]
+    },
+    {
+      "file": "wa074.crn",
+      "header": [
+        "N2     1 HART'S PASS N2                                      PCEN               ",
+        "",
+        "N2     2 WASHINGTON   ENGELMANN SPRUCE  2000M +4844-12039          1590 1990    "
+      ]
+    },
+    {
+      "file": "wa075.crn",
+      "header": [
+        "V1     1 HART'S PASS V1                                      PCEN               ",
+        "",
+        "V1     2 WASHINGTON   ENGELMANN SPRUCE  1875M +4841-12039          1809 1990    "
+      ]
+    },
+    {
+      "file": "wa076.crn",
+      "header": [
+        "V1     1 HART'S PASS V1                                      ABLA               ",
+        "",
+        "V1     2 WASHINGTON   SUBALPINE FIR     1875M +4841-12039          1844 1990    "
+      ]
+    },
+    {
+      "file": "wa077.crn",
+      "header": [
+        "V2     1 HART'S PASS V2                                      ABLA               ",
+        "",
+        "V2     2 WASHINGTON   SUBALPINE FIR     1825M +4845-12038          1679 1991    "
+      ]
+    },
+    {
+      "file": "wa078.crn",
+      "header": [
+        "V2     1 HART'S PASS V2                                      PCEN               ",
+        "",
+        "V2     2 WASHINGTON   ENGELMANN SPRUCE  1825M +4845-12038          1636 1990    "
+      ]
+    },
+    {
+      "file": "wa079.crn",
+      "header": [
+        "R2     1 HART'S PASS R2                                      LALY               ",
+        "",
+        "R2     2 WASHINGTON   SUBALPINE LARCH   2050M +4842-12039          1585 1991    "
+      ]
+    },
+    {
+      "file": "wa080.crn",
+      "header": [
+        "S1     1 HART'S PASS S1                                      ABLA               ",
+        "",
+        "S1     2 WASHINGTON   SUBALPINE FIR     1825M +4843-12039          1756 1992    "
+      ]
+    },
+    {
+      "file": "wa081.crn",
+      "header": [
+        "710    1 Mt.St.Helens WIDTH_RING ABAM -                                           STD",
+        "710    2 United States of America   Pacific silver fir 1200  4609-12209 1609 19   STD",
+        "710    3 FRITZ SCHWEINGRUBER -                                                    STD"
+      ]
+    },
+    {
+      "file": "wa082.crn",
+      "header": [
+        "712    1 Hurricane Ridge WIDTH_RING ABAM -                                        STD",
+        "712    2 United States of America   Pacific silver fir 1560  4757-12328 1698 19   STD",
+        "712    3 FRITZ SCHWEINGRUBER -                                                    STD"
+      ]
+    },
+    {
+      "file": "wa083.crn",
+      "header": [
+        "734    1 Sherman Cr. Pass WIDTH_RING LAOC -                                       STD",
+        "734    2 United States of America   Western larch 1800  4842-11820 1605 1983 -    STD",
+        "734    3 FRITZ SCHWEINGRUBER -                                                    STD"
+      ]
+    },
+    {
+      "file": "wa084.crn",
+      "header": [
+        "693    1 Mt. Angeles WIDTH_RING PSME -                                            STD",
+        "693    2 United States of America   bigcone Douglas-fir 1360  4758-12326 1750 1   STD",
+        "693    3 FRITZ SCHWEINGRUBER -                                                    STD"
+      ]
+    },
+    {
+      "file": "wa085.crn",
+      "header": [
+        "ALT    1 ANNETTE LAKE TRAIL                                  PSME               ",
+        "",
+        "ALT    2 WASHINGTON   DOUGLAS-FIR       0798M +4722-12120 Standard 1515 1987    "
+      ]
+    },
+    {
+      "file": "wa086.crn",
+      "header": [
+        "BQR    1 BIG QUILCENE RIVER TRAIL                            PSME               ",
+        "",
+        "BQR    2 WASHINGTON   DOUGLAS-FIR       0867M +4750-12302 Standard 1288 1987    "
+      ]
+    },
+    {
+      "file": "wa087.crn",
+      "header": [
+        "DCP    1 DEER CREEK PASS                                     PSME               ",
+        "",
+        "DCP    2 WASHINGTON   DOUGLAS-FIR       1052M +4820-12143 Standard 1502 1987    "
+      ]
+    },
+    {
+      "file": "wa088.crn",
+      "header": [
+        "ORT    1 OLYMPIC ROAD 3116                                   PSME               ",
+        "",
+        "ORT    2 WASHINGTON   DOUGLAS-FIR       0267M +4800-12400 Standard 1394 1987    "
+      ]
+    },
+    {
+      "file": "wa089.crn",
+      "header": [
+        "SIL    1 SILVER CREEK                                        PSME               ",
+        "",
+        "SIL    2 WASHINGTON   DOUGLAS-FIR       0900M +4638-12150 Standard 1539 1987    "
+      ]
+    },
+    {
+      "file": "wa090.crn",
+      "header": [
+        "SJH    1 SAN JUAN HILL                                       PSME               ",
+        "",
+        "SJH    2 WASHINGTON   DOUGLAS-FIR       0967M +4753-12120 Standard 1326 1987    "
+      ]
+    },
+    {
+      "file": "wa091.crn",
+      "header": [
+        "TCT    1 TAHOMA CREEK TRAILHEAD                              PSME               ",
+        "",
+        "TCT    2 WASHINGTON   DOUGLAS-FIR       0970M +4648-12153 Standard 1410 1987    "
+      ]
+    },
+    {
+      "file": "wa129.crn",
+      "header": [
+        "LI     1 Long Island, Willapa Bay                            THPL               ",
+        "LI     2 Washington   W. Red Cedar        50M  4627-12358    __     991 1986    ",
+        "LI     3 Dave Yamaguchi                                                         "
+      ]
+    },
+    {
+      "file": "wa153.crn",
+      "header": [
+        "FBU    1 Mount Baker                                         TSME",
+        "",
+        "FBU    2 Washington     Tsuga mertensiana 1411   4879-12187  __   1659 2018    "
+      ]
+    },
+    {
+      "file": "wa154.crn",
+      "header": [
+        "SRL    1 Sunrise Lake Update                              LALY",
+        "",
+        "SRL    2 Washington       Larix lyallii 1619   4816-12035  __   1161 2018    "
+      ]
+    }
+  ],
+  "limitation": "No matching label among inspected headers does not establish dataset absence or rule out a renamed or differently classified chronology."
+}
