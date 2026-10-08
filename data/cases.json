@@ -801,6 +801,11 @@
           "source_id": "S140",
           "locator": "pp.94-95; separate Cuban comparator",
           "statement": "Additional island evidence is retained separately; it does not redetermine any Haitian specimen."
+        },
+        {
+          "source_id": "S141",
+          "locator": "p.69; Cuban comparator only",
+          "statement": "Original report supplies human assay identity and a sloth-element description needing reconciliation with the later dated specimen."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",

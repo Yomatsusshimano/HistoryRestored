@@ -176,3 +176,5 @@ Coyote wildlife extension: dependent fossil age assignments and uncertainty mism
 Coyote burial-contact follow-up: recover the original profiles behind S139 and crosswalk its four-sequence claim to S32 bed labels and bone IDs. Separate local bed formation from distinct floods before counting events or assigning duration.
 
 Island sloth comparison extended to a separate Cuban record. Recover original preparation certificates and Solapa de Silex excavation context; do not merge its dates into the Haitian specimen test or equate an unsuccessful assay with an age.
+
+Cuban original report recovered: use Hd-21185 / Cuba 6 for laboratory follow-up. Resolve incisor/molariform specimen linkage before transferring excavation depth to Beta 206173. Original field and preparation records still needed.

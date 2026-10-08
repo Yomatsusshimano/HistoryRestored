@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Original Cuban excavation report
+
+Previous turn made progress: 8066079 published seven verified files. Recovered archived 2004 journal PDF and visually inspected p.69. Filled the human assay identifier and preserved original calibration metadata; flagged unresolved sloth specimen linkage before assigning depth. No new date or common burial inferred. Full goal remains active.
+
 ## 2026-10-08 - Island sloth comparator
 
 Previous turn made progress: a290296 published seven verified files. Haitian preparation access remains unsuccessful. Recovered S140 discovery/dating text and a structured Cuban comparator with explicit failed-assay semantics. Kept it out of the Haitian calculation; no extinction or common-deposition date inferred. Original preparation and excavation records remain next evidence requirements. Full goal remains active.

@@ -26,8 +26,8 @@
     },
     {
       "taxon": "Homo sapiens",
-      "element": "skeletal remains",
-      "lab_id": null,
+      "element": "femur fragment",
+      "lab_id": "Hd-21185",
       "laboratory": "Institut fur Umweltphysik, Heidelberg",
       "radiocarbon_BP": 2987,
       "reported_error": 37,
@@ -36,7 +36,25 @@
         3010,
         3330
       ],
-      "calendar_interval_level": "2 sigma"
+      "calendar_interval_level": "2 sigma",
+      "sample_name": "Cuba 6",
+      "identity_source_id": "S141",
+      "identity_locator": "p.69 text and footnote 1",
+      "original_calibration": {
+        "source_id": "S141",
+        "curve": "INTCAL98",
+        "software": "CALIB4",
+        "one_sigma_cal_BC": [
+          1295,
+          1135
+        ],
+        "two_sigma_cal_BC": [
+          1375,
+          1055
+        ],
+        "retention": "Original BC endpoints preserved; S140 calendar BP interval retained separately"
+      },
+      "reporting_discrepancy": "Body calls 2987 +/-37 calibrated; footnote explicitly labels it conventional radiocarbon BP."
     },
     {
       "taxon": "Parocnus browni",
@@ -49,5 +67,20 @@
     }
   ],
   "null_semantics": "Not supplied in inspected text; never zero or proof of omitted laboratory work.",
-  "independent_review": false
+  "independent_review": false,
+  "specimen_link_audit": {
+    "source_id": "S141",
+    "locator": "p.69 left column",
+    "reported_element": "right lower incisor fragment",
+    "reported_taxon": "Megalocnus rodens",
+    "excavation_level": 3,
+    "depth_cm": [
+      20,
+      30
+    ],
+    "corresponds_to_Beta_206173": null,
+    "reason": "S140 describes a molariform; no accession or submission crosswalk recovered.",
+    "authors_interpretation": "Possibly pre-existing fossil mixed with food remains; not considered dietary evidence.",
+    "inference": "Do not assign this depth to the dated tooth without resolving specimen identity."
+  }
 }

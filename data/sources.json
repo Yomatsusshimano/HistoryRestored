@@ -2244,6 +2244,22 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S141",
+      "title": "Arqueologia precolombina del municipio Boyeros",
+      "creator": "Rolando Crespo Diaz and Osvaldo Jimenez Vazquez",
+      "publication_date": "2004",
+      "url": "https://web.archive.org/web/20180425103634id_/http://www.cubaarqueologica.org/document/bga3.pdf",
+      "source_type": "Original archaeological report, archived journal scan",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed/PDF p.69 visually checked; pp.67-68 text read through Scribd mirror.",
+      "limitations": "Published report, not original field notebook or laboratory certificate. Sloth specimen correspondence unresolved.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "b99d95e1172a295d05a666fdebda015fd388ef1c73766a4bc3c26a5680e24426",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "text_mirror": "https://es.scribd.com/document/544372285/03Bol-Gab-Arqueol-No-3"
     }
   ]
 }
