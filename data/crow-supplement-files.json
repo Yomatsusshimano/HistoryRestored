@@ -7,7 +7,7 @@
       "url": "https://ndownloader.figshare.com/files/25972898",
       "bytes": 2995622,
       "sha256": "da95aa4426441373d4665d0839121913651652f5801ec87f38cdcbe4c75c29b8",
-      "inspection": "PDF pages1-2 visually inspected; remaining extracted text read, figures unaudited"
+      "inspection": "PDF pages1-2 visually inspected; remaining extracted text read, figures unaudited; follow-up pp6-7 visually inspected"
     },
     {
       "name": "G48080_SuppTab1.xlsx",
@@ -21,14 +21,14 @@
       "url": "https://ndownloader.figshare.com/files/25972904",
       "bytes": 2471928,
       "sha256": "9bedd2c351880c6889e8862014c9f8ccd43f5c318115ba26f498a0a625c19c1c",
-      "inspection": "Sheet names and dimensions only; analytical contents unaudited"
+      "inspection": "Summary sheet read; Highwall rows24-45 extracted and weighted-mean arithmetic reproduced. Other analytical/raw sheets unaudited."
     },
     {
       "name": "G48080_SuppTab3.xlsx",
       "url": "https://ndownloader.figshare.com/files/25972907",
       "bytes": 150441,
       "sha256": "f2d5283df26bcdd6fda30368573515fd78f51b8d3dfc249abb8c2521744faa9e",
-      "inspection": "Sheet names and dimensions only; analytical contents unaudited"
+      "inspection": "RC15-HWW-107 headers and initial rows read; full raw-age recalibration and crosswalk unaudited."
     },
     {
       "name": "G48080_SuppTab4.xlsx",
@@ -49,7 +49,7 @@
       "url": "https://ndownloader.figshare.com/files/25972916",
       "bytes": 22243,
       "sha256": "f86de6cdec7dcf9b9e62b45b5898f538d7e29812357efb828561ae6d85d1660c",
-      "inspection": "Sheet names and dimensions only; analytical contents unaudited"
+      "inspection": "All36 specimen rows and footnote extracted; workbook not rendered; no vector refit or reversal-test reproduction."
     }
   ]
 }

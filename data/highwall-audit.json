@@ -1,0 +1,487 @@
+{
+  "source_id": "S210",
+  "scope": "Stored selected age rows and all Table6 specimen rows. No raw isotope or magnetic-vector refit.",
+  "files": {
+    "2": "9bedd2c351880c6889e8862014c9f8ccd43f5c318115ba26f498a0a625c19c1c",
+    "6": "f86de6cdec7dcf9b9e62b45b5898f538d7e29812357efb828561ae6d85d1660c"
+  },
+  "selected_ages": [
+    {
+      "row": 24,
+      "age_Ma": 4.270431602652876,
+      "one_sigma_Ma": 0.8697111911521017
+    },
+    {
+      "row": 25,
+      "age_Ma": 4.739179941020879,
+      "one_sigma_Ma": 0.350576320117225
+    },
+    {
+      "row": 26,
+      "age_Ma": 4.740731976969362,
+      "one_sigma_Ma": 0.2750610622179116
+    },
+    {
+      "row": 27,
+      "age_Ma": 4.972587,
+      "one_sigma_Ma": 0.6318045
+    },
+    {
+      "row": 28,
+      "age_Ma": 4.944218182059574,
+      "one_sigma_Ma": 0.593245095578869
+    },
+    {
+      "row": 29,
+      "age_Ma": 4.9904757148519,
+      "one_sigma_Ma": 0.22792663860728463
+    },
+    {
+      "row": 30,
+      "age_Ma": 5.0247234050923115,
+      "one_sigma_Ma": 0.7544608237137033
+    },
+    {
+      "row": 31,
+      "age_Ma": 5.232624,
+      "one_sigma_Ma": 0.1078586
+    },
+    {
+      "row": 32,
+      "age_Ma": 5.221045998201259,
+      "one_sigma_Ma": 0.2845051693555918
+    },
+    {
+      "row": 33,
+      "age_Ma": 5.312948,
+      "one_sigma_Ma": 0.0958746
+    },
+    {
+      "row": 34,
+      "age_Ma": 5.246284594364656,
+      "one_sigma_Ma": 0.2037638335427936
+    },
+    {
+      "row": 35,
+      "age_Ma": 5.388429,
+      "one_sigma_Ma": 0.0923276
+    },
+    {
+      "row": 36,
+      "age_Ma": 5.332008792030904,
+      "one_sigma_Ma": 0.1375861504063086
+    },
+    {
+      "row": 37,
+      "age_Ma": 5.42804,
+      "one_sigma_Ma": 0.0729937
+    },
+    {
+      "row": 38,
+      "age_Ma": 5.44746,
+      "one_sigma_Ma": 0.080724
+    },
+    {
+      "row": 39,
+      "age_Ma": 5.490047,
+      "one_sigma_Ma": 0.1387682
+    },
+    {
+      "row": 40,
+      "age_Ma": 5.706079,
+      "one_sigma_Ma": 0.8340738
+    },
+    {
+      "row": 41,
+      "age_Ma": 5.683853304315755,
+      "one_sigma_Ma": 0.41306256093583016
+    },
+    {
+      "row": 42,
+      "age_Ma": 5.789143016137265,
+      "one_sigma_Ma": 0.46029188923088776
+    }
+  ],
+  "reported": {
+    "mean_Ma": 5.353182864010134,
+    "two_sigma_Ma": 0.072665135375578,
+    "MSWD": 1.13,
+    "selection": "19 of 151"
+  },
+  "calculated": {
+    "mean_Ma": 5.353182864010134,
+    "MSWD": 1.1292379476884036,
+    "two_sigma_internal_Ma": 0.0683806705067924,
+    "two_sigma_scatter_scaled_Ma": 0.07266513537557796
+  },
+  "magnetic_specimens": [
+    {
+      "row": 3,
+      "sample": "HWW 1",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 344.1,
+      "inclination": 52.2,
+      "MAD": 5.4,
+      "rank": "B"
+    },
+    {
+      "row": 4,
+      "sample": "HWW 2-1",
+      "demagnetization": "TH",
+      "polarity": "AMBIG",
+      "declination": 201.8,
+      "inclination": 19.8,
+      "MAD": 6.4,
+      "rank": "B"
+    },
+    {
+      "row": 5,
+      "sample": "HWW 3-1",
+      "demagnetization": "AF/LTD",
+      "polarity": "N/A",
+      "declination": null,
+      "inclination": null,
+      "MAD": null,
+      "rank": "D"
+    },
+    {
+      "row": 6,
+      "sample": "HWW 3-2",
+      "demagnetization": "TH",
+      "polarity": "AMBIG",
+      "declination": 137.3,
+      "inclination": 46.9,
+      "MAD": 7.6,
+      "rank": "A"
+    },
+    {
+      "row": 7,
+      "sample": "HWW 3-3",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 355.2,
+      "inclination": 66.3,
+      "MAD": 6.7,
+      "rank": "B"
+    },
+    {
+      "row": 8,
+      "sample": "HWW 5-1",
+      "demagnetization": "AF/LTD",
+      "polarity": "AMBIG",
+      "declination": 16.9,
+      "inclination": -33,
+      "MAD": 10.4,
+      "rank": "C"
+    },
+    {
+      "row": 9,
+      "sample": "HWW 5-2",
+      "demagnetization": "TH",
+      "polarity": "R",
+      "declination": 123.3,
+      "inclination": -45.7,
+      "MAD": 10.2,
+      "rank": "A"
+    },
+    {
+      "row": 10,
+      "sample": "HWW 6-1",
+      "demagnetization": "AF/LTD",
+      "polarity": "R",
+      "declination": 137.1,
+      "inclination": -29.5,
+      "MAD": 9.9,
+      "rank": "B"
+    },
+    {
+      "row": 11,
+      "sample": "HWW 6-6",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 305.3,
+      "inclination": 61.1,
+      "MAD": 3.1,
+      "rank": "B"
+    },
+    {
+      "row": 12,
+      "sample": "HWW 6-7",
+      "demagnetization": "AF/LTD",
+      "polarity": "R",
+      "declination": 198,
+      "inclination": -17.2,
+      "MAD": 8.5,
+      "rank": "A"
+    },
+    {
+      "row": 13,
+      "sample": "HWW 6-8",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 322.5,
+      "inclination": 66.7,
+      "MAD": 5.6,
+      "rank": "A"
+    },
+    {
+      "row": 14,
+      "sample": "HWW 6-9",
+      "demagnetization": "TH",
+      "polarity": "N/A",
+      "declination": "  ",
+      "inclination": null,
+      "MAD": null,
+      "rank": "D"
+    },
+    {
+      "row": 15,
+      "sample": "HWW 6-10",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 282.8,
+      "inclination": 68.3,
+      "MAD": 7.9,
+      "rank": "C"
+    },
+    {
+      "row": 16,
+      "sample": "HWW 7-1",
+      "demagnetization": "AF/LTD",
+      "polarity": "R",
+      "declination": 197,
+      "inclination": -52,
+      "MAD": 4.7,
+      "rank": "C"
+    },
+    {
+      "row": 17,
+      "sample": "HWW 8-1",
+      "demagnetization": "AF/LTD",
+      "polarity": "R",
+      "declination": 177.6,
+      "inclination": -28.8,
+      "MAD": 8.6,
+      "rank": "A"
+    },
+    {
+      "row": 18,
+      "sample": "HWW 8-2",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 304.4,
+      "inclination": 16.5,
+      "MAD": 10.2,
+      "rank": "B"
+    },
+    {
+      "row": 19,
+      "sample": "HWW 9-1",
+      "demagnetization": "AF",
+      "polarity": "N",
+      "declination": 345.9,
+      "inclination": 71,
+      "MAD": 9.3,
+      "rank": "B"
+    },
+    {
+      "row": 20,
+      "sample": "HWW 9-2",
+      "demagnetization": "AF/LTD",
+      "polarity": "N",
+      "declination": 330.7,
+      "inclination": 76,
+      "MAD": 3.1,
+      "rank": "B"
+    },
+    {
+      "row": 21,
+      "sample": "HWW 9-3",
+      "demagnetization": "AF",
+      "polarity": "N/A",
+      "declination": null,
+      "inclination": null,
+      "MAD": null,
+      "rank": "D"
+    },
+    {
+      "row": 22,
+      "sample": "HWW 9-6",
+      "demagnetization": "AF",
+      "polarity": "N",
+      "declination": 348,
+      "inclination": 66.4,
+      "MAD": 4.8,
+      "rank": "B"
+    },
+    {
+      "row": 23,
+      "sample": "HWW 9-7",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 10.3,
+      "inclination": 65.6,
+      "MAD": 2.7,
+      "rank": "B"
+    },
+    {
+      "row": 24,
+      "sample": "HWW 9-8",
+      "demagnetization": "AF",
+      "polarity": "N",
+      "declination": 312.7,
+      "inclination": 62,
+      "MAD": 2.7,
+      "rank": "B"
+    },
+    {
+      "row": 25,
+      "sample": "HWW 9-9",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 1.7,
+      "inclination": 67.4,
+      "MAD": 10.7,
+      "rank": "B"
+    },
+    {
+      "row": 26,
+      "sample": "HWW 9-10",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 315.3,
+      "inclination": 33.3,
+      "MAD": 5.6,
+      "rank": "C"
+    },
+    {
+      "row": 27,
+      "sample": "HWW 9-11",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 21.6,
+      "inclination": 43.1,
+      "MAD": 8.4,
+      "rank": "C"
+    },
+    {
+      "row": 28,
+      "sample": "HWW 10-1",
+      "demagnetization": "AF",
+      "polarity": "N",
+      "declination": 295.3,
+      "inclination": 67.9,
+      "MAD": 8.5,
+      "rank": "B"
+    },
+    {
+      "row": 29,
+      "sample": "HWW 10-2",
+      "demagnetization": "TH",
+      "polarity": "N/A",
+      "declination": null,
+      "inclination": null,
+      "MAD": null,
+      "rank": "D"
+    },
+    {
+      "row": 30,
+      "sample": "HWW 11-1",
+      "demagnetization": "AF",
+      "polarity": "N",
+      "declination": 4.8,
+      "inclination": 67.9,
+      "MAD": 15,
+      "rank": "C"
+    },
+    {
+      "row": 31,
+      "sample": "HWW 11-2",
+      "demagnetization": "AF",
+      "polarity": "N",
+      "declination": 356.6,
+      "inclination": 53.3,
+      "MAD": 2.4,
+      "rank": "A"
+    },
+    {
+      "row": 32,
+      "sample": "HWW 11-3",
+      "demagnetization": "AF/LTD",
+      "polarity": "N",
+      "declination": 334,
+      "inclination": 72.6,
+      "MAD": 11.3,
+      "rank": "C"
+    },
+    {
+      "row": 33,
+      "sample": "HWW 11-4",
+      "demagnetization": "TH",
+      "polarity": "N/A",
+      "declination": null,
+      "inclination": null,
+      "MAD": null,
+      "rank": "D"
+    },
+    {
+      "row": 34,
+      "sample": "HWW 11-7",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 26.3,
+      "inclination": 44.9,
+      "MAD": 15,
+      "rank": "B"
+    },
+    {
+      "row": 35,
+      "sample": "HWW 12-1A",
+      "demagnetization": "AF",
+      "polarity": "N",
+      "declination": 53.1,
+      "inclination": 61,
+      "MAD": 6.2,
+      "rank": "B"
+    },
+    {
+      "row": 36,
+      "sample": "HWW 12-7",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 6.3,
+      "inclination": 56.7,
+      "MAD": 5.2,
+      "rank": "B"
+    },
+    {
+      "row": 37,
+      "sample": "HWW 12-8",
+      "demagnetization": "AF",
+      "polarity": "N",
+      "declination": 23.3,
+      "inclination": 62.5,
+      "MAD": 5.2,
+      "rank": "B"
+    },
+    {
+      "row": 38,
+      "sample": "HWW 12-9",
+      "demagnetization": "TH",
+      "polarity": "N",
+      "declination": 20.1,
+      "inclination": 64,
+      "MAD": 3.4,
+      "rank": "A"
+    }
+  ],
+  "polarity_counts": {
+    "N": 23,
+    "AMBIG": 3,
+    "N/A": 5,
+    "R": 5
+  },
+  "table6_note": "Data table showing sample name, demagnetization technique (TH=thermal, AF=alternating field, LTD=low temperature demagnetization), polarity (N=normal, R=reverse), magnetization declination (DEC) and inclination (INC), mean angular deviation (MAD) of characteristic magnetization, and “quality” of characteristic magnetization, ranked from A=highest to D=lowest (see methods). All paleomagnetic samples were collected at a single outcrop located at 32.381873, -114.574136.",
+  "coordinate_status": "Source-reported only; not independently geolocated or corrected."
+}

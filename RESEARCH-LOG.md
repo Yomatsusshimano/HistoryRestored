@@ -933,3 +933,8 @@ Previous turn published verified synthesis; clean tree confirmed. Retrieved/hash
 ### 2026-10-08 — Crow supplemental calibration audit
 
 The model-switch acknowledgement made no research progress; clean checkout revalidated. Confirmed seven recovered files and inspected methods scans plus Table1 stored cells/styles/formulas. Preserved Lawlor recalibration versions, conditional mean mismatch and17 broken auxiliary references. Published reproducible extraction with explicit independence assumption. Main paper remains abstract-only; other workbook analyses and fault duplication remain unverified. No revised eruption age, historical-age inference or independent review claimed.
+
+
+### 2026-10-08 — Highwall Wash arithmetic and reversal limits
+
+Previous turn made verified public progress; clean tree confirmed. Read original workbook cells and visually inspected supplemental pp6-7. Reproduced weighted mean, MSWD and two-sigma scatter-scaled uncertainty, narrowing earlier formula concern. Extracted all36 magnetic records with mixed groups and retained authors' failed reversal test. Preserved unreconciled Table1 summary and source coordinate without silent correction. No raw isotope/vector refit, full grain-selection audit or independent review claimed.

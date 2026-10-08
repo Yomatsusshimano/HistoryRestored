@@ -41,3 +41,6 @@ No spreadsheet was recalculated or visually rendered. The six workbook layouts w
 A recalibrated age is not an independent new measurement or evidence of deliberate alteration. This supplement makes assumptions and several reproducibility questions inspectable. It neither supplies a historical-era date nor establishes a shared catastrophe. Transferring any eruption age to a named Bouse fossil bed still requires the stratigraphic tests in [the age-transfer audit](BOUSE-AGE-TRANSFER.md).
 
 Next: reconcile the Lawlor summary with original inputs and covariance, audit the Highwall Wash sample across Tables2/3/6, and recover the main paper and Comment/Reply before evaluating the fault-duplication explanation. The PDF's magnetostratigraphy text has been read as a lead, but its diagrams and sample-level polarity results are not yet audited here.
+
+
+Follow-up: [Highwall Wash audit](HIGHWALL-WASH.md) reproduces the Table2 mean and scatter-scaled uncertainty, narrowing the prose-formula concern. It also records the authors' failed local reversal test and all36 magnetic specimen results. The earlier inspection limits above describe the first audit.

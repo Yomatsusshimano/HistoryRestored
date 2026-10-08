@@ -307,3 +307,6 @@ S208 identifies younger regional controls, especially Nomlaki tephra in a post-B
 
 
 S210 supplement recovered and hashed; methods pp1-2 and selected Lawlor Table1 cells audited. Next reconcile preferred summary/covariance, Highwall Wash Tables2/3/6 and main-paper fault argument. Do not repeat supplemental retrieval as pending. Broken auxiliary references and prose error-expression issue remain scoped reproducibility questions.
+
+
+Highwall follow-up reproduces selected19-age mean/MSWD/uncertainty and preserves36 magnetic specimens. Next Schwing2019 reversal analysis/location, Table1/2/3 version crosswalk and bed linkage. Local reversal test explicitly failed; do not present as confirmed independent anchor.

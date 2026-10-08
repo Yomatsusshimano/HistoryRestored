@@ -553,6 +553,11 @@
           "source_id": "S210",
           "locator": "Methods PDF pp1-2; Table1 Sheet1 rows20-24,59-64; Sheet2 broken formulas",
           "statement": "Supplement documents calibration assumptions and revised Lawlor ages. Displayed Berkeley pair gives a conditional weighted mean differing from the preferred stored summary; auxiliary sheet has17 broken references. These reproducibility limits do not establish false ages or historical-era deposition; see research/CROW-SUPPLEMENT-AUDIT.md."
+        },
+        {
+          "source_id": "S210",
+          "locator": "Table2 summary data rows24-45; Table6 rows3-39; methods PDF pp6-7",
+          "statement": "Highwall selected19-age mean and MSWD-scaled uncertainty reproduce from stored inputs. All36 magnetic specimen records preserve mixed polarities; authors explicitly report a failed local reversal test and a provisional correlation to Lost Cabin Wash. Neither arithmetic agreement nor provisional correlation dates all Bouse beds."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

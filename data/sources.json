@@ -3332,8 +3332,8 @@
       "publication_date": "2021",
       "source_type": "original methods and supplementary analytical workbooks",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "Methods PDF pp1-2 visually checked; other extracted text read. Table1 stored cells read and Lawlor rows20-24/formula references audited. Other workbook layouts inventoried. See research/CROW-SUPPLEMENT-AUDIT.md.",
-      "limitations": "Main paper remains abstract-only. Tables2-6 analyses, fault geometry, full recalibration and shared uncertainties unaudited. No workbook rendering or formula execution. Text error-expression discrepancy and summary mismatch preserved.",
+      "inspected": "Methods PDF pp1-2 visually checked; other extracted text read. Table1 stored cells read and Lawlor rows20-24/formula references audited. Other workbook layouts inventoried. See research/CROW-SUPPLEMENT-AUDIT.md. Follow-up: PDF pp6-7 visually checked, Table2 Highwall selected19 rows recomputed and all36 Table6 specimen records extracted; research/HIGHWALL-WASH.md.",
+      "limitations": "Main paper/fault geometry and raw isotope/vector reductions unverified. Lawlor summary discrepancy persists. Highwall summary arithmetic reproduces, but selection/covariance and Table1/Table2/Table3 crosswalk remain open. Authors report failed Highwall reversal test. Workbooks not rendered or executed.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
