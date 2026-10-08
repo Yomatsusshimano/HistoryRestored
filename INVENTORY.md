@@ -104,32 +104,34 @@ Place: Ellesmere Island, Nunavut, Canada. Status: SOURCED_DRAFT.
 
 ## C004: Cascadia tsunami and coastal subsidence
 
-Place: Salmon River estuary, Oregon; wider Cascadia. Status: SOURCED_DRAFT.
+Place: Washington estuaries in tree-ring study; Salmon River estuary, Oregon in separate sediment-summary lead; wider Cascadia. Status: SOURCED_DRAFT.
 
 **Sourced statements**
 
 - USGS reports over 200 cores, tsunami sand and coastal subsidence assigned to the 1700 event. [S05](https://www.usgs.gov/programs/cmhrp/news/studying-tsunami-sands-better-understand-1700-cascadia-earthquake). Locator: Indexed research summary: sediment cores and subsidence paragraphs. Access: SEARCH_EXCERPT. Limit: Direct retrieval failed; study tables, core logs and model outputs not inspected.
 - A 2005 research report addresses Japanese clues to the 1700 event. [S04](https://www.usgs.gov/publications/orphan-tsunami-1700-japanese-clues-a-parent-earthquake-north-america). Locator: Publication title and DOI metadata. Access: CATALOG_METADATA. Limit: Report PDF fetch failed. Original Japanese documents not inspected.
+- Seven of eight usable snag-root dates end in 1699; CP-791 ends in 1708. Six have latewood supporting a seasonal death window. [S19](https://www.nature.com/articles/40048). Locator: Printed page 923, Table 1 and root-dating paragraphs. Access: SCAN_INSPECTED. Limit: Crossdating not rerun; raw widths and supplementary document uninspected. Apply correction S20 to final paragraph.
+- The correction clarifies the conditional rupture-length argument; it is not a replacement set of tree-ring measurements. [S20](https://www.nature.com/articles/37029). Locator: Corrected final paragraph. Access: FULL_TEXT_PORTION. Limit: Corrects earthquake-size reasoning; not a new dataset or independent replication.
 
-**Physical evidence:** Reported core/deposit observations; no raw logs inspected.
+**Physical evidence:** Published tree-ring table visually checked; raw ring measurements and sediment core logs not reanalyzed.
 
-**Surviving documents:** USGS report located; original Japanese records unreviewed.
+**Surviving documents:** Tree-ring research and correction inspected; original Japanese records remain unreviewed.
 
 **Source interpretation:** The research summary attributes local sediment and subsidence to an earthquake and tsunami.
 
-**Investigation inference:** A positive catastrophic-process comparison. Worldwide extent and fabrication require additional evidence.
+**Investigation inference:** Seasonal tree-death evidence can test the proposed 1700 event, with dating dependencies and delayed mortality retained. An exact event day needs the separate historical and propagation analysis.
 
-**Counterevidence:** A regional event does not establish simultaneous global burial.
+**Counterevidence:** The 1708 root date remains visible. Authors propose delayed death of a higher root; this archive has not independently tested that explanation. Regional evidence cannot establish global burial.
 
-**Next test:** Read core logs and original historical records; audit their dating linkage and modeled inundation.
+**Next test:** Obtain raw ring widths, rerun crossdating including alternative placements, and audit Japanese records and tsunami travel-time inference.
 
-**Dependence:** The modern summary and its underlying study overlap; publication metadata adds no independent event measurement.
+**Dependence:** Trees share reference chronologies; published matching constrains latest dates using radiocarbon. Article, author mirror and correction are one study lineage.
 
 **Alternatives:** Earthquake/tsunami; Other local inundation processes to compare using deposits
 
-**Chronology:** {"reported": "1700 CE", "dated_object": "Event assignment in research summary", "method": "Underlying cross-disciplinary dating not audited here", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "REPORTED_NOT_REVALIDATED"}
+**Chronology:** {"reported": "1700 CE", "dated_object": "Final root growth and inferred mortality, not direct earthquake-clock measurement", "method": "Published crossdating against upland chronology, root/trunk linkage and latewood; Japanese exact-day linkage not revalidated", "raw_date": null, "uncertainty": "Six latewood-bearing roots imply August 1699-May 1700 under source seasonal assumptions; one other root ends 1699 without determined latewood, one ends 1708.", "timescale": "CE", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Core logs; Original documents; Dating cross-links; Elevation datum
+**Missing:** Raw ring widths and crossdating rerun; Original Japanese records and calendar conversion; Core logs and elevation datum; Independent delayed-mortality check
 
 ## C005: California-as-island map
 

@@ -151,7 +151,7 @@
       "id": "C004",
       "title": "Cascadia tsunami and coastal subsidence",
       "category": "changed coastline and sediments",
-      "place": "Salmon River estuary, Oregon; wider Cascadia",
+      "place": "Washington estuaries in tree-ring study; Salmon River estuary, Oregon in separate sediment-summary lead; wider Cascadia",
       "coordinates": null,
       "status": "SOURCED_DRAFT",
       "reviewers": [],
@@ -165,34 +165,44 @@
           "source_id": "S04",
           "locator": "Publication title and DOI metadata",
           "statement": "A 2005 research report addresses Japanese clues to the 1700 event."
+        },
+        {
+          "source_id": "S19",
+          "locator": "Printed page 923, Table 1 and root-dating paragraphs",
+          "statement": "Seven of eight usable snag-root dates end in 1699; CP-791 ends in 1708. Six have latewood supporting a seasonal death window."
+        },
+        {
+          "source_id": "S20",
+          "locator": "Corrected final paragraph",
+          "statement": "The correction clarifies the conditional rupture-length argument; it is not a replacement set of tree-ring measurements."
         }
       ],
-      "physical_evidence": "Reported core/deposit observations; no raw logs inspected.",
-      "surviving_documents": "USGS report located; original Japanese records unreviewed.",
+      "physical_evidence": "Published tree-ring table visually checked; raw ring measurements and sediment core logs not reanalyzed.",
+      "surviving_documents": "Tree-ring research and correction inspected; original Japanese records remain unreviewed.",
       "source_interpretation": "The research summary attributes local sediment and subsidence to an earthquake and tsunami.",
-      "investigation_inference": "A positive catastrophic-process comparison. Worldwide extent and fabrication require additional evidence.",
+      "investigation_inference": "Seasonal tree-death evidence can test the proposed 1700 event, with dating dependencies and delayed mortality retained. An exact event day needs the separate historical and propagation analysis.",
       "competing_explanations": [
         "Earthquake/tsunami",
         "Other local inundation processes to compare using deposits"
       ],
-      "counterevidence": "A regional event does not establish simultaneous global burial.",
-      "next_test": "Read core logs and original historical records; audit their dating linkage and modeled inundation.",
+      "counterevidence": "The 1708 root date remains visible. Authors propose delayed death of a higher root; this archive has not independently tested that explanation. Regional evidence cannot establish global burial.",
+      "next_test": "Obtain raw ring widths, rerun crossdating including alternative placements, and audit Japanese records and tsunami travel-time inference.",
       "chronology": {
         "reported": "1700 CE",
-        "dated_object": "Event assignment in research summary",
-        "method": "Underlying cross-disciplinary dating not audited here",
+        "dated_object": "Final root growth and inferred mortality, not direct earthquake-clock measurement",
+        "method": "Published crossdating against upland chronology, root/trunk linkage and latewood; Japanese exact-day linkage not revalidated",
         "raw_date": null,
-        "uncertainty": null,
+        "uncertainty": "Six latewood-bearing roots imply August 1699-May 1700 under source seasonal assumptions; one other root ends 1699 without determined latewood, one ends 1708.",
         "timescale": "CE",
         "event_association": "REPORTED_NOT_REVALIDATED"
       },
       "missing": [
-        "Core logs",
-        "Original documents",
-        "Dating cross-links",
-        "Elevation datum"
+        "Raw ring widths and crossdating rerun",
+        "Original Japanese records and calendar conversion",
+        "Core logs and elevation datum",
+        "Independent delayed-mortality check"
       ],
-      "dependence": "The modern summary and its underlying study overlap; publication metadata adds no independent event measurement."
+      "dependence": "Trees share reference chronologies; published matching constrains latest dates using radiocarbon. Article, author mirror and correction are one study lineage."
     },
     {
       "id": "C005",

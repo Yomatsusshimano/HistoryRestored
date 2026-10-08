@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Cascadia tree-ring table and correction
+
+Previous goal turn made progress: patent comparison ad715b1 was published and its public files verified. This turn retrieved the full 1997 tree-ring correspondence from coauthor Daniel Bunker's NJIT page after USGS report downloads returned 403. Read the relevant article text on printed pages 922-923 and visually checked Table 1/page 923. PDF rendering reported font substitutions; sample identifiers, year values and latewood flags remained legible. The unrelated neighboring correspondence was not used.
+
+Added S19-S20, data/cascadia-rings.json and research/CASCADIA-CHRONOLOGY.md. All eight usable roots are retained, including CP-791 at 1708 and PX-J6 at 1699 without determined latewood. Six have the reported seasonal constraint. Root death, earthquake time and Japanese tsunami date remain distinct. Shared chronology and radiocarbon-based search limits are recorded. No raw-width crossdating was rerun.
+
+The publisher's complete correction paragraph was obtained in HTML after the web preview omitted it. It clarifies the conditional rupture-length inference; it does not replace the ring table. A supplementary DOC download timed out, and the Alaska mirror's certificate check failed; no security setting was changed. Exact-day historical/propagation linkage remains unaudited. Research scope now includes nine cases and twenty source records, with no independent reviews.
+
 ## 2026-10-08 - Woodward/Edison patent comparison
 
 Previous goal turn made progress: Eiffel audit 4c3fbb8 was published with public-byte verification. This turn retrieved Woodward patent US181613 and visually inspected all three pages. The actual scan establishes the identifier, 1875-01-04 filing and 1876-08-29 grant; the initial search also tried an incorrect candidate number, which was not entered as evidence. Patent 181613 is a documented carbon-lamp disclosure earlier than Edison's 223898.

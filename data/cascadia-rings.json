@@ -1,0 +1,68 @@
+{
+  "case_id": "C004",
+  "source_id": "S19",
+  "locator": "Table 1, printed page 923",
+  "status": "VISUAL_TRANSCRIPTION_NOT_REPLICATION",
+  "samples": [
+    {
+      "estuary": "Copalis River",
+      "snag_id": "CP-791",
+      "outer_root_ring_AD": 1708,
+      "latewood_1699_reported": null
+    },
+    {
+      "estuary": "Copalis River",
+      "snag_id": "CP-GF2",
+      "outer_root_ring_AD": 1699,
+      "latewood_1699_reported": true
+    },
+    {
+      "estuary": "Grays Harbor",
+      "snag_id": "JN-560",
+      "outer_root_ring_AD": 1699,
+      "latewood_1699_reported": true
+    },
+    {
+      "estuary": "Grays Harbor",
+      "snag_id": "JN-561",
+      "outer_root_ring_AD": 1699,
+      "latewood_1699_reported": true
+    },
+    {
+      "estuary": "Willapa Bay",
+      "snag_id": "PX-782",
+      "outer_root_ring_AD": 1699,
+      "latewood_1699_reported": true
+    },
+    {
+      "estuary": "Willapa Bay",
+      "snag_id": "PX-783",
+      "outer_root_ring_AD": 1699,
+      "latewood_1699_reported": true
+    },
+    {
+      "estuary": "Willapa Bay",
+      "snag_id": "PX-J6",
+      "outer_root_ring_AD": 1699,
+      "latewood_1699_reported": null
+    },
+    {
+      "estuary": "Columbia River",
+      "snag_id": "GR-777",
+      "outer_root_ring_AD": 1699,
+      "latewood_1699_reported": true
+    }
+  ],
+  "null_meaning": "Not entered as determined; do not treat as false",
+  "selection": "Eight roots with usable final-year estimates from twelve sampled; not a random mortality survey",
+  "dependencies": [
+    "Upland reference chronology shared across snags",
+    "Radiocarbon-based latest possible date 1720 used in matching",
+    "Some correlations use other dated snags, not direct upland matching"
+  ],
+  "limits": [
+    "Raw widths and full statistics not transcribed or recomputed",
+    "Final ring is not automatically earthquake year",
+    "CP-791 delayed-death interpretation remains untested here"
+  ]
+}

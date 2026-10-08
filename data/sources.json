@@ -314,6 +314,50 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "sha256": "aacf8f615dfe5c915de29562df4e920a31eef27e80f387b2e429621b8f4c536d"
+    },
+    {
+      "id": "S19",
+      "title": "Tree-ring dating the 1700 Cascadia earthquake",
+      "url": "https://www.nature.com/articles/40048",
+      "doi": "10.1038/40048",
+      "creator": "Yamaguchi and colleagues",
+      "publication_date": "1997-10-30",
+      "source_type": "original research correspondence",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Article text on printed pages 922-923 read; Table 1 and relevant page 923 text visually inspected from author-hosted PDF.",
+      "limitations": "Crossdating not rerun; raw widths and supplementary document uninspected. Apply correction S20 to final paragraph.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://web.njit.edu/~dbunker/publications/Yamaguchi%20etal%2097%20N.pdf",
+          "sha256": "7bd3776251462e946264fe9eb0672c31f16477f65cca86132f14eaa5d9a6390f",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Correction to Tree-ring dating the 1700 Cascadia earthquake",
+      "url": "https://www.nature.com/articles/37029",
+      "doi": "10.1038/37029",
+      "creator": "Nature correction notice",
+      "publication_date": "1997-11-27",
+      "source_type": "published correction",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Corrected paragraph in publisher HTML body inspected.",
+      "limitations": "Corrects earthquake-size reasoning; not a new dataset or independent replication.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.nature.com/articles/37029",
+          "sha256": "2f31c2d36d7fc9b3657afd5eb1e61c5964a07d039af00f877a4a2201c26483f6",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }
