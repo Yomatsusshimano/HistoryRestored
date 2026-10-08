@@ -455,6 +455,21 @@
           "source_id": "S17",
           "locator": "Third part, chapter II, section 1, pp.100-101; canvases 8976047-8976048",
           "statement": "The participant account distinguishes workshop preparation from site assembly, names Dupont and Fould at Pompey as iron supplier, reports 18,038 different pieces detailed and 6,360 tonnes delivered by the workshop, excluding site rivets and directly supplied accessories."
+        },
+        {
+          "source_id": "S147",
+          "locator": "Inventory pp.5-6, 12",
+          "statement": "Inventory records partial preservation and separate sale of tower plans; hiring registers in 152 AQ 11 begin in 1911."
+        },
+        {
+          "source_id": "S148",
+          "locator": "2021 6 4, images 2, 4, 5",
+          "statement": "Koechlin letter dated 21 October 1879 proposes a November start. Biography says ten years since joining in 1879, so the catalog year cannot date every sheet."
+        },
+        {
+          "source_id": "S149",
+          "locator": "227 J finding aid pp.2-3",
+          "statement": "Pompey lead includes later research notes and exhibition panels; underlying documents uninspected."
         }
       ],
       "physical_evidence": "Digitized roster, cost account and workshop-account pages visually inspected; museum photograph and building fabric not inspected.",
@@ -482,7 +497,7 @@
         "Fabric dates",
         "Independent quantity and labor-productivity audit"
       ],
-      "dependence": "Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration."
+      "dependence": "Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration. Koechlin recruitment correspondence is another company record, not independent supplier corroboration."
     },
     {
       "id": "C007",

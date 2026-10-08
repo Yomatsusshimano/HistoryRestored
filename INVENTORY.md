@@ -221,6 +221,9 @@ Place: Paris, France. Status: SOURCED_DRAFT.
 - The museum catalogs a view described as tower construction on 10 February 1888. [S08](https://www.parismuseescollections.paris.fr/en/node/587811). Locator: Indexed museum catalog title. Access: SEARCH_EXCERPT. Limit: Actual photograph not inspected. Direct page mostly navigation, then timeout. Photographer, inventory number and provenance unverified.
 - Eiffel published a departmental personnel roster and an itemized cost account, ending at 7,799,401.31 francs for the Tower as operated during the exhibition. [S17](https://doi.org/10.3931/e-rara-28271). Locator: Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Access: SCAN_INSPECTED. Limit: Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts.
 - The participant account distinguishes workshop preparation from site assembly, names Dupont and Fould at Pompey as iron supplier, reports 18,038 different pieces detailed and 6,360 tonnes delivered by the workshop, excluding site rivets and directly supplied accessories. [S17](https://doi.org/10.3931/e-rara-28271). Locator: Third part, chapter II, section 1, pp.100-101; canvases 8976047-8976048. Access: SCAN_INSPECTED. Limit: Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts.
+- Inventory records partial preservation and separate sale of tower plans; hiring registers in 152 AQ 11 begin in 1911. [S147](https://recherche-anmt.culture.gouv.fr/archives/archives/fonds/FRANMT_IR_152_AQ_2021_6/view:fonds/n:3). Locator: Inventory pp.5-6, 12. Access: FULL_TEXT_PORTION. Limit: Finding aid only; underlying payroll, dispatches and tower plans uninspected.
+- Koechlin letter dated 21 October 1879 proposes a November start. Biography says ten years since joining in 1879, so the catalog year cannot date every sheet. [S148](https://recherche-anmt.culture.gouv.fr/ark:/60879/1247075.1339885). Locator: 2021 6 4, images 2, 4, 5. Access: SCAN_INSPECTED. Limit: Catalog year 1879 does not date every sheet: biography says ten years since joining in 1879. Author/date unresolved. Proposed start is not attendance. Same company provenance, not independent supplier evidence.
+- Pompey lead includes later research notes and exhibition panels; underlying documents uninspected. [S149](https://archives.meurthe-et-moselle.fr/sites/default/files/Contenu/Guide/227_J.pdf). Locator: 227 J finding aid pp.2-3. Access: FULL_TEXT_PORTION. Limit: Later research collection; underlying notes, panels and collected records uninspected. No original dispatch ledger recovered.
 
 **Physical evidence:** Digitized roster, cost account and workshop-account pages visually inspected; museum photograph and building fabric not inspected.
 
@@ -234,7 +237,7 @@ Place: Paris, France. Status: SOURCED_DRAFT.
 
 **Next test:** Recover Pompey supplier orders and dispatch records, Levallois payroll and original drawing/part registers; compare them with pp.100-101 and dated construction images.
 
-**Dependence:** Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration.
+**Dependence:** Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration. Koechlin recruitment correspondence is another company record, not independent supplier corroboration.
 
 **Alternatives:** Recorded construction; Repair/reassembly if fabric and earlier records support it
 

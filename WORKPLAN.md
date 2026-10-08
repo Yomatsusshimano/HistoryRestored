@@ -27,6 +27,8 @@
 
 ## Next research tranche
 
+Eiffel archive update: current ANMT inventory explains partial preservation and tower-plan transfer. Visually inspected Koechlin recruitment correspondence; proposed start and actual attendance remain distinct. Trace original tower-plan custody and supplier dispatches. Geindre 227 J is a later research collection, not confirmed contemporary ledgers.
+
 1. Extend the verified public release with the next primary-source research tranche; publish as work progresses.
 2. Continue C001 block-specific fill records; C002 now has one inspected dated photograph and a participant engineering transcription and contemporary press comparison; differing contract/equipment scopes retained and rated pump-flow arithmetic checked, later contract opinion now distinguishes in-place/loose volume and reported progress, while original logs and surveyed volume remain pending; continue C006 image objects; C010 now supplies a separate original grading dispute, with underlying survey books and outcome still pending.
 3. Extend the camel exposure/burial-history audit; verify Yukon taxa by sample and independent biological dates; extend the existing sloth, muskox, predator and fossil-plant cases with raw data and independent context.

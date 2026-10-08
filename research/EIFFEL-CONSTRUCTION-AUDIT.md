@@ -2,6 +2,8 @@
 
 Research draft, 2026-10-08. C006 remains without independent review.
 
+Follow-up: [archive survival and Koechlin recruitment](EIFFEL-ARCHIVE-FOLLOWUP.md) records the current archival search, a visually inspected 1879 letter, and an undated biography that must not inherit the dossier's catalog date.
+
 Gustave Eiffel's 1900 technical monograph is accessible through [ETH-Bibliothek Zurich, Rar 9704](https://doi.org/10.3931/e-rara-28271). Two pages were visually inspected: the [personnel roster](https://www.e-rara.ch/zut/content/zoom/8975936) and [printed page 225](https://www.e-rara.ch/zut/content/zoom/8976172). This is a retrospective participant account. Its author had a direct interest in how the project was remembered.
 
 The roster credits departments and people, including M. Koechlin for studies, Sauvestre for architecture, Letourneau for workshops, Martin and Saint-Martin for foundations/masonry, and Compagnon and Milon for metal assembly. These spellings and departmental placements were checked on the image; they are not a complete transcription or independent biographical identification. The OCR interleaves columns and should not determine roles without the image. These people are already named in an accessible historical source; this investigation has not discovered an erased workforce.

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Eiffel archive survival and recruitment
+
+Previous turn made progress: 7812ed9 published seven verified files; checkout was clean. Old inventory URL failed, but normal browser access recovered the current 106-page ANMT inventory and six-image Koechlin dossier. Inventory records selected preservation and separate tower-plan transfer. Read the signed 21 October 1879 recruitment letter and receipt endorsement; proposed start is not attendance. Biography says ten years since joining in 1879, preventing automatic transfer of the catalog date to every sheet. Geindre supplier lead contains later research materials; originals uninspected. No supplier ledger recovered. A large inline update command was policy-rejected; smaller reviewable file patches and a local update script succeeded. Full goal remains active.
+
 ## 2026-10-08 - Eiffel fabrication and labor scope
 
 Previous model-switch acknowledgment was no progress; current checkout was clean at b461e93. Resumed the builders audit. Archive web fetch failed, but the normal browser loaded the viewer and its linked 41-page construction PDF downloaded successfully. Visually inspected chapter PDF pages 17-18 (book pp.100-101). Recorded supplier, named workshop staff, drawing/piece counts and delivery scope. Corrected OCR 3,300 to scanned 5,300 drawings. The quoted site workforce excludes uncounted upstream labor; month-only production dates do not justify exact monthly-rate rejection. These remain retrospective participant claims, not independent fabrication authentication. Next pursue original supplier/dispatch and payroll records. Full twenty-part goal remains active.

@@ -2339,6 +2339,48 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrieved_sha256": "90534ff26827a55cf122237f48a3890ccaef1214d2d7b60b08dba789a741288a"
+    },
+    {
+      "id": "S147",
+      "title": "Eiffel archive inventory, 152 AQ / 2021 6 / 2023 47",
+      "url": "https://recherche-anmt.culture.gouv.fr/archives/archives/fonds/FRANMT_IR_152_AQ_2021_6/view:fonds/n:3",
+      "creator": "Archives nationales du monde du travail",
+      "publication_date": "1977-2023",
+      "source_type": "archival finding aid",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Current 106-page PDF: pp.5-6 preservation and tower-plan transfer; p.12 personnel; p.85 Koechlin; p.93 later tower alterations.",
+      "limitations": "Finding aid only; underlying payroll, dispatches and tower plans uninspected.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S148",
+      "title": "Maurice Koechlin personnel dossier, ANMT 2021 6 4",
+      "url": "https://recherche-anmt.culture.gouv.fr/ark:/60879/1247075.1339885",
+      "creator": "Eiffel company records; Archives nationales du monde du travail",
+      "publication_date": null,
+      "source_type": "archival dossier",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Six viewer images inspected; focused reading of image 2 biography, image 4 letter dated 21 October 1879, image 5 receipt endorsement.",
+      "limitations": "Catalog year 1879 does not date every sheet: biography says ten years since joining in 1879. Author/date unresolved. Proposed start is not attendance. Same company provenance, not independent supplier evidence.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S149",
+      "title": "Fonds Lucien Geindre, 227 J",
+      "url": "https://archives.meurthe-et-moselle.fr/sites/default/files/Contenu/Guide/227_J.pdf",
+      "creator": "Archives départementales de Meurthe-et-Moselle",
+      "publication_date": "2022",
+      "source_type": "archival finding aid",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Finding aid pp.2-3: provenance and entries 227 J 1-6.",
+      "limitations": "Later research collection; underlying notes, panels and collected records uninspected. No original dispatch ledger recovered.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
