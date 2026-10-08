@@ -928,6 +928,36 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S53",
+      "title": "US251596: Socket or holder for electric lamps",
+      "url": "https://patentimages.storage.googleapis.com/be/8f/c5/9896fcf4061a47/US251596.pdf",
+      "creator": "Edward H. Johnson",
+      "publication_date": "1881-12-27",
+      "source_type": "United States patent, original printed record scan via Google Patents",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All three PDF pages: drawing, specification heading and text, claims and signature.",
+      "limitations": "Patent disclosure and inventor assertions, not independently reproduced performance, comprehensive priority determination or dating of museum specimens.",
+      "local_copy": "sources/originals/US251596.pdf",
+      "sha256": "0c843b2c7036c051ed6651baac9e12d37649cd699e8fa64a80c56e825e5f34e0",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S54",
+      "title": "US257277: Socket for electric lamps",
+      "url": "https://patentimages.storage.googleapis.com/51/c2/ec/a79f419572b03a/US257277.pdf",
+      "creator": "Sigmund Bergmann",
+      "publication_date": "1882-05-02",
+      "source_type": "United States patent, original printed record scan via Google Patents",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All three PDF pages: drawing, specification heading and text, claims and signature.",
+      "limitations": "Patent disclosure and inventor assertions, not independently reproduced performance, comprehensive priority determination or dating of museum specimens.",
+      "local_copy": "sources/originals/US257277.pdf",
+      "sha256": "fd7b0630f8125443ef5dcaa9c3e84d901f0ef99f7889c1a3893ca266573fa42e",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

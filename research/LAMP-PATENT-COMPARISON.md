@@ -45,3 +45,20 @@ The indexed [Smithsonian record nmah_703487](https://americanhistory.si.edu/coll
 Direct page retrieval returned an error, and a standard HTTP request returned 403. Only search-indexed catalog text was inspected; no new object-image inspection is claimed. Exact-number searches did not recover matching records for SI 318,653 or 318,686. That search outcome does not establish that the objects or records are missing.
 
 The catalog's year agrees with S51's base-type year for 181,799, but the two descriptions may draw on the same museum documentation. Do not count this as independent dating. Next inspect accession 33407 and its object-specific documentation, including how the February attribution was assigned.
+
+## Named socket contributions checked against original patents
+
+All three pages of each newly preserved patent were visually inspected: [Johnson 251,596](../sources/originals/US251596.pdf) (S53) and [Bergmann 257,277](../sources/originals/US257277.pdf) (S54). Their specification headings confirm the filing dates reported in S51, Artifacts pp. 5-6.
+
+| Record | Signed / filed / granted | Disclosed arrangement and claims |
+| --- | --- | --- |
+| Edward H. Johnson, 251,596 | May 19 / May 27 / December 27, 1881 | Drawing shows upper flared contact and lower threaded ring. Specification describes two detachable socket parts, safety catch and circuit controller. Five claims concern the detachable contact arrangement, safety catch, controller details and exterior metal covering. |
+| Sigmund Bergmann, 257,277 | February 20 / February 25 / May 2, 1882 | Bottom contact and threaded side ring compress the entering base between its terminals; stated purpose is avoiding cracking associated with tension. Three claims cover contact arrangement and ring/washer/plate construction. |
+
+Locators: each PDF p. 1 drawings, p. 2 heading/specification, p. 3 claims/signature; Bergmann claim 1 begins on p. 2. Signature, application and grant dates are distinct documentary events, none an independently measured manufacture date.
+
+Bergmann explicitly cites Johnson's patent on PDF p. 2, right column, in describing connections and optional safety catch/controller. This is a contemporaneous documentary relationship between the disclosures. It is stronger evidence of a development connection than resemblance alone, while remaining short of a workshop history, complete priority search or proof of successful performance. The cracking rationale is the inventor's engineering assertion; no failure-rate experiment has been reproduced here.
+
+The comparison supports naming Johnson and Bergmann for these specific disclosures alongside Edison and Woodward. It does not establish that they were erased from history: S51 already names them, and S52's catalog title names Johnson. Nor should Johnson's five claims be summarized as a claim to every bevel-ring lamp feature. Technical disclosure, legal claim scope, commercial manufacture and museum attribution require separate evidence.
+
+S51 labels its Base IV type 1881 while citing the February 1882 application. The patent confirms the latter date but does not independently verify or disprove the earlier type date. Likewise, a May 1881 filing does not rule out S52's February 1881 object attribution. Original notebooks, manufacturing records and accession documentation are needed to resolve those object-level dates. No recovered ancient apparatus, broad credit-rewriting mechanism or global chronology break follows from these records.

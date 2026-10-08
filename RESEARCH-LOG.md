@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Johnson and Bergmann socket disclosures
+
+Previous turn was no progress: model-switch acknowledgment only. Revalidated clean checkout and resumed available primary-source work. Google Patents web retrieval failed for Johnson, but ordinary HTTP access supplied its PDF link; both public scans downloaded and hashed. Visually inspected all three pages of each with the PDF workflow. Added S53-S54 and preserved original scans.
+
+Confirmed S51 filing dates, separated signature/filing/grant dates, and recorded Bergmann's explicit citation of Johnson and compression rationale. Claims concern specific socket arrangements, not all electric lighting. Patent dates do not independently date museum objects; Base IV 1881 versus application 1882 remains an unresolved type/manufacture question, not evidence of a chronology break. No priority adjudication or measured performance claimed. Seventeen drafts, fifty-four sources; independent review absent.
+
 ## 2026-10-08 - Smithsonian lamp catalog identifier matched
 
 Previous turn made progress: 626cf83 published seven public-byte-verified files. Clean checkout rechecked. Exact-number and title searches recovered indexed Smithsonian catalog nmah_703487 for EM.181799. Added S52 as SEARCH_EXCERPT, preserving February 1881 attribution, maker/credit fields and accession 33407. Direct page retrieval failed; ordinary HTTP fetch returned 403. No full-page/image inspection or access workaround claimed.
