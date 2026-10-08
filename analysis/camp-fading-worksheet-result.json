@@ -1,0 +1,71 @@
+{
+  "scope": "30 example worksheet factors reproduce cached cells within 1e-12. Zero-fading boundary gives factor 1. Not equivalent-dose fitting or age validation.",
+  "results": [
+    {
+      "temperature_C": 50,
+      "factors": [
+        0.6867081855765236,
+        0.683641591481235,
+        0.6817561655742166,
+        0.6970433653945032,
+        0.6867081855765236
+      ],
+      "max_absolute_cache_difference": 0.0
+    },
+    {
+      "temperature_C": 100,
+      "factors": [
+        0.7526854872291282,
+        0.7508805846273469,
+        0.7497502179560214,
+        0.7578283850641383,
+        0.7526854872291282
+      ],
+      "max_absolute_cache_difference": 0.0
+    },
+    {
+      "temperature_C": 150,
+      "factors": [
+        0.8000077591644823,
+        0.7989010068742782,
+        0.7981926564469564,
+        0.8027630672565099,
+        0.8000077591644823
+      ],
+      "max_absolute_cache_difference": 0.0
+    },
+    {
+      "temperature_C": 200,
+      "factors": [
+        0.7682410904507541,
+        0.7668521826375265,
+        0.7659394223820873,
+        0.7713155205179316,
+        0.7682410904507541
+      ],
+      "max_absolute_cache_difference": 0.0
+    },
+    {
+      "temperature_C": 250,
+      "factors": [
+        0.7945744080028686,
+        0.7935594964012894,
+        0.7928763789327938,
+        0.7966226628713875,
+        0.7945744080028686
+      ],
+      "max_absolute_cache_difference": 0.0
+    },
+    {
+      "temperature_C": 300,
+      "factors": [
+        0.8483643827860629,
+        0.8478497459319597,
+        0.8474955177824256,
+        0.8493274250197616,
+        0.8483643827860629
+      ],
+      "max_absolute_cache_difference": 0.0
+    }
+  ]
+}

@@ -143,3 +143,17 @@ The publisher's normal browser links delivered the [25-page methods PDF (S145)](
 Methods p.3, visually checked, explains that 95% of the isolated coarse fraction fell within 150-250 micrometres after initial 150-355 sieving. S1 footnote 7 and S10 footnote 5 agree. This explains the distinction between original and dominant grain sizes; it does not license changing all source labels. S1 reports 2.35 +/- 0.21 Gy/kyr for this fraction, versus 2.52 +/- 0.41 in the thesis pilot row. Keep the original-study and thesis values separate pending reconciliation.
 
 The [residual-test transcription](../data/camp-century-residual-test.json) contains four S8 aliquots. Recomputing its actual mean and sampling-standard-error formulas yields **51.3623 +/- 5.0066 Gy**, matching workbook caches; the adopted correction is 50 Gy. See the [reproducible calculation](../analysis/camp_residual_check.py) and [result](../analysis/camp-residual-check-result.json). This is an experimental summary check, not replication of fading correction or final age uncertainty. The companion material's laboratory light exposure does not independently prove complete resetting during natural transport. Next trace S3-S5 and S11 through the final age calculation.
+
+## Fading worksheet reproduction and dose-output crosswalk
+
+The [S5 example inputs](../data/camp-century-fading-example.json) retain run, fraction, delays, doses and fading rates. A [Python implementation](../analysis/camp_fading_worksheet.py) reproduces all 30 cached correction factors across six temperature steps and five regenerative doses, within 1e-12. Its zero-fading boundary returns one. The [result](../analysis/camp-fading-worksheet-result.json) checks spreadsheet arithmetic, not physical calibration, dose-response fitting, every aliquot or final ages. The logarithm uses base 10 as in the workbook's Excel LOG expression.
+
+The [S11 crosswalk](../data/camp-century-drac-crosswalk.json) exposes different stored values:
+
+| Fraction, micrometres | Highlight rate +/- error, Gy/kyr | Detailed output rate +/- error, Gy/kyr |
+| --- | --- | --- |
+| 63-150 | 2.053 +/- 0.185 | 2.047 +/- 0.182 |
+| 150-250 | 2.337 +/- 0.208 | 2.515 +/- 0.409 |
+| 250-355 | 2.685 +/- 0.221 | Not populated |
+
+S11 cells T17/U17 weight the two coarse highlight rows 95:5, yielding 2.3544 +/- 0.20865, consistent with S1's rounded 2.35 +/- 0.21. The error formula is a linear weighted sum; covariance has not been established. The detailed 150-250 output rounds to the thesis's 2.52 +/- 0.41. This numerical match narrows the provenance question but does not identify which processing version was intended. Full DRAC recalculation and the transition from corrected dose-response curves to pooled age/uncertainty remain necessary.

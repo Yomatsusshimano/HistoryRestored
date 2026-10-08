@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Fading worksheet and DRAC crosswalk
+
+Previous turn made progress: b8360a4 published ten verified files. Clean checkout confirmed. Reproduced all 30 S5 example correction factors and checked the zero-fading boundary. S11 highlight-versus-detailed output differences recorded; 95:5 mixture reproduces the published coarse rate, while detailed output rounds to the thesis pilot value. No automatic source repair or final age validation. Next reproduce aliquot fitting, pooling and uncertainty. Full goal remains active.
+
 ## 2026-10-08 - Original Camp Century supplement recovered
 
 Previous goal turn made progress: 090fc80 published ten byte-verified files. Publisher article opened normally in browser; verified link downloads recovered methods and all 19 workbooks after initial PDF timeout. Hashed files, visually checked methods p.3, inspected key workbook cells and reproduced S8 mean/SE from four aliquots and its formulas. Registered S145-S146. Original grain-fraction explanation narrows an earlier discrepancy; original-study versus thesis dose rates remain separate. Next use recovered fading and DRAC records, not further access speculation. Full goal remains active.

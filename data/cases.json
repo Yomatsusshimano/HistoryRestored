@@ -1011,6 +1011,11 @@
           "source_id": "S146",
           "locator": "Data S8 A8:K14,J20; Data S1",
           "statement": "Four 250 C residual-test aliquots yield 51.3623 +/- 5.0066 Gy (arithmetic mean and sampling SE); 50 Gy was used in the published correction. Summary reproduced; full age correction not yet replicated."
+        },
+        {
+          "source_id": "S146",
+          "locator": "S5 example worksheet; S11 T12:U17 and JQ12:JR14",
+          "statement": "Thirty example fading factors reproduce; S11 summary and detailed dose outputs differ. Published coarse rate matches the summary mixture, while the thesis pilot rate matches rounded detailed output. Provenance and complete age replication remain unresolved."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",

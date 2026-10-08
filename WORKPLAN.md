@@ -186,3 +186,5 @@ Camp Century thesis recovered through browser Download: three new upper finite e
 Camp Century dose sensitivity: four visually checked scenario rows yield fixed-dose age changes of about -3% to +18% when both inputs change. This is not a new age estimate. Geochemistry tables corroborate 4183/1062-3 internally; original aliquot crosswalk and full DRAC/fading/residual records remain required.
 
 Camp Century original supplement recovered: 25-page methods PDF and all 19 XLSX files hashed. S8 residual mean/SE reproduced; original versus dominant coarse-grain fractions explained in methods and footnotes. Next reproduce S3-S5 fading, S11 DRAC and pooled-age uncertainty. Retrieval gap closed for this package; scientific replication remains incomplete.
+
+S5 example fading factors reproduced (30 cells); S11 output crosswalk and coarse 95:5 mixture checked. Resolve divergent highlight/detailed rates against original DRAC processing and trace corrected aliquot fits to final pooled age and uncertainty. Component reproduction remains distinct from scientific validation.

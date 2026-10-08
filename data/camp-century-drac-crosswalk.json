@@ -1,0 +1,44 @@
+{
+  "source_id": "S146",
+  "workbook": "science.ade4248_data_s11.xlsx",
+  "sha256": "9f1d6f2ce4974283c6541e50433840eea572210dd6f0c8d991897e8d81e00956",
+  "sheet": "Data S11 DRAC output",
+  "rows": [
+    {
+      "row": 12,
+      "sample": "USU-3502 63-150",
+      "highlight_rate_Gy_ka": 2.053,
+      "highlight_error": 0.185,
+      "detailed_rate_Gy_ka": 2.047,
+      "detailed_error": 0.182
+    },
+    {
+      "row": 14,
+      "sample": "USU-3502 150-250",
+      "highlight_rate_Gy_ka": 2.337,
+      "highlight_error": 0.208,
+      "detailed_rate_Gy_ka": 2.515,
+      "detailed_error": 0.409
+    },
+    {
+      "row": 15,
+      "sample": "USU-3502 250-355",
+      "highlight_rate_Gy_ka": 2.685,
+      "highlight_error": 0.221,
+      "detailed_rate_Gy_ka": null,
+      "detailed_error": null
+    }
+  ],
+  "limit": "Stored outputs and mixture formulas only; DRAC not rerun. Matching rounded values do not prove which processing version was used.",
+  "mixture": {
+    "locator": "T17,U17",
+    "weights": [
+      0.95,
+      0.05
+    ],
+    "rate": 2.3544000000000005,
+    "error": 0.20864999999999997,
+    "formula": "0.95 * highlight row 14 + 0.05 * highlight row 15, separately for rate and error",
+    "uncertainty_note": "Linear weighting of reported errors is source formula, not an independence-based quadrature calculation."
+  }
+}
