@@ -216,3 +216,5 @@ Dead Canyon discrepancy retained: S156 reports GX-1457 at 4905 +/-140 radiocarbo
 Dead Canyon retrieval narrowed: S158 archived journal contents supplies exact original PDF filename and correct 1970-1978 directory. Retry that address when archive service permits; current failures do not establish absence. S159 opening confirms a selective client-release date list, not a complete assay register. Do not import generic laboratory methods into GX-1457.
 
 Moxee C024: original field study S160 inspected throughout. Recover CAMS 79942 certificate, Stafford preparation and museum accession/field records; independently date sediment units. Preserve 15300/19000 older-bound discrepancy and audit the assumed ordering of lower beds versus tusk death.
+
+Moxee flood-count audit: S160 contacts are gradational; some dikes terminate and others cross boundaries. S161 original regional mechanism discussion recovered; S162 laboratory claim remains abstract-only. Obtain original contact geometry and test separate-inundation versus within-inundation deformation before assigning flood count or intervals.

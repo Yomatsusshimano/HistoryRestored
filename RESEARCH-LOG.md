@@ -752,3 +752,7 @@ Recovered the 1970 WSU contents HTML from its 2010-12-05 archive capture, identi
 ### 2026-10-08 — Moxee tusk and deposition-order audit
 
 Exact Dead Canyon archive query timed out; no availability conclusion drawn. Recovered CWU-hosted original Moxee 2005 PDF, hashed it and visually inspected all twelve pages. Added S160, C024 and structured CAMS 79942 record with preparation quality and error convention unknown. Recorded weathering evidence, circumstantial species attribution and abstract/discussion older-bound discrepancy. Demonstrated that reworked-tusk superposition alone cannot order lower deposits relative to death. No calibrated age, delay duration or new event count inferred.
+
+### 2026-10-08 — Moxee contacts and clastic-dike mechanisms
+
+Recovered Black 1979 RHO-BWI-C-64 from OSTI, hashed the 77-page PDF, visually inspected printed pp.59-63 and read abstract/introduction text. Added S161 with limited inspection scope. Read full Howard et al. 2020 GSA abstract (S162); uploaded-presentation list had no retrieved files. Compared their mechanism limits with already inspected S160 contacts and dike descriptions. Added a feature-by-feature audit: sequencing does not establish dry intervals, and dike termination needs distinction from propagation arrest. Retained the three-flood interpretation as unvalidated rather than replacing it with an established single event. No model run or interval measurement claimed.

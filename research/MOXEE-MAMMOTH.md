@@ -17,3 +17,5 @@ There is also an ordering limitation in the proposed age of the lower beds. In f
 For H3-M, do not count burial here as demonstrated flood mortality. For H3-D, retain redeposition as the study's supported interpretation while keeping transport origin and delay unquantified. For H1, three interpreted local deposits do not establish three globally synchronous events or their separation in years. This case cannot resolve the unrelated Dead Canyon GX-1457 assay.
 
 Next inspect museum accession and excavation records, original CAMS/Stafford documentation, and independent sediment chronology. Test the mapped contacts and proposed flood count against alternative depositional sequences before using the site as a time anchor or hydraulic constraint.
+
+The [contact and dike audit](MOXEE-FLOOD-COUNT.md) now separates the reported three-unit sequence from the inferred number of floods. Dike termination alone is not a measured dry interval.

@@ -1757,6 +1757,21 @@
           "source_id": "S160",
           "locator": "p.417 versus p.425",
           "statement": "Abstract and discussion give different older age bounds, 15300 versus 19000 radiocarbon BP, for lower deposits."
+        },
+        {
+          "source_id": "S160",
+          "locator": "pp.421-425, Figure 4",
+          "statement": "Gradational contacts and dikes terminating at or crossing boundaries support sequencing, but do not measure intervals between the three interpreted flood units."
+        },
+        {
+          "source_id": "S161",
+          "locator": "pp.59-63 / PDF pp.71-75",
+          "statement": "Regional report proposes flood loading and underwater filling for selected dikes; different sites have different proposed or unresolved origins. Not Moxee field verification."
+        },
+        {
+          "source_id": "S162",
+          "locator": "Conference abstract, experimental description",
+          "statement": "Authors report laboratory dike formation involving sediment loading and water/air escape; full methods and scaling not recovered."
         }
       ],
       "physical_evidence": "Published tusk photograph, section diagrams and sediment tables inspected; specimen not independently examined.",
@@ -1785,7 +1800,8 @@
         "Accession and field records",
         "Independent dates for sediment units",
         "Quantified exposure and transport delay",
-        "Independent review"
+        "Independent review",
+        "Original contact/dike geometry and independent evidence distinguishing separate inundations from stages within one inundation"
       ],
       "dependence": "Original site study, but regional chronology and species interpretation use prior literature. Shared references do not independently replicate other regional sites."
     }

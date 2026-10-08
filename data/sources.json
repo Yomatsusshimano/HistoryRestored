@@ -2616,6 +2616,42 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S161",
+      "title": "Clastic dikes of the Pasco Basin, southeastern Washington: final report, RHO-BWI-C-64",
+      "creator": "Robert F. Black",
+      "publication_date": "1979-01-19",
+      "url": "https://www.osti.gov/servlets/purl/7096853",
+      "source_type": "field report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp.59-63 / PDF pp.71-75 visually inspected; abstract and introduction read as extracted text.",
+      "limitations": "Three-day reconnaissance of ten localities, not Moxee field verification. Mechanisms and filling durations are proposed interpretations. Remaining field-site descriptions and photographs not audited here.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.osti.gov/servlets/purl/7096853",
+          "sha256": "bb96b9c09450918ced14d95ba67e44acc60f3c497e731c7f5c146389958dd408",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S162",
+      "title": "Clastic dike formation in slackwater deposits triggered by surging Pleistocene megafloods",
+      "creator": "Chelsi K. Howard, Chad J. Pritchard, Lindsay Ann Mackenzie",
+      "publication_date": "2020-10-26",
+      "url": "https://gsa.confex.com/gsa/2020AM/webprogram/Paper357379.html",
+      "source_type": "conference abstract",
+      "access": "ABSTRACT",
+      "inspected": "Entire conference abstract, GSA 2020 paper 3-11, DOI 10.1130/abs/2020AM-357379.",
+      "limitations": "No full experimental methods, dimensions, scaling or raw data recovered. Reported analog experiments are not a calibrated Moxee reconstruction. Uploaded-presentation listing contained no files in retrieved page.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
