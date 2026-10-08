@@ -1,0 +1,41 @@
+{
+  "status": "SOURCE_TRANSCRIPTION_NOT_NEW_DATING",
+  "records": [
+    {
+      "source_id": "S205",
+      "entry": "Ertec417",
+      "locator": "printed48/PDF49",
+      "sample_id": "RD-16",
+      "rock": "Basalt, Buckskin Mountains, Arizona",
+      "age_Ma": 9.3,
+      "reported_plus_minus_Ma": 0.6,
+      "latitude_degrees_minutes": "34 13.50",
+      "longitude_degrees_minutes": "114 05.60",
+      "coordinate_datum": null,
+      "coordinate_uncertainty": null,
+      "method_cell": null,
+      "reference": "24: Fugro Incorporated1976, Sundesert PSAR Appendix2.5J",
+      "uncertainty_convention": null
+    },
+    {
+      "source_id": "S206",
+      "entry": "219",
+      "locator": "printed24/PDF30",
+      "sample_id": "RD-16",
+      "rock": "Basalt; Osborne Wash Formation (?)",
+      "age_Ma": 9.6,
+      "reported_plus_minus_Ma": 0.6,
+      "latitude_degrees_minutes": "34 13.32",
+      "longitude_degrees_minutes": "114 05.63",
+      "coordinate_datum": null,
+      "coordinate_uncertainty": null,
+      "method_cell": "KA/w.r.",
+      "reference": "Fugro1975; reported in Calzia and Morton1980",
+      "uncertainty_convention": null,
+      "relation_reported": "Basalt below base of Bouse Formation, western Buckskin Mountains, Black Peak quadrangle",
+      "laboratory": null,
+      "potassium_measurement": null,
+      "argon_measurement": null
+    }
+  ]
+}

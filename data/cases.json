@@ -523,6 +523,16 @@
           "source_id": "S204",
           "locator": "Printed84/PDF97 and86/PDF99, Sundesert entries75-1/2/3/6/7",
           "statement": "Annotated bibliography separates microfossil, dating, site-investigation, paleomagnetic and geomorphic reports with volume/appendix locators. These are retrieval targets; the underlying sample measurements and the9.6 Ma basalt identity remain unverified."
+        },
+        {
+          "source_id": "S205",
+          "locator": "Printed48/PDF49 entry417",
+          "statement": "Compilation lists Buckskin basalt RD-16 at9.3 ±0.6 Ma; original method cell blank and original analytical data uninspected."
+        },
+        {
+          "source_id": "S206",
+          "locator": "Printed24/PDF30 entry219 and printed2/PDF8",
+          "statement": "Compilation identifies RD-16 as9.60 ±0.60 Ma K-Ar whole-rock basalt below Bouse, with tentative Osborne Wash assignment. Age and coordinates differ from S205; general recalculation policy is disclosed but RD-16-specific calculation remains unreproduced."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

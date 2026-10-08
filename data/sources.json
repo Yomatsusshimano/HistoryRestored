@@ -3253,6 +3253,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S205",
+      "title": "Regional neotectonic analysis of the Sonoran Desert",
+      "url": "https://pubs.usgs.gov/of/1982/0057/report.pdf",
+      "creator": "Bruce A. Schell and Kenneth L. Wilson, with Gary E. Christenson and Steve L. Scott",
+      "publication_date": "1981",
+      "source_type": "radiometric age compilation",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed48/PDF49 entry417 visually checked; printed53/PDF54 reference24 text-read. Cover1981, OFR82-57. SHA256 3c24f2381a3a44bc6ef0b78cd8e721d05a8ae95e8d78ef2a71873383cfb9236f.",
+      "limitations": "Compilation entry only; original analytical report, method blank, datum and error convention unresolved.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S206",
+      "title": "Compilation of radiometric age determinations in Arizona, Bulletin197, first PDF segment",
+      "url": "https://data.azgs.arizona.edu/api/v1/collections/AGSB-1552426601054-677/bulletin_197_txt_1.pdf",
+      "creator": "S.J. Reynolds, F.P. Florence, J.W. Welty, M.S. Roddy, D.A. Currier, A.V. Anderson and S.B. Keith",
+      "publication_date": "1986",
+      "source_type": "radiometric age compilation",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed2/PDF8 recalculation policy and printed24/PDF30 entry219 visually inspected. First50-page segment SHA256 8c793e92aaffdc51b3864ffa905a8bdf995185080ad559562273f13a90ef2a0d.",
+      "limitations": "Not entire bulletin; RD-16 lacks raw analytical inputs and sample-specific recalculation documentation. General policy does not establish the cause of every revised age.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

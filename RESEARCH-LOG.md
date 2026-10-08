@@ -912,3 +912,7 @@ Previous turn published verified progress; clean tree confirmed. S183 indexed pa
 ### 2026-10-08 — Sundesert appendix retrieval targets
 
 Previous turn published verified progress; clean tree confirmed. Targeted searches led to USGS OFR83-834. Web PDF request failed403, ordinary local retrieval succeeded with certificate validation retained. Hashed215-page PDF and visually checked printed84/86. Registered S204 and separated five original-report targets. Catalog year1982/report identifier83-834 retained; no dating samples, polarity boundary or sample match promoted from bibliography to verified analysis. Original appendices remain unrecovered.
+
+### 2026-10-08 — RD-16 sample identity recovered
+
+Previous turn published verified progress; clean checkout confirmed. Retrieved USGS regional compilation; candidate RD-16 led targeted search to accessible AZGS Bulletin197 first segment. Visually checked both entries and1986 recalculation policy. Published identifier crosswalk, both age/location versions and absent analytical fields. No conversion reproduced or causal explanation assumed; original report versions and mapped Bouse contact remain unresolved.

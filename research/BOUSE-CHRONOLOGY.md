@@ -72,3 +72,5 @@ Targeted searches recovered S183's indexed age-discussion passage linking9.6 ±0
 Next obtain the compilation entry and original report/sample identifier, then a measured tie from dated material through the sandstone/carbonate transition to the fossil horizons. Local interleaving makes a formation-wide age transfer insufficient. Failed retrieval neither disproves the reported date nor supplies evidence for historical deposition.
 
 The [Sundesert record locator audit](SUNDESERT-RECORD-LOCATORS.md) now distinguishes dating, fossil, paleomagnetic and site-report appendices using S204. Underlying analytical records remain unrecovered; do not repeat bibliography discovery as pending.
+
+Update: the [RD-16 compilation audit](RD16-BASALT.md) now recovers the9.60 Ma entry and an earlier9.3 Ma version. Sample identity in the compilation is recovered; original laboratory analysis, coordinate reconciliation and contact verification remain pending.

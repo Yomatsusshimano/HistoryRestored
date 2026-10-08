@@ -296,3 +296,5 @@ S203 original K-Ar table resolves9.2 Ma material as sanidine in tuff, correcting
 S203 contact audit separates reported sandstone/carbonate interfingering from inferred upper-volcanic ordering. Reynolds1986 PDF and S183 direct article access failed403;9.6 Ma sample remains unresolved. Fugro1975 Parker Valley section2.5 pp.53-63 is a bibliographic lead, not a confirmed sample match. Next compilation entry, original sample and measured fossil-bed tie.
 
 S204 Sundesert bibliography recovered and selected pages visually checked. Separate original-record targets recorded in research/SUNDESERT-RECORD-LOCATORS.md; no original9.6 Ma sample match. Next retrieve named appendices and accession/version metadata, not another generalized Fugro citation.
+
+S205/S206 recover RD-16 across two compilations:9.3 versus9.60 Ma, differing coordinates and1976/1975 citations. Next original analytical page and Calzia/Morton1980; preserve general versus sample-specific recalculation distinction. Do not repeat compilation retrieval or sample-ID discovery as pending.
