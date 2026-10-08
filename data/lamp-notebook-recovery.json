@@ -5,22 +5,182 @@
   "notebook": "N-79-02-24.2",
   "inspected_viewer_images": [
     1,
-    2
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
   ],
   "total_viewer_images": 21,
   "rights_display": "CC0 1.0 Universal shown by archive metadata and viewer",
   "images": [
     {
+      "viewer_image": 1,
       "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1011.jpg",
       "path": "sources/originals/N031051-be1011.jpg",
       "sha256": "ce59a33964c9a8e223441fdb59be018e87f7be19159998ed0d9f9fe0fe75fab9",
       "right_hand_manuscript_page": 51
     },
     {
+      "viewer_image": 2,
       "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1012.jpg",
       "path": "sources/originals/N031051-be1012.jpg",
       "sha256": "55aff6224dce0948697c2ad77d34d9a210c48a41b594674d9e7b205697a2c69a",
       "right_hand_manuscript_page": 53
+    },
+    {
+      "viewer_image": 3,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1013.jpg",
+      "path": "sources/originals/N031051-be1013.jpg",
+      "sha256": "1b5e222b29ed5a93d9aca30b62896806276700f57a62e39a1a710b2babaa6be6",
+      "right_hand_manuscript_page": 55
+    },
+    {
+      "viewer_image": 4,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1014.jpg",
+      "path": "sources/originals/N031051-be1014.jpg",
+      "sha256": "020f46018ebda209212cefb7bc6b37b0ee18f1b65644de25d2f19aa5863f4365",
+      "right_hand_manuscript_page": 57
+    },
+    {
+      "viewer_image": 5,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1015.jpg",
+      "path": "sources/originals/N031051-be1015.jpg",
+      "sha256": "74c91ef176f260bb4b2ba0a515145893eba658d0d72b3f590f868f1fcdc547aa",
+      "right_hand_manuscript_page": 59
+    },
+    {
+      "viewer_image": 6,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1016.jpg",
+      "path": "sources/originals/N031051-be1016.jpg",
+      "sha256": "6b9a552b0bbfc5a30a22ccf7ad666e1dd9c488cea0719236c6f03efbec0aa334",
+      "right_hand_manuscript_page": 61
+    },
+    {
+      "viewer_image": 7,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1017.jpg",
+      "path": "sources/originals/N031051-be1017.jpg",
+      "sha256": "0a3dbda47d485fa04f9bd5487020094bf2a0861a63c65293575feef766dce11d",
+      "right_hand_manuscript_page": 63
+    },
+    {
+      "viewer_image": 8,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1018.jpg",
+      "path": "sources/originals/N031051-be1018.jpg",
+      "sha256": "49c3605245154807c3ad0c449db0f21e17da705829a274ce276c72e3e72a59f5",
+      "right_hand_manuscript_page": 65
+    },
+    {
+      "viewer_image": 9,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1019.jpg",
+      "path": "sources/originals/N031051-be1019.jpg",
+      "sha256": "45a05b9f8d4bb83f8c186abd97c7b0332fb47910a660c1de4f55c259f4bb3af3",
+      "right_hand_manuscript_page": 67
+    },
+    {
+      "viewer_image": 10,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1020.jpg",
+      "path": "sources/originals/N031051-be1020.jpg",
+      "sha256": "31bd934a528b33cab31aa594b2cae2bd26e33d51c50b7257849977401cec41f5",
+      "right_hand_manuscript_page": 69
+    },
+    {
+      "viewer_image": 11,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1021.jpg",
+      "path": "sources/originals/N031051-be1021.jpg",
+      "sha256": "90f31976ca0ac24b5cea01c3b8df657c6c84dbf9b108c7683b49108017528269",
+      "right_hand_manuscript_page": 71
+    },
+    {
+      "viewer_image": 12,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1022.jpg",
+      "path": "sources/originals/N031051-be1022.jpg",
+      "sha256": "4bcdfa97ac009a3ff38cfe01df080f70b6188161a015568ada2461593215ebaa",
+      "right_hand_manuscript_page": 73
+    },
+    {
+      "viewer_image": 13,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1023.jpg",
+      "path": "sources/originals/N031051-be1023.jpg",
+      "sha256": "45a9e9ee769f19dc82214adc03f316e14f886956fb0851b673d35c688ae2fb70",
+      "right_hand_manuscript_page": 75
+    },
+    {
+      "viewer_image": 14,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1024.jpg",
+      "path": "sources/originals/N031051-be1024.jpg",
+      "sha256": "8dcff5a3ac6548613e31f8d693863e6f9ef132dc033e974aa663e5accb167d7e",
+      "right_hand_manuscript_page": 77
+    },
+    {
+      "viewer_image": 15,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1025.jpg",
+      "path": "sources/originals/N031051-be1025.jpg",
+      "sha256": "de4abad104505adc81bfc1c473165e984993584e03fffe5aa6715a1c9ba3f61e",
+      "right_hand_manuscript_page": 79
+    },
+    {
+      "viewer_image": 16,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1026.jpg",
+      "path": "sources/originals/N031051-be1026.jpg",
+      "sha256": "b676958e4e2cc6ecd6148d429db6cf627b14c7389da9da590762ec112d4676de",
+      "right_hand_manuscript_page": 81
+    },
+    {
+      "viewer_image": 17,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1027.jpg",
+      "path": "sources/originals/N031051-be1027.jpg",
+      "sha256": "e2feb91822773188164c127dcf198a4818e7c83970f6de655d265c5d7550ff26",
+      "right_hand_manuscript_page": 83
+    },
+    {
+      "viewer_image": 18,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1028.jpg",
+      "path": "sources/originals/N031051-be1028.jpg",
+      "sha256": "2e6b30a6e79d219115a66f1ef775e01085390fc7ce01841ca19cecb6cb247b60",
+      "right_hand_manuscript_page": 85
+    },
+    {
+      "viewer_image": 19,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1029.jpg",
+      "path": "sources/originals/N031051-be1029.jpg",
+      "sha256": "e1804342fdf44ea0f86b9f1cbfeb5584da9ec52fdc8c83784c064446bfae0501",
+      "right_hand_manuscript_page": 87
+    },
+    {
+      "viewer_image": 20,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1030.jpg",
+      "path": "sources/originals/N031051-be1030.jpg",
+      "sha256": "c109b9e5e44e169b8130b60a7e915a78491c13484f68f36c2ca9612febf851ed",
+      "right_hand_manuscript_page": 89
+    },
+    {
+      "viewer_image": 21,
+      "url": "https://edisondigital.rutgers.edu/files/original/N031051/be1031.jpg",
+      "path": "sources/originals/N031051-be1031.jpg",
+      "sha256": "d92b4768fa799d6250938d44ee80bc0d1ff0fb20b67dda133a92d74e6a33febf",
+      "right_hand_manuscript_page": 93
     }
-  ]
+  ],
+  "manifest": {
+    "url": "https://edisondigital.rutgers.edu/iiif/2/N031051/manifest",
+    "path": "sources/originals/N031051-manifest.json",
+    "sha256": "f2e5b30d49368bc70875517bb0eca6b0a362732122fff20cf0571441f36892d1"
+  },
+  "inspection_limit": "All 21 viewer images visually inspected; not a complete diplomatic transcription or authentication. Item sequence omits manuscript pages 90-91; reason unknown."
 }

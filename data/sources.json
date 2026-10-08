@@ -2842,9 +2842,23 @@
       "publication_date": "1879-03-01",
       "source_type": "contemporary notebook manuscript facsimile",
       "access": "SCAN_INSPECTED",
-      "inspected": "Metadata and first two of 21 viewer images, be1011 (right page 51) and be1012 (right page 53), visually inspected. Microfilm 31:1018; notebook N-79-02-24.2. Original image downloads saved and hashed.",
-      "limitations": "Partial manuscript only, not a complete transcription or final claims. Documentary date and archive attribution not independently authenticated. No measured performance, assignment, priority determination or exact mapping to final patent established here.",
+      "inspected": "All 21 archive viewer images be1011-be1031 visually inspected; right-hand manuscript pages 51-89 by odd numbers, then 93. Six claims on pp.85/87. Original image set and IIIF manifest preserved with hashes in data/lamp-notebook-recovery.json.",
+      "limitations": "Not a complete diplomatic transcription or authentication. Sequence omits pp.90-91; reason unknown. Design and performance assertions are not independent trials. Correspondence to US227229 documented; original filed text, prosecution, ownership and absolute priority remain unverified.",
       "local_copy": "sources/originals/N031051-be1011.jpg",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S176",
+      "title": "US 227,229: Electric Light",
+      "url": "https://patentimages.storage.googleapis.com/6f/87/89/7b2c007e4e0186/US227229.pdf",
+      "creator": "Thomas Alva Edison; United States Patent Office",
+      "publication_date": "1880-05-04",
+      "source_type": "original granted patent facsimile",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All three PDF pages rendered and visually inspected: drawing, heading, description, five claims and signature. SHA256 c2d5d587730373dfc8338681f6e53890c77f258b67ccbb8be1100378a97dbe40.",
+      "limitations": "Granted specification, not the original filed application or prosecution history. Performance assertions are not independently measured trials. Earlier application No.166 remains unlinked. No ownership-transfer or absolute-priority conclusion.",
+      "local_copy": "sources/originals/US227229.pdf",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
