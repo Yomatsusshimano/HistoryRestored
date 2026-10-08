@@ -1,0 +1,72 @@
+{
+  "convention": "Inclusive expanded date ranges; astronomical year numbering (1 BCE = 0). Sum counts overlaps repeatedly; union counts each year once.",
+  "rows": [
+    {
+      "subset": "all",
+      "margin": 3,
+      "matched": 24,
+      "n_years": 229,
+      "mean": 0.24017,
+      "row_count": 32,
+      "computed_sum_years": 229,
+      "computed_unique_years": 185,
+      "matches_sum": true
+    },
+    {
+      "subset": "all",
+      "margin": 2,
+      "matched": 20,
+      "n_years": 165,
+      "mean": 0.26061,
+      "row_count": 32,
+      "computed_sum_years": 165,
+      "computed_unique_years": 146,
+      "matches_sum": true
+    },
+    {
+      "subset": "all",
+      "margin": 1,
+      "matched": 16,
+      "n_years": 101,
+      "mean": 0.30693,
+      "row_count": 32,
+      "computed_sum_years": 101,
+      "computed_unique_years": 99,
+      "matches_sum": true
+    },
+    {
+      "subset": "probable",
+      "margin": 3,
+      "matched": 18,
+      "n_years": 155,
+      "mean": 0.21935,
+      "row_count": 24,
+      "computed_sum_years": 172,
+      "computed_unique_years": 138,
+      "matches_sum": false
+    },
+    {
+      "subset": "probable",
+      "margin": 2,
+      "matched": 14,
+      "n_years": 124,
+      "mean": 0.25,
+      "row_count": 24,
+      "computed_sum_years": 124,
+      "computed_unique_years": 108,
+      "matches_sum": true
+    },
+    {
+      "subset": "probable",
+      "margin": 1,
+      "matched": 11,
+      "n_years": 76,
+      "mean": 0.28947,
+      "row_count": 24,
+      "computed_sum_years": 76,
+      "computed_unique_years": 74,
+      "matches_sum": true
+    }
+  ],
+  "limits": "No ice-event series supplied; matches, means and p-values not reproduced. Counting diagnostics alone cannot invalidate chronology."
+}

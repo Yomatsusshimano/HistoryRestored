@@ -1469,6 +1469,11 @@
           "source_id": "S107",
           "locator": "Methods PDF p.9; Extended Data Table 2 PDF p.17",
           "statement": "Methods explicitly identify evaluation observations excluded from chronology development; the table distinguishes initial layer-count ages from later constraints."
+        },
+        {
+          "source_id": "S108",
+          "locator": "PDF pp.9-10,13",
+          "statement": "Thirty-two historical date/rank rows and six aggregate matching summaries are available; individual ice-event assignments remain unverified."
         }
       ],
       "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",

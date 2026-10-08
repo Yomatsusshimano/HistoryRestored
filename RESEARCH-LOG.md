@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Historical validation supplement recovered
+
+Previous turn made progress: 1b36451 published seven publicly byte-verified files. Clean checkout confirmed. Nature landing-page access failed; WHOI supplied the 13-page historical supplement. Rendered and inspected pp.9-10 and 13 despite font warnings. Added S108 and 32 date/rank rows; individual match status remains null. Inclusive-window arithmetic reproduces five of six published denominators. Probable-only ±3 gives 172 summed years versus reported 155 (union 138), preserved as unresolved rather than corrected. Boundary/range/overlap tests check arithmetic only; match counts, simulation and significance remain unreproduced. Full goal remains active.
+
 ## 2026-10-08 - Ice-core constraint and validation roles
 
 Previous turn made progress: 04aa1e3 published eight publicly byte-verified files. Clean checkout confirmed. Inspected S107 methods and rendered Extended Data Tables 2-3. Transcribed six Greenland horizon rows with initial versus constrained dates distinguished. Methods explicitly exclude the listed validation checks from chronology development, narrowing the earlier unresolved-dependence question. Recorded 24 matches and eight misses among 32 historical checks without reproducing the significance calculation. Preserved 993 ice versus 993/994 seasonal tree-marker distinction; no blanket seven-year final correction applied. Full goal remains active.

@@ -1764,6 +1764,21 @@
       "downloaded_pdf_sha256": "fcd1387f22731f778e9b0f973ad5137ac008cdab3f2bb6272aab9fd35cf4fffc",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S108",
+      "title": "Supplementary historical documentary data and Monte Carlo summary for Sigl et al. (2015)",
+      "creator": "Sigl and colleagues",
+      "publication_date": "2015",
+      "source_type": "Original research supplement",
+      "url": "https://www.whoi.edu/fileserver.do?id=240285&p=244409&pt=2",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF pp.9-10 date/rank table and notes, p.13 statistical summary visually inspected.",
+      "limitations": "Historical originals and simulation code uninspected; individual matched/unmatched assignments not supplied in inspected tables.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "0fdb51c5668c4b5bc0dcfcbb7d0e652a7909cc9f2619d1132fcc03e6966b2802",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

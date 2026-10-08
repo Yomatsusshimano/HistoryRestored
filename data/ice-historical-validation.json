@@ -1,0 +1,403 @@
+{
+  "source_id": "S108",
+  "case_id": "C023",
+  "rows": [
+    {
+      "row": 1,
+      "years_as_printed": [
+        255,
+        255
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 1",
+      "matched_to_ice": null
+    },
+    {
+      "row": 2,
+      "years_as_printed": [
+        247,
+        247
+      ],
+      "era": "BCE",
+      "rank": "Possible",
+      "locator": "PDF p.9, table row 2",
+      "matched_to_ice": null
+    },
+    {
+      "row": 3,
+      "years_as_printed": [
+        231,
+        231
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 3",
+      "matched_to_ice": null
+    },
+    {
+      "row": 4,
+      "years_as_printed": [
+        221,
+        221
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 4",
+      "matched_to_ice": null
+    },
+    {
+      "row": 5,
+      "years_as_printed": [
+        217,
+        217
+      ],
+      "era": "BCE",
+      "rank": "Possible",
+      "locator": "PDF p.9, table row 5",
+      "matched_to_ice": null
+    },
+    {
+      "row": 6,
+      "years_as_printed": [
+        212,
+        212
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 6",
+      "matched_to_ice": null
+    },
+    {
+      "row": 7,
+      "years_as_printed": [
+        208,
+        208
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 7",
+      "matched_to_ice": null
+    },
+    {
+      "row": 8,
+      "years_as_printed": [
+        203,
+        203
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 8",
+      "matched_to_ice": null
+    },
+    {
+      "row": 9,
+      "years_as_printed": [
+        200,
+        200
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 9",
+      "matched_to_ice": null
+    },
+    {
+      "row": 10,
+      "years_as_printed": [
+        183,
+        183
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 10",
+      "matched_to_ice": null
+    },
+    {
+      "row": 11,
+      "years_as_printed": [
+        164,
+        164
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 11",
+      "matched_to_ice": null
+    },
+    {
+      "row": 12,
+      "years_as_printed": [
+        161,
+        161
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 12",
+      "matched_to_ice": null
+    },
+    {
+      "row": 13,
+      "years_as_printed": [
+        147,
+        147
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 13",
+      "matched_to_ice": null
+    },
+    {
+      "row": 14,
+      "years_as_printed": [
+        145,
+        144
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 14",
+      "matched_to_ice": null
+    },
+    {
+      "row": 15,
+      "years_as_printed": [
+        141,
+        141
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 15",
+      "matched_to_ice": null
+    },
+    {
+      "row": 16,
+      "years_as_printed": [
+        137,
+        137
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 16",
+      "matched_to_ice": null
+    },
+    {
+      "row": 17,
+      "years_as_printed": [
+        125,
+        124
+      ],
+      "era": "BCE",
+      "rank": "Possible",
+      "locator": "PDF p.9, table row 17",
+      "matched_to_ice": null
+    },
+    {
+      "row": 18,
+      "years_as_printed": [
+        121,
+        121
+      ],
+      "era": "BCE",
+      "rank": "Possible",
+      "locator": "PDF p.9, table row 18",
+      "matched_to_ice": null
+    },
+    {
+      "row": 19,
+      "years_as_printed": [
+        90,
+        90
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.9, table row 19",
+      "matched_to_ice": null
+    },
+    {
+      "row": 20,
+      "years_as_printed": [
+        84,
+        84
+      ],
+      "era": "BCE",
+      "rank": "Possible",
+      "locator": "PDF p.9, table row 20",
+      "matched_to_ice": null
+    },
+    {
+      "row": 21,
+      "years_as_printed": [
+        44,
+        42
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 21",
+      "matched_to_ice": null
+    },
+    {
+      "row": 22,
+      "years_as_printed": [
+        32,
+        32
+      ],
+      "era": "BCE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 22",
+      "matched_to_ice": null
+    },
+    {
+      "row": 23,
+      "years_as_printed": [
+        14,
+        14
+      ],
+      "era": "CE",
+      "rank": "Possible",
+      "locator": "PDF p.10, table row 23",
+      "matched_to_ice": null
+    },
+    {
+      "row": 24,
+      "years_as_printed": [
+        188,
+        188
+      ],
+      "era": "CE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 24",
+      "matched_to_ice": null
+    },
+    {
+      "row": 25,
+      "years_as_printed": [
+        300,
+        300
+      ],
+      "era": "CE",
+      "rank": "Possible",
+      "locator": "PDF p.10, table row 25",
+      "matched_to_ice": null
+    },
+    {
+      "row": 26,
+      "years_as_printed": [
+        308,
+        308
+      ],
+      "era": "CE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 26",
+      "matched_to_ice": null
+    },
+    {
+      "row": 27,
+      "years_as_printed": [
+        311,
+        311
+      ],
+      "era": "CE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 27",
+      "matched_to_ice": null
+    },
+    {
+      "row": 28,
+      "years_as_printed": [
+        352,
+        352
+      ],
+      "era": "CE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 28",
+      "matched_to_ice": null
+    },
+    {
+      "row": 29,
+      "years_as_printed": [
+        360,
+        360
+      ],
+      "era": "CE",
+      "rank": "Possible",
+      "locator": "PDF p.10, table row 29",
+      "matched_to_ice": null
+    },
+    {
+      "row": 30,
+      "years_as_printed": [
+        416,
+        417
+      ],
+      "era": "CE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 30",
+      "matched_to_ice": null
+    },
+    {
+      "row": 31,
+      "years_as_printed": [
+        499,
+        499
+      ],
+      "era": "CE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 31",
+      "matched_to_ice": null
+    },
+    {
+      "row": 32,
+      "years_as_printed": [
+        501,
+        501
+      ],
+      "era": "CE",
+      "rank": "Probable",
+      "locator": "PDF p.10, table row 32",
+      "matched_to_ice": null
+    }
+  ],
+  "limits": "Date ranges retain inclusive endpoints; and/or 416/417 represented as both candidate years, not proven continuous observation. Ranks are author judgments; individual matches unassigned. Original historical texts not inspected.",
+  "reported_statistics": [
+    {
+      "subset": "all",
+      "margin": 3,
+      "matched": 24,
+      "n_years": 229,
+      "mean": 0.24017
+    },
+    {
+      "subset": "all",
+      "margin": 2,
+      "matched": 20,
+      "n_years": 165,
+      "mean": 0.26061
+    },
+    {
+      "subset": "all",
+      "margin": 1,
+      "matched": 16,
+      "n_years": 101,
+      "mean": 0.30693
+    },
+    {
+      "subset": "probable",
+      "margin": 3,
+      "matched": 18,
+      "n_years": 155,
+      "mean": 0.21935
+    },
+    {
+      "subset": "probable",
+      "margin": 2,
+      "matched": 14,
+      "n_years": 124,
+      "mean": 0.25
+    },
+    {
+      "subset": "probable",
+      "margin": 1,
+      "matched": 11,
+      "n_years": 76,
+      "mean": 0.28947
+    }
+  ]
+}
