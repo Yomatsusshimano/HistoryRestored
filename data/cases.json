@@ -625,6 +625,11 @@
           "source_id": "S59",
           "locator": "Item metadata and ORIGINAL bundle API, checked 2026-10-08",
           "statement": "Repository designates external Globus storage; no model files retrieved. Availability supplement records actual access limits."
+        },
+        {
+          "source_id": "S125",
+          "locator": "Section 3.1, Table 1",
+          "statement": "Grand Coulee discharge estimates depend on reconstructed versus present terrain and outlet configuration; see research/GRAND-COULEE-MODEL.md."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.",

@@ -1,0 +1,31 @@
+{
+  "source_id": "S126",
+  "accessed_date": "2026-10-08",
+  "url": "https://scholarworks.umass.edu/bitstreams/e0eb9412-d19e-4ba6-9be5-e6ad46eeb90a/download",
+  "bytes": 284322,
+  "sha256": "459d1db73f006bd24746d695ebc5e9ca67f6834610dddbf2b85cfbb6622acbe4",
+  "entries": [
+    {
+      "path": "area_error_column_counts/",
+      "uncompressed_bytes": 0
+    },
+    {
+      "path": "area_error_column_counts/column_counts-20210201T193956Z-001.zip",
+      "uncompressed_bytes": 7568
+    },
+    {
+      "path": "__MACOSX/area_error_column_counts/._column_counts-20210201T193956Z-001.zip",
+      "uncompressed_bytes": 455
+    },
+    {
+      "path": "area_error_column_counts/area_error_polygons-20210201T193946Z-001.zip",
+      "uncompressed_bytes": 294170
+    },
+    {
+      "path": "__MACOSX/area_error_column_counts/._area_error_polygons-20210201T193946Z-001.zip",
+      "uncompressed_bytes": 555
+    }
+  ],
+  "nested_contents_inspected": false,
+  "model_executed": false
+}

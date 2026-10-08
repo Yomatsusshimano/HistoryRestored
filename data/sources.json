@@ -2011,6 +2011,35 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S125",
+      "title": "Pleistocene Megaflood Discharge in Grand Coulee, Channeled Scabland, USA",
+      "creator": "K. E. Lehnigk and I. J. Larsen",
+      "publication_date": "2022",
+      "source_type": "Original research article",
+      "url": "https://doi.org/10.1029/2021JF006135",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "HTML section 3.1, Table 1 and data availability statement.",
+      "limitations": "Model outputs not reproduced; figure graphics and supplement not inspected.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S126",
+      "title": "Grand Coulee model dataset README",
+      "creator": "K. Lehnigk",
+      "publication_date": "2021-11-24",
+      "source_type": "Author dataset documentation",
+      "url": "https://scholarworks.umass.edu/bitstreams/a06e913f-1976-4af0-8e2c-fa6fa0e6dbf1/download",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Header; directory descriptions A-B and K-L; additional notes on file relationships. Software requirements and associated ZIP directory listing.",
+      "limitations": "README inspected; associated simulation files not yet inspected or executed.",
+      "local_copy": null,
+      "downloaded_sha256": "00998b6d1c293beea243ffabda76c8e32bd6d0a63ff549e66724c90459aea7cf",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

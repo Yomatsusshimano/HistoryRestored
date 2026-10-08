@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Grand Coulee terrain and reproduction lead
+
+Previous turn made progress: ba38a6c publicly verified six files. Clean checkout confirmed. Added S125-S126 after inspecting selected article text and downloading the author README. Distinguished fitting controls from future independent tests. Direct DOI resolution recovered a repository and advertised ZIP despite web-tool access failures. No hydraulic execution or independent validation claimed. Downloaded and listed advertised ZIP: ancillary nested archives, not full model verified. Recorded hash, listing and legacy software requirements. Next action: locate full model files and inspect nested ancillary data. Full goal remains active.
+
 ## 2026-10-08 - Conditional flood throughput bound
 
 Previous turn made progress: 1f65c81 published seven verified files; clean checkout confirmed. Returned to objective 5 and inspected existing model, input and pulse-budget audits. Executed a cap-based conservation bound: at the conditionally assumed printed discharge cap, 100 days passes at most 8,640 km³, leaving at least 91.36% of the proposed reservoir outside that section's throughput. Source does not establish the cap; result is conditional and cannot adjudicate the actual flood alone. Three numerical/domain checks pass. Complete 2000 commentary still not retrieved in this turn's bounded search. No hydraulic simulation or spatial validation claimed. Full goal remains active.
