@@ -220,18 +220,19 @@ Place: Paris, France. Status: SOURCED_DRAFT.
 
 - The museum catalogs a view described as tower construction on 10 February 1888. [S08](https://www.parismuseescollections.paris.fr/en/node/587811). Locator: Indexed museum catalog title. Access: SEARCH_EXCERPT. Limit: Actual photograph not inspected. Direct page mostly navigation, then timeout. Photographer, inventory number and provenance unverified.
 - Eiffel published a departmental personnel roster and an itemized cost account, ending at 7,799,401.31 francs for the Tower as operated during the exhibition. [S17](https://doi.org/10.3931/e-rara-28271). Locator: Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Access: SCAN_INSPECTED. Limit: Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts.
+- The participant account distinguishes workshop preparation from site assembly, names Dupont and Fould at Pompey as iron supplier, reports 18,038 different pieces detailed and 6,360 tonnes delivered by the workshop, excluding site rivets and directly supplied accessories. [S17](https://doi.org/10.3931/e-rara-28271). Locator: Third part, chapter II, section 1, pp.100-101; canvases 8976047-8976048. Access: SCAN_INSPECTED. Limit: Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts.
 
-**Physical evidence:** Digitized roster and cost-account pages visually inspected; museum photograph and building fabric not inspected.
+**Physical evidence:** Digitized roster, cost account and workshop-account pages visually inspected; museum photograph and building fabric not inspected.
 
 **Surviving documents:** 1900 participant monograph with personnel and cost breakdown; earlier museum photograph catalog lead retained.
 
 **Source interpretation:** Eiffel presents a constructed project with named staff and separate infrastructure, superstructure and overhead costs.
 
-**Investigation inference:** This is a checkable construction account beyond a caption; its principal cost subtotals reconcile. That supports further documentary testing, not independent authentication of every expenditure.
+**Investigation inference:** This is a checkable construction account beyond a caption; its principal cost subtotals reconcile. That supports further documentary testing, not independent authentication of every expenditure. The quoted 250-worker site limit cannot be treated as total project labor; fabrication has a named upstream supplier and explicit quantity exclusions.
 
 **Counterevidence:** The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.
 
-**Next test:** Cross-check supplier invoices, payroll and dated construction images against the monograph; reconcile quantities and labor productivity before judging feasibility.
+**Next test:** Recover Pompey supplier orders and dispatch records, Levallois payroll and original drawing/part registers; compare them with pp.100-101 and dated construction images.
 
 **Dependence:** Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration.
 

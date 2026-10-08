@@ -450,18 +450,23 @@
           "source_id": "S17",
           "locator": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172",
           "statement": "Eiffel published a departmental personnel roster and an itemized cost account, ending at 7,799,401.31 francs for the Tower as operated during the exhibition."
+        },
+        {
+          "source_id": "S17",
+          "locator": "Third part, chapter II, section 1, pp.100-101; canvases 8976047-8976048",
+          "statement": "The participant account distinguishes workshop preparation from site assembly, names Dupont and Fould at Pompey as iron supplier, reports 18,038 different pieces detailed and 6,360 tonnes delivered by the workshop, excluding site rivets and directly supplied accessories."
         }
       ],
-      "physical_evidence": "Digitized roster and cost-account pages visually inspected; museum photograph and building fabric not inspected.",
+      "physical_evidence": "Digitized roster, cost account and workshop-account pages visually inspected; museum photograph and building fabric not inspected.",
       "surviving_documents": "1900 participant monograph with personnel and cost breakdown; earlier museum photograph catalog lead retained.",
       "source_interpretation": "Eiffel presents a constructed project with named staff and separate infrastructure, superstructure and overhead costs.",
-      "investigation_inference": "This is a checkable construction account beyond a caption; its principal cost subtotals reconcile. That supports further documentary testing, not independent authentication of every expenditure.",
+      "investigation_inference": "This is a checkable construction account beyond a caption; its principal cost subtotals reconcile. That supports further documentary testing, not independent authentication of every expenditure. The quoted 250-worker site limit cannot be treated as total project labor; fabrication has a named upstream supplier and explicit quantity exclusions.",
       "competing_explanations": [
         "Recorded construction",
         "Repair/reassembly if fabric and earlier records support it"
       ],
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
-      "next_test": "Cross-check supplier invoices, payroll and dated construction images against the monograph; reconcile quantities and labor productivity before judging feasibility.",
+      "next_test": "Recover Pompey supplier orders and dispatch records, Levallois payroll and original drawing/part registers; compare them with pp.100-101 and dated construction images.",
       "chronology": {
         "reported": "1900 monograph publication; 10 February 1888 in separate photograph catalog title",
         "dated_object": "Publication and cataloged view; neither a direct material date",

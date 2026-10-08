@@ -282,7 +282,7 @@
       "publication_date": "1900",
       "source_type": "participant technical monograph",
       "access": "SCAN_INSPECTED",
-      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only.",
+      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only. Third part, chapter II, section 1, pp.100-101 (chapter PDF pages 17-18; canvases 8976047-8976048), visually inspected fabrication, personnel and quantity paragraphs.",
       "limitations": "Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
@@ -297,6 +297,12 @@
         {
           "url": "https://www.e-rara.ch/download/webcache/1000/8976172",
           "sha256": "4022af6dfe3e35642998d6e3102af624d81b185c9ec47ac8bd6504e4ec273421",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/download/pdf/9073009.pdf",
+          "sha256": "d29ccc1945d3bc133323ff6290b9cf8ec7c69ec3c153bb865238dd47b150b1b5",
           "retrieved_date": "2026-10-08",
           "public_mirror_in_this_repository": false
         }

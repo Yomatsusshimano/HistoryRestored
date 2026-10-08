@@ -1,0 +1,68 @@
+{
+  "case_id": "C006",
+  "source_id": "S17",
+  "status": "VISUALLY_CHECKED_SOURCE_REPORT_NOT_INDEPENDENT_AUDIT",
+  "locator": "Third part, chapter II, section 1, pp.100-101; chapter PDF pages 17-18; canvases 8976047-8976048",
+  "source_pdf_url": "https://www.e-rara.ch/download/pdf/9073009.pdf",
+  "source_pdf_sha256": "d29ccc1945d3bc133323ff6290b9cf8ec7c69ec3c153bb865238dd47b150b1b5",
+  "reported": {
+    "site_workers_maximum_quoted_from_Alfred_Picard": 250,
+    "general_drawings_more_than": 1700,
+    "execution_drawings": 3629,
+    "drawings_rounded_total": 5300,
+    "different_pieces_detailed": 18038,
+    "draftspeople": 30,
+    "drafting_duration_months": 18,
+    "workshop_delivery_tonnes": 6360,
+    "workshop_monthly_tonnes_range": [
+      300,
+      400
+    ],
+    "workshop_period_month_precision": [
+      "1887-06",
+      "1889-03"
+    ],
+    "supplier": "MM. Dupont et Fould, Pompey (Meurthe-et-Moselle)",
+    "people": [
+      {
+        "name": "Maurice Kœchlin",
+        "role": "studies office"
+      },
+      {
+        "name": "Pluot",
+        "role": "detail office"
+      },
+      {
+        "name": "Létourneau",
+        "role": "workshop chief"
+      },
+      {
+        "name": "Pentecôte",
+        "role": "foreman"
+      },
+      {
+        "name": "Gagnot",
+        "role": "foreman"
+      }
+    ]
+  },
+  "scope_limits": [
+    "250 is a quoted construction-site count, not all factory, drafting and supply labor. Picard original not independently inspected.",
+    "6360 tonnes excludes site-installed rivets and accessory pieces delivered directly to the site.",
+    "18038 describes different pieces detailed, not an independently counted surviving inventory.",
+    "Drafting effort is reported; payroll, exact attendance and working hours remain unknown.",
+    "No complete production ledger, invoices, dispatch slips or original drawings inspected."
+  ],
+  "ocr_correction": {
+    "field": "rounded drawing total",
+    "cached_ocr": 3300,
+    "scan": 5300
+  },
+  "diagnostics": {
+    "month_boundary_difference": 21,
+    "inclusive_calendar_month_count": 22,
+    "tonnes_per_month_if_21_equal_months": 302.85714285714283,
+    "tonnes_per_month_if_22_full_months": 289.09090909090907,
+    "interpretation": "Month-only endpoints and rounded prose do not specify operating days. Do not treat the monthly range as 22 exact full-month observations."
+  }
+}
