@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Sloth specimen-quality ledger separated from age arithmetic
+
+Previous turn made progress: 2889615 published seven verified files. Clean checkout rechecked. PMC main access again returned a browser check. An author-uploaded ResearchGate main-text mirror supplied the dated-material wording and Table 4, but its PDF link returned 404. Inspected those portions as text; no new scan or supplement review claimed.
+
+Joined nine printed isotope values to existing laboratory/museum IDs in a separate quality ledger. Collagen yield, C:N, treatment, blanks, replicates and consolidant history remain unknown for these specimens. The values do not change the interval input data or supply missing laboratory-quality verification. Sixteen cases and thirty-six sources remain; no new source was counted for a mirror. Original assay access and independent review are still pending.
+
 ## 2026-10-08 - Later same-site chronology found; sloth redating still unverified
 
 Previous turn made progress: 154d191 published seven verified files. Clean checkout rechecked. Searched AA-58439 and AA-58434 identifiers and sloth preparation/redating terms. No specimen-specific redetermination was found in this limited search. A new original 2022 rodent study from Trouing Jeremie 5 was retrieved through NSF's repository; methods and context read, Table 2 visually checked. PMC initially served the 2005 article but later method searches returned browser checks; no new sloth assay audit claimed.

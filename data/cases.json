@@ -550,6 +550,11 @@
           "source_id": "S36",
           "locator": "Site description and methods p. 4; Table 2 p. 5",
           "statement": "Eight new rodent collagen dates from Trouing Jeremie 5 provide same-site temporal context, not remeasurements of the sloth specimens."
+        },
+        {
+          "source_id": "S22",
+          "locator": "Introduction and Table 4, p. 11766",
+          "statement": "Purified collagen is reported; nine printed carbon-isotope values are retained in a separate incomplete specimen-quality audit."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
@@ -573,7 +578,7 @@
         "event_association": "UNTESTED"
       },
       "missing": [
-        "Preparation and quality audit",
+        "Specimen-specific preparation, collagen yield, C:N, blanks and replicate audit",
         "Original laboratory reports",
         "Specimen-level coordinates",
         "Depositional chronology",

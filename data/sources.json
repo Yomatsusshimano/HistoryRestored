@@ -386,7 +386,9 @@
       "limitations": "No laboratory worksheets, specimens, preparation audit, supplementary text or recalibration. Supplement link returned browser check. Historical paper, not a current literature consensus review.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
-      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "quality_audit": "Main article dated-material wording and Table 4 isotope values checked via author-uploaded text mirror; no original assay or specimen-specific preparation record recovered.",
+      "text_mirror": "https://www.researchgate.net/publication/7673942_Asynchronous_extinction_of_late_Quaternary_sloths_on_continents_and_islands"
     },
     {
       "id": "S23",

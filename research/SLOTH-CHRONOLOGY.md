@@ -63,3 +63,11 @@ No later remeasurement of AA-58439, AA-58434 or AA-58431 was established by this
 Retrieve preparation protocols, collagen-quality measures, original determinations and excavation context. Check later redating and taxonomic revisions by specimen identifier. Recalibrate only with an explicitly named curve, software/version and justified reservoir assumptions; retain the original published results beside any new calculation.
 
 Extend coverage to directly dated continental material and additional island samples before estimating extinction timing. Keep tests of death, deposition, migration and extinction distinct. No global event, cause of extinction, or historical rewriting follows from this extraction.
+
+## Specimen-quality audit update
+
+The author-uploaded [main-text mirror](https://www.researchgate.net/publication/7673942_Asynchronous_extinction_of_late_Quaternary_sloths_on_continents_and_islands) supplies the purified-collagen description and Table 4 carbon-isotope values. The [quality ledger](../data/sloth-quality-audit.json) joins all nine values to laboratory and museum identifiers, including the three endpoint specimens used in the interval comparison. It records unrecovered controls as null.
+
+No specimen-level collagen yield, C:N ratio, treatment protocol, blank or replicate result was recovered in the inspected text. This is a limit of this audit, not a finding that the laboratory did no such work. The supplementary material and original laboratory reports remain uninspected. The table's isotope values cannot stand in for those missing checks; their explicit units were not supplied in the inspected table and are not invented in the ledger.
+
+The interval calculations are unchanged. They remain conditional on published ages, not validated mortality inferences. Neither missing quality information nor a surprising age is sufficient reason to erase a measurement. The next decisive evidence is the specimen-specific laboratory record or a documented repeat assay, preserving the original result alongside any revision.
