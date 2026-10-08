@@ -628,6 +628,16 @@
           "source_id": "S214",
           "locator": "Table1 and printed780/782; research/FISH-CREEK-TUFFS.md; data/fish-creek-tuff-ages.json",
           "statement": "All35 rounded zircon ages retained. Selected17/12 rows yield2.647907/2.596631Ma and MSWD1.292324/0.976567; exact confidence errors not reproduced. Restoring marginal excluded grain shifts means by about11/15kyr, without resolving crystallization-to-deposition transfer."
+        },
+        {
+          "source_id": "S215",
+          "locator": "TableDR1 PDF6; data/fish-creek-tuff-context.json; research/FISH-CREEK-TUFFS.md",
+          "statement": "Lower/upper ash heights4453.5/4487.5m and normal/reversed sites4494.5/4521.5m give a conditional27m boundary bracket. Midpoint reproduces rounded55/21m ash offsets; not a directly sampled boundary or new age."
+        },
+        {
+          "source_id": "S214",
+          "locator": "printed780/PDF10 visually inspected",
+          "statement": "Authors explicitly identify two fine-grained air-fall tuffs in lower100m of lacustrine Tapiado Formation. Published primary-deposition interpretation exists; detailed bed textures and a numerical reworking-lag bound remain unverified."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

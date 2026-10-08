@@ -358,3 +358,8 @@ S214 methods and Fig11 inspected: fossil boundary is an explicit anchor, upper t
 ### 2026-10-08 — Upper tuff grain audit
 
 S214 Table1 all35 ages preserved, selected means reproduced at published precision. Marginal-exclusion sensitivity and uncertainty limits documented. Next original ash-bed depositional context, lab sample crosswalk and full correction/confidence propagation; do not treat rounded-age arithmetic as a new sediment date.
+
+
+### 2026-10-08 — Tuff field setting and reversal bracket
+
+Tuff field interpretation recovered explicitly as air-fall; original magnetic table places two beds and a27m reversal bracket, whose midpoint explains rounded55/21m offsets. Next ash-specific contacts/textures and original sampling crosswalk. Along-strike sites are not extra layers; midpoint is not a measured reversal.

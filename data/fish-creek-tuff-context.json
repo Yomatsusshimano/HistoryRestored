@@ -1,0 +1,97 @@
+{
+  "source_id": "S215",
+  "locator": "TableDR1 PDF6 visually inspected; coordinate header PDF3 text-read",
+  "coordinate_system": {
+    "type": "UTM",
+    "datum": "NAD83",
+    "zone": null,
+    "note": "Zone not established by inspected table header; do not transform guessed zone."
+  },
+  "sites": [
+    {
+      "id": "02Pt53-55",
+      "role": "lower ash",
+      "easting": 573532,
+      "northing": 3645638,
+      "section_height_m": 4453.5,
+      "polarity": "N",
+      "grade": "a",
+      "samples_analyzed": [
+        7,
+        7,
+        6
+      ]
+    },
+    {
+      "id": "02Pt56",
+      "role": "upper tuff",
+      "easting": 575160,
+      "northing": 3643507,
+      "section_height_m": 4487.5,
+      "polarity": "N",
+      "grade": "a",
+      "samples_analyzed": [
+        6
+      ]
+    },
+    {
+      "id": "02Pt58",
+      "role": "upper tuff along strike out of section",
+      "easting": 573767,
+      "northing": 3645281,
+      "section_height_m": null,
+      "polarity": "N",
+      "grade": "a",
+      "samples_analyzed": [
+        7
+      ]
+    },
+    {
+      "id": "02Pt59",
+      "role": "upper tuff along strike out of section",
+      "easting": 573767,
+      "northing": 3645281,
+      "section_height_m": null,
+      "polarity": "N",
+      "grade": "a",
+      "samples_analyzed": [
+        5
+      ]
+    },
+    {
+      "id": "07Pt1",
+      "role": "overlying normal site",
+      "easting": 575121,
+      "northing": 3643545,
+      "section_height_m": 4494.5,
+      "polarity": "N",
+      "grade": "a",
+      "samples_analyzed": [
+        3
+      ]
+    },
+    {
+      "id": "07Pt2",
+      "role": "overlying reversed site",
+      "easting": 575048,
+      "northing": 3643507,
+      "section_height_m": 4521.5,
+      "polarity": "R",
+      "grade": "a",
+      "samples_analyzed": [
+        3
+      ]
+    }
+  ],
+  "conditional_boundary": {
+    "assumptions": "Single transition between listed bracketing sites; source section ordering and polarities accepted.",
+    "lower_height_m": 4494.5,
+    "upper_height_m": 4521.5,
+    "bracket_width_m": 27.0,
+    "midpoint_m": 4508.0,
+    "midpoint_above_lower_ash_m": 54.5,
+    "midpoint_above_upper_tuff_m": 20.5,
+    "not_claimed": "Directly sampled boundary, confidence interval, original author computation or new depositional date."
+  },
+  "crosswalk": "Ash labels and rounded section heights match S21402-440/02-441, but paleomagnetic IDs are not laboratory sample IDs."
+}

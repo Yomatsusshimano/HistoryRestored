@@ -1000,3 +1000,8 @@ Previous turn made verified public progress; clean checkout confirmed. Text-read
 ### 2026-10-08 — Tuff age selection and uncertainty
 
 Previous turn made verified public progress; clean checkout confirmed. Visually checked original Table1, text-read methods/results and preserved35 rows. Selected means match at printed precision; upper MSWD differs in last displayed decimal. Sensitivity restores only explicitly identified marginal exclusions. Kept95percent limits distinct from internal two-sigma errors and documented magmaTh/U assumption and calibration omission from individual errors. No primary-deposition validation or raw-isotope refit claimed.
+
+
+### 2026-10-08 — Tuff field setting and reversal bracket
+
+Previous turn made verified public progress; clean checkout confirmed. Visually checked S214p780 and S215TableDR1p6. Recorded positive primary-deposition classification and limits, distinguished unrelated page photo, preserved along-strike sites and reproduced boundary-offset arithmetic conditionally. Targeted searches returned no additional inspected bed-specific field description. No absence claim, new tuff correlation, direct boundary measurement or field verification made.
