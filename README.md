@@ -12,6 +12,8 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Claim and tests](CLAIMS.md): operational predictions, competing explanations, and falsification conditions.
 - [Evidence standards](STANDARDS.md): rules a reader can apply to any account.
 - [Case inventory](INVENTORY.md): sourced drafts, including challenges to the starting hypothesis.
+- [Arctic chronology audit](research/ARCTIC-CHRONOLOGY.md): camel sediment dating, Yukon DNA context, source discrepancies, and a reproducible conditional calculation.
+- [Sample dating records](data/dating-records.json): transcribed ages, uncertainties, and explicit missing values.
 - [Physical constraints](PHYSICAL-MODEL.md): equations and required inputs; no fitted reconstruction yet.
 - [Full workplan](WORKPLAN.md): evidence needed for every original outcome.
 - [Research log](RESEARCH-LOG.md): inspected sources, limitations, and next actions.

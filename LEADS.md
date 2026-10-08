@@ -9,7 +9,7 @@
 | Forgotten infrastructure | One named structure with maintenance, engineering, ownership, and material records |
 | Odd maps | Original map scans, edition/copy lineages, survey notes, soundings, and proposed ground-truth transects |
 | Implausible building stories | A specified building, fabric survey, labor/material/transport budgets, contracts and progress evidence |
-| Arctic camels | Retrieve the 2013 study's dating tables and supplement; map actual sites rather than Arctic-wide silhouettes |
+| Arctic camels | Tables now audited in C003; resolve exposure/burial history and source discrepancies; exact specimen coordinates remain unavailable |
 | Horses | Site-specific fossil/ancient-DNA reports with specimen dates and transport/reworking checks |
 | Mammoths | Distinguish mainland and island populations, direct dates, and local extinction histories |
 | Sloths | Separate taxa, regions, fossil strata, and directly dated remains |

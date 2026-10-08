@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "sources": [
     {
       "id": "S01",
@@ -37,12 +37,36 @@
       "creator": "Rybczynski and colleagues",
       "publication_date": "2013-03-05",
       "source_type": "original research article",
-      "access": "SEARCH_EXCERPT",
-      "inspected": "Indexed abstract and limited dating/context paragraphs; PMC abstract also indexed",
-      "limitations": "Nature redirect/PMC browser check/Europe PMC error. Exact numerical ages and uncertainties not inspected; supplemental tables unread.",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Europe PMC XML: stratigraphy, specimen identification, burial-dating results and methods; publisher HTML; inline FLB age image visually inspected.",
+      "limitations": "No independent laboratory reanalysis. Main result image says 3.8 Ma; methods and supplement say 3.7 Ma with the same asymmetric errors. Reason unresolved.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
-      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "access_history": [
+        {
+          "access": "SEARCH_EXCERPT",
+          "inspected": "Indexed abstract and limited dating/context paragraphs; PMC abstract also indexed",
+          "limitations": "Nature redirect/PMC browser check/Europe PMC error. Exact numerical ages and uncertainties not inspected; supplemental tables unread.",
+          "version_commit": "8ea4eb9"
+        }
+      ],
+      "retrievals": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3615376/fullTextXML",
+          "retrieved_date": "2026-10-08",
+          "sha256": "e98b354c748153c0b6556ad73641843cf7d528ec1b8dd7dd896ef53691674abb",
+          "inspected": "Relevant main-text sections",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://media.springernature.com/lw51/springer-static/image/art%3A10.1038%2Fncomms2516/MediaObjects/41467_2013_Article_BFncomms2516_IEq2_HTML.gif",
+          "retrieved_date": "2026-10-08",
+          "sha256": "d7a376e635068b4df86a4b7290b080ac65e6e41416cbbb93ebe7424df4a50291",
+          "inspected": "Inline FLB result, 3.8 +1.0/-0.7",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     },
     {
       "id": "S04",
@@ -171,6 +195,54 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S13",
+      "title": "Rybczynski et al. 2013 Supplementary Information",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fncomms2516/MediaObjects/41467_2013_BFncomms2516_MOESM304_ESM.pdf",
+      "doi": "10.1038/ncomms2516",
+      "creator": "Rybczynski and colleagues",
+      "publication_date": "2013-03-05",
+      "source_type": "supplement to original research S03",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Pages 9-10, Tables S3-S4, visually inspected; pages 11-12 geochronology methods text inspected.",
+      "limitations": "Same study as S03. Measurements transcribed, not independently remeasured. Exact fossil-site coordinates withheld by authors; only their approximate regional location used.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fncomms2516/MediaObjects/41467_2013_BFncomms2516_MOESM304_ESM.pdf",
+          "retrieved_date": "2026-10-08",
+          "sha256": "8f2c0e0445893589b5abcaa5a2e490e191503509d1abfdebeae082dba88f7975",
+          "inspected": "Tables S3-S4 and geochronology methods",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Collapse of the mammoth-steppe in central Yukon as revealed by ancient environmental DNA",
+      "url": "https://www.nature.com/articles/s41467-021-27439-6",
+      "doi": "10.1038/s41467-021-27439-6",
+      "creator": "Murchie and colleagues",
+      "publication_date": "2021-12-08",
+      "source_type": "original research article",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Europe PMC XML: Table 1, reworking and late-survival discussion, contamination controls, sampling and age-depth model methods.",
+      "limitations": "No sequence reanalysis, supplement or Figure 2 visual review; site/sample taxonomic assignments not revalidated. Age-model ranges date sediment context, not individual animal deaths.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8654998/fullTextXML",
+          "retrieved_date": "2026-10-08",
+          "sha256": "70f8f091ccd63a735b73d69bc620caf457b27a6259b2019d016ba6526a2d7286",
+          "inspected": "Relevant methods/discussion and Table 1",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

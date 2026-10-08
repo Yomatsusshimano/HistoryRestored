@@ -1,0 +1,30 @@
+{
+  "status": "ILLUSTRATIVE_CONDITIONAL_CALCULATION",
+  "source_id": "S13",
+  "parameter_locator": "Supplementary methods section 3.1, page 11",
+  "sample_locator": "Table S4, page 10",
+  "field_id": "SF-08-C-015",
+  "inputs": {
+    "assumed_initial_ratio": 6.75,
+    "observed_ratio": 1.22,
+    "half_life_26Al_Ma_as_used_in_paper": 0.72,
+    "half_life_10Be_Ma_as_used_in_paper": 1.38
+  },
+  "equation": "t = ln(R0/R) / (ln(2)/half26 - ln(2)/half10)",
+  "calculated_duration_Ma": 3.715471384405008,
+  "ratio_after_1000_years_if_initial_is_6_75": 6.746892854357079,
+  "initial_ratio_needed_for_observed_ratio_after_1000_years": 1.2205618464330459,
+  "uncertainty_propagated": false,
+  "assumptions": [
+    "Initial ratio is set equal to the published surface production ratio.",
+    "No post-burial production, mixing, or additional exposure.",
+    "Paper-era half-lives, not a statement of current recommended constants."
+  ],
+  "does_not_establish": [
+    "Initial exposure history",
+    "Complete shielding history",
+    "Fossil-death date",
+    "Date of later redeposition",
+    "A common catastrophe or historical rewriting"
+  ]
+}

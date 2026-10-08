@@ -36,7 +36,19 @@ def verify():
         if s['local_copy']:
             p = (ROOT / s['local_copy']).resolve()
             assert p.is_relative_to(ROOT) and p.is_file(), f"Missing/escaping source {s['id']}"
-    for p in ROOT.glob('*.md'):
+    dating = json.loads((ROOT / 'data/dating-records.json').read_text(encoding='utf-8'))
+    case_ids = {c['id'] for c in cases}
+    sample_ids = set()
+    for sample in dating['samples']:
+        key = (sample['source_id'], sample['field_id'])
+        assert key not in sample_ids, f'Duplicate dating sample {key}'
+        sample_ids.add(key)
+        assert sample['source_id'] in index and sample['case_id'] in case_ids and sample['locator'], f'Invalid dating reference {key}'
+        if 'median_cal_BP' in sample:
+            assert sample['younger_bound_cal_BP'] <= sample['median_cal_BP'] <= sample['older_bound_cal_BP'], f'Unordered age bounds {key}'
+        if sample.get('accepted_age_in_source') is False:
+            assert sample['age_Ma'] is None, f'Unaccepted age assigned {key}'
+    for p in list(ROOT.glob('*.md')) + list((ROOT / 'research').glob('*.md')):
         for link in re.findall(r'\]\(([^)]+)\)', p.read_text(encoding='utf-8')):
             if '://' not in link and not link.startswith('#'):
                 assert (p.parent / link.split('#')[0]).is_file(), f'Missing link {p.name}: {link}'

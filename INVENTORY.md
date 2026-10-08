@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-8 sourced drafts; 0 independent scientific reviews.
+9 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -15,6 +15,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C006 | Eiffel Tower construction photograph lead |
 | C007 | Edison electric-lamp patent 223,898 |
 | C008 | Missoula flood sequence |
+| C009 | Yukon mammoth and horse sedimentary DNA |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -78,27 +79,28 @@ Place: Ellesmere Island, Nunavut, Canada. Status: SOURCED_DRAFT.
 
 **Sourced statements**
 
-- The paper reports a camel-bearing terrestrial deposit, fossil trees, and a mid-Pliocene context using cosmogenic dating. [S03](https://www.nature.com/articles/ncomms2516). Locator: Indexed abstract and dating/context excerpts. Access: SEARCH_EXCERPT. Limit: Nature redirect/PMC browser check/Europe PMC error. Exact numerical ages and uncertainties not inspected; supplemental tables unread.
+- The dated quartz is below the camel-bearing horizon; its age is contextual, not a direct bone date. [S03](https://www.nature.com/articles/ncomms2516). Locator: Geochronology results and TCN burial-dating methods. Access: FULL_TEXT_PORTION. Limit: No independent laboratory reanalysis. Main result image says 3.8 Ma; methods and supplement say 3.7 Ma with the same asymmetric errors. Reason unresolved.
+- FLB sample SF-08-C-015 has a reported age of 3.7 +1.0/-0.7 Ma (1 sigma); two other FLB samples have no accepted age. [S13](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fncomms2516/MediaObjects/41467_2013_BFncomms2516_MOESM304_ESM.pdf). Locator: Tables S3-S4, pages 9-10; methods pages 11-12. Access: SCAN_INSPECTED. Limit: Same study as S03. Measurements transcribed, not independently remeasured. Exact fossil-site coordinates withheld by authors; only their approximate regional location used.
 
-**Physical evidence:** Fossils and deposits reported by researchers; no specimen or full dating table inspected here.
+**Physical evidence:** Published sediment measurements and specimen description inspected; no field or laboratory replication.
 
-**Surviving documents:** 2013 research paper located; supplementary material unreviewed.
+**Surviving documents:** Full-text sections and supplementary tables now inspected.
 
-**Source interpretation:** Authors reconstruct a past warm-period forest environment.
+**Source interpretation:** Authors treat the burial estimate as a minimum under their exposure and shielding assumptions.
 
-**Investigation inference:** Tests must compare fossil/host-layer ages before relating this locality to any historical catastrophe.
+**Investigation inference:** The underlying sediment clock needs separate assessment from fossil association and any later transport event.
 
-**Counterevidence:** The available reported geological context challenges an automatic recent-date interpretation.
+**Counterevidence:** The inline result image gives 3.8 Ma, while methods/Table S4 give 3.7 Ma. Preserve both. Inherited old grains can challenge an event-date inference.
 
-**Next test:** Inspect burial-dating methods/tables, error terms, site coordinates, stratigraphy and specimen identification.
+**Next test:** Resolve the reporting difference and test sensitivity to prior burial, post-burial production and the sediment-to-fossil association.
 
-**Dependence:** Nature and PMC are mirrors of the same study, not independent dating results.
+**Dependence:** Main text, supplement, mirrors and age image are one study, not independent replications.
 
-**Alternatives:** Older habitat and geographic history; Reworking or later transport if supported by contextual evidence
+**Alternatives:** Ancient deposition with the reported exposure/shielding history; Prior burial or later reworking, if supported by stratigraphy and isotope modeling
 
-**Chronology:** {"reported": "Mid-Pliocene; exact numerical bounds not entered", "dated_object": "Host deposits/context, not an inspected direct camel death date", "method": "Cosmogenic nuclide dating reported", "raw_date": null, "uncertainty": null, "timescale": "Geological interval", "event_association": "UNTESTED"}
+**Chronology:** {"reported": "Table S4 and methods: 3.7 +1.0/-0.7 Ma; inline result: 3.8 +1.0/-0.7 Ma", "dated_object": "Quartz-bearing sediment, not the bone", "method": "26Al/10Be burial dating", "raw_date": 3.7, "unit": "Ma", "uncertainty": {"plus": 1.0, "minus": 0.7, "level": "1 sigma reported"}, "timescale": "Burial duration in millions of years", "event_association": "Contextual interpretation under stated assumptions; later disturbance not dated", "audit_file": "data/dating-records.json"}
 
-**Missing:** Numerical bounds; Dating supplement; Coordinates; Reworking analysis
+**Missing:** Independent measurement/model review; Reason for 3.7/3.8 difference; Full burial/shielding history; Independent fossil-to-sediment association audit
 
 ## C004: Cascadia tsunami and coastal subsidence
 
@@ -243,3 +245,31 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 **Chronology:** {"reported": "Last-glacial sequence; precise dated sample intervals not entered", "dated_object": "Flood sequence in review", "method": "Reported multiple methods; not individually reanalyzed", "raw_date": null, "uncertainty": null, "timescale": "Geological interval", "event_association": "REPORTED_NOT_REVALIDATED"}
 
 **Missing:** Measured sections; Sample-level ages; Model inputs; Site coordinates
+
+## C009: Yukon mammoth and horse sedimentary DNA
+
+Place: Klondike goldfields, Yukon, Canada. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Authors report mammoth and horse DNA beyond local dated macrofossils, while discussing reworking and requesting further confirmation. [S14](https://www.nature.com/articles/s41467-021-27439-6). Locator: Late-survival discussion; Table 1 and age-depth model methods. Access: FULL_TEXT_PORTION. Limit: No sequence reanalysis, supplement or Figure 2 visual review; site/sample taxonomic assignments not revalidated. Age-model ranges date sediment context, not individual animal deaths.
+
+**Physical evidence:** Published sediment-DNA and modeled-age results inspected; no raw-read reanalysis.
+
+**Surviving documents:** Original article sections and Table 1.
+
+**Source interpretation:** Possible later survival; reworking remains an alternative.
+
+**Investigation inference:** A younger sediment context cannot by itself date an animal death. Test deposition, DNA provenance and taxonomy separately.
+
+**Counterevidence:** Reported controls address modern contamination; they do not automatically exclude redeposition of genuinely ancient DNA.
+
+**Next test:** Audit the age models, sample-level taxonomic reads, independent proxies and sediment integrity before inferring a survival or catastrophe date.
+
+**Dependence:** Taxa and samples share a study, calibration and processing pipeline; they are not independent catastrophe confirmations.
+
+**Alternatives:** Late-surviving local populations; Older biological material redeposited into younger sediment; Unresolved sampling or taxonomic effects
+
+**Chronology:** {"reported": "Sample-level age-model medians and 2-sigma ranges in linked audit", "dated_object": "Sediment chronology, not directly dated DNA molecules or animal deaths", "method": "Bayesian age-depth models using radiocarbon calibration", "raw_date": null, "uncertainty": "See sample records; no single event age assigned", "timescale": "cal BP as published", "event_association": "UNTESTED", "audit_file": "data/dating-records.json"}
+
+**Missing:** Raw reads and taxonomic audit; Age-model rerun; Independent late-survival specimens; Exact site metadata

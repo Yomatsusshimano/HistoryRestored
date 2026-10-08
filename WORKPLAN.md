@@ -6,10 +6,10 @@
 | --- | --- | --- | --- |
 | 1 | Define exactly what the catastrophe claim predicts | Scoped event window/extent/mechanism and attribution sampling definitions, with observable rejection conditions | Claim family and tests drafted in CLAIMS.md; parameters remain open; compare candidate periods |
 | 2 | Publish equally rigorous standards | Publicly retrievable version of STANDARDS.md, including counterevidence and corrections | Published in commit 4a0b8ed; unauthenticated public retrieval matched committed content; standards remain open to revision |
-| 3 | Documented public anomaly inventory | Public records with locators, provenance, coverage and limitations across requested classes | Eight drafts publicly available; complete class coverage, primary-source audits and independent review pending |
+| 3 | Documented public anomaly inventory | Public records with locators, provenance, coverage and limitations across requested classes | Nine drafts prepared with fourteen source records; complete class coverage and independent review pending |
 | 4 | Identify mysteries surviving scrutiny | Source audits and independent reviews comparing observations and alternatives | Facts/reports/interpretations separated; no independently reviewed case |
 | 5 | Predictive physical catastrophe model | Executed model with real inputs, conservation budgets, uncertainty and held-out spatial checks | PHYSICAL-MODEL.md specifies constraints; assumed arithmetic only |
-| 6 | Test one event against all named wildlife | Specimen-level maps and compatible dates/habitats for camels, horses, mammoths, sloths, muskoxen, predators and plants | Camel context located; all distributions/maps incomplete |
+| 6 | Test one event against all named wildlife | Specimen-level maps and compatible dates/habitats for camels, horses, mammoths, sloths, muskoxen, predators and plants | Camel dating tables audited; Yukon sedimentary DNA case added with reworking caveats; all distributions/maps incomplete |
 | 7 | Rebuild old geography independently | Multiple independent dated observations fitting the same terrain/climate/corridor reconstruction | Map case begun; no reconstructed geography |
 | 8 | Audit builders | Fabric chronology, labor/material/transport budgets and construction provenance for named structures | Eiffel catalog lead; photographs and budgets unread |
 | 9 | Reexamine invention | Antecedent devices, patents, notebooks, manufacture and access chains | One patent scan inspected; recovery/originality not adjudicated |
@@ -29,7 +29,7 @@
 
 1. Extend the verified public release with the next primary-source research tranche; publish as work progresses.
 2. Retrieve original street-grade and fill records for C001 and image objects for C002/C006.
-3. Obtain complete camel dating tables/supplement; add specimen-level horse, mammoth, sloth, muskox and predator cases.
+3. Extend the camel exposure/burial-history audit; verify Yukon taxa by sample and independent biological dates; add sloth, muskox and predator cases.
 4. Audit Cascadia raw logs and original chronology records.
 5. Resolve California map item identity/copy lineage before deriving a geographic hypothesis.
 6. Extend the Edison record with named antecedents and workshop notebooks.

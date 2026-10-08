@@ -1,5 +1,17 @@
 # Research log
 
+## 2026-10-08 - Arctic dating and sedimentary DNA audit
+
+Progress beyond the initial release: the camel paper's main text and supplement were retrieved successfully, superseding the earlier access limitation below. Supplement Tables S3-S4 (pages 9-10) were rendered and visually checked; methods on pages 11-12 were read as extracted text. The archive now contains nine case drafts and fourteen source records. Newly retrieved papers remain linked, not redistributed in full.
+
+Seven camel-study sediment sample rows and two Yukon sediment age-model rows are transcribed in data/dating-records.json. Two camel-study rows retain null ages because the authors report no accepted age. The camel article's inline 3.8 Ma result differs from the methods/Table S4 value of 3.7 Ma; a separate sample ratio differs between Tables S3 and S4. Both discrepancies remain unresolved and visible. Neither demonstrates deliberate falsification.
+
+The conditional burial-clock calculation yields 3.71547 Ma using the study's surface ratio and half-lives. It checks arithmetic under stated assumptions, without propagating uncertainty or reproducing the complete exposure/burial model. The dated sediment is below the fossil horizon; this is not a direct bone date or an independent date of later disturbance.
+
+The Yukon paper's Table 1, age-model methods, controls and reworking discussion were inspected. Its proposed late survival of mammoths/horses is retained alongside the alternative of older DNA redeposited into younger sediment. Sample-level taxonomic figure assignments and supplementary data are still unreviewed. Modern-contamination controls alone do not resolve ancient reworking.
+
+Internal checks now include dating-record references, unique sample identifiers, ordered age-model bounds, missing rejected ages, and research-note links. These are file-integrity checks, not independent scientific validation. The next research tasks are sample-specific DNA assignments, independently dated biological remains, and exposure/stratigraphic context. No common event or chronology transformation is established.
+
 ## 2026-10-08 - Investigation initialized
 
 Previous visible turn was a greeting, with no research progress to assess. Current files in Science and Physics were inspected. EmergenceAtlas is a separate research project and was left intact. No existing catastrophe investigation was located in these two workspace roots. Neither workspace root is a Git repository.

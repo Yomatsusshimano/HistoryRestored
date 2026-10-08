@@ -1,0 +1,172 @@
+{
+  "version": "0.1.0",
+  "status": "TRANSCRIPTION_AND_ASSUMPTION_AUDIT_NOT_INDEPENDENT_VALIDATION",
+  "samples": [
+    {
+      "case_id": "C003",
+      "source_id": "S13",
+      "locator": "Table S4, page 10",
+      "field_id": "SF-08-C-001",
+      "site": "BP",
+      "dated_material": "quartz-bearing sediment",
+      "ratio_26Al_10Be_S4": 1.29,
+      "age_Ma": 3.5,
+      "uncertainty_plus_Ma": 1.1,
+      "uncertainty_minus_Ma": 0.7,
+      "uncertainty_level": "1 sigma",
+      "accepted_age_in_source": true
+    },
+    {
+      "case_id": "C003",
+      "source_id": "S13",
+      "locator": "Table S4, page 10",
+      "field_id": "SF-08-C-002",
+      "site": "BP",
+      "dated_material": "quartz-bearing sediment",
+      "ratio_26Al_10Be_S4": 1.25,
+      "age_Ma": 3.6,
+      "uncertainty_plus_Ma": 2.2,
+      "uncertainty_minus_Ma": 1.1,
+      "uncertainty_level": "1 sigma",
+      "accepted_age_in_source": true
+    },
+    {
+      "case_id": "C003",
+      "source_id": "S13",
+      "locator": "Table S4, page 10",
+      "field_id": "SF-08-C-003",
+      "site": "BP",
+      "dated_material": "quartz-bearing sediment",
+      "ratio_26Al_10Be_S4": 1.41,
+      "age_Ma": 3.4,
+      "uncertainty_plus_Ma": 1.5,
+      "uncertainty_minus_Ma": 0.9,
+      "uncertainty_level": "1 sigma",
+      "accepted_age_in_source": true
+    },
+    {
+      "case_id": "C003",
+      "source_id": "S13",
+      "locator": "Table S4, page 10",
+      "field_id": "SF-08-C-004",
+      "site": "BP",
+      "dated_material": "quartz-bearing sediment",
+      "ratio_26Al_10Be_S4": 1.53,
+      "age_Ma": 3.2,
+      "uncertainty_plus_Ma": 1.1,
+      "uncertainty_minus_Ma": 0.7,
+      "uncertainty_level": "1 sigma",
+      "accepted_age_in_source": true
+    },
+    {
+      "case_id": "C003",
+      "source_id": "S13",
+      "locator": "Table S4, page 10",
+      "field_id": "SF-08-C-015",
+      "site": "FLB",
+      "dated_material": "quartz-bearing sediment",
+      "ratio_26Al_10Be_S4": 1.22,
+      "age_Ma": 3.7,
+      "uncertainty_plus_Ma": 1.0,
+      "uncertainty_minus_Ma": 0.7,
+      "uncertainty_level": "1 sigma",
+      "accepted_age_in_source": true
+    },
+    {
+      "case_id": "C003",
+      "source_id": "S13",
+      "locator": "Table S4, page 10",
+      "field_id": "SF-08-C-016",
+      "site": "FLB",
+      "dated_material": "quartz-bearing sediment",
+      "ratio_26Al_10Be_S4": 0.29,
+      "age_Ma": null,
+      "uncertainty_plus_Ma": null,
+      "uncertainty_minus_Ma": null,
+      "uncertainty_level": null,
+      "accepted_age_in_source": false
+    },
+    {
+      "case_id": "C003",
+      "source_id": "S13",
+      "locator": "Table S4, page 10",
+      "field_id": "SF-08-C-017",
+      "site": "FLB",
+      "dated_material": "quartz-bearing sediment",
+      "ratio_26Al_10Be_S4": 0.61,
+      "age_Ma": null,
+      "uncertainty_plus_Ma": null,
+      "uncertainty_minus_Ma": null,
+      "uncertainty_level": null,
+      "accepted_age_in_source": false
+    },
+    {
+      "case_id": "C009",
+      "source_id": "S14",
+      "locator": "Table 1",
+      "field_id": "PHP-3",
+      "core": "LL2S-253-D1",
+      "site": "Lucky Lady II",
+      "dated_material": "sediment age-model context",
+      "median_cal_BP": 9177,
+      "younger_bound_cal_BP": 8950,
+      "older_bound_cal_BP": 9485,
+      "uncertainty_level": "2 sigma as reported; not hard bounds",
+      "sample_taxa_independently_checked": false,
+      "use": "chronology audit only; no sample-specific taxon confirmation claimed"
+    },
+    {
+      "case_id": "C009",
+      "source_id": "S14",
+      "locator": "Table 1",
+      "field_id": "PHP-20",
+      "core": "MM12-QC-9",
+      "site": "Upper Quartz",
+      "dated_material": "sediment age-model context",
+      "median_cal_BP": 5776,
+      "younger_bound_cal_BP": 4590,
+      "older_bound_cal_BP": 5929,
+      "uncertainty_level": "2 sigma as reported; not hard bounds",
+      "sample_taxa_independently_checked": false,
+      "use": "chronology audit only; no sample-specific taxon confirmation claimed"
+    }
+  ],
+  "aggregates": [
+    {
+      "source_id": "S13",
+      "locator": "Table S4",
+      "site": "BP",
+      "estimate_Ma": 3.4,
+      "plus_Ma": 0.6,
+      "minus_Ma": 0.4,
+      "uncertainty_level": "1 sigma",
+      "note": "Authors error-weighted mean; not independent of the four BP samples"
+    }
+  ],
+  "source_issues": [
+    {
+      "id": "A001",
+      "case_id": "C003",
+      "source_ids": [
+        "S03",
+        "S13"
+      ],
+      "issue": "FLB inline result image gives 3.8 +1.0/-0.7 Ma; methods and Table S4 give 3.7 +1.0/-0.7 Ma. Cause unresolved.",
+      "effect": "Retain source-specific values; no basis here for a broad chronology-rewriting claim."
+    },
+    {
+      "id": "A002",
+      "case_id": "C003",
+      "source_ids": [
+        "S13"
+      ],
+      "issue": "SF-08-C-003 ratio is 1.38 in Table S3 and 1.41 in Table S4. Cause unresolved.",
+      "effect": "Use only SF-08-C-015, whose displayed ratio agrees, for the illustrative clock calculation."
+    }
+  ],
+  "limits": [
+    "Authors minimum-age interpretation depends on initial exposure and later shielding.",
+    "Contextual sediment ages are not automatically fossil-death or later-reworking dates.",
+    "Two Yukon sample ages were transcribed to audit uncertainty representation; taxa-by-sample figures remain uninspected."
+  ]
+}
