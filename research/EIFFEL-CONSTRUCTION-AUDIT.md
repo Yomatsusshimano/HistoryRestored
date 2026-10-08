@@ -2,6 +2,8 @@
 
 Research draft, 2026-10-08. C006 remains without independent review.
 
+New evidence: [4 January 1889 verticality inspection](EIFFEL-VERTICALITY-REPORT.md) describes a roughly 220 m intermediate structure and an upper member not yet riveted, with survey limitations retained.
+
 Follow-up: [archive survival and Koechlin recruitment](EIFFEL-ARCHIVE-FOLLOWUP.md) records the current archival search, a visually inspected 1879 letter, and an undated biography that must not inherit the dossier's catalog date.
 
 Gustave Eiffel's 1900 technical monograph is accessible through [ETH-Bibliothek Zurich, Rar 9704](https://doi.org/10.3931/e-rara-28271). Two pages were visually inspected: the [personnel roster](https://www.e-rara.ch/zut/content/zoom/8975936) and [printed page 225](https://www.e-rara.ch/zut/content/zoom/8976172). This is a retrospective participant account. Its author had a direct interest in how the project was remembered.

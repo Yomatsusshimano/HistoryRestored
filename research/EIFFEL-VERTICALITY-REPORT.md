@@ -1,0 +1,28 @@
+# An inspection during assembly
+
+Research draft, 2026-10-08; no independent review.
+
+An eight-page manuscript in Archives nationales **F/12/3896**, [provided by the archive through Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rapport_sur_la_v%C3%A9rification_de_la_verticalit%C3%A9_de_la_tour_Eiffel_1889.pdf), was downloaded and all pages visually inspected. Its first page dates the report to **4 January 1889**. The title and diagrams concern checking the tower's verticality. This is a different document and administrative context from Eiffel's 1900 retrospective monograph, although the inspection involved a representative of Eiffel and is not wholly independent of the project.
+
+## Observations and limits
+
+| PDF page | Source report | What it establishes or leaves open |
+| --- | --- | --- |
+| 1–2 | Diagram and text describe the tower at approximately 220 m on 4 January 1889; point f is on an upper member beginning panel 22 | A dated description of an intermediate structure, not a completed 300 m tower |
+| 2–4 | A theodolite checks selected face midlines; stations lie roughly 160–300 m from the axis; obstacles prevent using the intended ground points, so paired structural points establish sighting planes | A described survey procedure with explicit substitutions, not raw modern instrument data |
+| 4–5 | At the Pont d'Iéna station, point f lies on a member not yet riveted, only bolted or pinned | Specific assembly work remained; this challenges an account of an unchanged, already completed tower |
+| 5 | Station beta has trees, a theatre roof and difficult lighting. Points b and d appear approximately 20 mm and 10 mm left; e and f are hidden | Nonzero and missing observations are retained; hidden points are not zero deviations |
+| 6 | At station gamma, the observers deliberately shift the instrument about 300 mm outside the principal plane and see an apparent shift of about 50 mm at b | A reported sensitivity demonstration, not actual tower movement or a full uncertainty calibration |
+| 7–8 | The report concludes vertical alignment over about 180 m between a and f, with a qualification concerning beta, then asserts absolute verticality | This is the authors' conclusion. Their alignment assumptions and finite visibility do not justify treating our transcription as proof of mathematically exact verticality |
+
+The final page has separate signature blocks for the control inspector and the engineer representing Eiffel. These establish stated roles; this audit does not independently authenticate signatures or expand uncertain handwritten names. No complete diplomatic transcription has been made.
+
+## Implication for the construction claim
+
+This is more discriminating than a later caption or a budget total: it reports a partially assembled tower, identifies an unfinished connection, and explains how observers tested alignment. It supports recorded assembly at the stated date. It does **not**, by itself, distinguish newly fabricated components from reused ones, date foundations, verify the full manufacturing budget, or prove that every historical attribution is correct. Those questions still require supplier and material evidence.
+
+The archive's modern wind-drawing article was also checked, but its displayed image is cropped to the upper tower; the caption's 1886 date was not independently read on that crop. It has not been promoted to a scanned-date verification.
+
+Next compare the January inspection with dated erection diagrams and photographs, and link the reported panel/member to original part registers. Preserve the beta observations when assessing the report's strong concluding language.
+
+Source reproduction credit: Archives nationales (France), F/12/3896, via Wikimedia Commons, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This note paraphrases selected readings; the downloaded source is unchanged and not republished here.

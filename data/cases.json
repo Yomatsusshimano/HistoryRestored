@@ -470,12 +470,17 @@
           "source_id": "S149",
           "locator": "227 J finding aid pp.2-3",
           "statement": "Pompey lead includes later research notes and exhibition panels; underlying documents uninspected."
+        },
+        {
+          "source_id": "S150",
+          "locator": "F/12/3896, PDF pp.1-8, especially pp.1-2 and 4-5",
+          "statement": "Report dated 4 January 1889 describes a roughly 220 m tower and an upper member still bolted or pinned, not riveted. Survey observations include obstructions and nonzero apparent deviations at one station."
         }
       ],
       "physical_evidence": "Digitized roster, cost account and workshop-account pages visually inspected; museum photograph and building fabric not inspected.",
       "surviving_documents": "1900 participant monograph with personnel and cost breakdown; earlier museum photograph catalog lead retained.",
       "source_interpretation": "Eiffel presents a constructed project with named staff and separate infrastructure, superstructure and overhead costs.",
-      "investigation_inference": "This is a checkable construction account beyond a caption; its principal cost subtotals reconcile. That supports further documentary testing, not independent authentication of every expenditure. The quoted 250-worker site limit cannot be treated as total project labor; fabrication has a named upstream supplier and explicit quantity exclusions.",
+      "investigation_inference": "This is a checkable construction account beyond a caption; its principal cost subtotals reconcile. That supports further documentary testing, not independent authentication of every expenditure. The quoted 250-worker site limit cannot be treated as total project labor; fabrication has a named upstream supplier and explicit quantity exclusions. A contemporary inspection describes an intermediate assembly state; this supports assembly at the reported date but does not itself date component manufacture.",
       "competing_explanations": [
         "Recorded construction",
         "Repair/reassembly if fabric and earlier records support it"
@@ -497,7 +502,7 @@
         "Fabric dates",
         "Independent quantity and labor-productivity audit"
       ],
-      "dependence": "Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration. Koechlin recruitment correspondence is another company record, not independent supplier corroboration."
+      "dependence": "Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration. Koechlin recruitment correspondence is another company record, not independent supplier corroboration. S150 is an administrative inspection involving an Eiffel representative; it is a distinct document, not wholly independent project evidence."
     },
     {
       "id": "C007",

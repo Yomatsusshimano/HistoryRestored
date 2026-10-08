@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Contemporary Eiffel assembly inspection
+
+Previous turn made progress: 866503b publicly verified seven files. Clean checkout confirmed. Modern wind-drawing image is cropped and cannot verify its caption date. A Commons reproduction supplied by Archives nationales recovered F/12/3896: all eight manuscript pages visually inspected. The 4 January 1889 report describes about 220 m height, an unriveted upper member, theodolite setup, obscured targets, apparent deviations at beta and a deliberate instrument-offset test. Its absolute-verticality conclusion is kept separate from observations and this audit. No manufacturing date inferred. Next compare dated erection states and original part records. Full goal remains active.
+
 ## 2026-10-08 - Eiffel archive survival and recruitment
 
 Previous turn made progress: 7812ed9 published seven verified files; checkout was clean. Old inventory URL failed, but normal browser access recovered the current 106-page ANMT inventory and six-image Koechlin dossier. Inventory records selected preservation and separate tower-plan transfer. Read the signed 21 October 1879 recruitment letter and receipt endorsement; proposed start is not attendance. Biography says ten years since joining in 1879, preventing automatic transfer of the catalog date to every sheet. Geindre supplier lead contains later research materials; originals uninspected. No supplier ledger recovered. A large inline update command was policy-rejected; smaller reviewable file patches and a local update script succeeded. Full goal remains active.

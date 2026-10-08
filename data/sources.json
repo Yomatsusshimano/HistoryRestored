@@ -2381,6 +2381,28 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S150",
+      "title": "Report on Eiffel Tower verticality, 4 January 1889",
+      "url": "https://commons.wikimedia.org/wiki/File:Rapport_sur_la_v%C3%A9rification_de_la_verticalit%C3%A9_de_la_tour_Eiffel_1889.pdf",
+      "creator": "Service du contrôle des constructions métalliques; Archives nationales F/12/3896",
+      "publication_date": "1889-01-04",
+      "source_type": "contemporary manuscript inspection report; archive-provided digital reproduction",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All eight PDF pages visually inspected: dated intermediate state, theodolite procedure, station observations, deliberate offset test, qualifications and signature roles.",
+      "limitations": "No independent signature authentication, material dating, raw instrument reproduction or complete diplomatic transcription. Inspection includes an Eiffel representative. Absolute verticality is the report conclusion, not this audit validation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rapport_sur_la_v%C3%A9rification_de_la_verticalit%C3%A9_de_la_tour_Eiffel_1889.pdf",
+          "sha256": "231bb0501f8e7e10b25ab45c9eb85fa26b76ceb3c45eb8db9305746e4ed56ce6",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

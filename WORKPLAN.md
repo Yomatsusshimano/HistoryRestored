@@ -27,6 +27,8 @@
 
 ## Next research tranche
 
+Eiffel intermediate-state evidence: F/12/3896 inspection dated 4 January 1889 visually checked on all eight pages. Compare its roughly 220 m height and unfinished upper connection against original erection diagrams, photographs and part registers. Survey qualifications remain visible; no material chronology established.
+
 Eiffel archive update: current ANMT inventory explains partial preservation and tower-plan transfer. Visually inspected Koechlin recruitment correspondence; proposed start and actual attendance remain distinct. Trace original tower-plan custody and supplier dispatches. Geindre 227 J is a later research collection, not confirmed contemporary ledgers.
 
 1. Extend the verified public release with the next primary-source research tranche; publish as work progresses.
