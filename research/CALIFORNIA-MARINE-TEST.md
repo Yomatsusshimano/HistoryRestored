@@ -31,4 +31,6 @@ The published Hart Mine Wash sample-position and isotope tables are now recovere
 
 Separately, georeference one selected island-map depiction with declared control points and uncertainty. Define the northern channel implied by that specific map rather than moving a candidate route after inspecting geology. Test continuous connection, not just a wet locality. Present-day elevation alone cannot exclude former deformation, but any proposed displacement must be specified and checked against geological structure and dated markers.
 
+The [panel II scope check](CALIFORNIA-PANEL-II.md) now selects the comparison sheet's island depiction. Its northern shore is above its native 45-degree line, so southern Bouse evidence alone cannot test that northern crossing. Modern-coordinate georeferencing and the longitude origin remain unresolved.
+
 Only after a route, period and physical model are specified can uninspected transect observations become a prospective test. The already-read maps and Bouse papers are discovery evidence, not held-out predictions. No coordinates have been inferred from the small regional figure, no uplift amount has been fitted, and no event date selected. A revised chronology would need independent justification before these geological deposits could explain the historical maps.

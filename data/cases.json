@@ -377,7 +377,7 @@
         {
           "source_id": "S15",
           "locator": "Title cartouche and panels I-V",
-          "statement": "Printed source years are 1604, 1656, 1700, 1705 and 1767; island and peninsula depictions coexist on one compilation."
+          "statement": "Printed source years are 1604, 1666, 1700, 1705 and 1767; panel II was previously misread here as 1656, matching the catalog rather than the cartouche. Island and peninsula depictions coexist on one compilation."
         },
         {
           "source_id": "S37",
@@ -418,6 +418,11 @@
           "source_id": "S185",
           "locator": "Supplement 1 K12, O13, R13; S184 pp.88-89; research/BOUSE-METHODS.md",
           "statement": "Supplement retains trace pre-DCL Candona and nonzero DCL foraminifers despite categorical prose. Proposed 3-300-year duration comes from assumed rates, not a direct age bracket."
+        },
+        {
+          "source_id": "S15",
+          "locator": "Panel II northern coastline and latitude 45 graticule; research/CALIFORNIA-PANEL-II.md",
+          "statement": "Panel II places its northern island coast above 45 degrees in its own grid. A southern Bouse marine locality alone cannot establish the northern crossing depicted on this selected map; no modern georeferencing performed."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected.",

@@ -16,9 +16,14 @@
     },
     {
       "panel": "II",
-      "attributed_source_year_CE": 1656,
+      "attributed_source_year_CE": 1666,
       "depiction_observation": "Island",
-      "independent_survey_verified": false
+      "independent_survey_verified": false,
+      "catalog_attributed_source_year_CE": 1656,
+      "date_correction": "Reinspection of enlarged cartouche reads Sanson 1666; prior archive transcription 1656 followed catalog and was incorrectly called printed. Antecedent date not independently established.",
+      "northern_coast_observation": "Northern coast above the panel graticule line labeled 45 degrees; opposite land labeled Anian.",
+      "modern_route": null,
+      "longitude_origin": null
     },
     {
       "panel": "III",
@@ -64,5 +69,11 @@
       "volume_printed_year_CE": 1705,
       "publication_date_limit": "1705 volume imprint visually verified; binding history and first map issue remain unverified."
     }
-  ]
+  ],
+  "correction_evidence": {
+    "title_image_sha256": "d775c09139535d12291ff48331d6498de11abdd0c7f28122477f1d28013c4d2b",
+    "date": "2026-10-08",
+    "locator": "Title cartouche line II; panel II northern coastline and 45-degree graticule",
+    "scope": "Visual reinspection, not modern georeferencing."
+  }
 }

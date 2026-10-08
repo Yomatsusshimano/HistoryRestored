@@ -252,7 +252,7 @@
       "publication_date": null,
       "source_type": "historical map catalog record",
       "access": "SCAN_INSPECTED",
-      "inspected": "LOC JSON catalog, full sheet and higher-resolution title cartouche; see data/california-panels.json.",
+      "inspected": "LOC JSON catalog, full sheet and higher-resolution title cartouche; see data/california-panels.json. Reinspection: cartouche II reads Sanson 1666 versus catalog 1656; panel II northern coast above native 45-degree line. See research/CALIFORNIA-PANEL-II.md.",
       "limitations": "Antecedent maps and surveys unreviewed. Catalog 1770 versus exhibition ca. 1779 unresolved.",
       "local_copy": null,
       "accessed_date": "2026-10-08",

@@ -6,7 +6,7 @@ Research draft, 2026-10-08. C005 remains without independent review.
 
 The [American Treasures caption](https://www.loc.gov/exhibits/treasures/tr11a.html#obj38) gives 1639 and links directly to [item 99443375](https://www.loc.gov/item/99443375). Its indexed catalog description gives approximately 1650. The [Los Angeles Mapped caption](https://www.loc.gov/exhibits/lamapped/lamapped-exhibit.html#obj1) also gives 1639 and links to that item. Our earlier uncertainty about the link identity is resolved. The dating disagreement remains unresolved; no editorial history or physical dating of the manuscript has been inspected.
 
-The next exhibition entry links a different object: [comparison plate 2006627665](https://www.loc.gov/item/2006627665), digital ID g4050.ct001802, call number G4050 1770 .R62. Its catalog attributes it to Didier Robert de Vaugondy, dates it 1770, and describes five representations on one sheet. The exhibition instead describes an approximately 1779 plate. The item title names earlier map sources dated 1604, 1656, 1700, 1705 and 1767. Those are attributed source dates, not five dates of new field observations. The exhibition's starting year is 1606 rather than 1604; this discrepancy also needs an edition/image check.
+The next exhibition entry links a different object: [comparison plate 2006627665](https://www.loc.gov/item/2006627665), digital ID g4050.ct001802, call number G4050 1770 .R62. Its catalog attributes it to Didier Robert de Vaugondy, dates it 1770, and describes five representations on one sheet. The exhibition instead describes an approximately 1779 plate. The catalog item title names earlier map sources dated 1604, 1656, 1700, 1705 and 1767. Those are attributed source dates, not five dates of new field observations. The exhibition's starting year is 1606 rather than 1604; this discrepancy also needs an edition/image check.
 
 ## What this can test
 
@@ -25,7 +25,7 @@ The LOC JSON endpoint and [full-sheet image](https://tile.loc.gov/image-services
 | Panel | Printed source year | Observed depiction |
 | --- | --- | --- |
 | I | 1604 | Peninsula |
-| II | 1656 | Island |
+| II | 1666 | Island; catalog title instead gives 1656 |
 | III | 1700 | Northern connection outside panel extent |
 | IV | 1705 | Peninsula |
 | V | 1767 | Peninsula |
@@ -55,3 +55,7 @@ The [Kino route audit](KINO-ROUTE.md) now records selected dated passages in Bol
 ## Marine-environment comparison
 
 The [Bouse comparison and geographical test](CALIFORNIA-MARINE-TEST.md) now preserves competing marine/lake interpretations of older deposits. Environment, historical timing and a through-going channel are separate requirements; neither freshwater Cahuilla nor a possible ancient inlet alone settles the island-map question.
+
+## Panel II correction and route scope
+
+[Reinspection of panel II](CALIFORNIA-PANEL-II.md) corrects this archive's earlier printed-year transcription from 1656 to 1666; the catalog's 1656 remains a separate attribution. The panel places its northern island coast above the 45-degree line in its own graticule. That depicted crossing must be located and tested separately from southern marine deposits. No modern route or date conversion has been fitted.
