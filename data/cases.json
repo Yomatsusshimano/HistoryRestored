@@ -1412,12 +1412,17 @@
           "source_id": "S105",
           "locator": "Tables S3-S4, PDF pp.15-16",
           "statement": "Six control results are reported without mass/batch mapping; original assay fraction label differs between supplement and main table."
+        },
+        {
+          "source_id": "S105",
+          "locator": "Figure S5 p.6; Table S1 pp.9-10",
+          "statement": "Schematic section records multiple soil horizons; Table S1 locates redated specimen FCS.CLA.154 at grid I6, 106.5 cm BGL. Local coordinates are not surveyed global elevations."
         }
       ],
-      "physical_evidence": "Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination.",
+      "physical_evidence": "Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination. Selected section, specimen context row and main geological discussion visually inspected; refit/displacement discussion read.",
       "surviving_documents": "2019 article XML and visually inspected supplementary tables S3-S4; original laboratory records uninspected.",
       "source_interpretation": "Humate contamination made earlier dates too young; revised chronology supports a Late Pleistocene archaeological event.",
-      "investigation_inference": "An identified same-bone redating supplies a concrete method-sensitive chronology revision. It cannot be transferred to Haitian sloths or establish a common flood.",
+      "investigation_inference": "An identified same-bone redating supplies a concrete method-sensitive chronology revision. It cannot be transferred to Haitian sloths or establish a common flood. Reported cross-boundary refits require localized displacement to be considered; they do not establish wholesale flood transport.",
       "competing_explanations": [
         "Younger contaminant carbon affected earlier gelatin measurements",
         "Other processing or measurement effects requiring raw quality records"

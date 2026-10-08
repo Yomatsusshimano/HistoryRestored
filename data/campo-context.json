@@ -1,0 +1,49 @@
+{
+  "case_id": "C022",
+  "status": "SOURCED_DRAFT",
+  "specimen_context": {
+    "source_id": "S105",
+    "locator": "Table S1, PDF pp.9-10",
+    "catalogue_number": "FCS.CLA.154",
+    "grid": "I6",
+    "north_m": 0.75,
+    "west_m": 0.98,
+    "depth_cm_BGL": 106.5,
+    "element": "Metacarpal V",
+    "condition": "Complete",
+    "laterality": "Right",
+    "global_coordinates": null,
+    "grid_origin_and_transform": null
+  },
+  "section": {
+    "source_id": "S105",
+    "locator": "Figure S5, PDF p.6",
+    "description": "West-east A-B schematic, 6 m horizontal scale, strata 1-6, soil horizons and unconformities; bones/tools concentrated in stratum 1",
+    "vertical_axis_label": "cm BD",
+    "conversion_to_Table_S1_BGL": null,
+    "limits": "No surveyed elevations digitized; diagram is not an independent depositional clock."
+  },
+  "reported_refit": {
+    "source_id": "S104",
+    "locator": "Results, 2016-2017 excavations paragraph",
+    "specimens": [
+      "FCS.CLA.239",
+      "FCS.CLA.242"
+    ],
+    "horizontal_separation_approx_m": 3,
+    "depth_intervals_m_BGL": [
+      [
+        1.3,
+        1.35
+      ],
+      [
+        1.2,
+        1.25
+      ]
+    ],
+    "assignment_of_each_depth_to_specific_id": null,
+    "authors_interpretation": "Vertical migration of microflakes; soil formation and fossorial activity proposed",
+    "limits": "No transport duration or velocity inferred; original field records uninspected."
+  },
+  "implication": "Local vertical displacement is reported; neither a perfectly undisturbed assemblage nor wholesale catastrophic transport follows."
+}

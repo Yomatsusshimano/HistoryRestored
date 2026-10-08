@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Campo specimen-to-deposit context
+
+Previous turn made progress: 5624eba published eight publicly byte-verified files; clean checkout confirmed. Used existing downloaded main/supplement copies; inspected article p.5/Figure 4, S5 section and S1 header/specimen row. Recovered FCS.CLA.154 local grid/depth and reported cross-boundary refits, preserving unknown coordinate transforms and depth-to-ID assignments. Added structured context and separated bone chronology, wetland interpretation and localized displacement. No field reanalysis, hydraulic reconstruction or event-duration conclusion claimed. Full goal remains active.
+
 ## 2026-10-08 - Campo Laborde control audit
 
 Previous turn made progress: a3b823c published eight publicly byte-verified files; clean checkout confirmed. Publisher supplement returned 403; public Europe PMC supplementary-files request completed successfully after a slow live wait. Extracted only the named PDF, rendered pp.15-16 and visually inspected S3-S4. CONICET mirror also retrieved a combined article/supplement file; no independence claimed. Added six typed control records, preserving lower-bound and approximate references; identified absent carbon masses/batch mapping and AA-71665 fraction-label mismatch. No laboratory-validation claim or Haitian correction made. Full goal remains active.

@@ -717,16 +717,17 @@ Place: Campo Laborde, Argentine Pampas. Status: SOURCED_DRAFT.
 
 **Sourced statements**
 
-- One previously dated metacarpal was reprocessed; purified amino-acid fractions produced older ages than the original gelatin result, while separated fulvic acids contained more modern carbon. [S104](https://doi.org/10.1126/sciadv.aau4546). Locator: Table 1 and chronology/methods sections. Access: FULL_TEXT_PORTION. Limit: XML text/table only; no table facsimile, supplement S3-S4, raw AMS certificates or independent laboratory replication inspected.
+- One previously dated metacarpal was reprocessed; purified amino-acid fractions produced older ages than the original gelatin result, while separated fulvic acids contained more modern carbon. [S104](https://doi.org/10.1126/sciadv.aau4546). Locator: Table 1 and chronology/methods sections. Access: SCAN_INSPECTED. Limit: Main Table 1 inspected as XML, not visually; selected geological-context page/Figure 4 visually inspected. Supplement inspection recorded separately in S105. Raw assays and independent field/laboratory review absent.
 - Six control results are reported without mass/batch mapping; original assay fraction label differs between supplement and main table. [S105](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6402857/supplementaryFiles). Locator: Tables S3-S4, PDF pp.15-16. Access: SCAN_INSPECTED. Limit: Six control results without carbon masses or batch mapping; original certificates and consensus-source records uninspected. Same study as S104, not independent replication.
+- Schematic section records multiple soil horizons; Table S1 locates redated specimen FCS.CLA.154 at grid I6, 106.5 cm BGL. Local coordinates are not surveyed global elevations. [S105](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6402857/supplementaryFiles). Locator: Figure S5 p.6; Table S1 pp.9-10. Access: SCAN_INSPECTED. Limit: Six control results without carbon masses or batch mapping; original certificates and consensus-source records uninspected. Same study as S104, not independent replication.
 
-**Physical evidence:** Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination.
+**Physical evidence:** Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination. Selected section, specimen context row and main geological discussion visually inspected; refit/displacement discussion read.
 
 **Surviving documents:** 2019 article XML and visually inspected supplementary tables S3-S4; original laboratory records uninspected.
 
 **Source interpretation:** Humate contamination made earlier dates too young; revised chronology supports a Late Pleistocene archaeological event.
 
-**Investigation inference:** An identified same-bone redating supplies a concrete method-sensitive chronology revision. It cannot be transferred to Haitian sloths or establish a common flood.
+**Investigation inference:** An identified same-bone redating supplies a concrete method-sensitive chronology revision. It cannot be transferred to Haitian sloths or establish a common flood. Reported cross-boundary refits require localized displacement to be considered; they do not establish wholesale flood transport.
 
 **Counterevidence:** Reported fractions distinguish a documented contamination mechanism from assuming any inconvenient fossil age is wrong. The corrected result remains specimen-specific.
 
