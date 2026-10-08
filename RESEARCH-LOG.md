@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Lamp artifact comparison and unresolved transfer search
+
+Previous turn made progress: 335a757 published eight public-byte-verified files. Clean checkout rechecked. Searched Woodward/Evans transfer and Rutgers archive terms. Rutgers digital index returned browser verification; indexed March 1879 draft PDF initially appeared cached but live open and screenshots returned 404. No transfer instrument recovered and no absence claim inferred.
+
+Downloaded and hashed Friedel/Israel park history study; PDF has no usable extracted text, so absence of text-search matches is not a substantive result. Applied PDF visual workflow to selected introductory and artifact pages, including component photograph sheets. Added S51 and three Smithsonian identifiers, preserving experimental/anomalous interpretations and component-type dates separately from unknown manufacture dates. Original accession records, restoration histories and electrical measurements pending. Seventeen drafts, fifty-one sources; independent review absent.
+
 ## 2026-10-08 - Denny objections and reported production
 
 Previous turn made progress: e649be4 published seven public-byte-verified files. Clean checkout rechecked. Read UW Documents 52 and 48, adding S49-S50 as selected transcriptions. Retained association suspicions as allegations and Cotterill's park objection as a named contemporary voice, without inferring final impacts or motives.

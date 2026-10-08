@@ -1,0 +1,40 @@
+{
+  "case_id": "C007",
+  "source_id": "S51",
+  "status": "SOURCED_DRAFT",
+  "objects": [
+    {
+      "catalog_identifier": "SI 181,799",
+      "locator": "Artifacts pp. 5, 7-8; photograph 14 on PDF 301",
+      "reported_combination": "Base IIIa and attachment A",
+      "source_interpretation": "Possible experimental wooden model combining older clamp with later base",
+      "photograph_inspected": true,
+      "manufacture_date_independently_verified": null
+    },
+    {
+      "catalog_identifier": "SI 318,653",
+      "locator": "Artifacts p. 8, entry 16",
+      "reported_combination": "Base IV and attachment A",
+      "source_interpretation": "Anomalous combination in proposed development sequence",
+      "photograph_inspected": false,
+      "manufacture_date_independently_verified": null
+    },
+    {
+      "catalog_identifier": "SI 318,686",
+      "locator": "Artifacts pp. 6-8; base photograph 7 on PDF 300",
+      "reported_combination": "Base VI and attachment C",
+      "base_type_date_label": 1888,
+      "attachment_type_date_label": 1886,
+      "source_interpretation": "Component type chronology; not independently dated whole object",
+      "photograph_inspected": true,
+      "manufacture_date_independently_verified": null
+    }
+  ],
+  "limits": [
+    "Study's identifiers and classifications; current museum catalog entries not yet checked",
+    "No physical examination, accession file or restoration history inspected",
+    "Photographs and their study captions share a source lineage",
+    "No independently reproduced electrical performance measurements",
+    "No patent-transfer instrument recovered"
+  ]
+}

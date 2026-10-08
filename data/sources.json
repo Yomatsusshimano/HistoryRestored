@@ -899,6 +899,21 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S51",
+      "title": "Edison's Electric Light: Biography of an Invention, Park History Study",
+      "url": "https://npshistory.com/publications/edis/edisons-elec-light.pdf",
+      "creator": "Robert Friedel and Paul B. Israel, with contributions by Bernard S. Finn; commissioned by Edison National Historic Site",
+      "publication_date": "1983; preface dated 1983-06-30",
+      "source_type": "archival and artifact research study, scanned copy hosted by NPSHistory",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Cover, preface, introduction i-iv and ix-xi; Artifacts pp. 1-8 (PDF 291-298); photograph sheets PDF 299-301.",
+      "limitations": "Selected portions only; PDF image-only, text search unusable. Study interpretations and catalog identifiers not yet checked against original museum accession records. Physical objects and measurement raw data not inspected.",
+      "local_copy": "tmp/research/edison-nps-light.pdf",
+      "sha256": "7fb6fbc2cb9efd27bd780811145be204df2835b87c23344a02ce33fe2e17ae0c",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

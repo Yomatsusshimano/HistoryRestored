@@ -225,8 +225,9 @@ Place: United States patent; Menlo Park attribution. Status: SOURCED_DRAFT.
 - The scan identifies an 1879 application and an 1880 patent for an improvement; it discusses earlier incandescent lamps. [S10](https://patentimages.storage.googleapis.com/d4/9b/62/aac68f7e65536c/US223898.pdf). Locator: PDF pages 2-3: heading, opening, antecedent discussion and claims. Access: SCAN_INSPECTED. Limit: Four-page file preserved; pages 1 and 4 not visually reviewed. Scan verifies wording, not working performance or priority.
 - Metadata gives filing 4 November 1879 and publication 27 January 1880. [S09](https://patents.google.com/patent/US223898A/en). Locator: Filing and publication metadata. Access: FULL_TEXT_PORTION. Limit: OCR damaged. Performance assertions are inventor statements, not replicated measurements. Complete priority history unreviewed.
 - Woodward filed January 4, 1875 and received patent 181,613 on August 29, 1876; it describes carbon in a vessel filled with rarefied nonreactive gas. [S18](https://patentimages.storage.googleapis.com/69/5d/5f/0509a2b5e678bc/US181613.pdf). Locator: PDF page 2 heading and specification; page 3 claim. Access: SCAN_INSPECTED. Limit: Patent disclosure, not measured lamp performance or full ownership chain. Does not establish first invention or transfer to Edison. OCR corrupts numbers and interleaves the final claim.
+- Artifact study identifies non-linear combinations of lamp bases and filament attachments, including a possible experimental model and an anomalous combination; three object identifiers retained for accession-history checks. [S51](https://npshistory.com/publications/edis/edisons-elec-light.pdf). Locator: Artifacts pp. 1-8; photograph sheets PDF 299-301. Access: SCAN_INSPECTED. Limit: Selected portions only; PDF image-only, text search unusable. Study interpretations and catalog identifiers not yet checked against original museum accession records. Physical objects and measurement raw data not inspected.
 
-**Physical evidence:** Woodward patent pages 1-3 and Edison specification pages 2-3 visually inspected; no original lamp tested.
+**Physical evidence:** Woodward patent pages 1-3 and Edison specification pages 2-3 visually inspected; no original lamp tested. Selected artifact photographs in S51 inspected; no physical examination or independent object dating.
 
 **Surviving documents:** Two patent scans; Woodward assignment heading; notebooks and full transfer instruments unreviewed.
 
@@ -236,9 +237,9 @@ Place: United States patent; Menlo Park attribution. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Woodward predates Edison for a disclosed carbon-lamp arrangement. Edison claims more specific filament/vacuum combinations. Neither patent establishes recovery from a lost civilization or sole invention of all electric lighting.
 
-**Next test:** Retrieve original transfer instruments and dated laboratory records; compare other antecedents and measured lamp performance with each claimed technical improvement.
+**Next test:** Retrieve original transfer instruments and dated laboratory records; compare other antecedents and measured lamp performance with each claimed technical improvement. Check SI 181,799, 318,653 and 318,686 accession/restoration records and original component measurements; retain unresolved patent-transfer search.
 
-**Dependence:** Each scan and its OCR are one record. Two patents document distinct disclosures but do not establish a transmission chain between them.
+**Dependence:** Each scan and its OCR are one record. Two patents document distinct disclosures but do not establish a transmission chain between them. S51 component classifications and photographs are one study lineage; type chronology does not independently date whole objects.
 
 **Alternatives:** Incremental development; Recovery from a demonstrably earlier artifact
 
