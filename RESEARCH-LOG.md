@@ -1025,3 +1025,8 @@ Previous turn made verified public progress; clean checkout confirmed. Visually 
 ### 2026-10-08 — Burial exclusion sensitivity
 
 Previous turn made verified public progress; clean checkout confirmed. Computed residual-to-cutoff diagnostics for all5 exclusions, with optional common3percent production-ratio term. Published declared3/4/5-point Palo Verde WLS sensitivity. No unpublished covariance guessed, source exclusions altered, p-values assigned or replacement ages produced.
+
+
+### 2026-10-08 — Burial software lineage and exclusion logic
+
+Previous turn made verified public progress; clean checkout confirmed. Read S216 acknowledgements and S217 publisher methods/availability. Bounded searches did not recover the original MATLAB implementation. Published distinction between slope bounds and point ratios with explicitly synthetic algebraic counterexample. No substitute package claimed as original, author contact, actual Bayesian reproduction or revised age.

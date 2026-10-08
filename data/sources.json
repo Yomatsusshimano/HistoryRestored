@@ -3421,6 +3421,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S217",
+      "title": "Differential uplift and incision of the Yakima River terraces, central Washington State",
+      "url": "https://doi.org/10.1002/2015JB012303",
+      "creator": "Adrian M. Bender, Colin B. Amos, Paul Bierman, Dylan H. Rood, Lydia Staisch, Harvey Kelsey and Brian Sherrod",
+      "publication_date": "2015-12-09 online; 2016 issue",
+      "source_type": "original research and cited methodological predecessor",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher web-text methods paragraphs on Bayesian regression and exclusions; acknowledgements/data/code availability. Used for software lineage only, not new Yakima case validation.",
+      "limitations": "Code and inputs offered on request, not recovered or executed. No proof all settings carried into S216 combined implementation. Supporting DOCX and full study not inspected.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

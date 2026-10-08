@@ -383,3 +383,8 @@ Figure4 and equation5 visually inspected. Fourth age-summary discrepancy found a
 ### 2026-10-08 — Burial exclusion sensitivity
 
 All5 excluded points checked against reported errors under explicit zero covariance. PVD021 is only0.49 measurement sigma above cutoff; diagnostic WLS sensitivity published without age conversion. Next original implementation and sample-specific exclusion rationale; do not call WLS the authors Bayesian method.
+
+
+### 2026-10-08 — Burial software lineage and exclusion logic
+
+S217 cited-method lineage recovered: slope prior and residual-based exclusion differ from S216 point-ratio cutoff. Code offered on request, not recovered; no contact made. Next declared errors-in-variables all-point versus screened comparison and physical intercept constraints, retaining exact-code uncertainty.
