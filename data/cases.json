@@ -478,6 +478,16 @@
           "source_id": "S196",
           "locator": "Supplement pp.1-3,5; research/LAWLOR-ZIRCON-CHECK.md; research/ZIRCON-OXYGEN-CHECK.md",
           "statement": "Tabulated Bouse/Lawlor grain data and preparation history recovered. Rounded Lawlor ages reproduce the reported 4.94 Ma mean after removal of eight oldest rows; scatter differs slightly. This is a crystallization calculation, not independent eruption dating. Available Bouse oxygen values overlap Lawlor and generally exceed Pre-Kilgore; four Bouse/Pre-Kilgore pairs overlap under a printed-error two-sigma interval check. Missing values, prior-source rows and duplicate labels remain explicit; no unique-source probability calculated."
+        },
+        {
+          "source_id": "S197",
+          "locator": "USGS abstract; research/LAWLOR-ARGON-AUDIT.md",
+          "statement": "Original-study abstract explicitly labels 4.834 ±0.011 Ma as one sigma; full calibration and source-to-bed age transfer remain unverified."
+        },
+        {
+          "source_id": "S198",
+          "locator": "Table sheet rows1-55; research/LAWLOR-ARGON-AUDIT.md",
+          "statement": "Recovered 35 Lawlor argon heating-step rows, including six explicitly omitted for low gas release. Scattered LAWL-1 ages, scaled headers and separately labelled uncertainty columns preclude treating a simple average as a reproduced eruption age."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

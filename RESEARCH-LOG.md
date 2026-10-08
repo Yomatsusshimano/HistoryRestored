@@ -888,3 +888,7 @@ Previous turn made verified public progress; clean tree confirmed. DOI resolved 
 ### 2026-10-08 — Zircon oxygen candidate comparison
 
 The model-switch acknowledgement made no research progress. Revalidated the three pending analysis/data files and continued the unfinished comparison. Rechecked the retained source hash and visually inspected p.5; all 24 Pre-Kilgore rows preserved, including duplicate label, prior-source markers and blank versus dashed missing cells. Recomputed unweighted summaries and printed-error interval overlaps. Published the broad contrast together with high-value-tail overlap and unreconciled main-paper summary difference. No population sampling model, unique eruption assignment, new chronology or independent scientific review claimed.
+
+### 2026-10-08 — Original Lawlor argon inputs recovered
+
+Previous turn made verified public progress; clean tree confirmed. Institutional abstract retrieved through web index; direct USGS access failed403 and publisher DOI certificate validation failed. Supplemental DOI resolved to Figshare workbook, retrieved and hashed without weakening certificate checks. Read-only xlrd extraction preserves35 Lawlor steps, six marked omissions and original multirow headers. Identified noncumulative percent values normalized over ordinary blocks, scaled J fields and numeric-zero external-error cells that cannot establish zero uncertainty. No final isochron reconstruction, monitor calibration, formula execution, rendered workbook or bed-age transfer claimed.

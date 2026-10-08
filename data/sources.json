@@ -3141,6 +3141,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S197",
+      "title": "Age, composition, and areal distribution of the Pliocene Lawlor Tuff, and three younger Pliocene tuffs, California and Nevada",
+      "url": "https://pubs.usgs.gov/publication/70036324",
+      "creator": "Andrei M. Sarna-Wojcicki and coauthors",
+      "publication_date": "2011",
+      "source_type": "original argon geochronology research",
+      "access": "ABSTRACT",
+      "inspected": "Institutional abstract and bibliographic record retrieved through web search; DOI 10.1130/GES00609.1; Geosphere7 pp.599-628.",
+      "limitations": "Direct USGS HTTP403 and DOI certificate failure; full paper, standards, corrections, regression and stratigraphic figures uninspected. Abstract reporting is not analytical reproduction.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S198",
+      "title": "Supplemental Table: Lawlor Tuff argon analyses",
+      "url": "https://doi.org/10.1130/GES00609.S1",
+      "creator": "Andrei M. Sarna-Wojcicki and coauthors",
+      "publication_date": "2011",
+      "source_type": "original analytical workbook",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Figshare12180951 file22398423, 609_SuppT01.xls; Table sheet108x41. Programmatic cell inspection of headers and Lawlor rows9-55; 35 analysis rows preserved. SHA256 64d4ae344cc82962d5249513e96e23628437e931c9e915de8cf3c1f549f26299.",
+      "limitations": "Stored values only, not rendered workbook or recalculated formulas. CHANDON rows outside published extraction. Full calibration and regression conventions unresolved; source zeros not zero systematic uncertainty. Same study as S197.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

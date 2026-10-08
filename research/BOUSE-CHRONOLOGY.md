@@ -39,3 +39,5 @@ Next recover Harvey's full tables/supplement and Sarna-Wojcicki et al.'s argon a
 S196 now supplies the original analytical supplement. The [Lawlor calculation audit](LAWLOR-ZIRCON-CHECK.md) preserves all tabulated Bouse/Lawlor rows and sampling-history notes, and approximately reproduces the proximal trimmed mean from rounded values. Supplement retrieval is complete; remaining candidate groups, full selection rationale, argon calibration and bed-specific age transfer remain pending. Earlier main-paper access limits still apply.
 
 The [oxygen comparison](ZIRCON-OXYGEN-CHECK.md) now audits Pre-Kilgore alongside Bouse and Lawlor. Broad compositional differences survive the prior-source split, but selected error intervals overlap. Other candidate groups and bed-specific age transfer remain pending.
+
+The [argon source audit](LAWLOR-ARGON-AUDIT.md) now recovers 35 original Lawlor heating-step rows and an explicit one-sigma convention from the study abstract. Calibration, regression selection and primary-deposition transfer remain unresolved.
