@@ -55,3 +55,20 @@ The [Moxee contact audit](research/MOXEE-FLOOD-COUNT.md) requires candidate mode
 The [regional flood discrimination](research/FLOOD-DISCRIMINATION.md) separates repeated units, independently initiated floods and elapsed time. It adds conditional magnetic recording thresholds: common rigid rotation preserves pairwise separation, while differential recording must be constrained before converting magnetic change into years. No validated field-rate bound or sediment-recording transfer model has been supplied.
 
 The [Bouse mechanism comparison](research/BOUSE-DISCRIMINATION.md) specifies separate lake-outlet and marine-exchange requirements. Isotope change does not by itself supply salinity, basin storage, discharge or duration. Fit water and salt budgets to the same control volume and correlated horizons before comparing mechanisms. A historical through-going passage additionally requires a fixed map-derived route and chronology; no such fitted reconstruction exists here.
+
+## Lower Colorado boulder-flood model requirements
+
+The [original field accounts and burial audit](research/COLORADO-BURIAL-DATING.md) provide a second regional target. S220 reports a 22 km reach, projected roughly 45 m thickness and at least 20 m central-channel fill; its proposed extension toward Laughlin depends on correlation. These estimates are not a gridded deposit-volume measurement. S219's later projected thickness greater than 30 m must remain separately attributed until the sections and reconstruction conventions are reconciled. Do not multiply maximum thickness by the whole reach and an assumed width to report a measured volume.
+
+| Required constraint | Evidence presently available | Input still needed before calculation |
+| --- | --- | --- |
+| Deposit geometry | Reported reach and thickness estimates; mapped surface units and selected photographs | Correlated basal/top contacts, cross-sections and erosion/preservation bounds with elevation datums |
+| Sediment transport | Large mostly local boulders and smaller far-traveled quartzite; reported recycled clasts in younger units | Dimensions, density, source and position of each modeled clast; channel gradient and roughness; entrainment versus deposition conditions |
+| Water budget | A regional flood interpretation | Source/storage mechanism, wetted geometry and boundary conditions sufficient to derive a hydrograph and integrate volume |
+| Relative sequence | Inset units, tilted beds, cover, reported paleosols and separate younger terraces | Verified section correlations and exposure indicators; several direct unit relationships remain unobserved |
+| Burial/exposure history | 22 isotope measurements, current sampling depths and diagnostic fits | Sample-specific provenance, time-varying overburden, erosion/exhumation and production/covariance inputs |
+| Event date | Published model-dependent burial ages, with documented discrepancies | A reproduced physical age model and dates tied to the event unit; old clast signals must be distinguished from final redeposition |
+
+The largest reported boulder and the longest reported transport distance are not measurements on one tracked clast. Combining them would invent a hydraulic constraint. Present sample depth similarly cannot substitute for past shielding. Until the missing inputs are obtained, no discharge, duration, sediment budget or historical event date is inferred from this target.
+
+A useful discriminating observation is a measured Bat Cave cut section tying BC007–011 to the cover/base contact and mapped conglomerate. If the cobbles are in younger cover, model their inherited signal and final emplacement separately. If they are in continuous older conglomerate beneath cover, test its burial history in that context. Neither branch alone supplies a worldwide event. These are retrospective research decisions, not frozen predictions on uninspected sites.

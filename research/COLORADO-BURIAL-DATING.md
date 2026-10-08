@@ -1,6 +1,6 @@
 # Colorado River burial dating: an independent measurement route
 
-SOURCED_DRAFT, 2026-10-08. No independent review or reproduced isochron fit.
+SOURCED_DRAFT, 2026-10-08. Independent diagnostic line fits are now available below; the original corrected Bayesian age calculation and independent scientific review remain outstanding. Sections preserve the investigation's progression, including access gaps superseded by later recovery.
 
 [Seong et al., S216](https://doi.org/10.18814/epiiugs/2024/024015) uses cosmogenic10Be–26Al burial dating on22 cobbles. The13-page [publisher PDF](https://pdf.medrang.co.kr/IUGS/2025/048/IUGS048-01-51.pdf) was recovered (SHA256 `144a94d32e26d41796c07f97e1b8976fcba5c5dd4285eda7de81e02f7781142c`). Online publication was2024-07-01; the issue is Episodes48(1),2025. Table2/printed57 was visually inspected; selected methods/results were text-read.
 

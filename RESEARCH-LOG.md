@@ -1080,3 +1080,8 @@ Previous turn made verified public progress. Downloaded/hashed PP486-J, visually
 ### 2026-10-08 — Bat Cave section-level match
 
 Previous turn made verified public progress. Recovered original S219 map sheet and inspected west-bank survey grid. Queried accessible California government PLSS service after earlier BLM endpoint certificate failure; both explicit datum scenarios return same section matching1973 caption. Saved complete query responses and provenance. No legal-quarter approximation, sample relocation or exact exposure match claimed.
+
+
+### 2026-10-08 — Colorado cross-case integration
+
+The immediately preceding model-switch acknowledgment was no progress; the last substantive research checkpoint was published section-level matching. Revalidated the clean checkout and read the current protocol, standards, workplan and Colorado audit. Integrated existing source-backed findings into the cross-case inference and dependency table, and specified the lower Colorado model inputs without inventing hydraulic values. Corrected the burial audit's stale opening status to distinguish completed diagnostic fits from the unreproduced original age calculation. Updated the inventory count to the current registry. This tranche synthesizes existing inspected evidence; it adds no new field observation, external source, event date, independent review or prospective success. The decisive locality task remains a specimen-to-cut-to-contact crosswalk rather than more general cadastral agreement.
