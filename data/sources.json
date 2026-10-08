@@ -2791,6 +2791,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S172",
+      "title": "Holocene geocentric dipole tilt model constrained by sedimentary paleomagnetic data",
+      "creator": "Andreas Nilsson, Ian Snowball, Raimund Muscheler and Cintia B. Uvo",
+      "publication_date": "2010",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GC003118",
+      "source_type": "original research methods",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher HTML section 2 chronology convention, section 2.1 North America, supporting-information descriptions and cited Verosub 2001 reference.",
+      "limitations": "Selected text only. Revised Fish Lake processing described; no original assays or exact 2003 input recovered. Figures, supplements and model calculations not reproduced.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S173",
+      "title": "A 17,000 yr paleomagnetic secular variation record from the southeast Alaskan margin: Regional and global correlations",
+      "creator": "M. H. Walczak, J. S. Stoner, A. C. Mix, J. Jaeger, G. P. Rosen, J. E. T. Channell, D. Heslop and C. Xuan",
+      "publication_date": "2017",
+      "url": "https://eprints.soton.ac.uk/413173/1/Walczak_et_al._including_Xuan_2017_EPSL.pdf",
+      "source_type": "original research manuscript",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "University-hosted 56-page manuscript; Fish Lake methods on PDF page 22 visually inspected. SHA256 61118126f2936db623195b506e61c4824c29a96a9e554383bb3b6ede479f5924.",
+      "limitations": "Selected methods page only; figures, original sample assays and numerical processing unreviewed. Later revised chronology cannot be substituted for the unknown 2003 input.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

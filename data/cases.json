@@ -720,6 +720,16 @@
           "source_id": "S171",
           "locator": "SECVR v3.5 LAKESTACK/LAKESMOOTH/C14AGES selections; research/NOAA-LAKE-RECOVERY.md",
           "statement": "Recovered Fish Lake archive series ends at 9966 C14 BP and cannot supply the 12300-13100 overlap described in the 2003 Touchet reference. Both lake assay tables have blank placeholders; Mono Lake stacked/smoothed rows duplicate one series. This version mismatch leaves exact reference reproduction pending."
+        },
+        {
+          "source_id": "S172",
+          "locator": "Section 2.1; research/FISH-LAKE-REFERENCE-AUDIT.md",
+          "statement": "Later Fish Lake processing includes recalibration, magnetic cross-alignment and an age shift with an explicit older-period caveat; this does not identify the 2003 reference version."
+        },
+        {
+          "source_id": "S173",
+          "locator": "Manuscript PDF page 22",
+          "statement": "The 2017 regional comparison uses another revised Fish Lake chronology and reports inherited inclination correction; its data lineage must remain distinct from the 2003 input."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.",
