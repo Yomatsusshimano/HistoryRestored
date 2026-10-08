@@ -8,7 +8,15 @@ Relative growth-pattern matching supports their same-death-year interpretation. 
 
 Conditional on these assumptions, Bonneville was not caused by the 1700 earthquake. That narrows a proposed common regional catastrophe but neither dates Ozette nor identifies Bonneville's trigger. A hydrological trigger and earlier earthquakes remain alternatives.
 
-Next: retrieve the ring-width supplement and model code, reproduce alignments and calibration, and test sensitivity to missing rings and sample treatment. Historical specimen custody, original laboratory records and earlier determinations remain unaudited. No global-event conclusion follows from this comparison.
+Next: retrieve the ring-width supplement and model code, reproduce alignments and calibration, and test sensitivity to missing rings and sample treatment. Historical specimen custody and original laboratory records remain unaudited. No global-event conclusion follows from this comparison.
+
+## Earlier determinations and sample treatment
+
+[Nine older measurements](../data/bonneville-older-dates.json) are now transcribed from visually checked p. 69. These are the 2022 authors' compilation, not direct inspection of the older reports. Whole-round samples, fragments in underlying alluvium, reworked deposits and selected tree rings represent different dated objects. Their age spread cannot be treated as nine incompatible measurements of one burial instant.
+
+The authors flag possible polyethylene glycol contamination for BON#1 and BON#2. Their new Powerhouse samples came from another section reported to show no preservative evidence. Chemical confirmation and treatment records have not been inspected here. A possible explanation is not a demonstrated correction.
+
+Page 68 initially calls Minor's rejected determination 400 ± 70 BP, matching Table 1's Beta-9958 row, but later calls it 410 ± 50 BP. The latter matches BON#2's numerical result, assigned to different authors in the table. This discrepancy remains unresolved pending the originals. It does not establish intentional alteration of history.
 
 ## Correlation arithmetic audit
 

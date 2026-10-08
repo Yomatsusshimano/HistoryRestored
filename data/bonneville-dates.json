@@ -106,7 +106,7 @@
   ],
   "limitations": [
     "Historical provenance and treatment history require independent audit",
-    "All older Table 1 determinations not extracted",
+    "Earlier determinations now separately retained in data/bonneville-older-dates.json; original publications not inspected",
     "Reported intervals are model results, not raw measurements"
   ]
 }

@@ -42,3 +42,5 @@ Ozette attribution audit: 2009 reporting treats a January 26, 1700 trigger as li
 Bonneville comparison added: nine assays from three trees, published 1421–1455 CE combined interval and missing-ring dependencies recorded. Retrieve supplements and rerun before treating this as independently reproduced chronology.
 
 Bonneville arithmetic update: 15 printed correlation rows agree within rounding; prose example t differs from standard calculation. Supplement links identified but files not retrieved. Raw alignment and absolute calendar reproduction remain pending.
+
+Bonneville provenance update: nine earlier determinations retained separately by context; possible preservative treatment and inconsistent retelling of one rejected date documented. Original Minor report and treatment records remain needed.

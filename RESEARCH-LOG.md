@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Bonneville earlier dates and treatment history
+
+Previous turn made progress: 68209ab published seven byte-verified files. Clean checkout confirmed. Visually inspected S68 pp. 68-69 and transcribed nine earlier determinations with lab IDs and distinct depositional/sample contexts. Kept possible PEG contamination qualified, not demonstrated. Recorded internal 400 +/-70 versus 410 +/-50 retelling discrepancy without choosing an unsupported correction. Original reports and treatment records remain uninspected. Search also located a 2021 conference abstract claiming provisional finer tree-ring placement; it remains a lead for the next audit, not adopted evidence.
+
 ## 2026-10-08 - Bonneville correlation arithmetic
 
 Previous turn made progress: da825c4 published seven byte-verified files. Clean checkout confirmed. Publisher HTML exposes two xlsx supplement links, but ordinary download returned 403 and web retrieval could not access either. Corrected progress wording that had called them available. No workbook contents inspected. Visually checked p. 75 prose; audited all 15 Table 3 rows against standard correlation t arithmetic with rounding bounds. All table rows are compatible; the prose n=50, r=.3281 example gives t=2.40635 rather than printed 3.5. No p-value or raw-series reproduction claimed. SciPy is unavailable in bundled Python; this audit uses standard-library arithmetic only.

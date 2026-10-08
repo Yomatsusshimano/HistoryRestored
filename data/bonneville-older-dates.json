@@ -1,0 +1,111 @@
+{
+  "source_id": "S68",
+  "case_id": "C019",
+  "locator": "Table 1 p. 69 / PDF p. 5; visually inspected",
+  "status": "SOURCED_DRAFT",
+  "samples": [
+    {
+      "lab_id": "M-722",
+      "sample_label": "Lawrence Wyeth stump no. 2",
+      "reported_conventional_BP": 670,
+      "reported_error": 300,
+      "material": "Douglas-fir",
+      "context": "Slice across entire round",
+      "cited_original": "Lawrence and Lawrence 1958; Crane and Griffin 1959",
+      "original_inspected": false
+    },
+    {
+      "lab_id": "M-761",
+      "sample_label": "Garry oak",
+      "reported_conventional_BP": 700,
+      "reported_error": 200,
+      "material": "Garry oak",
+      "context": "Slice across entire round",
+      "cited_original": "Lawrence and Lawrence 1958; Crane and Griffin 1959",
+      "original_inspected": false
+    },
+    {
+      "lab_id": "Beta-9958",
+      "sample_label": "BDH-1094",
+      "reported_conventional_BP": 400,
+      "reported_error": 70,
+      "material": "Unspecified wood fragments",
+      "context": "River alluvium beneath slide; base of debris",
+      "cited_original": "Minor 1984",
+      "original_inspected": false
+    },
+    {
+      "lab_id": "Beta-9957",
+      "sample_label": "BDH-1082",
+      "reported_conventional_BP": 3670,
+      "reported_error": 80,
+      "material": "Unspecified wood fragments",
+      "context": "Micaceous sand above reworked slide debris",
+      "cited_original": "Minor 1984",
+      "original_inspected": false
+    },
+    {
+      "lab_id": "Beta-9959",
+      "sample_label": "BDH-1407",
+      "reported_conventional_BP": 4770,
+      "reported_error": 80,
+      "material": "Unspecified wood fragments",
+      "context": "Reworked slide debris",
+      "cited_original": "Minor 1984",
+      "original_inspected": false
+    },
+    {
+      "lab_id": "Beta-9961",
+      "sample_label": "Sample B",
+      "reported_conventional_BP": 5550,
+      "reported_error": 90,
+      "material": "Small oak tree wood",
+      "context": "River alluvium beneath slide",
+      "cited_original": "Minor 1984",
+      "original_inspected": false
+    },
+    {
+      "lab_id": "Beta-9960",
+      "sample_label": "Sample A",
+      "reported_conventional_BP": 830,
+      "reported_error": 60,
+      "material": "Douglas-fir Powerhouse tree",
+      "context": "Outermost 20 rings; relation to preserved bark uncertain",
+      "cited_original": "Minor 1984; 1993 written communication",
+      "original_inspected": false
+    },
+    {
+      "lab_id": "Beta-105793",
+      "sample_label": "BON#2",
+      "reported_conventional_BP": 410,
+      "reported_error": 50,
+      "material": "Douglas-fir Powerhouse tree",
+      "context": "15 root rings; centroid 120 rings from bark; possible polyethylene glycol contamination",
+      "cited_original": "Schuster and Pringle 2002",
+      "original_inspected": false
+    },
+    {
+      "lab_id": "Beta-92227",
+      "sample_label": "BON#1",
+      "reported_conventional_BP": 360,
+      "reported_error": 50,
+      "material": "Douglas-fir Powerhouse tree",
+      "context": "20 root rings; centroid 20 rings from bark; possible polyethylene glycol contamination",
+      "cited_original": "Schuster and Pringle 2002",
+      "original_inspected": false
+    }
+  ],
+  "error_note": "Table labels uncertainties 1 sigma; M-722 and M-761 comments describe counting uncertainty plus estimated additional measurement uncertainty.",
+  "limits": [
+    "These are earlier determinations compiled by 2022 authors, not newly inspected laboratory records",
+    "No pooling across depositional contexts",
+    "Possible preservative contamination is not chemically demonstrated here",
+    "Earlier BP ages do not directly specify a burial calendar year"
+  ],
+  "source_discrepancy": {
+    "locator": "p. 68 / PDF p. 4",
+    "table_and_initial_prose": "Minor rejected 400 +/-70 BP",
+    "later_prose": "Previously dismissed 410 +/-50 BP attributed to Minor",
+    "resolution": null
+  }
+}
