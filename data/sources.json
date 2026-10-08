@@ -1824,6 +1824,37 @@
       "downloaded_workbook_sha256": "11377fee583ad4ab9354ab1e9809767e9b88817353d6cfbc0dde9b9cc71427fd",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S112",
+      "title": "Supplementary file guide for Sigl et al. (2015)",
+      "creator": "Sigl and colleagues",
+      "publication_date": "2015",
+      "source_type": "Original research supplement",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM42_ESM.pdf",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Text of both guide pages; workbook/tab listings.",
+      "limitations": "Guide is an index, not detection code or a binary validation-event list.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "de78de5e9903be5cb49c4b3e0d8e148448f311abaaa45a6c62d30902066503dd",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S113",
+      "title": "A new bipolar ice core record of volcanism from WAIS Divide and NEEM and implications for climate forcing of the last 2000 years",
+      "creator": "Sigl and colleagues",
+      "publication_date": "2013-02-07",
+      "source_type": "Original methods article",
+      "url": "https://doi.org/10.1029/2012JD018603",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Section 2.4 paragraphs 21-28, printed p.1154 / PDF p.4, visually inspected.",
+      "limitations": "Earlier method on earlier chronology. Exact implementation and equivalence to the 2015 historical-validation input remain unverified.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "ae2c9a8be5f69f6149e968c06f5a6ffa0e7951ade4b7c4ad13e769990527a361",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "pdf_mirror": "https://nora.nerc.ac.uk/id/eprint/502097/1/jgrd50082.pdf"
     }
   ]
 }

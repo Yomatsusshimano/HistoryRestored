@@ -754,6 +754,7 @@ Place: Greenland and West Antarctica, compared with tree-ring records. Status: S
 - Thirty-two historical date/rank rows and six aggregate matching summaries are available; individual ice-event assignments remain unverified. [S108](https://www.whoi.edu/fileserver.do?id=240285&p=244409&pt=2). Locator: PDF pp.9-10,13. Access: SCAN_INSPECTED. Limit: Historical originals and simulation code uninspected; individual matched/unmatched assignments not supplied in inspected tables.
 - Workbook supplies processed layer-counting inputs and an annual combined sulfur record; its README describes TUNU dating as synchronization without annual-layer counting. [S109](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM45_ESM.xlsx). Locator: README and 6 - NEEM_annual_combined, A1:E2499. Access: FULL_TEXT_PORTION. Limit: Read-only cell extraction, not visual workbook review. Published processing and age models not reproduced. These workbooks are dependent on S107, not independent confirmations.
 - Selected boundary rows distinguish signed BCE/CE year labels from midyear labels and corroborate one missing-value sentinel through a blank counterpart. [S111](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM35_ESM.xlsx). Locator: a!A2010:C2015 compared with S109 combined annual sheet. Access: FULL_TEXT_PORTION. Limit: No visual workbook render or full figure reproduction. Not an independent dataset; calendar crosswalk limited to selected boundary rows. No binary historical-validation event vector identified.
+- Earlier method specifies running-median background and MAD threshold, with separate processing for deposition estimates. [S113](https://doi.org/10.1029/2012JD018603). Locator: Section 2.4 paragraphs 24-28, p.1154. Access: SCAN_INSPECTED. Limit: Earlier method on earlier chronology. Exact implementation and equivalence to the 2015 historical-validation input remain unverified.
 
 **Physical evidence:** Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.
 
@@ -765,7 +766,7 @@ Place: Greenland and West Antarctica, compared with tree-ring records. Status: S
 
 **Counterevidence:** A published technical revision is not evidence of concealed historical fabrication. This case also prevents treating all older ice dates as immune to correction. Methods explicitly report unused validation evidence; this must not be dismissed as merely checking fitted anchors.
 
-**Next test:** Trace event classification and calendar conventions in the recovered workbooks and supplementary guide before reconstructing the historical match test.
+**Next test:** Resolve exact MAD/window/missing-value implementation and confirm its use for the 2015 validation series before testing the published match counts.
 
 **Dependence:** Ice isotope measurements and tree measurements are different observations, but assigning ice dates using tree markers creates chronological dependence. Shared markers also connect this audit to the MacBlo anchor discussion.
 

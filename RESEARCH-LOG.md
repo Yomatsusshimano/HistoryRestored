@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Volcanic-event detection method traced
+
+Previous turn made progress: 70a128f published seven publicly byte-verified files. Clean checkout confirmed. Guide retry succeeded, yielding a file index rather than the event vector. Retrieved the referenced earlier methods article from NERC, rendered p.1154 and checked section 2.4. Added S112-S113 and a method ledger distinguishing detection threshold from deposition integration and unresolved implementation details. No algorithm tuned to historical match counts; no significance result reproduced. Full goal remains active.
+
 ## 2026-10-08 - Ice workbook calendar boundary crosswalk
 
 Previous turn made progress: 51cad5d published seven publicly byte-verified files. Clean checkout confirmed. Downloaded actual publisher-linked Figure 2 source workbook; supplementary-guide request ended in read timeout. Inspected headers and six era-boundary rows by read-only extraction. Five numeric pairs match annual combined values within rounding; 2 CE blank corroborates its -9.999 sentinel. Corrected the open boundary question: 1.5 maps to 1 CE and -0.5 to 1 BCE, so absence of 0.5 does not establish a missing year. Added S111 and cell-specific crosswalk. Binary validation-event selection remains unrecovered; no match or significance reproduction claimed. Full goal remains active.

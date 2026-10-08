@@ -1,0 +1,28 @@
+{
+  "source_id": "S113",
+  "case_id": "C023",
+  "locator": "Section 2.4, paragraphs 21-28, p.1154",
+  "status": "METHOD_RECOVERED_NOT_REPRODUCED",
+  "reported_steps": {
+    "sea_salt_S_to_Na_mass_ratio": 0.084,
+    "background": "31-year running median of annual non-sea-salt sulfur",
+    "detection": "Annual value exceeds running median plus 3 times MAD",
+    "threshold_selection": "Empirical, checked against known historical eruptions",
+    "deposition": "Integrate excess above reduced running median after removal of detected volcanic peaks",
+    "background_uncertainty": "31-year running standard deviation of reduced running median"
+  },
+  "implementation_unknowns": [
+    "Exact MAD sample domain and centering",
+    "MAD normalization/scaling convention",
+    "Window alignment and edge behavior",
+    "Missing-value handling and gap interpolation",
+    "Grouping flagged years into events and integration boundaries",
+    "Any modifications in 2015 historical-validation processing"
+  ],
+  "distinctions": [
+    "Detection threshold is not deposition baseline",
+    "Flagged year is not automatically a separate eruption",
+    "2013 chronology must not be copied as 2015 dates"
+  ],
+  "validation_counts_reproduced": false
+}
