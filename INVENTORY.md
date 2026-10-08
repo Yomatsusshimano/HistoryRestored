@@ -595,7 +595,7 @@ Place: Columbia River Gorge, Oregon and Washington. Status: SOURCED_DRAFT.
 
 **Sourced statements**
 
-- Nine wood assays from three trees are combined with ring offsets into a reported 1421–1455 CE three-sigma death interval; analysis not independently rerun. [S68](https://doi.org/10.1017/qua.2022.7). Locator: Table 1 p. 70; methods/results p. 78. Access: SCAN_INSPECTED. Limit: No physical specimen inspection, laboratory-certificate audit, raw crossdating or OxCal rerun. Earlier determinations on p. 69 not extracted.
+- Nine wood assays from three trees are combined with ring offsets into a reported 1421–1455 CE three-sigma death interval; analysis not independently rerun. [S68](https://doi.org/10.1017/qua.2022.7). Locator: Table 1 p. 70; methods/results p. 78. Access: SCAN_INSPECTED. Limit: No physical specimen inspection, laboratory-certificate audit, raw crossdating or OxCal rerun. Earlier determinations are inspected through this compilation, not their original reports.
 
 **Physical evidence:** Reported entrained tree and two drowned trees; specimens not inspected.
 
