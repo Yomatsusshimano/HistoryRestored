@@ -1,0 +1,20 @@
+{
+  "checked_date": "2026-10-08",
+  "source_id": "S59",
+  "doi": "10.7275/2d19-f718",
+  "item_api": "https://scholarworks.umass.edu/server/api/core/items/add5f47c-f91d-4c10-989a-d3bfebf12286",
+  "item_response_sha256": "661ab9897ff07d476f8853d693487fe77cac548a539f5d0533ad1ab1fb6f2226",
+  "original_bundle_api": "https://scholarworks.umass.edu/server/api/core/bundles/2be2b278-37fa-4322-83b1-65a6b9cb132c/bitstreams",
+  "original_bundle_response_sha256": "6bd099db40ca0c3e62a7d13a009bcbdaf88dc25cdfecc589828540605154f898",
+  "original_bundle_total_elements": 0,
+  "data_location": "https://app.globus.org/file-manager?origin_id=b9120884-93ae-4a90-9f91-1556b01569e7&origin_path=%2FColumbia_Gorge_Repository%2F",
+  "access_requirement": "Repository says Globus login required; no login or data retrieval completed.",
+  "advertised_directories": [
+    "Hydro_Models",
+    "Topo_Reconstruction",
+    "Analysis_Scripts"
+  ],
+  "actual_file_inventory": null,
+  "model_executed": false,
+  "limitation": "Empty repository ORIGINAL bundle does not establish absence from designated external storage."
+}

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Alternative canyon geometry and actual data location
+
+Previous acknowledgement turn made no research progress. Revalidated clean checkout and continued the available primary-source audit. Inspected David et al. 2022 text sections and the UMass dataset API. Added S58/S59; distinguished within-study and prior-study discharge comparisons and sediment-size calibration. Direct Caltech downloads returned 403; PDF text was available through web retrieval, but figure images were not successfully inspected. No visual verification claimed.
+
+Resolved the dataset DOI to its current record and external Globus collection. ORIGINAL bundle has zero bitstreams; metadata explicitly sends data access to Globus login. This narrows the acquisition route, not evidence that data are missing. No files or model outputs inspected from Globus and no solver run. Fixed stale C008 seven-control summary to eleven. Seventeen drafts, fifty-nine sources; independent review and full goal remain incomplete.
+
 ## 2026-10-08 - Additional flood bounds and missing model registration
 
 Previous turn made progress: 8850635 published eight byte-verified files. Rechecked clean checkout and resumed physical constraints. Waitt/Long/Stanton 2019 original-table retrieval remained unsuccessful; DOI retrieval failed and USGS page returned 403. A Willamette USGS spatial-data lead also returned 403 through both web and ordinary HTTP fetch. No access workaround or unavailable dataset inspection claimed.

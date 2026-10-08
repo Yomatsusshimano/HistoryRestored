@@ -1004,6 +1004,36 @@
       "sha256": "eef30a1d1f96f69b33950d484370c40d523d30ba7e632df4bc9b5fbe19ed72eb",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S58",
+      "title": "Narrower Paleo-Canyons Downsize Megafloods",
+      "url": "https://doi.org/10.1029/2022GL097861",
+      "creator": "S. R. David, I. J. Larsen, M. P. Lamb",
+      "publication_date": "2022",
+      "source_type": "Original research article",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "PDF text sections 3-6; Caltech publication metadata. Figure images and supplement not successfully inspected.",
+      "limitations": "No model reproduction. Existing controls and hydrographs reused; sediment-size match is not independent erosion-volume validation.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S59",
+      "title": "Source data for Narrower Paleo-canyons Downsize Megafloods",
+      "url": "https://doi.org/10.7275/2d19-f718",
+      "creator": "Scott R. David, Isaac Larsen, Michael P. Lamb",
+      "publication_date": "2021 (repository issue field)",
+      "source_type": "Dataset repository metadata and public API",
+      "access": "CATALOG_METADATA",
+      "inspected": "Resolved landing page, item metadata, bundle listings and ORIGINAL bitstream count.",
+      "limitations": "Designated Globus files and README not accessed; advertised contents not independently inventoried.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

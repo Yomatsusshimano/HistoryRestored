@@ -267,8 +267,10 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 - A regional alternative explains selected downstream beds as pulses within a flood while retaining centuries of lake sedimentation and a broader multiple-flood history; its printed water budget is audited separately. [S30](https://faculty.washington.edu/tswanson/302add/ESS%20Readings/Bretz.pdf). Locator: pp. 605-608, especially conclusions p. 608. Access: SCAN_INSPECTED. Limit: No field replication, reservoir reconstruction or complete subsequent debate reviewed. See research/MISSOULA-PULSE-ALTERNATIVE.md.
 - An early modeling comment reports downstream inundation deficits under stated assumptions; the retrieved fragment is incomplete and no simulation was rerun. [S31](https://www.droyer.wescreates.wesleyan.edu/reply.pdf). Locator: Retrieved opening comment, printed p. 573. Access: FULL_TEXT_PORTION. Limit: PDF ends before the comment finishes. Continuation, figure, references and author reply not reviewed; simulation not reproduced.
 - Two Evergreen-Babcock Ridge noncrossing controls and Camden saddle/gap pair supply field elevations but blank projected coordinates and terrain elevations; these fields remain null in the expanded eleven-control selection. [S27](https://doi.org/10.1130/2021.2548(17)). Locator: Table 1 continuation p. 6, final four rows. Access: SCAN_INSPECTED. Limit: Partial table extraction, no raw field audit, input retrieval or simulation rerun. See research/MISSOULA-MODEL-AUDIT.md.
+- Alternative canyon geometry changes inferred discharge; transport-volume agreement retains calibration and inherited-data dependencies. See research/MISSOULA-PALEOCANYON.md. [S58](https://doi.org/10.1029/2022GL097861). Locator: Sections 3-6. Access: FULL_TEXT_PORTION. Limit: No model reproduction. Existing controls and hydrographs reused; sediment-size match is not independent erosion-volume validation.
+- Repository designates external Globus storage; no model files retrieved. Availability supplement records actual access limits. [S59](https://doi.org/10.7275/2d19-f718). Locator: Item metadata and ORIGINAL bundle API, checked 2026-10-08. Access: CATALOG_METADATA. Limit: Designated Globus files and README not accessed; advertised contents not independently inventoried.
 
-**Physical evidence:** Published geomorphic/stratigraphic observations; seven field-control rows transcribed and visually checked, no field section inspected.
+**Physical evidence:** Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.
 
 **Surviving documents:** 2020 review summary, 1983 abstract and relevant portions of the 2021 original modeling study.
 
@@ -278,7 +280,7 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Intervening time indicators challenge treating the whole sequence as one uninterrupted event.
 
-**Next test:** Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation.
+**Next test:** Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation. Retrieve and inspect the S59 Globus package before reproducing S58 terrain comparisons.
 
 **Dependence:** Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood.
 
