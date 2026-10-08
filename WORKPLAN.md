@@ -152,3 +152,5 @@ Regional within-tree dependence sensitivity executed: shared Gaussian radiocarbo
 Lamp attribution: an institutional publication supplies a counterexample to blanket claims of omitted predecessor credit. The underlying rights transaction still requires original documentation.
 
 Canadian lamp patent register recovered: No.3738 credits Woodward and Evans together, with August 3, 1874 printed date. Filing/affidavit chronology and later Edison transfer remain distinct unresolved records.
+
+Canadian date follow-up: July 24 confirmed on hosted drawing reproduction; August 3 remains the printed register date. Recover original archival file to establish procedural sequence and authenticate transcription; retain application date as unknown.

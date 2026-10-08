@@ -121,3 +121,11 @@ The [original 265,311 scan](../sources/originals/US265311.pdf) (S57), all four p
 The [structured chronology](../data/lamp-patent-chronology.json) preserves date roles and nulls. Comparing each pair yields three strict reversals between filing and grant order: 265,311 versus each other entry. A grant-only sequence would therefore invert the earlier application's position. Renewal is documented; why examination took that interval and what amendments occurred require the prosecution file. The final granted text is not assumed identical to the first-filed text.
 
 Application 2,172 remains unlinked. Searches combining that number with Edison, socket and 265,311 recovered no authoritative crosswalk. Similarity between the spring-contact design and S55's description of its antecedent makes 265,311 a candidate, not an established identity. Its printed internal label is Case No. 201, a distinct identifier. No missing document is treated as proof of concealment, and no first-invention date is inferred from filing alone.
+
+## July 24 drawing versus August 3 register entry
+
+The [drawing reproduction](https://www.bouletfermat.com/danny/woodward_and_evans_light_bulb_patent_diagram.jpg) (S132) visibly bears number 3738, the joint lamp title, and a bottom date of July 24, 1874. Enlarged inspection shows certification linking the drawings to an annexed specification, with Woodward and Evans named above the inventor label. This is documentary dating of a drawing, not a filing receipt or measured invention date. Archival custody and authenticity of this hosted reproduction have not been independently checked.
+
+[Boulet's transcription](https://www.bouletfermat.com/danny/light_bulb_patent.html) (S131) also reports July 24 signature and affidavit dates. The handwritten text pages remain uninspected. Thus the drawing supports the date's documentary context, but cannot authenticate every transcribed word.
+
+The August 3 date in S130 remains unchanged. A dated drawing followed by a later register entry is a plausible sequence; the complete application and grant instruments are needed to establish the procedural roles. These records do not require a calendar correction. Neither date establishes an Edison transaction, commercial performance or absolute invention priority.

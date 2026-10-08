@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Canadian drawing date distinguished
+
+Inspected the linked drawing reproduction at overview and enlarged date/signature views. July 24, 1874 appears beside drawing certification; register August 3 retained separately. Added S131 transcription and S132 drawing with distinct access limits. Original specification, filing receipt, grant instrument and custody chain remain unaudited. No chronology correction or Edison transfer inferred. Full goal remains active.
+
 ## 2026-10-08 - Contemporary Canadian lamp attribution
 
 Previous turn made progress: f26555f published six verified files; clean checkout confirmed. Located August 1874 Patent Office Record through Canadiana. Browser exposed a working PDF download; inspected printed pp.71,72,75 visually. Added S130 and structured entry for No.3738, preserving joint names, printed date role and claim summary. No original application or Edison assignment acquired. Contemporary predecessor credit does not establish ancient recovery or complete technical priority. Full goal remains active.

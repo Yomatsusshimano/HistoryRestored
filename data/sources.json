@@ -2098,6 +2098,34 @@
       "downloaded_pdf_sha256": "cbb8162d50d95703a99feb09d71d9e5a18e63ec43bb270d046d5c1b8e7910362",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S131",
+      "title": "Woodward and Evans specification transcription",
+      "creator": "Henry Woodward and Mathew Evans; reproduction/transcription hosted by Daniel Boulet",
+      "publication_date": null,
+      "source_type": "Historical document reproduction",
+      "url": "https://www.bouletfermat.com/danny/light_bulb_patent.html",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Signature-date and affidavit paragraphs in Daniel Boulet transcription.",
+      "limitations": "Underlying handwritten specification and affidavit not inspected; transcription is not independent authentication.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S132",
+      "title": "Woodward & Evans Electric Light: drawing marked 3738",
+      "creator": "Henry Woodward and Mathew Evans; reproduction/transcription hosted by Daniel Boulet",
+      "publication_date": null,
+      "source_type": "Historical document reproduction",
+      "url": "https://www.bouletfermat.com/danny/woodward_and_evans_light_bulb_patent_diagram.jpg",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Full drawing overview; enlarged bottom date and certification, inventor signatures and labels.",
+      "limitations": "Reproduction hosted by Daniel Boulet; archival custody and manuscript authenticity not independently established. Does not establish filing receipt, grant or performance.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -17,5 +17,16 @@
   "assignment_to_edison": null,
   "performance_test": null,
   "claim_summary": "Carbons in lamps or other suitable vessels filled with rarefied gas that does not chemically combine with incandescent carbon, with electrodes fixing or connecting the carbon.",
-  "limits": "Printed attribution and date, not absolute invention priority or proof of transfer. Nulls indicate unaudited matters."
+  "limits": "Printed attribution and date, not absolute invention priority or proof of transfer. Nulls indicate unaudited matters.",
+  "drawing_date": {
+    "source_id": "S132",
+    "date": "1874-07-24",
+    "role": "Date beside drawing certification and signatures",
+    "original_archival_custody_verified": false
+  },
+  "transcribed_specification_date": {
+    "source_id": "S131",
+    "date": "1874-07-24",
+    "role": "Reported signature and affidavit date; manuscript text not inspected"
+  }
 }
