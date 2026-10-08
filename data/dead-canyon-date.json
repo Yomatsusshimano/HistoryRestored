@@ -22,5 +22,14 @@
   ],
   "stratigraphic_timescale_definition": null,
   "assessment": "Unresolved discrepancy; retained, not accepted as verified death date or discarded as demonstrated contamination",
-  "original_assay_certificate_inspected": false
+  "original_assay_certificate_inspected": false,
+  "recovery_leads": {
+    "contents_source_id": "S158",
+    "original_paper_url_from_contents": "http://www.vetmed.wsu.edu/org_NWS/NWSci%20journal%20articles/1970-1978/1970%20vol%2044/vol%2044%20no%201/v44%20pg16%20Newcomb%20and%20Repenning.PDF",
+    "original_paper_recovered": false,
+    "laboratory_publication_source_id": "S159",
+    "laboratory_publication_scope": "Selected client-released results, principally 1964-1965; opening extract only inspected",
+    "gx1457_entry_in_that_list": null,
+    "archive_capture_availability": "Unresolved after service error and rate limiting; not demonstrated absent"
+  }
 }

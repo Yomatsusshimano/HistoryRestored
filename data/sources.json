@@ -2550,6 +2550,50 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S158",
+      "title": "Northwest Science 1970 volume 44 contents: archived WSU index",
+      "creator": "Northwest Scientific Association / Washington State University",
+      "publication_date": null,
+      "url": "https://web.archive.org/web/20101205141243id_/http://www.vetmed.wsu.edu/org_NWS/NWSci%20journal%20articles/1970-1978/1970%20vol%2044/1970%20vol%2044%20titles.htm",
+      "source_type": "journal archive metadata",
+      "access": "CATALOG_METADATA",
+      "inspected": "HTML contents entry at starting page 16 and its relative PDF link. Archive capture dated 2010-12-05.",
+      "limitations": "Contents page only, not the fossil paper. Original paper publication year is 1970; index creation date unknown. Live PDF returns 404; archive checks encountered service failure and rate limiting, so capture availability remains unresolved.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://web.archive.org/web/20101205141243id_/http://www.vetmed.wsu.edu/org_NWS/NWSci%20journal%20articles/1970-1978/1970%20vol%2044/1970%20vol%2044%20titles.htm",
+          "sha256": "a4554aa32ce5e5424473cc78c306116799361ded7004f245a5192e022cd0ecd3",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S159",
+      "title": "Geochron Laboratories, Inc. Radiocarbon Measurements II",
+      "creator": "Harold W. Krueger and C. Francis Weeks",
+      "publication_date": "1966",
+      "url": "https://www.cambridge.org/core/journals/radiocarbon/article/geochron-laboratories-inc-radiocarbon-measurements-ii/588E296DCE795EECEA472327975EC245",
+      "source_type": "laboratory date-list publication",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher HTML opening extract and bibliographic metadata; Radiocarbon 8, pp.142-160, DOI 10.1017/S0033822200000096.",
+      "limitations": "Only opening extract inspected. PDF download timed out; full date list and methods not inspected. Does not identify GX-1457 or establish its measurement date, preparation, uncertainty convention or reliability.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.cambridge.org/core/journals/radiocarbon/article/geochron-laboratories-inc-radiocarbon-measurements-ii/588E296DCE795EECEA472327975EC245",
+          "sha256": "e2506d52437351315e368514e51ddbdc660a61b05b4cfa6ca2664554fe177d6f",
+          "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }
