@@ -220,3 +220,5 @@ Moxee C024: original field study S160 inspected throughout. Recover CAMS 79942 c
 Moxee flood-count audit: S160 contacts are gradational; some dikes terminate and others cross boundaries. S161 original regional mechanism discussion recovered; S162 laboratory claim remains abstract-only. Obtain original contact geometry and test separate-inundation versus within-inundation deformation before assigning flood count or intervals.
 
 Sanpoil S163 recovered: original count/estimate separation and conditional annuality argument inspected. Audit full correlations, independent seasonal evidence and paleomagnetic tests next; regional upper-duration consistency alone does not establish a one-year couplet.
+
+Sanpoil magnetism: S164 abstract reports correlated declination change, a separate observable requiring explanation by rapid-deposition alternatives. Recover full orientation/demagnetization/directional data and rate-age inputs. S165 partial text cannot independently validate annuality; its duration cites earlier work.

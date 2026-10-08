@@ -760,3 +760,7 @@ Recovered Black 1979 RHO-BWI-C-64 from OSTI, hashed the 77-page PDF, visually in
 ### 2026-10-08 — Original Sanpoil counting assumptions recovered
 
 Downloaded and hashed Atwater 1986 Bulletin 1661; visually checked printed pp.11,14,16, including section comparison and core photograph. Added S163 and structured ranges distinguishing counted couplets, erosion estimates, uncounted intervals and sedimentation-rate extrapolation. Checked endpoint arithmetic (2086-3191), retaining source rough total (2000-3000). Annuality discussion relies on regional ice chronology and proposed blockage duration; recorded why its upper bound does not uniquely establish annuality. Full plates and independent annuality tests remain pending.
+
+### 2026-10-08 — Sanpoil magnetic evidence and chronology dependence
+
+Read Steele 1991 complete publisher abstract (S164), retaining both common declination trend and erratic inclinations. Full paper not recovered. IAFI located a related 2003 paper link; its PowerShell download command was blocked by antivirus, so that route was not retried or bypassed. Independently read selected text of the Hanson article-in-press from the university repository (S165); screenshot request timed out. Recorded inability to consistently identify varves and inherited duration attribution, keeping distinct magnetic sampling scopes separate. No numerical magnetic test, figure inspection or independent dating validation claimed.

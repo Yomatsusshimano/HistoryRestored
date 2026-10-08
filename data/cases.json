@@ -680,6 +680,16 @@
           "source_id": "S163",
           "locator": "pp.11,14,16",
           "statement": "Original Sanpoil report separates counted couplets from estimates for missing/uncounted sediment and argues annuality using regional ice chronology; this is not a direct seasonal measurement."
+        },
+        {
+          "source_id": "S164",
+          "locator": "Publisher abstract",
+          "statement": "Three sections reportedly share a west-to-east declination trend; inclinations are erratic. Numerical analysis and timing dependence remain unaudited."
+        },
+        {
+          "source_id": "S165",
+          "locator": "Article-in-press PDF p.3",
+          "statement": "Authors could not consistently identify varves; their 700-2600-year duration cites earlier studies, distinct from their new magnetic-property sampling."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.",
@@ -706,7 +716,8 @@
         "Original dating/tephra assays and sample context",
         "Complete executable model inputs",
         "Independent field and simulation review",
-        "Independent annuality test and original correlations for S163 Sanpoil couplets; separate counted from estimated components"
+        "Independent annuality test and original correlations for S163 Sanpoil couplets; separate counted from estimated components",
+        "Steele 1991 numerical directions, demagnetization, orientation and age inputs for rate inference"
       ],
       "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood."
     },

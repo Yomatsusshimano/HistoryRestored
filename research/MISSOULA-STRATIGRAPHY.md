@@ -35,3 +35,5 @@ Pages 14 and 16 argue that regional glacier chronology allows at most approximat
 Figure 9 (p.14) compares F-8, F-9 and V-9 across four localities, including lateral changes and inferred erosion. Figure 12 (p.16) shows borehole material bracketing F-11. These give observable correlation and sediment-fabric targets beyond a simple layer count. Neither image by itself dates a couplet. Full plates and bed-by-bed correlations remain unaudited.
 
 Retain the reported repeated-deposition interpretation while testing its timescale separately. Independent seasonal indicators, additional chronological controls, and the paleomagnetic record are next discriminators; repeating the same varve-derived chronology cannot independently validate annuality.
+
+The [magnetic-evidence audit](SANPOIL-MAGNETIC-EVIDENCE.md) adds Steele's reported multi-section declination trend while separating later magnetic-property measurements from inherited duration estimates. Full numerical reproduction remains pending.

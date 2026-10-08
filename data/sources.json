@@ -2674,6 +2674,34 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S164",
+      "title": "Paleomagnetic evidence for repeated glacial Lake Missoula floods from sediments of the Sanpoil River Valley, northeastern Washington",
+      "creator": "William K. Steele",
+      "publication_date": "1991-03",
+      "url": "https://doi.org/10.1016/0033-5894(91)90067-F",
+      "source_type": "original research article",
+      "access": "ABSTRACT",
+      "inspected": "Complete publisher abstract and metadata, Quaternary Research 35(2), pp.197-207; Cambridge and ScienceDirect records.",
+      "limitations": "Full methods and numerical data not recovered. Reported statistical differences and rate consistency not reproduced; duration dependence on assigned bed ages unknown. Publisher online posting date 2017 is not original publication date.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S165",
+      "title": "Provenance and deposition of glacial Lake Missoula lacustrine and flood sediments determined from rock magnetic properties",
+      "creator": "Michelle A. Hanson, Randolph J. Enkin, Rene W. Barendregt, John J. Clague",
+      "publication_date": "2014",
+      "url": "https://opus.uleth.ca/bitstream/handle/10133/3701/Hanson_Enkin_Barendregt_Clague_QR%202015.pdf",
+      "source_type": "original research article",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Retrieved article-in-press version: introduction PDF pp.1-2, site and sampling description p.3, selected discussion pp.7-8; DOI 10.1016/j.yqres.2014.09.005.",
+      "limitations": "Retrieved version carries 2014 in-press labels; final article is cited as 2015. Selected extracted text only; screenshot timed out. Figures, full sample tables and raw magnetic data not audited. Cited duration is not a new direct dating result.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
