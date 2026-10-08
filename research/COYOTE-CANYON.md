@@ -149,3 +149,20 @@ S138's results give specimen elevations of 317.4 m for L15 FS021 1a and 316.9 m 
 This is a conditional coordinate-consistency diagnostic, not a reproduction of the authors' polynomial implementation. Numerical elevation bracketing does not prove lateral bed equivalence. No replacement fossil ages or uncertainty intervals are calculated. Resolve depth origins, specimen-to-section correspondence and regression inputs together; the earlier uncertainty discrepancy remains separate. This issue affects the auditability of the inferred wildlife chronology, not the anatomical identification by itself.
 
 The renewed mammoth-assay search did not recover the 2012 abstract or certificates. The Internet Archive availability endpoint returned no snapshot for the specific old Minnesota PDF URL; two broader CDX requests returned HTTP 503. These are bounded retrieval failures, not evidence that the document or measurements never existed. Later quotations of its aggregate date remain derivative records.
+
+## Recovered regression figure: a narrower reproducibility result
+
+The [University of Reading repository copy of S138](https://centaur.reading.ac.uk/114246/9/J%20Quaternary%20Science%20-%202024%20-%20Richter%20-%20First%20reported%20fossil%20occurrences%20of%20Phrynosoma%20sp%20%20from%20the%20Columbia%20Plateau%20%20%281%29.pdf) was recovered, SHA256 `ff83bf1450dfbaf4ed5cd3cac8c0e3627c11811fa910c7dd33db733c2c9eb9bb`. Figures 1–2 were rendered and visually inspected (printed pp.3–4 / PDF pp.5–6). The extra PDF pages are repository front matter.
+
+Figure 2 plots age horizontally and excavation level vertically, increasing downward at 10 cm per level. Its printed equation is `y = -0.0641*x^2 - 0.5114*x + 3.031`, with R² = 0.961. The sample points visibly use different vertical positions from simply multiplying the methods' depths by ten. Consequently the earlier mixed-depth scenario is **not demonstrated to be the implemented model**.
+
+Interpreting equation y as negative excavation level gives these [algebraic results](../data/coyote-printed-curve-check.json), reproduced by [this script](../analysis/check_coyote_printed_curve.py):
+
+| Level | Nonnegative age root from printed curve, ka | Reported approximate age, ka | Difference, ka |
+| --- | ---: | ---: | ---: |
+| 15 | 13.250631 | 13.2 | +0.050631 |
+| 20 | 15.381277 | 15.4 | −0.018723 |
+
+This sign convention matches the plotted direction; entering positive levels literally yields no real roots. The script preserves both algebraic roots and verifies substitution. The small differences are retained, not explained away through an assumed rounding rule.
+
+We can now approximately reproduce the central curve read-offs. That does not reproduce fitting the original points or the reported ±1.14 ka intervals. R² is not age accuracy or independent chronological validation. Figure 1B connects the fossil levels to elevations and depicts a loess/reworked-flood transition, but supplies no complete numerical OSL-to-level survey crosswalk. Resolve that crosswalk and uncertainty propagation before replacing any ages. The depth wording discrepancy remains; the new figure prevents treating our conditional scenario as a proven computational error.

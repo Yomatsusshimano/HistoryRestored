@@ -1,0 +1,41 @@
+{
+  "source_id": "S138",
+  "locator": "Figure 2, printed p.4 / repository PDF p.6",
+  "printed_equation": "y = -0.0641*x^2 - 0.5114*x + 3.031",
+  "printed_R_squared": 0.961,
+  "x_axis": "OSL Data (ka ago)",
+  "y_axis": "Level (10 cm/level), increasing downward",
+  "sign_interpretation": "Use y=-level to match the downward plotted curve; this sign convention is inferred, not explicitly supplied by the caption.",
+  "results": [
+    {
+      "excavation_level": 15,
+      "reported_approximate_age_ka": 13.2,
+      "assumed_equation_y": -15,
+      "all_real_age_roots_ka": [
+        -21.228789756671055,
+        13.250630630306
+      ],
+      "nonnegative_root_ka": 13.250630630306,
+      "difference_from_reported_approximate_age_ka": 0.05063063030600112,
+      "literal_positive_level_real_roots": []
+    },
+    {
+      "excavation_level": 20,
+      "reported_approximate_age_ka": 15.4,
+      "assumed_equation_y": -20,
+      "all_real_age_roots_ka": [
+        -23.359436495368296,
+        15.381277369003241
+      ],
+      "nonnegative_root_ka": 15.381277369003241,
+      "difference_from_reported_approximate_age_ka": -0.018722630996759193,
+      "literal_positive_level_real_roots": []
+    }
+  ],
+  "limits": [
+    "Inversion of rounded printed coefficients only; no refit of original points.",
+    "No laboratory ages, uncertainty propagation or 95% confidence intervals reproduced.",
+    "No sample-to-level survey crosswalk or independent chronological validation.",
+    "The negative-age roots are retained as algebraic solutions, not physical ages."
+  ]
+}

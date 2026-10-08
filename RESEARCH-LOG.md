@@ -1090,3 +1090,8 @@ The immediately preceding model-switch acknowledgment was no progress; the last 
 ### 2026-10-08 — Coyote Canyon depth-reference audit
 
 Previous turn made verified public progress. Revisited C015 and searched exact mammoth assay/title and conference/site archive leads. Specific Minnesota PDF availability lookup returned no snapshot; two CDX queries returned HTTP 503. Independently useful progress came from S138 chronology/results HTML compared with a visual recheck of S32 Table 2: depth-reference discrepancy quantified with a standard-library script and conditional specimen-bracketing results. No original regression reproduction, replacement dates or specimen identification correction claimed. Basic bracket checks passed; all calculated fields remain distinct from reported measurements.
+
+
+### 2026-10-08 — Coyote Canyon printed regression recovered
+
+Previous turn made verified public progress. Recovered Reading repository PDF of S138 and hashed it; rendered and inspected Figures 1-2. Poppler emitted font warnings but axes, coefficients and captions were readable. Figure uses excavation levels rather than the methods depths directly, narrowing the prior conditional concern. Executed standard-library quadratic inversion with substitution checks; both roots retained. Approximate central ages recovered, no original fit or uncertainty reproduction. Updated source access and case claims; no new source count or independent review.

@@ -2215,12 +2215,14 @@
       "publication_date": "2024-01-29",
       "url": "https://onlinelibrary.wiley.com/doi/10.1002/jqs.3595",
       "source_type": "Original research article",
-      "access": "FULL_TEXT_PORTION",
-      "inspected": "HTML chronology subsection, Figure 2 caption, Results: Lizard maxillae temporal resolution, and Barton 2012 reference. Depth-reference statement compared with S32 Table 2.",
-      "limitations": "HTML portions inspected; figures, original regression inputs and laboratory records not reproduced. Depth-reference and reported OSL uncertainty discrepancies remain unresolved.",
-      "local_copy": null,
+      "access": "SCAN_INSPECTED",
+      "inspected": "Chronology and temporal-resolution text; Figures 1-2 visually inspected in Reading repository PDF pp.5-6 (printed pp.3-4). Printed curve coefficients and axis directions checked. Other figures and full article not independently reviewed.",
+      "limitations": "Printed curve inverted but original regression points, sample-to-level crosswalk and confidence interval calculation not reproduced. Depth wording and OSL error discrepancies remain.",
+      "local_copy": "tmp/research/richter2024.pdf",
       "accessed_date": "2026-10-08",
-      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "sha256": "ff83bf1450dfbaf4ed5cd3cac8c0e3627c11811fa910c7dd33db733c2c9eb9bb",
+      "pdf_url": "https://centaur.reading.ac.uk/114246/9/J%20Quaternary%20Science%20-%202024%20-%20Richter%20-%20First%20reported%20fossil%20occurrences%20of%20Phrynosoma%20sp%20%20from%20the%20Columbia%20Plateau%20%20%281%29.pdf"
     },
     {
       "id": "S139",

@@ -448,3 +448,8 @@ Integrated the burial, selection and field-context audit into CROSS-CASE-ASSESSM
 ### 2026-10-08 — Coyote Canyon depth-reference audit
 
 Depth-reference comparison now published for S138 versus S32: original sample pairs imply 319.70-319.95 m zeros rather than 319 m. Recover original regression coordinates and survey/bed correspondence before assigning revised fossil ages. Mammoth assay recovery remains open; bounded archive failures do not establish absence.
+
+
+### 2026-10-08 — Coyote Canyon printed regression recovered
+
+S138 original figures recovered. Printed equation now yields approximate central fossil-age read-offs under inferred negative-level convention. Prior mixed-depth scenario is not established as actual implementation. Next recover numerical sample-to-level conversion and uncertainty calculation; preserve depth-wording and error discrepancies.
