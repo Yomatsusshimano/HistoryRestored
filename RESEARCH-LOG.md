@@ -994,3 +994,9 @@ Previous turn made verified public progress; clean checkout confirmed. Recovered
 ### 2026-10-08 — Original age-model comparison
 
 Previous turn made verified public progress; clean checkout confirmed. Text-read original mapping/magnetic methods and chronology, visually checked Fig11, and published the conditional dependence of assigned ages on anchors and section geometry. Resolved gradeB meaning at method level without inventing site-specific trajectories. Separated rate-smoothness objections from upper-tuff consistency. No new chronology, rate reproduction, fault mapping or independent review claimed.
+
+
+
+### 2026-10-08 — Tuff age selection and uncertainty
+
+Previous turn made verified public progress; clean checkout confirmed. Visually checked original Table1, text-read methods/results and preserved35 rows. Selected means match at printed precision; upper MSWD differs in last displayed decimal. Sensitivity restores only explicitly identified marginal exclusions. Kept95percent limits distinct from internal two-sigma errors and documented magmaTh/U assumption and calibration omission from individual errors. No primary-deposition validation or raw-isotope refit claimed.

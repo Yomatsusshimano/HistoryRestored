@@ -623,6 +623,11 @@
           "source_id": "S214",
           "locator": "printed774-775/783-785, Fig11; research/FISH-CREEK-AGE-MODEL.md",
           "statement": "Older magnetic correlation explicitly uses a lower fossil boundary and two upper U-Pb tuffs. Published alternatives compare time assignments on the same section; rejection does not itself test later geometry-changing duplication. Rate and dated-unit objections require separate evaluation."
+        },
+        {
+          "source_id": "S214",
+          "locator": "Table1 and printed780/782; research/FISH-CREEK-TUFFS.md; data/fish-creek-tuff-ages.json",
+          "statement": "All35 rounded zircon ages retained. Selected17/12 rows yield2.647907/2.596631Ma and MSWD1.292324/0.976567; exact confidence errors not reproduced. Restoring marginal excluded grain shifts means by about11/15kyr, without resolving crystallization-to-deposition transfer."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

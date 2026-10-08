@@ -26,3 +26,6 @@ The source's accumulation-rate objection also needs a scoped interpretation. A r
 | Rate history | Figure11 shows alternatives with much sharper peaks | Reproduce input horizons/rates, then test transport and accumulation feasibility under each geometry |
 
 The [Wind Caves audit](WIND-CAVES.md) narrows the locality question; it does not settle this set of dependencies. The [published2021 debate](COLORADO-2021-DEBATE.md) identifies the competing claims but remains unevenly accessed. Next compare actual fault and marker-bed maps and recover the site-specific magnetic records. No numerical revised age model or global catastrophe reconstruction has yet been fitted here.
+
+
+Follow-up: [upper-tuff grain audit](FISH-CREEK-TUFFS.md) now preserves all35 age/error rows, reproduces rounded means and separates exclusion sensitivity from depositional-age validation.

@@ -1,0 +1,260 @@
+{
+  "source": "S214",
+  "locator": "Table1 printed777/PDF7; exclusion discussion printed780/782",
+  "source_sha256": "4d738bee3e8802f642129b127ad879f91be11d51a3137aa33ee956b86f084aad",
+  "scope": "Rounded published age arithmetic, not isotope refit, exact95percent interval reproduction or new dating.",
+  "groups": {
+    "TAL 6071": {
+      "sample_crosswalk": "02-440",
+      "crosswalk_basis": "Table order, row counts and distinctive excluded ages agree with prose; not a recovered lab custody record.",
+      "rows": [
+        {
+          "spot": "1.1",
+          "age_Ma": 2.62,
+          "one_sigma_Ma": 0.09,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "2.1",
+          "age_Ma": 2.75,
+          "one_sigma_Ma": 0.07,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "3.1",
+          "age_Ma": 2.7,
+          "one_sigma_Ma": 0.09,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "4.1",
+          "age_Ma": 2.59,
+          "one_sigma_Ma": 0.25,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "5.1",
+          "age_Ma": 2.57,
+          "one_sigma_Ma": 0.07,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "6.1",
+          "age_Ma": 2.94,
+          "one_sigma_Ma": 0.09,
+          "exclusion_reason": "older analysis excluded in source"
+        },
+        {
+          "spot": "7.1",
+          "age_Ma": 2.5,
+          "one_sigma_Ma": 0.08,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "8.1",
+          "age_Ma": 2.68,
+          "one_sigma_Ma": 0.06,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "9.1",
+          "age_Ma": 2.67,
+          "one_sigma_Ma": 0.11,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "10.1",
+          "age_Ma": 2.64,
+          "one_sigma_Ma": 0.06,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "11.1",
+          "age_Ma": 2.66,
+          "one_sigma_Ma": 0.08,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "12.1",
+          "age_Ma": 2.71,
+          "one_sigma_Ma": 0.08,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "13.1",
+          "age_Ma": 2.61,
+          "one_sigma_Ma": 0.07,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "14.1",
+          "age_Ma": 2.47,
+          "one_sigma_Ma": 0.09,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "15.1",
+          "age_Ma": 2.59,
+          "one_sigma_Ma": 0.06,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "16.1",
+          "age_Ma": 2.77,
+          "one_sigma_Ma": 0.05,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "17.1",
+          "age_Ma": 2.55,
+          "one_sigma_Ma": 0.09,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "18.1",
+          "age_Ma": 2.68,
+          "one_sigma_Ma": 0.08,
+          "exclusion_reason": null
+        }
+      ],
+      "published_selection_calculated": {
+        "n": 17,
+        "mean_Ma": 2.6479069500685046,
+        "two_sigma_internal_Ma": 0.0361370711830825,
+        "MSWD": 1.2923238885746675
+      },
+      "restore_single_marginal_exclusion": {
+        "n": 18,
+        "mean_Ma": 2.659223690471709,
+        "two_sigma_internal_Ma": 0.03543011566910252,
+        "MSWD": 1.811895312693573
+      },
+      "reported_mean_Ma": 2.65,
+      "reported_95percent_halfwidth_Ma": 0.05,
+      "reported_MSWD": 1.3
+    },
+    "TAL 6073": {
+      "sample_crosswalk": "02-441",
+      "crosswalk_basis": "Table order, row counts and distinctive excluded ages agree with prose; not a recovered lab custody record.",
+      "rows": [
+        {
+          "spot": "2.1",
+          "age_Ma": 2.67,
+          "one_sigma_Ma": 0.06,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "3.1",
+          "age_Ma": 2.37,
+          "one_sigma_Ma": 0.1,
+          "exclusion_reason": "younger analysis excluded in source"
+        },
+        {
+          "spot": "4.1",
+          "age_Ma": 2.62,
+          "one_sigma_Ma": 0.08,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "5.1",
+          "age_Ma": 2.52,
+          "one_sigma_Ma": 0.18,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "7.1",
+          "age_Ma": 160.3,
+          "one_sigma_Ma": 1.8,
+          "exclusion_reason": "much older grain"
+        },
+        {
+          "spot": "8.1",
+          "age_Ma": 2.55,
+          "one_sigma_Ma": 0.09,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "9.1",
+          "age_Ma": 2.56,
+          "one_sigma_Ma": 0.11,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "10.1",
+          "age_Ma": 96.8,
+          "one_sigma_Ma": 1.1,
+          "exclusion_reason": "much older grain"
+        },
+        {
+          "spot": "11.1",
+          "age_Ma": 3.05,
+          "one_sigma_Ma": 0.12,
+          "exclusion_reason": "older magmatic zircon interpretation"
+        },
+        {
+          "spot": "12.1",
+          "age_Ma": 2.53,
+          "one_sigma_Ma": 0.13,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "13.1",
+          "age_Ma": 2.49,
+          "one_sigma_Ma": 0.08,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "14.1",
+          "age_Ma": 2.63,
+          "one_sigma_Ma": 0.14,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "16.1",
+          "age_Ma": 2.41,
+          "one_sigma_Ma": 0.1,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "17.1",
+          "age_Ma": 2.72,
+          "one_sigma_Ma": 0.12,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "18.1",
+          "age_Ma": 2.62,
+          "one_sigma_Ma": 0.07,
+          "exclusion_reason": null
+        },
+        {
+          "spot": "19.1",
+          "age_Ma": 3.02,
+          "one_sigma_Ma": 0.1,
+          "exclusion_reason": "older magmatic zircon interpretation"
+        },
+        {
+          "spot": "20.1",
+          "age_Ma": 2.76,
+          "one_sigma_Ma": 0.12,
+          "exclusion_reason": null
+        }
+      ],
+      "published_selection_calculated": {
+        "n": 12,
+        "mean_Ma": 2.5966306008908235,
+        "two_sigma_internal_Ma": 0.05383027381995927,
+        "MSWD": 0.9765671309375289
+      },
+      "restore_single_marginal_exclusion": {
+        "n": 13,
+        "mean_Ma": 2.581321921176972,
+        "two_sigma_internal_Ma": 0.0519803966257245,
+        "MSWD": 1.294286653173904
+      },
+      "reported_mean_Ma": 2.6,
+      "reported_95percent_halfwidth_Ma": 0.06,
+      "reported_MSWD": 0.97
+    }
+  }
+}

@@ -352,3 +352,9 @@ S215 TableDR1 recovered and pp1-2 visually checked. Datum transformation puts04P
 ### 2026-10-08 — Fish Creek age-model dependencies
 
 S214 methods and Fig11 inspected: fossil boundary is an explicit anchor, upper tuff constraints retained, and unchanged-section alternatives are distinct from fault restoration. Next georeferenced marker/fault comparison and site-specific demagnetization records. Rate spikes alone do not decide rapid-deposition hypotheses.
+
+
+
+### 2026-10-08 — Upper tuff grain audit
+
+S214 Table1 all35 ages preserved, selected means reproduced at published precision. Marginal-exclusion sensitivity and uncertainty limits documented. Next original ash-bed depositional context, lab sample crosswalk and full correction/confidence propagation; do not treat rounded-age arithmetic as a new sediment date.
