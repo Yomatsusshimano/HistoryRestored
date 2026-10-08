@@ -61,3 +61,9 @@ The retrospective [Bonneville–Electron comparison](research/REGIONAL-EVENT-WIN
 [Wildlife comparison](research/WILDLIFE-COMPARISON.md) distinguishes H3-M (common mortality), H3-D (common later deposition) and H3-E (population disruption). Retrospective 0-, 1-, 10- and 100-year mortality scenarios fail to fit all selected sloth calendar sets internally. This is not a statistical rejection probability; preparation and calibration audits remain pending. Later deposition and extinction require separate evidence. No event date or global footprint has been selected by this comparison.
 
 The [cross-case assessment](research/CROSS-CASE-ASSESSMENT.md) compares explicit mortality, deposition and local-process versions, with dependencies and evidence that could change each assessment. It supplies no global rejection probability or completed reconstruction.
+
+## H4 operational comparison, 2026-10-08
+
+The Eiffel case now separates H4-I (an already-complete structure remaining unchanged through the recorded 1888–1889 interval), H4-R (erection using earlier components), and H4-N (recorded new manufacture and erection). These are retrospective test versions, not verbatim claims attributed to Nathan. Partial reuse and new manufacture can coexist; the comparison is not an exhaustive partition of possible histories.
+
+The [erection records](research/EIFFEL-VERTICALITY-REPORT.md) challenge H4-I through a depicted partial structure and reported unfinished connections. They support erection, but alone do not distinguish newly manufactured from reused components. H4-R has no established positive antecedent/transfer evidence here; failure to exclude it is not support. H4-N still needs original supplier transactions linked to part registers and fabric. Documentary and mount-inscription dates are not independent material ages. The [cross-case assessment](research/CROSS-CASE-ASSESSMENT.md) retains those dependencies and specifies evidence that could change each result.
