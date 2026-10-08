@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camp Century later-data retrieval
+
+Previous turn made progress: dafd5a4 published seven verified files. Located a dedicated 2024 thesis, currently 403 on download, and read the 2025 reconstruction/data availability. Retrieved and hashed public repository metadata; checked resource-map membership and system metadata before recording the measurement-file retrieval gap. No new ages or independent replication claimed. Full goal remains active.
+
 ## 2026-10-08 - Original Cuban excavation report
 
 Previous turn made progress: 8066079 published seven verified files. Recovered archived 2004 journal PDF and visually inspected p.69. Filled the human assay identifier and preserved original calibration metadata; flagged unresolved sloth specimen linkage before assigning depth. No new date or common burial inferred. Full goal remains active.

@@ -1,0 +1,47 @@
+{
+  "status": "INCOMPLETE_DATA_RECOVERY",
+  "accessed_date": "2026-10-08",
+  "source_ids": [
+    "S142",
+    "S143",
+    "S144"
+  ],
+  "thesis_download_url": "https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1311&context=etd2023",
+  "thesis_result": "HTTP 403 via web and shell",
+  "metadata_endpoint": "https://arcticdata.io/metacat/d1/mn/v2/object/doi%3A10.18739%2FA2QN5ZD22",
+  "resource_map_endpoint": "https://arcticdata.io/metacat/d1/mn/v2/object/resource_map_doi%3A10.18739%2FA2QN5ZD22",
+  "public_package_query": "resourceMap:\"resource_map_doi:10.18739/A2QN5ZD22\"",
+  "public_index_numFound": 1,
+  "public_index_documents": [
+    {
+      "id": "doi:10.18739/A2QN5ZD22",
+      "formatType": "METADATA"
+    }
+  ],
+  "resource_map_aggregates": [
+    "doi:10.18739/A2QN5ZD22"
+  ],
+  "entity_descriptions": [
+    "raw_xrd.csv",
+    "raw_EDS_UVM/ReadMe_EDS.txt",
+    "CTscawraw_zipped/CoreTube/CoreTube-Section/ CoreTube-SectionSubsample-BOTorTOP/CoreTube-SectionSubsample-BOTorTOP_slice#.tif",
+    "CTscawraw_zipped/CoreTube/CoreTube-Section/ CoreTube-SectionSubsample-BOTorTOP/CoreTube-SectionSubsample-BOTorTOP.oog",
+    "CTscawraw_zipped/CoreTube/CoreTube-Section/ CoreTube-SectionSubsample-BOTorTOP/CoreTube-SectionSubsample-BOTorTOP.log",
+    "raw_EDS_UVM/CoreTube-Section_siteName/elementMap.csv",
+    "raw_EDS_UVM/CoreTube-Section_siteName/CoreTube-Section_siteName.pdf",
+    "raw_SEMimages/CoreTube_Section_mode_mag_area-tif.hdr",
+    "raw_SEMimages/CoreTube_Section_mode_mag_area.tif",
+    "CTscawraw_zipped/ReadMe_CTscannfiles.txt"
+  ],
+  "system_metadata": {
+    "archived": false,
+    "obsoletes": "urn:uuid:9448e230-308d-4c3d-a7d2-2dacf2af085b",
+    "obsoletedBy": null
+  },
+  "retrieved_sha256": {
+    "camp2025-eml.xml": "cd70d46ea6e13c43d8bf5f8323b344a7f4579582c520a9779cdb17e46062c10f",
+    "camp2025-map.xml": "98c4c5f12815b5ec1354fe8c74ba8f515b419d62055f099d0bebb7353cfe6928",
+    "camp2025-systemmeta.xml": "78d226454d9b3ab1aee2b9c73a48b76b5fb30a081dc1f47f404b3a1d25f40458"
+  },
+  "limits": "A public retrieval snapshot, not proof files do not exist elsewhere. Entity descriptions are not downloaded measurements. This sediment-characterization package is not identified as the 2023 luminescence supplement."
+}

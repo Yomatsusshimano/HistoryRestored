@@ -981,6 +981,21 @@
           "source_id": "S137",
           "locator": "Script lines 64-65 and 240-241",
           "statement": "Cosmogenic script prescribes the luminescence age as input; a lower-sediment uncertainty expression uses the upper-sediment ratio. Static concern, published effect unquantified."
+        },
+        {
+          "source_id": "S142",
+          "locator": "Repository abstract",
+          "statement": "Later luminescence thesis identified; full text remains unrecovered."
+        },
+        {
+          "source_id": "S143",
+          "locator": "Sections 5.2-5.3; data availability",
+          "statement": "Proposed environmental sequence retains ambiguity in Unit 2 formation and cites earlier chronology."
+        },
+        {
+          "source_id": "S144",
+          "locator": "EML and public resource-map/index responses",
+          "statement": "Package metadata recovered; raw measurement files not recovered through the inspected public package."
         }
       ],
       "physical_evidence": "Published plant micrographs and age figure visually checked; no core or plant examined directly.",

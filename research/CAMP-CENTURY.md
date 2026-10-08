@@ -86,3 +86,13 @@ A seeded 100,000-draw component calculation propagates independent Gaussian meas
 These are percentiles of a **conditional threshold distribution**, not a posterior for actual exposure or a confidence limit proving exposure ended by 16 ka. Production uncertainties, shielding, erosion and error correlations remain omitted. The two nuclides share the sampled burial age. Gaussian aggregation reproduces the linear weighted-mean sampling distribution under independence; it does not reproduce the finite MATLAB random stream, its plots or the full model. The previously flagged lower-sediment uncertainty expression is not used in this upper-sediment threshold calculation.
 
 Three analytic tests check inversion of the production equation, its boundary cases and weighted-Gaussian variance. This supports a specific numerical interpretation of the exposure limit, while the luminescence input and the broader catastrophe claim remain independently unverified.
+
+## Later dating lead and raw-data access audit
+
+[Woznick's 2024 thesis record (S142)](https://digitalcommons.usu.edu/etd2023/281/) identifies a dedicated luminescence study, but its linked PDF returned HTTP 403. Only repository metadata and abstract were inspected; no additional sample ages are adopted.
+
+[Collins et al. (2025), S143](https://cp.copernicus.org/articles/21/1359/2025/), sections 5.2-5.3, proposes glacial deposition, retreat, weathering, downslope flow, fluvial deposition and readvance. It leaves Unit 2's origin uncertain between interglacial snow/firn and remnant basal ice, and cites earlier dating for its time constraints. This is a process interpretation, not an independently established new clock.
+
+The paper links [S144's sediment-characterization data package](https://doi.org/10.18739/A2QN5ZD22). Its public EML describes XRD, EDS, SEM and CT data. Our [access ledger](../data/camp-century-data-access.json) records downloaded metadata hashes and the public resource-map/index check: one indexed package member, the metadata itself. No measurement files were recovered through this package. System metadata marks it unarchived and supplies no successor identifier. This is a dated retrieval result, not proof that data are absent elsewhere; descriptive filenames are not downloaded data. It is also not a recovered substitute for the 2023 luminescence supplement.
+
+Next obtain the thesis/full supplement or their authenticated public deposits, then link dated aliquots to core segments and reproduce dose, fading and residual corrections. Additional interpretations of the same core cannot substitute for those input checks or establish a global synchronous event.

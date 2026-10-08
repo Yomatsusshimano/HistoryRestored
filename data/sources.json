@@ -2260,6 +2260,48 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "text_mirror": "https://es.scribd.com/document/544372285/03Bol-Gab-Arqueol-No-3"
+    },
+    {
+      "id": "S142",
+      "title": "Shedding Light on Past Ice-Free Intervals in Northwest Greenland: Luminescence Dating of the Base of the Camp Century Ice Core",
+      "creator": "Hawke Woznick",
+      "publication_date": "2024-08",
+      "url": "https://digitalcommons.usu.edu/etd2023/281/",
+      "source_type": "Thesis repository record",
+      "access": "CATALOG_METADATA",
+      "inspected": "Repository abstract and metadata only; linked full-text download returned 403.",
+      "limitations": "Access and dependency audit only; no independent scientific validation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S143",
+      "title": "Characterization of the 1966 Camp Century subglacial core: a multiscale analysis",
+      "creator": "C. M. Collins and colleagues",
+      "publication_date": "2025",
+      "url": "https://cp.copernicus.org/articles/21/1359/2025/",
+      "source_type": "Original research article",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Sections 5.2-5.3 and data availability; not full methods/results replication.",
+      "limitations": "Access and dependency audit only; no independent scientific validation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S144",
+      "title": "New Analysis of the Camp Century Basal Sediment (Greenland): Mineralogy, Microscopy, Computer Tomography",
+      "creator": "Nicolas Perdrial and colleagues",
+      "publication_date": "2025",
+      "url": "https://doi.org/10.18739/A2QN5ZD22",
+      "source_type": "Repository metadata and resource map",
+      "access": "CATALOG_METADATA",
+      "inspected": "Public EML, resource map, system metadata and indexed package membership; underlying measurement files not recovered.",
+      "limitations": "Access and dependency audit only; no independent scientific validation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
