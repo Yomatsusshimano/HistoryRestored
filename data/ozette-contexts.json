@@ -1,0 +1,53 @@
+{
+  "case_id": "C018",
+  "source_id": "S62",
+  "extraction_date": "2026-10-08",
+  "status": "SOURCED_DRAFT",
+  "samples": [
+    {
+      "id": "WSU-1777",
+      "reported_age_BP": 810,
+      "reported_plus_minus": 70,
+      "error_convention": null,
+      "material": "charcoal",
+      "context": "Interface of clay and beach sand below House 1; source uses it for lowermost terrace formation",
+      "pdf_page": 13,
+      "calendar_interval": null,
+      "laboratory_record_inspected": false
+    },
+    {
+      "id": "WSU-1965",
+      "reported_age_BP": 790,
+      "reported_plus_minus": 80,
+      "error_convention": null,
+      "material": null,
+      "context": "Lower level of incompletely resolved Unit VI/VII cultural component",
+      "pdf_page": 14,
+      "calendar_interval": null,
+      "laboratory_record_inspected": false
+    },
+    {
+      "id": "WSU-1779",
+      "reported_age_BP": 440,
+      "reported_plus_minus": 90,
+      "error_convention": null,
+      "material": null,
+      "context": "Source associates determination with Unit IV/V houses; exact sampled object unresolved",
+      "pdf_page": 14,
+      "calendar_interval": null,
+      "laboratory_record_inspected": false
+    }
+  ],
+  "limitations": [
+    "Reported radiocarbon determinations, not calibrated calendar dates",
+    "Original laboratory certificates and trench logs uninspected",
+    "Different sampled contexts must not be collapsed into a single slide date"
+  ],
+  "museum_summary": {
+    "source_id": "S63",
+    "reported_BP": 500,
+    "reported_plus_minus": 50,
+    "sample_id": null,
+    "calibration_status": null
+  }
+}

@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-17 sourced drafts; 0 independent scientific reviews.
+18 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -24,6 +24,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C015 | Coyote Canyon mammoth and reworked camel comparison |
 | C016 | Thistle Creek horse chronology and calibration dependence |
 | C017 | Lake Cahuilla deposits versus a proposed marine passage |
+| C018 | Ozette Makah houses buried by slides |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -554,3 +555,32 @@ Place: Salton Trough; published sections near Indio, California. Status: SOURCED
 **Chronology:** {"reported": "1983 and 2022 chronologies differ; individual event windows not adopted in this initial source audit.", "dated_object": "Published sediment-associated organic and shell samples", "method": "Radiocarbon with stratigraphic, historical and hydrological constraints", "raw_date": "Fourteen original determinations retained in data/cahuilla-1983-dates.json; no event date inferred.", "uncertainty": "Specimen and age-model audit pending", "timescale": "Multiple original conventions; not pooled", "event_association": "UNTESTED"}
 
 **Missing:** Exact site coordinates and elevation datum comparison; Specimen/laboratory records and reservoir audit; Independent chronology without tested historical constraints; Specified marine-corridor geometry
+
+## C018: Ozette Makah houses buried by slides
+
+Place: Ozette, Olympic Peninsula, Washington. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Excavation-era description separates slides, occupation deposits and three radiocarbon sample contexts; see research/OZETTE-BURIAL.md. [S62](https://npshistory.com/publications/olym/nr-ozette-indian-village-as.pdf). Locator: PDF pp. 12-14; item 7 continuation pp. 3-5. Access: SCAN_INSPECTED. Limit: Not original trench notebooks or laboratory certificates; source redactions preserved; no field or complete-packet inspection.
+- Makah Museum relates community oral history, archaeological collaboration and tribal stewardship of the recovered collection. [S63](https://makahmuseum.com/about/ozette-archaeological-site/). Locator: Ozette Archaeological Site article body. Access: FULL_TEXT_PORTION. Limit: Retrospective institutional summary; original oral-history recording and assay records not supplied. Stale operational notices not used as current visiting guidance.
+
+**Physical evidence:** Reported buried wooden structures, displaced planks, artifacts and alternating cultural/slide units; no field inspection.
+
+**Surviving documents:** Historic nomination packet and community museum account; original field and lab records pending.
+
+**Source interpretation:** Repeated local slides buried portions of an occupied Makah village.
+
+**Investigation inference:** A documented burial comparison; intervening occupation challenges treating all layers as one instantaneous event.
+
+**Counterevidence:** Multiple described slide and cultural units; identified community and continuing stewardship do not support an inference of anonymous erased builders.
+
+**Next test:** Retrieve lab records for WSU 1777, 1965 and 1779 and original stratigraphic sections; calibrate only after sample material, context and conventions are established.
+
+**Dependence:** Nomination synthesizes excavation reports; museum summarizes the same site. These are not independent field replications.
+
+**Alternatives:** Repeated local slope failures with reoccupation; A proposed regional catastrophe affecting a particular horizon, requiring independent dating and correlation
+
+**Chronology:** {"reported": "810 \u00b1 70, 790 \u00b1 80 and 440 \u00b1 90 BP for different contexts; museum separately reports 500 \u00b1 50 BP.", "dated_object": "Charcoal for WSU 1777; materials unspecified in inspected passage for other samples", "method": "Reported radiocarbon; not recalibrated", "raw_date": null, "uncertainty": null, "timescale": "Reported BP, calendar placement unresolved", "event_association": "REPORTED_NOT_REVALIDATED"}
+
+**Missing:** Original section drawings and context sheets; Laboratory certificates and calibration; Original oral-history recording and provenance; Independent review

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Ozette burial sequence and community account
+
+Previous turn made progress: 7cfd0b8 published nine byte-verified files. Clean checkout rechecked. Ozette reference-chronology searches did not recover the series; USGS report returned 403 and cited mirror 404. Search instead located a substantive burial comparison. Downloaded 23-page nomination packet and visually inspected PDF pp. 12-14; read Makah Museum site account. Added C018, S62/S63 and three separately contextualized WSU determinations.
+
+Retained repeated slide/occupation units, ambiguous deeper units, separate museum age summary, uncalibrated dates and unresolved materials. Community attribution and stewardship retained; no global event, erased civilization or 1700 linkage inferred. Eighteen drafts, sixty-three sources. Original sections, lab records, reference chronology and independent review remain pending.
+
 ## 2026-10-08 - Transcription correction and second complete radius
 
 Previous turn made progress: 9426ad1 published eight verified files, but publication-byte verification and structural checks did not detect transcription mistakes. Enlarged 200-dpi reinspection found seven wrong GF2RTC values, including swapped 1618/1619 widths. Corrected each with old/new values and source locators preserved. Earlier visual-check claim did not ensure accuracy; no calendar result had been calculated.

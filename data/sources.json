@@ -1064,6 +1064,36 @@
       "sha256": "daa3895a61dc5fa0bdb4dc6e3b3ccb07e76e9873f523ed24cdd40a4bd1349740",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S62",
+      "title": "Ozette Indian Village Archaeological Site: National Register nomination packet",
+      "url": "https://npshistory.com/publications/olym/nr-ozette-indian-village-as.pdf",
+      "creator": "Thomas E. Herbeck; Jerry Fairchild; National Park Service editorial revisions",
+      "publication_date": "1973; 1980 revised 1981 (forms)",
+      "source_type": "Historic nomination forms and excavation-era synthesis",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Text portions and form dates; later item 7 continuation pp. 3-5, PDF pp. 12-14, visually inspected.",
+      "limitations": "Not original trench notebooks or laboratory certificates; source redactions preserved; no field or complete-packet inspection.",
+      "local_copy": null,
+      "sha256": "636bdb6ceb95b686d6f43a8820f614316d4945cf01cf467fe396489098af206a",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S63",
+      "title": "Ozette Archaeological Site",
+      "url": "https://makahmuseum.com/about/ozette-archaeological-site/",
+      "creator": "Makah Cultural and Research Center / Makah Museum",
+      "publication_date": null,
+      "source_type": "Community museum account of site, oral history and collection stewardship",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Ozette archaeological-site article body.",
+      "limitations": "Retrospective institutional summary; original oral-history recording and assay records not supplied. Stale operational notices not used as current visiting guidance.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

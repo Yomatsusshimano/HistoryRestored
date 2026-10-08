@@ -1028,6 +1028,53 @@
         "Specified marine-corridor geometry"
       ],
       "dependence": "2022 synthesis incorporates earlier studies and historical accounts; its preferred ages cannot independently validate all inputs."
+    },
+    {
+      "id": "C018",
+      "title": "Ozette Makah houses buried by slides",
+      "category": "buried settlements and sediment sequences",
+      "place": "Ozette, Olympic Peninsula, Washington",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S62",
+          "locator": "PDF pp. 12-14; item 7 continuation pp. 3-5",
+          "statement": "Excavation-era description separates slides, occupation deposits and three radiocarbon sample contexts; see research/OZETTE-BURIAL.md."
+        },
+        {
+          "source_id": "S63",
+          "locator": "Ozette Archaeological Site article body",
+          "statement": "Makah Museum relates community oral history, archaeological collaboration and tribal stewardship of the recovered collection."
+        }
+      ],
+      "physical_evidence": "Reported buried wooden structures, displaced planks, artifacts and alternating cultural/slide units; no field inspection.",
+      "surviving_documents": "Historic nomination packet and community museum account; original field and lab records pending.",
+      "source_interpretation": "Repeated local slides buried portions of an occupied Makah village.",
+      "investigation_inference": "A documented burial comparison; intervening occupation challenges treating all layers as one instantaneous event.",
+      "competing_explanations": [
+        "Repeated local slope failures with reoccupation",
+        "A proposed regional catastrophe affecting a particular horizon, requiring independent dating and correlation"
+      ],
+      "counterevidence": "Multiple described slide and cultural units; identified community and continuing stewardship do not support an inference of anonymous erased builders.",
+      "next_test": "Retrieve lab records for WSU 1777, 1965 and 1779 and original stratigraphic sections; calibrate only after sample material, context and conventions are established.",
+      "chronology": {
+        "reported": "810 ± 70, 790 ± 80 and 440 ± 90 BP for different contexts; museum separately reports 500 ± 50 BP.",
+        "dated_object": "Charcoal for WSU 1777; materials unspecified in inspected passage for other samples",
+        "method": "Reported radiocarbon; not recalibrated",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "Reported BP, calendar placement unresolved",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Original section drawings and context sheets",
+        "Laboratory certificates and calibration",
+        "Original oral-history recording and provenance",
+        "Independent review"
+      ],
+      "dependence": "Nomination synthesizes excavation reports; museum summarizes the same site. These are not independent field replications."
     }
   ]
 }
