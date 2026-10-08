@@ -513,6 +513,11 @@
           "source_id": "S203",
           "locator": "Printed163/PDF179, note added in proof and Table1",
           "statement": "Original table assigns 9.2 ±0.3 Ma to sanidine from tuff sample OWBP-ML30-11/91, whereas S194 describes the 9.2 Ma underlying control as basalt. A separate basalt sample OWBP-LD-LVU-11/91 yielded16.8 ±0.6 Ma using magnetic residuum after a rejected plagioclase fraction; its rejected numerical age and error convention are not supplied. These are underlying-unit ages, not direct Bouse deposition dates."
+        },
+        {
+          "source_id": "S203",
+          "locator": "Printed160-161/PDF176-177, contact discussion and Figure2",
+          "statement": "The report describes upper-clastic capping sandstone interfingering with basal Bouse carbonate, but no exposed direct contact between upper clastic and upper volcanic units. Their ordering is inferred from erosional geometry. Figure2 is a sketch, not a surveyed age-transfer section."
         }
       ],
       "physical_evidence": "Comparison sheet and earlier Kino map scans visually inspected; no geological transect inspected. Sanson candidate antecedent scan now inspected.",

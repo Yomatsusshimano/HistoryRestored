@@ -53,3 +53,20 @@ A separate sample near the base of the lower volcanic unit at north Osborne Ridg
 [Transcribed inputs](../data/osborne-kar-inputs.json) preserve sample identifiers, replicate values, printed means and preparation notes. Table1's printed basalt argon mean3.2600 differs from the arithmetic mean3.25875 of its two displayed replicates. Both are retained; rounding or transcription cannot be distinguished from this page. No age recalculation or uncertainty confidence level is inferred. Footnote3 supplies decay constants and potassium abundance, but laboratory provenance and rejected-fraction results remain necessary for a full analytical audit.
 
 These units underlie Bouse in the source interpretation. Their ages alone supply older limits, not a younger bound excluding historical deposition. The note's approximately5.5 Ma bound is a then-used correlated Bouse age, not a third measurement in Table1. The separate9.6 Ma basalt mentioned in later literature must not be identified with this16.8 Ma sample without its original identifier and record. Next retrieve that original record and inspect the mapped stratigraphic connection to the specific fossil-bearing beds.
+
+## Contact evidence and the unresolved 9.6 Ma citation
+
+S203 printed pp.160–161/PDF176–177 were visually inspected; p.162/PDF178 was text-read. The local geometry is more specific than a single stack of dated layers:
+
+| Relationship | What the source reports | Constraint on this audit |
+| --- | --- | --- |
+| Lower clastic to lower volcanic unit | Similar bedding/flow attitudes and no truncation support conformity | An interpreted relationship supported by stated observations |
+| Upper clastic to upper volcanic unit | No direct contact exposed in the study area; ordering inferred from erosional geometry | Do not present as an observed continuous section |
+| Upper clastic cap to Bouse carbonate | Fossil-bearing yellow sandstone commonly interleaves with basal carbonate | A local depositional transition; not proof every upper-clastic bed predates every Bouse bed |
+| Bouse carbonate to tilted lower units | Carbonate rests against older tilted units in a buttress unconformity | Supports relative ordering locally; supplies no numerical duration by itself |
+
+Figure2 is a sketch. It cannot provide surveyed sample heights or a regional time-equivalent surface. The report also leaves two previously dated Black Peak flows unassigned between volcanic units because their sites lay outside the mapping then completed. Their reported16.1 and14.1 Ma ages are distinct from the new16.8 Ma sample and the unresolved9.6 Ma control.
+
+Targeted searches recovered S183's indexed age-discussion passage linking9.6 ±0.60 Ma to Fugro1975 through Reynolds1986 and Buising1988. Direct article access failed403; this remains a search-excerpt locator, not an inspected original analysis. The Reynolds compilation PDF at [Arizona Memory](https://azmemory.azlibrary.gov/assets/displaypdf/129329) also returned403. S203 p.162 identifies a relevant Fugro1975 report as *Geotechnical investigations, Parker Valley alternate site, Sun Desert Nuclear Project*, section2.5, pp.53–63. That bibliography is a retrieval lead; the9.6 Ma sample has not been matched to its contents.
+
+Next obtain the compilation entry and original report/sample identifier, then a measured tie from dated material through the sandstone/carbonate transition to the fossil horizons. Local interleaving makes a formation-wide age transfer insufficient. Failed retrieval neither disproves the reported date nor supplies evidence for historical deposition.

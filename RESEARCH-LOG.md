@@ -904,3 +904,7 @@ Previous turn published verified progress; clean tree confirmed. Targeted later-
 ### 2026-10-08 — Underlying age-control material correction
 
 The model-switch acknowledgement made no research progress; clean checkout revalidated. Visually compared S194 p.1876 with S203 printed163/PDF179. Original table identifies9.2 Ma tuff sanidine and separate16.8 Ma basalt. Preserved analytical inputs, rejected plagioclase fraction without invented numerical age, unspecified error convention and small printed-mean discrepancy. Corrected chronology wording while retaining source disagreement. No age refit, full stratigraphic audit, historical-era exclusion from an older bound or independent review claimed.
+
+### 2026-10-08 — Underlying-unit contact audit
+
+Previous turn published verified progress; clean tree confirmed. S183 indexed passage traces9.6 Ma basalt to Fugro1975 through Reynolds1986/Buising1988; original compilation retrieval failed403. Expanded S203 inspection to visually checked pp.160-161 and text-read162. Recorded observed/interpreted contact distinctions, interfingering and out-of-map dated flows. Identified a precise Fugro bibliography target without asserting sample identity. No continuous measured section, new dating, original9.6 Ma analysis or formation-wide age transfer recovered.

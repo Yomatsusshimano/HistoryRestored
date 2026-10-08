@@ -292,3 +292,5 @@ S199-S201 ash-to-bed audit completed for selected original passages and figures.
 S202 original section logs now provide ash sample IDs and endpoint locators for sections61/62, provisional BP1/BP2 counterparts. Exact heights, datums, custody and analytical results remain unresolved. Bounded follow-up search found no later result tied to those IDs, not proof of absence. Next trace these identifiers and obtain C27 sample metadata.
 
 S203 original K-Ar table resolves9.2 Ma material as sanidine in tuff, correcting repeated S194 basalt wording. Separate16.8 Ma basalt retained with rejected-fraction disclosure and printed-mean discrepancy. Next original9.6 Ma basalt identifier, laboratory records and bed-specific stratigraphic connection; no direct Bouse age recalculation claimed.
+
+S203 contact audit separates reported sandstone/carbonate interfingering from inferred upper-volcanic ordering. Reynolds1986 PDF and S183 direct article access failed403;9.6 Ma sample remains unresolved. Fugro1975 Parker Valley section2.5 pp.53-63 is a bibliographic lead, not a confirmed sample match. Next compilation entry, original sample and measured fossil-bed tie.
