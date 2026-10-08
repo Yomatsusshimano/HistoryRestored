@@ -1,0 +1,16 @@
+{
+  "input_sha256": "17213f0aa74f252de64437f57fba38b4c0a92af899d41da66eb154272168c994",
+  "source_id": "S30",
+  "assumption": "Printed discharge is treated conditionally as an upper bound on nonnegative discharge through one section throughout the stated interval. Source does not establish this cap.",
+  "derivation": "Integral Q(t) dt <= Q_cap * T when 0 <= Q(t) <= Q_cap; pulses below the same cap cannot increase capacity.",
+  "result": {
+    "maximum_volume_through_section_km3": 8640.0,
+    "minimum_duration_for_whole_volume_days": 1157.4074074074074,
+    "maximum_fraction_through_section": 0.0864,
+    "minimum_fraction_not_through_section_during_window": 0.9136,
+    "minimum_volume_not_through_section_during_window_km3": 91360.0
+  },
+  "interpretation_limit": "Nonpassed volume could be retained, routed elsewhere, or not released. No such partition is measured here. If discharge exceeds the assumed cap, this conditional bound does not apply.",
+  "hydraulic_simulation": false,
+  "scientific_validation": false
+}

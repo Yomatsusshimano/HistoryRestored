@@ -22,6 +22,14 @@ This is about 11.57 times the printed duration. At the stated discharge, 100 day
 
 The quantities are approximate, but they do not reconcile as printed under this constant-flow calculation. A hydrograph, stored volume, multiple outlets or an amended exponent might change the comparison; each would need evidence. A peak discharge is not automatically a sustained mean. This check identifies an internal constraint to resolve; it neither measures the reservoir nor settles the sedimentary interpretation.
 
+## Conditional capacity bound
+
+The [capacity calculation](../analysis/missoula_capacity_bound.py) extends the constant-flow check to any nonnegative hydrograph satisfying `Q(t) <= Q_cap`. Integration gives `volume <= Q_cap × duration`. **The source has not established that its printed discharge is an upper bound**; this is an explicit conditional test, not an added source claim.
+
+Using 1 million m³/s as that cap, 100 days can pass at most 8,640 km³ at the section. Of a 100,000 km³ reservoir, at least **91,360 km³ (91.36%)** must therefore remain outside that section's cumulative throughput during the interval. It could be unreleased, stored upstream or routed elsewhere; none of these partitions is measured here. Pulses below the same cap reduce throughput relative to continuous cap flow. Passing the whole volume requires at least 1,157.41 days under that cap, or a larger mean discharge for a shorter interval.
+
+The [result file](../analysis/missoula-capacity-bound-result.json) pins the input bytes. Three checks cover units, zero deficit when capacity is sufficient, and rejection of nonpositive inputs. They do not validate a hydrograph or flood reconstruction. This narrows the earlier statement that a hydrograph might change the comparison: it can do so if it exceeds the assumed cap or changes the routed-volume premise, not merely by becoming pulsed beneath the cap. Actual release volume, section discharge history, storage and outlet routing remain needed. No spatial inundation, erosion or sediment transport has been modeled.
+
 ## Contemporary challenge: incomplete retrieval
 
 The [retrieved comment fragment](https://www.droyer.wescreates.wesleyan.edu/reply.pdf), PDF p. 2 / printed p. 573, contains the beginning of Komatsu et al. (2000), alongside unrelated correspondence. It reports a model with a 2,184 km³ input, peak discharge 17 million m³/s and Manning coefficient 0.1, and downstream inundation deficiencies under its assumptions. The fragment ends mid-comment; the continuation and author reply are not reviewed. Its reported numerical results were not reproduced.

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Conditional flood throughput bound
+
+Previous turn made progress: 1f65c81 published seven verified files; clean checkout confirmed. Returned to objective 5 and inspected existing model, input and pulse-budget audits. Executed a cap-based conservation bound: at the conditionally assumed printed discharge cap, 100 days passes at most 8,640 km³, leaving at least 91.36% of the proposed reservoir outside that section's throughput. Source does not establish the cap; result is conditional and cannot adjudicate the actual flood alone. Three numerical/domain checks pass. Complete 2000 commentary still not retrieved in this turn's bounded search. No hydraulic simulation or spatial validation claimed. Full goal remains active.
+
 ## 2026-10-08 - Latin parallel and digital editorial dates
 
 Previous turn made progress: 7be4a6f published seven verified files. Clean checkout confirmed. Inspected Jerome Latin electronic entry and online edition production notes. Added S123-S124 and element-level comparison; brief parallel is compatible with abbreviation, not proof of copying. Documented modern AD/BC guidance layer and withheld precise calendar alignment from flattened HTML. Manuscript and original edition comparison remains open. Full goal remains active.
