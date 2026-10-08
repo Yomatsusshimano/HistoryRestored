@@ -31,5 +31,25 @@
     "Capacity guarantee is not measured operation or excavation throughput",
     "Report author participated in the project and advocates its benefits",
     "Does not establish a global catastrophe or date unrelated Seattle areaways"
-  ]
+  ],
+  "contemporary_press_comparison": {
+    "source_id": "S47",
+    "locator": "Printed p. 6, right column, final two paragraphs; PDF page 4",
+    "reported_contract_date": "1908-08",
+    "reported_contract_volume_cubic_yards_approx": 5400000,
+    "volume_qualifier": "nearly; total project volume, not completed quantity",
+    "reported_completion_fraction": "more than three-fourths",
+    "underlying_progress_measurement_date": null,
+    "plant_location_reported": "edge of Lake Union",
+    "turbine_units": 3,
+    "aggregate_horsepower": 1950,
+    "rated_gallons_per_minute": 12600,
+    "calculated_gallons_per_24_hours": 18144000,
+    "reported_pressure_head_literal": "180 lbs.",
+    "pressure_area_unit_explicit_in_seattle_passage": false,
+    "actual_uptime": null,
+    "actual_sediment_transport": null,
+    "independent_measurement_demonstrated": false,
+    "comparison_limit": "Different reported water source, equipment and contract scope from S46; do not merge totals or identify plants without full records."
+  }
 }

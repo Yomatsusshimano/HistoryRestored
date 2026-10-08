@@ -842,6 +842,21 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S47",
+      "title": "The Hydraulic Jet for Railway Building, Railway and Industrial Section, Commercial & Financial Chronicle",
+      "url": "https://fraser.stlouisfed.org/files/docs/publications/cfc/cfc_19100430_supplement.pdf",
+      "creator": "William B. Dana Company, publisher; article unsigned",
+      "publication_date": "1910-04-30",
+      "source_type": "contemporary periodical engineering article, digitized by FRASER",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed p. 6 (PDF page 4), whole page visually inspected including Seattle passage in right column; issue date and publisher read from PDF page 1 text.",
+      "limitations": "Reported contract and equipment quantities; no underlying contract, survey, operating logs or named informant inspected. Independent origin of numerical claims not demonstrated. Other-project details on same page are not Seattle measurements.",
+      "local_copy": "tmp/research/cfc-19100430.pdf",
+      "sha256": "a21d775c8a25e1151660928db62750dfe5eec7e4870773bddef025b209090b69",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

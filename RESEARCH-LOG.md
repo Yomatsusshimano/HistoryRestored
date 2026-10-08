@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Denny contract scope and later pumping installation
+
+Previous turn made progress: f9ebc87 published nine public-byte-verified files. Clean checkout rechecked. FRASER PDF exceeded web-tool size limit; downloaded the ordinary public PDF successfully and hashed it. Visually inspected printed p. 6, PDF page 4, with the PDF skill workflow; issue identification read from page 1 text. Added S47. Full-document text search also returned irrelevant financial-number matches; these were not used as findings.
+
+The contemporary article reports a different contract scope and larger Lake Union plant. Preserved project total versus reported completion fraction, and distinguished these from Piper's approximate aggregate. Calculated 18,144,000 gallons/day at continuous rated flow; no achieved excavation or energy efficiency inferred. Different publication does not prove independent measurement. Seventeen drafts, forty-seven sources; original contract/surveys and independent review pending.
+
 ## 2026-10-08 - Denny engineering account and capacity distinction
 
 Previous turn was no progress: model-switch acknowledgment only. Rechecked local instructions and current research state; resumed available source audit. Read the complete displayed UW Document 46 transcription and archival citation. Added S46, retaining selected-excerpt access and uninspected original microform. Separated participant-reported approximate excavation/cost totals from surveyed or audited quantities.

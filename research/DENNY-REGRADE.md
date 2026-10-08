@@ -19,3 +19,11 @@ Piper describes steam shovels, trains and hydraulic equipment; reports a Februar
 He estimates nearly six million cubic yards removed and public/private spending probably above three million dollars. These are participant-reported aggregates, not an audited excavation budget. His favorable assessment also acknowledges initial design problems. The narrative strengthens the documented-earthmoving explanation, but cannot establish surveyed volume or authenticate every project date.
 
 The [quantity ledger](../data/denny-engineering.json) preserves these distinctions. The [arithmetic check](../analysis/denny_capacity_check.py) tests only continuous-flow conversion. Next obtain the full report, contracts, pump logs and before/after surveys; distinguish the project's phases before comparing totals.
+
+## Contemporary press comparison
+
+S47, [The Hydraulic Jet for Railway Building](https://fraser.stlouisfed.org/files/docs/publications/cfc/cfc_19100430_supplement.pdf), *Commercial & Financial Chronicle*, Railway and Industrial Section, April 30, 1910, printed p. 6 (PDF page 4), was visually checked. It describes a nearly **5.4-million-cubic-yard** Denny contract dated August 1908, reportedly more than three-quarters complete. Its Lake Union plant has three turbine units totaling **1,950 horsepower**, rated at **12,600 gallons/minute**. It also describes hydraulic spoil discharge through a harbor tunnel and concurrent steam-shovel/railway work.
+
+This is another contemporary publication, not demonstrated independent measurement: no underlying survey, contract, named informant or operational log is supplied in the passage. Its contract total and progress fraction must not be equated with Piper's approximate aggregate removed volume. Nor is this Lake Union installation automatically the earlier sound-water plant in S46. The article's preceding discussion of other projects does not supply Seattle-specific measurements.
+
+The rated flow corresponds to **18,144,000 gallons/day** only at uninterrupted operation. Pressure is printed as “180 lbs.” without an explicit area unit in the Seattle passage; no energy-efficiency estimate is assigned. Exact work boundaries, achieved production and source dependence remain unresolved.
