@@ -1,0 +1,36 @@
+{
+  "case_id": "C002",
+  "source_id": "S49",
+  "status": "SOURCED_DRAFT",
+  "engineer_letter": {
+    "locator": "UW Document 52, second excerpt, first four paragraphs",
+    "letter_date": "1929-10-07",
+    "stated_start_date": "1928-06-25",
+    "reported_elapsed_days": 371,
+    "installation_days_allowed": 120,
+    "sunday_holiday_days_deducted": 60,
+    "possible_working_days": 191,
+    "hours_per_working_day": 22,
+    "capacity_cubic_yards_per_hour": 600,
+    "reported_capacity_total_cubic_yards": 2521000,
+    "credited_components_cubic_yards": {
+      "conveyor": 480180,
+      "other_than_conveyor": 58920,
+      "moceri_fill": 4366
+    },
+    "reported_total_cubic_yards": 543466,
+    "assumed_cubic_yards_per_scow_load": 300,
+    "reported_daily_average": 2845,
+    "reported_hourly_average": 130,
+    "in_place_volume_conversion": null,
+    "underlying_scow_tallies_inspected": false,
+    "reporting_cutoff_verified": false
+  },
+  "limits": [
+    "Selected institutional transcription; original letters not inspected",
+    "Do not equate overall financial/work completion percentage with earth-volume completion",
+    "Suspicion of contractor intent is an association allegation, not an established finding",
+    "Calendar inconsistency retained without changing any source date",
+    "Reported quantities do not independently validate physical volume"
+  ]
+}

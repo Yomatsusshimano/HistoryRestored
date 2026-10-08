@@ -39,3 +39,17 @@ Nelson's cited testimony gives 30–40% expansion on excavation. Applying that c
 The court favors inspector Harry C. Scott's reconciled delay records over conflicting party accounts, offering a specific next archival target. The underlying records remain uninspected. The opinion describes equipment failures and coordination delays; published capacity alone cannot establish actual throughput.
 
 **Archival caution:** UW files the circa-1910 Piper excerpt under LID 4818, which this opinion associates with later work. An earlier report could be retained in a later project file. Without the file arrangement and full report, neither a catalog error nor a revised report date is established. Preserve the supplied locator, but do not use it as a date or phase identifier.
+
+## Complaints, production and transcription limits
+
+[UW Document 52](https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Building%20Nature/Documents/52.html) (S49) presents 1929 letters from the Uptown Seattle Association and engineer W. D. Barkhuff. The association distinguishes overall completion from earth removal; its suspicion about contractor motives remains an allegation. Barkhuff credits **543,466 cubic yards**, including conveyor quantities estimated at **300 cubic yards per scow**. This is reported production with an explicit estimation basis, not a recovered survey.
+
+The [reproducible check](../analysis/denny_progress_check.py) finds:
+
+- Component quantities sum exactly to the reported total.
+- His capacity factors yield 2,521,200 cubic yards, versus 2,521,000 printed; reported daily/hourly averages are approximate.
+- June 25, 1928 to October 7, 1929 spans **469 calendar days**, versus **371 elapsed days** stated. Inclusive counting does not resolve this. An unstated cutoff, transcription error or original error remains possible.
+
+Do not repair the text silently or treat a date discrepancy as evidence of rewritten chronology. The original letter, reporting cutoff and scow-to-in-place conversion remain pending. The later opinion's volume basis cannot automatically be imposed on these estimates.
+
+[UW Document 48](https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Building%20Nature/Documents/48.html) (S50) preserves George F. Cotterill's May 17, 1928 objection to sacrificing Denny Park. The excerpt values its cemetery history, vegetation and public use. It establishes a named contemporary objection, not the project's final impact or an erased civilization. Preserve this dissent alongside favorable engineering accounts; inspect the full letter and park plans before evaluating its claims.

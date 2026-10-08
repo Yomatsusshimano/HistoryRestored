@@ -77,18 +77,28 @@
           "source_id": "S48",
           "locator": "Opinion introduction and section [11]",
           "statement": "Later 1928 contract litigation distinguishes in-place contractual volume from loose excavated volume, planned delivery from reported progress, and conflicting party accounts from inspector-reconciled delays."
+        },
+        {
+          "source_id": "S49",
+          "locator": "UW Document 52, both letter excerpts",
+          "statement": "Association complaint distinguishes overall completion from earth removal; engineer reports credited production based partly on assumed scow loads. Component sum agrees but elapsed days conflict with supplied dates."
+        },
+        {
+          "source_id": "S50",
+          "locator": "UW Document 48, displayed excerpt",
+          "statement": "Cotterill objects to proposed loss of Denny Park, citing cemetery history, vegetation and public use; excerpt does not establish eventual impact."
         }
       ],
       "physical_evidence": "One digitized archival photograph visually inspected; exposed earth faces, remaining buildings and cleared ground visible. No site inspection, sediment sample or calibrated survey.",
-      "surviving_documents": "Album finding aid plus inspected item 9349 from separate Engineering Department negative series 2613-07; not a verified chronological image sequence. Selected institutional transcription of Piper report, circa 1910, now inspected; underlying microform pending. Contemporary April 1910 periodical page visually inspected (S47). Selected portions of 1934 judicial opinion read in third-party transcription; original litigation exhibits uninspected.",
+      "surviving_documents": "Album finding aid plus inspected item 9349 from separate Engineering Department negative series 2613-07; not a verified chronological image sequence. Selected institutional transcription of Piper report, circa 1910, now inspected; underlying microform pending. Contemporary April 1910 periodical page visually inspected (S47). Selected portions of 1934 judicial opinion read in third-party transcription; original litigation exhibits uninspected. Selected 1928 park objection and 1929 progress letters inspected as UW transcriptions.",
       "source_interpretation": "The catalog attributes terrain changes to a regrade project.",
       "investigation_inference": "Image supports an urban excavation/regrade context but cannot independently establish full project history, excavation volume or the origin/age of exposed sediment. Engineering narrative supports deliberate excavation. Daily water-capacity arithmetic agrees, but does not validate achieved sediment removal.",
       "competing_explanations": [
         "Documented earthmoving",
         "An earlier natural event, separately testable"
       ],
-      "counterevidence": "A regrade catalog cannot be recast as a catastrophe deposit without examining the underlying objects. Contemporary excavation descriptions challenge interpreting this photographed terrain as unexplained catastrophe damage; reported totals still require original survey verification.",
-      "next_test": "Retrieve full Piper report and contracts, pump operating logs and block-specific before/after grade surveys; register photographs to survey control and reconcile phase-specific excavation totals. Retrieve Harry C. Scott daily delay/measurement records and establish the LID 4818 filing context of the earlier Piper report.",
+      "counterevidence": "A regrade catalog cannot be recast as a catastrophe deposit without examining the underlying objects. Contemporary excavation descriptions challenge interpreting this photographed terrain as unexplained catastrophe damage; reported totals still require original survey verification. Local objections and delays qualify favorable accounts of project benefit and performance; they do not establish catastrophe or fabricated chronology.",
+      "next_test": "Retrieve full Piper report and contracts, pump operating logs and block-specific before/after grade surveys; register photographs to survey control and reconcile phase-specific excavation totals. Retrieve Harry C. Scott daily delay/measurement records and establish the LID 4818 filing context of the earlier Piper report. Check original Barkhuff letter date/cutoff, scow tally and measurement basis; retrieve full Cotterill letter and park plans.",
       "chronology": {
         "reported": "Album collection 1904-1929; separately inspected item 9349 cataloged 1910-06-27 with visible 6-27-10 inscription.",
         "dated_object": "Cataloged photograph creation",

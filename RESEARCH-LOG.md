@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Denny objections and reported production
+
+Previous turn made progress: e649be4 published seven public-byte-verified files. Clean checkout rechecked. Read UW Documents 52 and 48, adding S49-S50 as selected transcriptions. Retained association suspicions as allegations and Cotterill's park objection as a named contemporary voice, without inferring final impacts or motives.
+
+Barkhuff's component volumes sum to 543,466 cubic yards. Executed capacity product 2,521,200 versus printed 2,521,000, with approximate daily/hourly averages. Calendar difference is 469 days versus printed 371; no silent correction or chronology-rewriting inference. Scow-volume assumption is explicit; raw tallies, reporting cutoff and in-place conversion remain missing. Seventeen drafts, fifty sources; independent review absent.
+
 ## 2026-10-08 - Later Denny contract and volume basis
 
 Previous turn made progress: 1fee31d published eight public-byte-verified files. Clean checkout rechecked. Searched Piper title, LID 4818 and municipal contract terms. Found and read selected opinion portions in Nelson v. Seattle (1934), S48. Original contract and official reporter scan remain uninspected. Other search results retained only as navigation leads.
