@@ -1214,6 +1214,21 @@
       "sha256": "f7e157cc20547a4323e6a29390965ce6ee29cde494ebf7abe9ffa10c78eaac39",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S72",
+      "title": "Radiocarbon and tree-ring data for dating Mount Rainier's Electron Mudflow",
+      "url": "https://doi.org/10.5066/P13WAVXH",
+      "creator": "Bryan A. Black, Patrick T. Pringle, James W. Vallance; USGS",
+      "publication_date": "2025-09-29",
+      "source_type": "Original scientific data release",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "ScienceBase metadata, all three CSV tables and file checksums; XML retrieved but not fully audited.",
+      "limitations": "Tables provide summary properties and reference-match results, not raw annual-width series. Eight assay rows versus seven ages in summary unresolved; article methods not yet fully inspected.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

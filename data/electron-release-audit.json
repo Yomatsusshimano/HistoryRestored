@@ -1,0 +1,299 @@
+{
+  "source_id": "S72",
+  "case_id": "C020",
+  "date": "2026-10-08",
+  "files": [
+    {
+      "name": "C14_data_S1.csv",
+      "url": "https://www.sciencebase.gov/catalog/file/get/68d42244d4be023091a481bb?f=__disk__4e%2F21%2F4f%2F4e214f452b5f77bfc5540209e70dd4f758cc0e0e",
+      "local_path": "sources/originals/electron/C14_data_S1.csv",
+      "md5": "ea674e0aa2c435e40be76c2e10b780b9",
+      "sha256": "b1c570bde442c6c2bd87507fac32627d0865a7e875fe139662a76bb68583e9e6"
+    },
+    {
+      "name": "C14_data_S2.csv",
+      "url": "https://www.sciencebase.gov/catalog/file/get/68d42244d4be023091a481bb?f=__disk__66%2F3c%2Fee%2F663cee7a50de1d4ff88c626091d9e4090900846d",
+      "local_path": "sources/originals/electron/C14_data_S2.csv",
+      "md5": "dda419de63880d720646abd44a3524bc",
+      "sha256": "4da2917e37314654dbaf2a7328e0f8f986d7c99d2a76f5f9bfba0eb239912b21"
+    },
+    {
+      "name": "C14_data_S3.csv",
+      "url": "https://www.sciencebase.gov/catalog/file/get/68d42244d4be023091a481bb?f=__disk__c2%2F65%2Fed%2Fc265ede033c455baa97091a3c76c7013c7cc925a",
+      "local_path": "sources/originals/electron/C14_data_S3.csv",
+      "md5": "c5325c205c4d724a24cf14b01e848c57",
+      "sha256": "f48f97724f99e08cf86759c2a6084ae2c4bee89493ea412bbb79659d2ac292ca"
+    },
+    {
+      "name": "C14_data_Mount_Rainier_lahar_metadata.xml",
+      "url": "https://www.sciencebase.gov/catalog/file/get/68d42244d4be023091a481bb?f=__disk__bc%2Fc0%2Fcf%2Fbcc0cf2a755a319933d9f73a2da1ae8bbc74d4a6",
+      "local_path": "sources/originals/electron/C14_data_Mount_Rainier_lahar_metadata.xml",
+      "md5": "d83d53c2c6cb472416e084b070df3e68",
+      "sha256": "336a4e99121f0f713f5a56c811384695a519fcd66484c529b5aaadaa31df7703"
+    }
+  ],
+  "encoding": "CSV bytes decoded as Windows-1252; originals preserved unchanged",
+  "tree_rows": 21,
+  "measurement_transects": 86,
+  "radiocarbon_rows": 8,
+  "summary_reported_age_count": 7,
+  "assay_selection_resolved": false,
+  "reference_rows": 34,
+  "references_with_1507_best": [
+    "Macblo",
+    "Long Island, Willapa Bay",
+    "Soapgrass Mountain",
+    "Olympic Road 3116"
+  ],
+  "references_with_1507_in_top5": [
+    "Macblo",
+    "Long Island, Willapa Bay",
+    "Soapgrass Mountain",
+    "Olympic Road 3116",
+    "Canyon Creek",
+    "Big Quilcene River"
+  ],
+  "reference_details": [
+    {
+      "site": "Macblo",
+      "archive_code": "CAN682",
+      "maximum_t": 8.0,
+      "best_year": 1507,
+      "has_1507_in_top5": true
+    },
+    {
+      "site": "Long Island, Willapa Bay",
+      "archive_code": "WA129",
+      "maximum_t": 5.3,
+      "best_year": 1507,
+      "has_1507_in_top5": true
+    },
+    {
+      "site": "Soapgrass Mountain",
+      "archive_code": "OR117",
+      "maximum_t": 4.0,
+      "best_year": 1507,
+      "has_1507_in_top5": true
+    },
+    {
+      "site": "Olympic Road 3116",
+      "archive_code": "WA088",
+      "maximum_t": 3.1,
+      "best_year": 1507,
+      "has_1507_in_top5": true
+    },
+    {
+      "site": "Frederick Butte Update",
+      "archive_code": "OR093",
+      "maximum_t": 4.3,
+      "best_year": 1524,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Table Rock/Arrow Gap",
+      "archive_code": "OR092",
+      "maximum_t": 4.2,
+      "best_year": 1671,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Little Juniper Mtn Update",
+      "archive_code": "OR095",
+      "maximum_t": 4.1,
+      "best_year": 1832,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Calamity Creek",
+      "archive_code": "OR009",
+      "maximum_t": 3.8,
+      "best_year": 1524,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Horse Ridge Update",
+      "archive_code": "OR094",
+      "maximum_t": 3.7,
+      "best_year": 1671,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Steens Mountain ",
+      "archive_code": "OR063",
+      "maximum_t": 3.2,
+      "best_year": 1898,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "NCAS",
+      "archive_code": "WA135",
+      "maximum_t": 3.7,
+      "best_year": 1993,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Scatter Lake",
+      "archive_code": "WA061",
+      "maximum_t": 3.4,
+      "best_year": 1396,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Sunrise Lake",
+      "archive_code": "WA064",
+      "maximum_t": 3.3,
+      "best_year": 1753,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Strawberry Lake",
+      "archive_code": "OR091",
+      "maximum_t": 3.3,
+      "best_year": 1639,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Andy Good Creek",
+      "archive_code": "CANA586",
+      "maximum_t": 3.9,
+      "best_year": 1404,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Bear Creek Ridge",
+      "archive_code": "WA136",
+      "maximum_t": 3.1,
+      "best_year": 1433,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Pringle Falls Presc. Fire",
+      "archive_code": "OR047",
+      "maximum_t": 3.1,
+      "best_year": 1605,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Experimental Forest",
+      "archive_code": "OR049",
+      "maximum_t": 2.9,
+      "best_year": 1976,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Browder Creek",
+      "archive_code": "OR109",
+      "maximum_t": 4.4,
+      "best_year": 1263,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Segelson Pass",
+      "archive_code": "WA041",
+      "maximum_t": 4.1,
+      "best_year": 1622,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Frying Pan Creek",
+      "archive_code": "WA048",
+      "maximum_t": 3.9,
+      "best_year": 1401,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Elliot Creek",
+      "archive_code": "WA047",
+      "maximum_t": 3.9,
+      "best_year": 1461,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Tahoma Creek",
+      "archive_code": "WA091",
+      "maximum_t": 3.7,
+      "best_year": 1622,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Canyon Creek",
+      "archive_code": "OR113",
+      "maximum_t": 3.5,
+      "best_year": 1263,
+      "has_1507_in_top5": true
+    },
+    {
+      "site": "San Juan Hill",
+      "archive_code": "WA090",
+      "maximum_t": 3.4,
+      "best_year": 1623,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Boulder Creek",
+      "archive_code": "WA053",
+      "maximum_t": 3.3,
+      "best_year": 1398,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Lava Beds",
+      "archive_code": "WA027",
+      "maximum_t": 3.2,
+      "best_year": 1926,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Big Quilcene River",
+      "archive_code": "WA086",
+      "maximum_t": 3.1,
+      "best_year": 1515,
+      "has_1507_in_top5": true
+    },
+    {
+      "site": "Gate Creek",
+      "archive_code": "OR115",
+      "maximum_t": 2.8,
+      "best_year": 1983,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "South Cascade Glacier",
+      "archive_code": "WA147",
+      "maximum_t": 4.1,
+      "best_year": 1501,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Baker Ski",
+      "archive_code": "WA039",
+      "maximum_t": 3.4,
+      "best_year": 1636,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Hidden Lake",
+      "archive_code": "WA145",
+      "maximum_t": 3.3,
+      "best_year": 1458,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Obsidian Lava Flow",
+      "archive_code": "OR088",
+      "maximum_t": 3.2,
+      "best_year": 1505,
+      "has_1507_in_top5": false
+    },
+    {
+      "site": "Granite Mountain",
+      "archive_code": "WA056",
+      "maximum_t": 3.1,
+      "best_year": 1434,
+      "has_1507_in_top5": false
+    }
+  ],
+  "identity_caution": "S2 ELE11 dated in 1994 must not be automatically joined to S1 ELE011 collected in 2024; identifiers and collection/analysis history need reconciliation.",
+  "raw_ring_widths_in_release": false,
+  "independent_reproduction": false
+}

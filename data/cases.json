@@ -1137,6 +1137,49 @@
         "Independent review"
       ],
       "dependence": "Shared calibration and event model; repeated assays within trees. Relative ring matching does not independently supply an absolute year."
+    },
+    {
+      "id": "C020",
+      "title": "Electron Mudflow forest burial and reference chronology",
+      "category": "mudflows and buried forests",
+      "place": "Mount Rainier and Puyallup River drainage, Washington",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S72",
+          "locator": "Release summary; C14_data_S1/S2/S3.csv",
+          "statement": "Release includes 21 tree records, eight assay rows and 34 reference comparisons; reported 1507 dating and 1477–1522 radiocarbon interval not independently reproduced."
+        }
+      ],
+      "physical_evidence": "Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.",
+      "surviving_documents": "USGS original data tables and release metadata; accompanying article methods pending.",
+      "source_interpretation": "Lahar killed a forest; external ring-pattern comparisons place tree death in 1507.",
+      "investigation_inference": "Potential separate event and a dependency in Bonneville external crossdating; shared chronologies require auditing.",
+      "competing_explanations": [
+        "Separate regional lahar",
+        "Common-event proposal requiring compatible independently dated horizons"
+      ],
+      "counterevidence": "Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.",
+      "next_test": "Resolve eight-row/seven-age selection and sample-ID mapping; retrieve raw Electron widths and reference data; reproduce external matching.",
+      "chronology": {
+        "reported": "1507 CE by external crossdating; 1477–1522 CE reported 99.7% radiocarbon range",
+        "dated_object": "Wood samples and ring patterns from buried trees",
+        "method": "Radiocarbon wiggle matching and dendrochronology",
+        "raw_date": "Eight assay rows retained in original S2 CSV",
+        "uncertainty": "Reported model range; selection unresolved",
+        "timescale": "Calendar CE, reported",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Assay-selection explanation",
+        "Raw annual measurements",
+        "Sample identity crosswalk",
+        "Reproduced age model",
+        "Independent review"
+      ],
+      "dependence": "Bonneville abstract cites Electron chronology; shared regional reference data may couple calendar assignments."
     }
   ]
 }

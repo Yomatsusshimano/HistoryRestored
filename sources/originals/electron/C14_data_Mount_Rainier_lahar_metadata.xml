@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Bryan A. Black</origin>
+        <origin>Patrick T. Pringle</origin>
+        <origin>James W. Vallance</origin>
+        <pubdate>20250929</pubdate>
+        <title>Radiocarbon and tree-ring data for dating Mount Rainier's Electron Mudflow</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Vancouver, Washington</pubplace>
+          <publish>U.S. Geological Survey, Volcano Science Center</publish>
+        </pubinfo>
+        <othercit>Suggested citation: Black, B.A., Pringle, P.T., and Vallance, J.W., 2025, Radiocarbon and tree-ring data for dating Mount Rainier's Electron Mudflow: U.S. Geological Survey data release, https://doi.org/10.5066/P13WAVXH</othercit>
+        <onlink>https://doi.org/10.5066/P13WAVXH</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Bryan A. Black</origin>
+            <origin>Patrick T. Pringle</origin>
+            <origin>James W. Vallance</origin>
+            <pubdate>20251013</pubdate>
+            <title>Forest-floor burial in 1507 by the largest Mount Rainier lahar of the past millennium</title>
+            <geoform>publication</geoform>
+            <othercit>accepted by Geology</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>New dating of lahar-killed trees underscores volcano hazards in the Puget Sound metropolitan area. Beginning as a landslide from the west flank of Mount Rainier, Washington, the Electron Mudflow swept more than 60 km down the Puyallup River drainage into areas now heavily populated. Wiggle-matching of seven radiocarbon ages from buried, bark-bearing Douglas-fir (Pseudotsuga menziesii) trees brackets the mudflow’s age between 1477–1522 CE with 99.7 percent certainty. The trees with bark all died the same year. Analysis of the Electron chronology using crossdating of tree rings best matched with chronologies from low-elevation sites, especially a Douglas-fir chronology from Vancouver Island, Canada, to show that the Electron trees died in 1507 CE. These data are in three tables, containing properties of the lahar-killed Douglas-fir included in the Electron tree-ring chronology (C14_S1.csv); radiocarbon data from trees killed in the Electron Mudflow (C14_S2.csv); and properties of long tree-ring chronologies in Oregon, Washington, and southern British Columbia and their relationship to the Electron chronology (C14_S3.csv). These are supplementary data tables to support the larger work by Black et al. 2025. Data users are strongly encouraged to refer to that larger work for additional details.</abstract>
+      <purpose>Radiocarbon data from trees killed in the Electron Mudflow provide relationships between long tree-ring chronologies in Oregon, Washington, and southern British Columbia and the Electron chronology.</purpose>
+      <supplinf>These are supplementary data tables to support the larger work. Data users are strongly encouraged to refer to that larger work for additional details.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20251013</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>sample locations</descgeog>
+      <bounding>
+        <westbc>-122.22700</westbc>
+        <eastbc>-122.21300</eastbc>
+        <northbc>47.11000</northbc>
+        <southbc>46.97500</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>farming</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>volcano hazards</themekey>
+        <themekey>lahar</themekey>
+        <themekey>1507</themekey>
+        <themekey>carbon-14</themekey>
+        <themekey>age dating</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:68d42244d4be023091a481bb</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Cascades</placekey>
+        <placekey>Washington State</placekey>
+        <placekey>Mount Rainier</placekey>
+        <placekey>Electron Mudflow</placekey>
+      </place>
+    </keywords>
+    <accconst>No access constraints. Please see 'Distribution Information' for details.</accconst>
+    <useconst>These data are marked with a Creative Common CC0 1.0 Universal License. These data are in the public domain and do not have any use constraints. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>James W Vallance</cntper>
+          <cntorg>USGS Cascades Volcano Observatory</cntorg>
+        </cntperp>
+        <cntpos>Research Geologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1300 SE Cardinal Court</address>
+          <city>Vancouver</city>
+          <state>WA</state>
+          <postal>98683</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>360-993-8959</cntvoice>
+        <cntemail>jvallance@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Please refer to the larger work for more details.</attraccr>
+    </attracc>
+    <logic>No unexpected values are included in these data tables.</logic>
+    <complete>The dataset is complete, no data were omitted.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal accuracy assessment has been performed.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal accuracy assessment has been performed.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>S1: Properties of the lahar-killed Douglas-fir included in the Electron tree-ring chronology.
+S2: Radiocarbon data from trees killed in the Electron Mudflow.
+S3: Properties of long tree-ring chronologies in Oregon, Washington, and southern British Columbia and their relationship to the Electron chronology.</procdesc>
+        <procdate>20251013</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.001</latres>
+        <longres>0.001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>World Geodetic System 1984 (WGS 84)</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6356752.314245</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center</address>
+          <address>Building 810</address>
+          <address>Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P13WAVXH</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20250929</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>James W Vallance</cntper>
+          <cntorg>USGS Cascades Volcano Observatory</cntorg>
+        </cntperp>
+        <cntpos>Research Geologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1300 SE Cardinal Court</address>
+          <city>Vancouver</city>
+          <state>WA</state>
+          <postal>98683</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>360-993-8959</cntvoice>
+        <cntemail>jvallance@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

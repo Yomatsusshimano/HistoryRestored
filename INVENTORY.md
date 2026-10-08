@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-19 sourced drafts; 0 independent scientific reviews.
+20 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -26,6 +26,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C017 | Lake Cahuilla deposits versus a proposed marine passage |
 | C018 | Ozette Makah houses buried by slides |
 | C019 | Bonneville landslide and drowned Columbia River forest |
+| C020 | Electron Mudflow forest burial and reference chronology |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -617,3 +618,31 @@ Place: Columbia River Gorge, Oregon and Washington. Status: SOURCED_DRAFT.
 **Chronology:** {"reported": "1421\u20131455 CE at reported three sigma", "dated_object": "Ring-defined wood samples from three Douglas-fir trees", "method": "Radiocarbon calibration, ring offsets and combined distributions", "raw_date": "Nine determinations in data/bonneville-dates.json", "uncertainty": "Model-dependent interval; not rerun", "timescale": "Calibrated CE", "event_association": "REPORTED_NOT_REVALIDATED"}
 
 **Missing:** Raw-series alignment reproduction; OxCal model reproduction; Original sample custody and pretreatment audit; Independent review
+
+## C020: Electron Mudflow forest burial and reference chronology
+
+Place: Mount Rainier and Puyallup River drainage, Washington. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Release includes 21 tree records, eight assay rows and 34 reference comparisons; reported 1507 dating and 1477–1522 radiocarbon interval not independently reproduced. [S72](https://doi.org/10.5066/P13WAVXH). Locator: Release summary; C14_data_S1/S2/S3.csv. Access: FULL_TEXT_PORTION. Limit: Tables provide summary properties and reference-match results, not raw annual-width series. Eight assay rows versus seven ages in summary unresolved; article methods not yet fully inspected.
+
+**Physical evidence:** Reported buried Douglas-fir samples, with rooted and transported trees distinguished in S1; no field inspection.
+
+**Surviving documents:** USGS original data tables and release metadata; accompanying article methods pending.
+
+**Source interpretation:** Lahar killed a forest; external ring-pattern comparisons place tree death in 1507.
+
+**Investigation inference:** Potential separate event and a dependency in Bonneville external crossdating; shared chronologies require auditing.
+
+**Counterevidence:** Reported interval differs from Bonneville 1421–1455 and Cascadia 1700, conditional on dating assumptions; not independent global disproof.
+
+**Next test:** Resolve eight-row/seven-age selection and sample-ID mapping; retrieve raw Electron widths and reference data; reproduce external matching.
+
+**Dependence:** Bonneville abstract cites Electron chronology; shared regional reference data may couple calendar assignments.
+
+**Alternatives:** Separate regional lahar; Common-event proposal requiring compatible independently dated horizons
+
+**Chronology:** {"reported": "1507 CE by external crossdating; 1477\u20131522 CE reported 99.7% radiocarbon range", "dated_object": "Wood samples and ring patterns from buried trees", "method": "Radiocarbon wiggle matching and dendrochronology", "raw_date": "Eight assay rows retained in original S2 CSV", "uncertainty": "Reported model range; selection unresolved", "timescale": "Calendar CE, reported", "event_association": "REPORTED_NOT_REVALIDATED"}
+
+**Missing:** Assay-selection explanation; Raw annual measurements; Sample identity crosswalk; Reproduced age model; Independent review

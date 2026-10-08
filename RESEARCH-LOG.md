@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Electron Mudflow data release
+
+Previous turn made progress: 9c2f005 published seven byte-verified files. Clean checkout confirmed. Retrieved ScienceBase public data release and all four files; MD5 values match repository metadata. CSV decoding required Windows-1252; original bytes retained. Counted 21 tree rows and 86 transects, eight assay rows and 34 reference comparisons. Four references peak at 1507; six include it in their reported top five. Kept eight-versus-seven assay selection and ELE11/ELE011 date/identity mismatch unresolved. Added C020/S72; raw annual widths and model reproduction absent. No independent chronology or global catastrophe claim established.
+
 ## 2026-10-08 - Candidate reference coverage and quality
 
 Previous turn made progress: 19ce140 published seven byte-verified files. Clean checkout confirmed. Executed hash-pinned NOAA-template coverage analysis: at proposed final year 1446, candidate WA027 offers 50 calendar years, 175 series-years, six partly overlapping series, and one complete series. Downloaded 1994 NOAA quality report S71; preserved raw-data scope, reported flags, early weak segment correlations and comment/table row-ID mismatch. No series redated or removed and no chronology rebuilt. Exact identity with the 2021 reference is unconfirmed. This evidence changes the next action to reference-version and processing verification before correlation use.
