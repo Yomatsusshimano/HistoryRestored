@@ -1,0 +1,54 @@
+{
+  "case_id": "C004",
+  "source_id": "S44",
+  "status": "SOURCED_DRAFT",
+  "reviewers": [],
+  "scope": "Selected reproduced records and report translations; not independently authenticated original manuscripts",
+  "records": [
+    {
+      "record": "Morioka-han Zassho, Kuwagasaki account",
+      "locator": "pp. 38-39; calendar context pp. 42-43",
+      "reported_day": 8,
+      "reported_time": "Night, hour of nine",
+      "year_month_context": "Genroku 12, month 12, supplied by report context",
+      "translated_content": "Villagers flee to hills; waves destroy 13 houses and a fire burns 20; rice provided to 159 persons and wood sought for shelters.",
+      "modern_time_interpretation": "Around midnight January 27-28, 1700 Gregorian; report interpretation",
+      "exact_modern_timestamp": null
+    },
+    {
+      "record": "Moriai-ke Nikki kakitome cho, Tsugaruishi account",
+      "locator": "p. 52, columns 1-5; correction argument p. 53",
+      "era": "Genroku",
+      "era_year": 12,
+      "month_as_reproduced_and_translated": 11,
+      "days_as_reported": [
+        8,
+        9
+      ],
+      "month_proposed_by_report_authors": 12,
+      "correction_basis_reported": "Similar fire report and adjacent snowstorm entry also dated one month earlier than snow reports in Morioka and Hachinohe records.",
+      "independent_check_of_comparison_snow_records": false,
+      "dependence": "Kuwagasaki fire is hearsay in this account, not a second direct observation of that fire.",
+      "reported_absence": "Account says no earthquake occurred locally; not a global absence of earthquake."
+    }
+  ],
+  "calendar_check": {
+    "source_locator": "p. 42",
+    "assumed_anchor": "Genroku 12.11.1 = Gregorian 1699-12-21",
+    "month_11_length_days_as_reported": 30,
+    "elapsed_days_to_month_12_day_8": 37,
+    "conditional_result_day_8": "1700-01-27",
+    "conditional_result_day_9": "1700-01-28",
+    "independent_historical_calendar_reconstruction": false,
+    "note": "Executed Gregorian date addition using source anchor and month length; tests arithmetic only. Genroku 12 has intercalary ninth month in the report."
+  },
+  "earthquake_time_inference": {
+    "source_locator": "p. 43",
+    "assumed_travel_hours": 10,
+    "illustrative_modern_timezone_difference_hours": 17,
+    "reported_result": "About 21:00 January 26, 1700 Cascadia local time",
+    "uncertainty": "Report allows an earlier earthquake if reported flooding lagged the leading wave by one to two hours; no new confidence interval computed.",
+    "model_reproduced": false,
+    "other_document_ambiguity": "Report notes Tanabe dawn-of-eighth wording can mean start of eighth or be interpreted as ninth for agreement; Tanabe original passage not independently inspected in this tranche."
+  }
+}

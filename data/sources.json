@@ -793,6 +793,23 @@
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "api_documentation": "https://ssd-api.jpl.nasa.gov/doc/horizons.html",
       "response_sha256": "e8415caa0a50ff1d7c123a77be11e204b9b3814e17a61cc3254d40dd8e0ea025"
+    },
+    {
+      "id": "S44",
+      "title": "The orphan tsunami of 1700: Japanese clues to a parent earthquake in North America, second edition",
+      "creator": "Brian F. Atwater, Musumi-Rokkaku Satoko, Satake Kenji, Tsuji Yoshinobu, Ueda Kazue, David K. Yamaguchi",
+      "publication_date": "2015",
+      "url": "https://moodle.glg.miamioh.edu/brudzimr/classes/pp1707.pdf",
+      "doi": "10.3133/pp1707",
+      "source_type": "research report containing historical document reproductions, transliterations and translations",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp. 38-39, 42-43, 52-53 visually checked (PDF pp. 48-49, 52-53, 62-63). Edition and publication statement read from PDF pp. 5-6. Additional context on printed pp. 32-37 and 60-63 read as extracted text; not a complete book review.",
+      "limitations": "Reproductions and supplied translations inspected, not physical manuscripts or independent paleographic authentication. Original calendar tables, snowstorm comparison records and tsunami model not independently checked. PDF extraction includes off-page/duplicated spread text, so visual page checks control core locators. First-edition metadata retained separately as S04.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "pdf_sha256": "92950a01c7a028aa38823f8e6f00665e913582cee7e4ed1998a03c6c881f3817",
+      "rights_note": "Report states public domain text with some separately owned images; images not republished here."
     }
   ]
 }

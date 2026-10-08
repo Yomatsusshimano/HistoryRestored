@@ -175,10 +175,15 @@
           "source_id": "S20",
           "locator": "Corrected final paragraph",
           "statement": "The correction clarifies the conditional rupture-length argument; it is not a replacement set of tree-ring measurements."
+        },
+        {
+          "source_id": "S44",
+          "locator": "pp. 38-39, 42-43, 52-53",
+          "statement": "Reproduced Japanese accounts preserve flood/fire and nighttime timing; a Tsugaruishi month discrepancy is explicitly corrected by report authors. January 26 Cascadia earthquake time combines calendar interpretation with assumed tsunami travel time, not a direct Japanese earthquake timestamp."
         }
       ],
       "physical_evidence": "Published tree-ring table visually checked; raw ring measurements and sediment core logs not reanalyzed.",
-      "surviving_documents": "Tree-ring research and correction inspected; original Japanese records remain unreviewed.",
+      "surviving_documents": "Tree-ring research and correction inspected; selected Japanese document reproductions and supplied translations now visually checked in the 2015 report. Physical manuscripts and independent paleographic review remain pending.",
       "source_interpretation": "The research summary attributes local sediment and subsidence to an earthquake and tsunami.",
       "investigation_inference": "Seasonal tree-death evidence can test the proposed 1700 event, with dating dependencies and delayed mortality retained. An exact event day needs the separate historical and propagation analysis.",
       "competing_explanations": [
@@ -186,7 +191,7 @@
         "Other local inundation processes to compare using deposits"
       ],
       "counterevidence": "The 1708 root date remains visible. Authors propose delayed death of a higher root; this archive has not independently tested that explanation. Regional evidence cannot establish global burial.",
-      "next_test": "Obtain raw ring widths, rerun crossdating including alternative placements, and audit Japanese records and tsunami travel-time inference.",
+      "next_test": "Obtain raw ring widths and rerun crossdating; inspect calendar reference tables and original snowstorm entries supporting the Tsugaruishi month correction; reproduce tsunami travel-time inference with arrival uncertainty.",
       "chronology": {
         "reported": "1700 CE",
         "dated_object": "Final root growth and inferred mortality, not direct earthquake-clock measurement",
@@ -198,11 +203,11 @@
       },
       "missing": [
         "Raw ring widths and crossdating rerun",
-        "Original Japanese records and calendar conversion",
+        "Physical manuscript authentication, independent translation and calendar-table check",
         "Core logs and elevation datum",
         "Independent delayed-mortality check"
       ],
-      "dependence": "Trees share reference chronologies; published matching constrains latest dates using radiocarbon. Article, author mirror and correction are one study lineage."
+      "dependence": "Trees share reference chronologies; published matching constrains latest dates using radiocarbon. Article, author mirror and correction are one study lineage. Japanese accounts require record-level dependence: Tsugaruishi repeats Kuwagasaki fire as hearsay; report, reproductions and translations are not separate witnesses."
     },
     {
       "id": "C005",

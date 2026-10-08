@@ -14,4 +14,24 @@ The exact-day inference requires a separate audit of Japanese documents, calenda
 
 This case can anchor a comparison cohort only with its scope preserved. For each proposed additional site, require its own dated event horizon and a feasible physical connection. A common-event claim must survive those comparisons rather than acquire an event date merely by resemblance.
 
-USGS report downloads returned 403; the attempted supplement timed out. The author-hosted article allowed progress despite those failures. No full-paper copy is redistributed here. Rendering emitted font-substitution warnings; the inspected table's sample IDs, years and latewood marks remained legible. Raw-statistical replication has not been performed.
+Initial USGS report downloads returned 403; the attempted supplement timed out. The author-hosted article allowed progress despite those failures. No full-paper copy is redistributed here. Rendering emitted font-substitution warnings; the inspected table's sample IDs, years and latewood marks remained legible. Raw-statistical replication has not been performed.
+
+## Japanese records: selected reproductions now inspected
+
+Source S44 is the **2015 second edition** of *The orphan tsunami of 1700*, retrieved from a [Miami University hosted copy](https://moodle.glg.miamioh.edu/brudzimr/classes/pp1707.pdf). This is distinct from the 2005 publication metadata in S04. The PDF includes duplicated/off-page text from spreads; visual inspection controls our core page locators. Printed pages **38-39, 42-43 and 52-53** were rendered and checked (PDF pages 48-49, 52-53 and 62-63). These contain reproductions with supplied transliteration and translation. Physical manuscripts and independent Japanese paleography remain unreviewed. The book identifies separately owned images, which are not republished here.
+
+The Kuwagasaki entry in **Morioka-han Zassho** reports nighttime waves, escape to hills, 13 houses destroyed by water, and 20 burned. It also records relief rice for 159 people and requests for shelter timber. These are specific reported losses and responses, not sediment measurements. Its eighth-day nighttime “hour of nine” is interpreted by the report as around midnight. The surrounding year/month context is needed; the excerpt alone is not a modern timestamp.
+
+### Preserve the month discrepancy
+
+The **Moriai-ke Nikki kakitome cho** account for Tsugaruishi, reproduced on page 52, gives Genroku year 12, **month 11**, days 8-9. It describes coastal flooding and explicitly says no earthquake occurred. That absence concerns local shaking, not earthquakes everywhere. Its account of the Kuwagasaki fire is hearsay, so it is not another independent direct observation of that fire.
+
+Page 53 argues that month 11 should be **month 12**. The argument is more specific than simply making tsunami reports agree: an adjacent heavy-snow entry is also one month early relative to the report's cited Morioka and Hachinohe weather records. This makes a repeated copying error a testable explanation. Those underlying snow records have not been independently inspected here. We retain the original month, proposed correction and rationale separately in the [document ledger](../data/cascadia-japanese-records.json). Neither silent correction nor automatic inference of deliberate fabrication is justified.
+
+### Calendar arithmetic and earthquake inference are separate
+
+Page 42 describes an intercalary ninth month in Genroku 12. It gives Genroku 12.11.1 as Gregorian 21 December 1699 and month 11 as 30 days. Conditional date addition is consistent: 30 days plus seven elapsed days gives **27 January 1700** for month 12 day 8, followed by January 28 for day 9. This arithmetic was executed; the historical anchor and calendar table have not been independently reconstructed.
+
+Page 43 explains that the numbered day began at dawn and the nighttime hour of nine corresponds to midnight. It then derives an approximate **9 p.m. January 26** Cascadia origin from Japanese arrival near midnight January 27-28, about ten hours of ocean travel, and a 17-hour difference expressed in modern time zones. This is an inferred earthquake time, not a date directly observed in Japan. The report allows an earlier origin if damaging waves lagged the leading wave by one or two hours. It also explicitly notes ambiguity in Tanabe's dawn-of-eighth wording; agreement with the ninth is an interpretation, not identical wording across every account.
+
+The seasonal tree window and documentary timing can therefore be compared, but the exact-day claim carries calendar, transmission, arrival-time and propagation assumptions. Next inspect the snowstorm comparison entries and historical calendar references, then reproduce the travel-time calculation with uncertainty. Nothing in this tranche dates unrelated fossil deposits or establishes a worldwide mud-flood horizon.

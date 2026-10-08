@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Japanese tsunami documents and calendar assumptions
+
+Previous turn made progress: 7b26c5c published ten public-byte-verified solar-check files. Clean checkout rechecked. USGS chapter returned 403; Alaska mirror failed certificate validation (not disabled); J-STAGE 1998 PDF download ended incomplete and was not inspected. Its HTML abstract was read for navigation only. A Miami University hosted copy of the 2015 USGS report downloaded successfully and was hashed.
+
+Visually inspected printed pp. 38-39, 42-43 and 52-53, including manuscript reproductions and supplied translations. Preserved Tsugaruishi month 11 separately from the authors' correction to month 12 and its snowstorm-comparison rationale. Conditional calendar arithmetic yields January 27-28, 1700 from the report's anchor and month length; no independent calendar reconstruction. Recorded local absence-of-shaking statement, hearsay dependence and approximate travel-time inference. Seventeen cases and forty-four sources; no independent scientific or paleographic review.
+
 ## 2026-10-08 - Kino solar-declination compatibility check
 
 Previous release 9d530ae published the Cahuilla screening audit. Clean checkout rechecked. Read JPL observer-quantity and API calendar documentation; executed a Gregorian Earth-center solar query for 25 hourly samples on March 3-4, 1702. Preserved the exact returned text, request, hash, script and computed differences.

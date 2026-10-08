@@ -120,10 +120,11 @@ Place: Washington estuaries in tree-ring study; Salmon River estuary, Oregon in 
 - A 2005 research report addresses Japanese clues to the 1700 event. [S04](https://www.usgs.gov/publications/orphan-tsunami-1700-japanese-clues-a-parent-earthquake-north-america). Locator: Publication title and DOI metadata. Access: CATALOG_METADATA. Limit: Report PDF fetch failed. Original Japanese documents not inspected.
 - Seven of eight usable snag-root dates end in 1699; CP-791 ends in 1708. Six have latewood supporting a seasonal death window. [S19](https://www.nature.com/articles/40048). Locator: Printed page 923, Table 1 and root-dating paragraphs. Access: SCAN_INSPECTED. Limit: Crossdating not rerun; raw widths and supplementary document uninspected. Apply correction S20 to final paragraph.
 - The correction clarifies the conditional rupture-length argument; it is not a replacement set of tree-ring measurements. [S20](https://www.nature.com/articles/37029). Locator: Corrected final paragraph. Access: FULL_TEXT_PORTION. Limit: Corrects earthquake-size reasoning; not a new dataset or independent replication.
+- Reproduced Japanese accounts preserve flood/fire and nighttime timing; a Tsugaruishi month discrepancy is explicitly corrected by report authors. January 26 Cascadia earthquake time combines calendar interpretation with assumed tsunami travel time, not a direct Japanese earthquake timestamp. [S44](https://moodle.glg.miamioh.edu/brudzimr/classes/pp1707.pdf). Locator: pp. 38-39, 42-43, 52-53. Access: SCAN_INSPECTED. Limit: Reproductions and supplied translations inspected, not physical manuscripts or independent paleographic authentication. Original calendar tables, snowstorm comparison records and tsunami model not independently checked. PDF extraction includes off-page/duplicated spread text, so visual page checks control core locators. First-edition metadata retained separately as S04.
 
 **Physical evidence:** Published tree-ring table visually checked; raw ring measurements and sediment core logs not reanalyzed.
 
-**Surviving documents:** Tree-ring research and correction inspected; original Japanese records remain unreviewed.
+**Surviving documents:** Tree-ring research and correction inspected; selected Japanese document reproductions and supplied translations now visually checked in the 2015 report. Physical manuscripts and independent paleographic review remain pending.
 
 **Source interpretation:** The research summary attributes local sediment and subsidence to an earthquake and tsunami.
 
@@ -131,15 +132,15 @@ Place: Washington estuaries in tree-ring study; Salmon River estuary, Oregon in 
 
 **Counterevidence:** The 1708 root date remains visible. Authors propose delayed death of a higher root; this archive has not independently tested that explanation. Regional evidence cannot establish global burial.
 
-**Next test:** Obtain raw ring widths, rerun crossdating including alternative placements, and audit Japanese records and tsunami travel-time inference.
+**Next test:** Obtain raw ring widths and rerun crossdating; inspect calendar reference tables and original snowstorm entries supporting the Tsugaruishi month correction; reproduce tsunami travel-time inference with arrival uncertainty.
 
-**Dependence:** Trees share reference chronologies; published matching constrains latest dates using radiocarbon. Article, author mirror and correction are one study lineage.
+**Dependence:** Trees share reference chronologies; published matching constrains latest dates using radiocarbon. Article, author mirror and correction are one study lineage. Japanese accounts require record-level dependence: Tsugaruishi repeats Kuwagasaki fire as hearsay; report, reproductions and translations are not separate witnesses.
 
 **Alternatives:** Earthquake/tsunami; Other local inundation processes to compare using deposits
 
 **Chronology:** {"reported": "1700 CE", "dated_object": "Final root growth and inferred mortality, not direct earthquake-clock measurement", "method": "Published crossdating against upland chronology, root/trunk linkage and latewood; Japanese exact-day linkage not revalidated", "raw_date": null, "uncertainty": "Six latewood-bearing roots imply August 1699-May 1700 under source seasonal assumptions; one other root ends 1699 without determined latewood, one ends 1708.", "timescale": "CE", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Raw ring widths and crossdating rerun; Original Japanese records and calendar conversion; Core logs and elevation datum; Independent delayed-mortality check
+**Missing:** Raw ring widths and crossdating rerun; Physical manuscript authentication, independent translation and calendar-table check; Core logs and elevation datum; Independent delayed-mortality check
 
 ## C005: California-as-island map
 
