@@ -723,6 +723,50 @@
         "Full later-literature synthesis"
       ],
       "dependence": "Two papers partly share authors, material and data. Two fraction ages and pooled result concern one parent sample."
+    },
+    {
+      "id": "C015",
+      "title": "Coyote Canyon mammoth and reworked camel comparison",
+      "category": "fossil context and flood sediment chronology",
+      "place": "Coyote Canyon, Benton County, Washington, USA",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S32",
+          "locator": "Tables 1, 3, 4; sections 3-5",
+          "statement": "Seven sediment OSL ages are reported at two sigma; the nearby camel bone is reported older than host flood sediment, while the mammoth humerus age is compatible with part of the sequence."
+        }
+      ],
+      "physical_evidence": "Published excavation and dating descriptions; seven sample-level OSL rows transcribed from text. No field or specimen inspection.",
+      "surviving_documents": "2021 original study and its citations to earlier bone dating.",
+      "source_interpretation": "Repeated flood deposition; possible flood-related mammoth death; reworking of the older camel bone.",
+      "investigation_inference": "Death, transport and sediment burial must be tested separately. Five flood OSL intervals overlap at 18.32-19.05 ka, so these ranges alone do not resolve event multiplicity.",
+      "competing_explanations": [
+        "Mammoth death associated with a flood and later burial",
+        "Death before transport or deposition",
+        "Older camel bone reworked into younger sediment",
+        "Dating or context errors requiring laboratory and field checks"
+      ],
+      "counterevidence": "Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.",
+      "next_test": "Inspect section/table facsimiles, original bone assays, dose distributions and moisture/bleaching sensitivity; test taphonomic association.",
+      "chronology": {
+        "reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json",
+        "dated_object": "Quartz-bearing sediment and previously reported bone material",
+        "method": "OSL with Minimum Age Model; earlier radiocarbon reports",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "OSL ka and calibrated radiocarbon ka BP retained separately",
+        "event_association": "REPORTED_NOT_REVALIDATED"
+      },
+      "missing": [
+        "Facsimile checks",
+        "Raw dose and bone-assay data",
+        "Independent taphonomic assessment",
+        "Complete sampling coordinates and time-reference audit"
+      ],
+      "dependence": "All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study."
     }
   ]
 }

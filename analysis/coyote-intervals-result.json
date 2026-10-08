@@ -1,0 +1,21 @@
+{
+  "input_sha256_canonical_json": "7dc02f59a0f991e98cb4110251e7d0344e9ee8a16b35cb42324dec50e459bfbb",
+  "included_ids": [
+    "CCMS-OSL-1",
+    "CCMS-OSL-2",
+    "CCCS-OSL-5",
+    "CCCS-OSL-6",
+    "CCCS-OSL-7"
+  ],
+  "excluded_ids": [
+    "CCMS-OSL-3",
+    "CCMS-OSL-4"
+  ],
+  "exclusion_reason": "Overlying loess is a different depositional context.",
+  "intersection_ka": [
+    18.32,
+    19.05
+  ],
+  "inference": "Overlap is not proof of synchrony or a joint confidence interval. No radiocarbon result combined.",
+  "scientific_validation": false
+}

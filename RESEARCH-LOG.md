@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-08 - Coyote Canyon fossil and sediment dating comparison
+
+Previous turn made progress: 3e8918b published eleven verified public files. Clean checkout rechecked. Direct publisher/PDF access failed; an accessible publisher-provided ResearchGate full-text mirror supplied methods, Tables 1/3/4 and relevant results. No PDF/table visual check is claimed. Search also surfaced a later lizard study with differently presented uncertainties; that source is not used to replace the original 2021 values.
+
+Added C015/S32, seven identified OSL rows and explicitly aggregate/secondary bone reports. Extracted aliquot counts, moisture choices and two-sigma age ranges. The five flood-sediment ranges intersect at 18.32-19.05 ka; overlying loess is excluded by context. This descriptive overlap is not a joint probability or proof of synchrony. No radiocarbon and OSL time origins were silently merged. Bone preparation, taphonomy, raw dose distributions and visual transcription checks remain pending.
+
+Fifteen sourced drafts and thirty-two sources now exist, with no independent reviews. The nearby Washington camel is kept separate from the Arctic camel case. A flood-related death interpretation remains distinct from sediment burial and older-bone reworking; neither establishes the global starting hypothesis.
+
 ## 2026-10-08 - Competing pulse interpretation and water-budget check
 
 Previous goal turn made progress: c749e29 published eight verified public files. Revalidated clean checkout. The original Atwater 1986 report again returned HTTP 403. Searches located a university-hosted copy of Shaw et al. 1999 and a partial 2000 Komatsu comment. Inspected relevant original arguments; visually checked Shaw's p. 608 exponents and scope qualifications. The comment mirror contains only its opening, alongside unrelated correspondence, so no complete-debate review is claimed. Crossref metadata verified DOI identities.

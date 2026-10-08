@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-14 sourced drafts; 0 independent scientific reviews.
+15 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -21,6 +21,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C012 | Muskox ancient-DNA population and geographic model |
 | C013 | Old Crow Arctic hyena teeth in reworked river deposits |
 | C014 | Camp Century fossil plants and upper sediment luminescence |
+| C015 | Coyote Canyon mammoth and reworked camel comparison |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -432,3 +433,31 @@ Place: Camp Century, northwestern Greenland. Status: SOURCED_DRAFT.
 **Chronology:** {"reported": "2023 pooled upper-sediment luminescence 416 +/- 38 ka; earlier plant radiocarbon statement is a bound, with preparation caveats", "dated_object": "Mineral sunlight-exposure history versus biological fragments", "method": "Luminescence with fading and residual-dose corrections; not reproduced here", "raw_date": null, "uncertainty": null, "timescale": "ka for luminescence; radiocarbon ka kept distinct", "event_association": "UNTESTED"}
 
 **Missing:** Raw aliquot and dose data; Radiocarbon supplement audit; Grain-size discrepancy resolution; Independent sample review; Plant taphonomy; Full later-literature synthesis
+
+## C015: Coyote Canyon mammoth and reworked camel comparison
+
+Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Seven sediment OSL ages are reported at two sigma; the nearby camel bone is reported older than host flood sediment, while the mammoth humerus age is compatible with part of the sequence. [S32](https://doi.org/10.3390/quat4030020). Locator: Tables 1, 3, 4; sections 3-5. Access: FULL_TEXT_PORTION. Limit: Direct PDF retrieval failed. No table/figure visual verification, raw dose analysis, bone assay audit or independent field examination. Mirror text has layout duplication.
+
+**Physical evidence:** Published excavation and dating descriptions; seven sample-level OSL rows transcribed from text. No field or specimen inspection.
+
+**Surviving documents:** 2021 original study and its citations to earlier bone dating.
+
+**Source interpretation:** Repeated flood deposition; possible flood-related mammoth death; reworking of the older camel bone.
+
+**Investigation inference:** Death, transport and sediment burial must be tested separately. Five flood OSL intervals overlap at 18.32-19.05 ka, so these ranges alone do not resolve event multiplicity.
+
+**Counterevidence:** Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.
+
+**Next test:** Inspect section/table facsimiles, original bone assays, dose distributions and moisture/bleaching sensitivity; test taphonomic association.
+
+**Dependence:** All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study.
+
+**Alternatives:** Mammoth death associated with a flood and later burial; Death before transport or deposition; Older camel bone reworked into younger sediment; Dating or context errors requiring laboratory and field checks
+
+**Chronology:** {"reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json", "dated_object": "Quartz-bearing sediment and previously reported bone material", "method": "OSL with Minimum Age Model; earlier radiocarbon reports", "raw_date": null, "uncertainty": null, "timescale": "OSL ka and calibrated radiocarbon ka BP retained separately", "event_association": "REPORTED_NOT_REVALIDATED"}
+
+**Missing:** Facsimile checks; Raw dose and bone-assay data; Independent taphonomic assessment; Complete sampling coordinates and time-reference audit

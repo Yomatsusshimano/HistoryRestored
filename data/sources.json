@@ -580,6 +580,22 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S32",
+      "title": "Chronology of Missoula Flood Deposits at the Coyote Canyon Mammoth Site, Washington State, USA",
+      "url": "https://doi.org/10.3390/quat4030020",
+      "doi": "10.3390/quat4030020",
+      "creator": "George V. Last and Tammy M. Rittenour",
+      "publication_date": "2021-07-06",
+      "source_type": "original sediment dating study",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher-provided ResearchGate full-text mirror: methods, Tables 1/3/4 and results/discussion; text only.",
+      "limitations": "Direct PDF retrieval failed. No table/figure visual verification, raw dose analysis, bone assay audit or independent field examination. Mirror text has layout duplication.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "text_mirror": "https://www.researchgate.net/publication/353041154_Chronology_of_Missoula_Flood_Deposits_at_the_Coyote_Canyon_Mammoth_Site_Washington_State_USA"
     }
   ]
 }
