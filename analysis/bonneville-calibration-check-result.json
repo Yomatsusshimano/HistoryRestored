@@ -1,0 +1,75 @@
+{
+  "source_ids": [
+    "S68",
+    "S128"
+  ],
+  "assay_sha256": "6b70edba4cf8ee690a7b54cdc1e753418d44945e180469163e5005268c60e238",
+  "curve_sha256": "974a66649f2ac8a53e6c99e256b019ac6982f999b12dcf7193162d4c1c09168e",
+  "curve_rows": 9501,
+  "grid_step_years": 0.25,
+  "prior": "Uniform death year 1 to 1950 CE, discrete grid.",
+  "method": "Product of Gaussian radiocarbon likelihoods at fixed ring-centroid offsets; linearly interpolated curve mean and sigma; assay and curve variances added.",
+  "limitations": [
+    "Not OxCal; no Offset uncertainty integration or Combine algorithm reproduction.",
+    "No within-sample ring averaging.",
+    "Shared calibration-curve covariance and assay dependence omitted.",
+    "Reported equal-tail intervals may differ from published interval construction.",
+    "Omitting a tree is sensitivity, not independent validation.",
+    "Source unit and sample context assumptions retained."
+  ],
+  "variants": {
+    "all_trees": {
+      "samples": 9,
+      "mode_CE": 1438.5,
+      "equal_tail_95_4_CE": [
+        1426.5,
+        1446.0
+      ],
+      "equal_tail_99_7_CE": [
+        1422.0,
+        1451.0
+      ],
+      "edge_mass_first_last_10_years": 5.9711225e-316
+    },
+    "Powerhouse": {
+      "samples": 7,
+      "mode_CE": 1439.25,
+      "equal_tail_95_4_CE": [
+        1423.75,
+        1447.0
+      ],
+      "equal_tail_99_7_CE": [
+        1419.5,
+        1457.75
+      ],
+      "edge_mass_first_last_10_years": 1.0027163046759394e-238
+    },
+    "Wyeth": {
+      "samples": 5,
+      "mode_CE": 1433.5,
+      "equal_tail_95_4_CE": [
+        1422.25,
+        1446.75
+      ],
+      "equal_tail_99_7_CE": [
+        1416.5,
+        1455.5
+      ],
+      "edge_mass_first_last_10_years": 1.533826945080621e-200
+    },
+    "Perham Creek": {
+      "samples": 6,
+      "mode_CE": 1440.75,
+      "equal_tail_95_4_CE": [
+        1427.25,
+        1450.25
+      ],
+      "equal_tail_99_7_CE": [
+        1421.25,
+        1455.5
+      ],
+      "edge_mass_first_last_10_years": 5.1243238976465746e-195
+    }
+  },
+  "scientific_validation": false
+}

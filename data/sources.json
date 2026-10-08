@@ -2054,6 +2054,21 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S128",
+      "title": "IntCal20 atmospheric calibration curve data",
+      "creator": "Reimer et al.; IntCal working group",
+      "publication_date": "2020",
+      "source_type": "Calibration curve numerical data",
+      "url": "https://intcal.org/curves/intcal20.14c",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Header and numerical calendar BP, radiocarbon age, sigma columns; interpolated for Bonneville check.",
+      "limitations": "Underlying calibration measurements and covariance not independently reproduced. Shared calibration source, not an independent chronology.",
+      "local_copy": null,
+      "downloaded_sha256": "974a66649f2ac8a53e6c99e256b019ac6982f999b12dcf7193162d4c1c09168e",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

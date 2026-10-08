@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Bonneville independent implementation check
+
+Previous turn made progress: 628ede5 published seven verified files; clean checkout confirmed. Retried supplement acquisition without recovering workbook content. Downloaded official IntCal20 curve, added S128, and executed a transparent fixed-offset Gaussian likelihood check of all nine preserved assays plus leave-one-tree-out sensitivities. Mid-fifteenth-century placement persists. Two numerical tests passed; halving grid spacing shifts interval endpoints by at most 0.25 year. This is independent code on dependent source data, not an independent date or OxCal reproduction. Full goal remains active.
+
 ## 2026-10-08 - Adjacent inundation comparison zones
 
 Previous turn made progress: 3f6dab2 published six verified files; clean checkout confirmed. Browser archive check reached Globus login; no authenticated access. Executed planar geometry audit on pinned public archive with scratch-installed pyshp and Shapely. Eight geometries valid; all four inner/outer pairs have zero overlap and zero boundary distance. Computed areas match stored attributes within 0.001 square metre. This rejects a nested-bound interpretation of the filenames, not the hydraulic model. Source fitting script remains uninspected. Initial dependency import ran before installation finished; rerun succeeded after verified installation completion. Full goal remains active.

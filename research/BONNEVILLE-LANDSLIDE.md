@@ -28,7 +28,22 @@ The authors flag possible polyethylene glycol contamination for BON#1 and BON#2.
 
 Page 68 initially calls Minor's rejected determination 400 ± 70 BP, matching Table 1's Beta-9958 row, but later calls it 410 ± 50 BP. The latter matches BON#2's numerical result, assigned to different authors in the table. This discrepancy remains unresolved pending the originals. It does not establish intentional alteration of history.
 
-## Correlation arithmetic audit
+## Simplified radiocarbon implementation check
+
+The [executed calculation](../analysis/bonneville_calibration_check.py) uses the nine preserved assays and ring offsets with the [official IntCal20 curve, S128](https://intcal.org/curves/intcal20.14c). For each candidate death year T, the sample centroid has calendar BP `1950 - T + offset`. Curve means and standard deviations are linearly interpolated. Gaussian likelihoods use assay variance plus curve variance and are multiplied over samples, with a uniform prior on 1–1950 CE. Offsets are fixed. [Hash-pinned results](../analysis/bonneville-calibration-check-result.json).
+
+| Omitted tree | Assays retained | Mode CE | Equal-tail 95.4% interval CE |
+| --- | ---: | ---: | --- |
+| None | 9 | 1438.50 | 1426.50–1446.00 |
+| Powerhouse | 7 | 1439.25 | 1423.75–1447.00 |
+| Wyeth | 5 | 1433.50 | 1422.25–1446.75 |
+| Perham Creek | 6 | 1440.75 | 1427.25–1450.25 |
+
+Decimals identify numerical grid positions, not dating precision. The full-data 99.7% equal-tail interval is 1422–1451 CE. Halving grid spacing from 0.25 to 0.125 year changes reported interval endpoints by no more than 0.25 year ([grid check](../analysis/bonneville-calibration-grid-check.json)); interpolation and a synthetic Gaussian summary also pass numerical tests.
+
+This approximate placement agrees broadly with the published mid-fifteenth-century result. Its persistence without Perham Creek shows that this simplified fit is not driven solely by that tree's inferred outer rings. **This is not an OxCal reproduction or an independent chronology.** It omits offset uncertainty, within-sample ring averaging, curve covariance and assay dependence. Equal-tail intervals need not match the authors' interval construction. Raw ring alignment, specimen context and calibration-curve validity remain inputs, not results of this check. No probability of a worldwide catastrophe is computed.
+
+## Earlier correlation arithmetic audit
 
 The publisher lists two supplementary workbooks, but the attempted download returned HTTP 403 and web retrieval could not access either file. Neither was analyzed. This limits reproduction, not evidence that the data are absent.
 

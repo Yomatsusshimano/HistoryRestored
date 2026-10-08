@@ -1,0 +1,62 @@
+{
+  "steps_years": [
+    0.25,
+    0.125
+  ],
+  "maximum_interval_endpoint_change_years": 0.125,
+  "fine_variants": {
+    "all_trees": {
+      "samples": 9,
+      "mode_CE": 1438.5,
+      "equal_tail_95_4_CE": [
+        1426.625,
+        1446.0
+      ],
+      "equal_tail_99_7_CE": [
+        1422.0,
+        1451.0
+      ],
+      "edge_mass_first_last_10_years": 4.27150363e-316
+    },
+    "Powerhouse": {
+      "samples": 7,
+      "mode_CE": 1439.125,
+      "equal_tail_95_4_CE": [
+        1423.875,
+        1446.875
+      ],
+      "equal_tail_99_7_CE": [
+        1419.625,
+        1457.625
+      ],
+      "edge_mass_first_last_10_years": 7.723310120482485e-239
+    },
+    "Wyeth": {
+      "samples": 5,
+      "mode_CE": 1433.5,
+      "equal_tail_95_4_CE": [
+        1422.375,
+        1446.875
+      ],
+      "equal_tail_99_7_CE": [
+        1416.625,
+        1455.5
+      ],
+      "edge_mass_first_last_10_years": 1.1611944333254477e-200
+    },
+    "Perham Creek": {
+      "samples": 6,
+      "mode_CE": 1440.75,
+      "equal_tail_95_4_CE": [
+        1427.25,
+        1450.25
+      ],
+      "equal_tail_99_7_CE": [
+        1421.25,
+        1455.5
+      ],
+      "edge_mass_first_last_10_years": 4.3127807950301034e-195
+    }
+  },
+  "scope": "Numerical discretization only, not scientific validation."
+}
