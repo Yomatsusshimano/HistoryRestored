@@ -1,0 +1,53 @@
+{
+  "source_id": "S70",
+  "input_sha256": "24e989136dcc7deb2128a994678cbe25729b2d582ab7708145a13a389d657b08",
+  "candidate_identity": "UNCONFIRMED",
+  "proposed_final_ring": 1446,
+  "reference_start": 1397,
+  "maximum_overlap_years": 50,
+  "observed_series": [
+    {
+      "series": "731011_raw",
+      "first_year": 1444,
+      "last_year": 1446,
+      "observed_years": 3
+    },
+    {
+      "series": "731012_raw",
+      "first_year": 1408,
+      "last_year": 1446,
+      "observed_years": 39
+    },
+    {
+      "series": "731091_raw",
+      "first_year": 1398,
+      "last_year": 1446,
+      "observed_years": 49
+    },
+    {
+      "series": "731101_raw",
+      "first_year": 1397,
+      "last_year": 1446,
+      "observed_years": 50
+    },
+    {
+      "series": "731102_raw",
+      "first_year": 1419,
+      "last_year": 1446,
+      "observed_years": 28
+    },
+    {
+      "series": "731151_raw",
+      "first_year": 1441,
+      "last_year": 1446,
+      "observed_years": 6
+    }
+  ],
+  "total_series_years": 175,
+  "minimum_annual_series_count": 1,
+  "maximum_annual_series_count": 6,
+  "mean_annual_series_count": 3.5,
+  "independent_tree_count": null,
+  "crossdating_reproduced": false,
+  "limitations": "Coverage only. Does not establish specimen independence, reference identity, accuracy of assigned years, or statistical strength of any match."
+}

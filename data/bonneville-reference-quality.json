@@ -1,0 +1,68 @@
+{
+  "source_id": "S71",
+  "case_id": "C019",
+  "report_date": "1994-11-20",
+  "scope": "Raw WA027 measurements, not the chronology itself",
+  "reported_summary": {
+    "dated_series": 30,
+    "tested_segment_length": 50,
+    "problem_segments": 29,
+    "problem_percent": 5.18,
+    "possible_misdated_series": 2
+  },
+  "reported_misdated_intervals": [
+    {
+      "series": "731061",
+      "years": [
+        1531,
+        1599
+      ]
+    },
+    {
+      "series": "731082",
+      "years": [
+        1640,
+        1699
+      ]
+    }
+  ],
+  "early_series": {
+    "series": "731091",
+    "row_number": 17,
+    "segment_correlations": [
+      {
+        "window": [
+          1375,
+          1424
+        ],
+        "r": 0.2,
+        "flag": "A"
+      },
+      {
+        "window": [
+          1400,
+          1449
+        ],
+        "r": 0.21,
+        "flag": "A"
+      },
+      {
+        "window": [
+          1425,
+          1474
+        ],
+        "r": 0.23,
+        "flag": "B"
+      }
+    ],
+    "window_note": "Nominal 50-year segment labels; actual series begins 1398, so edge segments can have shorter available coverage."
+  },
+  "flag_definitions": {
+    "A": "r below 0.3281 but highest at assigned position",
+    "B": "higher correlation at another position"
+  },
+  "comment_row_mismatch": "Comment identifies #17 as 731082; table row #17 is 731091. Retained unresolved.",
+  "current_reference_identity": "UNCONFIRMED",
+  "inference": "Quality flags justify checking reference processing and exclusion sensitivity; they do not by themselves refute the Bonneville date.",
+  "rerun": false
+}
