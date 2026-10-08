@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Coyote wildlife chronology dependency
+
+Previous goal turn was no progress: it acknowledged the model switch. Resumed source inspection, registered S138, and checked its dating dependency against the existing S32 facsimile. Recorded the unresolved uncertainty mismatch without changing original measurements or inferring new mammoth assays. Next step is original assay recovery and model/context verification. Full goal remains active.
+
 ## 2026-10-08 - Cross-case assessment
 
 Previous turn made progress: a3b6b6f published seven verified files. Re-read chronology, wildlife, physical-budget, environmental, construction and attribution audits and integrated their distinct constraints. Kept common mortality separate from later deposition and documented shared-input limits. This synthesis adds no new field evidence or independent review. Next work prioritizes specimen-to-bed linkage and major dating inputs over incidental discrepancies. Full goal remains active.

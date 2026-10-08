@@ -2201,6 +2201,20 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "measurement_file_url": "https://github.com/drewchrist-geo/Camp_Century_complex_26Al10Be_modelling/blob/b00d69a476ff0bba2d236bc180e48f88dece5982/cc_nuclides.mat"
+    },
+    {
+      "id": "S138",
+      "title": "First reported fossil occurrences of Phrynosoma sp. from the Columbia Plateau (Washington State, USA) dated to the Late Pleistocene",
+      "creator": "Audra J. Richter, Brian J. Pickles and Bax R. Barton",
+      "publication_date": "2024-01-29",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/jqs.3595",
+      "source_type": "Original research article",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Chronology subsection; Figure 2 caption; Barton 2012 reference.",
+      "limitations": "HTML text inspected; regression and laboratory records not reproduced.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

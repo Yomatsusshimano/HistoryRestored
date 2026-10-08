@@ -73,3 +73,20 @@ A discriminating follow-up needs rib IDs, their three-dimensional bed positions,
 This narrows the evidentiary claim: preliminary chemical differentiation of major units is not an independently validated count of flood events. Correlation between instruments does not by itself establish accuracy or chronological separation. Revising contacts to improve chemical separation is a reasonable exploratory procedure, but testing those same revised contacts with the same measurements is not an independent confirmation.
 
 To make the contact argument reproducible, retrieve the original profiles with sample IDs, depths, concentrations, instrument standards and uncertainty, plus both initial and revised contacts. Then freeze a classification rule on a designated training subset and test it against untouched profiles and separately recorded sedimentary observations. This is a proposed validation design, not a registered prediction or an executed test. A successful chemical classification would still need sedimentary evidence to establish separate depositional events.
+
+## Later wildlife ages: a dependent chronology
+
+[S138, Richter et al. (2024)](https://onlinelibrary.wiley.com/doi/10.1002/jqs.3595), chronology subsection and Figure 2 caption, assigns maxillae CCMS XU1 L15 FS021 1a and CCMS XU1 L20 FS038 1c approximately 13.2 and 15.4 ka, each +/-1.14 ka (reported 95% CI), through polynomial regression of sediment OSL ages. These are not direct bone assays. Its citation locates Barton et al. (2012) on p.44 but does not recover that original record.
+
+The four OSL central ages match S32. Their printed uncertainties differ:
+
+| CCMS-OSL sample | S32 Table 4, +/-2 sigma (ka) | S138 chronology, +/-95% CI (ka) |
+| --- | ---: | ---: |
+| 1 | 2.55 | 1.12 |
+| 2 | 2.70 | 1.32 |
+| 3 | 2.26 | 1.02 |
+| 4 | 2.04 | 1.03 |
+
+S32's PDF p.10 was visually rechecked. No revised uncertainty is adopted. The disagreement is not an exact factor-of-two conversion. Its cause remains unresolved.
+
+Our inference: these fossil ages cannot independently corroborate the sediment chronology used to assign them. Before testing common mortality, obtain the regression specification, uncertainty propagation, specimen-to-stratum links and evidence against reworking. A smooth depth-age curve across episodic deposition needs geological justification; interpolation alone does not establish continuous accumulation. This flags a testable dependency, not proof that the identification or age assignment is wrong. The original mammoth assays and death-to-burial interval remain unresolved.

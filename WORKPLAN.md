@@ -170,3 +170,5 @@ Camp Century component check: central-input uncertainty-prefactor multiplier 2.5
 Camp Century exposure component: central nonnegative-inventory crossing 16.702 kyr; input-uncertainty threshold distribution and production-rate sensitivity published. This is not actual exposure dating or full model replication.
 
 Cross-case assessment published: explicit claim versions, constraints and dependence table. Prioritize Coyote specimen-to-bed linkage, original luminescence/sloth preparation inputs, and a geographically specified model before any prospective prediction. No reconstruction or institutional adoption established.
+
+Coyote wildlife extension: dependent fossil age assignments and uncertainty mismatch recorded. Obtain model specification and original assay/context records before treating the extension as independent chronological evidence.

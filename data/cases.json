@@ -1046,6 +1046,11 @@
           "source_id": "S103",
           "locator": "Printed p.74 / PDF p.76",
           "statement": "Preliminary XRF abstract distinguishes major units; it does not provide raw data or independently validate the flood-event count."
+        },
+        {
+          "source_id": "S138",
+          "locator": "Chronology subsection; Figure 2 caption",
+          "statement": "Lizard ages are sediment-model assignments, not direct assays; see report for the unresolved uncertainty discrepancy."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",
@@ -1059,7 +1064,7 @@
         "Dating or context errors requiring laboratory and field checks"
       ],
       "counterevidence": "Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.",
-      "next_test": "Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing.",
+      "next_test": "Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing. Reconcile S138 OSL uncertainty reporting and reproduce its depth-to-age model before extending the wildlife chronology.",
       "chronology": {
         "reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json",
         "dated_object": "Quartz-bearing sediment and previously reported bone material",

@@ -509,6 +509,7 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 - Preliminary abstract reports gnawing on ten of eleven ribs; specimen IDs and raw mark measurements are absent. [S102](https://cascadiaprairieoak.org/wp-content/uploads/2013/12/Program-and-Abstracts-2013-NWSA-CPOP-Conference_final.pdf). Locator: Printed p.82 / PDF p.91. Access: SCAN_INSPECTED. Limit: Preliminary abstract; no rib IDs, individual mark measurements, images, uncertainty or blind classification validation. Full poster and specimens uninspected.
 - Authors relate bone spread and nearby bed thickness to repeated burial and cite the gnawing report; this is dependent interpretation, not independent replication. [S101](https://depts.washington.edu/amqua14/amquafiles/AMQUA2014_Abstracts-Program.pdf). Locator: pp.80-82. Access: SCAN_INSPECTED. Limit: Conference synthesis cites 2012 dates and earlier taphonomy. No original lab certificates or specimen-level field data; not an independent dating replication.
 - Preliminary XRF abstract distinguishes major units; it does not provide raw data or independently validate the flood-event count. [S103](https://northwestscience.org/web/default/files/resources/annual_meetings/older_annual_meetings/2014_NWSA_85thAnnMtg.pdf). Locator: Printed p.74 / PDF p.76. Access: SCAN_INSPECTED. Limit: No raw concentration table, sample IDs, plots, accuracy controls or independent classification test; no 15 cm thickness measurement in this abstract. Title spelling preserved.
+- Lizard ages are sediment-model assignments, not direct assays; see report for the unresolved uncertainty discrepancy. [S138](https://onlinelibrary.wiley.com/doi/10.1002/jqs.3595). Locator: Chronology subsection; Figure 2 caption. Access: FULL_TEXT_PORTION. Limit: HTML text inspected; regression and laboratory records not reproduced.
 
 **Physical evidence:** Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.
 
@@ -520,7 +521,7 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Older camel bone challenges equating all fossils in a flood deposit with the flood age. Broad OSL overlap prevents claiming that central-age differences alone prove separate events.
 
-**Next test:** Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing.
+**Next test:** Recover original mammoth assays and camel laboratory/model records; link identified gnawed ribs to beds and mark/sediment overprints to test exposure timing. Reconcile S138 OSL uncertainty reporting and reproduce its depth-to-age model before extending the wildlife chronology.
 
 **Dependence:** All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study.
 
