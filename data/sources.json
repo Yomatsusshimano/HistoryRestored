@@ -744,6 +744,38 @@
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "pdf_sha256": "a5e6a5c5f9da1054613a9a2337035b547db19f60450adaed852e1134b214c35e"
+    },
+    {
+      "id": "S41",
+      "title": "Late Holocene lacustrine chronology and archaeology of ancient Lake Cahuilla, California",
+      "creator": "Michael R. Waters",
+      "publication_date": "1983",
+      "url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=8973",
+      "doi": "10.1016/0033-5894(83)90042-X",
+      "source_type": "original lacustrine stratigraphy/chronology study",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp. 375-378 and Figures 2-4 visually checked.",
+      "limitations": "Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "pdf_sha256": "e07438ba7b33279ccbe8b269ef6d57a83187c4745647f571104a64363a0d05a4"
+    },
+    {
+      "id": "S42",
+      "title": "The late Holocene history of Lake Cahuilla: Two thousand years of repeated fillings within the Salton Trough, Imperial Valley, California",
+      "creator": "Thomas K. Rockwell, Aron J. Meltzner, Erik C. Haaker, Danielle Madugo",
+      "publication_date": "2022",
+      "url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/27c09858-8214-416b-8807-1c7c1321a8b1/content",
+      "doi": "10.1016/j.quascirev.2022.107456",
+      "source_type": "original lacustrine stratigraphy/chronology study",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Abstract, section 2.2, opening of methods and section 5.4 as extracted text.",
+      "limitations": "Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "pdf_sha256": "1d3aec5fa425a0c77f172081e088b5fc764494ed4aaaa7d6f0d09dd4e7de9f0a"
     }
   ]
 }

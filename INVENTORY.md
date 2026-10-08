@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-16 sourced drafts; 0 independent scientific reviews.
+17 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -23,6 +23,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C014 | Camp Century fossil plants and upper sediment luminescence |
 | C015 | Coyote Canyon mammoth and reworked camel comparison |
 | C016 | Thistle Creek horse chronology and calibration dependence |
+| C017 | Lake Cahuilla deposits versus a proposed marine passage |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -499,3 +500,32 @@ Place: Thistle Creek, Yukon, Canada. Status: SOURCED_DRAFT.
 **Chronology:** {"reported": "Approximately 560-780 kyr BP", "dated_object": "Fossil assigned through context", "method": "Stratigraphic association", "raw_date": null, "uncertainty": null, "timescale": "kyr BP as reported", "event_association": "REPORTED_NOT_REVALIDATED"}
 
 **Missing:** Raw ash dating and bone assays; Supplementary field documentation; Exact horse find coordinates; catalog station location available; Independent review
+
+## C017: Lake Cahuilla deposits versus a proposed marine passage
+
+Place: Salton Trough; published sections near Indio, California. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Author reports freshwater-shell-bearing lake sediments alternating with river deposits; correlation completeness differs among sections. [S41](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=8973). Locator: pp. 377-378, Figure 4. Access: SCAN_INSPECTED. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
+- Latest-lake dating incorporates historical constraints involving Kino and Anza; it is not wholly independent of those records. [S42](https://dr.ntu.edu.sg/server/api/core/bitstreams/27c09858-8214-416b-8807-1c7c1321a8b1/content). Locator: Section 2.2. Access: FULL_TEXT_PORTION. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
+
+**Physical evidence:** Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.
+
+**Surviving documents:** 1983 stratigraphic study and selected 2022 synthesis portions.
+
+**Source interpretation:** Repeated inland lake filling and drying associated with Colorado River routing.
+
+**Investigation inference:** Aquatic deposits require environmental discrimination before interpreting them as evidence for a marine strait.
+
+**Counterevidence:** Reported freshwater assemblages and alternating depositional environments challenge treating every aquatic deposit as one marine event; no defined strait/date hypothesis tested yet.
+
+**Next test:** Audit paired shell/charcoal specimens and reservoir effects; specify proposed connection and compare independent dated salinity and terrain evidence.
+
+**Dependence:** 2022 synthesis incorporates earlier studies and historical accounts; its preferred ages cannot independently validate all inputs.
+
+**Alternatives:** River-fed lake cycles; Marine passage if independently demonstrated; Reworking or incomplete preservation affecting individual beds and dates
+
+**Chronology:** {"reported": "1983 and 2022 chronologies differ; individual event windows not adopted in this initial source audit.", "dated_object": "Published sediment-associated organic and shell samples", "method": "Radiocarbon with stratigraphic, historical and hydrological constraints", "raw_date": null, "uncertainty": "Specimen and age-model audit pending", "timescale": "Multiple original conventions; not pooled", "event_association": "UNTESTED"}
+
+**Missing:** Exact site coordinates and elevation datum comparison; Specimen/laboratory records and reservoir audit; Independent chronology without tested historical constraints; Specified marine-corridor geometry

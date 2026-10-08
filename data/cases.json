@@ -854,6 +854,54 @@
         "Independent review"
       ],
       "dependence": "Fossil age constrains genomic divergence estimates. Regional ash correlation transfers dates from other stations; catalog repeats published observations."
+    },
+    {
+      "id": "C017",
+      "title": "Lake Cahuilla deposits versus a proposed marine passage",
+      "category": "changed coastlines and inland waters",
+      "place": "Salton Trough; published sections near Indio, California",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S41",
+          "locator": "pp. 377-378, Figure 4",
+          "statement": "Author reports freshwater-shell-bearing lake sediments alternating with river deposits; correlation completeness differs among sections."
+        },
+        {
+          "source_id": "S42",
+          "locator": "Section 2.2",
+          "statement": "Latest-lake dating incorporates historical constraints involving Kino and Anza; it is not wholly independent of those records."
+        }
+      ],
+      "physical_evidence": "Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.",
+      "surviving_documents": "1983 stratigraphic study and selected 2022 synthesis portions.",
+      "source_interpretation": "Repeated inland lake filling and drying associated with Colorado River routing.",
+      "investigation_inference": "Aquatic deposits require environmental discrimination before interpreting them as evidence for a marine strait.",
+      "competing_explanations": [
+        "River-fed lake cycles",
+        "Marine passage if independently demonstrated",
+        "Reworking or incomplete preservation affecting individual beds and dates"
+      ],
+      "counterevidence": "Reported freshwater assemblages and alternating depositional environments challenge treating every aquatic deposit as one marine event; no defined strait/date hypothesis tested yet.",
+      "next_test": "Audit paired shell/charcoal specimens and reservoir effects; specify proposed connection and compare independent dated salinity and terrain evidence.",
+      "chronology": {
+        "reported": "1983 and 2022 chronologies differ; individual event windows not adopted in this initial source audit.",
+        "dated_object": "Published sediment-associated organic and shell samples",
+        "method": "Radiocarbon with stratigraphic, historical and hydrological constraints",
+        "raw_date": null,
+        "uncertainty": "Specimen and age-model audit pending",
+        "timescale": "Multiple original conventions; not pooled",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Exact site coordinates and elevation datum comparison",
+        "Specimen/laboratory records and reservoir audit",
+        "Independent chronology without tested historical constraints",
+        "Specified marine-corridor geometry"
+      ],
+      "dependence": "2022 synthesis incorporates earlier studies and historical accounts; its preferred ages cannot independently validate all inputs."
     }
   ]
 }

@@ -14,6 +14,7 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 - [Case inventory](INVENTORY.md): sourced drafts, including challenges to the starting hypothesis.
 - [Arctic chronology audit](research/ARCTIC-CHRONOLOGY.md): camel sediment dating, Yukon DNA context, source discrepancies, and a reproducible conditional calculation.
 - [Sample dating records](data/dating-records.json): transcribed ages, uncertainties, and explicit missing values.
+- [Lake Cahuilla audit](research/CAHUILLA.md): physical lake-versus-marine evidence and historical dependencies in the chronology.
 - [California map audit](research/CALIFORNIA-MAP-AUDIT.md): verified item links, unresolved catalog dates, and the distinction between compilation and survey evidence.
 - [Eiffel construction audit](research/EIFFEL-CONSTRUCTION-AUDIT.md): visually checked personnel and cost records from the 1900 technical account.
 - [Lamp patent comparison](research/LAMP-PATENT-COMPARISON.md): Woodward's earlier disclosure, Edison's claims, and unresolved transmission evidence.

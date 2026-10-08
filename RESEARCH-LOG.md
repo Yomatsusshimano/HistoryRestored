@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Cahuilla physical comparison and dating dependence
+
+Previous turn made progress: 5435f0b published seven public-byte-verified files. Clean checkout rechecked; no existing Cahuilla case found. Retrieved Waters 1983 through California agency hosting and Rockwell et al. 2022 through NTU. Visually checked 1983 pp. 375-378/Figures 2-4; read selected 2022 portions as text.
+
+Added C017/S41/S42, distinguishing reported freshwater lake evidence from a marine-passage interpretation. Correlation gaps, differing shoreline elevations and historical constraints remain explicit. Kino-derived age constraints cannot independently validate Kino's chronology. Seventeen sourced drafts, forty-two sources. No specimen reidentification, model reproduction, transect or independent review performed.
+
 ## 2026-10-08 - Spanish comparison corrects latitude wording assessment
 
 Previous turn made progress: eb05f39 published eight public-byte-verified files. Clean checkout rechecked. Retrieved Spanish printed edition and visually inspected title and pp. 148, 161-162. Title imprint reads 1913-1922. Added S40 and comparison entries; core crossing/deferred-crossing/sighting claims agree in selected passages.
