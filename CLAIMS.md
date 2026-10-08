@@ -59,3 +59,5 @@ The retrospective [Bonneville–Electron comparison](research/REGIONAL-EVENT-WIN
 ## H3 operational comparison, 2026-10-08
 
 [Wildlife comparison](research/WILDLIFE-COMPARISON.md) distinguishes H3-M (common mortality), H3-D (common later deposition) and H3-E (population disruption). Retrospective 0-, 1-, 10- and 100-year mortality scenarios fail to fit all selected sloth calendar sets internally. This is not a statistical rejection probability; preparation and calibration audits remain pending. Later deposition and extinction require separate evidence. No event date or global footprint has been selected by this comparison.
+
+The [cross-case assessment](research/CROSS-CASE-ASSESSMENT.md) compares explicit mortality, deposition and local-process versions, with dependencies and evidence that could change each assessment. It supplies no global rejection probability or completed reconstruction.

@@ -168,3 +168,5 @@ Camp Century model: author-linked cosmogenic code prescribes luminescence age; s
 Camp Century component check: central-input uncertainty-prefactor multiplier 2.5263; mean ratios unaffected by that isolated substitution. Full stochastic model and publication-output comparison pending.
 
 Camp Century exposure component: central nonnegative-inventory crossing 16.702 kyr; input-uncertainty threshold distribution and production-rate sensitivity published. This is not actual exposure dating or full model replication.
+
+Cross-case assessment published: explicit claim versions, constraints and dependence table. Prioritize Coyote specimen-to-bed linkage, original luminescence/sloth preparation inputs, and a geographically specified model before any prospective prediction. No reconstruction or institutional adoption established.

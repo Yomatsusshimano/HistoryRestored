@@ -8,6 +8,8 @@ The event date is unknown. Nathan requested comparison of candidate periods and 
 
 ## Start here
 
+- [Cross-case assessment](research/CROSS-CASE-ASSESSMENT.md): current findings, challenged claim versions, shared evidence and next discriminating tests.
+
 - [Original objective](PROTOCOL.md): all twenty requested outcomes, preserved verbatim.
 - [Claim and tests](CLAIMS.md): operational predictions, competing explanations, and falsification conditions.
 - [Evidence standards](STANDARDS.md): rules a reader can apply to any account.

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Cross-case assessment
+
+Previous turn made progress: a3b6b6f published seven verified files. Re-read chronology, wildlife, physical-budget, environmental, construction and attribution audits and integrated their distinct constraints. Kept common mortality separate from later deposition and documented shared-input limits. This synthesis adds no new field evidence or independent review. Next work prioritizes specimen-to-bed linkage and major dating inputs over incidental discrepancies. Full goal remains active.
+
 ## 2026-10-08 - Camp Century exposure threshold
 
 Previous turn made progress: 83bdcfc published nine verified files. Solved the source production-equation threshold and propagated declared independent input uncertainties with a fixed seed. Central Al-26 crossing explains the 16 kyr grid result, without promoting it to a statistical upper confidence bound. Alternative production scenario retained. Three analytic tests pass. Full model and luminescence input reproduction remain incomplete.
