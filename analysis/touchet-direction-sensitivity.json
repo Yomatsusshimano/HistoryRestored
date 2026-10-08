@@ -1,0 +1,59 @@
+{
+  "input_sha256": "d4f5065eff044a0dc45f1ddbce3c73140018298671f035890c9c083d3ecb397b",
+  "selection": "All three sites with printed -5 and 0 rows; every duplicate zero retained. Retrospective selection motivated by the authors' pre-ash trend. Not all bed pairs.",
+  "assumptions": "Printed cones used as geometric regions, conditional on comparable horizon labels. Added allowance is arbitrary independent endpoint displacement, not an estimated systematic error.",
+  "geometry": "Additional allowance=max(0, separation-radius1-radius2). Half that value at each endpoint permits contact along the shortest connecting arc. A common rigid rotation cannot alter separation.",
+  "limits": "Disjoint marginal cones are not a calibrated joint hypothesis test. Allowances are sensitivity thresholds, not measured errors or probabilities. Separate pairwise allowances do not establish one joint model for all rows. No minimum duration or every-bed flood count follows.",
+  "comparisons": [
+    {
+      "site": "Touchet",
+      "lower_row": "Touchet-28",
+      "upper_row": "Touchet-23",
+      "angular_separation_deg": 10.37,
+      "sum_printed_cone_radii_deg": 6.9,
+      "cones_disjoint": true,
+      "minimum_additional_pairwise_angular_allowance_deg": 3.47,
+      "equal_per_endpoint_allowance_deg": 1.735
+    },
+    {
+      "site": "Touchet",
+      "lower_row": "Touchet-28",
+      "upper_row": "Touchet-24",
+      "angular_separation_deg": 6.788,
+      "sum_printed_cone_radii_deg": 6.9,
+      "cones_disjoint": false,
+      "minimum_additional_pairwise_angular_allowance_deg": 0.0,
+      "equal_per_endpoint_allowance_deg": 0.0
+    },
+    {
+      "site": "Burlingame",
+      "lower_row": "Burlingame-16",
+      "upper_row": "Burlingame-11",
+      "angular_separation_deg": 18.76,
+      "sum_printed_cone_radii_deg": 16.3,
+      "cones_disjoint": true,
+      "minimum_additional_pairwise_angular_allowance_deg": 2.46,
+      "equal_per_endpoint_allowance_deg": 1.23
+    },
+    {
+      "site": "Zillah",
+      "lower_row": "Zillah-06",
+      "upper_row": "Zillah-02",
+      "angular_separation_deg": 28.208,
+      "sum_printed_cone_radii_deg": 17.6,
+      "cones_disjoint": true,
+      "minimum_additional_pairwise_angular_allowance_deg": 10.608,
+      "equal_per_endpoint_allowance_deg": 5.304
+    },
+    {
+      "site": "Zillah",
+      "lower_row": "Zillah-06",
+      "upper_row": "Zillah-03",
+      "angular_separation_deg": 24.613,
+      "sum_printed_cone_radii_deg": 16.6,
+      "cones_disjoint": true,
+      "minimum_additional_pairwise_angular_allowance_deg": 8.013,
+      "equal_per_endpoint_allowance_deg": 4.006
+    }
+  ]
+}

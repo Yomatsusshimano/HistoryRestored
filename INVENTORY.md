@@ -319,17 +319,17 @@ Place: Columbia River basin, northwest United States. Status: SOURCED_DRAFT.
 
 **Physical evidence:** Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.
 
-**Surviving documents:** 2020 review summary, 1983 abstract and relevant portions of the 2021 original modeling study.
+**Surviving documents:** Original and later geological reports, selected measured-section/counting discussions, published Touchet bed-direction summaries and tephra analyses, and archived reference-lake numerical records; source-specific inspection limits retained.
 
 **Source interpretation:** Authors infer repeated glacial-outburst floods.
 
-**Investigation inference:** Catastrophic processes are a valid comparison; evidence of intervals tests a single-episode version.
+**Investigation inference:** Changing deposition and recorded magnetic directions constrain short-event models, but this archive has not independently reproduced a minimum sequence duration. Unit counts, independent flood initiations and elapsed years are distinct. Conditional pairwise recording sensitivity is quantified in research/FLOOD-DISCRIMINATION.md; no differential error is thereby demonstrated.
 
 **Counterevidence:** Intervening time indicators challenge treating the whole sequence as one uninterrupted event.
 
-**Next test:** Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation. Retrieve and inspect the S59 Globus package before reproducing S58 terrain comparisons.
+**Next test:** Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation. Retrieve and inspect the S59 Globus package before reproducing S58 terrain comparisons. Recover specimen orientation/demagnetization and bed deformation data, exact extended 2003 reference inputs and Little Boulder Lake core/assays; test common versus differential recording and the ash-interval transfer.
 
-**Dependence:** Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood.
+**Dependence:** Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood. Later reported durations can inherit earlier counts. Recovered NOAA Fish Lake coverage differs from the described 2003 input; later recalibrated or magnetically aligned versions cannot substitute without a version audit.
 
 **Alternatives:** Repeated outburst floods with intervening lake sedimentation; Shaw et al. regional pulse model for selected downstream sections with additional water sources; not a single event for all Scabland history
 

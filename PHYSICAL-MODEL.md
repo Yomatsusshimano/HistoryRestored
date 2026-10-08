@@ -51,3 +51,5 @@ The [Missoula audit](research/MISSOULA-MODEL-AUDIT.md) now supplies eleven field
 The [published pulse alternative](research/MISSOULA-PULSE-ALTERNATIVE.md) now has an executed constant-discharge water-budget check. Its transcribed volume/discharge imply about 1,157 days, compared with about 100 days in the source. This is a consistency issue to resolve, not a reproduced hydrograph or a refutation of every pulse interpretation.
 
 The [Moxee contact audit](research/MOXEE-FLOOD-COUNT.md) requires candidate models to explain sediment contacts and dike termination/crossing relationships. Unit count alone cannot set the number of hydrographs; a proposed deformation mechanism does not supply measured event duration.
+
+The [regional flood discrimination](research/FLOOD-DISCRIMINATION.md) separates repeated units, independently initiated floods and elapsed time. It adds conditional magnetic recording thresholds: common rigid rotation preserves pairwise separation, while differential recording must be constrained before converting magnetic change into years. No validated field-rate bound or sediment-recording transfer model has been supplied.
