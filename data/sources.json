@@ -2069,6 +2069,20 @@
       "downloaded_sha256": "974a66649f2ac8a53e6c99e256b019ac6982f999b12dcf7193162d4c1c09168e",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S129",
+      "title": "Innovation Canada: A Call to Action, Executive Summary",
+      "creator": "Review of Federal Support to Research and Development, Expert Panel; Industry Canada publication",
+      "publication_date": "2011",
+      "source_type": "Government-published expert panel report",
+      "url": "https://publications.gc.ca/collections/collection_2011/ic/Iu4-149-1-2011-eng.pdf",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Web-extracted PDF p.2 About the Cover and p.4 publication information.",
+      "limitations": "Primary evidence of published attribution, secondary for nineteenth-century events. Local download returned HTML; visual rendering not completed. No assignment instrument inspected.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

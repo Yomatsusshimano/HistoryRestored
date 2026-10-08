@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Public attribution versus transaction evidence
+
+Previous turn made progress: dfa652e published six verified files; clean checkout confirmed. Returned to C007 and searched for the original rights transfer. No transaction instrument recovered. Added S129 as evidence of institutional public attribution only, preserving secondary status for historical claims. Local download returned HTML and screenshot retrieval did not produce an inspected image; access remains text portion. No concealment mechanism, global prevalence or new institutional adoption claimed. Full goal remains active.
+
 ## 2026-10-08 - Within-tree systematic-error sensitivity
 
 Previous turn made progress: 953ace2 published seven verified files; clean checkout confirmed. Integrated illustrative shared Gaussian radiocarbon-age offsets analytically within each tree and repeated duration constraints. Short-event penalties weaken across the selected SD range, retained openly. Three analytic covariance tests pass; zero-offset case matches prior implementation within 1e-10 log-likelihood units. No empirical offset distribution, contamination correction, cross-tree covariance or rejection probability claimed. Full goal remains active.

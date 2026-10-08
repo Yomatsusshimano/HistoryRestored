@@ -18,6 +18,12 @@ Locators: Woodward PDF pages 1-3; Edison PDF pages 2-3. The table summarizes dis
 
 ## Credit and transmission
 
+### Public attribution is not uniformly Edison-only
+
+[S129, Innovation Canada (2011)](https://publications.gc.ca/collections/collection_2011/ic/Iu4-149-1-2011-eng.pdf), PDF p.2, names Woodward and Evans and presents lamp development as incremental. It also reports patent purchases, but supplies no inspected transfer instrument here. Page 4 cautions that attributed statements need not represent government policy. Only extracted text was inspected.
+
+This is primary evidence of what one government-published report communicated, not primary evidence of the nineteenth-century transaction. It counters a blanket claim that institutional accounts omit these predecessors. It neither measures how widely that credit is taught nor rules out oversimplification elsewhere. It is not adoption caused by this investigation. Original assignment records and technical-access evidence remain necessary to test transmission.
+
 Woodward's specification heading names him and lists assignment recipients Rupert Mearse Wells, Thomas Richard Fuller, Ernest Heimrod and Charles H. Woodward. That is evidence of the printed attribution and assignment notice, not a complete set of transfer instruments. It does not name Edison as recipient there. This absence cannot exclude a later transfer.
 
 No original Woodward-to-Edison transaction has been inspected. A purchase, if documented, would establish a rights transaction; determining technical dependence would still require dated access and development records. Neither an earlier patent nor a transaction alone demonstrates recovery of ancient technology.
