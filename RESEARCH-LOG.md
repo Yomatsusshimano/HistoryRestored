@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Kino volume imprint and Picolo report separated
+
+Previous turn made progress: b275060 published seven public-byte-verified files. Clean checkout rechecked. Rumsey search endpoint failed in the web tool and returned a verification page locally; no challenge bypass attempted. Indexed collection entries identified title-page and composite-text images; direct JP2 downloads succeeded. Visually checked title page, report opening/page 249, pages 262-267 and 286-287.
+
+Added S38 with source image hashes and selected transcriptions/provisional translations. The printed 1705 volume date is now checked; Picolo's report date is separately 1702. Seasonal deluge wording and the request for mission support remain in context. These portions do not provide a checked Kino route itinerary. Sixteen sourced drafts and thirty-eight sources; scientific and linguistic independent review remain absent.
+
 ## 2026-10-08 - Kino antecedent map checked
 
 Previous release 0928fb5 was public-byte verified; checkout was clean. Followed the comparison sheet's Kino attribution to Rumsey item 11561.004. The catalog image endpoint returned 404; the linked JP2 download succeeded and was rendered locally for visual inspection. Compared northern gulf topology, river junction and a terrain label with S15 panel IV. Added S37 and an antecedent check without counting it as another independent survey.

@@ -680,13 +680,39 @@
       "source_type": "engraved map and collection catalog",
       "access": "SCAN_INSPECTED",
       "inspected": "Full map image, title, northern gulf, rivers and terrain labels; catalog identification fields.",
-      "limitations": "Accompanying text and volume title page not inspected. Catalog Pub Note describes an unrelated 1884 Sohr-Berghaus atlas. Survey accuracy and exact transmission route not verified.",
+      "limitations": "Volume title page and selected Picolo report portions subsequently inspected as S38; Kino field itinerary and exact transmission route remain unverified. Catalog Pub Note describes an unrelated 1884 atlas.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "collection_id": "11561.004",
       "image_url": "https://www.davidrumsey.com/rumsey/download.pl?image=/171/11561004.jp2",
       "image_sha256": "139be9d51d66a0990b28dfcd483144299587c521ca90aac4e8ad95ff9a8c86c1"
+    },
+    {
+      "id": "S38",
+      "title": "Lettres edifiantes V. Recueil: title page and Picolo report",
+      "url": "https://www.davidrumsey.com/rumsey/download.pl?image=/171/11561003.jp2",
+      "creator": "François Marie Picolo (report); Nicolas le Clerc (publisher)",
+      "publication_date": "1705 (printed volume title page)",
+      "source_type": "printed translated mission report and volume title page",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Title page; report opening before p. 249 and p. 249; pp. 262-267 and 286-287. Selected portions only.",
+      "limitations": "Spanish source and translation fidelity not audited. No checked Kino field itinerary recovered in these portions. Source purpose includes seeking mission support. Catalog association does not authenticate binding history.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "images": [
+        {
+          "collection_id": "11561.002",
+          "url": "https://www.davidrumsey.com/rumsey/download.pl?image=/171/11561002.jp2",
+          "sha256": "efb62348ea2159dd698dc90e4ea38ec64fdf995b74cd92d6cb9f1c57186e956c"
+        },
+        {
+          "collection_id": "11561.003",
+          "url": "https://www.davidrumsey.com/rumsey/download.pl?image=/171/11561003.jp2",
+          "sha256": "22db5ad746a97eee9fea53106def58c52027f666adc4adb14edd0cd1c5d6bb46"
+        }
+      ]
     }
   ]
 }

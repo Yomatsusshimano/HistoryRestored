@@ -43,3 +43,7 @@ The [Rumsey Kino map, item 11561.004](https://www.davidrumsey.com/luna/servlet/d
 Both this image and comparison panel IV show land enclosing the northern gulf, a river junction north of its head, and the Sierra Azul / M. Bleue terrain label. These selected similarities support the panel's attribution. They do not establish the complete copying route, positional accuracy, or independent observation. No georeferenced residual analysis was performed.
 
 The catalog's publication note instead describes an 1884 Sohr-Berghaus atlas, inconsistent with the item's other identification fields. That description is excluded from the map's provenance pending correction or explanation. The next discriminator is the original exploration narrative and its observations, followed by independent terrain evidence along a specified proposed strait.
+
+## Subsequent volume and narrative check
+
+The [volume and Picolo report audit](KINO-TEXT.md) now verifies the printed 1705 title page and selected translated report passages. This supersedes the title-page access limit above. The report carries its own 1702 date and describes seasonal heavy rain; Kino field observations, Spanish original and translation fidelity remain pending.

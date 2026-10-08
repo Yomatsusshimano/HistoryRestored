@@ -59,7 +59,10 @@
         "Sierra Azul / M. Bleue terrain label"
       ],
       "inference": "Consistent with attribution; exact copying route and field accuracy unverified.",
-      "survey_narrative_inspected": false
+      "survey_narrative_inspected": false,
+      "volume_title_page_source_id": "S38",
+      "volume_printed_year_CE": 1705,
+      "publication_date_limit": "1705 volume imprint visually verified; binding history and first map issue remain unverified."
     }
   ]
 }
