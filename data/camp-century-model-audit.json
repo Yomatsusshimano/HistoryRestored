@@ -31,5 +31,10 @@
     "attempt_date": "2026-10-08",
     "result": "HTTP 403",
     "data_recovered": false
+  },
+  "component_check": {
+    "result": "analysis/camp-uncertainty-prefactor-result.json",
+    "type": "Deterministic central-input prefactor sensitivity",
+    "full_MATLAB_execution": false
   }
 }

@@ -164,3 +164,5 @@ Camp Century handling: segment-specific missing/thawed/inverted records preserve
 Camp Century supplement: S5/S9 checked; 1063-7 magnetic values absent, orientation unresolved. Reconcile C3/C4 and 1063-4 flags before interpreting magnetic polarity; no automatic inversion or redating.
 
 Camp Century model: author-linked cosmogenic code prescribes luminescence age; static uncertainty-variable concern recorded. Retrieve luminescence inputs and reproduce model before estimating scientific impact; publisher supplement access currently 403.
+
+Camp Century component check: central-input uncertainty-prefactor multiplier 2.5263; mean ratios unaffected by that isolated substitution. Full stochastic model and publication-output comparison pending.

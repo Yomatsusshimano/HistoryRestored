@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Camp Century central-input sensitivity
+
+Previous turn made progress: b276762 published seven verified files. Decoded pinned MAT arrays, preserving unknown assay identities, and quantified the uncertainty-prefactor effect on deterministic central inputs. Three analytic checks pass. No full MATLAB run, published-error correction or new age claimed. Full goal remains active.
+
 ## 2026-10-08 - Camp Century model dependency
 
 Previous turn made progress: 509f187 published seven verified files. Luminescence supplement access returned 403. Recovered and commit-pinned author-linked cosmogenic code; confirmed age is prescribed and flagged an uncertainty-variable concern through static inspection. No model execution or age correction claimed. Full goal remains active.

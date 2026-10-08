@@ -1,0 +1,25 @@
+{
+  "source_id": "S137",
+  "input_sha256": "8a58ad1ca6a7b983f52a9360699585c033b722b78369f2a7fcf44eca7bd2fc02",
+  "method": "Deterministic central arrays, inverse-square-root-error weights as in source; normalized weighted population spread. No Gaussian perturbations.",
+  "central_values": {
+    "up": {
+      "al_mean": 332527.44471792283,
+      "be_mean": 75438.5595136223,
+      "ratio_observed": 4.4079241022341735,
+      "ratio_burial_corrected": 5.415929115668319,
+      "relative_weighted_spread": 0.12945443914374777
+    },
+    "lo": {
+      "al_mean": 30978.580418342928,
+      "be_mean": 17754.946331820935,
+      "ratio_observed": 1.7447859227162072,
+      "ratio_burial_corrected": 2.143783935539483,
+      "relative_weighted_spread": 0.18168319085680235
+    }
+  },
+  "legacy_prefactor_spread": 0.9839832831888798,
+  "lower_ratio_prefactor_spread": 0.3894895059163668,
+  "multiplicative_effect": 2.526340936641733,
+  "limits": "Neither spread is a new total scientific uncertainty. This is not the mean Monte Carlo output, a corrected published error bar, or a rerun of the full MATLAB script. No raw assay identities or calibration verified. Mean ratios unchanged by substituting only the uncertainty prefactor."
+}

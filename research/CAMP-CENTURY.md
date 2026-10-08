@@ -64,3 +64,13 @@ The [author-linked script](https://github.com/drewchrist-geo/Camp_Century_comple
 Static inspection found that line 240 constructs lower-sediment uncertainty `ratl_0unc` using upper-sediment ratio `rat_0`, rather than the corresponding lower ratio `ratl_0`. The result feeds an uncertainty summary and compiled array. Its effect on the paper's reported values and figures has not been quantified; the script's other covariance calculations must not automatically be declared affected. No source code or scientific result has been corrected here.
 
 The script uses 100 simulations and contains no explicit random-seed assignment. Exact execution and sensitivity to simulation count, weighting and constants remain pending. The publisher returned HTTP 403 for the attempted luminescence supplement, leaving dose-rate, fading and residual-dose reproduction unresolved. This code audit narrows evidence dependence; it does not redetermine either sediment or plant ages.
+
+## Quantified uncertainty-prefactor sensitivity
+
+The pinned repository's `cc_nuclides.mat` was decoded into [eight numeric arrays](../data/camp-century-nuclide-inputs.json), with its hash preserved. These contain six upper and three lower concentration/error entries; laboratory identifiers are absent, so row positions are not invented assay identities.
+
+The [component calculation](../analysis/camp_uncertainty_prefactor.py) uses the code's inverse-square-root-error weights on the central input values, without random perturbations. Weighted upper and lower Al/Be ratios are approximately 4.4079 and 1.7448. Applying the source's common burial correction gives 5.4159 and 2.1438. The ratio between the two, **2.5263**, is the multiplier introduced in this central-input calculation by the upper-ratio prefactor in the lower-ratio uncertainty expression. The common burial factor cancels in this comparison.
+
+With normalized weighted within-array spreads, the expression gives approximately 0.9840 using the upper ratio and 0.3895 using the corresponding lower ratio. These are illustrative component spreads, **not replacement published uncertainties**. Monte Carlo perturbations, covariance, measurement calibration and other code paths have not been reproduced. Substituting only this uncertainty prefactor leaves the mean ratio unchanged. Neither value changes the imposed luminescence age or independently dates deposition.
+
+Three analytic checks verify equal weights, the inverse-square-root weighting rule and zero spread for identical observations. They test the implementation, not the physical model. Full execution and comparison with the published outputs remain necessary before assigning a scientific effect to the source-code concern.
