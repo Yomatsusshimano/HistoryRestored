@@ -136,3 +136,5 @@ Jerome Latin comparison: shared eclipse/death wording, fuller location/burial de
 Grand Coulee update: paired-terrain study and author README inspected; advertised ZIP downloaded and listed, contains ancillary nested archives; locate full model files before reproduction. See [terrain audit](research/GRAND-COULEE-MODEL.md).
 
 Grand Coulee access resolved: full model designated in authenticated Globus folder; public bundle has two files. Nested ancillary inventory and NAD27 projection text checked. Full model execution and ancillary value/geometry analysis remain pending.
+
+Grand Coulee column audit: 50 paired observations numerically summarized; raw and summary unit labels conflict. The described 153-observation summit sheet is absent from the public ancillary workbook. Resolve against full dataset before torque-model reproduction.

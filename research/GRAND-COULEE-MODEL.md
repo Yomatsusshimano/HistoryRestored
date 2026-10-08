@@ -12,6 +12,14 @@ The [dataset README, S126](https://scholarworks.umass.edu/bitstreams/a06e913f-19
 
 The [ZIP bitstream](https://scholarworks.umass.edu/bitstreams/e0eb9412-d19e-4ba6-9be5-e6ad46eeb90a/download) downloaded successfully (284,322 bytes). Its directory lists nested column-count and area-error archives plus macOS metadata, not a complete hydraulic package. The [acquisition record](../data/grand-coulee-acquisition.json) preserves its hash and listing; nested contents remain uninspected. The README specifies ANUGA 2.0, Python 2.7.10, ArcMap 10.4.1 and MATLAB R2019b. These environments were not installed or tested. Locate the remaining model files and inspect scripts before execution. The README hash is retained in S126; source files are not republished here.
 
+## Column measurements: partial recovery and unit conflict
+
+Read-only inspection of the acquired GC_dimensions.xls finds one sheet, Columns_loc3, with 50 numeric width/height pairs in A2:B51. Recomputed raw medians are 0.905 and 1.62, matching cached D2/E2. A1/B1 label measurements in centimetres, while D1/E1 label medians in metres. **Accepted units remain unresolved**; no conversion was applied. [Audit script](../analysis/grand_coulee_column_audit.py) and [results with source hash](../analysis/grand-coulee-column-audit-result.json).
+
+The README's section C describes another sheet, Columns_loc1_2, containing 153 summit observations; it is absent from this downloaded workbook. That does not establish its absence from the full Globus dataset. [S125, section 4](https://doi.org/10.1029/2021JF006135) reports base and summit median widths of 0.91 m and 0.68 m. The base value is consistent with the raw median interpreted as metres and rounded, supporting—but not conclusively establishing—a header error. We cannot reproduce the summit median from this file.
+
+The paper infers cohesion bounds from intact columns and assumed geometry, rather than directly measuring failure strength. Recover the complete measurement file and model script to resolve units and trace how the observations enter the torque calculation. This audit verifies a numerical summary, not erosion thresholds, flood discharge, or the catastrophe hypothesis.
+
 ## Repository and nested archive follow-up
 
 The [current repository API, S127](https://scholarworks.umass.edu/server/api/core/items/f7ace593-37f4-4f14-ac2b-818abd0976dc) explicitly directs the full dataset to [Grand_Coulee_Repository on Globus](https://app.globus.org/file-manager?origin_id=b9120884-93ae-4a90-9f91-1556b01569e7&origin_path=%2FGrand_Coulee_Repository%2F), with sign-in required. The complete ORIGINAL bundle listing has two entries: README.txt and area_error_column_counts.zip. This does not indicate missing research data; it identifies separate storage. [Access record](../data/grand-coulee-repository-access.json). No authenticated listing was attempted.

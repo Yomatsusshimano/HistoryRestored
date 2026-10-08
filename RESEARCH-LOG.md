@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Column measurement units and coverage
+
+Previous turn made progress: e491440 published seven verified files. Clean checkout confirmed. Inspected pinned XLS using xlrd 2.0.2 installed only in scratch dependencies. Recomputed both medians from 50 numeric pairs and matched cached summaries. Documented conflicting cm/m labels and absent summit sheet without inventing corrections or missing values. Compared article section 4; no force balance or hydraulic model executed. Full goal remains active.
+
 ## 2026-10-08 - Grand Coulee storage and coordinate provenance
 
 Previous turn made progress: 0bf35c7 published seven verified files; clean checkout confirmed. Retrieved complete public bundle inventory and item metadata. Full model is explicitly located on Globus, not absent from the archive. Inspected nested ZIP paths and eight projection files without executing source code. Preserved hashes and NAD27 / UTM zone 11N declaration; no coordinate transformation or geometry validation claimed. Workbook values and authenticated model access remain pending. Full goal remains active.

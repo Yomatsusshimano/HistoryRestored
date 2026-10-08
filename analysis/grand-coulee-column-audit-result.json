@@ -1,0 +1,37 @@
+{
+  "source_id": "S126",
+  "workbook_sha256": "9f91537470db7bc235f488729bb1278dcf7bf1c5de738b022939babe930f83d1",
+  "reader_version": "2.0.2",
+  "sheet_names": [
+    "Columns_loc3"
+  ],
+  "sheet": "Columns_loc3",
+  "raw_headers": [
+    "Width (cm)",
+    "Height (cm)"
+  ],
+  "summaries": {
+    "width": {
+      "count": 50,
+      "minimum_raw": 0.34,
+      "maximum_raw": 2.38,
+      "median_raw": 0.905,
+      "cached_summary_value": 0.905,
+      "cached_summary_header": "median w (m)",
+      "source_range": "A2:A51"
+    },
+    "height": {
+      "count": 50,
+      "minimum_raw": 0.25,
+      "maximum_raw": 7.9,
+      "median_raw": 1.62,
+      "cached_summary_value": 1.62,
+      "cached_summary_header": "median h (m)",
+      "source_range": "B2:B51"
+    }
+  },
+  "accepted_measurement_unit": null,
+  "unit_resolution": "Unresolved: raw headers say cm; cached median headers say m. No conversion applied.",
+  "summit_sheet_present": false,
+  "limits": "Cached summaries read, not formula recalculation. No measurement precision, representativeness, cohesion or erosion threshold validated."
+}
