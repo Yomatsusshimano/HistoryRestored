@@ -2733,6 +2733,21 @@
       "download_url": "https://ndownloader.figshare.com/files/22743938",
       "sha256": "35ad5758393d737a48b4ef6029d5b387310d1939f2e7fbfb3d33088b62ff94ff",
       "license": "CC BY-NC 4.0 per publisher Figshare metadata"
+    },
+    {
+      "id": "S168",
+      "title": "Pre-1980 tephra-fall deposits erupted from Mount St. Helens, Washington",
+      "creator": "Donal R. Mullineaux",
+      "publication_date": "1996",
+      "url": "https://pubs.usgs.gov/pp/1563/report.pdf",
+      "source_type": "original field research and synthesis",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp.8,34,36 (PDF pp.18,44,46) visually inspected, including Table 2 and Figures 24,26. Also read extracted age-method text p.9 and publisher HTML set S description/section S-1. DOI 10.3133/pp1563.",
+      "limitations": "Partial inspection of 109-page PDF. Original radiocarbon laboratory certificates, 1978 glass analyses and Little Boulder Lake core records not recovered. Report mixes original field observations with earlier assay results; repeated assays are not new measurements.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "sha256": "e96e14ee0717dc2bab52661293c469a84e3ab2cb1aa80ef626c38f43c469b5c3"
     }
   ]
 }

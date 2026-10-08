@@ -37,3 +37,5 @@ That last transfer is not a demonstrated lower bound: a time between two Sg erup
 Consequently, neither “all beds formed during one short event” nor “every bed is independently dated and separated by decades” follows from this audit. The directional changes remain evidence requiring explanation. The next discriminating work is to recover the reference curves with age models and the Little Boulder Lake core/assay context, then compare explicit recording and timing models. No new minimum duration is assigned here.
 
 Reproduce from the repository root: `python research/check_touchet_directions.py`. Output is a conditional geometrical calculation, not scientific validation.
+
+Follow-up: the [set S audit](SET-S-TEPHRA-AUDIT.md) adds volcano-side stratigraphy and contextual dates, while preserving a chemical-description discrepancy and the still-missing Little Boulder Lake original records.

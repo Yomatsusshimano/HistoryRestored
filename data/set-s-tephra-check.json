@@ -1,0 +1,84 @@
+{
+  "status": "SOURCED_DRAFT",
+  "source_id": "S167",
+  "locator": "Table DR2, PDF p.3; printed normalized weight-percent means",
+  "attribution": "Clague, Barendregt, Enkin and Foit (2003), doi:10.1130/2003023; CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/",
+  "groups": [
+    {
+      "group": "reference standards",
+      "So": {
+        "Fe2O3": 1.22,
+        "CaO": 1.44,
+        "K2O": 2.24
+      },
+      "Sg": {
+        "Fe2O3": 1.29,
+        "CaO": 1.59,
+        "K2O": 2.14
+      }
+    },
+    {
+      "group": "Zillah",
+      "So": {
+        "Fe2O3": 1.24,
+        "CaO": 1.52,
+        "K2O": 2.31
+      },
+      "Sg": {
+        "Fe2O3": 1.31,
+        "CaO": 1.58,
+        "K2O": 2.24
+      }
+    },
+    {
+      "group": "Burlingame",
+      "So": {
+        "Fe2O3": 1.26,
+        "CaO": 1.42,
+        "K2O": 2.33
+      },
+      "Sg": {
+        "Fe2O3": 1.33,
+        "CaO": 1.6,
+        "K2O": 2.29
+      }
+    }
+  ],
+  "comparison_source": {
+    "source_id": "S168",
+    "locator": "Printed pp.34,36",
+    "description": "Sg glass described as lower Ca and Fe relative to K than So."
+  },
+  "limitations": [
+    "Ratios of published oxide means, not means of individual-shard ratios.",
+    "No uncertainty propagation: paired shard covariance and raw compositions unavailable.",
+    "Consistent conversion from oxide to elemental units multiplies each ratio by a common positive factor, preserving the ordering.",
+    "No claim that source labels are reversed or that the two deposits are identical."
+  ],
+  "contextual_assays": [
+    {
+      "lab_id": "W-3133",
+      "age_14C_BP": 12120,
+      "printed_plus_minus": 100,
+      "material": "peat",
+      "association": "above upper set S"
+    },
+    {
+      "lab_id": "W-3141",
+      "age_14C_BP": 12910,
+      "printed_plus_minus": 160,
+      "material": "charcoal",
+      "association": "beneath part of set S"
+    },
+    {
+      "lab_id": "W-3136",
+      "age_14C_BP": 13650,
+      "printed_plus_minus": 120,
+      "material": "peat",
+      "association": "beneath upper set S"
+    }
+  ],
+  "assay_source_id": "S168",
+  "assay_locator": "Table 2, printed p.8; attributed there to Crandell et al.1981",
+  "assay_limits": "Uncalibrated reported laboratory ages, not direct dates of So/Sg eruptions; original certificates and preparation uninspected. W-3141 repeats an assay already cited elsewhere in the inventory."
+}
