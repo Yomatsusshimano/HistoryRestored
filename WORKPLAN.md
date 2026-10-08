@@ -98,3 +98,5 @@ Coyote taphonomy: original 2013 gnaw-mark abstract and 2014 burial interpretatio
 Coyote XRF citation traced to S103 (printed p.74, versus p.73 in S101). Major-unit chemistry is preliminary; event classification and lateral validation were prospective. Recover raw profiles and initial/revised contacts; underlying 15 cm measurement remains unverified.
 
 Campo Laborde C022 added as a same-specimen redating comparator, with seven Table 1 fractions retained. Inspect S3-S4 quality controls next. No Haitian endpoint remeasurement recovered or correction transferred.
+
+Campo supplement recovered: six controls retained with typed reference uncertainties/bounds; carbon masses and batch mapping absent. Resolve AA-71665 gelatin/ABA labels and laboratory background model before claiming small-sample validation.

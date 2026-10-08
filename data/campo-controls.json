@@ -1,0 +1,77 @@
+{
+  "case_id": "C022",
+  "source_id": "S105",
+  "locator": "Table S4, PDF p.16",
+  "access": "SCAN_INSPECTED",
+  "fraction": "XAD-2 purified hydrolyzate of gelatin from KOH-extracted collagen",
+  "controls": [
+    {
+      "material": "TIRI Whalebone",
+      "lab_id": "CAMS-171442",
+      "radiocarbon_BP": 12695,
+      "one_SD_BP": 40,
+      "reference_type": "estimate",
+      "reference_BP": 12788,
+      "reference_SD_BP": 30,
+      "carbon_mass_micrograms": null,
+      "matched_sample_batch": null
+    },
+    {
+      "material": "TIRI Whalebone",
+      "lab_id": "CAMS-172433",
+      "radiocarbon_BP": 12795,
+      "one_SD_BP": 35,
+      "reference_type": "estimate",
+      "reference_BP": 12788,
+      "reference_SD_BP": 30,
+      "carbon_mass_micrograms": null,
+      "matched_sample_batch": null
+    },
+    {
+      "material": "EL 10-145 Bone",
+      "lab_id": "CAMS-171445",
+      "radiocarbon_BP": 53180,
+      "one_SD_BP": 300,
+      "reference_type": "lower_bound",
+      "reference_BP": 50000,
+      "reference_SD_BP": null,
+      "carbon_mass_micrograms": null,
+      "matched_sample_batch": null
+    },
+    {
+      "material": "EL 10-145 Bone",
+      "lab_id": "CAMS-172434",
+      "radiocarbon_BP": 49450,
+      "one_SD_BP": 200,
+      "reference_type": "lower_bound",
+      "reference_BP": 50000,
+      "reference_SD_BP": null,
+      "carbon_mass_micrograms": null,
+      "matched_sample_batch": null
+    },
+    {
+      "material": "ACT III Bone",
+      "lab_id": "CAMS-171443",
+      "radiocarbon_BP": 8305,
+      "one_SD_BP": 35,
+      "reference_type": "approximate",
+      "reference_BP": 8350,
+      "reference_SD_BP": null,
+      "carbon_mass_micrograms": null,
+      "matched_sample_batch": null
+    },
+    {
+      "material": "ACT III Bone",
+      "lab_id": "CAMS-172435",
+      "radiocarbon_BP": 8300,
+      "one_SD_BP": 35,
+      "reference_type": "approximate",
+      "reference_BP": 8350,
+      "reference_SD_BP": null,
+      "carbon_mass_micrograms": null,
+      "matched_sample_batch": null
+    }
+  ],
+  "reference_provenance": "TIRI: reference 48 Table 6.1b p.328; EL and ACT: internal LLNL standards via 2018 personal communications, not inspected here.",
+  "limits": "Bounds and approximate values are not exact reference ages. No control-specific carbon mass or sample batch mapping supplied."
+}

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Campo Laborde control audit
+
+Previous turn made progress: a3b823c published eight publicly byte-verified files; clean checkout confirmed. Publisher supplement returned 403; public Europe PMC supplementary-files request completed successfully after a slow live wait. Extracted only the named PDF, rendered pp.15-16 and visually inspected S3-S4. CONICET mirror also retrieved a combined article/supplement file; no independence claimed. Added six typed control records, preserving lower-bound and approximate references; identified absent carbon masses/batch mapping and AA-71665 fraction-label mismatch. No laboratory-validation claim or Haitian correction made. Full goal remains active.
+
 ## 2026-10-08 - Sloth preparation audit and redating comparator
 
 Previous turn made progress: 589c828 published seven publicly byte-verified files; clean checkout confirmed. Reviewed existing Haitian quality audit before searching endpoint IDs and preparation/redating terms. No endpoint remeasurement recovered; 2005 PMC browser verification and Europe PMC HTTP 500 left original controls unresolved. Followed a distinct primary Campo Laborde redating lead through public Europe PMC XML. Added S104/C022, seven Table 1 fraction records and a report separating same-bone redating from event dating. Recorded selected-assay rationale without endorsing it; original certificates, supplement and independent reproduction remain open. No Haitian dates altered. Full goal remains active.

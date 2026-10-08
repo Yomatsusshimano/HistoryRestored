@@ -13,7 +13,9 @@
       "carbon_dated_micrograms": 22,
       "fraction_modern_as_printed": "0.298 ± 0.011",
       "radiocarbon_age_1SD_BP_as_printed": "9730 ± 290",
-      "calibrated_95_4_percent_BP_as_printed": "10,250–11,982"
+      "calibrated_95_4_percent_BP_as_printed": "10,250–11,982",
+      "supplement_fraction_label": "ABA Treated Bone",
+      "label_discrepancy": "Main Table 1 says Gelatin; supplement S3 says ABA Treated Bone. Original preparation record not recovered."
     },
     {
       "lab_id": "CAMS-171861",

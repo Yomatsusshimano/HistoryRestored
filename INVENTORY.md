@@ -718,10 +718,11 @@ Place: Campo Laborde, Argentine Pampas. Status: SOURCED_DRAFT.
 **Sourced statements**
 
 - One previously dated metacarpal was reprocessed; purified amino-acid fractions produced older ages than the original gelatin result, while separated fulvic acids contained more modern carbon. [S104](https://doi.org/10.1126/sciadv.aau4546). Locator: Table 1 and chronology/methods sections. Access: FULL_TEXT_PORTION. Limit: XML text/table only; no table facsimile, supplement S3-S4, raw AMS certificates or independent laboratory replication inspected.
+- Six control results are reported without mass/batch mapping; original assay fraction label differs between supplement and main table. [S105](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6402857/supplementaryFiles). Locator: Tables S3-S4, PDF pp.15-16. Access: SCAN_INSPECTED. Limit: Six control results without carbon masses or batch mapping; original certificates and consensus-source records uninspected. Same study as S104, not independent replication.
 
 **Physical evidence:** Published assays of identified bone FCS.CLA.154 and separated chemical fractions; no specimen examination.
 
-**Surviving documents:** 2019 article XML including Table 1; original laboratory records and supplement not inspected.
+**Surviving documents:** 2019 article XML and visually inspected supplementary tables S3-S4; original laboratory records uninspected.
 
 **Source interpretation:** Humate contamination made earlier dates too young; revised chronology supports a Late Pleistocene archaeological event.
 
@@ -729,7 +730,7 @@ Place: Campo Laborde, Argentine Pampas. Status: SOURCED_DRAFT.
 
 **Counterevidence:** Reported fractions distinguish a documented contamination mechanism from assuming any inconvenient fossil age is wrong. The corrected result remains specimen-specific.
 
-**Next test:** Inspect supplement S3-S4, background and known-age controls, and original assay records; independently evaluate archaeological association separately from dating.
+**Next test:** Recover control carbon masses, background corrections, batch mapping and original AA-71665 preparation record; inspect archaeological association separately.
 
 **Dependence:** Replicate fractions share one bone and burial history. Historical age is restated by the 2019 article, not independently recovered from the 2007 assay report.
 
@@ -737,4 +738,4 @@ Place: Campo Laborde, Argentine Pampas. Status: SOURCED_DRAFT.
 
 **Chronology:** {"reported": "Original 9730 +/- 290 BP; selected redetermination 10655 +/- 35 BP; calendar ranges retained separately in data/campo-laborde-assays.json", "dated_object": "Chemical fractions from FCS.CLA.154", "method": "AMS radiocarbon, gelatin versus XAD-purified hydrolyzate and separated fulvic acids", "raw_date": null, "uncertainty": null, "timescale": "Radiocarbon BP and published calibrated BP kept separate", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Supplementary quality-control tables; Original laboratory certificates; Independent processing replication; Independent archaeological/taphonomic association review
+**Missing:** Mass-dependent background model and control-to-sample batch mapping; Original laboratory certificates; Independent processing replication; Independent archaeological/taphonomic association review
