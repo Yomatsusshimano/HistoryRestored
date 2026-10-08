@@ -1,0 +1,33 @@
+{
+  "source_id": "S42",
+  "case_id": "C017",
+  "locator": "Sections 3.4-3.5, printed pp. 10-11",
+  "status": "SOURCED_DRAFT",
+  "reviewers": [],
+  "compiled_dates": 423,
+  "common_exclusions": [
+    {"count": 127, "reason": "Modern/root/fill/uncertain context, missing isotope correction or reporting irregularity; aggregate count only"},
+    {"count": 12, "reason": "Below local unconformity; lake association not independently correlated"},
+    {"count": 120, "reason": "Authors identify stratigraphically reversed ages relative to at least two dates from underlying lakes"}
+  ],
+  "dates_with_good_stratigraphic_control_before_age_order_filter": 284,
+  "common_model_candidate_dates": 164,
+  "model_1": {
+    "candidate_dates": 164,
+    "null_distribution_exclusion": {"count": 1, "sample_id": "Sb3m2A-c", "root_identity": "Authors speculate; not confirmed"},
+    "poor_agreement_exclusions": 12,
+    "final_dates": 151
+  },
+  "model_2": {
+    "candidate_dates": 164,
+    "prior_exclusions": {"count": 10, "composition": "Six oldest Lake F dates, two dates before Lake C, two before Lake E"},
+    "null_distribution_exclusion": {"count": 1, "sample_id": "Sb3m2A-c"},
+    "poor_agreement_exclusions": 4,
+    "final_dates": 149
+  },
+  "dependence": "Both models share dates and growth-during-dry-period assumptions; agreement is not independent replication.",
+  "supplement_retrieved": false,
+  "oxcal_executed_by_this_investigation": false,
+  "sample_membership_independently_audited": false,
+  "limits": "Counts transcribed from main-text methods; no complete sample ledger or model code inspected. Exclusion fractions do not measure universal radiocarbon failure."
+}

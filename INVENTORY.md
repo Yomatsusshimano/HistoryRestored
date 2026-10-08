@@ -511,6 +511,7 @@ Place: Salton Trough; published sections near Indio, California. Status: SOURCED
 - Latest-lake dating incorporates historical constraints involving Kino and Anza; it is not wholly independent of those records. [S42](https://dr.ntu.edu.sg/server/api/core/bitstreams/27c09858-8214-416b-8807-1c7c1321a8b1/content). Locator: Section 2.2. Access: FULL_TEXT_PORTION. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
 - Fourteen shell/charcoal dates are tabulated; author flags shell UCR-993 and discusses inherited carbon and pretreatment. [S41](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=8973). Locator: Table 1 and pp. 379-380. Access: SCAN_INSPECTED. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
 - Shell and fish-bone dates are excluded from age models because reservoir corrections are poorly constrained. [S42](https://dr.ntu.edu.sg/server/api/core/bitstreams/27c09858-8214-416b-8807-1c7c1321a8b1/content). Locator: Section 3.2, p. 9. Access: FULL_TEXT_PORTION. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
+- Published screening counts reconcile to 151 and 149 model dates; model assumptions and sparse sampling affect exclusions. Supplementary membership and code remain unreviewed. [S42](https://dr.ntu.edu.sg/server/api/core/bitstreams/27c09858-8214-416b-8807-1c7c1321a8b1/content). Locator: Sections 3.4-3.5. Access: FULL_TEXT_PORTION. Limit: Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.
 
 **Physical evidence:** Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.
 
@@ -522,7 +523,7 @@ Place: Salton Trough; published sections near Indio, California. Status: SOURCED
 
 **Counterevidence:** Reported freshwater assemblages and alternating depositional environments challenge treating every aquatic deposit as one marine event; no defined strait/date hypothesis tested yet.
 
-**Next test:** Audit original assays, shell reservoir offsets and terrestrial-sample selection; distinguish coeval samples from same-interval material before recalibration or age-model reproduction.
+**Next test:** Retrieve supplementary sample-context ledger and OxCal code, audit exclusion membership, and test sensitivity to growth-period assumptions and historical constraints.
 
 **Dependence:** 2022 synthesis incorporates earlier studies and historical accounts; its preferred ages cannot independently validate all inputs.
 

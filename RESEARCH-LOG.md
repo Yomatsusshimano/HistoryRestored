@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Cahuilla model screening reconciled
+
+Previous turn made progress: a15e25a published seven public-byte-verified files. Clean checkout rechecked. Read S42 sections 3.4-3.5. Traced NTU public repository API from main-paper bitstream to ORIGINAL bundle and item 10356/155815; only the main paper is listed in that bundle. Publisher page returned 403 and a candidate supplementary ZIP returned not found. No access challenge bypassed, no supplement inspected.
+
+Recorded common screening and two alternative model paths. Count arithmetic reaches 151/149; root attribution for Sb3m2A-c remains the authors' speculation. Distinguished denominator 284 from 423 and model agreement from measurement validity. No OxCal execution, sample-membership audit or independent review. Seventeen cases and forty-two sources remain.
+
 ## 2026-10-08 - Cahuilla original date ledger and reservoir limits
 
 Previous turn made progress: 1733a24 published seven public-byte-verified files. Clean checkout rechecked. Visually inspected Waters pp. 379-381 and Table 1; read Rockwell et al. section 3.2 sample exclusions. Transcribed all fourteen original determinations with uncorrected and fractionation-corrected values, isotope values and historical calendar entries. Unknown confidence levels and reservoir offsets remain null.

@@ -770,12 +770,13 @@
       "doi": "10.1016/j.quascirev.2022.107456",
       "source_type": "original lacustrine stratigraphy/chronology study",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "Abstract, section 2.2, opening of methods, section 3.2 sample-exclusion paragraph and section 5.4 as extracted text.",
+      "inspected": "Abstract, section 2.2, opening of methods, section 3.2 sample-exclusion paragraph and section 5.4 as extracted text. Sections 3.4-3.5 model-selection text subsequently inspected; aggregate counts reconciled.",
       "limitations": "Selected portions only. Specimen-level dates, calibration, reservoir effects and full model selection not audited; no independent field verification.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
-      "pdf_sha256": "1d3aec5fa425a0c77f172081e088b5fc764494ed4aaaa7d6f0d09dd4e7de9f0a"
+      "pdf_sha256": "1d3aec5fa425a0c77f172081e088b5fc764494ed4aaaa7d6f0d09dd4e7de9f0a",
+      "repository_item_url": "https://hdl.handle.net/10356/155815"
     }
   ]
 }

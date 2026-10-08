@@ -33,3 +33,17 @@ Waters describes acid leaching of shell surfaces but retains concern about old c
 The subsequent S42 section 3.2 check finds that shell and fish-bone dates were excluded because reservoir corrections were poorly constrained. This changes how the two studies can be compared. Isotope fractionation normalization and reservoir correction address different effects; recording the former does not supply the latter.
 
 Correction to our earlier next-step wording: paired *Anodonta* refers to paired valves, not a demonstrated one-to-one shell/charcoal pairing. Establish sample association and old-wood history before using such a comparison as a correction or pooling ages. No recalibration or age-model reproduction was performed.
+
+## Model selection and reproducibility boundary
+
+S42 sections 3.4-3.5 now supply a [selection ledger](../data/cahuilla-model-selection.json). The published arithmetic reconciles:
+
+- Shared screening: `423 - 127 - 12 - 120 = 164` candidates.
+- Model 1: `164 - 1 - 12 = 151` retained dates.
+- Model 2: `164 - 10 - 1 - 4 = 149` retained dates.
+
+The one common model-failure sample is Sb3m2A-c; the authors suggest a root, rather than demonstrate that identification. Model 2 tests a concern that sparse sampling of Lake G could bias exclusions toward its dates. Both models assume most sampled plants grew during dry periods. Poor model agreement is therefore a model-dependent screening result, not automatic proof that a laboratory measurement is wrong.
+
+The reported age-order exclusions are 120 of 284 stratigraphically controlled dates (about 42.3%), or 120 of all 423 compiled dates (about 28.4%). The denominator matters. Neither figure estimates failure of radiocarbon dating in general; inherited material may correctly date growth that precedes deposition.
+
+The [NTU repository](https://hdl.handle.net/10356/155815) lists one file in its ORIGINAL bundle, the main paper. Publisher-page access returned 403; a candidate supplementary ZIP endpoint returned not found. The complete supplement and OxCal code remain unretrieved. Arithmetic reconciliation does not reproduce the age model or justify its sample exclusions. The next step is the original supplementary membership/context ledger and model code, followed by sensitivity to growth assumptions and historical constraints.
