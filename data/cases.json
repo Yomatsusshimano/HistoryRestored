@@ -1514,6 +1514,11 @@
           "source_id": "S122",
           "locator": "PDF p.37 / printed cols.65-66",
           "statement": "Printed eclipse/death entry is labeled A.C.15; Bivar commentary explicitly cites Eusebius for the pairing. No duration, observing location or totality qualifier appears in the entry."
+        },
+        {
+          "source_id": "S122",
+          "locator": "PDF p.9, editorial footnote a; title pages pp.5,7",
+          "statement": "The 1846 edition explicitly reports the chronicle as spurious and attributed by bibliographers to a sixteenth-century Jesuit; the individual eclipse sentence is not authenticated by inclusion in this edition."
         }
       ],
       "physical_evidence": "Published ice-isotope plots inspected; no core, raw assay series or annual layers independently examined.",

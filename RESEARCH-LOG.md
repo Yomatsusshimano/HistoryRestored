@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Migne authenticity warning verified
+
+Previous turn made progress: 27ce539 published seven verified files; clean checkout confirmed. Rendered PL31 front matter and inspected title pages and opening editorial footnote. Recorded 1846 edition date and explicit spurious-work warning in S122 and audit ledger. Distinguished unnamed Jesuit attribution in footnote from Higuera identification in S121, and work-level warning from sentence authorship. The edition preserves the warning openly; no inference of researcher intent or catastrophe-driven rewriting. Full goal remains active.
+
 ## 2026-10-08 - Exact Dexter passage recovered
 
 Previous turn made progress: 90609f0 published seven verified files; clean checkout rechecked. DCO access timed out and Corpus Corporum link failed. Recovered 669-page PL31 scan through Internet Archive, hash recorded; rendered selected pages and located cols.65-66 on PDF p.37 despite out-of-order scanning. Confirmed A.C.15 label and Bivar Eusebius cross-reference. Updated exact-passage access in ledger without treating print as ancient authentication. No independent witness, global year shift or volcanic interpretation established. Full goal remains active.

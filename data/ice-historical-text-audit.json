@@ -26,7 +26,7 @@
       "matched_to_author_ice_event": null,
       "computational_missingness": "Four local sensitivity variants leave this entry unresolved because their complete-window sulfur input is missing. This is separate from textual ambiguity.",
       "next_checks": [
-        "Inspect Migne title page and authenticity apparatus; compare earlier chronicle editions and Eusebius Latin wording.",
+        "Compare earlier chronicle editions and Eusebius Latin wording; trace passage-level borrowing and year normalization.",
         "Collate Latin/Armenian entry and Greek Dio wording",
         "Trace passage-specific source dependencies",
         "Inspect Schove 1984 proposed 17 CE redating before accepting it"
@@ -74,7 +74,16 @@
           "dating_limit": "Printed 15 differs from S108 normalized 14 CE; calendar convention and normalization chain not reconstructed.",
           "authenticity_limit": "Exact sentence now inspected in print; original composition and passage-level borrowing remain unproven."
         }
-      ]
+      ],
+      "editorial_authenticity_notice": {
+        "source": "S122",
+        "locator": "PDF p.9, opening dedication, footnote a signed EDIT.; title pages PDF pp.5,7",
+        "edition_year": 1846,
+        "latin_key_phrase": "spuriis una voce arguant nostrae aetatis bibliographi",
+        "working_paraphrase": "The editor reports that contemporary bibliographers unanimously regard the chronicle published by Bivar under Dexter name as spurious, attributing it to a certain sixteenth-century Jesuit.",
+        "attribution_limit": "Footnote does not name Higuera; that identification comes from S121. No authorship finding for the individual eclipse sentence.",
+        "evidential_role": "Direct evidence that the printed edition warned readers about authenticity, not independent proof of all details of the forgery mechanism."
+      }
     }
   ]
 }
