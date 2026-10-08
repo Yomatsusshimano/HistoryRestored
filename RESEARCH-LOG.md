@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-10-08 - Tanabe height scenarios and land-level dependence
+
+Previous turn made progress: 7e8b550 published seven public-byte-verified files. Clean checkout rechecked. Visually inspected S44 pp. 88, 90-91; read adjacent storehouse discussion and tide-method text. Transcribed six alternative scenario component sets. Arithmetic reproduces five printed totals; Tanabe B sums to 2.6 m while printing 3 m, compatible with whole-metre rounding without an explicit rounding statement.
+
+Separated oral-tradition site identification, assumed foundations/freeboard, 1960 inland-decline analogy, tide-stage adjustment and one-metre net-subsidence assumption. Historical land motion combines measured, estimated and extrapolated inputs; no raw geodetic or tide-model reproduction. Heights are not six independent measured 1700 watermarks. Seventeen cases and forty-four sources; independent review absent.
+
 ## 2026-10-08 - Tanabe arrival ambiguity and causal ordering
 
 Previous turn made progress: 7b56628 published seven public-byte-verified documentary-audit files. Clean checkout rechecked. Visually inspected S44 printed pp. 84 and 86-87, including the Tanabe entry, supplied translation, notes and volume context. First word inherits year/month from a preceding entry not yet inspected. The phenomenon word does not itself identify a tsunami cause. Parallel Mandaiki is not automatically an independent witness; report describes later copying.

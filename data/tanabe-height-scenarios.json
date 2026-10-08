@@ -1,0 +1,101 @@
+{
+  "case_id": "C004",
+  "source_id": "S44",
+  "status": "SOURCED_DRAFT",
+  "reviewers": [],
+  "quantity": "Reconstructed tsunami height above ambient tide; conditional scenarios, not six measured watermarks or a probability distribution",
+  "scenarios": [
+    {
+      "id": "Shinjo-A",
+      "locator": "p. 88",
+      "additive_components_m": {
+        "flow_depth": 0.3,
+        "freeboard": 0.5,
+        "tide_zone": 1.0,
+        "tide_stage_adjustment": 0.3
+      },
+      "component_sum_m": 2.1,
+      "printed_total_m": 2.1,
+      "limitations": "Assumed minimal foundation and storehouse siting above highest tides."
+    },
+    {
+      "id": "Shinjo-B",
+      "locator": "p. 88",
+      "additive_components_m": {
+        "inland_decline": 1.2,
+        "flow_depth": 0.5,
+        "freeboard": 1.0,
+        "tide_zone": 1.0,
+        "tide_stage_adjustment": 0.3
+      },
+      "component_sum_m": 4.0,
+      "printed_total_m": 4.0,
+      "limitations": "Low-ground inland storehouse assumed; inland decline transferred from 1960 analogue."
+    },
+    {
+      "id": "Shinjo-C",
+      "locator": "p. 88",
+      "additive_components_m": {
+        "modern_ground_TP": 4.1,
+        "net_subsidence": 1.0,
+        "tide_stage_adjustment": 0.3
+      },
+      "component_sum_m": 5.4,
+      "printed_total_m": 5.4,
+      "limitations": "Oral-tradition site not securely identified as the building flooded in 1700; TP treated near mean sea level."
+    },
+    {
+      "id": "Tanabe-A",
+      "locator": "p. 90",
+      "additive_components_m": {
+        "flow_depth": 0.3,
+        "tide_zone": 1.0,
+        "tide_stage_adjustment": 0.3
+      },
+      "component_sum_m": 1.6,
+      "printed_total_m": 1.6,
+      "limitations": "Assumed grain-damage depth and field elevation."
+    },
+    {
+      "id": "Tanabe-B",
+      "locator": "p. 90",
+      "additive_components_m": {
+        "flow_depth": 0.8,
+        "freeboard": 0.5,
+        "tide_zone": 1.0,
+        "tide_stage_adjustment": 0.3
+      },
+      "component_sum_m": 2.6,
+      "printed_total_m": 3.0,
+      "limitations": "Printed 3 m versus component sum 2.6 m; compatible with whole-metre rounding, but rounding explanation not explicit."
+    },
+    {
+      "id": "Tanabe-C",
+      "locator": "p. 90",
+      "additive_components_m": {
+        "modern_ground_TP": 2.0,
+        "net_subsidence": 1.0,
+        "tide_stage_adjustment": 0.3
+      },
+      "component_sum_m": 3.3,
+      "printed_total_m": 3.3,
+      "limitations": "Speculative near-rim flooding in moat; reaching Horidobashi does not measure crest height at rim."
+    }
+  ],
+  "shared_tide_assumption": "Ambient tide 0.3 m below 1700 mean sea level, hence add +0.3 m. Timing inherited from documentary interpretation; tide prediction not rerun.",
+  "land_level_context": {
+    "locator": "p. 91",
+    "net_subsidence_assumed_m": 1.0,
+    "interseismic_uplift_mm_per_year": 0.8,
+    "rate_basis_reported": "Shirahama tide-gauge estimate 1967-1995, extrapolated to earlier intervals",
+    "coseismic_context": "About 0.4 m measured in 1946, estimated for 1854; 1707 subsidence reported but amount unknown. Regional maximum map values must not be substituted for Tanabe values.",
+    "original_geodetic_data_inspected": false
+  },
+  "not_established": [
+    "Storehouse identity in 1700",
+    "Exact historic tide and datum relationship",
+    "Site-specific net movement since 1700",
+    "Historical coastal geometry and hydraulic reproduction",
+    "Independent scientific review"
+  ]
+}
