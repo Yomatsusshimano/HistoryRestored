@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Volcanic detection implementation sensitivity
+
+Previous turn made progress: 72ca7b2 published seven publicly byte-verified files. Clean checkout confirmed. Executed four declared retrospective detection variants on checksum-matched S109 annual data: local versus global-residual MAD, unscaled versus scaled. All retain missing inputs and require full 31-year windows. Within ±3 years the variants yield 12-20 matches, four unresolved entries each; no variant selected by closeness to the published count. Unscaled results permit 20-24 matches conditional on missing input, not a contradiction of 24. Published row-level sensitivity results and four passing synthetic/boundary tests. No statistical-significance or exact-paper reproduction claim. Full goal remains active.
+
 ## 2026-10-08 - Volcanic-event detection method traced
 
 Previous turn made progress: 70a128f published seven publicly byte-verified files. Clean checkout confirmed. Guide retry succeeded, yielding a file index rather than the event vector. Retrieved the referenced earlier methods article from NERC, rendered p.1154 and checked section 2.4. Added S112-S113 and a method ledger distinguishing detection threshold from deposition integration and unresolved implementation details. No algorithm tuned to historical match counts; no significance result reproduced. Full goal remains active.

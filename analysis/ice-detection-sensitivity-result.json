@@ -1,0 +1,1719 @@
+{
+  "status": "RETROSPECTIVE_SENSITIVITY_NOT_REPRODUCTION",
+  "source_id": "S109",
+  "sha256": "0d280cbb6149b07bd156db3d6659c7f49b7f5d95688f8d13c784c172d18b22e8",
+  "choices": {
+    "window": "31 consecutive calendar years centered on target; all values required",
+    "missing": "-9.999 and blank treated as unavailable; no interpolation",
+    "global_MAD_domain": "All full-window residuals in entire supplied series",
+    "scales": "Unscaled and normal-consistency factor 1.4826; neither claimed as author implementation",
+    "comparison_period": "258 BCE through 504 CE inclusive; no year zero"
+  },
+  "variants": [
+    {
+      "MAD_scope": "local_window",
+      "MAD_scale": 1.0,
+      "global_residual_MAD": null,
+      "period_counts": {
+        "years": 762,
+        "flagged": 71,
+        "unresolved": 139
+      },
+      "historical_matches": [
+        {
+          "margin": 1,
+          "counts": {
+            "MATCH": 13,
+            "NO_MATCH": 15,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 30,
+              "state": "MATCH"
+            },
+            {
+              "row": 31,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        },
+        {
+          "margin": 2,
+          "counts": {
+            "MATCH": 15,
+            "NO_MATCH": 13,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "MATCH"
+            },
+            {
+              "row": 30,
+              "state": "MATCH"
+            },
+            {
+              "row": 31,
+              "state": "MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        },
+        {
+          "margin": 3,
+          "counts": {
+            "MATCH": 20,
+            "NO_MATCH": 8,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "MATCH"
+            },
+            {
+              "row": 7,
+              "state": "MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "MATCH"
+            },
+            {
+              "row": 30,
+              "state": "MATCH"
+            },
+            {
+              "row": 31,
+              "state": "MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "MAD_scope": "local_window",
+      "MAD_scale": 1.4826,
+      "global_residual_MAD": null,
+      "period_counts": {
+        "years": 762,
+        "flagged": 38,
+        "unresolved": 139
+      },
+      "historical_matches": [
+        {
+          "margin": 1,
+          "counts": {
+            "MATCH": 10,
+            "NO_MATCH": 18,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 12,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 30,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 31,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        },
+        {
+          "margin": 2,
+          "counts": {
+            "MATCH": 11,
+            "NO_MATCH": 17,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 12,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "MATCH"
+            },
+            {
+              "row": 30,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 31,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        },
+        {
+          "margin": 3,
+          "counts": {
+            "MATCH": 12,
+            "NO_MATCH": 16,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 12,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "MATCH"
+            },
+            {
+              "row": 30,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 31,
+              "state": "MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "MAD_scope": "global_residual",
+      "MAD_scale": 1.0,
+      "global_residual_MAD": 2.350999999999999,
+      "period_counts": {
+        "years": 762,
+        "flagged": 67,
+        "unresolved": 139
+      },
+      "historical_matches": [
+        {
+          "margin": 1,
+          "counts": {
+            "MATCH": 14,
+            "NO_MATCH": 14,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 30,
+              "state": "MATCH"
+            },
+            {
+              "row": 31,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        },
+        {
+          "margin": 2,
+          "counts": {
+            "MATCH": 16,
+            "NO_MATCH": 12,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "MATCH"
+            },
+            {
+              "row": 30,
+              "state": "MATCH"
+            },
+            {
+              "row": 31,
+              "state": "MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        },
+        {
+          "margin": 3,
+          "counts": {
+            "MATCH": 20,
+            "NO_MATCH": 8,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "MATCH"
+            },
+            {
+              "row": 30,
+              "state": "MATCH"
+            },
+            {
+              "row": 31,
+              "state": "MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "MAD_scope": "global_residual",
+      "MAD_scale": 1.4826,
+      "global_residual_MAD": 2.350999999999999,
+      "period_counts": {
+        "years": 762,
+        "flagged": 42,
+        "unresolved": 139
+      },
+      "historical_matches": [
+        {
+          "margin": 1,
+          "counts": {
+            "MATCH": 12,
+            "NO_MATCH": 16,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 30,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 31,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        },
+        {
+          "margin": 2,
+          "counts": {
+            "MATCH": 14,
+            "NO_MATCH": 14,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "MATCH"
+            },
+            {
+              "row": 30,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 31,
+              "state": "MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        },
+        {
+          "margin": 3,
+          "counts": {
+            "MATCH": 14,
+            "NO_MATCH": 14,
+            "UNRESOLVED": 4
+          },
+          "rows": [
+            {
+              "row": 1,
+              "state": "MATCH"
+            },
+            {
+              "row": 2,
+              "state": "MATCH"
+            },
+            {
+              "row": 3,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 4,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 5,
+              "state": "MATCH"
+            },
+            {
+              "row": 6,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 7,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 8,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 9,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 10,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 11,
+              "state": "MATCH"
+            },
+            {
+              "row": 12,
+              "state": "MATCH"
+            },
+            {
+              "row": 13,
+              "state": "MATCH"
+            },
+            {
+              "row": 14,
+              "state": "MATCH"
+            },
+            {
+              "row": 15,
+              "state": "MATCH"
+            },
+            {
+              "row": 16,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 17,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 18,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 19,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 20,
+              "state": "MATCH"
+            },
+            {
+              "row": 21,
+              "state": "MATCH"
+            },
+            {
+              "row": 22,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 23,
+              "state": "UNRESOLVED"
+            },
+            {
+              "row": 24,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 25,
+              "state": "MATCH"
+            },
+            {
+              "row": 26,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 27,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 28,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 29,
+              "state": "MATCH"
+            },
+            {
+              "row": 30,
+              "state": "NO_MATCH"
+            },
+            {
+              "row": 31,
+              "state": "MATCH"
+            },
+            {
+              "row": 32,
+              "state": "MATCH"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "limits": "No event grouping, deposition integration or Monte Carlo significance computed. Published matching totals are not calibration targets."
+}

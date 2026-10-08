@@ -118,3 +118,5 @@ Original Greenland and reconstruction workbooks S109-S110 acquired with hashes a
 Figure 2 workbook S111 recovered: six boundary rows crosswalk S109 midpoint labels to signed BCE/CE years. The absent 0.5 is a labeling convention, not a missing historical year; one blank/-9.999 pairing checked. Broader mapping and event classification remain open; supplementary guide request timed out.
 
 Guide retry resolved access (S112); earlier detection method recovered from S113 section 2.4. Separate 31-year running-median/3-MAD detection from reduced-background deposition integration. Verify implementation and 2015 transfer before claiming historical-match reproduction; exact event vector and simulation remain open.
+
+Detection sensitivity executed on S109: four implementation variants produce 12-20 ±3-year historical matches and four unresolved entries. Complete-window processing leaves 139/762 years unclassified. Resolve author gap/MAD choices; do not tune to 24 or treat missing input as nonmatches. Exact event-vector and significance reproduction remain pending.

@@ -53,3 +53,18 @@ This resolves the selected boundary correspondence, not every calendar conventio
 The guide download succeeded on retry (S112). It indexes the released tables but does not supply the required binary validation series. [Sigl and colleagues (2013), S113](https://doi.org/10.1029/2012JD018603), section 2.4, p.1154, was then visually inspected. It estimates background with a 31-year running median and detects annual sulfur values exceeding that background by three median absolute deviations. Deposition is calculated separately against a reduced background after detected peaks are removed. The authors describe empirical parameter selection checked against historical eruptions.
 
 The [method ledger](../data/ice-event-method.json) separates those reported choices from implementation questions not resolved on the inspected page: the MAD calculation domain and scaling, edge handling, missing years, and event grouping. Detection and deposition baselines must not be conflated. This earlier method is now a concrete lead for reproduction, but its precise application to the revised 2015 validation series is unverified. Choosing among implementations because one reproduces 24 matches would be fitting to the answer, not independent reproduction.
+
+## Executed sensitivity analysis
+
+The [script](../analysis/ice_detection_sensitivity.py) checks the S109 workbook hash and runs four explicitly chosen implementations. All use centered 31-calendar-year windows and require complete input in each window. None interpolates gaps. Local MAD uses deviations from that window's median; global-residual MAD uses deviations about the median of all available full-window residuals in the supplied record. Each is evaluated unscaled and with a 1.4826 normal-consistency factor. These are retrospective analyst choices, not recovered author settings.
+
+| MAD version | Flagged years, 258 BCE–504 CE | Historical matches within ±3 years | Nonmatches | Unresolved entries |
+| --- | --- | --- | --- | --- |
+| Local, unscaled | 71 | 20 | 8 | 4 |
+| Local, scaled | 38 | 12 | 16 | 4 |
+| Global residual, unscaled | 67 | 20 | 8 | 4 |
+| Global residual, scaled | 42 | 14 | 14 | 4 |
+
+The period has 762 calendar years. Our complete-window rule leaves 139 years unclassified in each version; flagged counts therefore are not complete event totals. The four unresolved historical entries are 125–124 BCE, 121 BCE, 90 BCE and 14 CE. Unresolved does not mean no eruption. The two unscaled versions permit 20–24 matching entries depending on those unknowns, so 20 observed matches do not contradict the reported 24. Nor does possible agreement establish reproduction.
+
+[Full results](../analysis/ice-detection-sensitivity-result.json) retain every variant's row-level states for ±1, ±2 and ±3 years. They do not replace the original ledger's unknown author-match assignments. Four tests check calendar conversion, synthetic peak detection, propagation of missing data and three-state matching. They validate that limited code behavior, not the chronology or volcanic interpretation. No event grouping, deposition flux, chance-match probability or Monte Carlo significance was computed. Exact processing choices and gap treatment remain the next necessary evidence.
