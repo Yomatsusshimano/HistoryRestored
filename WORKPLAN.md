@@ -94,3 +94,5 @@ Coyote Canyon facsimile update: figures and OSL tables visually checked; sample 
 Coyote camel pooling check: printed assays fail a conditional independent Gaussian one-sigma homogeneity check (p=0.01316). Recover original error definitions, collagen controls and model settings before adopting the narrow pooled interval. Mammoth AMQUA 2012 program URL retrieval failed; individual results remain missing.
 
 Coyote taphonomy: original 2013 gnaw-mark abstract and 2014 burial interpretation inspected. Link ribs to bed positions and overprinting before assigning exposure between floods. The 2014 numerical interval repeats the missing 2012 source and does not resolve original assay provenance.
+
+Coyote XRF citation traced to S103 (printed p.74, versus p.73 in S101). Major-unit chemistry is preliminary; event classification and lateral validation were prospective. Recover raw profiles and initial/revised contacts; underlying 15 cm measurement remains unverified.

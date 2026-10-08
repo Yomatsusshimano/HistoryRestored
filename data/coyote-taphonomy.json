@@ -29,7 +29,8 @@
         46
       ],
       "authors_inference": "At least two floods needed for complete burial; gnawing supports exposure between deposition and final burial",
-      "limits": "No item-level field coordinates or crosscutting relations provided here. Thickness comparison assumes nearby beds represent thickness at the carcass."
+      "limits": "No item-level field coordinates or crosscutting relations provided here. Thickness comparison assumes nearby beds represent thickness at the carcass.",
+      "underlying_15_cm_claim_audit": "S101 attributes this to Last and Krogstad 2014. Recovered S103 abstract contains no 15 cm value; original measurement remains unverified."
     }
   ],
   "inference": "Reported gnawing supports biological access to bone, conditional on diagnosis. It does not alone locate exposure between two floods or establish a minimum duration.",

@@ -498,6 +498,7 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 - Documents the weighted-mean and chi-square method used for the conditional local pooling check, not an execution of the authors model. [S100](https://c14.arch.ox.ac.uk/oxcalhelp/hlp_analysis_inform.html). Locator: Radiocarbon calibration, R_Combine Maths. Access: FULL_TEXT_PORTION. Limit: Current documentation, not archived OxCal 4.3 execution or the original S99 model. Formula check does not reproduce calibration.
 - Preliminary abstract reports gnawing on ten of eleven ribs; specimen IDs and raw mark measurements are absent. [S102](https://cascadiaprairieoak.org/wp-content/uploads/2013/12/Program-and-Abstracts-2013-NWSA-CPOP-Conference_final.pdf). Locator: Printed p.82 / PDF p.91. Access: SCAN_INSPECTED. Limit: Preliminary abstract; no rib IDs, individual mark measurements, images, uncertainty or blind classification validation. Full poster and specimens uninspected.
 - Authors relate bone spread and nearby bed thickness to repeated burial and cite the gnawing report; this is dependent interpretation, not independent replication. [S101](https://depts.washington.edu/amqua14/amquafiles/AMQUA2014_Abstracts-Program.pdf). Locator: pp.80-82. Access: SCAN_INSPECTED. Limit: Conference synthesis cites 2012 dates and earlier taphonomy. No original lab certificates or specimen-level field data; not an independent dating replication.
+- Preliminary XRF abstract distinguishes major units; it does not provide raw data or independently validate the flood-event count. [S103](https://northwestscience.org/web/default/files/resources/annual_meetings/older_annual_meetings/2014_NWSA_85thAnnMtg.pdf). Locator: Printed p.74 / PDF p.76. Access: SCAN_INSPECTED. Limit: No raw concentration table, sample IDs, plots, accuracy controls or independent classification test; no 15 cm thickness measurement in this abstract. Title spelling preserved.
 
 **Physical evidence:** Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.
 
@@ -517,7 +518,7 @@ Place: Coyote Canyon, Benton County, Washington, USA. Status: SOURCED_DRAFT.
 
 **Chronology:** {"reported": "OSL sediment ages and separately cited bone radiocarbon ages; see data/coyote-osl.json", "dated_object": "Quartz-bearing sediment and previously reported bone material", "method": "OSL with Minimum Age Model; earlier radiocarbon reports", "raw_date": null, "uncertainty": null, "timescale": "OSL ka and calibrated radiocarbon ka BP retained separately", "event_association": "REPORTED_NOT_REVALIDATED"}
 
-**Missing:** Original field logs and contact-level validation; Raw dose and bone-assay certificates; Independent taphonomic assessment; Horizontal coordinate datum and OSL time-reference audit
+**Missing:** Original field logs and contact-level validation; Raw dose and bone-assay certificates; Independent taphonomic assessment; Horizontal coordinate datum and OSL time-reference audit; XRF profiles, original/revised contacts and underlying 15 cm measurement cited by S101
 
 ## C016: Thistle Creek horse chronology and calibration dependence
 

@@ -1681,6 +1681,21 @@
       "downloaded_pdf_sha256": "7b47cd29cdc932120315727b41474185fc9ac96d6d669f283c593b9eca454b98",
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S103",
+      "title": "The use of X-ray fluorescence spectroscropy to refine stratigraphic interpretation of the Coyote Canyon Mammoth Site",
+      "creator": "George V. Last and Eirik Krogstad",
+      "publication_date": "2014",
+      "url": "https://northwestscience.org/web/default/files/resources/annual_meetings/older_annual_meetings/2014_NWSA_85thAnnMtg.pdf",
+      "source_type": "Original conference abstract",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed p.74 / PDF p.76, complete XRF abstract visually inspected.",
+      "limitations": "No raw concentration table, sample IDs, plots, accuracy controls or independent classification test; no 15 cm thickness measurement in this abstract. Title spelling preserved.",
+      "local_copy": null,
+      "downloaded_pdf_sha256": "6654a5b231b1e381e5939c251e8f7f8ee17a19b78f4f69aead3f117dba4631c9",
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -993,6 +993,11 @@
           "source_id": "S101",
           "locator": "pp.80-82",
           "statement": "Authors relate bone spread and nearby bed thickness to repeated burial and cite the gnawing report; this is dependent interpretation, not independent replication."
+        },
+        {
+          "source_id": "S103",
+          "locator": "Printed p.74 / PDF p.76",
+          "statement": "Preliminary XRF abstract distinguishes major units; it does not provide raw data or independently validate the flood-event count."
         }
       ],
       "physical_evidence": "Published excavation figures 4-7 and sample tables 2-4 visually inspected; seven OSL rows checked. No field or specimen inspection.",
@@ -1020,7 +1025,8 @@
         "Original field logs and contact-level validation",
         "Raw dose and bone-assay certificates",
         "Independent taphonomic assessment",
-        "Horizontal coordinate datum and OSL time-reference audit"
+        "Horizontal coordinate datum and OSL time-reference audit",
+        "XRF profiles, original/revised contacts and underlying 15 cm measurement cited by S101"
       ],
       "dependence": "All seven OSL samples share study/laboratory methods and dose assumptions. Bone ages are cited earlier work, not new independent assays in this study."
     },

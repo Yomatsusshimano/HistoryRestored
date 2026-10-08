@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Sediment-chemistry citation audit
+
+Previous turn made progress: d87764f published seven publicly byte-verified files; clean checkout confirmed. Old NWSA PDF URL returned 404. Current association proceedings index supplied a working relocated PDF. Rendered and visually inspected S103 at printed p.74/PDF p.76; readable despite font warnings. It reports exploratory major-unit differentiation, with adjusted contacts and further event/lateral testing planned. It does not contain the 15 cm measurement attributed to it in S101; recorded the limit and page discrepancy without alleging error or fabrication. Added the source and a concrete proposed independent-contact validation design; no raw chemistry reproduction or prediction success claimed. Full goal remains active.
+
 ## 2026-10-08 - Mammoth exposure and burial sequence
 
 Previous turn made progress: 9d512a4 published nine publicly byte-verified files; clean checkout confirmed. Downloaded 2014 AMQUA proceedings and visually inspected pp.80-82; the dating trail still points to 2012 without individual assays. Followed its taphonomic citation to original 2013 NWSA abstract, rendered and inspected printed p.82/PDF p.91. Added S101-S102 and aggregate observations with missing specimen IDs, raw measurements and uncertainties explicit. Distinguished reported gnawing from inferred between-flood exposure and preserved pre-transport/re-exposure alternatives. Rendered page text was legible despite Poppler font warnings. No specimen examination, exposure duration, new radiocarbon assay or independent review claimed. Full goal remains active.
