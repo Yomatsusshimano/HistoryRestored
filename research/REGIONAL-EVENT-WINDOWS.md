@@ -1,5 +1,26 @@
 # Could Bonneville and Electron represent one short episode?
 
+## Direct duration-constrained calculation
+
+The [executed likelihood comparison](../analysis/regional_duration_fit.py) now supplements the interval geometry below. It uses the existing [Bonneville](BONNEVILLE-LANDSLIDE.md) and [Electron](ELECTRON-MUDFLOW.md) simplified calibrations. For each duration D it maximizes `log L_B(T_B) + log L_E(T_E)` subject to `abs(T_B - T_E) <= D`, then subtracts that maximum from the unrestricted maximum. Either event order is allowed. [Inputs, fitted dates and results](../analysis/regional-duration-fit-result.json).
+
+| Maximum separation D | Full-data log-likelihood loss | Omit Perham Creek | Omit ELE01 |
+| ---: | ---: | ---: | ---: |
+| 0 years | 20.91 | 18.51 | 12.86 |
+| 1 year | 20.88 | 18.46 | 12.70 |
+| 10 years | 20.68 | 17.63 | 12.25 |
+| 25 years | 16.95 | 12.58 | 12.25 |
+| 50 years | 3.26 | 2.00 | 5.33 |
+| 100 years | 0.00 | 0.00 | 0.11 |
+
+Zero means the constraint admits an unrestricted optimum; larger losses mean worse maximum fit under the stated model. `exp(-loss)` is the relative maximum likelihood for that variant. These are **not p-values, Bayes factors, posterior model probabilities or probabilities that the catastrophe claim is false**. Different omission columns use different data and are sensitivity analyses, not independent replications. The slight plateau in the two-assay comparison is retained; no smooth relation was imposed.
+
+Short-episode assignments incur substantial fit loss across these variants. The full-data unconstrained modes are 1438.5 and 1509 CE, a 70.5-year separation; a 100-year allowance therefore imposes no loss. None of this establishes a shared cause or continuous activity. Shared calibration errors, offset uncertainty, within-sample averaging, relative-ring alignment and specimen context remain unresolved. Independent Gaussian likelihood factors are a simplifying assumption, including across sites. A common calendar shift cannot remove the relative separation, but evidence-based differential revisions could change the result.
+
+Synthetic Gaussian tests verify a known constrained optimum and reverse event ordering. [Grid refinement](../analysis/regional-duration-grid-check.json) checks numerical discretization separately from scientific validity. This is retrospective and does not count as a prospective prediction or independent discovery.
+
+## Earlier comparison of published marginal intervals
+
 2026-10-08. Retrospective comparison of C019 and C020; sourced draft without independent review. No new source discovery or date recalibration.
 
 The unknown-date catastrophe proposal needs candidate periods that can fail a test. These two regional cases offer reported calendar estimates tied to trees interpreted as victims of landscape change. Unlike comparing a fossil's death with host sediment, this comparison asks whether the **reported tree-death windows** could fit one short episode, conditional on the authors' event associations.

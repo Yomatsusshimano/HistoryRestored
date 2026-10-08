@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Direct regional duration constraints
+
+Previous turn made progress: c7ae3a2 published six verified files; clean checkout confirmed. Executed constrained two-date maximum-likelihood comparisons using existing assay inputs and the same IntCal20 assumptions. Evaluated six duration caps, retaining full data and two tree-omission sensitivities. Short-duration constraints lower maximum fit in all variants. Analytic Gaussian and reversed-order tests pass; finer grid comparison recorded. This tests an explicit version of H1 conditionally, not a universal event or statistical rejection probability. Full goal remains active.
+
 ## 2026-10-08 - Consistent Electron calibration and tree dependence
 
 Previous turn made progress: 5ad961f published eight verified files; clean checkout confirmed. Applied the same simplified likelihood assumptions to Electron assays, explicitly excluding KAP14a. Seven lab IDs and offsets reconcile exactly with the existing selection ledger after punctuation normalization. Five-assay and seven-assay fits broadly agree with published placement; omitting ELE01 shifts and broadens the result. Grid halving changes interval endpoints by at most 0.25 year. This exposes dependence, not an independently established alternative date. Full goal remains active.

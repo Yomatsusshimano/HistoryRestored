@@ -1,0 +1,183 @@
+{
+  "input_hashes": {
+    "data\\bonneville-dates.json": "6b70edba4cf8ee690a7b54cdc1e753418d44945e180469163e5005268c60e238",
+    "analysis\\electron-calibration-check-result.json": "5acb7e0aa2337cb524bb149ddccf7564deeefaf88fd435f5764a180dd5e2de25",
+    "intcal20.14c": "974a66649f2ac8a53e6c99e256b019ac6982f999b12dcf7193162d4c1c09168e"
+  },
+  "step_years": 0.25,
+  "domain_CE": [
+    1,
+    1950
+  ],
+  "variants": {
+    "all": {
+      "assay_counts": [
+        9,
+        7
+      ],
+      "unrestricted_modes_CE": [
+        1438.5,
+        1509.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1438.5,
+          "log_likelihood_loss": 20.911761007793842,
+          "relative_maximum_likelihood": 8.282045029548879e-10
+        },
+        {
+          "maximum_separation_years": 1,
+          "best_Bonneville_CE": 1439.0,
+          "best_Electron_CE": 1440.0,
+          "log_likelihood_loss": 20.87932243895122,
+          "relative_maximum_likelihood": 8.555107653760993e-10
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 20.68097133266687,
+          "relative_maximum_likelihood": 1.0432016608688676e-09
+        },
+        {
+          "maximum_separation_years": 25,
+          "best_Bonneville_CE": 1457.5,
+          "best_Electron_CE": 1482.5,
+          "log_likelihood_loss": 16.953034081231877,
+          "relative_maximum_likelihood": 4.339011957885126e-08
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1444.0,
+          "best_Electron_CE": 1494.0,
+          "log_likelihood_loss": 3.262638907225792,
+          "relative_maximum_likelihood": 0.038287228144302556
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1509.0,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    },
+    "omit_Perham": {
+      "assay_counts": [
+        6,
+        7
+      ],
+      "unrestricted_modes_CE": [
+        1440.75,
+        1509.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1507.0,
+          "best_Electron_CE": 1507.0,
+          "log_likelihood_loss": 18.50540383542763,
+          "relative_maximum_likelihood": 9.187666635013287e-09
+        },
+        {
+          "maximum_separation_years": 1,
+          "best_Bonneville_CE": 1507.0,
+          "best_Electron_CE": 1508.0,
+          "log_likelihood_loss": 18.464620419053475,
+          "relative_maximum_likelihood": 9.570116873650319e-09
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1492.5,
+          "best_Electron_CE": 1502.5,
+          "log_likelihood_loss": 17.633215791272548,
+          "relative_maximum_likelihood": 2.1978177860962285e-08
+        },
+        {
+          "maximum_separation_years": 25,
+          "best_Bonneville_CE": 1471.75,
+          "best_Electron_CE": 1496.75,
+          "log_likelihood_loss": 12.578418769716947,
+          "relative_maximum_likelihood": 3.4455784081792916e-06
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1447.5,
+          "best_Electron_CE": 1497.5,
+          "log_likelihood_loss": 1.9984530888105354,
+          "relative_maximum_likelihood": 0.13554479690832297
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1440.75,
+          "best_Electron_CE": 1509.0,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    },
+    "omit_ELE01": {
+      "assay_counts": [
+        9,
+        2
+      ],
+      "unrestricted_modes_CE": [
+        1438.5,
+        1542.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1440.25,
+          "best_Electron_CE": 1440.25,
+          "log_likelihood_loss": 12.861664031165823,
+          "relative_maximum_likelihood": 2.5956748141441268e-06
+        },
+        {
+          "maximum_separation_years": 1,
+          "best_Bonneville_CE": 1441.0,
+          "best_Electron_CE": 1442.0,
+          "log_likelihood_loss": 12.699305060034312,
+          "relative_maximum_likelihood": 3.0532466440553897e-06
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 12.25445563681,
+          "relative_maximum_likelihood": 4.763844075217802e-06
+        },
+        {
+          "maximum_separation_years": 25,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 12.25445563681,
+          "relative_maximum_likelihood": 4.763844075217802e-06
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1442.0,
+          "best_Electron_CE": 1492.0,
+          "log_likelihood_loss": 5.333095975218072,
+          "relative_maximum_likelihood": 0.004829096082953949
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1439.5,
+          "best_Electron_CE": 1539.5,
+          "log_likelihood_loss": 0.10822268641030064,
+          "relative_maximum_likelihood": 0.8974277292178809
+        }
+      ]
+    }
+  },
+  "limits": [
+    "Conditional maximum-likelihood comparison only; neither p-value nor Bayes factor nor probability of catastrophe.",
+    "Independent Gaussian errors and fixed offsets inherited from prior simplified checks; covariance and within-sample averaging omitted.",
+    "Event association and relative rings assumed; no independent chronological validation.",
+    "Duration permits either date order and constrains separation only, not continuous activity or common cause."
+  ],
+  "scientific_validation": false
+}

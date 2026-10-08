@@ -1,0 +1,172 @@
+{
+  "step_years": [
+    0.25,
+    0.125
+  ],
+  "maximum_absolute_log_loss_change": 0.0005377403425086413,
+  "fine_results": {
+    "all": {
+      "assay_counts": [
+        9,
+        7
+      ],
+      "unrestricted_modes_CE": [
+        1438.5,
+        1509.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1438.5,
+          "log_likelihood_loss": 20.911761007793842,
+          "relative_maximum_likelihood": 8.282045029548879e-10
+        },
+        {
+          "maximum_separation_years": 1,
+          "best_Bonneville_CE": 1439.0,
+          "best_Electron_CE": 1440.0,
+          "log_likelihood_loss": 20.87932243895122,
+          "relative_maximum_likelihood": 8.555107653760993e-10
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 20.68097133266687,
+          "relative_maximum_likelihood": 1.0432016608688676e-09
+        },
+        {
+          "maximum_separation_years": 25,
+          "best_Bonneville_CE": 1457.5,
+          "best_Electron_CE": 1482.5,
+          "log_likelihood_loss": 16.953034081231877,
+          "relative_maximum_likelihood": 4.339011957885126e-08
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1444.125,
+          "best_Electron_CE": 1494.125,
+          "log_likelihood_loss": 3.2621011668832836,
+          "relative_maximum_likelihood": 0.03830782226812792
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1509.0,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    },
+    "omit_Perham": {
+      "assay_counts": [
+        6,
+        7
+      ],
+      "unrestricted_modes_CE": [
+        1440.75,
+        1509.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1507.0,
+          "best_Electron_CE": 1507.0,
+          "log_likelihood_loss": 18.50540383542763,
+          "relative_maximum_likelihood": 9.187666635013287e-09
+        },
+        {
+          "maximum_separation_years": 1,
+          "best_Bonneville_CE": 1507.0,
+          "best_Electron_CE": 1508.0,
+          "log_likelihood_loss": 18.464620419053475,
+          "relative_maximum_likelihood": 9.570116873650319e-09
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1492.5,
+          "best_Electron_CE": 1502.5,
+          "log_likelihood_loss": 17.633215791272548,
+          "relative_maximum_likelihood": 2.1978177860962285e-08
+        },
+        {
+          "maximum_separation_years": 25,
+          "best_Bonneville_CE": 1471.75,
+          "best_Electron_CE": 1496.75,
+          "log_likelihood_loss": 12.578418769716947,
+          "relative_maximum_likelihood": 3.4455784081792916e-06
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1447.5,
+          "best_Electron_CE": 1497.5,
+          "log_likelihood_loss": 1.9984530888105354,
+          "relative_maximum_likelihood": 0.13554479690832297
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1440.75,
+          "best_Electron_CE": 1509.0,
+          "log_likelihood_loss": 0.0,
+          "relative_maximum_likelihood": 1.0
+        }
+      ]
+    },
+    "omit_ELE01": {
+      "assay_counts": [
+        9,
+        2
+      ],
+      "unrestricted_modes_CE": [
+        1438.5,
+        1542.0
+      ],
+      "fits": [
+        {
+          "maximum_separation_years": 0,
+          "best_Bonneville_CE": 1440.375,
+          "best_Electron_CE": 1440.375,
+          "log_likelihood_loss": 12.861369690126857,
+          "relative_maximum_likelihood": 2.5964389402170548e-06
+        },
+        {
+          "maximum_separation_years": 1,
+          "best_Bonneville_CE": 1441.0,
+          "best_Electron_CE": 1442.0,
+          "log_likelihood_loss": 12.699305060034312,
+          "relative_maximum_likelihood": 3.0532466440553897e-06
+        },
+        {
+          "maximum_separation_years": 10,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 12.25445563681,
+          "relative_maximum_likelihood": 4.763844075217802e-06
+        },
+        {
+          "maximum_separation_years": 25,
+          "best_Bonneville_CE": 1438.5,
+          "best_Electron_CE": 1444.0,
+          "log_likelihood_loss": 12.25445563681,
+          "relative_maximum_likelihood": 4.763844075217802e-06
+        },
+        {
+          "maximum_separation_years": 50,
+          "best_Bonneville_CE": 1442.0,
+          "best_Electron_CE": 1492.0,
+          "log_likelihood_loss": 5.333095975218072,
+          "relative_maximum_likelihood": 0.004829096082953949
+        },
+        {
+          "maximum_separation_years": 100,
+          "best_Bonneville_CE": 1439.625,
+          "best_Electron_CE": 1539.625,
+          "log_likelihood_loss": 0.10779564238873718,
+          "relative_maximum_likelihood": 0.8978110522064986
+        }
+      ]
+    }
+  },
+  "scope": "Grid discretization only"
+}
