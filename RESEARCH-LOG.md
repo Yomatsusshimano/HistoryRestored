@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-08 - Pioneer Building photographic construction evidence
+
+Previous turn made progress: 8887925 published six publicly byte-verified files. Clean checkout rechecked. Followed S91's named Pioneer Building to MOHAI photograph 2011.26.7.14 and UW drawing ARC0508. Inspected photograph in background browser and catalog metadata via public API; separated visible work apparatus from attributed building, date and construction status. Drawing image connection failed, so S93 remains catalog-only. Bibliographic leads to February 17, 1889 p.5 and June 6, 1891 p.12 of the Seattle Post-Intelligencer did not yield original pages; LOC retrieval failed, ordinary JSON access returned 403. No newspaper transcription adopted. Published a separate building audit to prevent mixing Pioneer and Grand Central evidence. No exact completion date, labor audit or inheritance claim established.
+
 ## 2026-10-08 - Seattle rebuilding account status audit
 
 Previous switch-only turn was no progress: no research state changed. Revalidated clean checkout at 2d03124 and resumed the available UW source lead. Public CONTENTdm metadata succeeded by ordinary API retrieval; web-tool image opens failed, but background browser IIIF images displayed successfully. Visually inspected selected pages and cover. Added S91, distinguishing 1889 catalog date from unresolved 1966 call-number suffix, mixed underway/projected building counts from completion, and promotional predictions from measured construction. No image redistribution, original-ordinance recovery, physical burial date or independent review claimed. This changes the next building-audit action to project-specific records rather than treating a rapid-rebuilding heading as a completed schedule.

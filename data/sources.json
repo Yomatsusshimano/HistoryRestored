@@ -1514,6 +1514,36 @@
       "sha256": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S92",
+      "title": "View of Pioneer Square showing construction of Pioneer Building, circa 1890",
+      "url": "https://digitalcollections.lib.washington.edu/digital/collection/imlsmohai/id/8524",
+      "creator": "Unattributed photographer; MOHAI catalog suggests John P. Soule",
+      "publication_date": null,
+      "source_type": "Archival photograph and catalog",
+      "access": "SCAN_INSPECTED",
+      "inspected": "UW CONTENTdm metadata and browser-displayed 700 x 521 image; MOHAI image 2011.26.7.14, David Thomas Denny II Family Papers.",
+      "limitations": "Circa 1890 is an approximate catalog date, not an independently verified exposure date. Building identity and nearly-completed interpretation are catalog statements. Limited-resolution photograph does not supply entire construction sequence.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S93",
+      "title": "Pioneer Building (Seattle, Wash.), sections, ARC0508",
+      "url": "https://digitalcollections.lib.washington.edu/digital/collection/ac/id/1348/",
+      "creator": "Elmer H. Fisher; UW Special Collections catalog",
+      "publication_date": null,
+      "source_type": "Working drawing catalog",
+      "access": "CATALOG_METADATA",
+      "inspected": "Public CONTENTdm metadata: Elmer Fisher Collection, Section A.B., sheet 4, client H. L. Yesler; assigned date between 1889 and 1890.",
+      "limitations": "Drawing image failed to display (connection reset); original marks and dimensions not inspected. Catalog completion year 1892 is later historical commentary, not a completion certificate.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

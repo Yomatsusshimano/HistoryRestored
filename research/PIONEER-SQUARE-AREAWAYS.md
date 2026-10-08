@@ -74,3 +74,5 @@ A historical grade must be tied to its own datum and converted before comparison
 Page 37 predicts a larger city in eighteen months and refers to rebuilding in conformity with replatted streets. This is evidence of the account's expectations and promotional framing. It does not establish when a particular wall, basement or street grade was finished. The inspected passages do not supply Ordinance 1106's text, a vertical grade, a fill section or a parcel-specific completion date.
 
 For a building audit, match a named list entry to an original contract, dated progress record and completion evidence before testing labor or construction duration. Do not use the promotional heading as a numerical schedule, and do not treat the list's inclusion of a project as evidence that the building already existed. No inference about inherited construction follows from this mixed list alone.
+
+[Pioneer Building follow-up](PIONEER-BUILDING.md): an archival construction photograph was visually inspected and a working section located in the catalog. This separate building supplies a project-level audit route; its evidence must not be transferred to Grand Central Block.

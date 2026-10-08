@@ -80,3 +80,5 @@ Grand Central survey audit: NAVD 88, two city benchmarks and building/parcel cro
 Ordinance 1106 correspondence: July/August 1889 catalog and letter transcriptions recovered; Leary declined appraisal and a separate Front Street project cites 1129. Original judgment, ordinance and physical completion remain unresolved.
 
 Seattle rebuilding account: S91 scans distinguish temporary trade, work underway and projected buildings. Match individual listed projects to contracts/progress/completion records; resolve UW copy provenance (catalog 1889, call number ending 1966). Original ordinance and finished street-work evidence remain open.
+
+Pioneer Building follow-up: MOHAI 2011.26.7.14 inspected; UW ARC0508 working section catalog located but image unavailable. Establish dated construction phases and completion from originals; do not transfer its evidence to Grand Central Block.
