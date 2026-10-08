@@ -1,0 +1,64 @@
+{
+  "source_id": "S190",
+  "case_id": "C005",
+  "book_id": "CBFYAAAAcAAJ",
+  "accessed_date": "2026-10-08",
+  "scope": "Printed pp.64-74; PA71-IA2 is printed p.71. Folded map PA71 viewed only at low resolution, not substantively transcribed.",
+  "pages": [
+    {
+      "page_id": "PA64",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA64",
+      "sha256": "bef3c603aa2450fd5cf893689c2ad8286a4edc147f944a1c5ae6dd441688563d"
+    },
+    {
+      "page_id": "PA65",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA65",
+      "sha256": "be72a84c9182f3fc804e03ef8a64aa866bec3f43ae36d9feaab4a3bcf2419006"
+    },
+    {
+      "page_id": "PA66",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA66",
+      "sha256": "6493a993f1b6752d83ccada4ac988df9bc0c31377719cc98f797ff44ff64f3d5"
+    },
+    {
+      "page_id": "PA67",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA67",
+      "sha256": "ba73fe63ed4af6b4025d5ae76837510689ecaf3efe1b3efa74ed58dbee17c222"
+    },
+    {
+      "page_id": "PA68",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA68",
+      "sha256": "5940bdd7f19d58fdabc60dbb24a4c05e1162544828a0aca32aaf70602161ba6f"
+    },
+    {
+      "page_id": "PA69",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA69",
+      "sha256": "247fd47d51096d7dc1f6589a6638250a7ecc0f30d93c75b41c6623b9ff2b6147"
+    },
+    {
+      "page_id": "PA70",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA70",
+      "sha256": "3818557ad9a28d9ebd18240dcaac46b56d154a5147e97f41caf8e06523e5f6ea"
+    },
+    {
+      "page_id": "PA71-IA2",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA71-IA2",
+      "sha256": "9759bbc708cb9f6c6b236bb80f501014a6bcbb004806ca675cb5da1d8349a2b6"
+    },
+    {
+      "page_id": "PA72",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA72",
+      "sha256": "b51b891a4ab403e27b4bc883e81508414806a8fb4989714c75791e4bb0839753"
+    },
+    {
+      "page_id": "PA73",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA73",
+      "sha256": "0f621f267a525232529f4ecf4a2ee86ff2673e20051901f87a0325163ced56be"
+    },
+    {
+      "page_id": "PA74",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA74",
+      "sha256": "2a6812fc00c17e448aac6f19d98abcd6e60234fe295d00cf4cefa0d82c67973b"
+    }
+  ]
+}

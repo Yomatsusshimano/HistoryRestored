@@ -3043,6 +3043,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S190",
+      "title": "Considerations geographiques et physiques: California discussion, pp.64-74",
+      "url": "https://books.google.com/books?id=CBFYAAAAcAAJ&pg=PA71-IA2",
+      "creator": "Philippe Buache",
+      "publication_date": "1754 (printed certificate for inspected part)",
+      "source_type": "historical geographical discussion",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp.64-74; page 71 second footnote compared to S189 crossing denial. Page 74 certificate dates checked; hashes in data/buache-california-access.json.",
+      "limitations": "Selected section, not full volume. Bound parts have different dates. Colorado crossing pronoun ambiguous; cited Gobien letter not yet compared. Nested tidal-isthmus report not field verification. Folded map fine detail not audited.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

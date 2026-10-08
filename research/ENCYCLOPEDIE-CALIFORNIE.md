@@ -43,3 +43,7 @@ The full twenty-part investigation remains open. This result advances documentar
 ## Access and reproduction
 
 [Original volume, page 133](https://books.google.com/books?id=qWrqlNvt6ZoC&pg=PA133). Ordinary Google Books page metadata returned image URLs. Direct unsupplied-signature or altered-size image requests produced identical image-unavailable placeholders; these were excluded. Only returned valid page images were inspected and hashed. Public page identifiers and SHA256 values are retained in [the access record](../data/engel-californie-access.json). Text-only web retrieval returned 403. The scan includes digitization marks; no retouching or image redistribution performed.
+
+## Subsequent earlier-source comparison
+
+[Buache p.71](BUACHE-KINO-TRANSMISSION.md) explicitly affirms Hila crossing, contradicting the 1776 denial, and supplies a Gobien preliminary-letter reference. Its later crossing pronoun remains ambiguous. This narrows the transmission question without establishing intentional alteration or resolving Colorado travel.

@@ -266,3 +266,5 @@ Selected panel II for route-definition work. Enlarged cartouche reinspection rea
 Sanson candidate S188 recovered: printed 1656 map shares diagnostic outline and labels with panel II. Corrected northern land to Agubela de Cato. Next exact edition/transmission around 1666 and modern control-point identities; do not repeat retrieval as pending or count matching depictions as independent surveys.
 
 S189 original 1776 Californie article recovered, title and pp.131-137 inspected. Explicit plate references and Kino crossing denial preserved. Next exact report accessible to its writer and manuscript comparison, plus plate-volume imprint/edition lineage; no automatic resolution from later translations. Sanson 1666 still unrecovered.
+
+S190 Buache pp.64-74 recovered: explicit Hila crossing conflicts with S189 denial; later crossing pronoun ambiguous. Next Gobien preliminary letter in 1705 fifth Lettres edifiantes collection (S38), distinct from Picolo report. Tidal-isthmus report requires separate located-sill test, not a regional-upheaval assumption.
