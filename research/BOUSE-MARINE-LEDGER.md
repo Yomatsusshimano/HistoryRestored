@@ -42,3 +42,5 @@ Both studies address Hart Mine Wash, but locality overlap is not a demonstrated 
 Age fields such as late Miocene to early Pliocene are interpreted assemblage ages, not independent numerical assays or measured deposition intervals. The recovered notes do not reproduce the paper's 8.1-5.3 Ma biostratigraphic calculation. Neither rejecting nor accepting that age is warranted solely from this supplement.
 
 Next retrieve the main article's specimen plates, occurrence/count tables and zonal calibration; match them to these IDs. Inspect the cited living-Streptochilus ecological work and test its applicability to the fossil forms. Continue to separate an environmental interpretation, its chronology, and the connected historical channel required by the map claim.
+
+Follow-up: [S187 ecology audit](STREPTOCHILUS-ECOLOGY.md) inspects the cited Darling study's initial results. It distinguishes habitat flexibility within marine settings from freshwater tolerance, and the living species from the qualified fossil identifications.

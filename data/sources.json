@@ -3001,6 +3001,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S187",
+      "title": "Surviving mass extinction by bridging the benthic/planktic divide",
+      "url": "https://doi.org/10.1073/pnas.0902827106",
+      "creator": "Kate F. Darling, Ellen Thomas, Simone A. Kasemann, Heidi A. Seears, Christopher W. Smart and Christopher M. Wade",
+      "publication_date": "2009-08-04",
+      "source_type": "original genetic and geochemical research",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "University of Edinburgh abstract and Yale-hosted PDF extracted text pp.12629-12630, including figure captions, via web retrieval. Five genetic individuals/19 clones and eight geochemical tests distinguished.",
+      "limitations": "Local PDF download failed DNS resolution; follow-up web page/screenshots failed 502. No visual figure inspection, complete methods, supporting data or sequence reanalysis. Living S. globigerus/B. variabilis evidence does not directly identify Bouse fossil taxa or establish freshwater tolerance.",
+      "local_copy": null,
+      "accessed_date": "2026-10-08",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -1435,6 +1435,11 @@
           "source_id": "S186",
           "locator": "Taxonomic notes, Streptochilus entries; sample table Mf12912-Mf12921, Mf12925, Mf12935-Mf12936",
           "statement": "Marine-study supplement supplies morphological identification rationale and thirteen Hart Mine Wash laboratory records. Shared locality is not established identical-bed sampling; interpreted assemblage ages are not direct numerical assays."
+        },
+        {
+          "source_id": "S187",
+          "locator": "pp.12629-12630; research/STREPTOCHILUS-ECOLOGY.md",
+          "statement": "Living S. globigerus/B. variabilis evidence complicates a strictly planktonic classification, but does not demonstrate freshwater tolerance or identify the differently named Bouse fossil forms."
         }
       ],
       "physical_evidence": "Published section diagrams and freshwater-shell identifications; original outcrops and specimens not inspected.",
