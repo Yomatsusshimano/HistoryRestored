@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Bat supplement and geographic-model boundaries
+
+S320 all6pages visually inspected; no dated-bat accession/depth/certificate or coordinate table there. Three pixel-count losses reproduce17/86/91percent, conditional on assumed−135msea level; present outlines in habitat maps are not past coastline reconstructions. Same-study dependency and Table3/1caption mismatch retained. See [geography supplement audit](BAT-GEOGRAPHY-SUPPLEMENT.md).28drafts/320sources; no cave-unit resolution, geographic upheaval or independent review.
+
 ### 2026-10-09 — Direct bat date versus author-associated sloths
 
 S319 selected original PDF pages inspected; Beta345518 single humerus2060–1900calBP. Three S22sloth pairs have nearest-set gaps5550/5980/7070years, conditional arithmetic rather than duration confidence. Fossil accession/depth absent and locality-coordinate discrepancy retained; modern UF20812 comparator not assigned to fossil. See [bat comparison](JEREMIE-BAT-COMPARISON.md).28drafts/319sources; no shared deposition date, model replication or independent review.

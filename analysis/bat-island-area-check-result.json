@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-09",
+  "input_sha256": "c67f17ac4873f8afc40667150fa6bf20c4d02183cb5baea04f238ecbb81b743a",
+  "formula": "100*(LGM-current)/LGM",
+  "results": [
+    {
+      "group": "Hispaniola group",
+      "loss_percent_LGM_denominator": 17.038821954484604,
+      "LGM_to_current_pixel_count_ratio": 1.205383076227974,
+      "printed_percent": 17,
+      "nearest_integer_matches": true
+    },
+    {
+      "group": "Little Bahama Bank",
+      "loss_percent_LGM_denominator": 85.87633262260128,
+      "LGM_to_current_pixel_count_ratio": 7.080314009661835,
+      "printed_percent": 86,
+      "nearest_integer_matches": true
+    },
+    {
+      "group": "Northern Lesser Antilles",
+      "loss_percent_LGM_denominator": 91.48599670510708,
+      "LGM_to_current_pixel_count_ratio": 11.745356037151703,
+      "printed_percent": 91,
+      "nearest_integer_matches": true
+    }
+  ],
+  "limits": [
+    "Pixel-count arithmetic only; no bathymetry, equal-area correction or raster classification reproduced.",
+    "No rate, event date, habitat-loss cause or sudden geography change inferred."
+  ]
+}

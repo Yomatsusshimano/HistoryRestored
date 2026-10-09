@@ -4939,6 +4939,20 @@
       "local_copy": "",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S320",
+      "title": "Supplementary Information: Fossils reject climate change as the cause of extinction of Caribbean bats",
+      "creator": "J. Angel Soto-Centeno and David W. Steadman",
+      "publication_date": "2015-01-22",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fsrep07971/MediaObjects/41598_2015_BFsrep07971_MOESM1_ESM.pdf",
+      "source_type": "Original publisher supplement to DOI10.1038/srep07971",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All6supplement PDF pages visually inspected; TableS1 all3group pairs transcribed; FiguresS1/S2a–c and captions inspected. No point extraction or ecological model replication.",
+      "limitations": "Six-page supplement lacks accession/depth/coordinate table or laboratory certificate. Pixel counts are conditional estimates, not measuredkm2; habitat maps use present island outlines. No ecological/raster replication or independent review.",
+      "local_copy": "",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S320",
+  "parent_source_id": "S319",
+  "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fsrep07971/MediaObjects/41598_2015_BFsrep07971_MOESM1_ESM.pdf",
+  "pdf_bytes": 1332381,
+  "pdf_sha256": "6d4f085d9397a536ae3851cbc990905bc1ebb91349284f0e3a4779be917996cf",
+  "inspection": "All6supplement PDF pages visually inspected; TableS1 all3group pairs transcribed; FiguresS1/S2a–c and captions inspected. No point extraction or ecological model replication.",
+  "assumptions_as_reported": {
+    "LGM_sea_level_below_present_m": 135,
+    "raster_resolution_arc_seconds": 30,
+    "software": "ArcGIS10.2",
+    "relative_area_basis": "Raster pixel counts, not independently measured square kilometres"
+  },
+  "groups": [
+    {
+      "name": "Hispaniola group",
+      "LGM_relative_area": 112050,
+      "current_relative_area": 92958,
+      "reported_loss_percent": 17
+    },
+    {
+      "name": "Little Bahama Bank",
+      "LGM_relative_area": 23450,
+      "current_relative_area": 3312,
+      "reported_loss_percent": 86
+    },
+    {
+      "name": "Northern Lesser Antilles",
+      "LGM_relative_area": 15175,
+      "current_relative_area": 1292,
+      "reported_loss_percent": 91
+    }
+  ],
+  "figures": {
+    "S1": "Current/fossil localities and dated/extirpated symbols; map dots without accession list or explicit coordinate table. Caption refers to Table3 although main dating table is1; reference mismatch retained.",
+    "S2a": "Macrotus waterhousii habitat predictions at present/6ka/21ka; present island boundaries.",
+    "S2b": "Monophyllus redmani predictions; same periods and boundary convention.",
+    "S2c": "Pteronotus parnellii predictions; same periods and boundary convention."
+  },
+  "bounded_negative_inventory": {
+    "museum_accession_list_present": false,
+    "Beta345518_lab_certificate_present": false,
+    "excavation_bag_depth_or_unit_list_present": false,
+    "coordinate_table_present": false,
+    "scope": "All pages of this specific six-page supplement; no claim these records do not exist elsewhere."
+  },
+  "dependencies": "Same study and DOI asS319; supplement is not independent replication. Past habitat projections share modeling assumptions, climate inputs and present occurrence data.",
+  "limits": [
+    "No specific event or coastline transition dated by pixel counts.",
+    "Present boundary masks cannot be treated as a full map of21ka coastlines.",
+    "Not an equal-area physical area reproduction; exact raster masks/projection/data unacquired.",
+    "No independently verified bat fossil accession or cave unit."
+  ],
+  "next_test": "Locate original occurrence-coordinate dataset, UF fossil accession and lab certificate; reproduce raster area/habitat model with exact masks and source climate/bathymetry before ecological or geographic inference."
+}

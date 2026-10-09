@@ -1570,6 +1570,11 @@
           "source_id": "S319",
           "locator": "Table1,p2;Fig1caption,p2;Methods,pp4–5",
           "statement": "One bat humerus Beta345518 dates to2030±30radiocarbonBP and2060–1900calBP. Authors associate locality with three dated sloths; fossil accession/unit link absent and coordinate discrepancy retained."
+        },
+        {
+          "source_id": "S320",
+          "locator": "TableS1,p2;FigS1,p3;FigS2a–c,pp4–6",
+          "statement": "Full supplement inspection locates distribution maps and three group-level area estimates under−135msea level, but no dated-bat accession/unit or coordinate table. Habitat maps use present island boundaries; not an independently dated past coastline."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
@@ -1600,7 +1605,7 @@
         "Later literature and redating audit",
         "Independent review"
       ],
-      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates. S36geometry/faunal abundance repeatsS318locality account; no independent excavation confirmation. S319 repeats S22sloth dates for comparison, not new sloth assays; bat assay is separate but site/unit association unverified."
+      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates. S36geometry/faunal abundance repeatsS318locality account; no independent excavation confirmation. S319 repeats S22sloth dates for comparison, not new sloth assays; bat assay is separate but site/unit association unverified. S320 is the S319supplement, not independent replication; conditional pixel counts and model maps do not authenticate locality or deposition."
     },
     {
       "id": "C012",

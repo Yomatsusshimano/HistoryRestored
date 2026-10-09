@@ -1,6 +1,6 @@
 # A direct bat date and an unresolved cave association
 
-2026-10-09. C011/S319; sourced draft without independent review.
+2026-10-09. C011/S319; sourced draft without independent review. Update: the [six-page supplement](BAT-GEOGRAPHY-SUPPLEMENT.md), S320, is now fully inspected; no fossil accession or depth register found there. Initial supplementary-access limit below describes the first audit.
 
 [Soto-Centeno and Steadman (2015)](https://www.nature.com/articles/srep07971), DOI10.1038/srep07971, reports one Haitian bat humerus, Beta-345518:2030±30 radiocarbon BP,2060–1900calBP and collagen carbon−20.3per mil. Pages2,4,5,7 of the original seven-page PDF were visually inspected. The [record](../data/jeremie-bat2015-date.json) preserves missing accession, preparation-quality and unit information. Other pages, supplementary data and the laboratory certificate were not inspected.
 
