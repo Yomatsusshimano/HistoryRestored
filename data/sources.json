@@ -3918,6 +3918,36 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S251",
+      "title": "Georeferenced scanned Willapa Bay shoreline revision map T-03921,1922",
+      "creator": "U.S. Coast and Geodetic Survey; NOAA National Geodetic Survey and georeferencing contractors",
+      "publication_date": "1922",
+      "url": "https://nsde.ngs.noaa.gov/downloads/T-03921.zip",
+      "source_type": "Historical survey raster transformed in2006",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Whole raster viewed at reduced scale; title/register3921,Jan-June1922 and1:20,000 inspected. Current NSDEZIP and unchanged raster acquired.",
+      "limitations": "Transformed raster not original unrectified paper. Full small annotations and ecological legend unaudited. Selective survey coverage per S248; no shoreline extraction, displacement, marsh-rate estimate or field authentication.",
+      "local_copy": "sources/originals/cascadia/T-03921/t03921_dd.jpg",
+      "sha256": "21d4b0e9599e7407a29f7a8ee00e55dc2aea0fbc293d16184732eb90aa275db6",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S252",
+      "title": "T-03921 raster metadata and world-file placement",
+      "creator": "U.S. Coast and Geodetic Survey; NOAA National Geodetic Survey and georeferencing contractors",
+      "publication_date": null,
+      "url": "https://nsde.ngs.noaa.gov/downloads/T-03921.zip",
+      "source_type": "NOAA raster georeferencing metadata",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Selected citation/content/source/process date sections, horizontal/vertical accuracy, tidal datum,NAD83 and six world-file coefficients read.",
+      "limitations": "Metadata ground-condition2006date differs from1922source interval; roles retained rather than silently repaired. Reported0.391/0.628m RMS not full accuracy. No vertical accuracy; tide times/range unknown. World file is related package input, not independent survey evidence.",
+      "local_copy": "sources/originals/cascadia/T-03921/t03921.met",
+      "sha256": "3228273536cc6d47e86ca6ebaa21dc9ee1ce15ed642b517cf78751afcfb20686",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

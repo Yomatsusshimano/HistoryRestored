@@ -1,0 +1,41 @@
+{
+  "source_ids": [
+    "S251",
+    "S252"
+  ],
+  "url": "https://nsde.ngs.noaa.gov/downloads/T-03921.zip",
+  "accessed_date": "2026-10-09",
+  "zip_bytes": 13546967,
+  "zip_sha256": "5e3f26990468b59fd1314f40a402d000cafe8809aaecd12a3b4d1efdd4f2fac6",
+  "archive_members": [
+    "T-03921/",
+    "T-03921/t03921_dd.jgw",
+    "T-03921/T-3921.PDF",
+    "T-03921/wc46c03vector.met",
+    "T-03921/t03921_dd.jpg",
+    "T-03921/WC46C03.zip",
+    "T-03921/t03921.met"
+  ],
+  "published_members": [
+    {
+      "path": "sources/originals/cascadia/T-03921/t03921_dd.jpg",
+      "sha256": "21d4b0e9599e7407a29f7a8ee00e55dc2aea0fbc293d16184732eb90aa275db6",
+      "bytes": 12811592,
+      "archive_member": "T-03921/t03921_dd.jpg"
+    },
+    {
+      "path": "sources/originals/cascadia/T-03921/t03921_dd.jgw",
+      "sha256": "1e9e302abc463efd728efa00d71d8bdccd92e3cfc2a2e29283592b98a29e72a8",
+      "bytes": 222,
+      "archive_member": "T-03921/t03921_dd.jgw"
+    },
+    {
+      "path": "sources/originals/cascadia/T-03921/t03921.met",
+      "sha256": "3228273536cc6d47e86ca6ebaa21dc9ee1ce15ed642b517cf78751afcfb20686",
+      "bytes": 15825,
+      "archive_member": "T-03921/t03921.met"
+    }
+  ],
+  "inspection": "Raster whole-sheet reduced view and title inspected; selected metadata sections and world file read. Other archive members not fully audited.",
+  "route": "Current NSDE public download succeeds; legacy nosimagery host links fail DNS. Catalog tile decoded for identifier discovery, not shoreline geometry."
+}

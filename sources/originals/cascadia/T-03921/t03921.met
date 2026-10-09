@@ -1,0 +1,365 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator:
+        United States Department of Commerce, National Oceanic and
+        Atmospheric Administration (NOAA), National Ocean Survey
+        (currently National Ocean Service, National Geodetic
+        Survey)
+      Publication_Date: 192201
+      Title:
+        Georeferenced Scanned Coastal Map Named Willapa Bay
+        (T-03921) Located in Pacific County, Washington, Nearby
+        Aberdeen Developed from
+        1922 Source Data.
+      Geospatial_Data_Presentation_Form: Raster digital data
+      Publication_Information:
+        Publication_Place: Silver Spring, Maryland
+        Publisher:
+          United States Department of Commerce, National Oceanic and
+          Atmospheric Administration (NOAA), National Ocean Survey
+          (currently National Ocean Service, National Geodetic
+          Survey)
+      Online_Linkage: Unknown
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator:
+            United States Department of Commerce, National Oceanic and
+            Atmospheric Administration (NOAA), National Climatic Data
+            Center (NCDC), Climate Database Modernization Program
+            (CDMP)
+          Publication_Date: Unknown
+          Title: Shoreline Data Rescue Project
+          Other_Citation_Details:
+            This project was funded by the NOAA NCDC CDMP. The
+            source t-sheet data were created by the National Ocean
+            Service (previously the National Ocean Survey),
+            National Geodetic Survey (NGS) as part of its ongoing
+            mission to map the coastline of the United States.  The
+            NOAA National Ocean Service (NOS) Coastal Services
+            Center (CSC) developed the procedures used in this
+            project and was responsible for project oversight.  The
+            georeferencing for these scanned t-sheets images was
+            performed by contractors to the NOAA NOS.  The project
+            intent was to rescue valuable historical data and make
+            them accessible and useful to the coastal mapping
+            community.  This process involved the conversion of
+            analog products to digital mapping products.
+  Description:
+    Abstract:
+      NOS coastal survey maps (often called t-sheet or tp-sheet
+      maps) are special use planimetric or topographic maps that
+      precisely define the shoreline and alongshore natural and
+      man-made features, such as rocks, bulkheads, jetties,
+      piers, and ramps.  These maps range in scale from 1:5,000
+      to 1:40,000.
+    Purpose:
+      NOS coastal survey maps serve as the basic database of
+      shoreline and topography used in the production of
+      nautical charts.  Historical data from these surveys are
+      often used in litigation to determine property ownership,
+      to enforce regulatory mandates, and to estimate rates of
+      shoreline change.  Additionally, these maps provide an
+      accurate framework of geomorphic data for generating
+      related products, such as submerged aquatic vegetation
+      maps and shoreline movement maps used in managing the
+      nation's coastal resources.  These data are considered
+      useful to persons with geographic information systems who
+      are able to view and analyze the data by itself, or with
+      other data sets.  The user should realize that these data
+      are considered accurate during the time of survey and may
+      not represent the current condition of the ground at this
+      time.  These maps permanently reside within the offices of
+      the National Archives and Records Administration (NARA).
+      These maps were transferred by NOS to NARA in 1999.
+    Supplemental_Information:
+      These data represent the shoreline position at the time of
+      survey.  For more information about the condition at the
+      time of survey, please refer to the (descriptive report-
+      hotlinked).
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20060123
+        Ending_Date: 20060123
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -124.196
+      East_Bounding_Coordinate: -123.842
+      North_Bounding_Coordinate: 46.757
+      South_Bounding_Coordinate: 46.608
+    Description_of_Geographic_Extent:
+      These data extend from Hawks Point to Leadbetter Point
+      nearby Aberdeen, Washington
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: Glossary of the Shoreline Metadata Profile
+      Theme_Keyword: Shoreline map
+      Theme_Keyword: Coastal base map
+      Theme_Keyword: Coastal zone map
+      Theme_Keyword: Shoreline
+      Theme_Keyword: Vectorization
+      Theme_Keyword: Shoreline vectorization
+      Theme_Keyword: Shoreline data
+      Theme_Keyword: T-sheet
+      Theme_Keyword: Tp-sheet
+      Theme_Keyword: T-03921
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Washington
+      Place_Keyword: Pacific County
+      Place_Keyword: Bay Center
+      Place_Keyword: Hawks Point
+      Place_Keyword: Hawks Pt.
+      Place_Keyword: Hawks Pt
+      Place_Keyword: Leadbetter Point
+      Place_Keyword: Leadbetter Pt.
+      Place_Keyword: Leadbetter Pt
+      Place_Keyword: Pine Island
+      Place_Keyword: Pine Is.
+      Place_Keyword: Pine Is
+      Place_Keyword: Pine I.
+      Place_Keyword: Pine I
+      Place_Keyword: Snag Island
+      Place_Keyword: Snag Is.
+      Place_Keyword: Snag Is
+      Place_Keyword: Snag I.
+      Place_Keyword: Snag I
+      Place_Keyword: Stony Point
+      Place_Keyword: Stony Pt.
+      Place_Keyword: Stony Pt
+      Place_Keyword: Toke Point
+      Place_Keyword: Toke Pt.
+      Place_Keyword: Toke Pt
+      Place_Keyword: Willapa Bay
+    Temporal:
+      Temporal_Keyword_Thesaurus: None
+      Temporal_Keyword: Mean high tide
+  Access_Constraints: None
+  Use_Constraints:
+    These data were generated for use by NGS during the course
+    of its development of potential final products to fulfill
+    its statutory mission.  Although NGS is making these data
+    available to others who may find the data of value, NGS
+    does not warrant, endorse, or recommend the use of these
+    data for any given purpose.  The user assumes the entire
+    risk related to the use of these data.  These data are not
+    for navigational purposes.  NGS is providing these data
+    "as is," and NGS disclaims any and all warranties, whether
+    expressed or implied, including (without limitation) any
+    implied warranties of merchantability or fitness for a
+    particular purpose.  In no event will NGS be liable to you
+    or to any third party for any direct, indirect, incidental,
+    consequential, special, or exemplary damages or lost
+    profits resulting from any use or misuse of these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          U.S. Department of Commerce, National Oceanic and
+          Atmospheric Administration, National Ocean Service,
+          National Geodetic Survey, Information Services Branch
+      Contact_Position: Senior cartographer
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3226
+      Contact_Facsimile_Telephone: (301) 713-4176
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov
+      Hours_of_Service:
+        Monday through Friday, 7:00 a.m. to 4:30 p.m.,
+        Eastern Standard Time
+  Native_Data_Set_Environment:
+    Sun Microsystems(r) workstation using Environmental Systems
+    Research Institute, Inc. (ESRI)(r) ArcGIS(r) version 8.3
+Data_Quality_Information:
+  Logical_Consistency_Report: Nothing to report
+  Completeness_Report: Nothing to report
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The derived digital data from this source map is only as
+        accurate as the source map itself.
+      Quantitative_Horizontal_Positional_Accuracy_Assessment:
+        Horizontal_Positional_Accuracy_Value: 0.391
+        Horizontal_Positional_Accuracy_Explanation: Root mean square (RMS) error in meters for x-coordinates
+      Quantitative_Horizontal_Positional_Accuracy_Assessment:
+        Horizontal_Positional_Accuracy_Value: 0.628
+        Horizontal_Positional_Accuracy_Explanation: Root mean square (RMS) error in meters for y-coordinates
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: None
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            United States Department of Commerce, National Oceanic and
+            Atmospheric Administration (NOAA), National Ocean Survey
+            (currently National Ocean Service, National Geodetic
+            Survey)
+          Publication_Date: 192206
+          Title:
+            Shoreline Map Named Willapa Bay (T-03921) Located in
+            Pacific County, Washington, Nearby Aberdeen Dated from 1922
+          Edition: First
+          Geospatial_Data_Presentation_Form: Raster map image
+          Publication_Information:
+            Publication_Place: Silver Spring, Maryland
+            Publisher:
+              United States Department of Commerce, National Oceanic and
+              Atmospheric Administration (NOAA), National Ocean Survey
+              (currently National Ocean Service, National Geodetic
+              Survey)
+          Online_Linkage: http://mapfinder.nos.noaa.gov
+      Source_Scale_Denominator: 20,000
+      Type_of_Source_Media: Mylar manuscript
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 192201
+            Ending_Date: 192206
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: T-03921
+      Source_Contribution:
+        This was the original map that was scanned and later
+        georeferenced.
+    Process_Step:
+      Process_Description:
+        The source map was originally scanned at 400 dots per inch
+        (DPI) by staff of the NOAA National Geodetic Survey.
+        Each scanned T/TP-Sheet was georeferenced to the earth's
+        surface using ERDAS Imagine image processing software.  An
+        accuracy report showing the amount of Root Mean Square
+        (RMS) error for each link was generated and available for
+        review.  The program evaluated the amount of error and
+        prompted the user to delete any coordinate link pairs that
+        exceeded the RMS threshold as set by National Map Accuracy
+        Standards.
+      Process_Date: 20060123
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA Coastal Services Center
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 2234 South Hobson Avenue
+            City: Charleston
+            State_or_Province: South Carolina
+            Postal_Code: 29405
+            Country: USA
+          Contact_Voice_Telephone: (843)740-1295
+          Contact_Facsimile_Telephone: (843)740-1224
+          Contact_Electronic_Mail_Address: csc@csc.noaa.gov
+          Hours_of_Service:
+            Monday through Friday, 8 a.m. to 5 p.m.,
+            Eastern Standard Time
+    Process_Step_Citation:
+      Users interested in the methods used during the
+      georeferencing process can refer to the training
+      manual developed by the NOAA Coastal Services
+      Center.  This manual is available on their
+      shoreline data web site for free download and is
+      saved in Adobe .pdf format.
+      http://www.csc.noaa.gov/products/shorelines
+  Tidal_Information:
+    Type_of_Tide:
+    Time_of_Tide:
+      Time_of_Low_Tide: Unknown
+      Time_of_High_Tide: Unknown
+      Tidal_Datum:
+        Mean high water
+        Tidal_Range: Unknown
+    Tide_Table_Reference: http://tidesonline.nos.noaa.gov/
+    Supplemental_Tidal_Information:
+  Marine_Weather_Condition:
+    Wind_Speed: Unknown
+    Wind_Direction: Unknown
+    Wave_Height: Unknown
+    Barometric_Pressure: Unknown
+    Environmental_Event: Link to the Descriptive Report
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000018
+      Longitude_Resolution: 0.000018
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum 1983
+      Ellipsoid_Name: Geodetic Reference System 1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          U.S. Department of Commerce, National Oceanic and
+          Atmospheric Administration, National Ocean Service,
+          National Geodetic Survey, Information Services Branch
+      Contact_Position: Senior cartographer
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301)713-3226
+      Contact_Facsimile_Telephone: (301)713-4176
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov
+      Hours_of_Service:
+        Monday through Friday, 7 a.m. to 4:30 p.m.,
+        Eastern Standard Time
+  Distribution_Liability: Not intended for navigational purposes
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Unknown
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: None
+    Fees: None
+    Ordering_Instructions: None
+Metadata_Reference_Information:
+  Metadata_Date: 20060125
+  Metadata_Review_Date: 20060125
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          U.S. Department of Commerce, National Oceanic and
+          Atmospheric Administration, National Ocean Service,
+          National Geodetic Survey, Information Services Branch
+      Contact_Position: Information specialist
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3242
+      Contact_Facsimile_Telephone: (301) 713-4172
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov
+      Hours_of_Service:
+        Monday through Friday, 7 a.m. to 4:30 p.m.,
+        Eastern Standard Time
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Extensions:
+    Profile_Name:
+      Shoreline Metadata Profile of the Content Standard for
+      Digital Geospatial Metadata V 1.0

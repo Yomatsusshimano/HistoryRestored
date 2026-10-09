@@ -1,0 +1,95 @@
+{
+  "source_ids": [
+    "S251",
+    "S252"
+  ],
+  "method": "Six-value world-file affine transform using pixel centers; outer edges at half-pixel offset. No CRS conversion or shoreline extraction.",
+  "files": [
+    {
+      "path": "sources/originals/cascadia/T-03921/t03921_dd.jpg",
+      "sha256": "21d4b0e9599e7407a29f7a8ee00e55dc2aea0fbc293d16184732eb90aa275db6",
+      "bytes": 12811592
+    },
+    {
+      "path": "sources/originals/cascadia/T-03921/t03921_dd.jgw",
+      "sha256": "1e9e302abc463efd728efa00d71d8bdccd92e3cfc2a2e29283592b98a29e72a8",
+      "bytes": 222
+    },
+    {
+      "path": "sources/originals/cascadia/T-03921/t03921.met",
+      "sha256": "3228273536cc6d47e86ca6ebaa21dc9ee1ce15ed642b517cf78751afcfb20686",
+      "bytes": 15825
+    }
+  ],
+  "raster_dimensions_pixels": [
+    19299,
+    8091
+  ],
+  "world_file_order": [
+    "A",
+    "D",
+    "B",
+    "E",
+    "C",
+    "F"
+  ],
+  "world_file_values": [
+    1.838310873e-05,
+    0.0,
+    0.0,
+    -1.838310873e-05,
+    -124.19646720483,
+    46.7565375278071
+  ],
+  "declared_crs": "Geographic NAD83; decimal degrees per source metadata",
+  "corner_edges_lon_lat": [
+    [
+      -124.19647639638437,
+      46.75654671936146
+    ],
+    [
+      -123.84170078100409,
+      46.75654671936146
+    ],
+    [
+      -123.84170078100409,
+      46.607808986627035
+    ],
+    [
+      -124.19647639638437,
+      46.607808986627035
+    ]
+  ],
+  "calculated_bounds_wsen": [
+    -124.19647639638437,
+    46.607808986627035,
+    -123.84170078100409,
+    46.75654671936146
+  ],
+  "metadata_bounds_wsen": [
+    -124.196,
+    46.608,
+    -123.842,
+    46.757
+  ],
+  "checks": "Positive horizontal/negative vertical spacing, no stored rotation, pixel0 center equals stored origin; calculated bounds within0.001degree of rounded metadata.",
+  "reported_rectification_rms_m": {
+    "x": 0.391,
+    "y": 0.628
+  },
+  "metadata_dates": {
+    "citation_publication": "192201",
+    "source_publication": "192206",
+    "source_content_range": [
+      "192201",
+      "192206"
+    ],
+    "content_range_labeled_ground_condition": [
+      "20060123",
+      "20060123"
+    ],
+    "georeferencing_process": "20060123",
+    "metadata": "20060125"
+  },
+  "limits": "RMS values are source-reported fitting residuals, not independently validated full positional uncertainty. World file supplies placement, not original survey accuracy, elevation, tide correction or historical change. Mixed metadata date roles retained."
+}

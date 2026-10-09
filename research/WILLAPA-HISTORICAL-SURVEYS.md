@@ -45,6 +45,8 @@ A separate [NOAA InPort64144](https://www.fisheries.noaa.gov/inport/item/64144) 
 
 ## Consequences and next test
 
+Subsequent [raster-package audit](WILLAPA-RASTER-CONTEXT.md) recovers the1922rectified map, world file and original metadata through the current NOAA download. This supersedes the absent1922raster input; the earlier target marsh sheets, symbol definitions and independently measured change remain unresolved.
+
 Original records now establish recoverable survey identifiers and disclose coverage, scale and tidal-selection limitations. They do not yet establish a measured historical-to-modern shoreline displacement or a soil-formation rate. The1873 sheet and1922 report concern different footprints, scales and operations; overlaying them without this crosswalk would manufacture a comparison.
 
 Next recover sheets1261-1264/1292/1342 covering relevant marsh margins, authenticate their dates/symbols, and match historical footprints to S244 soil localities using explicit horizontal/tidal datums and uncertainty. Distinguish surveyed continuity, inferred lines, annotations and later revision. Preserve Swan's qualitative evidence separately. All twenty outcomes remain active; no independent review, prospective prediction or worldwide catastrophe is established.
