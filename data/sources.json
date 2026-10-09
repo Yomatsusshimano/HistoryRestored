@@ -4742,6 +4742,20 @@
       "local_copy": "sources/originals/invention/flamsteed1671/el_f1_84-image-1.jpg",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S306",
+      "title": "Paper on telescopes and their use, [Robert Hooke?], CLP/2/13",
+      "creator": "Possibly Robert Hooke (catalog qualification retained)",
+      "publication_date": null,
+      "url": "https://makingscience.royalsociety.org/items/clp_2_13/paper-on-telescopes-and-how-to-use-them-by-robert-hooke",
+      "source_type": "Manuscript drawings and text, digital delivery images",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All six delivered canvases; selected design/text comparison with S295 plate and p544. Catalog date1667? and five-page extent retained separately.",
+      "limitations": "Tentative creator/date; no full diplomatic transcription, physical authentication, instrument manufacture or calibrated accuracy. Multiple overlapping/repeated views are dependent. Six canvases do not imply six pages or instruments.",
+      "local_copy": "sources/originals/invention/hooke-manuscript/clp_2_13-image-1.jpg",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

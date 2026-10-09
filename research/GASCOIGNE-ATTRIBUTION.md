@@ -302,3 +302,23 @@ The letter's heading gives Derby/March18/1671 and addresses Collins. Its central
 The letter reverse includes an address and subject docket; the extract continues the telescope discussion and closes with a letter-book/supplement notation. Catalog authorship and visible marks do not authenticate the copy's hand or date. The letter catalog lists one page while delivering two surfaces; both are retained without inventing an extent correction. Selected comparison shows the extract omits some surrounding correspondence and dense marginal material. It is a dependent selection from the same account, not a second independent confirmation or evidence that omitted material was intentionally suppressed.
 
 Four surfaces were inspected but not fully diplomatically transcribed; uncertain readings remain open. Related Hooke drawing catalog and original-letter collection leads were located, not yet inspected as source evidence. Next recover the reported optical papers and transfer/custody records, then compare manuscript drawings and delivery minutes with the printed descriptions. All twenty objectives remain active; exclusive priority, ancient recovery, continuous custody and independent review remain unestablished.
+
+
+## Tentatively attributed Hooke manuscript and published design
+
+2026-10-09. S306 is Royal Society [CLP/2/13](https://makingscience.royalsociety.org/items/clp_2_13/paper-on-telescopes-and-how-to-use-them-by-robert-hooke). All six delivered canvases were visually inspected. The catalog title and prose qualify the creator as possibly Hooke and give **1667?**; the manifest's unqualified Creator field does not remove that uncertainty. Five catalog pages and six delivery canvases are recorded separately. [Unchanged JPEGs and manifest](../sources/originals/invention/hooke-manuscript/README.md) carry **The Royal Society** attribution and CC BY4.0 rights. The [comparison ledger](../data/hooke-manuscript-crosswalk.json) records hashes, dimensions, locators and limits.
+
+| Manuscript delivery | Inspected S295 print | Selected correspondence |
+| --- | --- | --- |
+| Image1, Fig4 | Plate Fig4; p544 | External tube, eyepiece/dial, slotted screw and extension; text shares three-length tube and extension/contraction features |
+| Image2, Fig5; lighter views in3/5 | Plate Fig5 | Posts/crossbars, horizontal screw/crank, central elevation screw and spread legs |
+| Images3/4, Fig1 and3 | Plate Fig1 and3 | Screw/frame, carriers, dial/crank and separate hair frames |
+| Image6 lens-suspension sketches | Inspected plate | Additional pole/pulley drawings absent from this plate; full-issue absence not tested |
+
+Images3 and4 show overlapping/shaped paper and repeated views of the cutaway drawing. Image5 shows lighter exterior/support designs with an overlapping sheet edge. These are not six independent drawings or instruments. Paper edges and red marks are visible, but attachment, folding operation, ink/hand and seal identity are unauthenticated. Rendering differences do not supply physical dimensions. The comparison is of selected visible features, not a complete diplomatic transcription or plate-production reconstruction.
+
+The handwritten description below Fig4 and printed p544 share tube adjustment features; other wording is not fully collated. Image6 describes lenses used without tubes, with an objective plate suspended by a pole/pulley/cord arrangement and thread alignment for the eyepiece. It provides a design/instruction witness, not a successful observation or accuracy trial. The extra diagrams are absent from the inspected S295 plate; the acquired printed excerpt omits pp545-555, so no full-issue absence is claimed.
+
+Catalog prose repeats historical priority claims and labels Towneley's May1667 letter issue21; inspected S294 is issue25, also referred to on S295p544. This catalog discrepancy is retained rather than made into a chronology anomaly. The catalog's count of three printed illustrations is not silently equated with this audit's figure correspondences.
+
+The manuscript and print support continuity of documented design. They do not independently establish manufacture, measured accuracy, exact composition date, exclusive invention priority or an ancient recovery route. Earlier references to uninspected manuscript drawings are superseded by this six-canvas coverage; physical custody and fold configuration remain open. Next seek dated delivery/meeting records, original-paper custody and actual instrument/calibration evidence. All twenty objectives remain active; no independent review or global reconstruction is established.

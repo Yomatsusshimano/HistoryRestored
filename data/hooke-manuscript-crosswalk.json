@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S306",
+  "reference": "CLP/2/13",
+  "url": "https://makingscience.royalsociety.org/items/clp_2_13/paper-on-telescopes-and-how-to-use-them-by-robert-hooke",
+  "catalog_date_literal": "1667?",
+  "authenticated_date": null,
+  "catalog_creator_qualification": "Possibly Robert Hooke; title [Robert Hooke?], despite unqualified manifest Creator field.",
+  "catalog_extent": "5 pages",
+  "delivered_canvases": 6,
+  "manifest_path": "sources/originals/invention/hooke-manuscript/clp_2_13-manifest.json",
+  "manifest_sha256": "3c5afeda2615fa74e016da6e313d9ecc730e8440b01803e17dead41407b9c503",
+  "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+  "attribution": "The Royal Society",
+  "images": [
+    {
+      "locator": "image1",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/CLP%2FCLP_2%2FCLP_2_13%2Ftif%2FCLP_2_13_0001.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-manuscript/clp_2_13-image-1.jpg",
+      "bytes": 1673494,
+      "sha256": "96b5625d447c7dde0995c62fd3a6754d6a5a8b163664feaf60f0d88a70d3b4e0",
+      "dimensions": [
+        2335,
+        3677
+      ],
+      "inspected": true,
+      "description": "Fig4 exterior telescope body, eyepiece/dial, slotted screw and tube extension; sideways handwritten description beneath."
+    },
+    {
+      "locator": "image2",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/CLP%2FCLP_2%2FCLP_2_13%2Ftif%2FCLP_2_13_0002.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-manuscript/clp_2_13-image-2.jpg",
+      "bytes": 1604944,
+      "sha256": "7f504424636aea576bb474d22e9f81f8f978782e0946aeaaf4a4d92c0754d935",
+      "dimensions": [
+        2335,
+        3675
+      ],
+      "inspected": true,
+      "description": "Fig5 support with two posts, crossbars, horizontal screw/crank, central elevation screw and spread legs."
+    },
+    {
+      "locator": "image3",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/CLP%2FCLP_2%2FCLP_2_13%2Ftif%2FCLP_2_13_0003b.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-manuscript/clp_2_13-image-3.jpg",
+      "bytes": 424548,
+      "sha256": "6e61bd2ca59b62e304ff43945630e884001506c29cc15ff226d34052e7692141",
+      "dimensions": [
+        2335,
+        1447
+      ],
+      "inspected": true,
+      "description": "Composite view: darker cutaway micrometer drawing overlaps lighter exterior/support drawings; paper edges and red marks visible."
+    },
+    {
+      "locator": "image4",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/CLP%2FCLP_2%2FCLP_2_13%2Ftif%2FCLP_2_13_0003.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-manuscript/clp_2_13-image-4.jpg",
+      "bytes": 1585925,
+      "sha256": "eea115c5c4d03037e888a692b53b0fb06259a6496676fcb22bd91a68efd261d8",
+      "dimensions": [
+        2335,
+        4698
+      ],
+      "inspected": true,
+      "description": "Closer view of cutaway drawing, Fig1 mechanism and Fig3 hair frames; shaped paper edge and black background. Repeated view, not another instrument."
+    },
+    {
+      "locator": "image5",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/CLP%2FCLP_2%2FCLP_2_13%2Ftif%2FCLP_2_13_0004.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-manuscript/clp_2_13-image-5.jpg",
+      "bytes": 1458552,
+      "sha256": "e767a615664213bbac7942f4082281bdbfe02dbf42a16f0b0c761ea3717f46f0",
+      "dimensions": [
+        2335,
+        3714
+      ],
+      "inspected": true,
+      "description": "Lighter exterior/support drawings with overlapping sheet edge at left. Similar designs do not establish different physical instruments."
+    },
+    {
+      "locator": "image6",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/CLP%2FCLP_2%2FCLP_2_13%2Ftif%2FCLP_2_13_0005.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-manuscript/clp_2_13-image-6.jpg",
+      "bytes": 1737222,
+      "sha256": "0f675ed7997784410e1aeb98ba3550805da86edcdf43f8cfbd32d45118b53c06",
+      "dimensions": [
+        2335,
+        3765
+      ],
+      "inspected": true,
+      "description": "Handwritten directions and diagrams for lenses without tubes: suspended objective plate, pole, pulleys/cord and four-thread eyepiece alignment. No calibrated trial."
+    }
+  ],
+  "comparisons": [
+    {
+      "manuscript_locator": "image1 Fig4",
+      "print_locator": "S295 plate Fig4; p544 first paragraph",
+      "finding": "Shared external tube arrangement with eyepiece/dial, slotted adjustment and extending tube. Selected handwritten description and print both describe three tube lengths and extension/contraction; no full diplomatic collation or authorship authentication."
+    },
+    {
+      "manuscript_locator": "image2 Fig5; lighter support views image3/image5",
+      "print_locator": "S295 plate Fig5; p544 rest reference",
+      "finding": "Two posts/crossbars, horizontal screw/crank, central elevation screw and spread legs correspond. Differences of rendering do not establish different dimensions or manufacture."
+    },
+    {
+      "manuscript_locator": "image3/image4 Fig1 and Fig3",
+      "print_locator": "S295 plate Fig1/Fig3",
+      "finding": "Long screw/frame, opposing carriers, disc/crank and separate hair frames correspond. Image3 and image4 repeat the same drawing assembly rather than independently corroborating construction."
+    },
+    {
+      "manuscript_locator": "image6 pole/pulley diagrams",
+      "print_locator": "S295 inspected unnumbered plate",
+      "finding": "Additional lens-suspension diagrams are not present on this inspected printed plate. This is not an absence finding for the full issue, whose pp545-555 are outside the acquired S295 excerpt."
+    }
+  ],
+  "inspection": "All six delivery images visually inspected and S295 plate/p544 reinspected. Selected visual/textual features compared; no full transcription, translation or physical authentication. Images unchanged, delivery JPEGs rather than master TIFFs.",
+  "catalog_conflicts": [
+    "Five-page extent versus six delivered canvases retained without guessing a correction.",
+    "Catalog narrative labels Towneley May1667 letter issue21; inspected S294 publication is issue25. Catalog narrative is not substituted for the original.",
+    "Catalog states three illustrations printed; this audit records visible correspondences by figure and does not infer the catalog counting convention."
+  ],
+  "limits": [
+    "Exact composition date, handwriting and physical custody unverified.",
+    "Fold/cut/attachment operation cannot be reconstructed from these views alone; red marks are not authenticated seals.",
+    "No physical instrument identified, manufacturing dimensions inferred, calibrated accuracy or exclusive priority established.",
+    "Multiple delivery views and the related print are dependent design witnesses, not independent experimental tests.",
+    "No ancient technological recovery, deliberate fabrication or chronology break established.",
+    "No independent review."
+  ],
+  "next_test": "Seek dated delivery/meeting records and provenance for CLP/2/13; identify any surviving instrument and raw calibration trials. Recover Gascoigne original papers and original correspondence separately."
+}

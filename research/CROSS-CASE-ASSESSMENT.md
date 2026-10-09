@@ -329,3 +329,8 @@ S303 all fourteen preface pages inspected, with title/reverse and numbered-table
 ### 2026-10-09 — Flamsteed1671 optical-paper custody lead
 
 S304 letter/S305 Oldenburg extract inspected on four surfaces; unchanged CC BY4.0 images preserved with Royal Society attribution. Flamsteed reports Gascoigne-paper possession and adverse evaluation; dependent extract does not independently corroborate custody. Original papers/transfers unverified. See [custody audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/305 sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Manuscript/print design correspondence
+
+S306 CLP/2/13 all six delivery canvases inspected and preserved CC BY4.0 with Royal Society attribution. Selected manuscript features correspond to S295 Fig1/3/4/5 and p544 tube description; repeated views, tentative creator/date and catalog discrepancies retained. No manufacture or accuracy proof. See [manuscript comparison](GASCOIGNE-ATTRIBUTION.md).27 drafts/306 sources; all twenty objectives active, no independent review.
