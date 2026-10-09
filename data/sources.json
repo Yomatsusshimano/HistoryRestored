@@ -3722,6 +3722,21 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S238",
+      "title": "Maher v. City of Chicago,38 Ill.266:1887 report edition of1865 opinion",
+      "creator": "Illinois Supreme Court, Justice Lawrence; reporter Norman L. Freeman; Callaghan & Company",
+      "publication_date": "1887",
+      "url": "https://archive.org/download/reportsofcasesat38illi/reportsofcasesat38illi.pdf",
+      "source_type": "Scanned later edition of primary judicial opinion",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF p7 title; pp210-212 visually inspected (original pagination268-271; edition204-206). Case pp209-214 text-read. Quantities, supervision, payment narrative and conflicting November1865/1856 readings inspected.",
+      "limitations": "1887 edition, not manuscript opinion or original surveys/contracts. Reported quantities and payments not independently measured/audited. Exact linkage to Haines1859 North Branch project unresolved; no spoil destination.",
+      "local_copy": null,
+      "sha256": "cd2631241ca0abf2ba113722c40b4fd55210de6a6fba5d89e294976640889953",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

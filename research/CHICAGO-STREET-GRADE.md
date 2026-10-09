@@ -41,3 +41,8 @@ The reproduced agreement instead describes Kinzie Street Bridge to city limits, 
 No disposal destination, dredged volume or street-fill connection is supplied. Completed river works do not establish completed street raising. Trace the journal, estimates, contracts, litigation and disposal records before joining these operations.
 
 Bounded legal searches yielded possible leads: *Elston v. City of Chicago*,40 Ill.514, and *McAuley v. City of Chicago*,22 Ill.563. Full-page retrieval failed. These remain unregistered search leads; neither is identified as the1859 address's unnamed decision. In particular, the later Elston decision cannot be substituted for a decision already reported in March1859. No legal advice or contemporary judgment authentication is claimed.
+
+
+### Judicial report follow-up
+
+The [Maher report audit](CHICAGO-DREDGING-REPORT.md) now supplies scanned source-reported quantities, supervision and payment, while retaining a printed date conflict and unresolved project correspondence. River excavation and street deposition remain separate.
