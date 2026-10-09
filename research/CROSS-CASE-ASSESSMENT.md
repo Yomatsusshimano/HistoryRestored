@@ -294,3 +294,8 @@ S300 complete article pp11–34 and next-article boundary inspected; 25 surfaces
 ### 2026-10-09 — Auzout pamphlet colophon and contribution-specific credit
 
 S301 acquired19pagePDF; nine selected historical surfaces inspected. Visible1667colophon versus Bouguer1666citation retained; Auzout screw/Picard microscope roles, mechanicalwear and25920/34560/43200nominal divisions documented. Remaining text unread; no accuracy or priority verdict. See [pamphlet audit](GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Complete1667 pamphlet and measurement limits
+
+S301 all18historical surfaces inspected. Microscope400×60=24000nominal parts perfoot reproduced; spacing/focal tangent method, eleven precautions and later-observation promise documented. Different later target-calibration tasks separated; no dated trial table or demonstrated accuracy. See [full pamphlet audit](GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.

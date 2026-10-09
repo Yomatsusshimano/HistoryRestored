@@ -1505,3 +1505,10 @@ Previous goal turn verified status without research-state progress; clean4211cdb
 S301 acquired19pagePDF; nine selected historical surfaces inspected. Visible1667colophon versus Bouguer1666citation retained; Auzout screw/Picard microscope roles, mechanicalwear and25920/34560/43200nominal divisions documented. Remaining text unread; no accuracy or priority verdict. See [pamphlet audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.
 
 Previousgoalturnpublishedbyteverified7b0288b; cleancheckoutrevalidated. BnF exactrecord inspected. Secondarylead linked formerMedica host, which failedexpiredTLS; no bypass. CurrentNumerabilis library route succeeded normalTLS and provided actualPDF/archive links. PDF acquired unchanged; extraction contains wrapperlabels only, not historicalOCR. Poppler reportedmissingdisplayfonts; rendered selected historical scans inspected successfully. No physicalcopy identity, fulltext, currentcustody, calibratedaccuracy, outreach or independentreview claimed.
+
+
+### 2026-10-09 — Complete1667 pamphlet and measurement limits
+
+S301 all18historical surfaces inspected. Microscope400×60=24000nominal parts perfoot reproduced; spacing/focal tangent method, eleven precautions and later-observation promise documented. Different later target-calibration tasks separated; no dated trial table or demonstrated accuracy. See [full pamphlet audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.
+
+Previousgoalturnpublishedbyteverified20e0b53; cleancheckout revalidated. Nine remaining rendered pages inspected using existing unchanged acquisition. Coverage extended rather than duplicate source registered; nominal arithmetic and original hash checked. No raw observation recovery, complete translationcollation, physical authentication, exact1666edition, outreach or independent review claimed.

@@ -11,15 +11,24 @@
   "inspected_pdf_pages": [
     2,
     3,
+    4,
+    5,
     6,
     7,
     8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
     16,
     17,
     18,
     19
   ],
-  "coverage": "Selected printedpp1-2,5-7,15, unnumbered reverse/imprint bleed-through and plate reverse/front inspected. Modern cover and remaining text pages not used as inspected evidence. PDF page index is historical viewer index+1. No complete transcription or full collation.",
+  "coverage": "All18historical surfaces/PDF2-19 visually inspected: printedpp1-15, imprint bleed-through surface and plate reverse/front. Modern cover not historical evidence. PDF page index is historical viewer index+1. Complete visual text coverage, not diplomatic transcription, full translation collation or physical authentication.",
   "rights": "University-library watermark/copyright notice present; unrestricted redistribution not established. Original PDF retained locally; public links and hash only.",
   "chronology": {
     "letter_heading": "1666-12-28",
@@ -59,6 +68,26 @@
     {
       "locator": "PDF17-19",
       "finding": "Imprint bleed-through and plate reverse/front inspected. Mechanical plate depicts tube, screw/dial, frames and scale; not an authenticated surviving object or manufacturing trial."
+    },
+    {
+      "locator": "printedpp3-4/PDF4-5",
+      "finding": "Letter continuation acknowledges incomplete coverage of lunar orbital situations and proposes lunar-distance inference from apparent diameters/heights. Note heading4January1667 explains increasing apparent lunar diameter in morning eclipse by increasing altitude/proximity. Predictions are author reasoning, not executed independent validation."
+    },
+    {
+      "locator": "printedpp8-9/PDF9-10",
+      "finding": "Microscope method400rule divisions perfoot times60magnification yields24000nominal parts perfoot/2000perinch. Converts spacing to angle treating focal length as radius and spacing as tangent; says external celestial/terrestrial measurement unnecessary for this conversion. Lens thickness/principal geometry and correct focus still matter. Micrometer movement plus microscope reading recommended; night reading and time cost limit throughput."
+    },
+    {
+      "locator": "printedpp9-12/PDF10-13",
+      "finding": "Lists focus, stable mounting, aperture, centered target, eye parallax, tube length, illumination and refraction precautions. Reports winter shortening of12feet metal tube nearly2lines, without temperatures or calibration record. Human-hair visibility/alternative blades and telescope motion can affect diameter estimates. Historical colored/smoked-glass practices are not modern solar safety instructions."
+    },
+    {
+      "locator": "printedp13/PDF14",
+      "finding": "Requires per-telescope scale-to-angle table and proposes finer sexagesimal subdivisions. Says detailed Auzout/Picard observations may be supplied later; no dated per-trial observation table or uncertainty budget in this pamphlet."
+    },
+    {
+      "locator": "printedpp14-15/PDF15-16 andplate/PDF19",
+      "finding": "Explanation maps plate tube, retaining ring, sliding frames, screw/nut and60part dial; whole-turn divisions on frame extensions and simpler frames distinguished. Ocular carrier and eclipse-frame figure explicitly omitted as easy to conceive. Printed schematic is not complete fabrication dimensions, executed calibration or surviving-object proof."
     }
   ],
   "arithmetic_checks": {
@@ -66,13 +95,16 @@
     "three_turns_times_60_times_144": 25920,
     "three_turns_times_80_times_144": 34560,
     "three_turns_times_100_times_144": 43200,
-    "status": "Nominal arithmetic reproduced; no metric unit conversion or accuracy validation"
+    "status": "Nominal arithmetic reproduced; no metric unit conversion or accuracy validation",
+    "microscope_400_times_60": 24000,
+    "per_inch_24000_divided_by_12": 2000
   },
   "limits": [
-    "Remaining text pages uninspected",
+    "No diplomatic transcription or complete French/English collation",
     "Authorship cataloged; unsigned technical section not physical author authentication",
     "No same-copy identification with BnF holdings",
     "No exact1666edition,1693reprint orGascoigneaccess/intent authentication",
     "No calibrated instrument accuracy or independent review"
-  ]
+  ],
+  "comparison_with_later_accounts": "S301p8 permits spacing/focal-length conversion without external measurement, whereas S299pp62-63 describes terrestrial target calibration and S300pp25-26 warns screw/focal-length comparison alone is inadequate across its heliometer travel. Different devices and tasks: not proof of direct correction, borrowed text or deliberate suppression."
 }
