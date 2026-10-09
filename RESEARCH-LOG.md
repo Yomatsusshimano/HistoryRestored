@@ -1519,3 +1519,10 @@ Previousgoalturnpublishedbyteverified20e0b53; cleancheckout revalidated. Nine re
 S293/S301ten selected comparisons record apogee38/40, refraction7–8/8–9 and lunar-minimum variants; French4January1667note heading absent from continuous English extract. Sameprecision claims are dependent repetition. Original readings/editor authority unknown; no motive or chronology rewrite established. See [language crosswalk](research/GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.
 
 Previousgoalturnpublishedbyteverifiedf2e1753; cleancheckout revalidated. ExistingS293threepage renders reinspected against fullS301reading. Bothoriginal hashes verified; neighboring English articles excluded. No new acquisition/source count, full diplomatic collation, authenticated original or named editorial mechanism, outreach or independent review claimed.
+
+
+### 2026-10-09 — 1693 reprint and explicit earlier-publication credit
+
+S302threeprefacesurfaces/pp413–415 inspected. Auzout/Picardshare and rare1667priorprinting explicitlyreported; selectedFrenchnumeric readings and4Januarynote retained. Reticle20/25arithmeticvariant preserved with unknowneditorauthority. See [reprint audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/302sources; all twenty objectives active, no independent review.
+
+Previousgoalturnpublishedbyteverifiedb860f0d; cleancheckoutrevalidated. Spanishlibraryviewer botdenial respected. Archivequerythreecandidates; Robervalitem acquired/excluded byscope, firstfullcopydownload failed, secondfullcopy normalTLS succeeded. Same live49448/10612/59773handles polled toexit0; no timeout restart. Scandata locators checked against scans; OCRusedonlylocating. Sixsurfacesinspected, originalsretainedlocally. No remainingarticle/plate, exact1687preface, physicalauthentication, outreach or independentreview claimed.

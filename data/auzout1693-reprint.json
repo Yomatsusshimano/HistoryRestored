@@ -1,0 +1,49 @@
+{
+  "source_id": "S302",
+  "archive_id": "bub_gb_evu0Wb0tgWQC",
+  "url": "https://archive.org/details/bub_gb_evu0Wb0tgWQC",
+  "pdf_url": "https://archive.org/download/bub_gb_evu0Wb0tgWQC/bub_gb_evu0Wb0tgWQC.pdf",
+  "original_bytes": 24325328,
+  "original_sha256": "05b6478dcab448a4ab0b7710c5c581d0f2b064c6baa49d67a38488f07f99c714",
+  "pdf_pages": 529,
+  "inspected_pdf_pages": [
+    7,
+    8,
+    9,
+    420,
+    421,
+    422
+  ],
+  "coverage": "All three preface surfaces/PDF7-9 and selected micrometer pp413-415/PDF420-422 visually inspected. Remaining micrometer pages, plates, title and rest of volume uninspected. OCR used for locating only, not authoritative transcription.",
+  "date": "2026-10-09",
+  "rights": "This Archive/Google surrogate has no established unrestricted scan license here; retained locally and linked. Spanish library CC BY4.0 pertains to its separate inaccessible surrogate, not transferred to this scan.",
+  "findings": [
+    {
+      "locator": "preface/PDF7-9",
+      "finding": "Reports posthumous manuscript custody through Picard and de la Hire, printing permission, and assistance from Sedileau/Pothenot. Describes editorial arrangement of Picard papers. These are preface reports, not authenticated custody transactions."
+    },
+    {
+      "locator": "preface finalpage/PDF9",
+      "finding": "Explicitly calls micrometer text Auzout work in which Picard had some share, previously printed1667 and rarely found. Does not claim Picard sole inventor.1693preface is not substituted for disputed1687preface."
+    },
+    {
+      "locator": "p413/PDF420",
+      "finding": "Marginal note attributes text to Auzout and priorParis1667printing. Opening notice and28December1666letter heading retained."
+    },
+    {
+      "locator": "p414/PDF421",
+      "finding": "Retains French31arcmin37/38solar alternatives,7/8arcsec refraction,29arcmin40or at least35lunar wording,24000/30000divisions and separate4January1667note heading. These match selected S301French readings and differ from S293English variants."
+    },
+    {
+      "locator": "p415/PDF422",
+      "finding": "Note concludes before technicaltreatise. Nominal25920/34560/43200subdivisions retained. Reticle-estimate alternatives24/25arcsec differ from S301p5reading24/20; literal one-sixth of120arcsec is20, so25does not reproduce that stated arithmetic. Cause/authority unknown."
+    }
+  ],
+  "dependence": "Reprint of earlier account; selected agreement supports transmission, not independent measurements. Direction and authority of numeric changes require underlying manuscripts/printing records.",
+  "limits": [
+    "Remaining article and plate uninspected",
+    "Exact1687preface still uninspected",
+    "No original letter, custody transaction or calibrated instrument authenticated",
+    "No named variant editor, motive, ancient recovery or independent review"
+  ]
+}

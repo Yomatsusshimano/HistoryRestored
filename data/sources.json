@@ -4686,6 +4686,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S302",
+      "title": "Divers ouvrages1693: preface and selected Auzout micrometer reprint",
+      "creator": "Académie royale des sciences; Auzout micrometer text; de la Hire editorial role reported; Archive/Google surrogate",
+      "publication_date": "1693",
+      "url": "https://archive.org/details/bub_gb_evu0Wb0tgWQC",
+      "source_type": "Historical printed collected volume digital scans",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All three preface surfaces/PDF7-9 and selected micrometer pp413-415/PDF420-422 visually inspected. Remaining micrometer pages, plates, title and rest of volume uninspected. OCR used for locating only, not authoritative transcription.",
+      "limitations": "Preface/editorial custody is reported, not authenticated. Selected reprint only; exact1687preface, remainingarticle/plate andoriginalletter uninspected. No calibratedaccuracy, exclusivepriority, intent or independentreview. Scanrights unestablished; linkonly.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

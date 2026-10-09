@@ -790,3 +790,8 @@ S301 all18historical surfaces inspected. Microscope400×60=24000nominal parts pe
 ### 2026-10-09 — French/English numerical and note-boundary variants
 
 S293/S301ten selected comparisons record apogee38/40, refraction7–8/8–9 and lunar-minimum variants; French4January1667note heading absent from continuous English extract. Sameprecision claims are dependent repetition. Original readings/editor authority unknown; no motive or chronology rewrite established. See [language crosswalk](research/GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — 1693 reprint and explicit earlier-publication credit
+
+S302threeprefacesurfaces/pp413–415 inspected. Auzout/Picardshare and rare1667priorprinting explicitlyreported; selectedFrenchnumeric readings and4Januarynote retained. Reticle20/25arithmeticvariant preserved with unknowneditorauthority. See [reprint audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/302sources; all twenty objectives active, no independent review.
