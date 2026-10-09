@@ -1512,3 +1512,10 @@ Previousgoalturnpublishedbyteverified7b0288b; cleancheckoutrevalidated. BnF exac
 S301 all18historical surfaces inspected. Microscope400×60=24000nominal parts perfoot reproduced; spacing/focal tangent method, eleven precautions and later-observation promise documented. Different later target-calibration tasks separated; no dated trial table or demonstrated accuracy. See [full pamphlet audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.
 
 Previousgoalturnpublishedbyteverified20e0b53; cleancheckout revalidated. Nine remaining rendered pages inspected using existing unchanged acquisition. Coverage extended rather than duplicate source registered; nominal arithmetic and original hash checked. No raw observation recovery, complete translationcollation, physical authentication, exact1666edition, outreach or independent review claimed.
+
+
+### 2026-10-09 — French/English numerical and note-boundary variants
+
+S293/S301ten selected comparisons record apogee38/40, refraction7–8/8–9 and lunar-minimum variants; French4January1667note heading absent from continuous English extract. Sameprecision claims are dependent repetition. Original readings/editor authority unknown; no motive or chronology rewrite established. See [language crosswalk](research/GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.
+
+Previousgoalturnpublishedbyteverifiedf2e1753; cleancheckout revalidated. ExistingS293threepage renders reinspected against fullS301reading. Bothoriginal hashes verified; neighboring English articles excluded. No new acquisition/source count, full diplomatic collation, authenticated original or named editorial mechanism, outreach or independent review claimed.

@@ -106,5 +106,6 @@
     "No exact1666edition,1693reprint orGascoigneaccess/intent authentication",
     "No calibrated instrument accuracy or independent review"
   ],
-  "comparison_with_later_accounts": "S301p8 permits spacing/focal-length conversion without external measurement, whereas S299pp62-63 describes terrestrial target calibration and S300pp25-26 warns screw/focal-length comparison alone is inadequate across its heliometer travel. Different devices and tasks: not proof of direct correction, borrowed text or deliberate suppression."
+  "comparison_with_later_accounts": "S301p8 permits spacing/focal-length conversion without external measurement, whereas S299pp62-63 describes terrestrial target calibration and S300pp25-26 warns screw/focal-length comparison alone is inadequate across its heliometer travel. Different devices and tasks: not proof of direct correction, borrowed text or deliberate suppression.",
+  "language_comparison": "Ten selected French/English comparisons now recorded in data/auzout1667-language-crosswalk.json: numeric variants,4January1667note segmentation and extraEnglish topics. Not complete diplomatic/manuscript collation."
 }

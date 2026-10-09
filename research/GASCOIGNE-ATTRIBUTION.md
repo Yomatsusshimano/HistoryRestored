@@ -222,3 +222,20 @@ Pages9–13 provide eleven numbered precautions: focus, stable mounting, apertur
 Pages14–15 explain the plate's retaining ring, sliding frames, screw/nut,60part dial and whole-turn indicators. Some components are expressly not drawn. This is a published mechanism description, not complete fabrication dimensions or surviving-object authentication.
 
 The calibration comparison now has a specific technical distinction: S301p8 uses spacing/focal geometry without external angular measurement; S299pp62–63 describes terrestrial targets; S300pp25–26 requires target verification rather than assuming screw/focal correspondence over the heliometer's travel. These are different devices and tasks. The distinction does not establish direct borrowing, a deliberate correction of this pamphlet, or any author's knowledge of Gascoigne. Next compare the complete French letter against S293 and1693reprint, and seek the promised observation/calibration records and exact1687preface. No ancient recovery, chronology rewrite, priority verdict or independent review follows. All twenty objectives remain active.
+
+
+## French/English letter crosswalk: numerical variants and merged note
+
+2026-10-09. The [ten-row crosswalk](../data/auzout1667-language-crosswalk.json) compares S301printedpp2–4 with S293Englishpp373–375. All three English scans were reinspected and both original hashes checked. This is selected paragraph/value comparison, not complete diplomatic transcription or original-letter collation. No source count added.
+
+| Item | French pamphlet | English extract | Scope |
+| --- | --- | --- | --- |
+| Solar apogee alternatives |31′37″ or38″|31′37″ or40″|Second alternative differs2″; shared35″ lower bound retained|
+| Noon refraction shortening |7″ or8″|8″ or9″|Both alternatives shifted1″|
+| Lunar minimum wording |29′40″, or at least35″|29′44″ or45″|Different values and expression; not one pooled measurement|
+| Perigee limit |32′45″, believed1–2″ less|Same selected values|Agreement is copied report, not a second trial|
+| Nominal divisions/error |24000/30000perfoot;3–4″|Same|Shared author claim, not independent calibration|
+
+Frenchp3 separately heads the Hevelius eclipse explanation as a4January1667note, continuing onp4. Englishp374 places the corresponding explanation continuously after the preceding letter reasoning, without that dated heading. The umbrella28December1666heading therefore cannot authenticate every paragraph's composition date. The English two-site paragraph also includes an explicit precision qualification where the French ends with an abbreviated continuation. Englishpp374–375 then discuss Burattini lenses and the Hevelius/comet dispute; the French excerpt instead ends and proceeds to the technical treatise onp5. This identifies differences in selected publication scope, not proof that the original letter lacked the extra topics.
+
+The texts agree in broad lunar-distance reasoning,6–7hour premise and admitted incomplete coverage. Such agreement is source transmission, not independent confirmation. The numerical differences are real printed variants but their direction, translator/editor authority and original readings remain unknown. Original manuscript comparison is needed before assigning an error, revision, actor or motive. No deliberately fabricated observation, calendar rewrite or recovered ancient technology is established. Next inspect1693reprint and recover the underlying letter/note and exact1687preface; retain every variant meanwhile. All twenty objectives remain active; independent review remains absent.

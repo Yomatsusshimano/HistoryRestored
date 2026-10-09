@@ -1,0 +1,100 @@
+{
+  "source_ids": [
+    "S293",
+    "S301"
+  ],
+  "date": "2026-10-09",
+  "english_scan_sha256": "9cea8408650f1f7368b3a9eb95e0c8c77a99f9e1cbbd9c2c8811ba17d0c440b3",
+  "french_pdf_sha256": "93002e73eb8e8e4f122396452f44010be12806f188addd5d85f6d0521d93a53e",
+  "coverage": "Reinspected all three English pages373-375 and previously inspected Frenchpp2-4. Ten selected paragraph/value comparisons, not complete diplomatic transcription or original manuscript collation. Adjacent unrelated English articles excluded.",
+  "comparisons": [
+    {
+      "topic": "heading",
+      "french_locator": "Frenchp2/PDF3",
+      "english_locator": "Englishp373",
+      "french_reading": "Letter28December1666 to Oldenburg, Royal Society secretary",
+      "english_reading": "Letter28December1666 to publisher",
+      "assessment": "Same letter date; recipient role differently expressed"
+    },
+    {
+      "topic": "shared precision",
+      "french_locator": "Frenchp2/PDF3",
+      "english_locator": "Englishp373",
+      "french_reading": "24000/30000parts perfoot;3/4arcsec claimed error",
+      "english_reading": "24000/30000parts perfoot;3/4arcsec claimed error",
+      "assessment": "Values agree; repeated author claim, not independent trial"
+    },
+    {
+      "topic": "solar apogee",
+      "french_locator": "Frenchp2/PDF3",
+      "english_locator": "Englishp373",
+      "french_reading": "31arcmin37or38arcsec; not below35arcsec",
+      "english_reading": "31arcmin37or40arcsec; not below35arcsec",
+      "assessment": "Upper alternative38 versus40 differs2arcsec; lower bound agrees"
+    },
+    {
+      "topic": "solar perigee",
+      "french_locator": "Frenchp2/PDF3",
+      "english_locator": "Englishp373",
+      "french_reading": "Not over32arcmin45arcsec; believed1or2arcsec less",
+      "english_reading": "Not over32arcmin45arcsec; may be1or2arcsec less",
+      "assessment": "Selected values agree"
+    },
+    {
+      "topic": "refraction",
+      "french_locator": "Frenchpp2-3/PDF3-4",
+      "english_locator": "Englishp373",
+      "french_reading": "Vertical shortening at noon7or8arcsec",
+      "english_reading": "Vertical shortening at noon8or9arcsec",
+      "assessment": "Both alternatives shifted+1arcsec in English"
+    },
+    {
+      "topic": "lunar minimum",
+      "french_locator": "Frenchp3/PDF4",
+      "english_locator": "Englishp373",
+      "french_reading": "29arcmin40arcsec, or at least35arcsec",
+      "english_reading": "29arcmin44or45arcsec",
+      "assessment": "Different wording and values; do not collapse into one measurement"
+    },
+    {
+      "topic": "lunar coverage",
+      "french_locator": "Frenchp3/PDF4",
+      "english_locator": "Englishpp373-374",
+      "french_reading": "Not often above33arcmin; orbital situations incompletely observed;6or7hours distance-stability premise",
+      "english_reading": "Not often above33arcmin; same incomplete coverage and6or7hours premise",
+      "assessment": "Common reasoning and limits, not independent corroboration"
+    },
+    {
+      "topic": "follow-up boundary",
+      "french_locator": "Frenchpp3-4/PDF4-5",
+      "english_locator": "Englishp374",
+      "french_reading": "Separate note heading4January1667 introduces Hevelius eclipse explanation",
+      "english_reading": "Explanation follows letter reasoning without separate dated note heading",
+      "assessment": "Different segmentation; English umbrella heading not date proof for every paragraph"
+    },
+    {
+      "topic": "two-site qualification",
+      "french_locator": "Frenchp3/PDF4",
+      "english_locator": "Englishp374",
+      "french_reading": "Two-site proposal ends with etc.",
+      "english_reading": "Adds explicit qualification that method does not go to preciseness",
+      "assessment": "Visible wording difference; manuscript authority unknown"
+    },
+    {
+      "topic": "later topics",
+      "french_locator": "Frenchp4/PDF5 thenp5/PDF6",
+      "english_locator": "Englishpp374-375",
+      "french_reading": "Ends eclipse reasoning, next printed section is technicalManièreexacte",
+      "english_reading": "Continues Burattini lenses and Hevelius/comet dispute",
+      "assessment": "English has additional topics absent from French extract scope; not proof original letter lacked them"
+    }
+  ],
+  "limits": [
+    "No original letter or4Januarynote authenticated",
+    "Direction and authority of changes unknown",
+    "No translator/editor identity or deliberate falsification inferred",
+    "Reported angles lack dated raw trials; differences do not validate either version",
+    "No independent review"
+  ],
+  "inference": "Specific numeric and segmentation changes are documented in published versions; they show why translation/extract copies cannot count as independent measurements. They do not establish a worldwide chronology rewrite or ancient-recovery route."
+}
