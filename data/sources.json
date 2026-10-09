@@ -4355,6 +4355,37 @@
       "sha256": "e12ac2e886edafe616e0994c610ad3daa01db17c00d0e9938145d956f249fc2f",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S280",
+      "title": "USGS dataset13384: Core descriptions associated with activity00WCE01",
+      "creator": "U.S. Geological Survey, Coastal and Marine Geoscience Data System",
+      "publication_date": null,
+      "url": "https://cmgds.marine.usgs.gov/services/cmgds-dataset.php?id=13384",
+      "source_type": "Official dataset catalog exposed excerpt",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Indexed exact dataset page identifies activity00WCE01 and public-files DOI10.3133/ofr0246; geometry unavailable and description absent.",
+      "limitations": "Catalog points back to report, not separately acquired logs. Direct tool fetch cache miss; no present custody, individual core identity or independent confirmation.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S281",
+      "title": "Forcing of large-scale cycles of coastal change at the entrance to Willapa Bay, Washington",
+      "creator": "Robert A. Morton, H. Edward Clifton, Noreen A. Buster, Russell L. Peterson, Guy Gelfenbaum",
+      "publication_date": "2007",
+      "url": "https://www.researchgate.net/publication/248461127_Forcing_of_large-scale_cycles_of_coastal_change_at_the_entrance_to_Willapa_Bay_Washington",
+      "source_type": "Original research article; author-uploaded exposed text and official citation",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Author-uploaded exposed text: selected methods/stratigraphy, Table1 six rows, Table2 five rows, section4 and6.2. Compared KI-11 text with S274 visually checked Table3. Official USGS catalog70031632 verifies citation/DOI.",
+      "limitations": "No PDF/figure/table scan acquired; direct author-page retrieval403 and PDF-link tool error. Text glyph b remains uninterpreted. Lab/calibration/error conventions unknown. Related2002field work, not independent replication; local spit inference not global catastrophe.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "doi": "10.1016/j.margeo.2007.07.008"
     }
   ]
 }

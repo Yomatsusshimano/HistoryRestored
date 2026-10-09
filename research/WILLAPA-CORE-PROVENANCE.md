@@ -27,3 +27,8 @@ The USGS report record and two versions of its field catalog share institutional
 ## Next discriminating evidence
 
 Recover report AppendixB and dataset13384, then crosswalk original core IDs, dates, sample depths, recovery gaps, photographs and laboratory identifiers to KI11 and the later redrawings. Distinguish preliminary interpretations from measured contacts and correlate only when sample-specific evidence supports it. Missing downloads do not demonstrate lost records, erased history or rapid emplacement. This tranche supplies an inspected diagram census and a more precise original-record route; the physical reconstruction and all twenty objectives remain incomplete.
+
+
+## 2026-10-09 retrieval follow-up
+
+The exact dataset13384 page now identifies its public-files locator as the2002 report DOI; it does not supply a separately acquired log. The later2007 author-uploaded exposed text gives KI-11 sample depth/elevation and age, but differs from the2018 material and age labels. See the [age/material crosswalk](WILLAPA-2007-AGE-CROSSWALK.md). Original2002 log,2007 table scans and laboratory certificate remain missing; this follow-up does not authenticate custody or resolve the conflict.

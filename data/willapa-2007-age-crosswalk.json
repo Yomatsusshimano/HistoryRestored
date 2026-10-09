@@ -1,0 +1,61 @@
+{
+  "source_ids": [
+    "S274",
+    "S281"
+  ],
+  "table_counts": {
+    "radiocarbon": 6,
+    "luminescence": 5
+  },
+  "KI11_comparison": {
+    "depth_equal": true,
+    "printed_age_error_equal": true,
+    "material_2007": "Shell",
+    "material_method_2018": "Wood/AMS",
+    "age_label_2007": "Calibrated age (yr BP)",
+    "age_label_2018": "conventional yr BP \u00b11sigma",
+    "calibrated_median_2018": 1474,
+    "elevation_2007_m_MLLW": -3.7,
+    "elevation_2018_m_MTL": -4.7,
+    "conversion_authenticated": false,
+    "lab_id_2018": "133387",
+    "lab_id_2007": null
+  },
+  "luminescence_method_differences": [
+    {
+      "site": "KI-13",
+      "depth_cm": 65,
+      "TL_minus_IRSL_years": 5900
+    },
+    {
+      "site": "KI-13",
+      "depth_cm": 70,
+      "TL_minus_IRSL_years": 4730
+    },
+    {
+      "site": "TS-4",
+      "depth_cm": 55,
+      "TL_minus_IRSL_years": 5240
+    },
+    {
+      "site": "TS-4",
+      "depth_cm": 60,
+      "TL_minus_IRSL_years": 12500
+    }
+  ],
+  "adjacent_depth_differences": [
+    {
+      "site": "KI-13",
+      "deeper_minus_shallower_depth_cm": 5,
+      "deeper_minus_shallower_IRSL_years": -130,
+      "deeper_minus_shallower_TL_years": -1300
+    },
+    {
+      "site": "TS-4",
+      "deeper_minus_shallower_depth_cm": 5,
+      "deeper_minus_shallower_IRSL_years": 3020,
+      "deeper_minus_shallower_TL_years": 10280
+    }
+  ],
+  "limitations": "Literal arithmetic only. Unequal ages are not event counts, sedimentation durations or statistical significance. No independent-error assumption, recalibration, authenticated sample identity or vertical datum conversion."
+}

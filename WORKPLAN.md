@@ -1,5 +1,10 @@
 # Full objective and evidence required
 
+### 2026-10-09 — KI-11 age/material crosswalk and luminescence conflicts
+
+S280 exact dataset13384 points back to2002report, not acquired separate logs. S2812007author-uploaded exposed text yields six radiocarbon/five luminescence rows. KI-11 same5m/1590±40 entry conflicts with2018wood/conventional versus2007shell/calibrated label; lab identity unresolved. IRSL/TL differences retained, no age selection or datum conversion. See [age crosswalk](research/WILLAPA-2007-AGE-CROSSWALK.md).25drafts/281sources; all twenty outcomes retained.
+
+
 ### 2026-10-09 — Historical trace elevation sampling
 
 Four S253 historical island traces transformed to S278 HARN coordinates using S279 documented grids. All270 queries match within10m;262 within5m. Alternate operation changes3nearest identities, no inclusion counts/medians. Apparent-marsh49/51 medians2.442/0.472mNAVD88 describe later surface positions, not deformation. See [trace elevation assessment](research/WILLAPA-TRACE-ELEVATIONS.md).25drafts/279sources; all twenty objectives retained.
