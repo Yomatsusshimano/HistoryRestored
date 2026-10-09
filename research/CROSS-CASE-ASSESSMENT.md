@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Specific NARA photograph/report retrieval route
+
+NARA Special List25 Washingtonrow530 lists Willpa Bay underRG23Project Completion Reports; countyrows340-342 supply DGM1949P andDOQ1951Pindex leads. Officialguide identifies series305404/reports104and106. Example1950CAPEprint inspected but not authenticated as target; catalogdownload applicationshell, browser unavailable, Tacomaimage still TLSblocked. No frame/fieldsheet/custody/independent confirmation.25drafts/269sources; full twenty outcomes remain active. See [archival retrieval assessment](WILLAPA-ARCHIVAL-PHOTO-ROUTE.md).
+
 ### 2026-10-09 — Later report scope and negative original-frame inventory search
 
 S266all35report pages visually inspected: later1957edits/1958review add adjacent-sheet context, not an explicit new island observation.375/450versusprinted83.5percent discrepancy retained. S2671950inventory all1479records/48WAchecked; zeroWillapafootprints and1613/1614numbermatches. Originalframe still missing; inventory absence not loss.25drafts/267sources; no independent review, no event cause, full twenty outcomes active. See [field and inventory assessment](WILLAPA-1953-FIELD-OBSERVATION.md).

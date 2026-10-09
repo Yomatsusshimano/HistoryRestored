@@ -1,0 +1,86 @@
+{
+  "source_id": "S268",
+  "accessed_date": "2026-10-09",
+  "url": "https://unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2020/01/Special-List-25-United-States.xlsx",
+  "local_copy": "sources/originals/cascadia/Special-List-25-United-States.xlsx",
+  "bytes": 1819403,
+  "sha256": "135ba9b2bca4c068357555ef067df8a97a319810854fcc851c57e990ad23a5de",
+  "inspected_scope": "Washington sheet headers and all546rows; selected four locator rows; other sheets not audited for holdings",
+  "rows": [
+    {
+      "sheet": "Washington",
+      "row": 340,
+      "range": "A340:J340",
+      "source_values": {
+        "County/Area": "Pacific",
+        "Symbol": "NONE",
+        "Year": "****P",
+        "RG": "373",
+        "# of Indexes": "*",
+        "Index Type": "LI",
+        "Scale of Negatives": "VARIES",
+        "Filed Under": "46N/123 to 124W",
+        "IM/NUS Number": null,
+        "State": "WA"
+      }
+    },
+    {
+      "sheet": "Washington",
+      "row": 341,
+      "range": "A341:J341",
+      "source_values": {
+        "County/Area": "Pacific",
+        "Symbol": "DGM",
+        "Year": "1949P",
+        "RG": "114",
+        "# of Indexes": "1",
+        "Index Type": "PI-L",
+        "Scale of Negatives": "1:20,000",
+        "Filed Under": "Brooklyn Area",
+        "IM/NUS Number": "T153991055",
+        "State": "WA"
+      }
+    },
+    {
+      "sheet": "Washington",
+      "row": 342,
+      "range": "A342:J342",
+      "source_values": {
+        "County/Area": "Pacific",
+        "Symbol": "DOQ",
+        "Year": "1951P",
+        "RG": "114",
+        "# of Indexes": "1",
+        "Index Type": "PI-L",
+        "Scale of Negatives": "1:20,000",
+        "Filed Under": null,
+        "IM/NUS Number": "T153991060",
+        "State": "WA"
+      }
+    },
+    {
+      "sheet": "Washington",
+      "row": 530,
+      "range": "A530:J530",
+      "source_values": {
+        "County/Area": "Willpa Bay",
+        "Symbol": null,
+        "Year": null,
+        "RG": "23",
+        "# of Indexes": null,
+        "Index Type": null,
+        "Scale of Negatives": null,
+        "Filed Under": "Project Completion Reports",
+        "IM/NUS Number": null,
+        "State": "WA"
+      }
+    }
+  ],
+  "selected_formula_cells": [],
+  "limits": [
+    "Willpa Bay is preserved as written; interpreting it as Willapa is a retrieval hypothesis.",
+    "No exact target frame, annotated enlargement, field sheet or accession is authenticated.",
+    "1949P,1951P,****P,LI,PI-L and asterisks retained literally; code meanings not assumed.",
+    "County-level entries do not establish coverage of Grassy Island."
+  ]
+}

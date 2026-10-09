@@ -4173,6 +4173,36 @@
       "sha256": "0f5bcfae1bbca5efb0da2fed87e5dac9cc6c901d38df70446a58b669620f314c",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S268",
+      "title": "NARA Special List25 domestic aerial photography finding aid: Washington locator rows",
+      "creator": "U.S. National Archives and Records Administration",
+      "publication_date": null,
+      "url": "https://unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2020/01/Special-List-25-United-States.xlsx",
+      "source_type": "Federal archival finding-aid workbook, not original photographs",
+      "access": "CATALOG_METADATA",
+      "inspected": "Washington header and all546rows; A340:J342Pacific and A530:J530Willpa Bay; literal values and selected absence of formulas checked. Workbook not visually rendered.",
+      "limitations": "Willpa spelling retained; inferred Willapa association is a lead. No exactframe,annotatedprint,fieldsheet,countycoverage or code interpretation authenticated. Online2020-path version,not confirmed newest finding aid.",
+      "local_copy": "sources/originals/cascadia/Special-List-25-United-States.xlsx",
+      "sha256": "135ba9b2bca4c068357555ef067df8a97a319810854fcc851c57e990ad23a5de",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S269",
+      "title": "NARA RG23 aerial photography guide: Project Completion Reports and control prints",
+      "creator": "U.S. National Archives and Records Administration",
+      "publication_date": null,
+      "url": "https://www.archives.gov/research/cartographic/aerial-photography/rg-23-uscgs-aerial-photography-sl25",
+      "source_type": "Official archival series/retrieval guide with example scans",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Project Completion Reports1957-1964section, reports104/106and linkedcatalog305404; control-print distinction. Two linked example images visually inspected,neither authenticates target.",
+      "limitations": "Guide is retrieval metadata,not targetimagery or completed custody chain. Catalogdownload only applicationshell; browser unavailable. GuideexampleCAPE1950not authenticated as frame1613/Willapa. No order orcontact.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

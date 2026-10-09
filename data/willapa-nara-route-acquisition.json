@@ -1,0 +1,37 @@
+{
+  "source_ids": [
+    "S268",
+    "S269"
+  ],
+  "accessed_date": "2026-10-09",
+  "examples": [
+    {
+      "name": "rg23-305404-report104-cape-1950-01.jpg",
+      "url": "https://www.archives.gov/files/research/cartographic/aerial-photography/rg23-305404-report104-cape-1950-01.jpg",
+      "bytes": 74998,
+      "sha256": "b35df20fb01cc9058a8149e7f65c60e615a10c181c977999f32e07d28611ded5",
+      "result": "downloaded"
+    },
+    {
+      "name": "rg-23-sl25-project-reports-01.png",
+      "url": "https://www.archives.gov/files/research/cartographic/aerial-photography/rg-23-sl25-project-reports-01.png",
+      "bytes": 196267,
+      "sha256": "af7c1fcc3e15ea65c44e98fa001123b61753200e5211e26687b8f4e52d6bf46c",
+      "result": "downloaded"
+    },
+    {
+      "name": "nara305404.html",
+      "url": "https://catalog.archives.gov/id/305404",
+      "bytes": 5454,
+      "sha256": "64f334d04ad9c9e56607f11c4fad19022e8cd8cb5acb7de9a7b1938eb94b43d1",
+      "result": "downloaded"
+    }
+  ],
+  "inspection": {
+    "report104_example": "Visually inspected mounted two-photo page9 labeledCAPE,1950; targetframe/place not authenticated.",
+    "inventory_example": "Visually inspected cropped list without Washington target row; not a target-coverage verification.",
+    "catalog305404": "HTTPdownload is JavaScriptapplication shell,not series metadata; browser tool unavailable.",
+    "Tacoma1966": "NormalTLSretry failed expired certificate; image/reverse remain uninspected."
+  },
+  "outreach_or_orders": false
+}
