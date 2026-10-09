@@ -8,49 +8,73 @@
       "estuary": "Copalis River",
       "snag_id": "CP-791",
       "outer_root_ring_AD": 1708,
-      "latewood_1699_reported": null
+      "latewood_1699_reported": null,
+      "physical_tracing_T_flag_present": true,
+      "root_trunk_width_r_reported": null,
+      "root_trunk_log_P_reported": null
     },
     {
       "estuary": "Copalis River",
       "snag_id": "CP-GF2",
       "outer_root_ring_AD": 1699,
-      "latewood_1699_reported": true
+      "latewood_1699_reported": true,
+      "physical_tracing_T_flag_present": false,
+      "root_trunk_width_r_reported": 0.57,
+      "root_trunk_log_P_reported": -21.39
     },
     {
       "estuary": "Grays Harbor",
       "snag_id": "JN-560",
       "outer_root_ring_AD": 1699,
-      "latewood_1699_reported": true
+      "latewood_1699_reported": true,
+      "physical_tracing_T_flag_present": true,
+      "root_trunk_width_r_reported": null,
+      "root_trunk_log_P_reported": null
     },
     {
       "estuary": "Grays Harbor",
       "snag_id": "JN-561",
       "outer_root_ring_AD": 1699,
-      "latewood_1699_reported": true
+      "latewood_1699_reported": true,
+      "physical_tracing_T_flag_present": false,
+      "root_trunk_width_r_reported": 0.35,
+      "root_trunk_log_P_reported": -5.97
     },
     {
       "estuary": "Willapa Bay",
       "snag_id": "PX-782",
       "outer_root_ring_AD": 1699,
-      "latewood_1699_reported": true
+      "latewood_1699_reported": true,
+      "physical_tracing_T_flag_present": true,
+      "root_trunk_width_r_reported": 0.42,
+      "root_trunk_log_P_reported": -6.93
     },
     {
       "estuary": "Willapa Bay",
       "snag_id": "PX-783",
       "outer_root_ring_AD": 1699,
-      "latewood_1699_reported": true
+      "latewood_1699_reported": true,
+      "physical_tracing_T_flag_present": true,
+      "root_trunk_width_r_reported": 0.63,
+      "root_trunk_log_P_reported": -20.71
     },
     {
       "estuary": "Willapa Bay",
       "snag_id": "PX-J6",
       "outer_root_ring_AD": 1699,
-      "latewood_1699_reported": null
+      "latewood_1699_reported": null,
+      "physical_tracing_T_flag_present": false,
+      "root_trunk_width_r_reported": null,
+      "root_trunk_log_P_reported": null
     },
     {
       "estuary": "Columbia River",
       "snag_id": "GR-777",
       "outer_root_ring_AD": 1699,
-      "latewood_1699_reported": true
+      "latewood_1699_reported": true,
+      "physical_tracing_T_flag_present": true,
+      "root_trunk_width_r_reported": null,
+      "root_trunk_log_P_reported": null
     }
   ],
   "null_meaning": "Not entered as determined; do not treat as false",
@@ -61,8 +85,40 @@
     "Some correlations use other dated snags, not direct upland matching"
   ],
   "limits": [
-    "Raw widths and full statistics not transcribed or recomputed",
+    "Raw measurements partially recovered and diagnostic correlations computed in linked audits; original processed Table1 statistics not recomputed.",
     "Final ring is not automatically earthquake year",
     "CP-791 delayed-death interpretation remains untested here"
-  ]
+  ],
+  "tracing_flag_meaning": "Presence/absence of printed S19 Table1 T flag; absent does not establish no physical tracing was attempted. T reports distinctive rings traced from trunk to root; no slice independently inspected here.",
+  "supplement_tracing_audit": {
+    "source_id": "S231",
+    "locator": "Correlation between trunk and root; TableS1 and Roots notes",
+    "access": "FULL_TEXT_PORTION",
+    "T_rows": [
+      "CP-789",
+      "CP-791",
+      "JN-560",
+      "PXnt778",
+      "PX-782",
+      "PX-783",
+      "GR-777"
+    ],
+    "additional_limiting_rows": [
+      {
+        "id": "CP-789",
+        "outer_ring_bound": ">1680"
+      },
+      {
+        "id": "PXnt778",
+        "outer_ring_bound": ">1670"
+      }
+    ],
+    "GR777_width_comparison": {
+      "r": 0.28,
+      "n": 62,
+      "source_significance": "ns, not significant at P<.01",
+      "T_flag_present": true
+    },
+    "limits": "Source-reported physical tracing, not independently examined slices or custody."
+  }
 }

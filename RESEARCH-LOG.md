@@ -1139,3 +1139,8 @@ Previous turn made verified public progress. Revalidated clean checkout, correct
 ### 2026-10-09 — Original Cascadia trunk-table crosswalk
 
 Previous turn was a requested status update and made no research-state progress. Revalidated clean checkout and publicly retrieved latest eight files. Visually inspected S61 PDF pp.4-5 and enlarged trunk table; transcribed all529 widths from three trunk series. Initial GF2TRNW transcription had seven mismatches; enlarged scan confirmed corrections, retained in the ledger. All three corrected series match NOAA by value, assigned year and end-marker position. This verifies dataset correspondence, not physical sample identity, independent dating or original-method reproduction. Updated case and source records; no new source, outreach or independent review.
+
+
+### 2026-10-09 — Root tracing and field association
+
+Previous turn made verified public progress at500b23c. Revalidated clean checkout and original source records. Reinspected S60 p1001 field paragraph and S19 p923 table; text-read S231 tracing methods and full TableS1. Distinguished five T rows among eight usable roots from seven T rows in the larger supplement, whose extra two dates are bounds. CP-GF2 has reported .57 width correlation and no T flag; S60 nevertheless explicitly reports sampling one tree. GR777 nonsignificant short width fit and physical tracing retained separately. Added source-reported flags and negative log-P transcription, not recalculated probabilities. No physical slice or current accession inventory inspected; no new source, outreach or independent review.

@@ -497,3 +497,8 @@ Published all18 comparisons: annual-difference variants consistently favor sourc
 ### 2026-10-09 — GF2 original trunk records identified
 
 Complete original S61 trunk sequences now correspond exactly to all529 S229 NOAA widths and assigned years, with seven initial manual-reading corrections retained. Dataset-label crosswalk is verified; physical root/trunk specimen linkage remains open. Next recover specimen/field inventory and original processed averages, not further duplicate numerical matches. Absolute chronology and all twenty completion requirements remain unchanged.
+
+
+### 2026-10-09 — Physical linkage reports separated
+
+S19/S231 now distinguish named physical tracing reports, width correlations and limiting root dates. S60 supplies an explicit one-tree field sampling account. Next authenticate CP-GF2 field/accession identity and traced slices, alongside original processed averages; do not continue describing publications as lacking all physical association evidence. Calendar and global reconstruction remain unestablished.

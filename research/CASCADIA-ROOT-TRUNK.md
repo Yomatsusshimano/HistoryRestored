@@ -36,3 +36,5 @@ The published S231 root/trunk statistic uses processed, combined radii and repor
 ## Subsequent documentary crosswalk
 
 The [original trunk-table comparison](CASCADIA-TRUNK-CROSSWALK.md) now matches all529 widths and assigned years of GF2TRA/GF2TRB/GF2TRNW to NOAA's CPGF2A/CPGF2B/CPGF2NW. This verifies correspondence between the numerical records and strengthens the documentary basis for the candidate link. It does not authenticate physical root/trunk identity. Exact duplicate measurements are dependent evidence; the relative-pattern results above are unchanged.
+
+The [source-level physical-linkage audit](CASCADIA-ROOT-LINKAGE.md) now records S60's explicit one-tree sampling account and S19/S231's specimen-specific tracing flags. CP-GF2 has a reported width match and no T flag. The remaining physical limitation concerns independent authentication of the published association and custody, not an absence of any association report.
