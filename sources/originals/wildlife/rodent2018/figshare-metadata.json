@@ -1,0 +1,170 @@
+{
+  "files": [
+    {
+      "id": 13272824,
+      "name": "ujvp_a_1510414_sm2027.docx",
+      "size": 47450,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/13272824",
+      "supplied_md5": "7a3bedf0185908433c48db809ab3b2eb",
+      "computed_md5": "7a3bedf0185908433c48db809ab3b2eb",
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 698490,
+      "full_name": "Siobhán B. Cooke",
+      "first_name": "Siobhán",
+      "last_name": "B. Cooke",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 138615,
+      "full_name": "Brooke E. Crowley",
+      "first_name": "Brooke",
+      "last_name": "E. Crowley",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://tandf.figshare.com/articles/journal_contribution/Deciphering_the_isotopic_niches_of_now-extinct_Hispaniolan_rodents/7209677",
+  "download_disabled": false,
+  "description": "<p>Hispaniola once had a large and diverse endemic rodent community. Today, a single species, <i>Plagiodontia aedium</i>, survives alongside invasive murids. Ecological adaptations and resource competition among species have not been previously studied. Here, we undertake the first investigation of the foraging ecology of the endemic taxa using estimated body mass and carbon and oxygen isotope values in incisor enamel. Our sample includes nine endemic taxa, eight of which are extinct, from two Holocene cave assemblages in southern Haiti. We also measured isotopic signatures for the invasive genus <i>Rattus</i> to explore potential niche overlap and competition between introduced and endemic fauna. We expected to detect isotopic evidence for niche partitioning among phylogenetically related rodents with similar morphological adaptations. We find clear differences in body mass and isotope values among rodent taxa. The combination of carbon and oxygen isotopes suggests that some taxa lived in the forest understory, whereas others likely frequented the canopy or open habitats. We may also be able to distinguish dietary preferences (e.g., folivory, frugivory, and potentially trophic omnivory). Small individuals attributed to an undescribed species of <i>Isolobodon</i> are isotopically distinct from their congeners, <i>I. montanus</i> and <i>I. portoricensis</i>, and appear to have relied to a modest degree on C<sub>4</sub> foods<i>. Rattus</i> had a broad generalist niche, which coincided with several endemics, including extant <i>P. aedium.</i> Although preliminary, these data shed light on how a closely related community of island rodents partitions resources and provide context for understanding the ecological role that invasive species may play in extinction processes and future conservation efforts.</p>",
+  "funding": null,
+  "funding_list": [],
+  "version": 1,
+  "status": "public",
+  "size": 47450,
+  "created_date": "2018-10-15T19:00:53Z",
+  "modified_date": "2023-06-04T03:50:32Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "taxa",
+    "Holocene cave assemblages",
+    "niche",
+    "oxygen isotope values",
+    "body mass",
+    "Rattu",
+    "adaptation",
+    "island rodents partitions resources",
+    "aedium",
+    "future conservation efforts",
+    "species",
+    "C 4 foods",
+    "now-extinct Hispaniolan rodents Hispaniola"
+  ],
+  "keywords": [
+    "taxa",
+    "Holocene cave assemblages",
+    "niche",
+    "oxygen isotope values",
+    "body mass",
+    "Rattu",
+    "adaptation",
+    "island rodents partitions resources",
+    "aedium",
+    "future conservation efforts",
+    "species",
+    "C 4 foods",
+    "now-extinct Hispaniolan rodents Hispaniola"
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "title": "Evolutionary Biology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 272,
+      "title": "Environmental Sciences not elsewhere classified",
+      "parent_id": 33,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 39,
+      "title": "Ecology",
+      "parent_id": 33,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 734,
+      "title": "Biological Sciences not elsewhere classified",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    },
+    {
+      "id": 69,
+      "title": "Inorganic Chemistry",
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    }
+  ],
+  "references": [
+    "https://doi.org/10.1080/02724634.2018.1510414"
+  ],
+  "has_linked_file": false,
+  "citation": "Deciphering the isotopic niches of now-extinct Hispaniolan rodents. Taylor & Francis. B. Cooke, Siobhán; E. Crowley, Brooke.",
+  "related_materials": [
+    {
+      "id": 40331705,
+      "identifier": "10.1080/02724634.2018.1510414",
+      "title": "Deciphering the isotopic niches of now-extinct Hispaniolan rodents",
+      "relation": "IsSupplementTo",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.1080/02724634.2018.1510414"
+    }
+  ],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 7209677,
+  "title": "Deciphering the isotopic niches of now-extinct Hispaniolan rodents",
+  "doi": "10.6084/m9.figshare.7209677.v1",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/7209677",
+  "published_date": "2018-10-15T19:00:53Z",
+  "thumb": "https://ndownloader.figshare.com/files/13272824/preview/13272824/thumb.png",
+  "defined_type": 6,
+  "defined_type_name": "journal contribution",
+  "group_id": 3882,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/7209677",
+  "url_public_api": "https://api.figshare.com/v2/articles/7209677",
+  "url_private_html": "https://figshare.com/account/articles/7209677",
+  "url_public_html": "https://tandf.figshare.com/articles/journal_contribution/Deciphering_the_isotopic_niches_of_now-extinct_Hispaniolan_rodents/7209677",
+  "timeline": {
+    "posted": "2018-10-15T19:00:53",
+    "firstOnline": "2018-10-15"
+  },
+  "resource_title": "Deciphering the isotopic niches of now-extinct Hispaniolan rodents",
+  "resource_doi": "10.1080/02724634.2018.1510414"
+}

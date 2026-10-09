@@ -33,5 +33,12 @@
     "Published interval divergence does not establish fabrication or automatically invalidate an assay.",
     "No probability of historical rat introduction inferred from conditional calibration mass."
   ],
-  "next_test": "Recover exact CALIB8.2/OxCal4.4 output segments and lab certificate; check mandible photographs/identity, carbon-isotope measurements and excavation accession records before any dietary offset or arrival inference."
+  "next_test": "Recover exact CALIB8.2/OxCal4.4 output segments and lab certificate; check mandible photographs/identity, carbon-isotope measurements and excavation accession records before any dietary offset or arrival inference.",
+  "isotope_followup_2026_10_09": {
+    "source_id": "S317",
+    "museum_id": "UF293844",
+    "enamel_delta13C_permil": -12.1,
+    "enamel_delta18O_permil": -2.4,
+    "limit": "Exact accession match; not collagen and no empirical dating offset. Reference scale/full methods uninspected."
+  }
 }

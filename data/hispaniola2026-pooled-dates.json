@@ -138,6 +138,11 @@
       "locator": "Results and Discussion on deposition",
       "finding": "Different biological pool ages are interpreted as later rat deposition.",
       "limit": "Without specimen-linked deposition ages, separated bone ages do not exclude later co-deposition."
+    },
+    {
+      "locator": "Discussion earliest-rat specimen statement; S317Table1S",
+      "finding": "The same UF293844museum identifier has published2018enamel carbon/oxygen measurements. A broad claim of no isotope values requires a tissue-specific qualification.",
+      "limit": "No collagen isotope measurement or dietary reservoir correction recovered; accession link not independently physically authenticated."
     }
   ],
   "access_limits": [

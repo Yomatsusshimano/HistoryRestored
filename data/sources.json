@@ -4896,6 +4896,21 @@
       "accessed_date": "2026-10-09",
       "local_copy": "",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S317",
+      "title": "Deciphering the isotopic niches of now-extinct Hispaniolan rodents: original supplementary tables",
+      "creator": "Siobhán B. Cooke and Brooke E. Crowley",
+      "publication_date": "2018-10-15",
+      "url": "https://tandf.figshare.com/articles/journal_contribution/Deciphering_the_isotopic_niches_of_now-extinct_Hispaniolan_rodents/7209677",
+      "doi": "10.6084/m9.figshare.7209677.v1",
+      "source_type": "Publisher-hosted original research supplement, DOCX tables",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "All five OOXML tables:74isotope tissue rows/40museum identifiers in Table1S, plus19modern rat comparison rows in Table2S. Eight exact specimen IDs joined to S36; metadata and linked article abstract scope read. No rendered layout inspection.",
+      "limitations": "Enamel isotope values cannot substitute for collagen or automatically determine reservoir offset. Physical identity of accession-linked tissue not independently authenticated. Main article methods/figures uninspected; missing renderer/LibreOffice. Supplement dates are publication metadata, not specimen ages.",
+      "local_copy": "sources/originals/wildlife/rodent2018/ujvp_a_1510414_sm2027.docx",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

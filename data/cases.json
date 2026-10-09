@@ -1555,6 +1555,11 @@
           "source_id": "S36",
           "locator": "Table2anddiscussionp5; research/HAITI-RAT-CALIBRATION.md",
           "statement": "Original rat range confirmed490–515calBP; independent simplified IntCal20 diagnostic yields two pre1492high-densitysegments, providing an unresolved interval-summary lead for2026citation. Not a rat-arrival or sloth-redating result."
+        },
+        {
+          "source_id": "S317",
+          "locator": "Table1S, exact museum-ID crosswalk in data/rodent2018-isotope-crosswalk.json",
+          "statement": "All eight S36dated specimen IDs match isotope supplement records; early ratUF293844has whole-incisor enamel carbon−12.1andoxygen−2.4per mil. Different tissue from dated collagen; no empirical radiocarbon correction or deposition date follows."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
@@ -1567,7 +1572,7 @@
         "A common mortality episode, requiring an explicit fit and age-quality audit"
       ],
       "counterevidence": "These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.",
-      "next_test": "Recover exact CALIB8.2/OxCal4.4 segments and UCIAMS191028specimen/lab certificates; retain original sloth preparation and depositional-context gaps.",
+      "next_test": "Recover complete2018methods, incisor-to-mandible accession history and collagen-specific isotope/raw assay records; retain exact calibration and depositional-context gaps.",
       "chronology": {
         "reported": "Sample-level radiocarbon results and separately published calendar intervals",
         "dated_object": "Bone samples",
@@ -1585,7 +1590,7 @@
         "Later literature and redating audit",
         "Independent review"
       ],
-      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations."
+      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates."
     },
     {
       "id": "C012",
@@ -2996,6 +3001,11 @@
           "source_id": "S36",
           "locator": "Table2anddiscussionp5; research/HAITI-RAT-CALIBRATION.md",
           "statement": "Original rat range confirmed490–515calBP; independent simplified IntCal20 diagnostic yields two pre1492high-densitysegments, providing an unresolved interval-summary lead for2026citation. Not a rat-arrival or sloth-redating result."
+        },
+        {
+          "source_id": "S317",
+          "locator": "Table1S, exact museum-ID crosswalk in data/rodent2018-isotope-crosswalk.json",
+          "statement": "All eight S36dated specimen IDs match isotope supplement records; early ratUF293844has whole-incisor enamel carbon−12.1andoxygen−2.4per mil. Different tissue from dated collagen; no empirical radiocarbon correction or deposition date follows."
         }
       ],
       "physical_evidence": "Published pooled bone measurements and reported locality; no bones, excavation or lab records inspected.",
@@ -3009,7 +3019,7 @@
         "A shared catastrophe, requiring a dated horizon and transport evidence"
       ],
       "counterevidence": "One cave concentration is not demonstrated simultaneous mortality. Pooled samples and unknown individual contributions prevent an individual death/extinction estimate.",
-      "next_test": "Recover exact CALIB8.2/OxCal4.4 segments and UCIAMS191028specimen/lab certificates; retain original sloth preparation and depositional-context gaps.",
+      "next_test": "Recover complete2018methods, incisor-to-mandible accession history and collagen-specific isotope/raw assay records; retain exact calibration and depositional-context gaps.",
       "chronology": {
         "reported": "Three radiocarbon results, rounded table variants and separate95.4% calendar envelopes",
         "dated_object": "Pooled bone collagen",
@@ -3026,7 +3036,7 @@
         "Specimen-specific deposition ages",
         "Independent review"
       ],
-      "dependence": "Three pooled assays share study, lab and calibration. S316 cites S36; repeated earliest-rat result is not an independent assay. Locality coordinates are not individual findspots."
+      "dependence": "Three pooled assays share study, lab and calibration. S316 cites S36; repeated earliest-rat result is not an independent assay. Locality coordinates are not individual findspots. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates."
     }
   ]
 }

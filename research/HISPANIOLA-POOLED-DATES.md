@@ -42,3 +42,8 @@ Next recover the supplementary specimen measurements, laboratory records and exc
 ## Rat citation follow-up
 
 The [original-table and calibration follow-up](HAITI-RAT-CALIBRATION.md) now confirms S36Table2visually and supplies a separate two-segment diagnostic. The publication-summary cause remains unresolved; no empirical date correction or pre-contact arrival is established. The no-offset model retains the early result as a challenge to investigate. Original sloth dates and mortality comparisons are unchanged.
+
+
+## Specimen-linked enamel measurements recovered
+
+The [2018supplement audit](RODENT-ISOTOPE-SPECIMEN-LINK.md) now matches all eight dated museum identifiers, includingUF293844. Its carbon/oxygen measurements are incisor enamel, not collagen. The general absence-of-isotope-values claim requires that distinction; no dietary correction or radiocarbon result is changed. Full methods, tissue identity and specimen-specific collagen records remain needed.

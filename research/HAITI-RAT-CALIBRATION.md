@@ -34,3 +34,8 @@ Under this declared no-offset model, the assay is overwhelmingly assigned before
 Likewise, a surprisingly early result is not enough to discard the assay. Photographs and museum accession history, original laboratory certificates, independently repeated dating and specimen-specific dietary evidence would distinguish a genuinely early animal from identification, context or dating problems. No numerical correction is invented from the expected historical date. Different death and deposition times remain separate possibilities.
 
 This source discrepancy now has a testable numerical lead rather than only a conflicting citation. It neither dates a catastrophe nor revises the sloth mortality intervals. Next recover exact calibration segments and the specimen/laboratory records; independent review and all twenty original objectives remain incomplete.
+
+
+## Specimen-linked enamel measurements recovered
+
+The [2018supplement audit](RODENT-ISOTOPE-SPECIMEN-LINK.md) now matches all eight dated museum identifiers, includingUF293844. Its carbon/oxygen measurements are incisor enamel, not collagen. The general absence-of-isotope-values claim requires that distinction; no dietary correction or radiocarbon result is changed. Full methods, tissue identity and specimen-specific collagen records remain needed.

@@ -379,3 +379,8 @@ C028/S316 adds three pooled assays from Pozimán Cadena. Reported envelopes requ
 ### 2026-10-09 — Original early-rat row and separate calibration diagnostic
 
 S36pages4/5visually reinspected;490–515calBPconfirmed. Separate IntCal20diagnostic has two95.4%segments near1435–1460and1464–1468CE; possible interval-summary explanation forS316citation, cause unverified. No-offset conditional post1492massapproximately0.0367%, not an arrival probability. Three-grid check passed; specimen identity/diet/raw assays remain open. See [audit](HAITI-RAT-CALIBRATION.md).28drafts/316sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Exact rodent isotope accession links
+
+S317originalCCBYsupplement acquired/preserved; all five OOXMLtables extracted,74isotope rows/40museumIDs. All eightS36dated IDs match, including early-ratUF293844enamel carbon−12.1/oxygen−2.4per mil. Tissue distinction prevents automatic collagen or reservoir correction; reference scale/full methods/rendered layout uninspected. See [audit](RODENT-ISOTOPE-SPECIMEN-LINK.md).28drafts/317sources; all twenty objectives active, no independent review.
