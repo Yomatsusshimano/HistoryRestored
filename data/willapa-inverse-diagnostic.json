@@ -1,0 +1,24 @@
+{
+  "source_id": "S253",
+  "point_count": 10275,
+  "row_export_sha256": "3b5ddb526b777acab452aafbcd63d5d207d255aaf4f4242514ce1ef986e6a973",
+  "pyproj_version": "3.8.0",
+  "proj_version": "9.8.1",
+  "source_code_url": "https://github.com/OSGeo/PROJ/blob/9.8.1/src/transformations/gridshift.cpp#L649",
+  "source_code_sha256": "e995b384e9a2509df574fcbf0ea7c16e68ac48a222b802f813875a645a12a78b",
+  "results": [
+    {
+      "interpolation": "biquadratic",
+      "pipeline": "proj=gridshift grids=us_noaa_nadcon5_nad27_nad83_1986_conus.tif interpolation=biquadratic",
+      "max_inverse_vs_one_pass_m": 2.70323386912094e-09,
+      "max_roundtrip_m": 0.05961163421651583
+    },
+    {
+      "interpolation": "bilinear",
+      "pipeline": "proj=gridshift grids=us_noaa_nadcon5_nad27_nad83_1986_conus.tif interpolation=bilinear",
+      "max_inverse_vs_one_pass_m": 0.004654657672543521,
+      "max_roundtrip_m": 2.17315476719925e-09
+    }
+  ],
+  "limits": "Interpolation alternative isolates numerical inverse behavior, not an improved official datum or historical field accuracy. No bilinear replacement of NADCON5 results is made."
+}

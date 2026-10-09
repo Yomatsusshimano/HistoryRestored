@@ -1,5 +1,10 @@
 # Full objective and evidence required
 
+### 2026-10-09 — NADCON5 inverse discrepancy explained
+
+Version-matched PROJ9.8.1 source inspected and hash-recorded. Biquadratic inverse deliberately skips iteration; explicit single-subtraction calculation matches all10,275inverse vertices to max2.704e-9m. Bilinear control roundtrip max2.174e-9m supports iterative-branch distinction. No official result replaced; original0.001m tolerance failure and forward residuals retained. Cause now explained, so next primary focus is historical shoreline/raster classification and dated modern comparison. All twenty outcomes remain incomplete. See research/WILLAPA-DATUM-COMPARISON.md.
+
+
 ### 2026-10-09 — Paired Willapa datum diagnostic
 
 S253 paired geometries now checked point-for-point:183features/10,275vertices. Official open grid files hash-recorded; network/ballpark disabled. Older NADCON reproduces stored NAD83 max0.000009422m; NADCON5 max0.161398m, inverse round-trip0.059593m versus proposed0.001m tolerance. Failed newer inverse check retained, cause unresolved. Coordinate consistency is not survey accuracy or displacement. Next original-line/class/revision authentication and dated modern comparison, with operation-specific inverse investigation. See research/WILLAPA-DATUM-COMPARISON.md. All twenty outcomes remain incomplete.
