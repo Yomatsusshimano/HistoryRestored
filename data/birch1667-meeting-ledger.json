@@ -250,5 +250,11 @@
     "No deliberate omission, ancient recovery or calendar fabrication established.",
     "No independent review."
   ],
-  "next_test": "Inspect original JBO/3 July11/25, October10/31 and November7/14 entries; compare original1756edition heading with1967reproduction. Seek repository accession and Hevelius shipment/completion records and raw measurement trials."
+  "next_test": "Inspect original JBO/3 July11/25, October10/31 and November7/14 entries; compare original1756edition heading with1967reproduction. Seek repository accession and Hevelius shipment/completion records and raw measurement trials.",
+  "additional_date_witness": {
+    "source_id": "S312",
+    "reference": "EL/H2/14",
+    "locator": "image1 reading annotation and image4 receipt/reading docket",
+    "finding": "Additional manuscript annotations reportNovember14,1667; agrees withS307. LaterS308literalNovember4 remains; error stage/cause unknown."
+  }
 }

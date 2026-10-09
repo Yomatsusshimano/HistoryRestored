@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S312",
+  "reference": "EL/H2/14",
+  "url": "https://makingscience.royalsociety.org/items/el_h2_14/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+  "catalog_date": "1667-10-21",
+  "catalog_extent": "3 pages",
+  "delivered_surfaces": 4,
+  "surface_map": {
+    "image1": "Opening, long-telescope request and reading annotation.",
+    "image2": "Financing discussion and request for Hooke telescopic-sight description fitted to sextants.",
+    "image3": "Letter continuation, dated closing and postscript/address instructions.",
+    "image4": "Address side with receipt/reading annotations and English summary."
+  },
+  "coverage": "All four delivered surfaces visually inspected. Selected equipment requests and dates read directly; no complete diplomatic transcription or independently reviewed translation.",
+  "manifest_path": "sources/originals/invention/hevelius1667/manifest.json",
+  "manifest_sha256": "9ce1b341ac274e367d504ba5c544dce6cbe0131a8a250185e2093bdba72c1465",
+  "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+  "attribution": "The Royal Society",
+  "images": [
+    {
+      "locator": "image1",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_H2%2FEL_H2_14%2Ftif%2FEL_H2_14_0001.ptif/full/!2400,2400/0/default.jpg",
+      "local_path": "sources/originals/invention/hevelius1667/image-1.jpg",
+      "bytes": 606746,
+      "sha256": "f34d0a00da416007f7ae6d3a0d87fb578d91c2f6b752366e4a215e2ea6477860",
+      "dimensions": [
+        1673,
+        2400
+      ],
+      "inspected": true
+    },
+    {
+      "locator": "image2",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_H2%2FEL_H2_14%2Ftif%2FEL_H2_14_0002.ptif/full/!2400,2400/0/default.jpg",
+      "local_path": "sources/originals/invention/hevelius1667/image-2.jpg",
+      "bytes": 668769,
+      "sha256": "2ac3048012d7cc2cc75c2bded5a96d86badafa319681ecba0af0b6bf5b64e3a1",
+      "dimensions": [
+        1646,
+        2400
+      ],
+      "inspected": true
+    },
+    {
+      "locator": "image3",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_H2%2FEL_H2_14%2Ftif%2FEL_H2_14_0003.ptif/full/!2400,2400/0/default.jpg",
+      "local_path": "sources/originals/invention/hevelius1667/image-3.jpg",
+      "bytes": 653051,
+      "sha256": "87d3ea5f0548fa47da16092ea2ad4e6938279fac26b43065737f088b0aae4daf",
+      "dimensions": [
+        1814,
+        2400
+      ],
+      "inspected": true
+    },
+    {
+      "locator": "image4",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_H2%2FEL_H2_14%2Ftif%2FEL_H2_14_0004.ptif/full/!2400,2400/0/default.jpg",
+      "local_path": "sources/originals/invention/hevelius1667/image-4.jpg",
+      "bytes": 506094,
+      "sha256": "537892b59fe399c2e30fb274153444a61dfe5c8fe2e5c38b168be40ac7ea39f2",
+      "dimensions": [
+        1644,
+        2400
+      ],
+      "inspected": true
+    }
+  ],
+  "findings": [
+    {
+      "locator": "image1 lower section",
+      "selected_tokens": [
+        "telescopium longissimum",
+        "ped.60"
+      ],
+      "reading": "Hevelius requests an excellent long telescope of at least60feet.",
+      "limit": "A request/specification, not a received or calibrated device; unit convention and actual dimensions unverified."
+    },
+    {
+      "locator": "image2 lower section",
+      "selected_tokens": [
+        "Cl.Dn.Hookio",
+        "descriptum ac communicatum",
+        "Dioptra illa Telescopica",
+        "Sextantibus applicandi"
+      ],
+      "reading": "Hevelius asks for Hooke to describe and communicate a telescopic sight applicable to sextants for measuring stellar distances and anticipates observational utility.",
+      "limit": "Description request and anticipated benefit, not a micrometer identity, manufacturing receipt or measured accuracy."
+    },
+    {
+      "locator": "image3 closing",
+      "reading": "Gdansk/Anno1667/day21October date visible.",
+      "limit": "Documentary composition date, not independent physical age; calendar not converted."
+    },
+    {
+      "locator": "image1 upper right and image4 lower address panel",
+      "reading": "Reading annotation reports November14,1667; address panel also reports receipt November10,1667 and reading November14,1667.",
+      "limit": "Annotations from the same Society exchange/documentary system, not independent physical dating. Hand identities and exact annotation times unauthenticated."
+    },
+    {
+      "locator": "image4",
+      "reading": "English summary describes60-foot telescope and telescopic sights for measuring stellar distances.",
+      "limit": "Dependent docket summary, not another letter or independent instrument test."
+    }
+  ],
+  "relation_to_date_conflict": {
+    "S308_later_compilation_literal": "November4",
+    "S307_register_reading_report": "November14",
+    "S312_letter_annotations": "November14",
+    "interpretation": "Additional manuscript reading annotations agree with14, narrowing the4/14conflict toward later printed/reproduction transmission without authenticating the error stage or cause.",
+    "error_stage": null,
+    "same_meeting_business": "Letter and instrument description reported read on same date; exact object/order identity unestablished."
+  },
+  "bounded_catalog_search": {
+    "url": "https://makingscience.royalsociety.org/correspondence-explorer?first=Henry+Oldenburg&second=Johannes+Hevelius",
+    "html_bytes": 156035,
+    "html_sha256": "3205517846ec5c8c1530032ef2480ad41aa10ea34d8a09ed41c05f8fba773d06",
+    "item_cards": 43,
+    "unique_item_urls": 43,
+    "excluded_person_cards": 2,
+    "actual_delivery_scope": "All43item-card URLs point to Hevelius EL/H2 incoming correspondence; this response does not enumerate Oldenburg outgoing letters.",
+    "urls": [
+      "https://makingscience.royalsociety.org/items/el_h2_1/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_2/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_3/transcription-of-a-letter-from-johannes-hevelius-dated-at-danzig-gdansk-to-henry-oldenburg",
+      "https://makingscience.royalsociety.org/items/el_h2_4/transcribed-extract-of-a-letter-from-johannes-hevelius-to-henry-oldenburg",
+      "https://makingscience.royalsociety.org/items/el_h2_5/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_7/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_8/letter-from-johannes-hevelius-to-henry-oldenburg",
+      "https://makingscience.royalsociety.org/items/el_h2_9/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_10/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_11/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_12/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_13/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_14/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_15/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_16/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_17/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_18/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_19/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_20/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_21/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_22/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_23/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_24/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_25/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_26/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_27/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_28/letter-from-johannes-hevelius-to-henry-oldenburg",
+      "https://makingscience.royalsociety.org/items/el_h2_29/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_30/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_32/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_33/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_34/letter-from-johannes-hevelius-to-henry-oldenburg",
+      "https://makingscience.royalsociety.org/items/el_h2_35/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_36/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_37/letter-from-johannes-hevelius-to-henry-oldenburg",
+      "https://makingscience.royalsociety.org/items/el_h2_38/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_40/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_43/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_45/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_46/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_48/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_50/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_51/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk"
+    ],
+    "selection_pattern": "micrometer|small distances|telescopic sights, case-insensitive, card description text",
+    "selected_urls": [
+      "https://makingscience.royalsociety.org/items/el_h2_14/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_18/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_32/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "https://makingscience.royalsociety.org/items/el_h2_36/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk"
+    ],
+    "limits": "Catalog-description search only. No full-text search of43manuscripts, no completeness claim for surviving correspondence, no earliest-micrometer-request or negative receipt conclusion. Whole HTML retained locally, not republished."
+  },
+  "limits": [
+    "Catalog3pages corresponds to three body surfaces plus address side; four views are not four independent documents.",
+    "No authenticated1667commission-to-later-micrometer link, final shipment or receipt.",
+    "No independently reviewed translation, manuscript hand/custody authentication or calibrated performance.",
+    "No ancient recovery, deliberate suppression or chronology fabrication established."
+  ],
+  "next_test": "Inspect explicit small-distance/micrometer requests rather than assuming this sextant-sight request is the same device. Seek outgoing Oldenburg responses and delivery acknowledgments. Separately inspect Flamsteed EL/F1/77 and EL/F1/82 for reported use difficulty and promised replacement design, distinguishing trial data from claims."
+}

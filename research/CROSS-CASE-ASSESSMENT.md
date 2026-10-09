@@ -354,3 +354,8 @@ S309 two Oldenburg1671manuscript surfaces visually inspected and CC-BY deliverie
 ### 2026-10-09 — Sender/recipient equipment distinctions
 
 S310/S311 all ten manuscript deliveries inspected and CC-BY copies preserved.1669sender reports unfinished telescopic sight and attributed London-work/preference reasons;1672recipient renews tube-inserted small-distance request. Equipment identity,1667order link, ultimate delivery and accuracy unknown. Extent/date-role differences retained. See [correspondence audit](GASCOIGNE-ATTRIBUTION.md).27drafts/311sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 —1667request and date-role cross-check
+
+S312 all four manuscript surfaces inspected/preserved. Long-telescope and sextant-sight requests distinct from micrometer. ReceiptNovember10/readingNovember14annotations strengthen register14against laterprint4, without authenticating error stage.43incoming metadata-card search bounded; no earliest request or receipt absence proved. See [request audit](GASCOIGNE-ATTRIBUTION.md).27drafts/312sources; all twenty objectives active, no independent review.

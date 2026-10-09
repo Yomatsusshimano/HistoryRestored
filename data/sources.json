@@ -4826,6 +4826,20 @@
       "accessed_date": "2026-10-09",
       "local_copy": "sources/originals/invention/hevelius-correspondence/README.md",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S312",
+      "title": "Hevelius1667 telescope and sextant-sight request with November14reading annotations",
+      "creator": "Johannes Hevelius; Royal Society Archives",
+      "publication_date": "1667-10-21",
+      "url": "https://makingscience.royalsociety.org/items/el_h2_14/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "source_type": "Digitized manuscript correspondence with docket/address annotations",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All four delivered surfaces visually inspected. Selected equipment requests and dates read directly; no complete diplomatic transcription or independently reviewed translation.",
+      "limitations": "Requests telescope and sextant-sight description, not authenticated same micrometer/order. Three body pages plus address side. Composition/receipt/reading dates distinct; annotation hands and times unverified. November14supports register date but does not authenticate cause/stage of laterNovember4print. No independent translation or physical authentication.",
+      "accessed_date": "2026-10-09",
+      "local_copy": "sources/originals/invention/hevelius1667/README.md",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

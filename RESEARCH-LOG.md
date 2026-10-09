@@ -1589,3 +1589,10 @@ Previous status turn was no research progress: it revalidated state but changed 
 S310/S311 all ten manuscript deliveries inspected and CC-BY copies preserved.1669sender reports unfinished telescopic sight and attributed London-work/preference reasons;1672recipient renews tube-inserted small-distance request. Equipment identity,1667order link, ultimate delivery and accuracy unknown. Extent/date-role differences retained. See [correspondence audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/311sources; all twenty objectives active, no independent review.
 
 Previous goal turn made progress:0b1babe/f545692published S309, all12changed files byte-verified; current clean checkout revalidated. Bounded official archive searches located EL/O2/8 and EL/H2/32; normal-TLS acquisition delivered6/4surfaces. All ten visually inspected. Revised/canceled1669wording distinguished and numerical accounts not reconciled. No outreach, independent translation, full instrument/order identity, physical authentication or completion claimed. Earlier S309other-lead1669status is historical, superseded by S310 acquisition.
+
+
+### 2026-10-09 —1667request and date-role cross-check
+
+S312 all four manuscript surfaces inspected/preserved. Long-telescope and sextant-sight requests distinct from micrometer. ReceiptNovember10/readingNovember14annotations strengthen register14against laterprint4, without authenticating error stage.43incoming metadata-card search bounded; no earliest request or receipt absence proved. See [request audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/312sources; all twenty objectives active, no independent review.
+
+Previous goal turn made progress:e1573e8published S310/S311 with21files byte-verified; clean checkout revalidated. Explorer response43incoming items parsed by standard-library regex after unavailablebs4; two person cards excluded, no completeness assumption. FourS312images normal-TLS acquired/visually inspected. Narrow request/date evidence changes next action toward original usability reports, not another broad receipt-absence claim. No outreach, manuscript authentication, translation review or goal completion claimed.
