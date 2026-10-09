@@ -39,6 +39,8 @@ The raster is declared geographic NAD83 in decimal degrees. Metadata identifies 
 
 ## Consequences for reconstruction
 
+Subsequent [vector audit](WILLAPA-VECTOR-AUDIT.md) now reads the related personal geodatabase and vector metadata, distinguishing actual feature roles and coordinate-system versions. This supersedes the uninspected-vector-table gap, while datum-transform, topology and raster-line authentication remain unresolved.
+
 The recovered raster offers a reproducible spatial reference for future line-by-line comparison. It does not yet supply a measured shoreline shift, land-level change, marsh formation time or correspondence with the northeastern Willapa buried-soil localities. Related metadata, vector products and reports reuse the same survey lineage and are not independent confirmations.
 
 Next identify which mapped lines were surveyed/revised in1922, recover the original control and symbol definitions, and compare appropriate dated modern observations with uncertainty. Recover earlier target marsh sheets separately; this1922 package cannot replace them. Original Copalis profiles and sample chronology remain separate missing inputs. All twenty objectives stay active; no field authentication, independent review or global reconstruction is established.

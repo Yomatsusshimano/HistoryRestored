@@ -1,0 +1,22 @@
+{
+  "source_id": "S253",
+  "accessed_date": "2026-10-09",
+  "url": "https://nsde.ngs.noaa.gov/downloads/T-03921.zip",
+  "published_members": [
+    {
+      "path": "sources/originals/cascadia/T-03921/WC46C03.zip",
+      "sha256": "5443aa1092591c500dbb40cea54e6fd221342b388e6c95b8537692a22d1d1a6b",
+      "bytes": 782116,
+      "archive_member": "T-03921/WC46C03.zip"
+    },
+    {
+      "path": "sources/originals/cascadia/T-03921/wc46c03vector.met",
+      "sha256": "002f3c766d890b019b5ac44492557ed9c8ec1931392e2fba41a14ecc9864bc85",
+      "bytes": 30261,
+      "archive_member": "T-03921/wc46c03vector.met"
+    }
+  ],
+  "database_bytes": 5308416,
+  "database_sha256": "6e59c79e88c9620e8ad623bdd84b3d93514ce892d2a64469a5f6044e1d3bbefc",
+  "method": "Read-only Access ODBC extraction; all source bytes unchanged. Selected feature/spatial/domain tables exported; other internal tables not audited."
+}

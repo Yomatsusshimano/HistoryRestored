@@ -1,5 +1,9 @@
 # Research log
 
+### 2026-10-09 — Native read-only vector extraction
+
+Previous goal turn made verified public progress atae02758. Revalidated clean checkout and source-byte correction. Nested vectorZIP contains5,308,416-byteMDB; native64-bit AccessODBC available. Optional column-schema restrictions failed; directSELECTreader supplied schema. Exported four feature tables and spatial/domain registrations read-only; originalMDBhash unchanged. Decoded complete domain/shape bytes with entry/size/bounds checks.129lines and54polygons in each version; pairedIDs/attributes match. Recomputed lengths/areas agree within declared tolerances. ActualFeature codes not legacymetadataF-code;NAD27UTM vsNAD83geographic and stale2003domain descriptions retained. NOAAentity/glossary read, genericPoption absence explicit. Published unchangedZIP/metadata, rows/results and scripts. No original field/ecological authentication, datum-transform replication, topology validation, modern change, external contact or independent review. Full twenty outcomes incomplete.
+
 ### 2026-10-09 — Raster metadata byte-preservation correction
 
 Publication verification ofd488b81matched committed content, but additional source-to-commit comparison caught normalization of originalT03921metadata line endings. Added explicit nested-source-folder -text rule and restored archive-member bytes. World-file original trailing spaces retained deliberately; whitespace checks do not justify changing historical bytes. Source/member hashes unchanged; verify corrected committed and public bytes before claiming original-file preservation.

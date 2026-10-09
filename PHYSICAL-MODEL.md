@@ -1,5 +1,9 @@
 # Physical reconstruction: constraints before fitting
 
+### 2026-10-09 — Compare shoreline features in declared coordinates
+
+The [Willapa vector audit](research/WILLAPA-VECTOR-AUDIT.md) distinguishes mean-high-water, apparent vegetation edge, approximation, control and added boundaries. Model inputs must choose comparable classes, not all129lines. Unsuffixed feature tables declareNAD27UTM10N; geographic copies declareNAD83. Degree/square-degree measures cannot stand for metres/area. Stored-geometry agreement does not validate datum transformations, actual coast positions or historical displacement; no modern comparison run.
+
 ### 2026-10-09 — Historical shoreline comparison requirements
 
 The [Willapa survey audit](research/WILLAPA-HISTORICAL-SURVEYS.md) adds an original1873map and1922revision-method context. Resolve footprint, dated annotations, legend and vertical reference before classifying marsh or calculating change. Survey scale limits detection, and low-water observations constrained by tide availability cannot substitute for high-marsh elevation. Catalog update/vectorization years are not landscape dates. No displacement or recovery-rate model executed.

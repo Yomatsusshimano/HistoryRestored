@@ -3948,6 +3948,51 @@
       "sha256": "3228273536cc6d47e86ca6ebaa21dc9ee1ce15ed642b517cf78751afcfb20686",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S253",
+      "title": "WC46C03 personal geodatabase and vector metadata from T-03921 package",
+      "creator": "NOAA National Geodetic Survey; historical survey and digital processing contractors",
+      "publication_date": null,
+      "url": "https://nsde.ngs.noaa.gov/downloads/T-03921.zip",
+      "source_type": "Historical-map vector derivative and metadata",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Four line/polygon tables, geometry registrations, spatial references and coded domains read via read-only ODBC. Original metadata selected sections read;129lines and54polygons per coordinate version checked, shape metrics and paired attributes audited.",
+      "limitations": "Related raster/survey lineage, not independent field evidence. No datum-transform or raster-line authentication, topology, modern comparison or shoreline-change test. Source metadata legacy codes differ from actual domain. PlanetableP and2003domain descriptions retained alongside actual record dates. Requires compatible driver for sourceMDB extraction.",
+      "local_copy": "sources/originals/cascadia/T-03921/WC46C03.zip",
+      "sha256": "5443aa1092591c500dbb40cea54e6fd221342b388e6c95b8537692a22d1d1a6b",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S254",
+      "title": "NOAA NGS Shoreline Data Rescue Project attribute entity",
+      "creator": "NOAA National Geodetic Survey",
+      "publication_date": null,
+      "url": "https://www.fisheries.noaa.gov/inport/item/60809",
+      "source_type": "Agency schema description",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Feature versus F_CODE, date/source/extraction fields and allowed-values sections read.",
+      "limitations": "Generic current entity, not full historical-code crosswalk; allowed source/technology options omit package planetableP. Does not independently authenticate field classifications.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S255",
+      "title": "C-COAST glossary and class/attribute definitions",
+      "creator": "NOAA National Geodetic Survey",
+      "publication_date": "2000-06-05",
+      "url": "https://www.ngs.noaa.gov/RSD/shoredata/c_coast_def.htm",
+      "source_type": "Agency cartographic definitions",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Shoreline/apparent vegetation-edge and mean-high-water definitions read; linked class/attribute page consulted.",
+      "limitations": "Definitions do not authenticate individual historical lines or supply measured elevations, datum history or uncertainty for T03921.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

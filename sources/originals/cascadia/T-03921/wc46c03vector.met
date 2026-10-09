@@ -1,0 +1,671 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator:
+        United States Department of Commerce, National Oceanic and
+        Atmospheric Administration (NOAA), National Ocean Service
+        (NOS), National Geodetic Survey (NGS)
+      Publication_Date: 20070406
+      Title:
+        Vectorized Shoreline of Willapa Bay (Project WC-46C03)
+        Derived from NOAA National Ocean Service Coastal Survey
+        Maps Developed from 1922 Source Data
+      Edition: First
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Silver Spring, Maryland
+        Publisher:
+          United States Department of Commerce, National Oceanic and
+          Atmospheric Administration (NOAA), National Ocean Service
+          (NOS), National Geodetic Survey (NGS)
+      Other_Citation_Details:
+        This shoreline data represents a vector conversion of a set
+        of NOS raster shoreline maps (often called t-sheet or
+        tp-sheet maps).  These vector data were created by
+        contractors to NOS who vectorized georeferenced raster maps
+        using Environmental Systems Research Institute, Inc.
+        (ESRI)(r), ArcGIS's(r) ArcScan(r) software to create
+        individual Personal GeoDatabase Feature Classes. The
+        individual feature classes were ultimately edge-matched
+        and appended together to form this regionwide file.
+      Online_Linkage: Unknown
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Commerce, National Oceanic and
+            Atmospheric Administration, National Environmental
+            Satellite, Data, and Information Service (NESDIS)
+            and National Ocean Service
+          Publication_Date: Unknown
+          Title: Shoreline Data Rescue Project
+          Other_Citation_Details:
+            The NOAA NESDIS Climate Database Modernization Project
+            (CDMP) funded this project.  The data were created by the
+            National Ocean Service, National Geodetic Survey
+            (previously the National Ocean Survey) as part of its
+            ongoing mission to map the coastline of the United
+            States.  The NOAA National Ocean Service, Coastal
+            Services Center, developed the procedures used in this
+            project and was responsible for project oversight.  The
+            project intent was to rescue valuable historical data and
+            make it accessible and useful to the coastal mapping
+            community.  This process involved the conversion of
+            original analog products to digital mapping products.
+            This file is a further conversion of that product from a
+            raster to a vector product that may be useful for
+            Electronic Charting and Display Information Systems (ECDIS)
+            and geographic information systems (GIS).
+  Description:
+    Abstract:
+      These data were automated to provide a suitable geographic
+      information system (GIS) data layer depicting the
+      historical shoreline for Aberdeen, Washington.
+      These data are derived from shoreline maps that were
+      produced
+      by the NOAA National Ocean Service including its
+      predecessor
+      agencies.
+    Purpose:
+      Shoreline spatial data are considered a crucial element in
+      land use planning, determination of boundary extents,
+      performing change analysis for erosion and accretion
+      studies, and other types of decision making.  These data
+      are considered useful to persons with geographic
+      information systems who are able to view and analyze the
+      data by itself, or with other data sets.  The user should
+      realize that these data are considered accurate during the
+      time of survey and may not represent the current condition
+      of the ground at this time.
+    Supplemental_Information:
+      This digital shoreline file was derived from NOS shoreline
+      maps known as T-Sheets, that represent a snapshot of time.
+      They represent the shoreline position at the time of
+      survey.  For more information about the condition at the
+      time of survey, please refer to the
+      (descriptive report-hotlinked).
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20060424
+        Ending_Date: 20070406
+    Currentness_Reference: Survey date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Unknown
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -124.097680
+      East_Bounding_Coordinate: -123.901810
+      North_Bounding_Coordinate: 46.749760
+      South_Bounding_Coordinate: 46.612780
+    Description_of_Geographic_Extent:
+      These data extend from Hawks Point to Leadbetter Point
+      nearby Aberdeen, Washington
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: Glossary of the Shoreline Metadata Profile
+      Theme_Keyword: Shoreline map
+      Theme_Keyword: Coastal base map
+      Theme_Keyword: Coastal zone map
+      Theme_Keyword: Shoreline
+      Theme_Keyword: Vectorization
+      Theme_Keyword: Shoreline vectorization
+      Theme_Keyword: Shoreline data
+      Theme_Keyword: T-sheet
+      Theme_Keyword: Tp-sheet
+      Theme_Keyword: WC46C03
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Washington
+      Place_Keyword: Pacific County
+      Place_Keyword: Bay Center
+      Place_Keyword: Hawks Point
+      Place_Keyword: Hawks Pt
+      Place_Keyword: Hawks Pt.
+      Place_Keyword: Leadbetter Point
+      Place_Keyword: Leadbetter Pt
+      Place_Keyword: Leadbetter Pt.
+      Place_Keyword: Pine I
+      Place_Keyword: Pine I.
+      Place_Keyword: Pine Is
+      Place_Keyword: Pine Is.
+      Place_Keyword: Pine Island
+      Place_Keyword: Snag I
+      Place_Keyword: Snag I.
+      Place_Keyword: Snag Is
+      Place_Keyword: Snag Is.
+      Place_Keyword: Snag Island
+      Place_Keyword: Stony Point
+      Place_Keyword: Stony Pt
+      Place_Keyword: Stony Pt.
+      Place_Keyword: Toke Point
+      Place_Keyword: Toke Pt
+      Place_Keyword: Toke Pt.
+      Place_Keyword: Willapa Bay
+    Temporal:
+      Temporal_Keyword_Thesaurus: None
+      Temporal_Keyword: Mean high tide
+  Access_Constraints: None
+  Use_Constraints:
+    These data were generated for use by NGS during the course
+    of its development of potential final products to fulfill
+    its statutory mission.  Although NGS is making these data
+    available to others who may find the data of value, NGS
+    does not warrant, endorse, or recommend the use of these
+    data for any given purpose.  The user assumes the entire
+    risk related to the use of these data.  These data are not
+    for navigational purposes.  NGS is providing these data
+    "as is," and NGS disclaims any and all warranties, whether
+    expressed or implied, including (without limitation) any
+    implied warranties of merchantability or fitness for a
+    particular purpose.  In no event will NGS be liable to you
+    or to any third party for any direct, indirect, incidental,
+    consequential, special, or exemplary damages or lost
+    profits resulting from any use or misuse of these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          U.S. Department of Commerce, National Oceanic and
+          Atmospheric Administration, National Ocean Service,
+          National Geodetic Survey, Information Services Branch
+      Contact_Position: Senior cartographer
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3226
+      Contact_Facsimile_Telephone: (301) 713-4176
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov
+      Hours_of_Service:
+        Monday through Friday, 7:00 a.m. to 4:30 p.m.,
+        Eastern Standard Time
+  Native_Data_Set_Environment:
+    Dell PCs using Environmental Systems Research Institute,
+    Inc. (ESRI)(r) ArcGIS(r) version 8.3
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      The attribute accuracy was tested by creating checkplots of
+      the coded linework.  The different codes depict shoreline,
+      piers, dikes, jetties, breakwaters, and groins.  A light
+      table review of the checkplots would reveal any inaccurate
+      coding.  Mistakes would be identified and corrected until
+      accurate checkplots were produced.  The feature codes
+      (f-codes) are identified as follows: approximate shoreline
+      (1); apparent shoreline (3); shoreline plane of reference
+      (SPOR) (7); dike or levee (25); jetty, breakwater, or groin
+      (27); pier, ramp, or dock (30); general class for man-made
+      objects that form a shore or waterline to include - wells
+      or oil platforms, wrecks, locks, dry docks, revetments,
+      seawalls, wharves, marine railroads, or shorelines of
+      seaplane bases or anchorages (38); control point or
+      shoreline map correction line (139); map extent line
+      (-1000); user added arc (-9999)
+  Logical_Consistency_Report:
+    Linework was vectorized to the neatline of the shoreline
+    map.  All data crossing the neatline was clipped to the
+    neatline.  All arcs were snapped by the nodes to create
+    consistently tied strings without node dangles.
+  Completeness_Report:
+    These shoreline data adequately represented the shoreline
+    at the time of the survey.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        Vector data derived from rectified raster images of NOS
+        coastal survey maps using ArcGIS processing software.
+        These shoreline data are referenced to NAD83.  Vector
+        shoreline was extracted from map images adequately
+        representing the shoreline shown on original NOS source
+        surveys.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: None
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Commerce, National Oceanic and
+            Atmospheric Administration, National Ocean Service,
+            National Geodetic Survey
+          Publication_Date: 20070406
+          Title:
+            Georeferenced Scanned Shoreline Maps of Willapa Bay
+            (Project WC-46C03) Derived from NOAA National Ocean Service
+            Coastal Survey Maps Developed from 1922 Source Data
+          Edition: First
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Silver Spring, Maryland
+            Publisher:
+              U.S. Department of Commerce, National Oceanic and
+              Atmospheric Administration, National Ocean Service,
+              National Geodetic Survey
+          Online_Linkage: http://coastalexplorer.imcwv.com/
+      Source_Scale_Denominator: 20,000
+      Type_of_Source_Media: Map manuscript
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19220101
+            Ending_Date: 19220101
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: WC46C03
+      Source_Contribution: Used as backdrop for shoreline vectorization effort
+    Process_Step:
+      Process_Description:
+        During the vectorization process, all adjoining raster
+        shoreline maps in the project are displayed on a computer
+        screen and the shoreline is traced and coded appropriately.
+
+        Maps within a project generally adjoin and, therefore,
+        there
+        is significant agreement of linework across the borders of
+        the shoreline maps.  This results in fewer errors related
+        to
+        the edge-matching process.  Polygon labels and attributes
+        are assigned to features containing area so that users may
+        shade the data to determine land, water, or man-made
+        features.  All lines are coded with the feature code
+        (f-code) value, a feature name (f-name), the shoreline map
+        number (t/tp-sheet#), the project number (index#), the
+        scale of the shoreline map, the survey date, and the date
+        the spatial data were captured.
+      Process_Date: 20070406
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization:
+              Information Manufacturing
+              Corporation, Inc.
+          Contact_Position: Production manager
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 168 West Main Street
+            City: Clarksburg
+            State_or_Province: West Virginia
+            Postal_Code: 26301
+            Country: USA
+          Contact_Voice_Telephone: (304)626-3610
+          Contact_Facsimile_Telephone: (304)626-3615
+          Contact_Electronic_Mail_Address: lhamrick@imcwv.com
+          Hours_of_Service:
+            Monday through Friday, 8:00 a.m. to 5:00 p.m.,
+            Eastern Standard Time
+    Process_Step_Citation:
+      Users interested in the methods used during the
+      vectorization process can refer to the training manual
+      developed by the NOAA Coastal Services Center.  This
+      manual is available on their shoreline data web site
+      for free download and is saved in Adobe .pdf format.
+      http://www.csc.noaa.gov/shoreline
+  Tidal_Information:
+    Type_of_Tide:
+    Time_of_Tide:
+      Time_of_Low_Tide: Unknown
+      Time_of_High_Tide: Unknown
+      Tidal_Datum:
+        Mean high water
+        Tidal_Range: Unknown
+    Tide_Table_Reference: http://tidesonline.nos.noaa.gov/
+    Supplemental_Tidal_Information:
+  Marine_Weather_Condition:
+    Wind_Speed: Unknown
+    Wind_Direction: Unknown
+    Wave_Height: Unknown
+    Barometric_Pressure: Unknown
+    Environmental_Event: Link to the Descriptive Report
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 129
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.0000001
+      Longitude_Resolution: 0.0000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 1980
+      Semi-major_Axis: 6,378,137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: WC46C03.aat
+      Entity_Type_Definition: Arc attribute table
+      Entity_Type_Definition_Source: None
+    Attribute:
+      Attribute_Label: Fnode#
+      Attribute_Definition: From-node identifier of linear feature
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: Tnode#
+      Attribute_Definition: To-node identifier of linear feature
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: Lpoly#
+      Attribute_Definition: Internal number of polygon to left of arc
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: Rpoly#
+      Attribute_Definition: Internal number of polygon to right of arc
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: Length
+      Attribute_Definition: Length of line
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: WC46C03#
+      Attribute_Definition: Internal feature number
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: WC46C03-id
+      Attribute_Definition: Feature identification number
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: User defined
+    Attribute:
+      Attribute_Label: F-code
+      Attribute_Definition: Shoreline feature code
+      Attribute_Definition_Source: User defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -9999
+          Enumerated_Domain_Value_Definition: User added arc
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -1000
+          Enumerated_Domain_Value_Definition: Map extent line
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Approximate shoreline
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: Apparent shoreline
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 7
+          Enumerated_Domain_Value_Definition: Shoreline plane of reference(SPOR)
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 25
+          Enumerated_Domain_Value_Definition: Dike or levee
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 27
+          Enumerated_Domain_Value_Definition: Jetty, breakwater, or groin
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 28
+          Enumerated_Domain_Value_Definition: Shoreline Along Feature Boundary
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 30
+          Enumerated_Domain_Value_Definition: Pier, ramp, or dock
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 38
+          Enumerated_Domain_Value_Definition:
+            General class for man-made objects that form a shore
+            or waterline to include wells or oil platforms, wrecks,
+            locks, dry docks, revetments, seawalls, wharves, or
+            shorelines of seaplane bases or anchorages
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 139
+          Enumerated_Domain_Value_Definition: Control point or shoreline map correction line
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+    Attribute:
+      Attribute_Label: F-name
+      Attribute_Definition: Shoreline feature name
+      Attribute_Definition_Source: User defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: User added line
+          Enumerated_Domain_Value_Definition:
+            Lines which are added to the vector coverage by the data
+            entry operator and do not appear on the source map.
+            Reasons for the added lines vary.  The most common reason
+            is that double-banked streams may abruptly stop on the
+            source map due to lack of aerial photography.  In order
+            for polygons to be made and distinction given to areas of
+            water vs. land, the "dangling" ends of these streams must
+            be connected together by an arbitrary "phantom" line that
+            holds no special meaning.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Neatline
+          Enumerated_Domain_Value_Definition:
+            Linework that represents the bounding area of a shoreline
+            map.  These are collected so that all areas may contain a
+            polygon label point that determines if the area is land,
+            water, or man-made.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Approx. shore
+          Enumerated_Domain_Value_Definition:
+            Linework that represents the approximate location of
+            shoreline on the source map.  This is assigned to
+            linework that may be obscured by man-made features
+            such as bridges or large piers.  The data entry
+            operator does not have an actual line to vectorize
+            from the source map, but can make a "highly educated
+            guess" as to the actual location of the line.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Apparent shore
+          Enumerated_Domain_Value_Definition:
+            Linework that represents the shoreline that would appear to
+            a mariner and the location of the shoreline shown on the
+            source map.  This is assigned to linework when the natural
+            shoreline is obscured by vegetation.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SPOR
+          Enumerated_Domain_Value_Definition:
+            Linework that represents the "Shoreline Plane of Reference"
+            or SPOR on the source map.  This is assigned to linework
+            that delineates natural and man-made shoreline.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Dike or levee
+          Enumerated_Domain_Value_Definition: Linework that represents a dike or levee on the source map.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Jetty, breakwater, or groin
+          Enumerated_Domain_Value_Definition:
+            Linework that represents a jetty, breakwater, or groin on
+            the source map.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Shore/Along Feat Bnd
+          Enumerated_Domain_Value_Definition:
+            Linework that represents shoreline behind man made features
+            on the source map.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pier, ramp, or dock
+          Enumerated_Domain_Value_Definition:
+            Linework that represents a pier, ramp, or dock on the
+            source map.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Gen. manmade object
+          Enumerated_Domain_Value_Definition:
+            Linework that represents various types of man-made objects
+            on the source map.  This is assigned to man-made objects
+            that appear along shorelines that may include wells or oil
+            platforms, wrecks, locks, dry docks, revetments, seawalls,
+            wharves, marine railroads, or shorelines of seaplane bases
+            or anchorages.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Control point
+          Enumerated_Domain_Value_Definition:
+            Linework that represents the location of a geodetic control
+            point placed by the NOAA NOS National Geodetic Survey.  The
+            representative triangle symbol vectorized from the source
+            map illustrates the location of the control point in the
+            center of the triangle with the name of the control point
+            annotated on the source map.
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+    Attribute:
+      Attribute_Label: Tsheet#
+      Attribute_Definition: Map number
+      Attribute_Definition_Source: User defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: Scale
+      Attribute_Definition: Scale of source map
+      Attribute_Definition_Source: User defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 20000
+          Range_Domain_Maximum: 20000
+    Attribute:
+      Attribute_Label: Survey date
+      Attribute_Definition: Date of survey
+      Attribute_Definition_Source: User defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 19220101
+          Range_Domain_Maximum: 19220101
+    Attribute:
+      Attribute_Label: Gisdate
+      Attribute_Definition: Date of data capture
+      Attribute_Definition_Source: User defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 20060424
+          Range_Domain_Maximum: 20060424
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: WC46C03.pat
+      Entity_Type_Definition: Polygon attribute table
+      Entity_Type_Definition_Source: None
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: Measured area of polygon feature
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: Measured distance around polygon feature
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: WC46C03#
+      Attribute_Definition: Unique identifier of polygon
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: WC46C03-id
+      Attribute_Definition: Unique identifier of polygon
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: F-name
+      Attribute_Definition: Shoreline feature name
+      Attribute_Definition_Source: User defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Water
+          Enumerated_Domain_Value_Definition: Polygon identifying area containing water
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Land
+          Enumerated_Domain_Value_Definition: Polygon identifying area containing land
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Manmade
+          Enumerated_Domain_Value_Definition: Polygon identifying area created by man (i.e. pier)
+          Enumerated_Domain_Value_Definition_Source: NOAA NOS
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          NOAA NOS National Geodetic Survey, Information
+          Services Branch
+      Contact_Position: Senior cartographer
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3226
+      Contact_Facsimile_Telephone: (301) 713-4176
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov
+      Hours_of_Service:
+        Monday through Friday, 7 a.m. to 4:30 p.m.,
+        Eastern Standard Time
+  Distribution_Liability: Not intended for navigational purposes
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Unknown
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: None
+    Fees: None
+    Ordering_Instructions: None
+Metadata_Reference_Information:
+  Metadata_Date: 20070418
+  Metadata_Review_Date: 20070418
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          NOAA NOS National Geodetic Survey, Information
+          Services Branch
+      Contact_Position: Information specialist
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3242
+      Contact_Facsimile_Telephone: (301) 713-4172
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov
+      Hours_of_Service:
+        Monday through Friday, 7 a.m. to 4:30 p.m.,
+        Eastern Standard Time
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Extensions:
+    Profile_Name:
+      Shoreline Metadata Profile of the Content Standard for
+      Digital Geospatial Metadata V 1.0
