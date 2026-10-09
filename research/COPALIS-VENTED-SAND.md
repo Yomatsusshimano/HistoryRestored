@@ -63,6 +63,8 @@ Conventional radiocarbon ages use BP=before1950CE and are not calendar ages. Sou
 
 ## Next discriminating work
 
+Subsequent [source-format comparison](CASCADIA-FORMAT-COMPARISON.md) finds CSV rounding loss in depth and surveyed extent fields. The three depth-order inversions and A31/A40 location differences also occur in workbook stored values; export rounding does not resolve them. Table18 thickness/vent values agree across formats. Preserve the present CSV-based ledger while declaring stored-value inputs in future analyses; extra decimals are not new survey accuracy.
+
 Recover original1992 figures/sections and1991–1992 trench/boring logs; reconcile A31/A40 locations and the three depth-order exceptions. Inspect source-sediment grain size/composition and observed dike/sill/crater cross-sections before choosing a fluid-pressure mechanism. Audit material preparation and calibration for the ten Ws assays, including the flagged T15B and mixed crater-floor material. Keep this regional venting episode separate from Y-associated1700 sand, urban fill and fossil burial unless physical correlations and timing demonstrate a connection.
 
 No worldwide event, precise venting date, pressure source, flow duration or chronology break is established. The gain is a more demanding, source-linked physical comparison that includes unresolved observations and adverse data.

@@ -52,6 +52,8 @@ The guide also distinguishes confirmed/probable dead trees from candidates infer
 
 ## Consequences and next tests
 
+Subsequent [format audit](CASCADIA-FORMAT-COMPARISON.md) inspects four XLSX tables. Their86 named sampled-tree rows and68 vented-sand rows retain guide-count discrepancies; reference-tree endpoint/count qualifications persist. Other formatted tables and all original field notes remain unaudited. Numeric export rounding can turn positive surveyed extents into CSVzero; stored decimals are not automatically field precision.
+
 The release narrows field-context gaps and provides locators for original notes, observers and photographs. It supplies neither Ozette ring-width measurements nor the original per-radius decay/spline/autoregressive output in the inspected material. The [regional processing sensitivity](CASCADIA-COMBINED-REGIONAL.md) therefore remains unresolved. No replacement date, chronology break or global-event link follows from this field compilation.
 
 Next: inspect original GF2 field notes and slice/tag/accession records using UC-DC-3, GF-2 and both tag numbers; compare Table-11 versions/counts; inspect the linked photograph without treating it as custody proof; recover original processing/Ozette inputs. The other acquired sediment, radiocarbon and survey tables offer a separate route to testing regional deposits and chronology, requiring their own audit rather than wholesale acceptance.

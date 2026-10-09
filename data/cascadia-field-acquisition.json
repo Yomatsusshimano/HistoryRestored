@@ -31,5 +31,27 @@
       "sha256": "2d53d7c45bcdf260d11f27ae82c6e078f0e2dd40588ce66eef36a53d736e946d",
       "inspection": "ACQUIRED_NOT_CONTENT_AUDITED"
     }
+  ],
+  "formatted_members": [
+    {
+      "file": "sources/originals/cascadia/field-release-2022/03_Soil_stratigraphy.xlsx",
+      "bytes": 40919,
+      "sha256": "717faaaca6d78e6cc3102415d4dab98de04f264f44f4a52304a280f12644e955"
+    },
+    {
+      "file": "sources/originals/cascadia/field-release-2022/11_Redcedar_dead_sampled.xlsx",
+      "bytes": 20697,
+      "sha256": "1904b7f993396b2a4eb135ba439500fe45358de7593164576a7617b390636757"
+    },
+    {
+      "file": "sources/originals/cascadia/field-release-2022/13_Redcedar_live.xlsx",
+      "bytes": 16831,
+      "sha256": "ce76da8793eeb00c85b7beef29408b1508fc47e6f79ef9bd52fcf3a1fa83739d"
+    },
+    {
+      "file": "sources/originals/cascadia/field-release-2022/18_Copalis_vented_sand.xlsx",
+      "bytes": 15165,
+      "sha256": "4a8e8ed952fb4db0917f9639a321267d3aa2c3192d5e2ac86791a4bfb0e0c254"
+    }
   ]
 }

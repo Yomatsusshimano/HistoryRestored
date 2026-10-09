@@ -40,6 +40,8 @@ For wildlife, map specimen coordinates and contextual age distributions before c
 
 ## Copalis intrusion and extrusion benchmark
 
+[Source-format comparison](research/CASCADIA-FORMAT-COMPARISON.md) shows that CSVrounded depths and extents lose stored information;18 positive extent cells become zero. Future input preparation must declare stored values, units and uncertainty rather than equating CSVzero with no exposed extent. Copalis depth-order exceptions persist in stored XLSXvalues and still require original sections. No new field measurement or hydraulic reproduction is supplied by recovering decimals.
+
 The [Copalis vented-sand audit](research/COPALIS-VENTED-SAND.md) supplies68 reported observations with source-linked [GeoJSON](data/copalis-vented-sand.geojson). It is a regional process benchmark, not a dated worldwide horizon. Eleven records report vents; two combine observed venting with zero sheet thickness. Thickness ranges and unknown entries preclude treating every observation as a uniform blanket.
 
 A candidate model must explain authenticated dike/sill/crater continuity as well as surface deposits, entrained wood/mud clasts and reported soil relationships. Compare surface inundation with groundwater venting, then distinguish possible shaking-induced liquefaction from speculative deformation of a deep aquifer. The latter's reported depth greater than35m is not a measured pressure head. Source sediment, hydraulic head, permeability, confinement, intrusion dimensions and dated sequence remain missing; no discharge, sediment volume or duration is computed.

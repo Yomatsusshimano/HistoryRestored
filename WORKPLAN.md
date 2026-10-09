@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Cascadia source-format comparison
+
+Four unchanged XLSX members recovered from S244 supplement and compared with CSV. Stored depths/extent values preserve decimals lost in exports;18 positive extent cells become CSVzero. Original XML spot checks agree. Three Copalis depth inversions, A31/A40 coordinate mismatches, guide/table counts and reference-tree qualifications remain. Original1992 PDF retrieval blocked; no full-paper or native-engine check claimed. Next original field sections and specimen/calibration inputs, declaring stored-value precision in future models. See research/CASCADIA-FORMAT-COMPARISON.md. All twenty objectives remain in scope.
+
 ### 2026-10-09 — Copalis sediment mechanism and context
 
 Audited S244Table18 all68 reported observations plus nine exact-label Table3 matches and ten Ws assays. Preserved11 vent flags, zero/unknown thickness, approximate ranges, A31/A40 coordinate differences, T6/T1/A31 depth inversions and discordant T15B. Original intrusion geometry and source/pressure inputs are needed to discriminate emplacement and trigger; no age or hydraulic fit. Public GeoJSON is reported-point context, not a reconstructed event footprint. Next original1992 sections/figures and trench/boring logs, specimen preparation/calibration and field correlation. See research/COPALIS-VENTED-SAND.md. Original twenty outcomes remain incomplete.
