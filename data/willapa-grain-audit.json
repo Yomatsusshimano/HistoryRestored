@@ -1,0 +1,167 @@
+{
+  "source_id": "S274",
+  "source_sha256": "97656b70d0dbfcfcc44eddfd6c4158e1f181b62c438eae39f0e14f247a20431d",
+  "status_counts": {
+    "REPORTED_COMPOSITION": 157,
+    "MISSING_NA": 16,
+    "UNPRINTED": 45
+  },
+  "reported_targets": {
+    "composition_n": 159,
+    "sand_weight_mean_percent": 70,
+    "grain_n": 144,
+    "grain_mean_um": 185,
+    "grain_min_um": 86,
+    "grain_max_um": 249,
+    "r_squared": 0.7
+  },
+  "variants": {
+    "all_table_and_note": {
+      "composition_n": 157,
+      "composition_sand_sum": 10745,
+      "sand_weight_mean_percent": 68.43949044585987,
+      "core_n": 31,
+      "equal_core_sand_weight_mean_percent": 68.58563748079877,
+      "grain_n": 144,
+      "grain_mean_um": 187.79861111111111,
+      "grain_min_um": 86,
+      "grain_max_um": 645,
+      "ols_with_intercept_r_squared": 0.14263765990056898,
+      "ols_slope_um_per_percent": 0.6781661740554827,
+      "plus20_assumed_zero_sections_n": 177,
+      "plus20_assumed_zero_mean_percent": 60.706214689265536,
+      "conditional_equal_density_volume_m3": 57670903.95480225,
+      "composition_count_matches_report": false,
+      "grain_count_matches_report": true
+    },
+    "table_only": {
+      "composition_n": 156,
+      "composition_sand_sum": 10680,
+      "sand_weight_mean_percent": 68.46153846153847,
+      "core_n": 31,
+      "equal_core_sand_weight_mean_percent": 68.44431643625192,
+      "grain_n": 143,
+      "grain_mean_um": 187.74825174825176,
+      "grain_min_um": 86,
+      "grain_max_um": 645,
+      "ols_with_intercept_r_squared": 0.142952159655426,
+      "ols_slope_um_per_percent": 0.6790421557614796,
+      "plus20_assumed_zero_sections_n": 176,
+      "plus20_assumed_zero_mean_percent": 60.68181818181818,
+      "conditional_equal_density_volume_m3": 57647727.27272727,
+      "composition_count_matches_report": false,
+      "grain_count_matches_report": false
+    },
+    "all_except_KI11": {
+      "composition_n": 151,
+      "composition_sand_sum": 10480,
+      "sand_weight_mean_percent": 69.40397350993378,
+      "core_n": 30,
+      "equal_core_sand_weight_mean_percent": 69.39960317460317,
+      "grain_n": 144,
+      "grain_mean_um": 187.79861111111111,
+      "grain_min_um": 86,
+      "grain_max_um": 645,
+      "ols_with_intercept_r_squared": 0.14263765990056898,
+      "ols_slope_um_per_percent": 0.6781661740554827,
+      "plus20_assumed_zero_sections_n": 171,
+      "plus20_assumed_zero_mean_percent": 61.28654970760234,
+      "conditional_equal_density_volume_m3": 58222222.222222224,
+      "composition_count_matches_report": false,
+      "grain_count_matches_report": true
+    },
+    "depth_end_at_most_3m": {
+      "composition_n": 149,
+      "composition_sand_sum": 10303,
+      "sand_weight_mean_percent": 69.14765100671141,
+      "core_n": 31,
+      "equal_core_sand_weight_mean_percent": 68.77688172043011,
+      "grain_n": 138,
+      "grain_mean_um": 188.59420289855072,
+      "grain_min_um": 86,
+      "grain_max_um": 645,
+      "ols_with_intercept_r_squared": 0.1307199137524502,
+      "ols_slope_um_per_percent": 0.6650439948997262,
+      "plus20_assumed_zero_sections_n": 169,
+      "plus20_assumed_zero_mean_percent": 60.96449704142012,
+      "conditional_equal_density_volume_m3": 57916272.18934911,
+      "composition_count_matches_report": false,
+      "grain_count_matches_report": false
+    },
+    "all_except_W28_645um_cell": {
+      "composition_n": 156,
+      "composition_sand_sum": 10721,
+      "sand_weight_mean_percent": 68.72435897435898,
+      "core_n": 31,
+      "equal_core_sand_weight_mean_percent": 68.53993855606758,
+      "grain_n": 143,
+      "grain_mean_um": 184.6013986013986,
+      "grain_min_um": 86,
+      "grain_max_um": 249,
+      "ols_with_intercept_r_squared": 0.6613501683451668,
+      "ols_slope_um_per_percent": 0.9105128134058975,
+      "plus20_assumed_zero_sections_n": 176,
+      "plus20_assumed_zero_mean_percent": 60.91477272727273,
+      "conditional_equal_density_volume_m3": 57869034.09090909,
+      "composition_count_matches_report": false,
+      "grain_count_matches_report": false
+    },
+    "printed_composition_sums_100_only": {
+      "composition_n": 152,
+      "composition_sand_sum": 10413,
+      "sand_weight_mean_percent": 68.50657894736842,
+      "core_n": 31,
+      "equal_core_sand_weight_mean_percent": 69.10168970814132,
+      "grain_n": 139,
+      "grain_mean_um": 187.4820143884892,
+      "grain_min_um": 86,
+      "grain_max_um": 645,
+      "ols_with_intercept_r_squared": 0.1388350778199422,
+      "ols_slope_um_per_percent": 0.6744959127988706,
+      "plus20_assumed_zero_sections_n": 172,
+      "plus20_assumed_zero_mean_percent": 60.5406976744186,
+      "conditional_equal_density_volume_m3": 57513662.79069767,
+      "composition_count_matches_report": false,
+      "grain_count_matches_report": false
+    }
+  },
+  "printed_composition_anomalies": [
+    {
+      "site": "W4",
+      "depth_start_m": 3.0,
+      "raw": "33:77/149\u00b153",
+      "printed_total": 110
+    },
+    {
+      "site": "W6",
+      "depth_start_m": 1.0,
+      "raw": "46:55/207\u00b1147",
+      "printed_total": 101
+    },
+    {
+      "site": "W11",
+      "depth_start_m": 1.0,
+      "raw": "99:02/235\u00b149",
+      "printed_total": 101
+    },
+    {
+      "site": "W16",
+      "depth_start_m": 0.5,
+      "raw": "82:12/207\u00b157",
+      "printed_total": 94
+    },
+    {
+      "site": "W24",
+      "depth_start_m": 2.0,
+      "raw": "72:26/185\u00b166",
+      "printed_total": 98
+    }
+  ],
+  "limitations": [
+    "Variants are declared sensitivities, not inferred author selections.",
+    "Twenty zero sections are a reported assumption, not twenty recovered sieve measurements.",
+    "Equal sample/core weights are not area weights; no spatial confidence interval computed.",
+    "Mass fraction equals solid volume fraction only under equal constituent density; bulk volume additionally needs porosity definitions.",
+    "SD of grains is not measurement error of composition or uncertainty of the budget."
+  ]
+}

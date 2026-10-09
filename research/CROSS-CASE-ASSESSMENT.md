@@ -1,5 +1,10 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Grain-size reproduction and sand-volume conversion
+
+S274 Table2 fully transcribed: 157 compositions and 144 grain means, versus reported159/144. All pairs yield R²0.143; removing the W28 645µm entry gives143 pairs,184.601µm and R²0.661. Twenty assumed zero sections yield60.706% by weight, close to rounded60%; density/porosity and area weighting remain unresolved. Literal tokens match separate PDF extraction; five non100 compositions retained. See research/WILLAPA-GRAIN-AUDIT.md. Archive remains25 drafts/274 sources; all twenty outcomes retained.
+
+
 ### 2026-10-09 — Core dating and executed conditional sediment budget
 
 S2742018originalresearch31-pageCCBYarticle acquired; selectedscans/table3all23rows/table4all10rows inspected/transcribed. W16/W18printed rates fail rounding bounds while recomputedmean1.228±0.697supports reported1.2±0.7. DuplicateBeta158078andW29prose/table conflict retained. AssignedAD1700/oyster markers not independent. Table5assumptions yield57millionm3sand, with1/10/100yearrequiredflux scenarios; no measured uniformhorizon or validatedflow.25drafts/274sources, all twenty outcomes active. See research/WILLAPA-CORE-BUDGET.md.
