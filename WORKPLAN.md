@@ -1,5 +1,10 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Core sampling context and spatial selection
+
+S274 Table1/Figure6 scans and all40site rows inspected. Table1-2 joins show sample means66.839% sand in modern flats,60.256% banks and97-98% channels/shoals; modern classes are not buried facies or area weights. Site census, W19 class, three depth/length mismatches and shortening-range conflict retained. Coordinate datum null, elevations MTL; native-coordinate figure is descriptive. See research/WILLAPA-SAMPLING-CONTEXT.md.25 drafts/274 sources, all twenty outcomes retained.
+
+
 ### 2026-10-09 — Grain-size reproduction and sand-volume conversion
 
 S274 Table2 fully transcribed: 157 compositions and 144 grain means, versus reported159/144. All pairs yield R²0.143; removing the W28 645µm entry gives143 pairs,184.601µm and R²0.661. Twenty assumed zero sections yield60.706% by weight, close to rounded60%; density/porosity and area weighting remain unresolved. Literal tokens match separate PDF extraction; five non100 compositions retained. See research/WILLAPA-GRAIN-AUDIT.md. Archive remains25 drafts/274 sources; all twenty outcomes retained.

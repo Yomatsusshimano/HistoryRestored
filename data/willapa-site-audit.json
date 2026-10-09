@@ -1,0 +1,178 @@
+{
+  "source_id": "S274",
+  "table1_site_n": 40,
+  "W_only_modern_setting_counts": {
+    "ITF": 17,
+    "IAB": 8,
+    "TIS": 2,
+    "ITM": 1,
+    "STC": 2
+  },
+  "W_and_KI11_modern_setting_counts": {
+    "ITF": 18,
+    "IAB": 8,
+    "TIS": 2,
+    "ITM": 1,
+    "STC": 2
+  },
+  "prose_W_only_counts": {
+    "ITF": 18,
+    "IAB": 7,
+    "STC": 2,
+    "TIS": 2,
+    "ITM": 1
+  },
+  "W_only_shortening": {
+    "n": 17,
+    "mean_percent": 8.235294117647058,
+    "min_percent": 0,
+    "max_percent": 16
+  },
+  "W_and_KI11_shortening": {
+    "n": 18,
+    "mean_percent": 8.333333333333334,
+    "min_percent": 0,
+    "max_percent": 16
+  },
+  "environment_groups": {
+    "ITF": {
+      "site_ids": [
+        "KI11",
+        "W1",
+        "W10",
+        "W13",
+        "W14",
+        "W15",
+        "W16",
+        "W17",
+        "W2",
+        "W20",
+        "W22",
+        "W24",
+        "W27",
+        "W3",
+        "W30",
+        "W4",
+        "W8",
+        "W9"
+      ],
+      "core_n": 18,
+      "composition_n": 93,
+      "mean_sand_weight_percent": 66.83870967741936,
+      "equal_core_mean_sand_weight_percent": 66.55489417989418,
+      "shallow_composition_n": 88,
+      "shallow_mean_sand_weight_percent": 67.6590909090909
+    },
+    "IAB": {
+      "site_ids": [
+        "W12",
+        "W19",
+        "W25",
+        "W26",
+        "W28",
+        "W29",
+        "W5",
+        "W6"
+      ],
+      "core_n": 8,
+      "composition_n": 43,
+      "mean_sand_weight_percent": 60.25581395348837,
+      "equal_core_mean_sand_weight_percent": 58.45625,
+      "shallow_composition_n": 40,
+      "shallow_mean_sand_weight_percent": 60.275
+    },
+    "TIS": {
+      "site_ids": [
+        "W11",
+        "W7"
+      ],
+      "core_n": 2,
+      "composition_n": 6,
+      "mean_sand_weight_percent": 97.83333333333333,
+      "equal_core_mean_sand_weight_percent": 97.875,
+      "shallow_composition_n": 6,
+      "shallow_mean_sand_weight_percent": 97.83333333333333
+    },
+    "ITM": {
+      "site_ids": [
+        "W18"
+      ],
+      "core_n": 1,
+      "composition_n": 4,
+      "mean_sand_weight_percent": 71,
+      "equal_core_mean_sand_weight_percent": 71,
+      "shallow_composition_n": 4,
+      "shallow_mean_sand_weight_percent": 71
+    },
+    "STC": {
+      "site_ids": [
+        "W21",
+        "W23"
+      ],
+      "core_n": 2,
+      "composition_n": 11,
+      "mean_sand_weight_percent": 97,
+      "equal_core_mean_sand_weight_percent": 96.88333333333333,
+      "shallow_composition_n": 11,
+      "shallow_mean_sand_weight_percent": 97
+    }
+  },
+  "selection_sensitivities": {
+    "all_table_and_note": {
+      "n": 157,
+      "mean_sand_weight_percent": 68.43949044585987,
+      "plus20_assumed_zero_mean_percent": 60.706214689265536,
+      "limitations": "Declared diagnostic selection; not an authenticated author selection or baywide weighting."
+    },
+    "exclude_modern_STC": {
+      "n": 146,
+      "mean_sand_weight_percent": 66.28767123287672,
+      "plus20_assumed_zero_mean_percent": 58.30120481927711,
+      "limitations": "Declared diagnostic selection; not an authenticated author selection or baywide weighting."
+    },
+    "modern_ITF_only": {
+      "n": 93,
+      "mean_sand_weight_percent": 66.83870967741936,
+      "plus20_assumed_zero_mean_percent": 55.008849557522126,
+      "limitations": "Declared diagnostic selection; not an authenticated author selection or baywide weighting."
+    },
+    "dated_Table4_sites": {
+      "n": 53,
+      "mean_sand_weight_percent": 60.301886792452834,
+      "plus20_assumed_zero_mean_percent": 43.78082191780822,
+      "limitations": "Declared diagnostic selection; not an authenticated author selection or baywide weighting."
+    }
+  },
+  "composition_bins_starting_beyond_reported_length": [
+    {
+      "site": "W12",
+      "depth_start_m": 2.5,
+      "depth_end_m": 3.0,
+      "reported_core_length_m": 2.0,
+      "raw": "89:11/200\u00b146",
+      "note_only": false
+    },
+    {
+      "site": "W28",
+      "depth_start_m": 2.5,
+      "depth_end_m": 3.0,
+      "reported_core_length_m": 2.0,
+      "raw": "25:10:65/na",
+      "note_only": false
+    },
+    {
+      "site": "W29",
+      "depth_start_m": 3.5,
+      "depth_end_m": 4.0,
+      "reported_core_length_m": 3.0,
+      "raw": "65:35/195\u00b129",
+      "note_only": true
+    }
+  ],
+  "limitations": [
+    "Modern classifications are not the historical facies of every core sample.",
+    "Reported bin starts/lengths may use different depth conventions; no sample is discarded or relocated.",
+    "Class means are descriptive sample summaries, not class areas or measured baywide volume weights.",
+    "No common event horizon or held-out prediction established."
+  ]
+}
