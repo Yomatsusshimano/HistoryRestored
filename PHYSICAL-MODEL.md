@@ -1,5 +1,9 @@
 # Physical reconstruction: constraints before fitting
 
+### 2026-10-09 — Historical shoreline comparison requirements
+
+The [Willapa survey audit](research/WILLAPA-HISTORICAL-SURVEYS.md) adds an original1873map and1922revision-method context. Resolve footprint, dated annotations, legend and vertical reference before classifying marsh or calculating change. Survey scale limits detection, and low-water observations constrained by tide availability cannot substitute for high-marsh elevation. Catalog update/vectorization years are not landscape dates. No displacement or recovery-rate model executed.
+
 ### 2026-10-09 — Soil geometry and preservation constraints
 
 The [1997 report audit](research/CASCADIA-SOIL-CORRELATIONS.md) distinguishes generalized regional columns from surveyed sections, inferred paleoenvironmental displacement from mud thickness, and speculative correlations from observed continuity. Preserve soil formation/decomposition, growth-position plants and local dredge-spoil context in candidate models.150years of ample marsh recovery is not a lower duration bound. Calendar-before2000 and BP1950 labels require explicit epochs; limiting material ages cannot be pooled as direct earthquake times. No new flow model or chronology correction is established.

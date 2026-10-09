@@ -36,6 +36,8 @@ The adjacent wildlife list is likewise a historical report, not a specimen-verif
 
 ## What changed and what remains
 
+Subsequent [historical-survey retrieval](WILLAPA-HISTORICAL-SURVEYS.md) obtains an original1873southern-peninsula sheet and selected1922descriptive report. This does not close the northeastern marsh footprint/legend gap; earlier relevant sheet identifiers are now available as retrieval targets.
+
 The Swan citation is now checked against an original1857 scan instead of being accessible only through the1997 report. Small quotation differences and the neighboring buried-forest report are retained openly. This improves primary-source access and identifies a geographical matching problem; it does not produce a new duration bound.
 
 Next: locate the nineteenth-century Coast Survey sheets, compare their mapped tidal-marsh footprints with documented soil localities, and resolve elevation/reference conventions. Original Copalis sections, surviving source-table exceptions and sample-age bounds remain separate tasks. S245 quoting S246 is one historical source lineage, not two independent witnesses. No external review, field authentication, prospective prediction or worldwide reconstruction is established.

@@ -3858,6 +3858,66 @@
       "sha256": "dec876ff92c6e2473405dcaa3550ceed68c8caac1f0d66796c2262111f1284d2",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S247",
+      "title": "Shoalwater Bay W.T.,1873, SheetNo9; T01341B",
+      "creator": "U.S. Coast Survey",
+      "publication_date": "1873",
+      "url": "https://historicalcharts.noaa.gov/includes/downloadsingle.php?filename=T01341B-00-1873&fileExt=.jpg",
+      "source_type": "Historical topographic sheet, NOAA original-image delivery",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Heading and full sheet viewed at reduced display scale; southern-peninsula geography and landscape linework inspected. Catalog1:10,000.",
+      "limitations": "Not northeastern Willapa study-site coverage. Small annotations, symbol meanings, map accuracy and horizontal/tidal datums not fully audited. No digitization or measured change. Historical source public-domain; NOAA credited.",
+      "local_copy": "sources/originals/cascadia/T01341B-00-1873.jpg",
+      "sha256": "d60df01a4bf9543d486157efe336fb7652cb28f1b4299989fd3dcb2a17e675dc",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S248",
+      "title": "Descriptive report to accompany T03921: shoreline revision, Willapa Bay",
+      "creator": "Fred L. Peacock and U.S. Coast and Geodetic Survey",
+      "publication_date": "1922",
+      "url": "https://www.ngs.noaa.gov/desc_reports/T03921.pdf",
+      "source_type": "Contemporary survey descriptive report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF1-3 visually inspected: cover/title1922, contributors, selected rerun segments, tidal and scale limitations, reported work totals.",
+      "limitations": "Seven-page original preserved; PDF4-7 not inspected. Text extraction blank; renderer font warnings retained. Reported totals not independently measured or complete bay coverage. Original map not acquired. No quantified shoreline change.",
+      "local_copy": "sources/originals/cascadia/T03921-descriptive-report.pdf",
+      "sha256": "8cfea6266151e9a22254bcb6c7e1e80028e2df8c338d61eb91addb72cc1b908b",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S249",
+      "title": "Shoreline Data Rescue Project of Willapa Bay, WA, WC46C03",
+      "creator": "NOAA National Geodetic Survey",
+      "publication_date": null,
+      "url": "https://www.fisheries.noaa.gov/inport/item/64142",
+      "source_type": "Agency dataset metadata",
+      "access": "CATALOG_METADATA",
+      "inspected": "Timeframe1922-01-01, creation2021, update2026, NAD83, vectorization lineage and linked T03921 inspected.",
+      "limitations": "Generic timeframe not exact survey day. Vector files and rectification accuracy not audited.1922dataset cannot substitute for1870s maps.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S250",
+      "title": "Coastal Survey Maps of Washington: Shoalwater sheet catalog",
+      "creator": "University of Alabama map collection",
+      "publication_date": null,
+      "url": "https://alabamamaps.ua.edu/historicalmaps/Coastal%20Survey%20Maps/washington.htm",
+      "source_type": "Institutional historical-sheet catalog",
+      "access": "CATALOG_METADATA",
+      "inspected": "Shoalwater entries1261-1264,1292-1294,1341a/b,1342a/b; dates1871-1873,1:10,000 and J.J.Gilbert read.",
+      "limitations": "Catalog dates not independently authenticated map dates. Legacy T1292 viewer timeout; other linked images not inspected here. Paired1341entry wording not a verified SheetNo10 assignment.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

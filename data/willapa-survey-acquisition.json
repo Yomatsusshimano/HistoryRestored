@@ -1,0 +1,22 @@
+{
+  "accessed_date": "2026-10-09",
+  "files": [
+    {
+      "path": "sources/originals/cascadia/T01341B-00-1873.jpg",
+      "bytes": 27434630,
+      "sha256": "d60df01a4bf9543d486157efe336fb7652cb28f1b4299989fd3dcb2a17e675dc"
+    },
+    {
+      "path": "sources/originals/cascadia/T03921-descriptive-report.pdf",
+      "bytes": 183382,
+      "sha256": "8cfea6266151e9a22254bcb6c7e1e80028e2df8c338d61eb91addb72cc1b908b"
+    }
+  ],
+  "map_dimensions": [
+    9286,
+    15909
+  ],
+  "report_pdf_pages": 7,
+  "inspected": "S247 whole sheet at reduced display; S248 PDF1-3 visually inspected only",
+  "limits": "No georeferencing, vector extraction, complete annotations, ecological legend authentication or quantitative shoreline comparison."
+}
