@@ -1124,3 +1124,8 @@ Previous turn made verified public progress. Retrieved five official additional-
 ### 2026-10-08 — Cascadia alternative-processing diagnostic
 
 Previous turn made verified public progress. Revalidated clean checkout and recovered methods. Executed hash-checked log/width first-difference comparisons with two reference-weighting versions, full-overlap shift scans and two endpoint upper bounds. Retained all series and reported exceptions; added depth diagnostics after observing low-depth alternative matches without changing ranking/selection. Verified synthetic shift recovery, unit-scale invariance and published-position Pearson values against NumPy. These are retrospective analyst choices, not prospective predictions, original-method reproduction or independent dates. No new external sources or outreach.
+
+
+### 2026-10-09 — Copalis local-reference comparison
+
+Preceding status update was no progress; last substantive checkpoint was the verified published sensitivity audit, followed by the requested privacy update. Revalidated clean checkout and local source notes. Executed hash-checked local reference using the three trees explicitly named in S231, omitting reference targets from their own master. Initial full-span rule leaves three published placements unscored; added and disclosed fixed shared-year subsets after observing coverage limits. Preserved both scopes, every candidate and short-radius exceptions. Local relative agreement improves for CPGF2NW without supplying independent calendar placement. No new external source, outreach, corrected date or review claimed.

@@ -148,3 +148,8 @@ Next recover original processing settings and indices, retain the stated local-r
 ## Alternative-processing alignment diagnostic
 
 The [executed sensitivity audit](CASCADIA-ALIGNMENT-SENSITIVITY.md) tests every full-overlap integer shift for27 archived snag measurement series using log and width differences. Published placements rank first for22 and24 series respectively under both reference weightings and endpoint limits. Exceptions, sparse reference coverage and dependencies remain explicit. This supports relative-pattern agreement for many selected series, but neither reproduces the original processing nor independently verifies the reference calendar or final-root dates.
+
+
+## Copalis local-reference follow-up
+
+The [local-reference audit](CASCADIA-LOCAL-REFERENCE.md) uses S231's CP791/793/794 master-tree selection and excludes a target from its own reference. The longest CPGF2 trunk measurement ranks first at the published position under both alternative transformations; shorter radii retain exceptions. Three targets lack complete published-span reference coverage, so a separately disclosed fixed shared-year subset is also evaluated. Local agreement does not independently date the reference or test a joint calendar shift. Original processing and root/trunk linkage remain pending.

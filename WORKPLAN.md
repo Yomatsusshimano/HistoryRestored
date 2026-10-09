@@ -482,3 +482,8 @@ S231 recovers1997 detrending, local-reference and multiple-placement methods, pl
 ### 2026-10-08 — Cascadia alignment sensitivity executed
 
 Published four alternative-processing variants and per-series ranks/top alternatives. Original placements rank first for22/27 or24/27 dependent series; CPGF2 exceptions remain. Next original per-tree/local-master processing and root crosswalk. Do not convert diagnostic ranks into revised dates or independent-review status.
+
+
+### 2026-10-09 — Copalis local-reference diagnostic
+
+Source-selected local master supports CPGF2NW's published relative placement under both difference transformations; shorterGF2 radii retain exceptions. Full-span coverage limits and a retrospective fixed-subset response preserved. Next original processed indices, per-tree averaging and root/trunk crosswalk; no absolute date or prospective success established.
