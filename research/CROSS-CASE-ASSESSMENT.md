@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Original historical marsh observation recovered
+
+The [Swan1857 scan audit](SWAN-WILLAPA-MARSH.md) replaces reliance solely on a later quotation with inspected marsh and adjacent coastal descriptions. Rare winter-tide flooding and grass-covered lands support a qualitative marsh interpretation, without a surveyed level, exact footprint or independent earthquake date. Two small quotation differences remain visible. Buried forest remains are reported but not tied to a measured-age exposure. A primary historical source advances provenance; it does not supply a minimum soil-growth duration or an independently confirmed global event.
+
 ### 2026-10-09 — Regional correlation and duration limits
 
 The [selected original1997 USGS report audit](CASCADIA-SOIL-CORRELATIONS.md) adds explicit generalized/speculative regional links and age bands allowing an earthquake series. Subsidence inferred from biological environments is distinct from measured displacement or mud thickness. Soil preservation can miss events, and150years described as ample marsh recovery cannot be turned into a minimum per horizon. Its calendar-before2000 convention differs from BP1950;50years of label difference is not a chronology break. These constraints narrow interpretation without resolving original Copalis drawings, field-table exceptions or the global hypothesis. No independent review or prospective confirmation follows.

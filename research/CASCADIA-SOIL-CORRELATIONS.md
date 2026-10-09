@@ -48,6 +48,8 @@ Printed p.95 considers soils destroyed by decomposition and explains a condition
 
 The same page cites Swan's1857 account and1870s Coast Survey maps to argue that150years is ample for restoration of high marsh from muddy tidal flats after the latest inferred event. Despite the subsection's minimum-time heading, the example does not establish150years as a lower bound. Multiplying soil count by150 would manufacture a duration. The original Swan passage and map sheets have not been inspected here; their evidence remains mediated by this report.
 
+Subsequent source recovery: [S246 original Swan audit](SWAN-WILLAPA-MARSH.md) now visually checks printed pp.27-28 and records two small quotation differences. This supersedes the absent-Swan-scan limitation; Coast Survey sheets remain uninspected. The original passage describes marsh conditions without an independent earthquake date or minimum recovery duration.
+
 The authors also connect shallow burial and decomposition to loss of soil W, contrasting better preservation of deeper soil N. Those interpretations constrain any model that assumes identical preservation everywhere, but do not constitute a new measured decay experiment. A missing soil is not automatically a missing earthquake, and multiple soil names alone do not demonstrate the number or timing of independent hydrographs.
 
 ## Consequences for the full investigation

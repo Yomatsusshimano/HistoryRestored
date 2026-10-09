@@ -3843,6 +3843,21 @@
       "sha256": "f28bdafbea6618b474d53d85ddda54e34ad46c7baf1510614e8f96895265ffd4",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S246",
+      "title": "The Northwest Coast; or, Three Years' Residence in Washington Territory: selected Willapa landscape pages",
+      "creator": "James G. Swan; Harper & Brothers, New York",
+      "publication_date": "1857",
+      "url": "https://archive.org/download/northwestcoastor00swan/northwestcoastor00swan.pdf",
+      "source_type": "Nineteenth-century descriptive account; digitized1857 volume",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Title and printed pp.27-28, original PDF11/41/42, visually inspected. Marsh/tide wording compared with S245p95; adjacent buried-forest description retained. Public three-page excerpt and source/page hashes supplied.",
+      "limitations": "Selected pages only. No exact marsh observation date or identified soil exposure, calibrated elevation, formation start time or field sample. Publication date is not every observation date. Two small quotation differences versus S245 retained; exact copy used by report unknown. Buried forest age is qualitative source interpretation. OCR unreliable; visual reading used. Public-domain1857 text. Hash identifies excerpt; full original hash in ledger. No independent review or physical authentication.",
+      "local_copy": "sources/originals/cascadia/swan-1857-marsh-context.pdf",
+      "sha256": "dec876ff92c6e2473405dcaa3550ceed68c8caac1f0d66796c2262111f1284d2",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
