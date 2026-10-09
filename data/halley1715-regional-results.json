@@ -1,0 +1,225 @@
+{
+  "source_id": "S282",
+  "input_sha256": "845edf4268edc19599171cd8e8774d8092409d8db5474e5690b3d6c0ac820fd1",
+  "rows": [
+    {
+      "row": 1,
+      "place_token": "Barton",
+      "duration_s": 233,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 2,
+      "place_token": "Bell-bar",
+      "duration_s": 222,
+      "endpoint_duration_s": 222,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 3,
+      "place_token": "Broadway / Carmarth. (brace-linked)",
+      "duration_s": 150,
+      "endpoint_duration_s": 150,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 4,
+      "place_token": "Cambridge",
+      "duration_s": null,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": null
+    },
+    {
+      "row": 5,
+      "place_token": "Canterbury",
+      "duration_s": null,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": null
+    },
+    {
+      "row": 6,
+      "place_token": "Chester",
+      "duration_s": null,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": null
+    },
+    {
+      "row": 7,
+      "place_token": "Crew",
+      "duration_s": 120,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 8,
+      "place_token": "Dublin",
+      "duration_s": null,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": null
+    },
+    {
+      "row": 9,
+      "place_token": "Dublin",
+      "duration_s": null,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": null
+    },
+    {
+      "row": 10,
+      "place_token": "Exon",
+      "duration_s": 240,
+      "endpoint_duration_s": 240,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": true
+    },
+    {
+      "row": 11,
+      "place_token": "Exon",
+      "duration_s": 210,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 12,
+      "place_token": "Greenwich",
+      "duration_s": 191,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 13,
+      "place_token": "King's Wald.",
+      "duration_s": 232,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 14,
+      "place_token": "Llanidan / Anglesey (brace-linked)",
+      "duration_s": null,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": null
+    },
+    {
+      "row": 15,
+      "place_token": "London",
+      "duration_s": 203,
+      "endpoint_duration_s": 203,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 16,
+      "place_token": "Northampt.",
+      "duration_s": 242,
+      "endpoint_duration_s": 242,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": true
+    },
+    {
+      "row": 17,
+      "place_token": "Norton-court",
+      "duration_s": 59,
+      "endpoint_duration_s": 59,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 18,
+      "place_token": "Oxon",
+      "duration_s": 210,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 19,
+      "place_token": "Paris",
+      "duration_s": null,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": null
+    },
+    {
+      "row": 20,
+      "place_token": "Plymouth",
+      "duration_s": 270,
+      "endpoint_duration_s": 270,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": true
+    },
+    {
+      "row": 21,
+      "place_token": "Portchester",
+      "duration_s": 230,
+      "endpoint_duration_s": 230,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 22,
+      "place_token": "Salop",
+      "duration_s": 100,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 23,
+      "place_token": "Upminster",
+      "duration_s": 188,
+      "endpoint_duration_s": 188,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 24,
+      "place_token": "Wanstead",
+      "duration_s": 200,
+      "endpoint_duration_s": 200,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": false
+    },
+    {
+      "row": 25,
+      "place_token": "Weymouth",
+      "duration_s": 240,
+      "endpoint_duration_s": 240,
+      "endpoint_minus_printed_s": 0,
+      "above_author_inferred_maximum": true
+    },
+    {
+      "row": 26,
+      "place_token": "Witley",
+      "duration_s": 195,
+      "endpoint_duration_s": null,
+      "endpoint_minus_printed_s": null,
+      "above_author_inferred_maximum": false
+    }
+  ],
+  "total_rows": 26,
+  "printed_duration_rows": 19,
+  "paired_endpoint_rows": 11,
+  "author_inferred_maximum_s": 237,
+  "above_maximum_rows": [
+    10,
+    16,
+    20,
+    25
+  ],
+  "limits": "Arithmetic audit only. The237s maximum is Halley inferred geometry, not a modern fitted regional maximum or observation. Shared compilation and uncertain clocks/sites limit independence."
+}

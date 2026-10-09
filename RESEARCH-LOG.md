@@ -1,5 +1,9 @@
 # Research log
 
+### 2026-10-09 - Full eclipse article and regional synopsis audit
+
+Previous goal turn published verified progress ef58b8c; revalidated clean checkout. Rendered and visually inspected PDF6-18/printed250-262, completing18-page article inspection. All26 synopsis rows' duration column plus available totality endpoints transcribed:19durations/sevenblanks,11endpoint pairs reproduce printed values. Four values exceed Halley inferred237s maximum; quality judgments and indirect boundary accounts retained, no rejection/fitting. Newly inspected London C4 uses15s late clock correction and retains40.022s model residual; same-party deLouville202s versusHalley203s is dependent. Existing orbital output unchanged except source comparison/hash; no401search rerun or new regional fit claimed. Original records/sites/calibration/custody and separately sourced anchors remain open.26drafts/286sources, no independent review or global reconstruction; all twenty objectives active. See research/HALLEY-1715-REGIONAL.md.
+
 ### 2026-10-09 — Joint field report dates island waterline connection
 
 Previous goal turn published verified progress6a9e641. Revalidated clean checkout. Cached NOAA T09637Nreport has35pages; text extraction only2characters/page, so rendered/visually inspectedPDF1-24. PDF11printed10item7aexplicitly records June6,1953no MHWline break and channel at other times. PDF18-21methods/controlsketch identify enlargedphoto1613association; original photo/annotatedprint/planetable missing. Adjacent productaccuracy and tideMLLWnot transferred to T9634orMHW. June30form conflict preserved; samefieldwork dependence retained. Report original/hash ledger public, remainingPDF25-35uninspected.25drafts/266sources; no onset/permanence/displacement/causal model or independent review. Full twenty outcomes active. See research/WILLAPA-1953-FIELD-OBSERVATION.md.

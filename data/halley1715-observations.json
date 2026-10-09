@@ -6,9 +6,22 @@
     2,
     3,
     4,
-    5
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
   ],
-  "printed_pages": "245-249;245 header clipped",
+  "printed_pages": "245-262;245 header clipped",
   "reported_eclipse_date": "April22; year1715 assigned through article metadata and conventional calendar context",
   "site": "Royal Society house, Crane Court, Fleet Street, London",
   "clock": {
@@ -43,6 +56,13 @@
     "total_end": {
       "correct_time": "09:12:26",
       "locator": "PDF3/printed247"
+    },
+    "partial_end": {
+      "clock": "10:20:15",
+      "correct_time": "10:20:00",
+      "clock_fast_seconds_at_end": 15,
+      "locator": "PDF7/printed251",
+      "limits": "Later clock check reports one quarter minute fast; do not reuse the earlier14second offset."
     }
   },
   "reported_total_duration_s": 203,

@@ -7,7 +7,7 @@
     "S286"
   ],
   "pdf_sha256": "a344be5d98d0206566d6a752fe5fefaed2ab88647ae5c2243bcd0b3c2a6a52bd",
-  "observation_ledger_sha256": "758cedee8587c7455bf39bdd0134296d2c0941b40ce2b0650b76a75c8efffd7a",
+  "observation_ledger_sha256": "1c3035c8ca850520ec845b9c78412684b72a4c8b28403574b30d4b9e34bbd0dd",
   "astronomy_engine_version": "2.1.19",
   "module_sha256": "5f3a17c0b14290d084eeb0d29b00b3139cd1703a8d30fa5eb141398a24719261",
   "source_date_Julian": "1715-04-22",
@@ -65,8 +65,8 @@
       "sun_altitude_deg": 48.81051591498519,
       "model_apparent_local_time": "10:19:19.978",
       "model_apparent_local_seconds": 37159.977578423415,
-      "source_apparent_local_seconds": null,
-      "model_minus_source_seconds": null
+      "source_apparent_local_seconds": 37200,
+      "model_minus_source_seconds": -40.02242157658475
     }
   ],
   "source_total_duration_s": 203,
