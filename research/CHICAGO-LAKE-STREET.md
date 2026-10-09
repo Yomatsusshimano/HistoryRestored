@@ -32,3 +32,6 @@ Next retrieve the original newspaper and photograph, block-level grade ordinance
 The full83,707,583-byte742-page archive PDF has SHA256 `9d53ea038803934a102e79e907cae63005c75742a6ed6b9a1752cbae6c53813a`. Its default download redirected to a host whose certificate failed verification. An archive-metadata-listed replica was successfully retrieved with normal TLS verification; no security bypass was used.
 
 The public four-page excerpt was reserialized from full PDF pages15,301,302,303. It is a derivative excerpt, not byte-identical to the whole file. Page text agrees exactly with the selected originals; see the [acquisition ledger](../sources/originals/chicago/barber-1861-acquisition.json) for both hashes and locations. The1861 source pages are preserved without modern editorial text or personal project-owner information. Hashes establish file correspondence, not historical truth. No independent review is claimed.
+
+
+Follow-up: [newspaper lineage audit](CHICAGO-NEWSPAPER-LINEAGE.md) identifies an attributed April2 issue and three contractor targets through modern transcriptions, plus unresolved lift-height, price-scope and abridgment differences. Original clipping/full issue remain uninspected.

@@ -3753,6 +3753,21 @@
       "original_sha256": "9d53ea038803934a102e79e907cae63005c75742a6ed6b9a1752cbae6c53813a",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S240",
+      "title": "The lifting of Chicago: selected March–May1860 newspaper transcriptions",
+      "creator": "Modern compilation reproducing attributed Chicago Press and Tribune reports",
+      "publication_date": null,
+      "url": "https://www.nike-of-samothrace.net/csc.html",
+      "source_type": "Modern transcription compilation of historical newspaper reports",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Web-read selected entries attributed March9/26/29, April2 and May12/17,1860; compared April2 text with S239 printed1064–1065. No linked clipping or original full issue visually inspected.",
+      "limitations": "Issue dates/columns and transcription fidelity unverified against originals. Related reports and S239 are dependent; named contractors/prices are reports, not recovered contracts or payments. Two-inch height discrepancy and book omissions unresolved. Direct acquisition failed certificate validation.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
