@@ -35,3 +35,6 @@ The public four-page excerpt was reserialized from full PDF pages15,301,302,303.
 
 
 Follow-up: [newspaper lineage audit](CHICAGO-NEWSPAPER-LINEAGE.md) identifies an attributed April2 issue and three contractor targets through modern transcriptions, plus unresolved lift-height, price-scope and abridgment differences. Original clipping/full issue remain uninspected.
+
+
+Further source audit: [lithograph caption and date comparison](CHICAGO-LITHOGRAPH-AUDIT.md) now supplies visually inspected contractor credits and dimensions. Original object/custody remains unauthenticated;1857/1860 descriptions and differing lift/depth scopes are preserved.

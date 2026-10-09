@@ -3768,6 +3768,51 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S241",
+      "title": "Lake Street raising lithograph: caption-bearing digital reproduction",
+      "creator": "Edward Mendel, historical lithographer; modern digital reproduction hosted by Chicagology",
+      "publication_date": null,
+      "url": "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/RaisngChicago.jpg",
+      "source_type": "Digital reproduction of historical lithograph",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Downloaded3187x1901 image; full scene and enlarged lower caption visually inspected. Three contractor pairs, architect labels, four-foot lift and320/140/70ft dimension labels.",
+      "limitations": "Original object/reverse, margins and digitization lineage unauthenticated. Digital EXIF2025 modification is not historical date. No visible historical year; Burling initial unresolved. Image/printed quantities do not establish load capacity, measurements, custody or independent performance evidence.",
+      "local_copy": null,
+      "sha256": "04271419a39751104dec2da7f6744c9daaca22295d9ebbddfd379d78fb00e31f",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S242",
+      "title": "University of Chicago eCUIP: Lake Street, between Clark and LaSalle,1860",
+      "creator": "University of Chicago eCUIP; image credited Chicago Historical Society",
+      "publication_date": null,
+      "url": "https://ecuip.lib.uchicago.edu/diglib/social/cityofneighborhoods/loop/con_loop-history_images-03(p4).html",
+      "source_type": "Institutional educational description and historical-image reproduction",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Page HTML read and linked540x360 monochrome image visually inspected. Caption1860, four-foot lift, Chicago Historical Society courtesy credit; same composition as S241 with margins absent.",
+      "limitations": "Educational caption not accession record or historical date measurement. Same image composition does not provide independent witness. Lower credits absent; exact copy derivation and accession match unverified. Hash belongs to linked image, not HTML.",
+      "local_copy": null,
+      "sha256": "a667295bbed8b28e77759ec7d32aaddce1a1e20eb2bc8393556a41aadfa8554c",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S243",
+      "title": "Street Raising on Lake Street between Clark and LaSalle Streets,1850s: indexed description",
+      "creator": "Chicago Historical Society, Electronic Encyclopedia of Chicago",
+      "publication_date": null,
+      "url": "https://www.encyclopedia.chicagohistory.org/pages/3292.html",
+      "source_type": "Indexed institutional image description",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Search-returned description only: Edward Mendel,1857 scene and ICHi-00698. Direct page request timed out; no institution-delivered image or accession record inspected.",
+      "limitations": "Indexed metadata may be stale or incomplete.1857 conflicts with S2421860 caption and S240 notice attributions. No printed historical year or authenticated item date established; identifier remains retrieval target.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

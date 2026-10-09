@@ -25,3 +25,6 @@ Retrieve March9, March26, March29 and April2 full pages with mastheads, page num
 The Library of Congress [digitized-title listing](https://www.loc.gov/collections/chronicling-america/titles/?location_state=illinois&sb=title_s_asc&searchType=advanced&st=table), as returned by web search, lists the earlier title for January–March1859 and the later daily title from October25,1860. Direct catalog requests returned403. This indicates a likely gap in that particular digital route, not absence of surviving March–April1860 newspapers. A [University of Pennsylvania serial guide](https://onlinebooks.library.upenn.edu/webbin/serial?id=chicagotribune), successfully read separately, links the later title's1860–1864 run; its broad year label does not establish access to the target April issue.
 
 No archive request, paid access, third-party message or physical investigation was made. Fill source, exact building lots, physical fabric and the original photograph remain unverified. The full twenty-part investigation remains active.
+
+
+Further source audit: [lithograph caption and date comparison](CHICAGO-LITHOGRAPH-AUDIT.md) now supplies visually inspected contractor credits and dimensions. Original object/custody remains unauthenticated;1857/1860 descriptions and differing lift/depth scopes are preserved.
