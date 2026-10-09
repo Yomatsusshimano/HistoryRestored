@@ -244,3 +244,8 @@ C027/S290 adds both inspected Royal Society EL/D1/60 manuscript surfaces: Derham
 ### 2026-10-09 — Printed attribution intervention and qualification
 
 S292 recovers all8Derham1717article pages603-610 through JSTOR-derived scan after DOI route503. He explicitly distinguishes implied Picard credit from an express invention claim. Technical letter extracts, stacked1640/1 date, missing diagram/date and unfinished/conditional performance remain visible. See [updated attribution audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/292 sources; originals/opposed preface/reception and independent review remain unresolved. All twenty objectives active.
+
+
+### 2026-10-09 — Earlier micrometer claim and response inspected
+
+S293/S294 add all5Auzout/Towneley historical scan pages. Towneley explicitly responds to issue21/p373, reports3Gascoigne instruments and later watchmaker improvement; original objects unverified. Shared-method superiority and exclusive invention separated; performance/missing-treatise limits retained. See [attribution sequence](GASCOIGNE-ATTRIBUTION.md).27 drafts/294 sources; no appropriation, priority verdict or independent review. All twenty objectives active.

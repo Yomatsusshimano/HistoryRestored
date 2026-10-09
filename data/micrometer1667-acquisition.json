@@ -1,0 +1,39 @@
+{
+  "acquired_date": "2026-10-09",
+  "files": [
+    {
+      "source_id": "S293",
+      "url": "https://archive.org/download/jstor-101538/101538.pdf",
+      "local_copy": "sources/originals/invention/derham1713/auzout1667-article.pdf",
+      "bytes": 276492,
+      "sha256": "9cea8408650f1f7368b3a9eb95e0c8c77a99f9e1cbbd9c2c8811ba17d0c440b3",
+      "download_bytes": 362499,
+      "download_sha256": "7786663d8a01216856406cedd21fca6bc8986431bf7eb7471392d8dadd40d54f",
+      "download_pages": 4,
+      "preserved_scan_pages": 3
+    },
+    {
+      "source_id": "S294",
+      "url": "https://archive.org/download/jstor-101205/101205.pdf",
+      "local_copy": "sources/originals/invention/derham1713/towneley1667-article.pdf",
+      "bytes": 187846,
+      "sha256": "6d308e038f7dedde3f8f046df678a518bb8a975dbe10e905bfdad2306dd54959",
+      "download_bytes": 244687,
+      "download_sha256": "7eb1f268ea763adfb65e4ce84e039083a0660d836b9ac32d986cdc6ef1d17038",
+      "download_pages": 3,
+      "preserved_scan_pages": 2
+    }
+  ],
+  "transformation": "Each download includes a modern JSTOR cover; excluded cover, retained all historical scan pages without cropping. Rewritten PDF containers, download and excerpt hashes distinct.",
+  "inspection": "All3Auzout scan pages373-375 and both Towneley scan pages457-458 visually inspected at1800pixel renders. Neighboring articles on shared pages excluded from conclusions; no full diplomatic transcription.",
+  "rights": "Historical text public domain; modern covers omitted. Cover permits noncommercial sharing; no unrestricted master license asserted.",
+  "date_limits": "Auzout heading gives letter date December28,1666, not publication day. Towneley excerpt itself lacks letter date; modern volume2/issue25 catalog locates1667 publication. Exact publication days not established from these scans.",
+  "performance_limits": "Division counts and accuracy claims are author reports; original calibration/trial records and instruments not inspected.",
+  "arithmetic": {
+    "towneley_reported_division_inches": "1/4000",
+    "conditional_divisions_per_foot": 48000,
+    "calculation": "12*4000",
+    "comparison": "Compatible with above40000, not independent accuracy validation"
+  },
+  "custody_limits": "Towneley reports3instruments and loose papers, failed retrieval of optics treatise. No objects/accessions/original correspondence authenticated."
+}

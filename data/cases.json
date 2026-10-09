@@ -2780,20 +2780,30 @@
           "source_id": "S292",
           "locator": "pp603-610; data/derham1717-acquisition.json",
           "statement": "Printed intervention includes earlier letter extracts and concrete instrument descriptions. Derham acknowledges de la Hire does not expressly state Picard invented the method, but argues implication and cites Auzout. Missing diagram/date, unfinished workmanship and prospective accuracy statements retained."
+        },
+        {
+          "source_id": "S293",
+          "locator": "Issue21,pp373-375",
+          "statement": "Auzout reports a Picard/shared method, superior-practice and precision claims plus sampling/refraction limits. In the inspected extract he does not name Gascoigne; access to Gascoigne work and deliberate appropriation not established."
+        },
+        {
+          "source_id": "S294",
+          "locator": "Issue25,pp457-458",
+          "statement": "Towneley explicitly responds to issue21/p373 and claims pre-Civil-War Gascoigne use,3instruments in his possession, missing treatise and later improvement with unnamed watchmaker. Original objects and performance unverified."
         }
       ],
       "physical_evidence": "Two manuscript digital image surfaces inspected; no original paper, ink, instrument or material dating examined.",
-      "surviving_documents": "Royal Society EL/D1/60 manuscript surrogate; publisher metadata and fully inspected1717 printed intervention quoting earlier letters. Original quoted papers and opposing preface still uninspected.",
+      "surviving_documents": "Royal Society EL/D1/60 manuscript surrogate; publisher metadata and fully inspected1717 printed intervention quoting earlier letters. Original quoted papers and opposing preface still uninspected. Fully inspected Auzout issue21 and Towneley issue25 letter extracts now preserved, establishing a printed response link before Derham1717.",
       "source_interpretation": "Derham argues Gascoigne deserves priority and proposes publication of earlier correspondence.",
-      "investigation_inference": "Specific credit dispute and a later published intervention are documented. Technical descriptions support testing development history; manuscript-to-publication editorial chain, authenticated priority, transmission and reception remain unresolved. Derham qualifies explicit versus implied credit.",
+      "investigation_inference": "Specific credit dispute and a later published intervention are documented. Technical descriptions support testing development history; manuscript-to-publication editorial chain, authenticated priority, transmission and reception remain unresolved. Derham qualifies explicit versus implied credit. Towneley explicit citation authenticates a printed response relationship at the document-content level. Reported improvement distinguishes inherited device principles from subsequent development; no ancient-recovery or deliberate appropriation mechanism shown.",
       "competing_explanations": [
         "Earlier Gascoigne use omitted through incomplete access or knowledge",
         "Independent development with different diagnostic arrangements",
         "Selective attribution or deliberate appropriation requiring evidence of access and intent",
         "Different meanings of first application or invention"
       ],
-      "counterevidence": "Derham himself acknowledges the opposing quoted words do not expressly call Picard the inventor. A date and diagram are reported missing; workmanship and precision include unfinished/conditional statements. Quoted originals and independent performance evidence remain unverified; no appropriation or intent established.",
-      "next_test": "Acquire exact de la Hire1687 preface, Auzout issue21 and Towneley issue25; locate original Gascoigne/Crabtree correspondence and diagnostic diagrams, reconcile year conventions and trace custody/reception before judging priority or accepted correction.",
+      "counterevidence": "Derham himself acknowledges the opposing quoted words do not expressly call Picard the inventor. A date and diagram are reported missing; workmanship and precision include unfinished/conditional statements. Quoted originals and independent performance evidence remain unverified; no appropriation or intent established. Auzout shared-method superiority language is distinct from exclusive universal invention; Towneley admits imperfection, missing treatise and later improvements. No evidence of Auzout access to Gascoigne papers established.",
+      "next_test": "Trace original Towneley EL/T/19 letter against printed extract; inspect issue29 device description/plate, exact de la Hire1687 preface and later replies. Identify surviving instrument/accession and original calibration/custody before deciding priority or transmission.",
       "chronology": {
         "reported": "1713-11-30 manuscript catalog date; Saint Andrew's Day1713 visible heading;1717-06-30 deposited publication date",
         "dated_object": "Manuscript surrogate and bibliographic record",
@@ -2810,9 +2820,11 @@
         "Reception and editorial response",
         "Independent review",
         "Original diagram cited as missing in1717",
-        "Auzout issue21 and Towneley issue25 statements"
+        "Original Towneley letter/printed crosswalk",
+        "Issue29 device description and diagram",
+        "Unnamed watchmaker identity and instrument accession"
       ],
-      "dependence": "Item catalog and manuscript manifest share Royal Society archival lineage. Crossref identifies a later Derham intervention; it is not independent technical confirmation of his earlier allegation. No publication-response chain authenticated. S292 is the article described by S291, not a separate witness. Its quoted correspondents have distinct reported authors but share Derham selection/transmission; originals not authenticated."
+      "dependence": "Item catalog and manuscript manifest share Royal Society archival lineage. Crossref identifies a later Derham intervention; it is not independent technical confirmation of his earlier allegation. No publication-response chain authenticated. S292 is the article described by S291, not a separate witness. Its quoted correspondents have distinct reported authors but share Derham selection/transmission; originals not authenticated. S294 explicitly reads/responds to S293; their comparison is not independent performance confirmation. S292 cites this prior dispute and inherits Towneley paper lineage."
     }
   ]
 }
