@@ -1,0 +1,68 @@
+{
+  "source_id": "S278",
+  "file": "sources/originals/cascadia/willapa-lidar-2002/20020326_17_ld_p3.copc.laz",
+  "sha256": "6ce2dfff5ff066eded358ead7977d26c66ff1b79de2c2d6656d3b0e650bc34f5",
+  "tile_point_n": 4999615,
+  "observed_point_n": 4999615,
+  "header_min_xyz": [
+    417591.0242055591,
+    5163547.49931802,
+    -1.724414428989423
+  ],
+  "header_max_xyz": [
+    430128.6712047283,
+    5165180.405702976,
+    42.80880147015119
+  ],
+  "decoded_min_xyz": [
+    417591.02770514373,
+    5163547.502510498,
+    -1.7278064794191188
+  ],
+  "decoded_max_xyz": [
+    430128.66770514374,
+    5165180.402510499,
+    42.81219352058088
+  ],
+  "header_bound_residual_m": [
+    0.0034995846217498183,
+    0.003192477859556675,
+    0.0033920504296958143
+  ],
+  "header_bounds_agree_within_half_coordinate_quantization": [
+    true,
+    true,
+    true
+  ],
+  "coordinate_quantization_m": [
+    0.01,
+    0.01,
+    0.01
+  ],
+  "crs_wkt": "COMPOUNDCRS[\"NAD83(HARN) / UTM Zone 10N + NAVD88 height\",PROJCRS[\"NAD83(HARN) / UTM Zone 10N\",BASEGEOGCRS[\"NAD83(HARN)\",DATUM[\"NAD83 (High Accuracy Reference Network)\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433]],ID[\"EPSG\",4957]],CONVERSION[\"UTM zone 10N\",METHOD[\"Transverse Mercator\",ID[\"EPSG\",9807]],PARAMETER[\"Latitude of natural origin\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",-123,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"Scale factor at natural origin\",0.9996,SCALEUNIT[\"unity\",1],ID[\"EPSG\",8805]],PARAMETER[\"False easting\",500000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]],ID[\"EPSG\",16010]],CS[Cartesian,2],AXIS[\"easting\",east,ORDER[1],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]],AXIS[\"northing\",north,ORDER[2],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]]],VERTCRS[\"NAVD88 height\",VDATUM[\"North American Vertical Datum 1988\"],CS[vertical,1],AXIS[\"gravity-related height\",up,LENGTHUNIT[\"metre\",1]],ID[\"EPSG\",5703]]]",
+  "class_counts": {
+    "2": 4999615
+  },
+  "gps_time_min": 0.0,
+  "gps_time_max": 0.0,
+  "creation_date": null,
+  "diagnostic_window_native_UTM": {
+    "xmin": 419600.0,
+    "xmax": 421400.0,
+    "ymin": 5164000.0,
+    "ymax": 5165180.0
+  },
+  "cell_size_m": 5,
+  "window_point_n": 612992,
+  "grid_cell_n": 84960,
+  "occupied_cell_n": 80672,
+  "empty_cell_n": 4288,
+  "window_point_z_quantiles_NAVD88_m": {
+    "0": -1.7278064794191188,
+    "0.05": -0.9078064794191185,
+    "0.5": 0.6421935205808786,
+    "0.95": 2.572193520580882,
+    "1": 8.12219352058088
+  },
+  "limitations": "Current processed tile, not original flight file. Class2 is producer classification, not proof of every ground return. ZeroGPS times are not exposure times. Native crop has no datum transformation, core join, historical shoreline overlay or event interpretation. Empty cells remain empty; median is not a terrain interpolation or measured accretion rate."
+}

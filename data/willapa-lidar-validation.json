@@ -1,0 +1,113 @@
+{
+  "source_id": "S277",
+  "n": 24,
+  "mean_raw_delta_m": 0.1371625,
+  "sample_sd_raw_m": 0.13117570961682753,
+  "raw_rmse_m": 0.18789267437378535,
+  "corrected_mean_delta_m": -3.749999999998662e-05,
+  "corrected_rmse_m": 0.1284138118869358,
+  "normal_assumption_1_96_times_corrected_rmse_m": 0.25169107129839413,
+  "max_absolute_raw_delta_m": 0.3658,
+  "max_absolute_corrected_delta_m": 0.24569999999999997,
+  "minimum_GCP_z_m": 2.56,
+  "maximum_GCP_z_m": 123.39,
+  "corrected_row_rounding_checks": [
+    {
+      "site": "NOAA1",
+      "passes": true
+    },
+    {
+      "site": "NOAA2",
+      "passes": true
+    },
+    {
+      "site": "NOAA3",
+      "passes": true
+    },
+    {
+      "site": "NOAA4",
+      "passes": true
+    },
+    {
+      "site": "NOAA5",
+      "passes": true
+    },
+    {
+      "site": "NOAA6",
+      "passes": true
+    },
+    {
+      "site": "NOAA7",
+      "passes": true
+    },
+    {
+      "site": "NOAA8",
+      "passes": true
+    },
+    {
+      "site": "NOAA9",
+      "passes": true
+    },
+    {
+      "site": "NOAA12",
+      "passes": true
+    },
+    {
+      "site": "NOAA13",
+      "passes": true
+    },
+    {
+      "site": "NOAA14",
+      "passes": true
+    },
+    {
+      "site": "NOAA15",
+      "passes": true
+    },
+    {
+      "site": "NOAA16",
+      "passes": true
+    },
+    {
+      "site": "NOAA17",
+      "passes": true
+    },
+    {
+      "site": "NOAA19",
+      "passes": true
+    },
+    {
+      "site": "NOAA20",
+      "passes": true
+    },
+    {
+      "site": "NOAA21",
+      "passes": true
+    },
+    {
+      "site": "NOAA24",
+      "passes": true
+    },
+    {
+      "site": "NOAA25",
+      "passes": true
+    },
+    {
+      "site": "NOAA26",
+      "passes": true
+    },
+    {
+      "site": "NOAA27",
+      "passes": true
+    },
+    {
+      "site": "NOAA28",
+      "passes": true
+    },
+    {
+      "site": "NOAA30",
+      "passes": true
+    }
+  ],
+  "limitations": "Same24controls estimate bias and assess corrected residuals; no held-out assessment.1.96factor assumesnormal errors, not a reproduced Shapiro-Wilk test. Does not validate inundated/vegetated flats, later transformations or each core point."
+}

@@ -4310,6 +4310,36 @@
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "local_copy": null,
       "sha256": null
+    },
+    {
+      "id": "S277",
+      "title": "2002 Willapa Bay WA LIDAR Data Validation Report",
+      "creator": "Perot System Government Services for NOAA Coastal Services Center",
+      "publication_date": "2003-03",
+      "url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/supplemental/wa2002_noaa_willapa_mudflat_m12_surveyreport.pdf",
+      "source_type": "Original validation report with24ground-control residuals",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF4-5/8-9 scanned pages visually inspected. All24AppendixA rows transcribed; raw/corrected mean,SD,RMSE and row rounding reproduced.",
+      "limitations": "Open-terrain controls only; same24points estimate bias and assess corrected residuals. Sixof30controls outsidecoverage. Sign convention varies betweenMethods/Appendix. No held-out assessment or current-tile revalidation.",
+      "local_copy": null,
+      "sha256": "266ef9b5da1e216f380eb2c95a68ac5bb34a94cae7ffd932167e44ab39acd232",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S278",
+      "title": "2002 NOAA Willapa Bay lidar dataset12: current GEOID18 package and actual tile17",
+      "creator": "NOAA Office for Coastal Management; original collection Spencer B.Gross Inc.",
+      "publication_date": null,
+      "url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/index.html",
+      "source_type": "Original public elevation data, metadata, boundary and28record tile index",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Original index/XML/KMZ/indexZIP/rangeCSV and tile17acquired. All4,999,615tilepoints decoded; coordinate CRS/count/class/time/bounds checked.612,992point nativewindow/5m medians and coverage image visually inspected.",
+      "limitations": "Oneof28tiles only. Currentprocessing not originalflight/GEOID12A. Alltimestampszero; filename date not authenticated. Producerclassification not independentlyvalidated; core/historicaldatum joins absent. CSVtuple serialization and indexsrs/PRJ discrepancy retained.",
+      "local_copy": "sources/originals/cascadia/willapa-lidar-2002/index.html",
+      "sha256": "5773a66a56bdadc44418e1c143a4d3820cb40b4dacbd96ade1eb28258cb42ae5",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

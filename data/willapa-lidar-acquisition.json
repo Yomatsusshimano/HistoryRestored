@@ -1,0 +1,41 @@
+{
+  "source_id": "S278",
+  "files": [
+    {
+      "path": "sources/originals/cascadia/willapa-lidar-2002/20020326_17_ld_p3.copc.laz",
+      "url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/20020326_17_ld_p3.copc.laz",
+      "bytes": 25526759,
+      "sha256": "6ce2dfff5ff066eded358ead7977d26c66ff1b79de2c2d6656d3b0e650bc34f5"
+    },
+    {
+      "path": "sources/originals/cascadia/willapa-lidar-2002/boundary.kmz",
+      "url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/supplemental/wa2002_noaa_willapa_mudflat_m12.kmz",
+      "bytes": 805,
+      "sha256": "2fbe34e9e36550afa266bc46afd4a0ae846dc6b79069374947fea591313dbc14"
+    },
+    {
+      "path": "sources/originals/cascadia/willapa-lidar-2002/index.html",
+      "url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/index.html",
+      "bytes": 8938,
+      "sha256": "5773a66a56bdadc44418e1c143a4d3820cb40b4dacbd96ade1eb28258cb42ae5"
+    },
+    {
+      "path": "sources/originals/cascadia/willapa-lidar-2002/metadata_wa2002_noaa_willapa_mudflat.xml",
+      "url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/metadata_wa2002_noaa_willapa_mudflat.xml",
+      "bytes": 57945,
+      "sha256": "0a27f19fac1ad9d827c6bf019cce64f6402db4eb0e556feb3b7d0e7727be78c3"
+    },
+    {
+      "path": "sources/originals/cascadia/willapa-lidar-2002/minmax_wa2002_noaa_willapa_mudflat_m12.csv",
+      "url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/minmax_wa2002_noaa_willapa_mudflat_m12.csv",
+      "bytes": 5128,
+      "sha256": "81314f336b94e6615ff5a0735a5423165145caa2673f67d0db89bed51c008031"
+    },
+    {
+      "path": "sources/originals/cascadia/willapa-lidar-2002/tileindex_wa2002_noaa_willapa_mudflat_m12.zip",
+      "url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/tileindex_wa2002_noaa_willapa_mudflat_m12.zip",
+      "bytes": 2972,
+      "sha256": "84439cb1d7653eef038600223783608436bfc331fb3d0df6fccf8e0dafe6976f"
+    }
+  ]
+}

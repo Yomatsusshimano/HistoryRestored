@@ -1,0 +1,185 @@
+{
+  "source_id": "S277",
+  "original_sha256": "266ef9b5da1e216f380eb2c95a68ac5bb34a94cae7ffd932167e44ab39acd232",
+  "rows": [
+    {
+      "site": "NOAA1",
+      "gcp_z_m": 10.51,
+      "delta_GCP_minus_lidar_m": 0.3171,
+      "printed_corrected_delta_m": 0.18,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA2",
+      "gcp_z_m": 5.41,
+      "delta_GCP_minus_lidar_m": 0.0992,
+      "printed_corrected_delta_m": -0.038,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA3",
+      "gcp_z_m": 3.34,
+      "delta_GCP_minus_lidar_m": 0.0116,
+      "printed_corrected_delta_m": -0.126,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA4",
+      "gcp_z_m": 5.86,
+      "delta_GCP_minus_lidar_m": 0.0379,
+      "printed_corrected_delta_m": -0.099,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA5",
+      "gcp_z_m": 3.64,
+      "delta_GCP_minus_lidar_m": 0.2803,
+      "printed_corrected_delta_m": 0.143,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA6",
+      "gcp_z_m": 7.05,
+      "delta_GCP_minus_lidar_m": 0.2098,
+      "printed_corrected_delta_m": 0.073,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA7",
+      "gcp_z_m": 4.42,
+      "delta_GCP_minus_lidar_m": 0.2435,
+      "printed_corrected_delta_m": 0.106,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA8",
+      "gcp_z_m": 7.42,
+      "delta_GCP_minus_lidar_m": 0.3658,
+      "printed_corrected_delta_m": 0.229,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA9",
+      "gcp_z_m": 4.29,
+      "delta_GCP_minus_lidar_m": 0.0541,
+      "printed_corrected_delta_m": -0.083,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA12",
+      "gcp_z_m": 3.15,
+      "delta_GCP_minus_lidar_m": -0.1085,
+      "printed_corrected_delta_m": -0.246,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA13",
+      "gcp_z_m": 3.49,
+      "delta_GCP_minus_lidar_m": 0.1289,
+      "printed_corrected_delta_m": -0.008,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA14",
+      "gcp_z_m": 4.55,
+      "delta_GCP_minus_lidar_m": 0.1607,
+      "printed_corrected_delta_m": 0.024,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA15",
+      "gcp_z_m": 123.39,
+      "delta_GCP_minus_lidar_m": 0.1047,
+      "printed_corrected_delta_m": -0.032,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA16",
+      "gcp_z_m": 17.08,
+      "delta_GCP_minus_lidar_m": -0.0205,
+      "printed_corrected_delta_m": -0.158,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA17",
+      "gcp_z_m": 16.5,
+      "delta_GCP_minus_lidar_m": 0.0405,
+      "printed_corrected_delta_m": -0.097,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA19",
+      "gcp_z_m": 3.93,
+      "delta_GCP_minus_lidar_m": -0.0959,
+      "printed_corrected_delta_m": -0.233,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA20",
+      "gcp_z_m": 16.22,
+      "delta_GCP_minus_lidar_m": 0.1293,
+      "printed_corrected_delta_m": -0.008,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA21",
+      "gcp_z_m": 2.56,
+      "delta_GCP_minus_lidar_m": 0.0059,
+      "printed_corrected_delta_m": -0.131,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA24",
+      "gcp_z_m": 5.41,
+      "delta_GCP_minus_lidar_m": 0.1219,
+      "printed_corrected_delta_m": -0.015,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA25",
+      "gcp_z_m": 3.44,
+      "delta_GCP_minus_lidar_m": 0.1713,
+      "printed_corrected_delta_m": 0.034,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA26",
+      "gcp_z_m": 4.73,
+      "delta_GCP_minus_lidar_m": 0.232,
+      "printed_corrected_delta_m": 0.095,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA27",
+      "gcp_z_m": 6.17,
+      "delta_GCP_minus_lidar_m": 0.2859,
+      "printed_corrected_delta_m": 0.149,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA28",
+      "gcp_z_m": 4.92,
+      "delta_GCP_minus_lidar_m": 0.186,
+      "printed_corrected_delta_m": 0.049,
+      "locator": "PDF9/printed7/AppendixA"
+    },
+    {
+      "site": "NOAA30",
+      "gcp_z_m": 4.77,
+      "delta_GCP_minus_lidar_m": 0.3304,
+      "printed_corrected_delta_m": 0.193,
+      "locator": "PDF9/printed7/AppendixA"
+    }
+  ],
+  "reported": {
+    "n": 24,
+    "mean_delta_m": 0.1372,
+    "uncorrected_rmse_m": 0.1879,
+    "corrected_rmse_m": 0.1284,
+    "sample_sd_m": 0.1312,
+    "correction_added_to_lidar_m": 0.1372,
+    "open_terrain_95percent_m": 0.25
+  },
+  "access": "Original9-page validationPDF acquired; PDF4-5/8-9 visually inspected; all24AppendixA rows checked",
+  "limitations": "GCP exact horizontal positions not transcribed. No independent repeat validation or lidar points yet inspected."
+}

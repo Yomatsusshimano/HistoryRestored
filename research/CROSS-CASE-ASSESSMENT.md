@@ -1,5 +1,10 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Actual lidar and reproduced elevation validation
+
+S277nine-pageNOAAvalidation recovered,24residuals reproduce0.13716mbias/0.18789mrawRMSE/0.12841mcorrectedRMSE. S278actualtile17all4,999,615points decoded withHARNUTM10/NAVD88 reference andzeroGPS times;28record index and originalmetadata preserved. Nativewindow612,992points/5m grid retains4288emptycells; no source registration or event inference. See research/WILLAPA-LIDAR-VALIDATION.md.25drafts/278sources, all twenty outcomes retained.
+
+
 ### 2026-10-09 — Core diagram census and original field-record route
 
 S274 all31 Figure8/10/11 diagrams inspected:19CS arrows across9cores and12question arrows across6cores remain interpretation counts, not independent events. KI11 basal marker/noCS arrows and assignedW18/oyster ages separated. S275official report catalog and S276indexed field activity00WCE01/dataset13384 give precise retrieval leads; originalreport/log downloads remain inaccessible. See research/WILLAPA-CORE-PROVENANCE.md.25 drafts/276sources, full twenty objectives retained.

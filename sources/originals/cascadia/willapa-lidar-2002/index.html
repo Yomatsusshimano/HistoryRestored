@@ -1,0 +1,114 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "https://www.w3.org/TR/html4/frameset.dtd">
+<html lang="en">
+<head>
+<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="robots" content="nofollow">
+        <link rel="shortcut icon" href="https://coast.noaa.gov/digitalcoast/img/favicon.ico">
+    
+<title>2002 NOAA Lidar: Willapa Bay Mudflat, WA Point Cloud files with Vertical Datum North American Vertical Datum of 1988 (NAVD88) using GEOID18</title>
+<script>window.skipOCMExitNotice = true</script><script type="text/javascript" src="https://coast.noaa.gov/js/federated-analytics.js"></script>
+
+</head>
+
+    <h1>2002 NOAA Lidar: Willapa Bay Mudflat, WA Point Cloud files with Vertical Datum North American Vertical Datum of 1988 (NAVD88) using GEOID18</h1>
+	<p>Below are links to the files that make up the 2002 NOAA Lidar: Willapa Bay Mudflat, WA dataset.</p>
+    <table padding=30px>
+    <tr><td>Vertical datum</td><td>North American Vertical Datum of 1988 (NAVD88) using GEOID18 in meters</td></tr>
+    <tr><td>Horizontal projection/datum</td><td>NAD83(HARN) / UTM zone 10N</td></tr>
+    </table>
+	<p>Informational files are listed first (such as geospatial indices, metadata, and so on), followed by the files. To download in
+	bulk, it is suggested you use a download manager such as wget, uget, or filezilla for example. The geospatial index file in shapefile format
+	also has a URL attribute that some GIS programs can use to download files. You can also subset the data, make derived products, and change
+	projection, datum, etc., using the <a href="https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=12">Digital Coast Data Access Viewer</a>
+	(add to cart, the link to bulk download will take you here).</p>
+    
+    <p>
+	The files are in LAZ format, a lossless compressed version of the ASPRS LAS format. The compression and
+	decompression can be done with the free and open source 'laszip' program available at
+	<a href=https://rapidlasso.de/laszip/>https://rapidlasso.de/laszip/</a>
+	(source at <a href=https://github.com/LASzip/LASzip>https://github.com/LASzip/LASzip</a>). This is not the same as the more general zip format.
+	You may also want to try the <a hef="https://pdal.io>PDAL</a> programs as there are Windows, MacOS, and Linux compiled versions.
+	Many geospatial programs will read LAZ files natively and decompression is often not necessary.
+	</p>
+    
+    <p>There are many download managers you can use to get all the data. An example is the <a href="https://ugetdm.com">uGet</a> program using the list of URLs in file <a href="urllist_wa2002_noaa_willapa_mudflat_m12.txt">urllist_wa2002_noaa_willapa_mudflat_m12.txt</a>.
+	Several posts on the <a href="https://geozoneblog.wordpress.com/">GeoZone blog</a> provide help with downloading, including:
+	<ul>
+	<li><a href="https://geozoneblog.wordpress.com/2019/05/01/bulk-lidar-download-on-digital-coast/">Using uGet to download bulk lidar</a></li>
+	<li><a href="https://geozoneblog.wordpress.com/2019/03/19/getting-lidar-data-for-a-polygon/">Downloading a subset of files based on a polygon</a></li>
+	<li><a href="https://geozoneblog.wordpress.com/2020/09/10/download-a-list-of-files-from-windows/">Downloading on Windows without additional programs</a></li>
+	</ul>
+    </p>
+    
+    <p>Example to download entire data set using wget (note: sufficiently new and trusted pre-compiled Windows versions can be hard to find):
+	<br>
+	<code>wget -np -r -nH -L --cut-dirs=2 https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/12/index.html/</code>
+	<br>
+	This will give you the directory structure starting with geoid18. Modify the --cut-dirs=2 argument to modify
+	the start directory (e.g. --cut-dirs=4 will start at $missionid). Wget is a command-line program and the output will
+	be to the directory you run it in. More options and information can be found at https://www.gnu.org/software/wget/manual/wget.html.
+	The other options in the example mean:
+	<ul>
+	<li>-np = don't grab the parent directory</li>
+	<li>-r = recursive (descend into directories)</li>
+	<li>-nH = don't generate host-prefixed directories</li>
+	<li>-L = follow relative links only (so you don't download wget just because it's linked here)</li>
+	</ul>
+	<br>
+	If you have problems with wget that look like an authorization or certificate issue, you may need to add the option
+	"--no-check-certificate". Windows users may want to install the <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux</a> to get a current wget.</p>
+    
+    <p>The total size to download all the files is 676M. There are 28 LAZ files and the summary class table is:
+    <table><tr><th>Class Number</th><th>Class Name</th><th>Points</th></tr>
+<tr><td>2</td><td>Ground</td><td align=right>137478959</td></tr></table>
+	</p>
+	
+	<h2>Cloud Access</h2>
+	This data is in an AWS S3 bucket at s3://noaa-nos-coastal-lidar-pds/laz/geoid18/12.
+    <h2>Meta Information</h2>Tile Index: <a href="tileindex_wa2002_noaa_willapa_mudflat_m12.zip">tileindex_wa2002_noaa_willapa_mudflat_m12.zip</a> (Shapefile)<br>Tile Index: <a href="tileindex_wa2002_noaa_willapa_mudflat_m12.gpkg">tileindex_wa2002_noaa_willapa_mudflat_m12.gpkg</a> (Geopackage)<br>Metadata: <a href="metadata_wa2002_noaa_willapa_mudflat.xml">metadata_wa2002_noaa_willapa_mudflat.xml</a><br>Metadata: <a href="metadata_wa2002_noaa_willapa_mudflatforHumans.html">metadata_wa2002_noaa_willapa_mudflatforHumans.html</a><br>XYZ range table: <a href="minmax_wa2002_noaa_willapa_mudflat_m12.csv">minmax_wa2002_noaa_willapa_mudflat_m12.csv</a><br>URL List: <a href="urllist_wa2002_noaa_willapa_mudflat_m12.txt">urllist_wa2002_noaa_willapa_mudflat_m12.txt</a><br><h2>Supplemental Info</h2><h3>Files</h3>
+<a href="supplemental/wa2002_noaa_willapa_mudflat_m12_surveyreport.pdf">wa2002_noaa_willapa_mudflat_m12_surveyreport.pdf</a><br>
+<a href="supplemental/wa2002_noaa_willapa_mudflat_m12.kmz">wa2002_noaa_willapa_mudflat_m12.kmz</a><br>
+<h2>Spatial Temporal Asset Catalog (STAC)</h2>
+
+    <h2>Entwine Format</h2>
+    <p>See <a href="https://entwine.io">entwine.io</a> for more information on the Entwine Point Tile format.</p>
+    <a href="https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/entwine/geoid18/12/ept.json">EPT JSON file</a><br>
+    <a href="https://coast.noaa.gov/lidar/viewer/v/noaapotree.html?r=https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/entwine/geoid18/12/ept.json">View Point Data in Potree 3D Viewer</a><br>    
+    <h2>Point Cloud Files</h2>
+<a href="20020326_10_ld_p3.copc.laz">20020326_10_ld_p3.copc.laz</a><br>
+<a href="20020326_11_ld_p3.copc.laz">20020326_11_ld_p3.copc.laz</a><br>
+<a href="20020326_12_ld_p3.copc.laz">20020326_12_ld_p3.copc.laz</a><br>
+<a href="20020326_13_ld_p3.copc.laz">20020326_13_ld_p3.copc.laz</a><br>
+<a href="20020326_14_ld_p3.copc.laz">20020326_14_ld_p3.copc.laz</a><br>
+<a href="20020326_15_ld_p3.copc.laz">20020326_15_ld_p3.copc.laz</a><br>
+<a href="20020326_16_ld_p3.copc.laz">20020326_16_ld_p3.copc.laz</a><br>
+<a href="20020326_17_ld_p3.copc.laz">20020326_17_ld_p3.copc.laz</a><br>
+<a href="20020326_18_ld_p3.copc.laz">20020326_18_ld_p3.copc.laz</a><br>
+<a href="20020326_19_ld_p3.copc.laz">20020326_19_ld_p3.copc.laz</a><br>
+<a href="20020326_1_ld_p3.copc.laz">20020326_1_ld_p3.copc.laz</a><br>
+<a href="20020326_20_ld_p3.copc.laz">20020326_20_ld_p3.copc.laz</a><br>
+<a href="20020326_21_ld_p3.copc.laz">20020326_21_ld_p3.copc.laz</a><br>
+<a href="20020326_22_ld_p3.copc.laz">20020326_22_ld_p3.copc.laz</a><br>
+<a href="20020326_23_ld_p3.copc.laz">20020326_23_ld_p3.copc.laz</a><br>
+<a href="20020326_24_ld_p3.copc.laz">20020326_24_ld_p3.copc.laz</a><br>
+<a href="20020326_25_ld_p3.copc.laz">20020326_25_ld_p3.copc.laz</a><br>
+<a href="20020326_26_ld_p3.copc.laz">20020326_26_ld_p3.copc.laz</a><br>
+<a href="20020326_27_ld_p3.copc.laz">20020326_27_ld_p3.copc.laz</a><br>
+<a href="20020326_28_ld_p3.copc.laz">20020326_28_ld_p3.copc.laz</a><br>
+<a href="20020326_2_ld_p3.copc.laz">20020326_2_ld_p3.copc.laz</a><br>
+<a href="20020326_3_ld_p3.copc.laz">20020326_3_ld_p3.copc.laz</a><br>
+<a href="20020326_4_ld_p3.copc.laz">20020326_4_ld_p3.copc.laz</a><br>
+<a href="20020326_5_ld_p3.copc.laz">20020326_5_ld_p3.copc.laz</a><br>
+<a href="20020326_6_ld_p3.copc.laz">20020326_6_ld_p3.copc.laz</a><br>
+<a href="20020326_7_ld_p3.copc.laz">20020326_7_ld_p3.copc.laz</a><br>
+<a href="20020326_8_ld_p3.copc.laz">20020326_8_ld_p3.copc.laz</a><br>
+<a href="20020326_9_ld_p3.copc.laz">20020326_9_ld_p3.copc.laz</a><br>
+
+    <p>This page is owned by the
+    <a href="https://coast.noaa.gov">NOAA Office for Coastal Management</a>
+    and was created by an automated script on 2025-03-17 09:52:42.525301.<br>
+	<a href="https://coast.noaa.gov/contactform/?subject=digitalcoast">Contact Us</a></p>
+    </body></html>
