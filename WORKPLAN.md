@@ -542,3 +542,8 @@ Chicago lithograph audit: S241 caption-bearing reproduction and S242 institution
 ### 2026-10-09 — Complete GF2 roots and combined-radius diagnostic
 
 Third root RTA330 widths recovered from S61PDF4; all three root radii now complete,962 related widths. All48 declared averaging/omission variants favor published relative alignment under fixed local reference span. Original decay/spline/AR indices, model orders, custody and absolute anchoring remain missing.255-observation subset is count sensitivity, not original-method reproduction; regional-reference exceptions retained. See research/CASCADIA-COMBINED-GF2.md.
+
+
+### 2026-10-09 — Combined GF2 regional comparison
+
+Combined three-radius target now tested against all three archived references under declared transforms/full versus255 scopes. Source placement ranks first4/18 under each endpoint bound, NW-only0/18. Averaging improves ranks but does not remove method/scope sensitivity. All six comparable NW-only full candidate arrays match previous independent implementation. Next original indices, decay/spline/AR model settings and reference-version authentication; no replacement date or review. See research/CASCADIA-COMBINED-REGIONAL.md.

@@ -171,3 +171,6 @@ The [archived-reference diagnostic](CASCADIA-ARCHIVED-REFERENCE-TEST.md) now tes
 ### Complete third root and combined-radius sensitivity
 
 [GF2 combined audit](CASCADIA-COMBINED-GF2.md) completes RTA330 widths and all three roots (962 related measurements). All48 declared tree-averaging/omission variants rank source-relative placement first in a fixed local domain. This strengthens the local pattern association without reproducing the original r=.57/255-year calculation, resolving regional-reference exceptions, authenticating physical specimens or independently anchoring the calendar. Original per-radius indices/model orders remain the next processing gap. Earlier terminal-only extraction is retained as historical provenance.
+
+
+The [combined-target regional comparison](CASCADIA-COMBINED-REGIONAL.md) now distinguishes averaging from individual-radius results: source placement first4/18 versus NW-only0/18 under declared choices. Local relative alignment remains stronger than this distant-reference diagnostic. Original processing and calendar validation are not reproduced; count/transform sensitivity and every alternative remain visible.

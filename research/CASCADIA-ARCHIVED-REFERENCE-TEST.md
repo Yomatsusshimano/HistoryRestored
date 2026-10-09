@@ -47,3 +47,6 @@ Most series continue to favor source-relative placement under these declared tra
 Archived reference outputs narrow the access gap, but applying simple differences to unprocessed target widths and already processed indices remains a hybrid diagnostic. Original target indices, averaging and version identity are needed to reproduce the published method. Same-tree roots/trunks and published anatomical tracing reports also constrain correspondence separately from these width ranks.
 
 No test here shifts the absolute reference calendar, dates root death directly, identifies a chronology break, or connects Cascadia to distant urban fill or fossils. No significance probability or combined confidence is assigned. Next obtain or reconstruct fully declared per-radius processing and combined-tree averages, checking that they reproduce source values before interpreting calendar alternatives.
+
+
+The [combined-target regional comparison](CASCADIA-COMBINED-REGIONAL.md) now distinguishes averaging from individual-radius results: source placement first4/18 versus NW-only0/18 under declared choices. Local relative alignment remains stronger than this distant-reference diagnostic. Original processing and calendar validation are not reproduced; count/transform sensitivity and every alternative remain visible.

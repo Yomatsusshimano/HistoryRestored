@@ -37,3 +37,6 @@ Contribution counts matter: the full257-year trunk average uses only NW for90 ye
 Known-shift recovery, independent centered-dot-product correlation checks, arithmetic-average/count checks and per-radius tenfold unit-rescaling invariance passed. These check implementation, not the source calendar or earthquake history. Manual transcription, original decay/spline/AR settings, processed indices, physical root/trunk custody and absolute reference anchoring remain unresolved. This local result neither removes the regional-reference exceptions nor establishes a new catastrophe date.
 
 Next recover original per-radius processed outputs and model orders, then compare actual combined indices/statistics. Do not replace missing settings by selecting the diagnostic that best resembles the published number. Independent specimen/anatomical authentication remains a separate requirement.
+
+
+The [combined-target regional comparison](CASCADIA-COMBINED-REGIONAL.md) now distinguishes averaging from individual-radius results: source placement first4/18 versus NW-only0/18 under declared choices. Local relative alignment remains stronger than this distant-reference diagnostic. Original processing and calendar validation are not reproduced; count/transform sensitivity and every alternative remain visible.

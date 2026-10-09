@@ -96,3 +96,8 @@ The current evidence does not justify teaching the starting hypothesis as establ
 ### 2026-10-09 — GF2 combined-radius update
 
 The [complete-root and combined-average diagnostic](CASCADIA-COMBINED-GF2.md) adds the third root radius and finds source-relative placement first in all48 declared local averaging/omission variants. These are dependent comparisons within a narrow inherited-calendar domain. They strengthen the local growth-pattern association while leaving regional-reference exceptions, original processing, physical authentication and independent absolute dates unresolved. No change to the global reconstruction or twenty-part completion assessment follows.
+
+
+### 2026-10-09 — Local and regional GF2 agreement separated
+
+The [combined regional diagnostic](CASCADIA-COMBINED-REGIONAL.md) favors source placement in4/18 combined-trunk variants, compared with0/18 NW-only variants. Explicit averaging changes the comparison, but remaining alternatives and255/full-scope sensitivity prevent a uniform-robustness claim. The prior all48 local root/trunk results concern a narrower relative-pattern question; they cannot be converted into independent regional or absolute calendar confirmation. Original processing/version and physical authentication remain required. No reconstruction outcome is completed.
