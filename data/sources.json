@@ -4770,6 +4770,20 @@
       "local_copy": "sources/originals/invention/hooke-register/rbo_3_65-image-1.jpg",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S308",
+      "title": "Birch Royal Society history VolumeII: selected1667meeting accounts,1967reproduction",
+      "creator": "Thomas Birch;1967Culture et Civilisation reproduction",
+      "publication_date": "1756",
+      "url": "https://archive.org/details/historyofroyalso0002birc",
+      "source_type": "Later printed archival compilation in modern facsimile scan",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Seventeen selected surfaces visually inspected: fifteen text/context pages plus reproduction imprint and historical title. Rest of volume uninspected. OCR used for locating only.",
+      "limitations": "Scanned copy includes1967reproduction imprint despite1756metadata/title. Original1667minutes uninspected. LiteralNovember4versus precedingNovember7and registerNovember14 retained. Demonstration/commissioning reports do not authenticate objects, completed manufacture or measured accuracy. Rights for scan redistribution unestablished.",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": ""
     }
   ]
 }

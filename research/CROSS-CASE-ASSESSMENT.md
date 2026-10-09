@@ -339,3 +339,8 @@ S306 CLP/2/13 all six delivery canvases inspected and preserved CC BY4.0 with Ro
 ### 2026-10-09 — Register sending/reading reports and altered engraving
 
 S307 eight delivery views/seven numbered pages inspected and preserved with Royal Society CC BY4.0 attribution. Towneley sending and November14/July25 reading reports separated from composition/print dates; altered cover/tube/rest numbering documented without author/motive inference. No authenticated object or accuracy trial. See [register comparison](GASCOIGNE-ATTRIBUTION.md).27 drafts/307 sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Meeting compilation and commissioning evidence
+
+S308 seventeen selected scan surfaces inspected.1667object-production and repository/Hevelius making orders reported; actual fulfillment and calibration unverified.1967reproduction imprint and literalNovember4/14conflict preserved; original minutes inaccessible. See [meeting audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/308 sources; all twenty objectives active, no independent review.

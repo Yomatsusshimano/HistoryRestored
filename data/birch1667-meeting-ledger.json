@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S308",
+  "url": "https://archive.org/details/historyofroyalso0002birc",
+  "pdf_url": "https://archive.org/download/historyofroyalso0002birc/historyofroyalso0002birc.pdf",
+  "pdf_bytes": 40403737,
+  "pdf_sha256": "e7c414d589cac89eb0b74c0e0d3591979dc97cfae2267e8af702db2e1508d63d",
+  "pdf_pages": 524,
+  "historical_publication": "1756",
+  "scanned_reproduction": "Culture et Civilisation, Brussels,1967, anastatic reproduction",
+  "surfaces": [
+    {
+      "printed_page": 163,
+      "pdf_page": 171,
+      "role": "Selected text/context",
+      "render_sha256": "b2263e1f1670cb87377918006122410002c28be339c9f743bf8524cd4f10ac3a",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 164,
+      "pdf_page": 172,
+      "role": "Selected text/context",
+      "render_sha256": "2e7b986e81fd53600596de535017e4e7bc872f0dfe56b5ec601d0a66c71e0628",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 187,
+      "pdf_page": 195,
+      "role": "Selected text/context",
+      "render_sha256": "64aa802b58a5ede615ded7c072dc040db86ce86f8a8a2fac13cb7e48c0873e51",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 188,
+      "pdf_page": 196,
+      "role": "Selected text/context",
+      "render_sha256": "b1a0eeb28310880462717bf62d64a447fabfdd6fad594ddd49597a1581a17092",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 196,
+      "pdf_page": 204,
+      "role": "Selected text/context",
+      "render_sha256": "db5a42131431f282cf548e1968cb5da15000dec6485680adc76134dc7135745f",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 197,
+      "pdf_page": 205,
+      "role": "Selected text/context",
+      "render_sha256": "8ce3d3c24ab0cbb2db5ef7b02b75c4c71a87a65ef34fe351dec74b5a90853b54",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 198,
+      "pdf_page": 206,
+      "role": "Selected text/context",
+      "render_sha256": "d34b6466acd800dee81ffed0e772df48f8ca7376d082078a80d45d6f675f7043",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 199,
+      "pdf_page": 207,
+      "role": "Selected text/context",
+      "render_sha256": "cd3895b662fe1a6758d811e720f667a5c878853194b57ab51bd7a8d53b394764",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 203,
+      "pdf_page": 211,
+      "role": "Selected text/context",
+      "render_sha256": "901f92c1e9731b47b6a440166e63e2b82779cf28c9f3ae63cb85272769a06aab",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 204,
+      "pdf_page": 212,
+      "role": "Selected text/context",
+      "render_sha256": "78bffd6daafae59e7c693db05e034499605815def3220e492f2abb7b4f79d793",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 207,
+      "pdf_page": 215,
+      "role": "Selected text/context",
+      "render_sha256": "f1c5f958a6f032c8698322c7f57468fe11dc386e604eb217bd40904bc1e2d165",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 208,
+      "pdf_page": 216,
+      "role": "Selected text/context",
+      "render_sha256": "fe70d92d93edcc039d8fc2720c37dd655b475cff34ce3ab9895f365d3af3dbec",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 209,
+      "pdf_page": 217,
+      "role": "Selected text/context",
+      "render_sha256": "6651335488584fef2f98c55840f7b0b140ff65487624af53bd6a553b96dd4f2e",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 210,
+      "pdf_page": 218,
+      "role": "Selected text/context",
+      "render_sha256": "ca5867fadc08d8958b51fa1a52549eecc15692e22e4805dad7634c297f838009",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": 211,
+      "pdf_page": 219,
+      "role": "Selected text/context",
+      "render_sha256": "c57eab8158b737e2153764be2cdddc4c32ac8f5b9f6a886e7a74be62bf340ab1",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": null,
+      "pdf_page": 6,
+      "role": "1967 reproduction imprint",
+      "render_sha256": "210dbea43229068edd22fdd47909cd4b0000ad2daab10d115b59b9b24d18f4f1",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    },
+    {
+      "printed_page": null,
+      "pdf_page": 7,
+      "role": "1756 historical title",
+      "render_sha256": "539e1c17125403614ab9d103bf9c51edd995414d3c2c2b9a9afeeb44b5fa0fbc",
+      "render_dimensions": [
+        1448,
+        2017
+      ],
+      "visually_inspected": true
+    }
+  ],
+  "findings": [
+    {
+      "locator": "pp163-164",
+      "finding": "April4 meeting context reports Croune producing Towneley letter datedMarch25,1667; description and observations requested. Footnote says letter not entered in Letter-Book and points to printed issue25p457. Later editor negative inventory, not authenticated archival loss."
+    },
+    {
+      "locator": "pp187-188",
+      "finding": "July11 reports Croune received Gascoigne instrument from Towneley; July25 records Hooke bringing Towneley instrument and a different own design. Operator ordered to make same kind for repository. Claim of5000/possible40000partsperinch for diagonal design is nominal, not accuracy."
+    },
+    {
+      "locator": "pp197-199",
+      "finding": "Request for renewed consideration followed by October10 context: Croune produces instrument, Society judges ingenious/useful, requests retention and another example made by same unnamed artist; Hooke also produces cheaper design and is ordered to make one and describe use. Commissioning is not completed manufacture or calibrated trial."
+    },
+    {
+      "locator": "pp203-204",
+      "finding": "October31 context reports Hooke producing own designs, including astronomical instrument considered easier/cheaper than Towneley; requested written account and communication to Towneley. Not proof of comparative accuracy."
+    },
+    {
+      "locator": "pp207-208",
+      "finding": "November7 heading precedes report that scheme/description ready in secretary hands; next heading literallyNovember4. Out-of-order label retained, not silently corrected."
+    },
+    {
+      "locator": "pp208-211 versus S307p227",
+      "finding": "Under literalNovember4 heading, Hooke description read/ordered registered; footnote refers RegisterIIIp227 and printissue29p541. Order to make/send Hooke-type instrument to Hevelius at Society charge. RegisterS307 reportsNovember14; cause of4/14 discrepancy unresolved without original Journal Book and original edition comparison."
+    },
+    {
+      "locator": "PDF6/7",
+      "finding": "1967 Brussels reproduction imprint and1756VolumeII title both inspected. Archive metadata1756 does not describe the physical scanned reproduction date."
+    }
+  ],
+  "coverage": "Seventeen selected surfaces visually inspected: fifteen text/context pages plus reproduction imprint and historical title. Rest of volume uninspected. OCR used for locating only.",
+  "date_conflict": {
+    "printed_heading_literal": "November4,1667",
+    "preceding_heading": "November7,1667",
+    "register_reading_report": "November14,1667",
+    "resolution": null,
+    "possible_explanation": "Missing digit or other print/reproduction error is consistent with ordering; not authenticated and not corrected in source record."
+  },
+  "source_dependence": "Later compiled meeting-record account and1967reproduction are not independently inspected1667minutes; register citations show shared documentary lineage.",
+  "access_limits": [
+    "Direct JBO/3catalog request403; original minutes uninspected.",
+    "Initial40MBPDF requestHTTP500; later retry acquired complete40403737bytes.",
+    "AlternateECCO576380025bytePDF timed out after77545224bytes; incomplete, excluded.",
+    "Googlelead1WEVAAAAQAAJ resolved to unrelated Sarrazin volume; excluded.",
+    "Scan redistribution rights unestablished; retained locally and linked, not copied into public repository."
+  ],
+  "limits": [
+    "No original Journal Book manuscript comparison or original1756copy physical authentication.",
+    "No commissioned instrument delivery/completion receipt or surviving object identification.",
+    "No raw calibration trial, independent accuracy evidence or exclusive priority verdict.",
+    "No deliberate omission, ancient recovery or calendar fabrication established.",
+    "No independent review."
+  ],
+  "next_test": "Inspect original JBO/3 July11/25, October10/31 and November7/14 entries; compare original1756edition heading with1967reproduction. Seek repository accession and Hevelius shipment/completion records and raw measurement trials."
+}
