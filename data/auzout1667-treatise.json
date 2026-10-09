@@ -1,0 +1,78 @@
+{
+  "source_id": "S301",
+  "library_item": "90957x50x20x02",
+  "viewer_url": "https://numerabilis.u-paris.fr/medica/bibliotheque-numerique/resultats/index.php?do=pages&cote=90957x50x20x02",
+  "pdf_url": "https://numerabilis.u-paris.fr/ressources/pdf/medica/bibnum/90957x50x20x02/90957x50x20x02.pdf",
+  "original_bytes": 3177437,
+  "original_sha256": "93002e73eb8e8e4f122396452f44010be12806f188addd5d85f6d0521d93a53e",
+  "acquired_date": "2026-10-09",
+  "pdf_pages": 19,
+  "historical_surfaces": 18,
+  "inspected_pdf_pages": [
+    2,
+    3,
+    6,
+    7,
+    8,
+    16,
+    17,
+    18,
+    19
+  ],
+  "coverage": "Selected printedpp1-2,5-7,15, unnumbered reverse/imprint bleed-through and plate reverse/front inspected. Modern cover and remaining text pages not used as inspected evidence. PDF page index is historical viewer index+1. No complete transcription or full collation.",
+  "rights": "University-library watermark/copyright notice present; unrestricted redistribution not established. Original PDF retained locally; public links and hash only.",
+  "chronology": {
+    "letter_heading": "1666-12-28",
+    "visible_colophon_year": 1667,
+    "bouguer_citation_year": 1666,
+    "limit": "Different date roles retained; this copy does not prove a separate1666edition absent, exact circulation date, or physical age."
+  },
+  "catalog_comparison": {
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb393153607",
+    "catalog_creator": "Adrien Auzout",
+    "catalog_date": 1667,
+    "extent": "15pages and one plate leaf",
+    "shelfmark": "Arsenal4-S-3294(2)",
+    "note": "BnF describes its own copy with missing title page and imprint/date taken from colophon. Not authenticated as the same physical copy as university-library scan."
+  },
+  "findings": [
+    {
+      "locator": "printedp1/PDF2",
+      "finding": "Notice reports delayed completion of printing and Auzout/Picard comparisons of solar/lunar diameters at different observing times. Says extracts appeared in English journal in January; relative dates not authenticated absolute dates."
+    },
+    {
+      "locator": "printedp2/PDF3",
+      "finding": "Letter heading explicitly28December1666toOldenburg. Auzout/Picard shared-method superiority,24000/30000divisions perfoot and3/4arcsec claims appear, consistent with S293 selected opening; not full collation or independent performance."
+    },
+    {
+      "locator": "printedp5/PDF6",
+      "finding": "Acknowledges prior methods and reticles, distinguishes precision from earlier use. No ancient-recovery route demonstrated."
+    },
+    {
+      "locator": "printedpp6-7/PDF7-8",
+      "finding": "Credits Auzout commissioning screw-driven movable hairs/blades. Three turns perline with60/80dial subdivisions yields180/240perline and25920/34560perfoot; hypothetical100subdivisions gives43200. Warns wear can reduce screw accuracy; credits Picard first measuring hair distance using microscope. Nominal subdivisions and claimed precision are not calibrated accuracy."
+    },
+    {
+      "locator": "printedp15/PDF16",
+      "finding": "Alternative frames and twelve-digit eclipse scheme described; ParisJeanCusson imprint visiblyM.DC.LXVII. Twelve digits describe linear disk division, not obscured area."
+    },
+    {
+      "locator": "PDF17-19",
+      "finding": "Imprint bleed-through and plate reverse/front inspected. Mechanical plate depicts tube, screw/dial, frames and scale; not an authenticated surviving object or manufacturing trial."
+    }
+  ],
+  "arithmetic_checks": {
+    "lines_per_foot_implied_by_text": 144,
+    "three_turns_times_60_times_144": 25920,
+    "three_turns_times_80_times_144": 34560,
+    "three_turns_times_100_times_144": 43200,
+    "status": "Nominal arithmetic reproduced; no metric unit conversion or accuracy validation"
+  },
+  "limits": [
+    "Remaining text pages uninspected",
+    "Authorship cataloged; unsigned technical section not physical author authentication",
+    "No same-copy identification with BnF holdings",
+    "No exact1666edition,1693reprint orGascoigneaccess/intent authentication",
+    "No calibrated instrument accuracy or independent review"
+  ]
+}

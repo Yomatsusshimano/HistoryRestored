@@ -4672,6 +4672,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S301",
+      "title": "Auzout micrometer pamphlet: selected1667colophon, contributions and plate",
+      "creator": "Adrien Auzout (library attribution); Bibliothèque interuniversitaire de santé, Université Paris Cité digital surrogate",
+      "publication_date": "1667",
+      "url": "https://numerabilis.u-paris.fr/medica/bibliotheque-numerique/resultats/index.php?do=pages&cote=90957x50x20x02",
+      "source_type": "Historical printed pamphlet digital scan",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Selected printedpp1-2,5-7,15, unnumbered reverse/imprint bleed-through and plate reverse/front inspected. Modern cover and remaining text pages not used as inspected evidence. PDF page index is historical viewer index+1. No complete transcription or full collation.",
+      "limitations": "Selected coverage only.1666letter heading versus1667visiblecolophon/Bouguer1666citation retained. BnF record concerns separate unidentified copy. No exact1666edition, full collation, surviving-object accuracy, access/intent or independent review. Restricted/unclear scan redistribution rights: linked, not republished.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

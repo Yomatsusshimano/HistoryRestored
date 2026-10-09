@@ -289,3 +289,8 @@ S300 openingpp11-14 explicitly creditAuzout/Picard whole mechanism andconsequent
 ### 2026-10-09 — Complete Bouguer article and suspended solar-shape judgment
 
 S300 complete article pp11–34 and next-article boundary inspected; 25 surfaces registered. Reported eight-lens manufacture, proposed terrestrial calibration, thermal/clock effects and atmospheric dispersion distinguished from validated accuracy. p22 conversion142sec→35arcmin30arcsec reproduced as hour angle. p34 expressly denies that apparent vertical excess proves actual solar shape. See [complete article audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/300 sources; all twenty objectives active, no independent review or reconstruction established.
+
+
+### 2026-10-09 — Auzout pamphlet colophon and contribution-specific credit
+
+S301 acquired19pagePDF; nine selected historical surfaces inspected. Visible1667colophon versus Bouguer1666citation retained; Auzout screw/Picard microscope roles, mechanicalwear and25920/34560/43200nominal divisions documented. Remaining text unread; no accuracy or priority verdict. See [pamphlet audit](GASCOIGNE-ATTRIBUTION.md).27drafts/301sources; all twenty objectives active, no independent review.
