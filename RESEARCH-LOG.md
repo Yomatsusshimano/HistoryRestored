@@ -1547,3 +1547,10 @@ Previous goal turn made progress: ca0e2cc complete reprint audit published and e
 S303 all fourteen preface pages inspected, with title/reverse and numbered-table boundary: seventeen surfaces. Lunar correction constructed against eclipse observations precedes reported agreement; this is not independent validation. Other-observation discrepancies and author instrumental explanation retained separately. See [complete preface audit](research/GASCOIGNE-ATTRIBUTION.md).27 drafts/303 sources; all twenty objectives active, no independent review.
 
 Previous goal turn made progress:754ed9a target-preface audit published and eight files publicly byte-verified. Clean checkout revalidated. Public-reader image links acquired normally; eight remaining preface surfaces and PA1 boundary inspected. No source duplication, exhaustive volume search, raw-data calibration reproduction, independently reviewed Latin translation, physical authentication, outreach or independent review claimed.
+
+
+### 2026-10-09 — Flamsteed1671 optical-paper custody lead
+
+S304 letter/S305 Oldenburg extract inspected on four surfaces; unchanged CC BY4.0 images preserved with Royal Society attribution. Flamsteed reports Gascoigne-paper possession and adverse evaluation; dependent extract does not independently corroborate custody. Original papers/transfers unverified. See [custody audit](research/GASCOIGNE-ATTRIBUTION.md).27 drafts/305 sources; all twenty objectives active, no independent review.
+
+Previous goal turn made progress:e296c53 complete preface published and eight files byte-verified. Clean checkout revalidated. Initial shell wildcard rg paths failed on Windows; exact-file/context reads used. Broad search located later retellings, excluded as original proof. Royal Society item/manifest normalTLS retrieval succeeded despite web tool failures; each existing acquisition retained, no restart. Four surfaces inspected; no Gascoigne original, custody transaction, full transcription, physical instrument, outreach or independent review claimed.

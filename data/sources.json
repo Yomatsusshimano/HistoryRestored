@@ -4714,6 +4714,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S304",
+      "title": "Flamsteed to Collins18March1671: letter EL/F1/83",
+      "creator": "John Flamsteed",
+      "publication_date": "1671-03-18",
+      "url": "https://makingscience.royalsociety.org/items/el_f1_83/letter-from-john-flamsteed-to-john-collins-dated-at-derby",
+      "source_type": "Manuscript letter digital images",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Both delivered surfaces visually inspected; selected Gascoigne optical-paper paragraph compared with EL/F1/84 extract.",
+      "limitations": "Possession/evaluation reported, not transfer or authenticated Gascoigne originals. Catalog one-page extent and two delivered surfaces distinguished. No full diplomatic transcription, physical authentication, measured instrument performance, priority verdict or independent review.",
+      "local_copy": "sources/originals/invention/flamsteed1671/el_f1_83-image-1.jpg",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S305",
+      "title": "Flamsteed to Collins18March1671: Oldenburg extract EL/F1/84",
+      "creator": "John Flamsteed; extract cataloged as Henry Oldenburg",
+      "publication_date": "1671-03-18",
+      "url": "https://makingscience.royalsociety.org/items/el_f1_84/extract-of-a-letter-from-john-flamsteed-to-john-collins",
+      "source_type": "Manuscript letter extract digital images",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Both delivered surfaces visually inspected; selected Gascoigne optical-paper paragraph compared with EL/F1/83 letter. Catalog identifies extract by Oldenburg.",
+      "limitations": "Possession/evaluation reported, not transfer or authenticated Gascoigne originals. Dependent selected extract, not independent witness. No full diplomatic transcription, physical authentication, measured instrument performance, priority verdict or independent review.",
+      "local_copy": "sources/originals/invention/flamsteed1671/el_f1_84-image-1.jpg",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

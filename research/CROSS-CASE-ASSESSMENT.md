@@ -324,3 +324,8 @@ S303 title/reverse and six preface surfaces inspected. Second preface page and c
 ### 2026-10-09 — Complete1687 preface and dependent eclipse fitting
 
 S303 all fourteen preface pages inspected, with title/reverse and numbered-table boundary: seventeen surfaces. Lunar correction constructed against eclipse observations precedes reported agreement; this is not independent validation. Other-observation discrepancies and author instrumental explanation retained separately. See [complete preface audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/303 sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Flamsteed1671 optical-paper custody lead
+
+S304 letter/S305 Oldenburg extract inspected on four surfaces; unchanged CC BY4.0 images preserved with Royal Society attribution. Flamsteed reports Gascoigne-paper possession and adverse evaluation; dependent extract does not independently corroborate custody. Original papers/transfers unverified. See [custody audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/305 sources; all twenty objectives active, no independent review.

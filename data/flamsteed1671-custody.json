@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-09",
+  "records": [
+    {
+      "source_id": "S304",
+      "reference": "EL/F1/83",
+      "url": "https://makingscience.royalsociety.org/items/el_f1_83/letter-from-john-flamsteed-to-john-collins-dated-at-derby",
+      "catalog_date": "1671-03-18",
+      "catalog_extent": "1 page",
+      "delivered_surfaces": 2,
+      "manifest_path": "sources/originals/invention/flamsteed1671/el_f1_83-manifest.json",
+      "manifest_sha256": "0d8b35b88ab7bc2a5933a0e4819e1672fac7b5ca8413c09a0efa932bb7484644",
+      "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+      "attribution": "The Royal Society",
+      "images": [
+        {
+          "locator": "image1",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_F1%2FEL_F1_83%2Ftif%2FEL_F1_83_0001.ptif/full/2335,/0/default.jpg",
+          "local_path": "sources/originals/invention/flamsteed1671/el_f1_83-image-1.jpg",
+          "bytes": 1717720,
+          "sha256": "8698738fe8421f6932229f54101f3d9049362ee9648775838e7fc15528d735f0",
+          "dimensions": [
+            2335,
+            3682
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image2",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_F1%2FEL_F1_83%2Ftif%2FEL_F1_83_0002.ptif/full/2335,/0/default.jpg",
+          "local_path": "sources/originals/invention/flamsteed1671/el_f1_83-image-2.jpg",
+          "bytes": 1333593,
+          "sha256": "0f1d0654af4bb63744b70538643a8c08b348ebed9285fb78bb95581354ebde83",
+          "dimensions": [
+            2335,
+            3762
+          ],
+          "inspected": true
+        }
+      ]
+    },
+    {
+      "source_id": "S305",
+      "reference": "EL/F1/84",
+      "url": "https://makingscience.royalsociety.org/items/el_f1_84/extract-of-a-letter-from-john-flamsteed-to-john-collins",
+      "catalog_date": "1671-03-18",
+      "catalog_extent": "2 pages",
+      "delivered_surfaces": 2,
+      "manifest_path": "sources/originals/invention/flamsteed1671/el_f1_84-manifest.json",
+      "manifest_sha256": "ab90d2d63657528db2035d1669c6c6a95670f1f9424eeff56c2d711e45ce1ba0",
+      "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+      "attribution": "The Royal Society",
+      "images": [
+        {
+          "locator": "image1",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_F1%2FEL_F1_84%2Ftif%2FEL_F1_84_0001.ptif/full/2335,/0/default.jpg",
+          "local_path": "sources/originals/invention/flamsteed1671/el_f1_84-image-1.jpg",
+          "bytes": 1370010,
+          "sha256": "f9743da43d23855d0ea543d325ca1ada8378b01cacf168b57b08ad5336fea6e6",
+          "dimensions": [
+            2335,
+            2926
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image2",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_F1%2FEL_F1_84%2Ftif%2FEL_F1_84_0002.ptif/full/2335,/0/default.jpg",
+          "local_path": "sources/originals/invention/flamsteed1671/el_f1_84-image-2.jpg",
+          "bytes": 1258525,
+          "sha256": "0b986b5f9233cd15c03b275d3b6b04f067d0bd80bcbbb964066cd2dc9b2d3c78",
+          "dimensions": [
+            2335,
+            2970
+          ],
+          "inspected": true
+        }
+      ]
+    }
+  ],
+  "inspection": "All four image surfaces visually inspected. Selected central optical-paper paragraph and extract relationship compared; dense marginal additions and uncertain individual readings not fully transcribed. No diplomatic transcription, paper/ink/handwriting authentication or independent review.",
+  "findings": [
+    {
+      "source_id": "S304",
+      "locator": "image1 heading and central paragraph beginning papers of Horrocks",
+      "finding": "Letter headed Derby/March18/1671 and addressed to Collins; Flamsteed reports having Horrocks theory and Gascoigne dioptric papers, judges the latter less excellent than supposed, and describes optical calculation contents. Possession and evaluation are author reports; no transfer instrument or original Gascoigne paper identified."
+    },
+    {
+      "source_id": "S305",
+      "locator": "image1 Gascoigne paragraph",
+      "finding": "Extract repeats possession of Gascoigne optical papers and adverse evaluation, including ray-incidence/intersection/projection calculations. Same letter transmission, not independent custody confirmation or proof of instrument performance."
+    },
+    {
+      "source_id": "S304",
+      "locator": "image2",
+      "finding": "Reverse includes address to Collins and docket mentioning Horrocks/Gascoigne papers, Newton telescope and Cassini. Docket handwriting/date not authenticated; two delivered surfaces distinguished from catalog one-page extent."
+    },
+    {
+      "source_id": "S305",
+      "locator": "image2",
+      "finding": "Continuation discusses reflective telescope limitations and Cassini ephemerides, closes with original entered in letter-book/supplement notation. Catalog identifies extract by Henry Oldenburg; no autograph inference from creator field."
+    },
+    {
+      "source_id": "S304/S305",
+      "locator": "selected image1 comparison and extract image2",
+      "finding": "Gascoigne paragraph preserved in substance, while extract omits some surrounding correspondence and dense letter marginal material. Copy is a selected witness, not full equivalence or proof of deliberate suppression."
+    }
+  ],
+  "limits": [
+    "No Gascoigne original dated letter or manuscript authenticated",
+    "No acquisition source, transfer date or later continuous custody established",
+    "No measured micrometer accuracy, exclusive priority or ancient-recovery route",
+    "No full diplomatic transcription or independent review",
+    "Search leads to Hooke drawings and later collections remain separate and unregistered as inspected evidence"
+  ]
+}
