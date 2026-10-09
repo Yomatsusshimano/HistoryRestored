@@ -359,3 +359,8 @@ S310/S311 all ten manuscript deliveries inspected and CC-BY copies preserved.166
 ### 2026-10-09 —1667request and date-role cross-check
 
 S312 all four manuscript surfaces inspected/preserved. Long-telescope and sextant-sight requests distinct from micrometer. ReceiptNovember10/readingNovember14annotations strengthen register14against laterprint4, without authenticating error stage.43incoming metadata-card search bounded; no earliest request or receipt absence proved. See [request audit](GASCOIGNE-ATTRIBUTION.md).27drafts/312sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Micrometer use and unmade redesign
+
+S313/S314 all four body/address surfaces inspected/preserved. Flamsteed reports practical inconvenience and proposed remedy, explicitly still unmade in March1671/2. Screw-quality comparison and utility claims remain qualitative; no numerical accuracy trial. Double-year heading/catalog1672roles retained. See [use audit](GASCOIGNE-ATTRIBUTION.md).27drafts/314sources; all twenty objectives active, no independent review.

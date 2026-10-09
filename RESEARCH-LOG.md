@@ -1596,3 +1596,10 @@ Previous goal turn made progress:0b1babe/f545692published S309, all12changed fil
 S312 all four manuscript surfaces inspected/preserved. Long-telescope and sextant-sight requests distinct from micrometer. ReceiptNovember10/readingNovember14annotations strengthen register14against laterprint4, without authenticating error stage.43incoming metadata-card search bounded; no earliest request or receipt absence proved. See [request audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/312sources; all twenty objectives active, no independent review.
 
 Previous goal turn made progress:e1573e8published S310/S311 with21files byte-verified; clean checkout revalidated. Explorer response43incoming items parsed by standard-library regex after unavailablebs4; two person cards excluded, no completeness assumption. FourS312images normal-TLS acquired/visually inspected. Narrow request/date evidence changes next action toward original usability reports, not another broad receipt-absence claim. No outreach, manuscript authentication, translation review or goal completion claimed.
+
+
+### 2026-10-09 — Micrometer use and unmade redesign
+
+S313/S314 all four body/address surfaces inspected/preserved. Flamsteed reports practical inconvenience and proposed remedy, explicitly still unmade in March1671/2. Screw-quality comparison and utility claims remain qualitative; no numerical accuracy trial. Double-year heading/catalog1672roles retained. See [use audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/314sources; all twenty objectives active, no independent review.
+
+Previous goal turn made progress:f9210c8published S312 and15files byte-verified; clean checkout revalidated. Two official item/manifests and four normal-TLS images acquired/visually inspected. No made-device status inferred from envisioned remedy; manuscript double-year retained. National Archives blog403respected, not inspected. No outreach, raw trial reproduction, full transcription, independent review or goal completion claimed.

@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-09",
+  "records": [
+    {
+      "source_id": "S313",
+      "reference": "EL/F1/77",
+      "url": "https://makingscience.royalsociety.org/items/el_f1_77/letter-from-john-flamsteed-to-henry-oldenburg-dated-at-derby",
+      "catalog_date": "1671-12-02",
+      "catalog_extent": "1 page",
+      "delivered_surfaces": 2,
+      "coverage": "Both delivered body/address surfaces visually inspected; selected micrometer passages read directly. No complete diplomatic transcription or physical authentication.",
+      "manifest_path": "sources/originals/invention/flamsteed-use/flamsteed-f77-manifest.json",
+      "manifest_sha256": "167b99b316c6325a08281dc6164df4c4901f92cbca65b6bdc4cc825e2839bc8a",
+      "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+      "attribution": "The Royal Society",
+      "images": [
+        {
+          "locator": "image1",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_F1%2FEL_F1_77%2Ftif%2FEL_F1_77_0001.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/flamsteed-use/flamsteed-f77-image-1.jpg",
+          "bytes": 758615,
+          "sha256": "60526606159679c4c57d25d53704d908323b6fbeb88f36e6766b85fd5e7856ed",
+          "dimensions": [
+            1559,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image2",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_F1%2FEL_F1_77%2Ftif%2FEL_F1_77_0002.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/flamsteed-use/flamsteed-f77-image-2.jpg",
+          "bytes": 464235,
+          "sha256": "6a95df0b72450d6703d370f6612ec1004bd3d7856284bfaf558e24a6941b14b2",
+          "dimensions": [
+            1467,
+            2400
+          ],
+          "inspected": true
+        }
+      ],
+      "date_note": "Visible Derby/December2/1671 heading agrees with catalog; other observation/correspondence dates in body and reverse annotations are distinct, not independently dated trials.",
+      "catalog_autograph_status": "Catalog says signed autograph; signature visible, but handwriting/material/custody not independently authenticated.",
+      "findings": [
+        {
+          "locator": "image1 middle/lower micrometer paragraph",
+          "selected_tokens": [
+            "Not finding",
+            "Mr Townleys Micrometer",
+            "convenient for some observations",
+            "I have devised a new one"
+          ],
+          "reading": "Flamsteed reports Towneley micrometer inconvenient for some observations and describes his own proposed alternative threading arrangement, anticipating fewer inconveniences/faults.",
+          "limit": "Selected source report, not a controlled trial or calibrated accuracy comparison; precise full mechanism not diplomatically transcribed or reconstructed."
+        },
+        {
+          "locator": "same paragraph",
+          "reading": "He says he may not give an account immediately and intends to send its scheme to Oldenburg/Hooke and Towneley when circumstances allow.",
+          "limit": "Promised scheme and claimed improvement do not authenticate completed manufacture, sending or recipient receipt."
+        },
+        {
+          "locator": "image1 earlier Saturn paragraph",
+          "reading": "Reports Saturn appearance using a14-foot telescope and discusses Towneley/Jones observations through correspondence.",
+          "limit": "Different reported observers retained inside one transmitted letter; not independent instrument calibration or tested cause of differing appearances."
+        },
+        {
+          "locator": "item catalog",
+          "reading": "Partly printed in Philosophical Transactions volume6,no78,p3034.",
+          "limit": "Publication locator only; printed passage and omission extent not acquired or collated in this turn."
+        }
+      ]
+    },
+    {
+      "source_id": "S314",
+      "reference": "EL/F1/82",
+      "url": "https://makingscience.royalsociety.org/items/el_f1_82/letter-from-john-flamsteed-to-henry-oldenburg-dated-at-derby",
+      "catalog_date": "1672-03-05",
+      "catalog_extent": "1 page",
+      "delivered_surfaces": 2,
+      "coverage": "Both delivered body/address surfaces visually inspected; selected micrometer passages read directly. No complete diplomatic transcription or physical authentication.",
+      "manifest_path": "sources/originals/invention/flamsteed-use/flamsteed-f82-manifest.json",
+      "manifest_sha256": "808e8401af9acb66b12163cdc649521002b0d2e68b4c5244dd9ff92a0ac22a2f",
+      "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+      "attribution": "The Royal Society",
+      "images": [
+        {
+          "locator": "image1",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_F1%2FEL_F1_82%2Ftif%2FEL_F1_82_0001.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/flamsteed-use/flamsteed-f82-image-1.jpg",
+          "bytes": 772062,
+          "sha256": "fb8b3ce570422470a1372da789df96b7822777281dfafd1a3a977af6efcaf935",
+          "dimensions": [
+            1500,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image2",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_F1%2FEL_F1_82%2Ftif%2FEL_F1_82_0002.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/flamsteed-use/flamsteed-f82-image-2.jpg",
+          "bytes": 532516,
+          "sha256": "1664398e8937c6aa93d03612e50a92af4e413347f14ed0965644ccdad78afe6c",
+          "dimensions": [
+            1466,
+            2400
+          ],
+          "inspected": true
+        }
+      ],
+      "date_note": {
+        "visible_heading": "Derby, March5,1671/2 (year written with stacked2)",
+        "catalog_date": "1672-03-05",
+        "interpretation": "Literal double-year label is compatible with catalog1672year; no day/month Gregorian conversion or physical date authentication claimed.",
+        "reverse": "Address/docket and additional annotations visible; full annotation-date collation not performed."
+      },
+      "findings": [
+        {
+          "locator": "image1 lower observing paragraph",
+          "selected_tokens": [
+            "Mr Townleys micrometer",
+            "was not convenient",
+            "contiguitie of his pinnules",
+            "cannot get it made yet"
+          ],
+          "reading": "For the reported lunar transit/approach to a star in Libra, Flamsteed attributes inconvenience to the proximity of Towneley instrument pinnules/sight pieces. He says his proposed instrument remedies it but is still not made, and discusses difficulty obtaining screws as good as Towneley ones.",
+          "limit": "Observer diagnosis and fabrication expectation, not measured causal isolation or proof existing instrument lacked accuracy. Good-screw comparison remains his judgment."
+        },
+        {
+          "locator": "same paragraph",
+          "reading": "He promises a drawing after manufacture and offers to communicate observations.",
+          "limit": "Drawing/observation promises are not the promised documents or completed comparative trial."
+        },
+        {
+          "locator": "image1 upper/middle",
+          "reading": "References observations sent to Collins in another letter and requests details of a reported12-inch Hooke tube.",
+          "limit": "Those records and apparatus not acquired; do not fill missing trial values with this summary."
+        }
+      ]
+    }
+  ],
+  "interpretation": "Original correspondence supplies observer-reported usability limitations and iterative redesign. March1671/2 letter explicitly distinguishes conceived remedy from unmade instrument. Neither supplies a calibrated accuracy benchmark or recovered ancient antecedent.",
+  "dependence": "Same Flamsteed/Towneley exchange and proposed redesign across letters; repeated claims are not independent trials. Catalog and manifest dependent on same archive. Address sides are not additional letters.",
+  "limits": [
+    "No authenticated exact specimen/design identity with S294/S295/S307 or Hevelius commission.",
+    "No dated raw micrometer measurements, error budget, repeatability or independent observer comparison.",
+    "No full diplomatic transcription, physical authentication or independently reviewed interpretation.",
+    "No intentional attribution suppression, ancient recovery or fabricated chronology established."
+  ],
+  "next_test": "Acquire the actual scheme/drawing and associated lunar observation account sent to Collins, plus printed issue78p3034, to distinguish disclosure, editorial transmission, manufacture and numerical performance. Preserve qualitative complaints separately from calibration results."
+}

@@ -4840,6 +4840,34 @@
       "accessed_date": "2026-10-09",
       "local_copy": "sources/originals/invention/hevelius1667/README.md",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S313",
+      "title": "Flamsteed1671 micrometer inconvenience and proposed redesign",
+      "creator": "John Flamsteed; Royal Society Archives",
+      "publication_date": "1671-12-02",
+      "url": "https://makingscience.royalsociety.org/items/el_f1_77/letter-from-john-flamsteed-to-henry-oldenburg-dated-at-derby",
+      "source_type": "Digitized manuscript correspondence",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Both delivered body/address surfaces visually inspected; selected micrometer passages read directly. No complete diplomatic transcription or physical authentication.",
+      "limitations": "Qualitative observer report, no calibrated accuracy or controlled trial. Exact apparatus/order identity and manufacture unverified. Body/address are one letter. Catalog signed-autograph status not independently authenticated; printed p3034locator uninspected.",
+      "accessed_date": "2026-10-09",
+      "local_copy": "sources/originals/invention/flamsteed-use/README.md",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S314",
+      "title": "Flamsteed March1671/2 instrument-use difficulty and unmade redesign",
+      "creator": "John Flamsteed; Royal Society Archives",
+      "publication_date": "1672-03-05",
+      "url": "https://makingscience.royalsociety.org/items/el_f1_82/letter-from-john-flamsteed-to-henry-oldenburg-dated-at-derby",
+      "source_type": "Digitized manuscript correspondence",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Both delivered body/address surfaces visually inspected; selected micrometer passages read directly. No complete diplomatic transcription or physical authentication.",
+      "limitations": "Qualitative observer report, no calibrated accuracy or controlled trial. Exact apparatus/order identity and manufacture unverified. Body/address are one letter. Manuscript double-year1671/2label retained alongside catalog1672; no Gregorian conversion. Proposed remedy explicitly still unmade.",
+      "accessed_date": "2026-10-09",
+      "local_copy": "sources/originals/invention/flamsteed-use/README.md",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
