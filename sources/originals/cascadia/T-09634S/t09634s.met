@@ -1,0 +1,227 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: United States Department of Commerce, National Oceanic and Atmospheric Administration 
+          (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS)
+      Publication_Date: Unknown
+      Title: Georeferenced Scanned Coastal Map Named Willapa Bay (Cape Shoalwater - Leadbetter Point)
+(T-9634s) located in Washington, nearby Willapa Bay, Washington.  Developed from Unknown Source Data
+Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Silver Spring, Maryland
+        Publisher: U.S. Department of Commerce, National Oceanic and Atmospheric Administration,
+             National Ocean Service
+      Online_Linkage: Unknown
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Commerce, National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data, and Information Service (NESDIS), and National Ocean Service (NOS)
+          Publication_Date: Unknown
+          Title: Shoreline Data Rescue Project
+          Other_Citation_Details: This project was funded by the NOAA NESDIS Environmental Data Rescue Program (EDRP).  The data were created by the National Ocean Service (previously the National Ocean Survey), National Geodetic Survey (NGS) as part of its ongoing mission to map the coastline of the United States.  The NOAA National Ocean Service, Coastal Services Center developed the procedures used in this project and was responsible for project oversight.  The project intent was to rescue valuable historical data and make it accessible and useful to the coastal mapping community.  This process involved the conversion of analog products to digital mapping products.
+  Description:
+    Abstract:  NOS coastal survey maps (often called t-sheet or tp-sheet maps) are special use planimetric or topographic maps that precisely define the shoreline and alongshore natural and man-made features, such as rocks, bulkheads, jetties, piers, and ramps.  These maps range in scale from 1:5,000 to 1:40,000. 
+    Purpose: NOS coastal survey maps serve as the basic database of shoreline and topography used in the production of nautical charts.  Historical data from these surveys are often used in litigation to determine property ownership, to enforce regulatory mandates, and to estimate rates of shoreline change. Additionally, these maps provide an accurate framework of geomorphic data for generating related products, such as submerged aquatic vegetation maps and shoreline movement maps used in managing the nation's coastal resources. These data are considered useful to persons with geographic information systems who are able to view and analyze the data by itself, or with other data sets.  The user should realize that these data are considered accurate during the time of survey and may not represent the current condition of the ground at this time.  These maps permanently reside within the offices of the National Archives and Records Administration (NARA).  These maps were transferred by NOS to NARA in 1999.
+Supplemental_Information: These data represent the shoreline position at the time of photography.  For more information about the condition at the time of photography, please refer to the (descriptive report-hotlinked).
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20030606
+        Ending_Date: 20030606
+    Currentness_Reference: Survey date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None
+  Spatial_Domain
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -124.125
+      East_Bounding_Coordinate: -124.000
+      North_Bounding_Coordinate: 46.687
+      South_Bounding_Coordinate: 46.625
+    Description_of_Geographic_Extent:  These data were collected from the vicinity of Leadbetter Point, 
+          nearby Willapa Bay, Washington.
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: Glossary of the Shoreline Metadata Profile
+      Theme_Keyword: Shoreline map
+      Theme_Keyword: Coastal base map
+      Theme_Keyword: Coastal zone map
+      Theme_Keyword: Shoreline
+      Theme_Keyword: Vectorization
+      Theme_Keyword: Shoreline vectorization
+      Theme_Keyword: Shoreline data
+      Theme_Keyword: T-sheet
+      Theme_Keyword: Tp-sheet
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Washington
+      Place_Keyword: Willapa Bay
+      Place_Keyword: Leadbetter Point
+      Place_Keyword: Cape Shoalwater
+      Place_Keyword: Grassy Island
+      Place_Keyword: North Beach Peninsula
+      Place_Keyword: Pacific Ocean
+    Temporal:
+      Temporal_Keyword_Thesaurus:  None
+      Temporal_Keyword:  High tide
+Access_Constraints: None
+  Use_Constraints: These data were generated for use by NGS during the course of its development of potential final products to fulfill its statutory mission.  Although NGS is making these data available to others who may find the data of value, NGS does not warrant, endorse, or recommend the use of these data for any given purpose.  The user assumes the entire risk related to the use of these data.  These data are not for navigational purposes.  NGS is providing these data "as is," and NGS disclaims any and all warranties, whether expressed or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose.  In no event will NGS be liable to you or to any third party for any direct, indirect, incidental, consequential, special, or exemplary damages or lost profits resulting from any use or misuse of these data.
+Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: National Oceanic and Atmospheric Administration, National Ocean Service, National Geodetic Survey, Information Services Branch
+      Contact_Position: Senior cartographer
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway 
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3226
+      Contact_Facsimile_Telephone: (301) 713-4176
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov 
+      Hours_of_Service: Monday through Friday, 7:00 a.m. to 4:30 p.m., Eastern Standard Time
+  Native_Data_Set_Environment: Sun Microsystems® workstation using Environmental  Systems Research Institute, Inc. (ESRI)® ArcInfo® version 7.2.1
+Data_Quality_Information:
+  Logical_Consistency_Report: Nothing to report
+  Completeness_Report: Nothing to report
+   Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:  The derived digital data from this source map is only as accurate as the source map itself.
+         Quantitative_Horizontal_Positional_Accuracy_Assessment:
+             Horizontal_Positional_Accuracy_Value: 0.972
+             Horizontal_Positional_Accuracy_Explanation: Root mean square (RMS) error in meters for 
+x-coordinates
+         Quantitative_Horizontal_Positional_Accuracy_Assessment:
+             Horizontal_Positional_Accuracy_Value: 1.643
+             Horizontal_Positional_Accuracy_Explanation: Root mean square (RMS) error in meters for 
+y-coordinates
+Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: None
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Commerce, National Oceanic and Atmospheric Administration,    		National Ocean Service, National Geodetic Survey
+          Publication_Date: Unknown
+          Title: Shoreline Map Named Willapa Bay (Cape Shoalwater - Leadbetter Point) (T-9634s) located in Washington, nearby Willapa Bay, Washington.  Dated from Unknown
+          Edition: First
+          Geospatial_Data_Presentation_Form: Raster map image
+          Publication_Information:
+            Publication_Place: Silver Spring, Maryland
+            Publisher: U.S. Department of Commerce, National Oceanic and Atmospheric Administration
+                             National Ocean Service, National Geodetic Survey
+            Online_Linkage: <http://mapfinder.nos.noaa.gov>
+      Source_Scale_Denominator: 10,000
+      Type_of_Source_Media:  Map manuscript
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date:  20030606
+            Ending_Date: 20030606
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: T-9634s
+      Source_Contribution: This was the original map that was scanned and later georeferenced.
+    Process_Step:
+      Process_Description: The source map was originally scanned at 400 dots per inch (DPI) by staff of the National Geodetic Survey and saved as a Zsoft Paintbrush (.pcx) format image.  Staff of Techni Graphic Systems converted the image into a Tagged Image File Format (.tif) image.  The .tif file was then georeferenced to an array of ground control points that were generated based upon those locations given on the shoreline map.  Using Environmental Systems Research Institute's (ESRI) ArcInfo GIS software, the .tif image was georeferenced using the "register" and "rectify" commands to produce a file with geographic coordinates in decimal-degrees and referencing the North American 1983 Datum (NAD83).  The resulting "geo-tif" image contains the spatial coordinate information within the header of the image.
+      Process_Date: 20030606
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Techni Graphic Systems, Inc.
+          Contact_Position: Production manager
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 2301 Research Blvd., Suite 101
+            City: Ft. Collins
+            State_or_Province: Colorado
+            Postal_Code: 80526
+            Country: USA
+          Contact_Voice_Telephone: (970) 224-4996
+          Contact_Facsimile_Telephone: (970) 224-3001
+          Contact_Electronic_Mail_Address: meishag@tgstech.com
+          Hours_of_Service: Monday through Friday, 8 a.m. to 5 p.m., Mountain Standard Time
+       Process_Step_Citation:  Users interested in the methods used during the georeferencing process can 
+           refer to the training manual developed by the NOAA Coastal Services Center.  This manual is 
+           available on their shoreline data web site for free download and is saved in Adobe .pdf format.  
+           http://www.csc.noaa.gov/products/shorelines
+Tidal_Information:
+          Type_of_Tide: 
+          Time_of_Tide:
+               Time_of_Low_Tide:  Unknown
+               Time_of_High_Tide:  Unknown
+               Tidal_Datum: Mean high water
+               Tidal_Range: Unknown
+          Tide_Table_Reference: http://tidesonline.nos.noaa.gov/
+     Supplemental_Tidal_Information: 
+     Marine_Weather_Condition:
+          Wind_Speed: Unknown
+          Wind_Direction: Unknown
+          Wave_Height: Unknown
+          Barometric_Pressure: Unknown
+          Environmental_Event: Link to the Descriptive Report 
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+       Latitude_Resolution: 0.0000186716
+       Longitude_Resolution: 0.0000186716
+       Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum 1983
+      Ellipsoid_Name: Geodetic Reference System 1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA NOS National Geodetic Survey, Information Services Branch
+      Contact_Position: Senior cartographer
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway 
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301)713-3226
+      Contact_Facsimile_Telephone: (301)713-4176
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov
+      Hours_of_Service: Monday through Friday, 7 a.m. to 4:30 p.m., Eastern Standard Time
+  Distribution_Liability: Not intended for navigational purposes
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+         Format_Name: Unknown
+      Digital_Transfer_Option:
+           Online_Option:
+                Computer_Contact_Information:
+                     Network_Address:
+                          Network_Resource_Name: None
+    Fees: None
+    Ordering_Instructions: None
+Metadata_Reference_Information:
+  Metadata_Date: 20030916
+  Metadata_Review_Date: 20030916
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA NOS National Geodetic Survey, Information Services Branch
+      Contact_Position: Information specialist 
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 1315 East-West Highway
+        City: Silver Spring
+        State_or_Province: Maryland
+        Postal_Code: 20910-3282
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3242 
+      Contact_Facsimile_Telephone: (301) 713-4172 
+      Contact_Electronic_Mail_Address: info_center@ngs.noaa.gov 
+      Hours_of_Service: Monday through Friday, 7 a.m. to 4:30 p.m., Eastern Standard Time
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Profile_Name:  Shoreline Metadata Profile of the Content Standard for Digital Geospatial Metadata V 1.0
+

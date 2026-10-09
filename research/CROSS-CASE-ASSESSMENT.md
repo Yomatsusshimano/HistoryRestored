@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Intermediate island configuration and mixed survey dates
+
+The [T9634 intermediate-map audit](WILLAPA-T9634-INTERMEDIATE.md) adds an actual covering raster depicting a continuous GrassyIsland/Leadbetter sand outline. Original report identifies July1950photo1613 and June1953 shoreline location, retaining June6/30 discrepancy, distinct manuscript products and later revisions. Its seasonal beach, entrance-shift and storm accounts supply regional alternatives rather than measured island causes. Accuracy warnings and unresolved source/raster crosswalk prevent dating attachment from the catalog year or calculating physical displacement. Original observations and comparable classes remain necessary; no global reconstruction outcome is completed.
+
 ### 2026-10-09 — Original historical marsh observation recovered
 
 The [Swan1857 scan audit](SWAN-WILLAPA-MARSH.md) replaces reliance solely on a later quotation with inspected marsh and adjacent coastal descriptions. Rare winter-tide flooding and grass-covered lands support a qualitative marsh interpretation, without a surveyed level, exact footprint or independent earthquake date. Two small quotation differences remain visible. Buried forest remains are reported but not tied to a measured-age exposure. A primary historical source advances provenance; it does not supply a minimum soil-growth duration or an independently confirmed global event.

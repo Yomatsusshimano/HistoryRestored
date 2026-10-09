@@ -4128,6 +4128,21 @@
       "sha256": "b59c0591a78c0ffc78586f9dd68a4397c7292dd015a2faca531dfa5e116b9874",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S265",
+      "title": "Coast and Geodetic Survey T-9634 topographic and shoreline reports with T-09634S raster",
+      "creator": "U.S. Coast and Geodetic Survey; NOAA archive",
+      "publication_date": null,
+      "url": "https://nsde.ngs.noaa.gov/downloads/T-09634S.zip",
+      "source_type": "Original federal survey manuscripts, report scan and later georeferenced raster",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All 34 rendered PDF pages visually inspected; first five previously inspected. Some field-edit scan text faint/degraded; no exhaustive numerical/control-table transcription or OCR. Full reduced raster and island crop inspected.",
+      "limitations": "1950 photography,1953 field location,1956 edit,1958 review and2003 raster process distinct. June6/30 source dates differ. Original topographic accuracy warning includes contour qualification in review; no horizontal field-edit accuracy test. Manuscript/raster version and island boundary date unresolved.",
+      "local_copy": "sources/originals/cascadia/T-09634S/T-9634.PDF",
+      "sha256": "6d209b7cfa8c986dc877c56589cdca366d6ddce7d803449214fa99d55d7d3f5c",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -1,0 +1,71 @@
+{
+  "source_id": "S265",
+  "retrieved_url": "https://nsde.ngs.noaa.gov/downloads/T-09634S.zip",
+  "accessed_date": "2026-10-09",
+  "archive_bytes": 13689150,
+  "archive_sha256": "aaa0b61dbf102602e17d70bb1e20d45251d9ebcd71aaf7fb76f8ad8a93bf9942",
+  "preserved_members": [
+    {
+      "path": "sources/originals/cascadia/T-09634S/T-9634.PDF",
+      "bytes": 9601745,
+      "sha256": "6d209b7cfa8c986dc877c56589cdca366d6ddce7d803449214fa99d55d7d3f5c"
+    },
+    {
+      "path": "sources/originals/cascadia/T-09634S/t09634s_dd.jpg",
+      "bytes": 1701704,
+      "sha256": "ca80e01d41f4eb6a28c9380cdee6602967b8b4f3823199565f9dce7e8b770bdf"
+    },
+    {
+      "path": "sources/originals/cascadia/T-09634S/t09634s_dd.jgw",
+      "bytes": 222,
+      "sha256": "9aea8d083f8b12cf60bd658603028c3218faa227dfc9eff8fecd938389fdba15"
+    },
+    {
+      "path": "sources/originals/cascadia/T-09634S/t09634s.met",
+      "bytes": 13943,
+      "sha256": "287b58417d6fca6ab5ce43782d98e363e4cb4ffb001462c08119e4767c936492"
+    }
+  ],
+  "report_pages": 34,
+  "inspection": "All 34 rendered PDF pages visually inspected; first five previously inspected. Some field-edit scan text faint/degraded; no exhaustive numerical/control-table transcription or OCR. Full reduced raster and island crop inspected.",
+  "raster_dimensions": [
+    7687,
+    3728
+  ],
+  "world_file_values": [
+    1.867158949e-05,
+    0.0,
+    0.0,
+    -1.867158949e-05,
+    -124.13247419093896,
+    46.69022741182087
+  ],
+  "figure": {
+    "path": "research/figures/willapa-t9634-island.png",
+    "sha256": "3af6e7f58bc919e6c216be30eadd095c68fc9cc0b3d4b4b3e082a60063d574d8",
+    "crop_pixel_edges": [
+      3250,
+      2300,
+      5700,
+      3728
+    ],
+    "method": "Unmarked rectangular original raster crop, no warp, fit, tracing, or measured displacement."
+  },
+  "feature_observation_date": null,
+  "date_roles": {
+    "photo_1613": "1950-07-11",
+    "north_beach_planetable_form_topographic": "1953-06-30",
+    "north_beach_planetable_shoreline_narrative": "1953-06-06",
+    "field_edit_report": "1956-11-23",
+    "review": "1958-01-06",
+    "cover": "1958-06-05",
+    "raster_process": "2003-06-06"
+  },
+  "limits": [
+    "Topographic and shoreline manuscripts distinct; source-to-downloaded-raster crosswalk unresolved.",
+    "NAD27 original report versus NAD83 raster placement are different coordinate stages.",
+    "Small georeferencing residuals are not measured survey accuracy.",
+    "June 6/June 30 dates conflict; no preferred correction.",
+    "No independently dated attachment, change rate, cause, or catastrophe date."
+  ]
+}
