@@ -1,0 +1,35 @@
+{
+  "source_id": "S244",
+  "doi": "10.5066/P9GEWF58",
+  "accessed_date": "2026-10-09",
+  "publication_date": "2022-09-16",
+  "license": "CC0 1.0 per USGS landing page",
+  "metadata_url": "https://www.sciencebase.gov/catalog/item/5ee8f16d82ce3bd58d85198e?format=json",
+  "metadata_sha256": "cdcc3606fdb79643df062b5ec6c1cf29e7e530381f5099873ef61f88db5fee37",
+  "files": [
+    {
+      "name": "supplement.zip",
+      "url": "https://www.sciencebase.gov/catalog/file/get/5ee8f16d82ce3bd58d85198e?f=__disk__bd%2Fc1%2Ffb%2Fbdc1fb0e47c0dd3675208361f736b24d91f52645",
+      "file": "tmp/research/cascadia-2022-supplement.zip",
+      "bytes": 511816,
+      "sha256": "d362b84f3978b21ff758896e4599f4156f0f1b3514ecacee84d377445f4ea5d0",
+      "inspection": "ACQUIRED_NOT_CONTENT_AUDITED"
+    },
+    {
+      "name": "plain.zip",
+      "url": "https://www.sciencebase.gov/catalog/file/get/5ee8f16d82ce3bd58d85198e?f=__disk__ce%2Fe4%2F68%2Fcee468ea57cc60b55e80de00709a83d280c9a4e7",
+      "file": "sources/originals/cascadia/field-release-2022/plain.zip",
+      "bytes": 123390,
+      "sha256": "7f3d3327dbd7565a649a4a8826cbdd71b25a0839e4764fe9fb5606b85f704e72",
+      "inspection": "SELECTED_PLAIN_TEXT_AND_CSV"
+    },
+    {
+      "name": "Brian_Atwater_Metadata.xml",
+      "url": "https://www.sciencebase.gov/catalog/file/get/5ee8f16d82ce3bd58d85198e?f=__disk__78%2Fd5%2F82%2F78d582fdbb45a01d4af0c98ec06d61b373f653ef",
+      "file": "tmp/research/cascadia-2022-Brian_Atwater_Metadata.xml",
+      "bytes": 12750,
+      "sha256": "2d53d7c45bcdf260d11f27ae82c6e078f0e2dd40588ce66eef36a53d736e946d",
+      "inspection": "ACQUIRED_NOT_CONTENT_AUDITED"
+    }
+  ]
+}

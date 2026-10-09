@@ -1,0 +1,959 @@
+{
+  "status": "SOURCE_FIELD_TABLE_AND_LABEL_AUDIT_NOT_INDEPENDENT_AUTHENTICATION",
+  "source_id": "S244",
+  "input_zip_sha256": "7f3d3327dbd7565a649a4a8826cbdd71b25a0839e4764fe9fb5606b85f704e72",
+  "raw_audit_sha256": "74d6e6bd5d532859c8024694fca9cd092263b39c7d2760b14bec833ad2728a28",
+  "members": [
+    {
+      "name": "00_Guide.txt",
+      "bytes": 174194,
+      "sha256": "bd2b9dc26e85f52cd7ae92c8291afc69b465e4c3a214dde896a452e5e426e5ed"
+    },
+    {
+      "name": "01_Observers.txt",
+      "bytes": 2781,
+      "sha256": "9a520461af6c9c6633a3a0275fe5963a6e6c8cc3886335c507379087cac07db6"
+    },
+    {
+      "name": "02_Soil_localities.csv",
+      "bytes": 13985,
+      "sha256": "7caa502a488d3a6afc74f883da45be01d36aacbec2db8c896d28ba5b68656e62"
+    },
+    {
+      "name": "03_Soil_stratigraphy.csv",
+      "bytes": 77403,
+      "sha256": "354acc86de0d537f5b77fa6dabc13ea8e2a02883ebd14b11a854f76fee8ba10e"
+    },
+    {
+      "name": "04_Radiocarbon_categories.txt",
+      "bytes": 17084,
+      "sha256": "f808e313b70c3e66cac2d596779d75e56783b32664ebbe85a6d50f5e9a2327a8"
+    },
+    {
+      "name": "05_Radiocarbon_errors.txt",
+      "bytes": 10984,
+      "sha256": "71765ba59c4771e8f0d0dac138f8116e96206a92d77ea3618e7a882da24c8427"
+    },
+    {
+      "name": "06_Radiocarbon_ages.csv",
+      "bytes": 75852,
+      "sha256": "835d04bc73d554b3c4ffdc4e7cd62ca85ba3b8d01a1025a8d9922d9e8901f9b6"
+    },
+    {
+      "name": "07_Event_ages.txt",
+      "bytes": 7891,
+      "sha256": "d04fc35667b760761f9e4ef09ebdcb79a2af1081e26b8f6a96759d3b83a8949d"
+    },
+    {
+      "name": "08_Oxcal_code.txt",
+      "bytes": 1463,
+      "sha256": "86a5d98e5ab840a7105cd24e3250fb9313fefdd6c4b9bea43144703671b55fc4"
+    },
+    {
+      "name": "09_Airphotos.txt",
+      "bytes": 5148,
+      "sha256": "3319a005ca478b21b4b014e0e528e7184294fdea8a2585e9b69fd745e201ef31"
+    },
+    {
+      "name": "10_Redcedar_dead_georeferenced.csv",
+      "bytes": 36607,
+      "sha256": "eda3638b14b3224c41a25d728d98e440986348ea8416e5b7b8bc231f52621dd2"
+    },
+    {
+      "name": "11_Redcedar_dead_sampled.csv",
+      "bytes": 16288,
+      "sha256": "434a6ef7619661958cb0a01d70154afed9e218dbd8ffd26796d2109fe90f7077"
+    },
+    {
+      "name": "12_Redcedar_dead_selected.csv",
+      "bytes": 12837,
+      "sha256": "57727bb6b0db0207a8a287d0cd8c223e7b70d3566128bc0f92f7c6e31f7bb0f6"
+    },
+    {
+      "name": "13_Redcedar_live.csv",
+      "bytes": 7275,
+      "sha256": "b518215579258baa5b2a7db2b45ec296fe4166b5de0e7803d781195ec20a3247"
+    },
+    {
+      "name": "14_Spruce_survivors.csv",
+      "bytes": 13790,
+      "sha256": "7abc11c73450cf65066717d5fa0c3eff5f1a12800222f5033b43f3b215deee60"
+    },
+    {
+      "name": "15_Spruce_boomers.csv",
+      "bytes": 17754,
+      "sha256": "3a11c8666e65625def925702d99f841ffeadd8107cedfc30f1120dfa28ce77ed"
+    },
+    {
+      "name": "16_Sand_sheet.csv",
+      "bytes": 48604,
+      "sha256": "047488490075ded887db2a28b0703ff4017cb052e974ba7d33c04e173a71bbd8"
+    },
+    {
+      "name": "17_Markers.csv",
+      "bytes": 1364,
+      "sha256": "0c4f1e845003e3ffb95c95679df8699a2481ea2f39c47903ed159bebc77b756a"
+    },
+    {
+      "name": "18_Copalis_vented_sand.csv",
+      "bytes": 4977,
+      "sha256": "fc08f291de442b9fe199ef43518fbae61172a94c61c7e2802b411e7b90ea9480"
+    }
+  ],
+  "table_counts": {
+    "10_Redcedar_dead_georeferenced.csv": {
+      "parsed_rows": 337,
+      "nonblank_rows": 337,
+      "rows_with_field_id": 55
+    },
+    "11_Redcedar_dead_sampled.csv": {
+      "parsed_rows": 89,
+      "nonblank_rows": 86,
+      "rows_with_field_id": 86
+    },
+    "12_Redcedar_dead_selected.csv": {
+      "parsed_rows": 27,
+      "nonblank_rows": 23,
+      "rows_with_field_id": 23
+    },
+    "13_Redcedar_live.csv": {
+      "parsed_rows": 43,
+      "nonblank_rows": 43
+    }
+  },
+  "gf2_source_rows": {
+    "10_Redcedar_dead_georeferenced.csv": {
+      "Longitude": "-124.1632",
+      "Latitude": "47.1316",
+      "Estuary": "Copalis River",
+      "FieldID": "GF2",
+      "TrunkSamp": "25-May-95",
+      "OtherWork": "Root sampled 31-May-1994",
+      "imageURL": "https://fortress.wa.gov/ecy/gisresources/shoreline_photos/yr1970/fullsize/GRA0677_021.jpg",
+      "Wetland": "Marsh  ",
+      "Comments": "Leaning riverward from bank in early 1990s. Fell into river between 1997 and 2000"
+    },
+    "11_Redcedar_dead_sampled.csv": {
+      "Longitude": "-124.1632",
+      "Latitude": "47.1316",
+      "Estuary": "Copalis River",
+      "FieldID": "GF2",
+      "TrunkSamp": "25-May-1995",
+      "OtherWork": "Root sampled 31-May-1994",
+      "Comments": "Leaning riverward from bank in early 1990s. Fell into river between 1997 and 2000"
+    },
+    "12_Redcedar_dead_selected.csv": {
+      "Longitude": "-124.1632",
+      "Latitude": "47.1316",
+      "CoordConf": "A",
+      "CoordBasis": "Leaning tree on bank, conspicuous on georeferenced airphotos",
+      "Estuary": "Copalis River",
+      "FieldID": "GF2",
+      "TrunkSamp": "25-May-1995",
+      "TrunkOutYr": "1675",
+      "RootSamp": "31-May-1994",
+      "RootBarkYr": "1699",
+      "RootTop": "-0.8",
+      "RootBot": "-1.2",
+      "RingCount": "255",
+      "InnerRing": "1368",
+      "BuriedSoil": "On 27-Jun-1997, observed in cleaned bank as sandy gray mud without organic horizon, but containing sawed root in growth position, with bark preserved on lower one-third of its exterior. Top of buried soil 1.0 m below tidal-marsh surface at top of cleaned bank (BA, CJu, JCM, JW, SB) ",
+      "RootObserv": "BA BB CJu GJ JCM JW SB",
+      "Comments": "Bark-bearing root sawed as UC-DC-3, one slice 12 cm thick, 31-May-1994 (GJ, BB). Trunk sampled as GF-2, tag 60 (recorded 27-Jun-1997 as tag 50), in three cores 25-May-1995, for pattern match with sawed root (GJ, BB). Earliest sampled ring 1368 in root GF2RTB. Trunk standing but leaning from river bank during both these visits and on 27-Jun-1997, when stratigraphy at sawed root observed (BA, CJu, JCM, JW, SB). Trunk fell into river in first few years thereafter. Sawed-root elevations were referenced both to modern tidal marsh above (depth 0.9-1.3 m) and to an estimate of local MHHW (0.8-1.2 m). The local estimate of MHHW was based on leveling to a high but ebbing tide on 11-Sep-1996 (predicted level at Aberdeen 0.3 m below MHHW there) measured near tree 789. The levels at GF2 and 789 were related by leveling 27-Jun-1997 with closure error 7 cm to a bench mark set 11-Sep-1996 beside tree 789 (BA, CJu). Notes for tree 789 describe a later cross-check, on 29-Dec-1997, of this Copalis MHHW. "
+    }
+  },
+  "reference_tree_crosswalk": [
+    {
+      "field_id": "760",
+      "source_row": {
+        "Longitude": "-123.9473",
+        "Latitude": "46.4235",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "760",
+        "Diam_cm": "206",
+        "RingCount": "265",
+        "PithYr": "",
+        "EarliestYr": "1722",
+        "LatestYr": "1986",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI760",
+          "start": 1722,
+          "end": 1986,
+          "count": 265,
+          "terminator": {
+            "line": 589,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1722,
+      "archived_union_last": 1986,
+      "archived_unique_years": 265,
+      "archived_span_years": 265,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "762",
+      "source_row": {
+        "Longitude": "-123.9415",
+        "Latitude": "46.4230",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "762",
+        "Diam_cm": "213",
+        "RingCount": "346",
+        "PithYr": "",
+        "EarliestYr": "1411",
+        "LatestYr": "1756",
+        "FieldWork": "9-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "Logged dead in 1987",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI762",
+          "start": 1411,
+          "end": 1756,
+          "count": 346,
+          "terminator": {
+            "line": 684,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1411,
+      "archived_union_last": 1756,
+      "archived_unique_years": 346,
+      "archived_span_years": 346,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "761",
+      "source_row": {
+        "Longitude": "-123.9411",
+        "Latitude": "46.4226",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "761",
+        "Diam_cm": "312",
+        "RingCount": "586",
+        "PithYr": "",
+        "EarliestYr": "1289",
+        "LatestYr": "1874",
+        "FieldWork": "9-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "Logged dead in 1987",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI761",
+          "start": 1289,
+          "end": 1874,
+          "count": 586,
+          "terminator": {
+            "line": 649,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1289,
+      "archived_union_last": 1874,
+      "archived_unique_years": 586,
+      "archived_span_years": 586,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "755",
+      "source_row": {
+        "Longitude": "-123.9417",
+        "Latitude": "46.4226",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "755",
+        "Diam_cm": "264",
+        "RingCount": "449",
+        "PithYr": "",
+        "EarliestYr": "1425",
+        "LatestYr": "1873",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "Logged dead in 1987",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI755",
+          "start": 1425,
+          "end": 1873,
+          "count": 449,
+          "terminator": {
+            "line": 393,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1425,
+      "archived_union_last": 1873,
+      "archived_unique_years": 449,
+      "archived_span_years": 449,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "754",
+      "source_row": {
+        "Longitude": "-123.9416",
+        "Latitude": "46.4223",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "754",
+        "Diam_cm": "366",
+        "RingCount": "535",
+        "PithYr": "",
+        "EarliestYr": "1452",
+        "LatestYr": "1986",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI754",
+          "start": 1452,
+          "end": 1986,
+          "count": 535,
+          "terminator": {
+            "line": 347,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1452,
+      "archived_union_last": 1986,
+      "archived_unique_years": 535,
+      "archived_span_years": 535,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "768",
+      "source_row": {
+        "Longitude": "-123.9456",
+        "Latitude": "46.4221",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "768",
+        "Diam_cm": "280",
+        "RingCount": "459",
+        "PithYr": "",
+        "EarliestYr": "1528",
+        "LatestYr": "1986",
+        "FieldWork": "14-Aug-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LIDY768",
+          "start": 1528,
+          "end": 1986,
+          "count": 459,
+          "terminator": {
+            "line": 892,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1528,
+      "archived_union_last": 1986,
+      "archived_unique_years": 459,
+      "archived_span_years": 459,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "767",
+      "source_row": {
+        "Longitude": "-123.9453",
+        "Latitude": "46.4218",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "767",
+        "Diam_cm": "200",
+        "RingCount": "882",
+        "PithYr": "",
+        "EarliestYr": "1036",
+        "LatestYr": "1917",
+        "FieldWork": "14-Aug-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "Sampled fallen, long dead. Rings measured along two lines: 767I, 1036-1535; 767O, 1544-1917",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI767I",
+          "start": 1036,
+          "end": 1535,
+          "count": 500,
+          "terminator": {
+            "line": 807,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI767O",
+          "start": 1544,
+          "end": 1917,
+          "count": 374,
+          "terminator": {
+            "line": 845,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1036,
+      "archived_union_last": 1917,
+      "archived_unique_years": 874,
+      "archived_span_years": 882,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": false
+    },
+    {
+      "field_id": "769",
+      "source_row": {
+        "Longitude": "-123.9462",
+        "Latitude": "46.4214",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "769",
+        "Diam_cm": "206",
+        "RingCount": "353",
+        "PithYr": "",
+        "EarliestYr": "1634",
+        "LatestYr": "1986",
+        "FieldWork": "14-Aug-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI769",
+          "start": 1634,
+          "end": 1986,
+          "count": 353,
+          "terminator": {
+            "line": 928,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1634,
+      "archived_union_last": 1986,
+      "archived_unique_years": 353,
+      "archived_span_years": 353,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "766",
+      "source_row": {
+        "Longitude": "-123.9451",
+        "Latitude": "46.4214",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "766",
+        "Diam_cm": "270",
+        "RingCount": "637",
+        "PithYr": "",
+        "EarliestYr": "1350",
+        "LatestYr": "1986",
+        "FieldWork": "14-Aug-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "Rings measured along two lines: 766I, 1350-1582; 1755O, 1515-1986 ",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI766I",
+          "start": 1350,
+          "end": 1582,
+          "count": 233,
+          "terminator": {
+            "line": 708,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        },
+        {
+          "id": "LI766O",
+          "start": 1515,
+          "end": 1986,
+          "count": 472,
+          "terminator": {
+            "line": 756,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1350,
+      "archived_union_last": 1986,
+      "archived_unique_years": 637,
+      "archived_span_years": 637,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "702",
+      "source_row": {
+        "Longitude": "-123.9446",
+        "Latitude": "46.4211",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "702",
+        "Diam_cm": "270",
+        "RingCount": "379",
+        "PithYr": "",
+        "EarliestYr": "991",
+        "LatestYr": "1369",
+        "FieldWork": "14-Aug-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "Stump, long dead",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI702O",
+          "start": 991,
+          "end": 1368,
+          "count": 378,
+          "terminator": {
+            "line": 108,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 991,
+      "archived_union_last": 1368,
+      "archived_unique_years": 378,
+      "archived_span_years": 378,
+      "source_first_matches": true,
+      "source_last_matches": false,
+      "source_count_matches_union": false
+    },
+    {
+      "field_id": "701",
+      "source_row": {
+        "Longitude": "-123.9444",
+        "Latitude": "46.4208",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "701",
+        "Diam_cm": "226",
+        "RingCount": "664",
+        "PithYr": "",
+        "EarliestYr": "1323",
+        "LatestYr": "1986",
+        "FieldWork": "14-Aug-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LIDY701",
+          "start": 1323,
+          "end": 1986,
+          "count": 664,
+          "terminator": {
+            "line": 70,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1323,
+      "archived_union_last": 1986,
+      "archived_unique_years": 664,
+      "archived_span_years": 664,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "753",
+      "source_row": {
+        "Longitude": "-123.9517",
+        "Latitude": "46.4196",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "753",
+        "Diam_cm": "234",
+        "RingCount": "570",
+        "PithYr": "",
+        "EarliestYr": "1417",
+        "LatestYr": "1986",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI753",
+          "start": 1417,
+          "end": 1986,
+          "count": 570,
+          "terminator": {
+            "line": 293,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1417,
+      "archived_union_last": 1986,
+      "archived_unique_years": 570,
+      "archived_span_years": 570,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "751",
+      "source_row": {
+        "Longitude": "-123.9507",
+        "Latitude": "46.4195",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "751",
+        "Diam_cm": "249",
+        "RingCount": "408",
+        "PithYr": "",
+        "EarliestYr": "1486",
+        "LatestYr": "1893",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI751",
+          "start": 1486,
+          "end": 1893,
+          "count": 408,
+          "terminator": {
+            "line": 204,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1486,
+      "archived_union_last": 1893,
+      "archived_unique_years": 408,
+      "archived_span_years": 408,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "745",
+      "source_row": {
+        "Longitude": "-123.9513",
+        "Latitude": "46.4193",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "745",
+        "Diam_cm": "315",
+        "RingCount": "526",
+        "PithYr": "",
+        "EarliestYr": "1408",
+        "LatestYr": "1933",
+        "FieldWork": "15-May-1987 (BA DY)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI745",
+          "start": 1408,
+          "end": 1933,
+          "count": 526,
+          "terminator": {
+            "line": 162,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1408,
+      "archived_union_last": 1933,
+      "archived_unique_years": 526,
+      "archived_span_years": 526,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "757",
+      "source_row": {
+        "Longitude": "-123.9493",
+        "Latitude": "46.4192",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "757",
+        "Diam_cm": "224",
+        "RingCount": "397",
+        "PithYr": "",
+        "EarliestYr": "1515",
+        "LatestYr": "1911",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI757",
+          "start": 1515,
+          "end": 1911,
+          "count": 397,
+          "terminator": {
+            "line": 485,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1515,
+      "archived_union_last": 1911,
+      "archived_unique_years": 397,
+      "archived_span_years": 397,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "756",
+      "source_row": {
+        "Longitude": "-123.9503",
+        "Latitude": "46.4191",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "756",
+        "Diam_cm": "236",
+        "RingCount": "500",
+        "PithYr": "",
+        "EarliestYr": "1424",
+        "LatestYr": "1923",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI756",
+          "start": 1424,
+          "end": 1923,
+          "count": 500,
+          "terminator": {
+            "line": 444,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1424,
+      "archived_union_last": 1923,
+      "archived_unique_years": 500,
+      "archived_span_years": 500,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "752",
+      "source_row": {
+        "Longitude": "-123.9512",
+        "Latitude": "46.4190",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "752",
+        "Diam_cm": "254",
+        "RingCount": "307",
+        "PithYr": "",
+        "EarliestYr": "1680",
+        "LatestYr": "1986",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI752",
+          "start": 1680,
+          "end": 1986,
+          "count": 307,
+          "terminator": {
+            "line": 235,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1680,
+      "archived_union_last": 1986,
+      "archived_unique_years": 307,
+      "archived_span_years": 307,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "759",
+      "source_row": {
+        "Longitude": "-123.9509",
+        "Latitude": "46.4188",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "759",
+        "Diam_cm": "229",
+        "RingCount": "241",
+        "PithYr": "",
+        "EarliestYr": "1746",
+        "LatestYr": "1986",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI759",
+          "start": 1746,
+          "end": 1986,
+          "count": 241,
+          "terminator": {
+            "line": 562,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1746,
+      "archived_union_last": 1986,
+      "archived_unique_years": 241,
+      "archived_span_years": 241,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    },
+    {
+      "field_id": "758",
+      "source_row": {
+        "Longitude": "-123.9499",
+        "Latitude": "46.4187",
+        "Estuary": "Willapa Bay",
+        "Vicinity": "Long Island",
+        "Category": "Witness",
+        "TreeID": "758",
+        "Diam_cm": "323",
+        "RingCount": "504",
+        "PithYr": "",
+        "EarliestYr": "1419",
+        "LatestYr": "1922",
+        "FieldWork": "8-Jul-1987 (DY KB)",
+        "URL": "https://www.ncdc.noaa.gov/paleo-search/study/5382",
+        "Comments": "",
+        "": ""
+      },
+      "archived_series": [
+        {
+          "id": "LI758",
+          "start": 1419,
+          "end": 1922,
+          "count": 504,
+          "terminator": {
+            "line": 537,
+            "value": 999
+          },
+          "millimetres_per_integer": 0.01
+        }
+      ],
+      "archived_union_first": 1419,
+      "archived_union_last": 1922,
+      "archived_unique_years": 504,
+      "archived_span_years": 504,
+      "source_first_matches": true,
+      "source_last_matches": true,
+      "source_count_matches_union": true
+    }
+  ],
+  "reference_label_exceptions": [
+    "767",
+    "702"
+  ],
+  "limits": [
+    "Coordinates and dates are source reports, not new measurements.",
+    "Matching related tables is not independent confirmation.",
+    "Nineteen trees account for twenty-one measurement series.",
+    "Processing outputs, original field scans and current custody remain unverified."
+  ]
+}

@@ -54,6 +54,8 @@ The older field accounts support investigating a **regional** boulder-flood mech
 
 ## Avoid double-counting apparent agreement
 
+The [2022 Cascadia field-release audit](CASCADIA-FIELD-RELEASE.md) supplies GF2 root identifier UC-DC-3, collection dates, location and survey context, while retaining conflicting tag60/50. This advances source-level association beyond the earlier article paragraph; independent original-note/accession authentication remains missing. Its19 Long Island trees account for21 archived measurement series, with endpoint/count and comment-label discrepancies retained. The later compilation and earlier articles share fieldwork: more detail is not an independent date or new specimen confirmation.
+
 The [Cascadia archived-reference sensitivity](CASCADIA-ARCHIVED-REFERENCE-TEST.md) now uses three recovered processed Long Island outputs. Published relative placements rank first for21-24/27 dependent series under declared difference transforms, with all GF2 trunk radii retaining alternatives. One GF2A alternative has substantial reported reference counts, preventing a universal sparse-coverage explanation. This narrows claims of uniform method robustness without establishing replacement dates: original target processing, exact reference version and absolute calendar validation remain unresolved. Duplicate reference outputs, related radii and repeated transforms must not be counted as independent dating confirmations.
 
 | Apparent agreement | Shared input or dependence | What would provide a stronger check |
