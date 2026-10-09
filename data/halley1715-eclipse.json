@@ -1,0 +1,4285 @@
+{
+  "source_ids": [
+    "S282",
+    "S283",
+    "S284",
+    "S285",
+    "S286"
+  ],
+  "pdf_sha256": "a344be5d98d0206566d6a752fe5fefaed2ab88647ae5c2243bcd0b3c2a6a52bd",
+  "observation_ledger_sha256": "758cedee8587c7455bf39bdd0134296d2c0941b40ce2b0650b76a75c8efffd7a",
+  "astronomy_engine_version": "2.1.19",
+  "module_sha256": "5f3a17c0b14290d084eeb0d29b00b3139cd1703a8d30fa5eb141398a24719261",
+  "source_date_Julian": "1715-04-22",
+  "converted_date_Gregorian": "1715-05-03T00:00:00.000Z",
+  "observer": {
+    "latitude": 51.515,
+    "longitude": -0.11,
+    "height_m": 0,
+    "role": "Approximate Crane Court area; selected diagnostic coordinate, not measured historical site"
+  },
+  "delta_t_seconds": 10.325473482991535,
+  "delta_t_model": "Default Espenak-Meeus; historical rotation uncertainty not independently validated",
+  "model_kind": "Total",
+  "model_obscuration": 1.0,
+  "contacts": [
+    {
+      "contact": "partial_begin",
+      "model_UT_label": "1715-05-03T08:02:09.576Z",
+      "sun_altitude_deg": 31.401808807485125,
+      "model_apparent_local_time": "08:05:05.193",
+      "model_apparent_local_seconds": 29105.193271264117,
+      "source_apparent_local_seconds": 29160,
+      "model_minus_source_seconds": -54.80672873588264
+    },
+    {
+      "contact": "total_begin",
+      "model_UT_label": "1715-05-03T09:05:16.189Z",
+      "sun_altitude_deg": 40.441644210432536,
+      "model_apparent_local_time": "09:08:12.180",
+      "model_apparent_local_seconds": 32892.17999867525,
+      "source_apparent_local_seconds": 32943,
+      "model_minus_source_seconds": -50.820001324747864
+    },
+    {
+      "contact": "peak",
+      "model_UT_label": "1715-05-03T09:06:59.054Z",
+      "sun_altitude_deg": 40.67127430158815,
+      "model_apparent_local_time": "09:09:55.055",
+      "model_apparent_local_seconds": 32995.05510522254,
+      "source_apparent_local_seconds": null,
+      "model_minus_source_seconds": null
+    },
+    {
+      "contact": "total_end",
+      "model_UT_label": "1715-05-03T09:08:42.362Z",
+      "sun_altitude_deg": 40.90080832514834,
+      "model_apparent_local_time": "09:11:38.374",
+      "model_apparent_local_seconds": 33098.373684631006,
+      "source_apparent_local_seconds": 33146,
+      "model_minus_source_seconds": -47.626315368994256
+    },
+    {
+      "contact": "partial_end",
+      "model_UT_label": "1715-05-03T10:16:23.545Z",
+      "sun_altitude_deg": 48.81051591498519,
+      "model_apparent_local_time": "10:19:19.978",
+      "model_apparent_local_seconds": 37159.977578423415,
+      "source_apparent_local_seconds": null,
+      "model_minus_source_seconds": null
+    }
+  ],
+  "source_total_duration_s": 203,
+  "model_total_duration_s": 206.17279037833214,
+  "observer_variants": [
+    {
+      "latitude": 51.505,
+      "longitude": -0.13,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 206.09127930365503,
+      "total_begin_apparent_seconds": 32885.372976822706
+    },
+    {
+      "latitude": 51.505,
+      "longitude": -0.13,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 206.15061689168215,
+      "total_begin_apparent_seconds": 32885.33170653007
+    },
+    {
+      "latitude": 51.505,
+      "longitude": -0.11,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 205.21039995364845,
+      "total_begin_apparent_seconds": 32891.67033834568
+    },
+    {
+      "latitude": 51.505,
+      "longitude": -0.11,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 205.27066038921475,
+      "total_begin_apparent_seconds": 32891.628615389345
+    },
+    {
+      "latitude": 51.505,
+      "longitude": -0.09,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 204.3149197474122,
+      "total_begin_apparent_seconds": 32897.97558265235
+    },
+    {
+      "latitude": 51.505,
+      "longitude": -0.09,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 204.37611560337245,
+      "total_begin_apparent_seconds": 32897.93340199743
+    },
+    {
+      "latitude": 51.515,
+      "longitude": -0.13,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 207.0382642094046,
+      "total_begin_apparent_seconds": 32885.89048970847
+    },
+    {
+      "latitude": 51.515,
+      "longitude": -0.13,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 207.09663620218635,
+      "total_begin_apparent_seconds": 32885.84971106408
+    },
+    {
+      "latitude": 51.515,
+      "longitude": -0.11,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 206.17279037833214,
+      "total_begin_apparent_seconds": 32892.17999867525
+    },
+    {
+      "latitude": 51.515,
+      "longitude": -0.11,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 206.23207013122737,
+      "total_begin_apparent_seconds": 32892.13877616679
+    },
+    {
+      "latitude": 51.515,
+      "longitude": -0.09,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 205.29297469183803,
+      "total_begin_apparent_seconds": 32898.477262157125
+    },
+    {
+      "latitude": 51.515,
+      "longitude": -0.09,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 205.35317226313055,
+      "total_begin_apparent_seconds": 32898.435589493594
+    },
+    {
+      "latitude": 51.525,
+      "longitude": -0.13,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 207.969275303185,
+      "total_begin_apparent_seconds": 32886.41590544289
+    },
+    {
+      "latitude": 51.525,
+      "longitude": -0.13,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 208.0266967881471,
+      "total_begin_apparent_seconds": 32886.37561090398
+    },
+    {
+      "latitude": 51.525,
+      "longitude": -0.11,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 207.1189354173839,
+      "total_begin_apparent_seconds": 32892.69769512895
+    },
+    {
+      "latitude": 51.525,
+      "longitude": -0.11,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 207.17724957503378,
+      "total_begin_apparent_seconds": 32892.656964263944
+    },
+    {
+      "latitude": 51.525,
+      "longitude": -0.09,
+      "height_m": 0,
+      "kind": "Total",
+      "total_duration_s": 206.25450513325632,
+      "total_begin_apparent_seconds": 32898.98711610243
+    },
+    {
+      "latitude": 51.525,
+      "longitude": -0.09,
+      "height_m": 50,
+      "kind": "Total",
+      "total_duration_s": 206.3137257937342,
+      "total_begin_apparent_seconds": 32898.945940119076
+    }
+  ],
+  "delta_t_stress_variants": [
+    {
+      "delta_t_offset_s": -60,
+      "kind": "Total",
+      "peak_UT_label": "1715-05-03T09:08:12.369Z",
+      "total_duration_s": 194.02829152531922,
+      "model_minus_source_begin_s": 28.712065133164288,
+      "model_minus_source_end_s": 19.76004031105549
+    },
+    {
+      "delta_t_offset_s": -30,
+      "kind": "Total",
+      "peak_UT_label": "1715-05-03T09:07:35.700Z",
+      "total_duration_s": 200.41250679641962,
+      "model_minus_source_begin_s": -11.221494270837866,
+      "model_minus_source_end_s": -13.788665917170874
+    },
+    {
+      "delta_t_offset_s": 0,
+      "kind": "Total",
+      "peak_UT_label": "1715-05-03T09:06:59.054Z",
+      "total_duration_s": 206.17279037833214,
+      "model_minus_source_begin_s": -50.820001324747864,
+      "model_minus_source_end_s": -47.626315368994256
+    },
+    {
+      "delta_t_offset_s": 30,
+      "kind": "Total",
+      "peak_UT_label": "1715-05-03T09:06:22.441Z",
+      "total_duration_s": 211.36921914294362,
+      "model_minus_source_begin_s": -90.11365914228372,
+      "model_minus_source_end_s": -81.72302810513065
+    },
+    {
+      "delta_t_offset_s": 60,
+      "kind": "Total",
+      "peak_UT_label": "1715-05-03T09:05:45.852Z",
+      "total_duration_s": 216.05697786435485,
+      "model_minus_source_begin_s": -129.12977120523283,
+      "model_minus_source_end_s": -116.05091716913739
+    }
+  ],
+  "integer_year_shift_range": [
+    -200,
+    200
+  ],
+  "integer_year_shifts": [
+    {
+      "year_offset": -200,
+      "source_Julian_year": 1515,
+      "converted_day": "1515-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1517-01-02T14:41:21.344Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -199,
+      "source_Julian_year": 1516,
+      "converted_day": "1516-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1517-01-02T14:41:21.344Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -198,
+      "source_Julian_year": 1517,
+      "converted_day": "1517-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1518-06-18T05:13:13.262Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -197,
+      "source_Julian_year": 1518,
+      "converted_day": "1518-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1518-06-18T05:13:13.262Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -196,
+      "source_Julian_year": 1519,
+      "converted_day": "1519-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1519-11-02T15:31:36.685Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -195,
+      "source_Julian_year": 1520,
+      "converted_day": "1520-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1520-10-21T16:16:38.974Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -194,
+      "source_Julian_year": 1521,
+      "converted_day": "1521-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1525-02-02T17:07:36.832Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -193,
+      "source_Julian_year": 1522,
+      "converted_day": "1522-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1525-02-02T17:07:36.832Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -192,
+      "source_Julian_year": 1523,
+      "converted_day": "1523-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1525-02-02T17:07:36.832Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -191,
+      "source_Julian_year": 1524,
+      "converted_day": "1524-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1525-02-02T17:07:36.832Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -190,
+      "source_Julian_year": 1525,
+      "converted_day": "1525-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1530-04-08T05:34:21.811Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -189,
+      "source_Julian_year": 1526,
+      "converted_day": "1526-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1530-04-08T05:34:21.811Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -188,
+      "source_Julian_year": 1527,
+      "converted_day": "1527-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1530-04-08T05:34:21.811Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -187,
+      "source_Julian_year": 1528,
+      "converted_day": "1528-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1530-04-08T05:34:21.811Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -186,
+      "source_Julian_year": 1529,
+      "converted_day": "1529-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1530-04-08T05:34:21.811Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -185,
+      "source_Julian_year": 1530,
+      "converted_day": "1530-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1532-09-09T11:42:53.029Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -184,
+      "source_Julian_year": 1531,
+      "converted_day": "1531-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1532-09-09T11:42:53.029Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -183,
+      "source_Julian_year": 1532,
+      "converted_day": "1532-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1532-09-09T11:42:53.029Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -182,
+      "source_Julian_year": 1533,
+      "converted_day": "1533-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1534-01-24T12:09:11.768Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -181,
+      "source_Julian_year": 1534,
+      "converted_day": "1534-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1536-06-28T13:01:14.650Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -180,
+      "source_Julian_year": 1535,
+      "converted_day": "1535-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1536-06-28T13:01:14.650Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -179,
+      "source_Julian_year": 1536,
+      "converted_day": "1536-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1536-06-28T13:01:14.650Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -178,
+      "source_Julian_year": 1537,
+      "converted_day": "1537-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1539-04-28T15:26:46.414Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -177,
+      "source_Julian_year": 1538,
+      "converted_day": "1538-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1539-04-28T15:26:46.414Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -176,
+      "source_Julian_year": 1539,
+      "converted_day": "1539-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1540-04-17T04:42:51.603Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -175,
+      "source_Julian_year": 1540,
+      "converted_day": "1540-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1541-08-31T11:49:50.869Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -174,
+      "source_Julian_year": 1541,
+      "converted_day": "1541-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1541-08-31T11:49:50.869Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -173,
+      "source_Julian_year": 1542,
+      "converted_day": "1542-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1544-02-03T08:38:23.239Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -172,
+      "source_Julian_year": 1543,
+      "converted_day": "1543-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1544-02-03T08:38:23.239Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -171,
+      "source_Julian_year": 1544,
+      "converted_day": "1544-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1545-06-19T07:38:01.431Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -170,
+      "source_Julian_year": 1545,
+      "converted_day": "1545-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1545-06-19T07:38:01.431Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -169,
+      "source_Julian_year": 1546,
+      "converted_day": "1546-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1547-11-22T13:00:42.864Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -168,
+      "source_Julian_year": 1547,
+      "converted_day": "1547-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1547-11-22T13:00:42.864Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -167,
+      "source_Julian_year": 1548,
+      "converted_day": "1548-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1551-09-10T12:41:00.587Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -166,
+      "source_Julian_year": 1549,
+      "converted_day": "1549-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1551-09-10T12:41:00.587Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -165,
+      "source_Julian_year": 1550,
+      "converted_day": "1550-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1551-09-10T12:41:00.587Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -164,
+      "source_Julian_year": 1551,
+      "converted_day": "1551-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1551-09-10T12:41:00.587Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -163,
+      "source_Julian_year": 1552,
+      "converted_day": "1552-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1554-07-09T20:04:30.758Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -162,
+      "source_Julian_year": 1553,
+      "converted_day": "1553-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1554-07-09T20:04:30.758Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -161,
+      "source_Julian_year": 1554,
+      "converted_day": "1554-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1554-07-09T20:04:30.758Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -160,
+      "source_Julian_year": 1555,
+      "converted_day": "1555-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1558-04-28T13:19:01.826Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -159,
+      "source_Julian_year": 1556,
+      "converted_day": "1556-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1558-04-28T13:19:01.826Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -158,
+      "source_Julian_year": 1557,
+      "converted_day": "1557-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1558-04-28T13:19:01.826Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -157,
+      "source_Julian_year": 1558,
+      "converted_day": "1558-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1560-08-31T11:47:58.739Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -156,
+      "source_Julian_year": 1559,
+      "converted_day": "1559-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1560-08-31T11:47:58.739Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -155,
+      "source_Julian_year": 1560,
+      "converted_day": "1560-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1560-08-31T11:47:58.739Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -154,
+      "source_Julian_year": 1561,
+      "converted_day": "1561-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1563-06-30T16:25:33.419Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -153,
+      "source_Julian_year": 1562,
+      "converted_day": "1562-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1563-06-30T16:25:33.419Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -152,
+      "source_Julian_year": 1563,
+      "converted_day": "1563-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1563-06-30T16:25:33.419Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -151,
+      "source_Julian_year": 1564,
+      "converted_day": "1564-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1567-04-19T11:06:52.261Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -150,
+      "source_Julian_year": 1565,
+      "converted_day": "1565-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1567-04-19T11:06:52.261Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -149,
+      "source_Julian_year": 1566,
+      "converted_day": "1566-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1567-04-19T11:06:52.261Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -148,
+      "source_Julian_year": 1567,
+      "converted_day": "1567-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1571-02-04T17:25:16.938Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -147,
+      "source_Julian_year": 1568,
+      "converted_day": "1568-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1571-02-04T17:25:16.938Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -146,
+      "source_Julian_year": 1569,
+      "converted_day": "1569-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1571-02-04T17:25:16.938Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -145,
+      "source_Julian_year": 1570,
+      "converted_day": "1570-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1571-02-04T17:25:16.938Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -144,
+      "source_Julian_year": 1571,
+      "converted_day": "1571-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1573-07-09T05:43:29.781Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -143,
+      "source_Julian_year": 1572,
+      "converted_day": "1572-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1573-07-09T05:43:29.781Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -142,
+      "source_Julian_year": 1573,
+      "converted_day": "1573-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1573-07-09T05:43:29.781Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -141,
+      "source_Julian_year": 1574,
+      "converted_day": "1574-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1574-11-23T15:40:58.560Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -140,
+      "source_Julian_year": 1575,
+      "converted_day": "1575-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1579-03-07T17:15:19.306Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -139,
+      "source_Julian_year": 1576,
+      "converted_day": "1576-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1579-03-07T17:15:19.306Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -138,
+      "source_Julian_year": 1577,
+      "converted_day": "1577-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1579-03-07T17:15:19.306Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -137,
+      "source_Julian_year": 1578,
+      "converted_day": "1578-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1579-03-07T17:15:19.306Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -136,
+      "source_Julian_year": 1579,
+      "converted_day": "1579-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1582-06-30T04:19:01.868Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -135,
+      "source_Julian_year": 1580,
+      "converted_day": "1580-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1582-06-30T04:19:01.868Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -134,
+      "source_Julian_year": 1581,
+      "converted_day": "1581-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1582-06-30T04:19:01.868Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -133,
+      "source_Julian_year": 1582,
+      "converted_day": "1582-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1582-06-30T04:19:01.868Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -132,
+      "source_Julian_year": 1583,
+      "converted_day": "1583-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1584-05-10T04:43:37.589Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -131,
+      "source_Julian_year": 1584,
+      "converted_day": "1584-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1584-05-10T04:43:37.589Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -130,
+      "source_Julian_year": 1585,
+      "converted_day": "1585-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1588-02-26T13:18:29.477Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -129,
+      "source_Julian_year": 1586,
+      "converted_day": "1586-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1588-02-26T13:18:29.477Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -128,
+      "source_Julian_year": 1587,
+      "converted_day": "1587-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1588-02-26T13:18:29.477Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -127,
+      "source_Julian_year": 1588,
+      "converted_day": "1588-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1590-07-31T06:53:46.735Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -126,
+      "source_Julian_year": 1589,
+      "converted_day": "1589-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1590-07-31T06:53:46.735Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -125,
+      "source_Julian_year": 1590,
+      "converted_day": "1590-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1590-07-31T06:53:46.735Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -124,
+      "source_Julian_year": 1591,
+      "converted_day": "1591-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1591-07-20T14:42:59.504Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -123,
+      "source_Julian_year": 1592,
+      "converted_day": "1592-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1593-05-30T13:47:52.791Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -122,
+      "source_Julian_year": 1593,
+      "converted_day": "1593-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1593-05-30T13:47:52.791Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -121,
+      "source_Julian_year": 1594,
+      "converted_day": "1594-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1595-10-03T11:49:40.255Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -120,
+      "source_Julian_year": 1595,
+      "converted_day": "1595-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1595-10-03T11:49:40.255Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -119,
+      "source_Julian_year": 1596,
+      "converted_day": "1596-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1598-03-07T10:21:35.241Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -118,
+      "source_Julian_year": 1597,
+      "converted_day": "1597-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1598-03-07T10:21:35.241Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -117,
+      "source_Julian_year": 1598,
+      "converted_day": "1598-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1600-07-10T12:23:46.220Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -116,
+      "source_Julian_year": 1599,
+      "converted_day": "1599-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1600-07-10T12:23:46.220Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -115,
+      "source_Julian_year": 1600,
+      "converted_day": "1600-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1600-07-10T12:23:46.220Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -114,
+      "source_Julian_year": 1601,
+      "converted_day": "1601-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1601-12-24T13:28:12.998Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -113,
+      "source_Julian_year": 1602,
+      "converted_day": "1602-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1605-10-12T12:47:03.919Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -112,
+      "source_Julian_year": 1603,
+      "converted_day": "1603-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1605-10-12T12:47:03.919Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -111,
+      "source_Julian_year": 1604,
+      "converted_day": "1604-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1605-10-12T12:47:03.919Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -110,
+      "source_Julian_year": 1605,
+      "converted_day": "1605-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1605-10-12T12:47:03.919Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -109,
+      "source_Julian_year": 1606,
+      "converted_day": "1606-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1607-02-26T08:43:03.706Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -108,
+      "source_Julian_year": 1607,
+      "converted_day": "1607-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1608-08-10T15:29:46.957Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -107,
+      "source_Julian_year": 1608,
+      "converted_day": "1608-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1608-08-10T15:29:46.957Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -106,
+      "source_Julian_year": 1609,
+      "converted_day": "1609-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1612-05-30T10:15:04.822Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -105,
+      "source_Julian_year": 1610,
+      "converted_day": "1610-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1612-05-30T10:15:04.822Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -104,
+      "source_Julian_year": 1611,
+      "converted_day": "1611-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1612-05-30T10:15:04.822Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -103,
+      "source_Julian_year": 1612,
+      "converted_day": "1612-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1612-05-30T10:15:04.823Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -102,
+      "source_Julian_year": 1613,
+      "converted_day": "1613-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1614-10-03T11:07:27.228Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -101,
+      "source_Julian_year": 1614,
+      "converted_day": "1614-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1614-10-03T11:07:27.228Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -100,
+      "source_Julian_year": 1615,
+      "converted_day": "1615-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1621-05-21T07:59:49.109Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -99,
+      "source_Julian_year": 1616,
+      "converted_day": "1616-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1621-05-21T07:59:49.109Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -98,
+      "source_Julian_year": 1617,
+      "converted_day": "1617-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1621-05-21T07:59:49.109Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -97,
+      "source_Julian_year": 1618,
+      "converted_day": "1618-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1621-05-21T07:59:49.109Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -96,
+      "source_Julian_year": 1619,
+      "converted_day": "1619-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1621-05-21T07:59:49.109Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -95,
+      "source_Julian_year": 1620,
+      "converted_day": "1620-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1621-05-21T07:59:49.109Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -94,
+      "source_Julian_year": 1621,
+      "converted_day": "1621-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1621-05-21T07:59:49.109Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -93,
+      "source_Julian_year": 1622,
+      "converted_day": "1622-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1628-12-25T16:08:44.245Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -92,
+      "source_Julian_year": 1623,
+      "converted_day": "1623-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1628-12-25T16:08:44.245Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -91,
+      "source_Julian_year": 1624,
+      "converted_day": "1624-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1628-12-25T16:08:44.245Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -90,
+      "source_Julian_year": 1625,
+      "converted_day": "1625-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1628-12-25T16:08:44.245Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -89,
+      "source_Julian_year": 1626,
+      "converted_day": "1626-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1628-12-25T16:08:44.245Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -88,
+      "source_Julian_year": 1627,
+      "converted_day": "1627-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1628-12-25T16:08:44.245Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -87,
+      "source_Julian_year": 1628,
+      "converted_day": "1628-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1628-12-25T16:08:44.245Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -86,
+      "source_Julian_year": 1629,
+      "converted_day": "1629-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1630-06-10T18:58:32.756Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -85,
+      "source_Julian_year": 1630,
+      "converted_day": "1630-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1630-06-10T18:58:32.756Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -84,
+      "source_Julian_year": 1631,
+      "converted_day": "1631-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1633-04-08T16:08:48.051Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -83,
+      "source_Julian_year": 1632,
+      "converted_day": "1632-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1633-04-08T16:08:48.051Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -82,
+      "source_Julian_year": 1633,
+      "converted_day": "1633-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1635-08-12T18:47:37.505Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -81,
+      "source_Julian_year": 1634,
+      "converted_day": "1634-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1635-08-12T18:47:37.505Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -80,
+      "source_Julian_year": 1635,
+      "converted_day": "1635-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1635-08-12T18:47:37.505Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -79,
+      "source_Julian_year": 1636,
+      "converted_day": "1636-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1639-06-01T17:06:00.342Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -78,
+      "source_Julian_year": 1637,
+      "converted_day": "1637-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1639-06-01T17:06:00.342Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -77,
+      "source_Julian_year": 1638,
+      "converted_day": "1638-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1639-06-01T17:06:00.342Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -76,
+      "source_Julian_year": 1639,
+      "converted_day": "1639-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1639-06-01T17:06:00.342Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -75,
+      "source_Julian_year": 1640,
+      "converted_day": "1640-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1645-08-21T10:59:18.156Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -74,
+      "source_Julian_year": 1641,
+      "converted_day": "1641-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1645-08-21T10:59:18.156Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -73,
+      "source_Julian_year": 1642,
+      "converted_day": "1642-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1645-08-21T10:59:18.156Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -72,
+      "source_Julian_year": 1643,
+      "converted_day": "1643-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1645-08-21T10:59:18.156Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -71,
+      "source_Julian_year": 1644,
+      "converted_day": "1644-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1645-08-21T10:59:18.156Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -70,
+      "source_Julian_year": 1645,
+      "converted_day": "1645-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1645-08-21T10:59:18.156Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -69,
+      "source_Julian_year": 1646,
+      "converted_day": "1646-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1649-06-10T05:56:21.400Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -68,
+      "source_Julian_year": 1647,
+      "converted_day": "1647-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1649-06-10T05:56:21.400Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -67,
+      "source_Julian_year": 1648,
+      "converted_day": "1648-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1649-06-10T05:56:21.400Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -66,
+      "source_Julian_year": 1649,
+      "converted_day": "1649-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1649-06-10T05:56:21.400Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -65,
+      "source_Julian_year": 1650,
+      "converted_day": "1650-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1652-04-08T10:32:20.744Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -64,
+      "source_Julian_year": 1651,
+      "converted_day": "1651-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1652-04-08T10:32:20.744Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -63,
+      "source_Julian_year": 1652,
+      "converted_day": "1652-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1654-08-12T09:05:33.226Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -62,
+      "source_Julian_year": 1653,
+      "converted_day": "1653-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1654-08-12T09:05:33.226Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -61,
+      "source_Julian_year": 1654,
+      "converted_day": "1654-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1654-08-12T09:05:33.226Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -60,
+      "source_Julian_year": 1655,
+      "converted_day": "1655-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1656-01-26T13:49:59.179Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -59,
+      "source_Julian_year": 1656,
+      "converted_day": "1656-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1659-11-14T14:39:06.140Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -58,
+      "source_Julian_year": 1657,
+      "converted_day": "1657-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1659-11-14T14:39:06.140Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -57,
+      "source_Julian_year": 1658,
+      "converted_day": "1658-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1659-11-14T14:39:06.140Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -56,
+      "source_Julian_year": 1659,
+      "converted_day": "1659-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1659-11-14T14:39:06.140Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -55,
+      "source_Julian_year": 1660,
+      "converted_day": "1660-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1661-03-30T09:44:31.871Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -54,
+      "source_Julian_year": 1661,
+      "converted_day": "1661-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1663-09-01T19:32:53.433Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -53,
+      "source_Julian_year": 1662,
+      "converted_day": "1662-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1663-09-01T19:32:53.433Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -52,
+      "source_Julian_year": 1663,
+      "converted_day": "1663-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1663-09-01T19:32:53.433Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -51,
+      "source_Julian_year": 1664,
+      "converted_day": "1664-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1666-07-02T06:37:38.259Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -50,
+      "source_Julian_year": 1665,
+      "converted_day": "1665-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1666-07-02T06:37:38.259Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -49,
+      "source_Julian_year": 1666,
+      "converted_day": "1666-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1666-07-02T06:37:38.259Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -48,
+      "source_Julian_year": 1667,
+      "converted_day": "1667-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1668-11-04T12:00:51.125Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -47,
+      "source_Julian_year": 1668,
+      "converted_day": "1668-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1668-11-04T12:00:51.125Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -46,
+      "source_Julian_year": 1669,
+      "converted_day": "1669-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1670-04-19T19:43:53.935Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -45,
+      "source_Julian_year": 1670,
+      "converted_day": "1670-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1672-08-22T18:04:34.779Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -44,
+      "source_Julian_year": 1671,
+      "converted_day": "1671-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1672-08-22T18:04:34.779Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -43,
+      "source_Julian_year": 1672,
+      "converted_day": "1672-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1672-08-22T18:04:34.779Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -42,
+      "source_Julian_year": 1673,
+      "converted_day": "1673-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1675-06-23T04:27:23.540Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -41,
+      "source_Julian_year": 1674,
+      "converted_day": "1674-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1675-06-23T04:27:23.540Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -40,
+      "source_Julian_year": 1675,
+      "converted_day": "1675-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1675-06-23T04:27:23.540Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -39,
+      "source_Julian_year": 1676,
+      "converted_day": "1676-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1676-06-11T08:50:17.841Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -38,
+      "source_Julian_year": 1677,
+      "converted_day": "1677-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1679-04-10T19:16:35.146Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -37,
+      "source_Julian_year": 1678,
+      "converted_day": "1678-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1679-04-10T19:16:35.146Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -36,
+      "source_Julian_year": 1679,
+      "converted_day": "1679-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1682-09-01T17:22:57.258Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -35,
+      "source_Julian_year": 1680,
+      "converted_day": "1680-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1682-09-01T17:22:57.258Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -34,
+      "source_Julian_year": 1681,
+      "converted_day": "1681-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1682-09-01T17:22:57.258Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -33,
+      "source_Julian_year": 1682,
+      "converted_day": "1682-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1682-09-01T17:22:57.258Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -32,
+      "source_Julian_year": 1683,
+      "converted_day": "1683-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1684-07-12T15:26:40.890Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -31,
+      "source_Julian_year": 1684,
+      "converted_day": "1684-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1684-07-12T15:26:40.890Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -30,
+      "source_Julian_year": 1685,
+      "converted_day": "1685-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1685-07-01T21:02:06.387Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -29,
+      "source_Julian_year": 1686,
+      "converted_day": "1686-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1687-05-11T13:35:35.808Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -28,
+      "source_Julian_year": 1687,
+      "converted_day": "1687-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1687-05-11T13:35:35.808Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -27,
+      "source_Julian_year": 1688,
+      "converted_day": "1688-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1689-09-13T15:56:42.631Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -26,
+      "source_Julian_year": 1689,
+      "converted_day": "1689-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1689-09-13T15:56:42.631Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -25,
+      "source_Julian_year": 1690,
+      "converted_day": "1690-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1693-07-03T12:40:06.903Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -24,
+      "source_Julian_year": 1691,
+      "converted_day": "1691-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1693-07-03T12:40:06.903Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -23,
+      "source_Julian_year": 1692,
+      "converted_day": "1692-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1693-07-03T12:40:06.903Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -22,
+      "source_Julian_year": 1693,
+      "converted_day": "1693-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1693-07-03T12:40:06.903Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -21,
+      "source_Julian_year": 1694,
+      "converted_day": "1694-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1694-06-22T17:02:29.802Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -20,
+      "source_Julian_year": 1695,
+      "converted_day": "1695-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1699-09-23T09:07:55.539Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -19,
+      "source_Julian_year": 1696,
+      "converted_day": "1696-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1699-09-23T09:07:55.539Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -18,
+      "source_Julian_year": 1697,
+      "converted_day": "1697-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1699-09-23T09:07:55.539Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -17,
+      "source_Julian_year": 1698,
+      "converted_day": "1698-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1699-09-23T09:07:55.539Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -16,
+      "source_Julian_year": 1699,
+      "converted_day": "1699-05-02T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1699-09-23T09:07:55.539Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -15,
+      "source_Julian_year": 1700,
+      "converted_day": "1700-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1703-12-08T16:18:16.525Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -14,
+      "source_Julian_year": 1701,
+      "converted_day": "1701-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1703-12-08T16:18:16.525Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -13,
+      "source_Julian_year": 1702,
+      "converted_day": "1702-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1703-12-08T16:18:16.525Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -12,
+      "source_Julian_year": 1703,
+      "converted_day": "1703-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1703-12-08T16:18:16.525Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -11,
+      "source_Julian_year": 1704,
+      "converted_day": "1704-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1706-05-12T09:19:39.631Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -10,
+      "source_Julian_year": 1705,
+      "converted_day": "1705-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1706-05-12T09:19:39.631Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -9,
+      "source_Julian_year": 1706,
+      "converted_day": "1706-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1706-05-12T09:19:39.631Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -8,
+      "source_Julian_year": 1707,
+      "converted_day": "1707-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1708-09-14T07:28:08.915Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -7,
+      "source_Julian_year": 1708,
+      "converted_day": "1708-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1708-09-14T07:28:08.915Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -6,
+      "source_Julian_year": 1709,
+      "converted_day": "1709-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1710-02-28T13:04:52.700Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -5,
+      "source_Julian_year": 1710,
+      "converted_day": "1710-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1711-07-15T19:58:02.663Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -4,
+      "source_Julian_year": 1711,
+      "converted_day": "1711-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1711-07-15T19:58:02.663Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -3,
+      "source_Julian_year": 1712,
+      "converted_day": "1712-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1715-05-03T09:06:59.054Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -2,
+      "source_Julian_year": 1713,
+      "converted_day": "1713-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1715-05-03T09:06:59.054Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": -1,
+      "source_Julian_year": 1714,
+      "converted_day": "1714-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1715-05-03T09:06:59.054Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 0,
+      "source_Julian_year": 1715,
+      "converted_day": "1715-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1715-05-03T09:06:59.054Z",
+      "eclipse_on_converted_day": true,
+      "kind_on_day": "Total",
+      "sun_altitude_at_peak_deg": 40.67127430158815,
+      "total_duration_s": 206.17279037833214
+    },
+    {
+      "year_offset": 1,
+      "source_Julian_year": 1716,
+      "converted_day": "1716-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1718-03-02T06:49:15.628Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 2,
+      "source_Julian_year": 1717,
+      "converted_day": "1717-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1718-03-02T06:49:15.628Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 3,
+      "source_Julian_year": 1718,
+      "converted_day": "1718-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1721-07-24T07:45:25.041Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 4,
+      "source_Julian_year": 1719,
+      "converted_day": "1719-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1721-07-24T07:45:25.041Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 5,
+      "source_Julian_year": 1720,
+      "converted_day": "1720-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1721-07-24T07:45:25.041Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 6,
+      "source_Julian_year": 1721,
+      "converted_day": "1721-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1721-07-24T07:45:25.041Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 7,
+      "source_Julian_year": 1722,
+      "converted_day": "1722-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1722-12-08T14:30:14.049Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 8,
+      "source_Julian_year": 1723,
+      "converted_day": "1723-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1724-05-22T18:33:53.984Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 9,
+      "source_Julian_year": 1724,
+      "converted_day": "1724-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1724-05-22T18:33:53.984Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 10,
+      "source_Julian_year": 1725,
+      "converted_day": "1725-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1726-09-25T17:06:49.407Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 11,
+      "source_Julian_year": 1726,
+      "converted_day": "1726-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1726-09-25T17:06:49.407Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 12,
+      "source_Julian_year": 1727,
+      "converted_day": "1727-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1727-09-15T06:53:14.434Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 13,
+      "source_Julian_year": 1728,
+      "converted_day": "1728-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1730-07-15T03:38:38.580Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 14,
+      "source_Julian_year": 1729,
+      "converted_day": "1729-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1730-07-15T03:38:38.580Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 15,
+      "source_Julian_year": 1730,
+      "converted_day": "1730-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1730-07-15T03:38:38.580Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 16,
+      "source_Julian_year": 1731,
+      "converted_day": "1731-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1732-12-17T09:11:22.656Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 17,
+      "source_Julian_year": 1732,
+      "converted_day": "1732-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1732-12-17T09:11:22.656Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 18,
+      "source_Julian_year": 1733,
+      "converted_day": "1733-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1733-05-13T18:34:04.703Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 19,
+      "source_Julian_year": 1734,
+      "converted_day": "1734-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1736-10-04T17:16:55.839Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 20,
+      "source_Julian_year": 1735,
+      "converted_day": "1735-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1736-10-04T17:16:55.839Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 21,
+      "source_Julian_year": 1736,
+      "converted_day": "1736-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1736-10-04T17:16:55.839Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 22,
+      "source_Julian_year": 1737,
+      "converted_day": "1737-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1738-08-15T11:02:43.230Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 23,
+      "source_Julian_year": 1738,
+      "converted_day": "1738-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1738-08-15T11:02:43.230Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 24,
+      "source_Julian_year": 1739,
+      "converted_day": "1739-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1739-08-04T16:35:22.286Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 25,
+      "source_Julian_year": 1740,
+      "converted_day": "1740-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 26,
+      "source_Julian_year": 1741,
+      "converted_day": "1741-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 27,
+      "source_Julian_year": 1742,
+      "converted_day": "1742-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 28,
+      "source_Julian_year": 1743,
+      "converted_day": "1743-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 29,
+      "source_Julian_year": 1744,
+      "converted_day": "1744-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 30,
+      "source_Julian_year": 1745,
+      "converted_day": "1745-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 31,
+      "source_Julian_year": 1746,
+      "converted_day": "1746-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 32,
+      "source_Julian_year": 1747,
+      "converted_day": "1747-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 33,
+      "source_Julian_year": 1748,
+      "converted_day": "1748-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1748-07-25T10:41:00.643Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 34,
+      "source_Julian_year": 1749,
+      "converted_day": "1749-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1750-01-08T09:01:39.818Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 35,
+      "source_Julian_year": 1750,
+      "converted_day": "1750-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1753-10-26T09:17:17.497Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 36,
+      "source_Julian_year": 1751,
+      "converted_day": "1751-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1753-10-26T09:17:17.497Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 37,
+      "source_Julian_year": 1752,
+      "converted_day": "1752-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1753-10-26T09:17:17.497Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 38,
+      "source_Julian_year": 1753,
+      "converted_day": "1753-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1753-10-26T09:17:17.497Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 39,
+      "source_Julian_year": 1754,
+      "converted_day": "1754-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1760-06-13T07:23:19.578Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 40,
+      "source_Julian_year": 1755,
+      "converted_day": "1755-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1760-06-13T07:23:19.578Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 41,
+      "source_Julian_year": 1756,
+      "converted_day": "1756-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1760-06-13T07:23:19.578Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 42,
+      "source_Julian_year": 1757,
+      "converted_day": "1757-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1760-06-13T07:23:19.578Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 43,
+      "source_Julian_year": 1758,
+      "converted_day": "1758-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1760-06-13T07:23:19.578Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 44,
+      "source_Julian_year": 1759,
+      "converted_day": "1759-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1760-06-13T07:23:19.578Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 45,
+      "source_Julian_year": 1760,
+      "converted_day": "1760-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1760-06-13T07:23:19.578Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 46,
+      "source_Julian_year": 1761,
+      "converted_day": "1761-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1762-10-17T07:31:34.642Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 47,
+      "source_Julian_year": 1762,
+      "converted_day": "1762-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1762-10-17T07:31:34.642Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 48,
+      "source_Julian_year": 1763,
+      "converted_day": "1763-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1764-04-01T10:33:46.755Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 49,
+      "source_Julian_year": 1764,
+      "converted_day": "1764-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1765-08-16T16:25:19.040Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 50,
+      "source_Julian_year": 1765,
+      "converted_day": "1765-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1765-08-16T16:25:19.040Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 51,
+      "source_Julian_year": 1766,
+      "converted_day": "1766-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1766-08-05T18:27:20.742Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 52,
+      "source_Julian_year": 1767,
+      "converted_day": "1767-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1769-06-04T07:27:05.148Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 53,
+      "source_Julian_year": 1768,
+      "converted_day": "1768-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1769-06-04T07:27:05.148Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 54,
+      "source_Julian_year": 1769,
+      "converted_day": "1769-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1769-06-04T07:27:05.148Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 55,
+      "source_Julian_year": 1770,
+      "converted_day": "1770-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1772-10-26T08:15:39.932Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 56,
+      "source_Julian_year": 1771,
+      "converted_day": "1771-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1772-10-26T08:15:39.932Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 57,
+      "source_Julian_year": 1772,
+      "converted_day": "1772-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1772-10-26T08:15:39.932Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 58,
+      "source_Julian_year": 1773,
+      "converted_day": "1773-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1777-01-09T17:05:21.450Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 59,
+      "source_Julian_year": 1774,
+      "converted_day": "1774-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1777-01-09T17:05:21.450Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 60,
+      "source_Julian_year": 1775,
+      "converted_day": "1775-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1777-01-09T17:05:21.450Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 61,
+      "source_Julian_year": 1776,
+      "converted_day": "1776-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1777-01-09T17:05:21.450Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 62,
+      "source_Julian_year": 1777,
+      "converted_day": "1777-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1778-06-24T16:35:56.822Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 63,
+      "source_Julian_year": 1778,
+      "converted_day": "1778-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1778-06-24T16:35:56.822Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 64,
+      "source_Julian_year": 1779,
+      "converted_day": "1779-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1779-06-14T07:59:20.041Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 65,
+      "source_Julian_year": 1780,
+      "converted_day": "1780-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1781-04-23T18:59:28.231Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 66,
+      "source_Julian_year": 1781,
+      "converted_day": "1781-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1781-10-17T07:21:36.573Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 67,
+      "source_Julian_year": 1782,
+      "converted_day": "1782-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1787-01-19T10:45:43.238Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 68,
+      "source_Julian_year": 1783,
+      "converted_day": "1783-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1787-01-19T10:45:43.238Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 69,
+      "source_Julian_year": 1784,
+      "converted_day": "1784-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1787-01-19T10:45:43.238Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 70,
+      "source_Julian_year": 1785,
+      "converted_day": "1785-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1787-01-19T10:45:43.238Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 71,
+      "source_Julian_year": 1786,
+      "converted_day": "1786-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1787-01-19T10:45:43.238Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 72,
+      "source_Julian_year": 1787,
+      "converted_day": "1787-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1787-06-15T17:00:36.452Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 73,
+      "source_Julian_year": 1788,
+      "converted_day": "1788-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1788-06-04T08:09:27.040Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 74,
+      "source_Julian_year": 1789,
+      "converted_day": "1789-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1791-04-03T13:47:46.421Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 75,
+      "source_Julian_year": 1790,
+      "converted_day": "1790-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1791-04-03T13:47:46.421Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 76,
+      "source_Julian_year": 1791,
+      "converted_day": "1791-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1793-09-05T11:08:45.322Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 77,
+      "source_Julian_year": 1792,
+      "converted_day": "1792-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1793-09-05T11:08:45.322Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 78,
+      "source_Julian_year": 1793,
+      "converted_day": "1793-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1793-09-05T11:08:45.322Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 79,
+      "source_Julian_year": 1794,
+      "converted_day": "1794-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1797-06-24T17:30:22.689Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 80,
+      "source_Julian_year": 1795,
+      "converted_day": "1795-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1797-06-24T17:30:22.689Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 81,
+      "source_Julian_year": 1796,
+      "converted_day": "1796-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1797-06-24T17:30:22.689Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 82,
+      "source_Julian_year": 1797,
+      "converted_day": "1797-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1797-06-24T17:30:22.689Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 83,
+      "source_Julian_year": 1798,
+      "converted_day": "1798-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1802-08-28T05:21:07.427Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 84,
+      "source_Julian_year": 1799,
+      "converted_day": "1799-05-03T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1802-08-28T05:21:07.427Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 85,
+      "source_Julian_year": 1800,
+      "converted_day": "1800-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1802-08-28T05:21:07.427Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 86,
+      "source_Julian_year": 1801,
+      "converted_day": "1801-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1802-08-28T05:21:07.427Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 87,
+      "source_Julian_year": 1802,
+      "converted_day": "1802-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1802-08-28T05:21:07.427Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 88,
+      "source_Julian_year": 1803,
+      "converted_day": "1803-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1803-08-17T06:46:52.686Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 89,
+      "source_Julian_year": 1804,
+      "converted_day": "1804-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1806-06-16T17:19:07.454Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 90,
+      "source_Julian_year": 1805,
+      "converted_day": "1805-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1806-06-16T17:19:07.454Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 91,
+      "source_Julian_year": 1806,
+      "converted_day": "1806-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1806-06-16T17:19:07.454Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 92,
+      "source_Julian_year": 1807,
+      "converted_day": "1807-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1807-11-29T11:25:43.761Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 93,
+      "source_Julian_year": 1808,
+      "converted_day": "1808-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1813-02-01T08:15:19.009Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 94,
+      "source_Julian_year": 1809,
+      "converted_day": "1809-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1813-02-01T08:15:19.009Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 95,
+      "source_Julian_year": 1810,
+      "converted_day": "1810-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1813-02-01T08:15:19.009Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 96,
+      "source_Julian_year": 1811,
+      "converted_day": "1811-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1813-02-01T08:15:19.009Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 97,
+      "source_Julian_year": 1812,
+      "converted_day": "1812-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1813-02-01T08:15:19.009Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 98,
+      "source_Julian_year": 1813,
+      "converted_day": "1813-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1816-11-19T09:09:21.605Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 99,
+      "source_Julian_year": 1814,
+      "converted_day": "1814-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1816-11-19T09:09:21.605Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 100,
+      "source_Julian_year": 1815,
+      "converted_day": "1815-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1816-11-19T09:09:21.605Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 101,
+      "source_Julian_year": 1816,
+      "converted_day": "1816-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1816-11-19T09:09:21.605Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 102,
+      "source_Julian_year": 1817,
+      "converted_day": "1817-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1818-05-05T06:46:46.602Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 103,
+      "source_Julian_year": 1818,
+      "converted_day": "1818-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1818-05-05T06:46:46.602Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 104,
+      "source_Julian_year": 1819,
+      "converted_day": "1819-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1820-09-07T13:50:58.505Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 105,
+      "source_Julian_year": 1820,
+      "converted_day": "1820-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1820-09-07T13:50:58.505Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 106,
+      "source_Julian_year": 1821,
+      "converted_day": "1821-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1823-07-08T05:32:11.608Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 107,
+      "source_Julian_year": 1822,
+      "converted_day": "1822-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1823-07-08T05:32:11.608Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 108,
+      "source_Julian_year": 1823,
+      "converted_day": "1823-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1823-07-08T05:32:11.608Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 109,
+      "source_Julian_year": 1824,
+      "converted_day": "1824-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1826-11-29T10:52:37.995Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 110,
+      "source_Julian_year": 1825,
+      "converted_day": "1825-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1826-11-29T10:52:37.995Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 111,
+      "source_Julian_year": 1826,
+      "converted_day": "1826-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1826-11-29T10:52:37.995Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 112,
+      "source_Julian_year": 1827,
+      "converted_day": "1827-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1832-07-27T14:22:09.189Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 113,
+      "source_Julian_year": 1828,
+      "converted_day": "1828-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1832-07-27T14:22:09.189Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 114,
+      "source_Julian_year": 1829,
+      "converted_day": "1829-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1832-07-27T14:22:09.189Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 115,
+      "source_Julian_year": 1830,
+      "converted_day": "1830-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1832-07-27T14:22:09.189Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 116,
+      "source_Julian_year": 1831,
+      "converted_day": "1831-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1832-07-27T14:22:09.189Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 117,
+      "source_Julian_year": 1832,
+      "converted_day": "1832-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1832-07-27T14:22:09.189Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 118,
+      "source_Julian_year": 1833,
+      "converted_day": "1833-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1833-07-17T05:55:21.328Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 119,
+      "source_Julian_year": 1834,
+      "converted_day": "1834-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1836-05-15T15:18:53.989Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 120,
+      "source_Julian_year": 1835,
+      "converted_day": "1835-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1836-05-15T15:18:53.989Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 121,
+      "source_Julian_year": 1836,
+      "converted_day": "1836-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1836-05-15T15:18:53.989Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 122,
+      "source_Julian_year": 1837,
+      "converted_day": "1837-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1839-03-15T15:44:18.106Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 123,
+      "source_Julian_year": 1838,
+      "converted_day": "1838-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1839-03-15T15:44:18.106Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 124,
+      "source_Julian_year": 1839,
+      "converted_day": "1839-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1842-07-08T05:47:07.209Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 125,
+      "source_Julian_year": 1840,
+      "converted_day": "1840-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1842-07-08T05:47:07.209Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 126,
+      "source_Julian_year": 1841,
+      "converted_day": "1841-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1842-07-08T05:47:07.209Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 127,
+      "source_Julian_year": 1842,
+      "converted_day": "1842-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1842-07-08T05:47:07.209Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 128,
+      "source_Julian_year": 1843,
+      "converted_day": "1843-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1845-05-06T09:36:14.243Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 129,
+      "source_Julian_year": 1844,
+      "converted_day": "1844-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1845-05-06T09:36:14.243Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 130,
+      "source_Julian_year": 1845,
+      "converted_day": "1845-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1845-05-06T09:36:14.243Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 131,
+      "source_Julian_year": 1846,
+      "converted_day": "1846-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1847-10-09T07:27:38.734Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 132,
+      "source_Julian_year": 1847,
+      "converted_day": "1847-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1847-10-09T07:27:38.734Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 133,
+      "source_Julian_year": 1848,
+      "converted_day": "1848-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1851-07-28T15:12:12.779Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 134,
+      "source_Julian_year": 1849,
+      "converted_day": "1849-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1851-07-28T15:12:12.779Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 135,
+      "source_Julian_year": 1850,
+      "converted_day": "1850-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1851-07-28T15:12:12.779Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 136,
+      "source_Julian_year": 1851,
+      "converted_day": "1851-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1851-07-28T15:12:12.779Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 137,
+      "source_Julian_year": 1852,
+      "converted_day": "1852-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1858-03-15T13:00:25.111Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 138,
+      "source_Julian_year": 1853,
+      "converted_day": "1853-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1858-03-15T13:00:25.111Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 139,
+      "source_Julian_year": 1854,
+      "converted_day": "1854-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1858-03-15T13:00:25.111Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 140,
+      "source_Julian_year": 1855,
+      "converted_day": "1855-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1858-03-15T13:00:25.111Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 141,
+      "source_Julian_year": 1856,
+      "converted_day": "1856-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1858-03-15T13:00:25.111Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 142,
+      "source_Julian_year": 1857,
+      "converted_day": "1857-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1858-03-15T13:00:25.111Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 143,
+      "source_Julian_year": 1858,
+      "converted_day": "1858-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1860-07-18T14:48:52.607Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 144,
+      "source_Julian_year": 1859,
+      "converted_day": "1859-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1860-07-18T14:48:52.607Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 145,
+      "source_Julian_year": 1860,
+      "converted_day": "1860-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1860-07-18T14:48:52.607Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 146,
+      "source_Julian_year": 1861,
+      "converted_day": "1861-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1861-12-31T14:53:23.301Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 147,
+      "source_Julian_year": 1862,
+      "converted_day": "1862-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1863-05-17T18:28:20.532Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 148,
+      "source_Julian_year": 1863,
+      "converted_day": "1863-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1863-05-17T18:28:20.532Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 149,
+      "source_Julian_year": 1864,
+      "converted_day": "1864-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1865-10-19T17:08:39.260Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 150,
+      "source_Julian_year": 1865,
+      "converted_day": "1865-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1865-10-19T17:08:39.260Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 151,
+      "source_Julian_year": 1866,
+      "converted_day": "1866-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1866-10-08T17:25:36.881Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 152,
+      "source_Julian_year": 1867,
+      "converted_day": "1867-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1870-12-22T12:25:09.255Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 153,
+      "source_Julian_year": 1868,
+      "converted_day": "1868-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1870-12-22T12:25:09.255Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 154,
+      "source_Julian_year": 1869,
+      "converted_day": "1869-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1870-12-22T12:25:09.255Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 155,
+      "source_Julian_year": 1870,
+      "converted_day": "1870-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1870-12-22T12:25:09.255Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 156,
+      "source_Julian_year": 1871,
+      "converted_day": "1871-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1873-05-26T08:28:10.412Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 157,
+      "source_Julian_year": 1872,
+      "converted_day": "1872-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1873-05-26T08:28:10.412Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 158,
+      "source_Julian_year": 1873,
+      "converted_day": "1873-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1873-05-26T08:28:10.412Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 159,
+      "source_Julian_year": 1874,
+      "converted_day": "1874-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1874-10-10T10:07:49.841Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 160,
+      "source_Julian_year": 1875,
+      "converted_day": "1875-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1875-09-29T12:06:15.208Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 161,
+      "source_Julian_year": 1876,
+      "converted_day": "1876-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1880-12-31T14:35:36.206Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 162,
+      "source_Julian_year": 1877,
+      "converted_day": "1877-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1880-12-31T14:35:36.206Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 163,
+      "source_Julian_year": 1878,
+      "converted_day": "1878-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1880-12-31T14:35:36.206Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 164,
+      "source_Julian_year": 1879,
+      "converted_day": "1879-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1880-12-31T14:35:36.206Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 165,
+      "source_Julian_year": 1880,
+      "converted_day": "1880-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1880-12-31T14:35:36.206Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 166,
+      "source_Julian_year": 1881,
+      "converted_day": "1881-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1882-05-17T06:46:26.585Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 167,
+      "source_Julian_year": 1882,
+      "converted_day": "1882-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1882-05-17T06:46:26.585Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 168,
+      "source_Julian_year": 1883,
+      "converted_day": "1883-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1887-08-19T04:14:52.507Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 169,
+      "source_Julian_year": 1884,
+      "converted_day": "1884-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1887-08-19T04:14:52.507Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 170,
+      "source_Julian_year": 1885,
+      "converted_day": "1885-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1887-08-19T04:14:52.507Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 171,
+      "source_Julian_year": 1886,
+      "converted_day": "1886-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1887-08-19T04:14:52.507Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 172,
+      "source_Julian_year": 1887,
+      "converted_day": "1887-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1887-08-19T04:14:52.507Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 173,
+      "source_Julian_year": 1888,
+      "converted_day": "1888-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1888-08-07T18:57:34.108Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 174,
+      "source_Julian_year": 1889,
+      "converted_day": "1889-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1890-06-17T09:22:59.518Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 175,
+      "source_Julian_year": 1890,
+      "converted_day": "1890-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1890-06-17T09:22:59.518Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 176,
+      "source_Julian_year": 1891,
+      "converted_day": "1891-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1891-06-06T17:43:40.497Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 177,
+      "source_Julian_year": 1892,
+      "converted_day": "1892-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1895-03-26T10:09:36.141Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 178,
+      "source_Julian_year": 1893,
+      "converted_day": "1893-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1895-03-26T10:09:36.141Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 179,
+      "source_Julian_year": 1894,
+      "converted_day": "1894-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1895-03-26T10:09:36.141Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 180,
+      "source_Julian_year": 1895,
+      "converted_day": "1895-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1899-06-08T05:17:16.112Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 181,
+      "source_Julian_year": 1896,
+      "converted_day": "1896-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1899-06-08T05:17:16.112Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 182,
+      "source_Julian_year": 1897,
+      "converted_day": "1897-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1899-06-08T05:17:16.112Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 183,
+      "source_Julian_year": 1898,
+      "converted_day": "1898-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1899-06-08T05:17:16.112Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 184,
+      "source_Julian_year": 1899,
+      "converted_day": "1899-05-04T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1899-06-08T05:17:16.112Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 185,
+      "source_Julian_year": 1900,
+      "converted_day": "1900-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1900-05-28T15:54:34.006Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 186,
+      "source_Julian_year": 1901,
+      "converted_day": "1901-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1902-10-31T06:36:10.745Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 187,
+      "source_Julian_year": 1902,
+      "converted_day": "1902-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1902-10-31T06:36:10.745Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 188,
+      "source_Julian_year": 1903,
+      "converted_day": "1903-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1905-08-30T13:02:50.935Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 189,
+      "source_Julian_year": 1904,
+      "converted_day": "1904-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1905-08-30T13:02:50.935Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 190,
+      "source_Julian_year": 1905,
+      "converted_day": "1905-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1905-08-30T13:02:50.935Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 191,
+      "source_Julian_year": 1906,
+      "converted_day": "1906-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1908-06-28T17:37:55.002Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 192,
+      "source_Julian_year": 1907,
+      "converted_day": "1907-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1908-06-28T17:37:55.002Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 193,
+      "source_Julian_year": 1908,
+      "converted_day": "1908-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1908-06-28T17:37:55.002Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 194,
+      "source_Julian_year": 1909,
+      "converted_day": "1909-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1912-04-17T12:10:03.231Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 195,
+      "source_Julian_year": 1910,
+      "converted_day": "1910-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1912-04-17T12:10:03.231Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 196,
+      "source_Julian_year": 1911,
+      "converted_day": "1911-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1912-04-17T12:10:03.231Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 197,
+      "source_Julian_year": 1912,
+      "converted_day": "1912-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1914-08-21T12:10:17.205Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 198,
+      "source_Julian_year": 1913,
+      "converted_day": "1913-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1914-08-21T12:10:17.205Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 199,
+      "source_Julian_year": 1914,
+      "converted_day": "1914-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1914-08-21T12:10:17.205Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    },
+    {
+      "year_offset": 200,
+      "source_Julian_year": 1915,
+      "converted_day": "1915-05-05T00:00:00.000Z",
+      "next_model_local_eclipse_peak": "1916-02-03T17:30:31.427Z",
+      "eclipse_on_converted_day": false,
+      "kind_on_day": null,
+      "sun_altitude_at_peak_deg": null,
+      "total_duration_s": null
+    }
+  ],
+  "matching_day_offsets": [
+    0
+  ],
+  "matching_day_total_offsets": [
+    0
+  ],
+  "limits": "Retrospective conditional diagnostic, not preregistration, independent review or proof of document authenticity. Fixed Julian month/day and integer year offsets only; flexible calendar/day/site changes excluded. Modern orbital model and historical DeltaT assumptions retained. Approximate coordinate and smooth-disk model; no fitting to source times."
+}

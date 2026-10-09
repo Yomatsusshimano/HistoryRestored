@@ -2660,6 +2660,75 @@
         "Mendel lithograph accession, original date and commission lineage"
       ],
       "dependence": "Same city administrative context; archive explanation and linked record are not independent observations. Distinct from Seattle projects; no shared event date established. The mayoral and judicial narratives can share municipal records; project correspondence remains unverified. S239 engraving derives from a reported photograph and its text reproduces a newspaper account; copies are not additional witnesses. S240 compilation and S239 share newspaper lineage; contractor names do not constitute independent transaction evidence. S241/S242 repeat the same image composition; S243 is indexed metadata, not another witness. Dependence on newspaper/book publicity remains possible and unresolved."
+    },
+    {
+      "id": "C026",
+      "title": "Halley1715 solar eclipse: primary observation and chronology diagnostic",
+      "category": "astronomical chronology",
+      "place": "Royal Society house at Crane Court, Fleet Street, London",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S282",
+          "locator": "PDF2-3/printed246-247",
+          "statement": "Clock calibrated against apparent solar time; corrected totality09:09:03-09:12:26 yields203seconds. Source onset arithmetic discrepancy retained."
+        },
+        {
+          "source_id": "S283",
+          "locator": "analysis/halley1715_eclipse.py;data/halley1715-eclipse.json",
+          "statement": "Fixed approximate London location gives206.17s totality and48-55s early contact residuals. Of401integerJulian-year offsets−200..200 preservingApril22, only offset0 has local eclipse on converted date. This is retrospective and conditional."
+        },
+        {
+          "source_id": "S284",
+          "locator": "Catalog08826",
+          "statement": "NASA modern model lists1715May03total eclipse; globalgreatestTD not localcontact and DeltaT model shared."
+        },
+        {
+          "source_id": "S285",
+          "locator": "Principal Solar Calendars",
+          "statement": "Julian/Gregorian leap-year rules distinguish calendar labels."
+        },
+        {
+          "source_id": "S286",
+          "locator": "Date/year reckoning text",
+          "statement": "Act changes1752year commencement and nominalSeptember dates; April1715preceded reform."
+        }
+      ],
+      "physical_evidence": "No original paper/manuscript or dated material inspected; digital scan and executed modern orbital calculation available.",
+      "surviving_documents": "Selected1715printed observation scans with calibration and contacts; publisher-deposited citation metadata; official calendar-act text.",
+      "source_interpretation": "Halley reports total solar eclipse at Crane Court and regional observations; precise source timing has an internal onset discrepancy.",
+      "investigation_inference": "Conventional Julian conversion and modern model are compatible at day/type/minute scale. Simple tested nonzero integer-year relabelings fail for this record under fixed date/location/model; one record does not establish all chronology or disprove flexible rewriting.",
+      "next_test": "Inspect remaining regional observation pages and original archive/manuscript custody; compare high-precision independent ephemeris and DeltaT sensitivity; test multiple separately sourced astronomical anchors and explicit chronology transformations.",
+      "chronology": {
+        "reported": "April22,1715Julian interpreted asMay3,1715Gregorian;CrossrefpublicationMay31,1715",
+        "dated_object": "Printed report of observation and modern calculated event",
+        "method": "Scan transcription, explicit calendar arithmetic and conditional orbital calculation",
+        "raw_date": "1715-04-22",
+        "uncertainty": null,
+        "timescale": "Julian source label/Gregorian model label",
+        "event_association": "CONDITIONAL"
+      },
+      "missing": [
+        "Original manuscript and physical custody",
+        "Full regional observation census",
+        "Historical clock error distribution",
+        "Exact observer position/height",
+        "Independent high-precision ephemeris and rotation sensitivity",
+        "Multiple held-out astronomical anchors",
+        "Independent review"
+      ],
+      "dependence": "Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics.",
+      "competing_explanations": [
+        "Document date or custody error",
+        "Later compilation or calculated record",
+        "Clock/calibration/contact identification error",
+        "Calendar/day convention mismatch",
+        "Modern orbital/DeltaT/model radius error",
+        "Explicit nonuniform chronology transformation requiring separate tests"
+      ],
+      "counterevidence": "Modern model contacts remain48-55s earlier than inspected source times; first-contact clock/delay arithmetic differs11-16s from reported corrected time. Precise timing and manuscript authenticity remain unresolved. These discrepancies do not establish a chronology break."
     }
   ]
 }

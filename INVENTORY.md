@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-25 sourced drafts; 0 independent scientific reviews.
+26 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -32,6 +32,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C023 | Ice-core chronology revision: isotope anchors and validation dependence |
 | C024 | Moxee City mammoth: weathering before flood burial |
 | C025 | Chicago grade proposals, river works and Lake Street building raising,1855-1861 |
+| C026 | Halley1715 solar eclipse: primary observation and chronology diagnostic |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -1038,3 +1039,35 @@ Place: Chicago, Illinois; Lake Street north side between Clark and La Salle; Ont
 **Chronology:** {"reported": "March1855 address; September1855 estimate and December1856 sketch catalog dates; March16,1859 address reports1857-1859 river-work proceedings;1861 book caption reports April1860 photograph of Lake Street operation", "dated_object": "Speeches, catalog-described administrative documents, later judicial report edition,1861 book and modern newspaper transcriptions", "method": "Institutional transcription/catalog attribution and visually inspected book/report; newspaper issue dates remain transcription-attributed", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
 **Missing:** Original newspaper scan; Original estimate and sketch; Council grade/approval instruments; Named completed-work block and historical benchmark; Fill purchase records and measured sediment contacts; Specimen/material dates; Original1859 Common Council journal and dredging contracts; North Branch spoil disposal and measured quantities; Original assessment court opinions and matched properties; Lake Street original photograph and newspaper issue; Block-level lifting/foundation contracts and fill delivery records; Mendel lithograph accession, original date and commission lineage
+
+## C026: Halley1715 solar eclipse: primary observation and chronology diagnostic
+
+Place: Royal Society house at Crane Court, Fleet Street, London. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Clock calibrated against apparent solar time; corrected totality09:09:03-09:12:26 yields203seconds. Source onset arithmetic discrepancy retained. [S282](https://archive.org/download/paper-doi-10_1098_rstl_1714_0025/paper-doi-10_1098_rstl_1714_0025.pdf). Locator: PDF2-3/printed246-247. Access: SCAN_INSPECTED. Limit: Selected pages only. Digitization/metadata not original manuscript authentication. C1 reported onset differs11-16s from stated clock correction and at-most5s notice delay. Observation time apparent solar, not modern UT.
+- Fixed approximate London location gives206.17s totality and48-55s early contact residuals. Of401integerJulian-year offsets−200..200 preservingApril22, only offset0 has local eclipse on converted date. This is retrospective and conditional. [S283](https://github.com/cosinekitty/astronomy). Locator: analysis/halley1715_eclipse.py;data/halley1715-eclipse.json. Access: FULL_TEXT_PORTION. Limit: Modern approximate orbital model and default Espenak-Meeus DeltaT; no independent historical rotation validation, high-precision ephemeris comparison or error confidence bounds.
+- NASA modern model lists1715May03total eclipse; globalgreatestTD not localcontact and DeltaT model shared. [S284](https://eclipse.gsfc.nasa.gov/SEcat5/SE1701-1800.html). Locator: Catalog08826. Access: FULL_TEXT_PORTION. Limit: Greatest eclipse is global, not Crane Court contact. Shared DeltaT model prevents counting software/catalog as wholly independent. Modern calculation, not new historical witness.
+- Julian/Gregorian leap-year rules distinguish calendar labels. [S285](https://aa.usno.navy.mil/faq/calendars). Locator: Principal Solar Calendars. Access: FULL_TEXT_PORTION. Limit: Technical calendar context, not historical document authentication or proof of complete chronology.
+- Act changes1752year commencement and nominalSeptember dates; April1715preceded reform. [S286](https://www.legislation.gov.uk/apgb/Geo2/24/23). Locator: Date/year reckoning text. Access: FULL_TEXT_PORTION. Limit: Online legal text rather than original enacted print/manuscript; source styling1750 differs enactment-year conventions. No legal advice or archive custody authentication.
+
+**Physical evidence:** No original paper/manuscript or dated material inspected; digital scan and executed modern orbital calculation available.
+
+**Surviving documents:** Selected1715printed observation scans with calibration and contacts; publisher-deposited citation metadata; official calendar-act text.
+
+**Source interpretation:** Halley reports total solar eclipse at Crane Court and regional observations; precise source timing has an internal onset discrepancy.
+
+**Investigation inference:** Conventional Julian conversion and modern model are compatible at day/type/minute scale. Simple tested nonzero integer-year relabelings fail for this record under fixed date/location/model; one record does not establish all chronology or disprove flexible rewriting.
+
+**Counterevidence:** Modern model contacts remain48-55s earlier than inspected source times; first-contact clock/delay arithmetic differs11-16s from reported corrected time. Precise timing and manuscript authenticity remain unresolved. These discrepancies do not establish a chronology break.
+
+**Next test:** Inspect remaining regional observation pages and original archive/manuscript custody; compare high-precision independent ephemeris and DeltaT sensitivity; test multiple separately sourced astronomical anchors and explicit chronology transformations.
+
+**Dependence:** Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics.
+
+**Alternatives:** Document date or custody error; Later compilation or calculated record; Clock/calibration/contact identification error; Calendar/day convention mismatch; Modern orbital/DeltaT/model radius error; Explicit nonuniform chronology transformation requiring separate tests
+
+**Chronology:** {"reported": "April22,1715Julian interpreted asMay3,1715Gregorian;CrossrefpublicationMay31,1715", "dated_object": "Printed report of observation and modern calculated event", "method": "Scan transcription, explicit calendar arithmetic and conditional orbital calculation", "raw_date": "1715-04-22", "uncertainty": null, "timescale": "Julian source label/Gregorian model label", "event_association": "CONDITIONAL"}
+
+**Missing:** Original manuscript and physical custody; Full regional observation census; Historical clock error distribution; Exact observer position/height; Independent high-precision ephemeris and rotation sensitivity; Multiple held-out astronomical anchors; Independent review

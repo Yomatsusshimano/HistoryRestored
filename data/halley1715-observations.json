@@ -1,0 +1,50 @@
+{
+  "source_id": "S282",
+  "pdf_sha256": "a344be5d98d0206566d6a752fe5fefaed2ab88647ae5c2243bcd0b3c2a6a52bd",
+  "inspected_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "printed_pages": "245-249;245 header clipped",
+  "reported_eclipse_date": "April22; year1715 assigned through article metadata and conventional calendar context",
+  "site": "Royal Society house, Crane Court, Fleet Street, London",
+  "clock": {
+    "reference": "Apparent time/hour of Sun after calibration; mean-time clock initially described",
+    "fast_seconds": 14,
+    "locator": "PDF2-3/printed246-247"
+  },
+  "contacts": {
+    "partial_begin": {
+      "first_noticed_clock": "08:06:30",
+      "reported_correct_time": "08:06:00",
+      "locator": "PDF3/printed247",
+      "notice_delay_upper_bound_s": 5,
+      "notice_delay_interval_s": [
+        0,
+        5
+      ],
+      "arithmetic_clock_corrected_onset_interval": [
+        "08:06:11",
+        "08:06:16"
+      ],
+      "arithmetic_minus_reported_interval_s": [
+        11,
+        16
+      ]
+    },
+    "total_begin": {
+      "clock": "09:09:17",
+      "correct_time": "09:09:03",
+      "locator": "PDF3/printed247"
+    },
+    "total_end": {
+      "correct_time": "09:12:26",
+      "locator": "PDF3/printed247"
+    }
+  },
+  "reported_total_duration_s": 203,
+  "limits": "Source times transcribed from scans; no quantitative confidence interval assigned. C1 arithmetic discrepancy retained, not corrected. Document age/custody unverified independently; no manuscript acquired."
+}

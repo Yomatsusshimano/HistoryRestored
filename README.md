@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Halley1715 astronomical chronology audit](research/HALLEY-1715-ECLIPSE.md): inspected observation scans, calendar conversion and conditional eclipse/year-shift calculations.
+
 - [Cross-case assessment](research/CROSS-CASE-ASSESSMENT.md): current findings, challenged claim versions, shared evidence and next discriminating tests.
 
 - [Original objective](PROTOCOL.md): all twenty requested outcomes, preserved verbatim.

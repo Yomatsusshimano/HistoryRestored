@@ -1,0 +1,18 @@
+{
+  "source_id": "S282",
+  "download_url": "https://archive.org/download/paper-doi-10_1098_rstl_1714_0025/paper-doi-10_1098_rstl_1714_0025.pdf",
+  "files": [
+    {
+      "path": "sources/originals/astronomy/halley1715/crossref.json",
+      "bytes": 3042,
+      "sha256": "a732812e4fc4e0dfe209311047dad23ffa1dca7dd3013c75960780dd18f0ff0a"
+    },
+    {
+      "path": "sources/originals/astronomy/halley1715/halley1715.pdf",
+      "bytes": 1707230,
+      "sha256": "a344be5d98d0206566d6a752fe5fefaed2ab88647ae5c2243bcd0b3c2a6a52bd"
+    }
+  ],
+  "crossref_url": "https://api.crossref.org/works/10.1098/rstl.1714.0025",
+  "rights": "Historical1715text public domain; preserved scan includes modern institutional digitization footer. Archive copy is a digital surrogate, not authenticated original paper."
+}

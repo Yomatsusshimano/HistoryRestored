@@ -1,5 +1,10 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Primary eclipse observation and calendar-shift diagnostic
+
+C026 adds visually inspected Halley1715 observation scans and an executed modern eclipse comparison. Julian April22 converts to Gregorian May3; source totality203s versus model206.173s, with48-55s contact residuals and11-16s source onset-arithmetic discrepancy retained. All18site variants/five ΔT stress variants remain total. Only the zero-year offset among the tested−200..+200 integer year offsets has a local eclipse on the preserved Julian date. See [astronomical chronology audit](HALLEY-1715-ECLIPSE.md).26drafts/286sources; all twenty objectives retained, no independent review or chronology break established.
+
+
 ### 2026-10-09 — KI-11 age/material crosswalk and luminescence conflicts
 
 S280 exact dataset13384 points back to2002report, not acquired separate logs. S2812007author-uploaded exposed text yields six radiocarbon/five luminescence rows. KI-11 same5m/1590±40 entry conflicts with2018wood/conventional versus2007shell/calibrated label; lab identity unresolved. IRSL/TL differences retained, no age selection or datum conversion. See [age crosswalk](WILLAPA-2007-AGE-CROSSWALK.md).25drafts/281sources; all twenty outcomes retained.
