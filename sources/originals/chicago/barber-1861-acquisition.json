@@ -1,0 +1,20 @@
+{
+  "source_id": "S239",
+  "original_url": "https://archive.org/download/ourwholecountryo02barbuoft/ourwholecountryo02barbuoft.pdf",
+  "retrieved_url": "https://ia800800.us.archive.org/34/items/ourwholecountryo02barbuoft/ourwholecountryo02barbuoft.pdf",
+  "original_sha256": "9d53ea038803934a102e79e907cae63005c75742a6ed6b9a1752cbae6c53813a",
+  "original_bytes": 83707583,
+  "original_page_count": 742,
+  "original_pdf_pages": [
+    15,
+    301,
+    302,
+    303
+  ],
+  "excerpt_path": "sources/originals/chicago/barber-1861-lake-street-excerpt.pdf",
+  "excerpt_sha256": "487abb45339e6b08428a9f125ab19f036cb68b5c3ea4cf13b0c245c1d2e737d4",
+  "excerpt_bytes": 543101,
+  "created_date": "2026-10-09",
+  "rights_basis": "1861 US publication; historical source pages, not modern commentary",
+  "limitations": "PDF was reserialized as a selected-page excerpt; its bytes are not the original full-volume bytes. Copied page text agrees exactly; acquisition hashes do not authenticate photograph or event."
+}

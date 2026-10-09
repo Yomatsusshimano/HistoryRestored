@@ -2323,9 +2323,9 @@
     },
     {
       "id": "C025",
-      "title": "Chicago street-grade proposals and municipal works reports,1855-1859",
+      "title": "Chicago grade proposals, river works and Lake Street building raising,1855-1861",
       "category": "buried streets and engineered fill",
-      "place": "Chicago, Illinois; Ontario Street near lakeshore in catalog description",
+      "place": "Chicago, Illinois; Lake Street north side between Clark and La Salle; Ontario Street near lakeshore in catalog description",
       "coordinates": null,
       "status": "SOURCED_DRAFT",
       "reviewers": [],
@@ -2354,21 +2354,26 @@
           "source_id": "S238",
           "locator": "PDF210-212/original268-271; titlePDF7",
           "statement": "1865 judicial account in1887 edition reports supervised/measured dredging,9100 cubic yards attributed to Maher within a154000 cubic-yard estimate, and an1862 payment to other contractors. November report year conflicts internally."
+        },
+        {
+          "source_id": "S239",
+          "locator": "Printed1064-1065/PDF302-303; titlePDF15",
+          "statement": "1861 account identifies a Lake Street block raised four feet eight inches with6000 screws and600 workers over five days; caption reports April1860 photograph lineage. Full work is described as about four weeks."
         }
       ],
-      "physical_evidence": "No site or sediment inspection. Original drawing scans were not retrieved; no physical below-grade structure assigned to these works. Scanned judicial narrative reports survey measurement; no original survey or sediment inspected.",
-      "surviving_documents": "Public-library address transcription; two state-archive catalog/explanation pages pointing to original estimate/sketch. A later mayoral transcription reports executed river works and a payment dispute, citing March16,1859 council proceedings. Scanned1887 report edition of Maher litigation.",
+      "physical_evidence": "No site or sediment inspection. Original drawing scans were not retrieved; no physical below-grade structure assigned to these works. Scanned judicial narrative reports survey measurement; no original survey or sediment inspected. Engraving and caption inspected for the named Lake Street operation; original photograph and physical building fabric uninspected.",
+      "surviving_documents": "Public-library address transcription; two state-archive catalog/explanation pages pointing to original estimate/sketch. A later mayoral transcription reports executed river works and a payment dispute, citing March16,1859 council proceedings. Scanned1887 report edition of Maher litigation. Contemporary1861 illustrated account with newspaper-attributed report, publicly preserved as a four-page excerpt.",
       "source_interpretation": "Mayor proposes engineered street surfacing and drainage; archive explanations describe grade changes and a sand-related development proposal. Maher opinion recognizes a payment obligation despite failed special-assessment funding.",
-      "investigation_inference": "A specific engineered-fill proposal supplies a testable alternative to natural burial, but execution and linkage to surviving lower levels remain unverified. See research/CHICAGO-STREET-GRADE.md. Completed dredging is source-reported, but it is a different operation from street raising and cannot supply missing fill provenance. Maher adds quantified documentary execution evidence, but neither its reach nor its spoil is linked to Haines or a particular raised street. See research/CHICAGO-DREDGING-REPORT.md.",
+      "investigation_inference": "A specific engineered-fill proposal supplies a testable alternative to natural burial, but execution and linkage to surviving lower levels remain unverified. See research/CHICAGO-STREET-GRADE.md. Completed dredging is source-reported, but it is a different operation from street raising and cannot supply missing fill provenance. Maher adds quantified documentary execution evidence, but neither its reach nor its spoil is linked to Haines or a particular raised street. See research/CHICAGO-DREDGING-REPORT.md. S239 supplies source-reported executed building lifting for a named block. It does not authenticate every quantity, prove fill origin or link the block to earlier dredging; see research/CHICAGO-LAKE-STREET.md.",
       "competing_explanations": [
         "Intentional grade raising and fill, if linked to original completed-work records",
         "Designed basement or later alteration, to be tested against building fabric",
         "Local natural deposition or subsidence, if independently dated and demonstrated"
       ],
       "counterevidence": "Proposed engineering is documented. Neither proposals nor uninspected catalog descriptions prove completion; below-grade facades alone cannot establish cause.",
-      "next_test": "Inspect original estimate, Ontario sketch and council approval; identify one block and reconcile grade ordinances, as-built elevations, fill quantities, contacts and building phases. Trace Haines's cited council dates, contracts and assessment litigation; distinguish dredging limits and disposal from street work. Recover Maher survey profiles and council report (November1856/1865 conflict); inspect original Wright opinion and reconcile reach, quantities and disposal.",
+      "next_test": "Inspect original estimate, Ontario sketch and council approval; identify one block and reconcile grade ordinances, as-built elevations, fill quantities, contacts and building phases. Trace Haines's cited council dates, contracts and assessment litigation; distinguish dredging limits and disposal from street work. Recover Maher survey profiles and council report (November1856/1865 conflict); inspect original Wright opinion and reconcile reach, quantities and disposal. Retrieve Lake Street photograph/newspaper originals and match lots to grade ordinances, lifting/foundation contracts and fill deliveries.",
       "chronology": {
-        "reported": "March1855 address; September1855 estimate and December1856 sketch catalog dates; March16,1859 address reports1857-1859 river-work proceedings",
+        "reported": "March1855 address; September1855 estimate and December1856 sketch catalog dates; March16,1859 address reports1857-1859 river-work proceedings;1861 book caption reports April1860 photograph of Lake Street operation",
         "dated_object": "Speech publication and catalog-described administrative documents",
         "method": "Institutional transcription/catalog attribution",
         "raw_date": null,
@@ -2385,9 +2390,11 @@
         "Specimen/material dates",
         "Original1859 Common Council journal and dredging contracts",
         "North Branch spoil disposal and measured quantities",
-        "Original assessment court opinions and matched properties"
+        "Original assessment court opinions and matched properties",
+        "Lake Street original photograph and newspaper issue",
+        "Block-level lifting/foundation contracts and fill delivery records"
       ],
-      "dependence": "Same city administrative context; archive explanation and linked record are not independent observations. Distinct from Seattle projects; no shared event date established. The mayoral and judicial narratives can share municipal records; project correspondence remains unverified."
+      "dependence": "Same city administrative context; archive explanation and linked record are not independent observations. Distinct from Seattle projects; no shared event date established. The mayoral and judicial narratives can share municipal records; project correspondence remains unverified. S239 engraving derives from a reported photograph and its text reproduces a newspaper account; copies are not additional witnesses."
     }
   ]
 }

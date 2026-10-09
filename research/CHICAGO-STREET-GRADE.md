@@ -1,6 +1,6 @@
 # Chicago street grades: proposed work versus completed construction
 
-2026-10-09. C025 opens a second-city documentary comparison for the buried-street investigation. No Chicago site, sediment, historical grade benchmark or original completed street-work record has been inspected. A1859 transcription now adds a source-reported completed river project, kept separate from street raising. This draft tests an engineering explanation without treating planned work as demonstrated completion.
+2026-10-09. C025 opens a second-city documentary comparison for the buried-street investigation. No Chicago site, sediment, historical grade benchmark or original completed street-work record has been inspected. A1859 transcription now adds a source-reported completed river project, kept separate from street raising. The later [Lake Street audit](CHICAGO-LAKE-STREET.md) now supplies an inspected contemporary account of executed building lifting for a named block. This does not establish a completed street-fill record or physical sediment linkage.
 
 ## What was read
 
@@ -46,3 +46,8 @@ Bounded legal searches yielded possible leads: *Elston v. City of Chicago*,40 Il
 ### Judicial report follow-up
 
 The [Maher report audit](CHICAGO-DREDGING-REPORT.md) now supplies scanned source-reported quantities, supervision and payment, while retaining a printed date conflict and unresolved project correspondence. River excavation and street deposition remain separate.
+
+
+### Named-block raising recovered
+
+S239 title andpp1063-1065 now inspected from a Toronto archive copy; [Lake Street audit](CHICAGO-LAKE-STREET.md) and public excerpt distinguish lifting, permanent foundation work and source-image lineage. The old LOC copy remains inaccessible. Original photograph/newspaper and actual block fill records remain missing.

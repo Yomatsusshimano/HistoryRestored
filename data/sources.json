@@ -3737,6 +3737,22 @@
       "sha256": "cd2631241ca0abf2ba113722c40b4fd55210de6a6fba5d89e294976640889953",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S239",
+      "title": "Our Whole Country,1861 volume2: Lake Street building raising,pp1063-1065",
+      "creator": "John Warner Barber and Henry Howe; Tuttle and M'Cauley / Henry Howe publishers",
+      "publication_date": "1861",
+      "url": "https://archive.org/download/ourwholecountryo02barbuoft/ourwholecountryo02barbuoft.pdf",
+      "source_type": "Contemporary illustrated account incorporating a newspaper report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "TitlePDF15 and printed1063-1065/PDF301-303 visually inspected. Engraving, caption and newspaper-attributed lifting account; named block, reported lift and work duration.",
+      "limitations": "Engraving derived from reported photograph; original photograph/newspaper uninspected. Related text and image not independent confirmations; dimensions/labor not measured or audited. No fill provenance, full engineering validation or building-fabric inspection.",
+      "local_copy": "sources/originals/chicago/barber-1861-lake-street-excerpt.pdf",
+      "sha256": "487abb45339e6b08428a9f125ab19f036cb68b5c3ea4cf13b0c245c1d2e737d4",
+      "original_sha256": "9d53ea038803934a102e79e907cae63005c75742a6ed6b9a1752cbae6c53813a",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
