@@ -770,3 +770,8 @@ S299 article texts pp57-67/78-87 now fully visually inspected;24registered surfa
 ### 2026-10-09 — Bouguer1748 apparatus credit inspected
 
 S300 openingpp11-14 explicitly creditAuzout/Picard whole mechanism andconsequentlymicrometer, while creditingKepler/Huygens optical antecedents. SupportsBevis identification, notknowledge/intent orpriorityverdict. Reporting1748/catalogpublication1752 distinct; remaining article/plates andcited1666treatise uninspected. See [opposing-text comparison](research/GASCOIGNE-ATTRIBUTION.md).27drafts/300sources; all twenty objectives active,noindependentreview.
+
+
+### 2026-10-09 — Complete Bouguer article and suspended solar-shape judgment
+
+S300 complete article pp11–34 and next-article boundary inspected; 25 surfaces registered. Reported eight-lens manufacture, proposed terrestrial calibration, thermal/clock effects and atmospheric dispersion distinguished from validated accuracy. p22 conversion142sec→35arcmin30arcsec reproduced as hour angle. p34 expressly denies that apparent vertical excess proves actual solar shape. See [complete article audit](research/GASCOIGNE-ATTRIBUTION.md).27 drafts/300 sources; all twenty objectives active, no independent review or reconstruction established.

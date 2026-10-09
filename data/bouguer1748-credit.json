@@ -11,7 +11,7 @@
     "printed_heading_date": "24April1748",
     "limit": "Printed article label and catalog publication year, not authenticated presentation event, physical age or exact distribution date."
   },
-  "coverage": "Four selected opening Memoirs pages11-14/canvases163-166 visually inspected. Distinct History pages11-14/canvases25-28 not used. Remaining article and plates uninspected; no full-volume search.",
+  "coverage": "Complete article text pp11-34/canvases163-186 visually inspected; next article p35/canvas187 inspected only to establish boundary. No instrument diagram identified within these article pages. Other volume plates uninspected and not assigned to this article; no full-volume search or diplomatic transcription.",
   "scans": [
     {
       "canvas": 163,
@@ -64,6 +64,300 @@
         2852
       ],
       "inspected": true
+    },
+    {
+      "canvas": 167,
+      "label": "15 (0167)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=167",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00167/full/full/0/default.jpg",
+      "bytes": 713979,
+      "sha256": "a9746fe62cca144efad952cd8834334ac8f1e5cf966eac7cbc545bd3f0d0adbc",
+      "decoded_size": [
+        2101,
+        2838
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 168,
+      "label": "16 (0168)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=168",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00168/full/full/0/default.jpg",
+      "bytes": 729500,
+      "sha256": "f611fb68e3c9c2a4bbe431c73e4c457e28c378ad6c29019dcacf058471947f60",
+      "decoded_size": [
+        2109,
+        2850
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 169,
+      "label": "17 (0169)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=169",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00169/full/full/0/default.jpg",
+      "bytes": 695456,
+      "sha256": "7200371a77465c28f6ef11b393ffc622f17e844e7bb379a0af6eb8bc11ca44c7",
+      "decoded_size": [
+        2112,
+        2840
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 170,
+      "label": "18 (0170)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=170",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00170/full/full/0/default.jpg",
+      "bytes": 691883,
+      "sha256": "5fd7e6c9204810caa4e69e5bd7429eb510d127b5452f2172efc1f99219d10399",
+      "decoded_size": [
+        2102,
+        2852
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 171,
+      "label": "19 (0171)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=171",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00171/full/full/0/default.jpg",
+      "bytes": 726245,
+      "sha256": "9a92afdeadcc7671b5ae6dab6fb4bb746409cb8e297cb523d1f1fe6d105db368",
+      "decoded_size": [
+        2104,
+        2838
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 172,
+      "label": "20 (0172)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=172",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00172/full/full/0/default.jpg",
+      "bytes": 734460,
+      "sha256": "794521a83708f9eb250f3eec68260fb5d1ba46f862822a7c8a1cd3bc9388bd2d",
+      "decoded_size": [
+        2099,
+        2858
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 173,
+      "label": "21 (0173)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=173",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00173/full/full/0/default.jpg",
+      "bytes": 706538,
+      "sha256": "b56fd8d09b5f558756c287c8d94cc27ce8996b0d9debf7569b872e36bf92dd4a",
+      "decoded_size": [
+        2111,
+        2837
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 174,
+      "label": "22 (0174)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=174",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00174/full/full/0/default.jpg",
+      "bytes": 687383,
+      "sha256": "6e9a305b2011a3c24617beb9486160eea93f0e7054099a97bba987d93400a5ef",
+      "decoded_size": [
+        2096,
+        2856
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 175,
+      "label": "23 (0175)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=175",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00175/full/full/0/default.jpg",
+      "bytes": 696279,
+      "sha256": "4b45045d48dd82ede79f85d9ef415646009a157ce8084225962094a064ff7bd2",
+      "decoded_size": [
+        2111,
+        2838
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 176,
+      "label": "24 (0176)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=176",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00176/full/full/0/default.jpg",
+      "bytes": 680396,
+      "sha256": "8d66a7eddda9424d6847f2e1c547ff756c8316a40a9a4b000a62f6f1c867b234",
+      "decoded_size": [
+        2099,
+        2853
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 177,
+      "label": "25 (0177)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=177",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00177/full/full/0/default.jpg",
+      "bytes": 713707,
+      "sha256": "86d5c0c5b4df7499777efbb84e91beed59e88c55081cf10ade111db942e6ba28",
+      "decoded_size": [
+        2106,
+        2831
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 178,
+      "label": "26 (0178)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=178",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00178/full/full/0/default.jpg",
+      "bytes": 738424,
+      "sha256": "3bbdc2da26b24b614c17a702938f7f66e057f973618bc62ee652dbf1deb6fa8f",
+      "decoded_size": [
+        2107,
+        2855
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 179,
+      "label": "27 (0179)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=179",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00179/full/full/0/default.jpg",
+      "bytes": 737759,
+      "sha256": "ce6dce16e6e4fbef33f0bbe0855e5fe2dfe66bd5e4b3080b885f3d00c91852bd",
+      "decoded_size": [
+        2120,
+        2835
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 180,
+      "label": "28 (0180)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=180",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00180/full/full/0/default.jpg",
+      "bytes": 706467,
+      "sha256": "e9a964ee2790bab798c6ced2f93ac85513c5fd8a4110218777e3244cafe5daa4",
+      "decoded_size": [
+        2120,
+        2854
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 181,
+      "label": "29 (0181)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=181",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00181/full/full/0/default.jpg",
+      "bytes": 701967,
+      "sha256": "d01c2c3b85aeb3a44a0b42d0628380adfc70613f7d33aeb2ef065b0a820f86c7",
+      "decoded_size": [
+        2109,
+        2836
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 182,
+      "label": "30 (0182)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=182",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00182/full/full/0/default.jpg",
+      "bytes": 740328,
+      "sha256": "6eed9e0f1ab261d8572c0445c3097eb69a01eda42c3e7b002b921a180e7a08b9",
+      "decoded_size": [
+        2102,
+        2848
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 183,
+      "label": "31 (0183)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=183",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00183/full/full/0/default.jpg",
+      "bytes": 746423,
+      "sha256": "7b416bd389c2816dba415fa30e53b3be0482398b1fbc224aff6f1e4ea4faa6ef",
+      "decoded_size": [
+        2115,
+        2831
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 184,
+      "label": "32 (0184)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=184",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00184/full/full/0/default.jpg",
+      "bytes": 695889,
+      "sha256": "186360ec2458f7692d315f1a88b3b64a446d7d87955c4fe3665f9457018f58ad",
+      "decoded_size": [
+        2114,
+        2839
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 185,
+      "label": "33 (0185)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=185",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00185/full/full/0/default.jpg",
+      "bytes": 754336,
+      "sha256": "c96a1a2efb5f592e7951902b281fc5d7eb072138d36f8c6f191cb407379a638c",
+      "decoded_size": [
+        2116,
+        2851
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 186,
+      "label": "34 (0186)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=186",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00186/full/full/0/default.jpg",
+      "bytes": 567426,
+      "sha256": "b833eadd1986e35c80748bc3ea8cbdb1f7d4dc3c39958388d4e71a89d007fde5",
+      "decoded_size": [
+        2117,
+        2851
+      ],
+      "inspected": true,
+      "scope": "Article text"
+    },
+    {
+      "canvas": 187,
+      "label": "35 (0187)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=187",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00187/full/full/0/default.jpg",
+      "bytes": 694845,
+      "sha256": "3f83ea146a103ac1101a2ab27701c3721d7a9ffa5867bbeb5879a64017cdd7f3",
+      "decoded_size": [
+        2131,
+        2844
+      ],
+      "inspected": true,
+      "scope": "Boundary: next Macquer article, outside Bouguer claims"
     }
   ],
   "passages": [
@@ -82,15 +376,50 @@
     {
       "locator": "pp13-14/canvases165-166",
       "finding": "Describes screw-driven frame with wires/silk at focal plane and notes fixed terrestrial versus moving celestial use differences, magnification/field limitations and alternating-limb tracking. Description is not observed performance or surviving-object authentication."
+    },
+    {
+      "locator": "pp15-18/canvases167-170",
+      "finding": "Discusses limb comparison and timing limitations. Averaging under assumed sphericity could conceal axis differences. Historical claims about Jupiter and earlier observations require original-source checks; no validated shape inference."
+    },
+    {
+      "locator": "pp18-22/canvases170-174",
+      "finding": "Proposes parallel wires and even-number pendulum beats to reduce unequal alternating beats. Criticizes Louville1724 and later partial adoption of the method. p22 converts 2min22sec of true solar time to35arcmin30arcsec using360degrees/24hours; this is hour-angle conversion, not a disk diameter without declination. Cited Louville text and later books remain uninspected."
+    },
+    {
+      "locator": "pp23-26/canvases175-178",
+      "finding": "Proposes two objectives with one eyepiece and upper/lower micrometer readings. Terrestrial target calibration is required; screw displacement divided by focal length alone is inadequate across the whole travel. Claimed precision and longer-telescope possibilities are proposals, not inspected trials."
+    },
+    {
+      "locator": "pp27-29/canvases179-181",
+      "finding": "Reports commissioning eight nominal18feet focal-length objectives from an unnamed skilled artisan, selecting two after examination; two or three differed7-8inches in focal length. Describes contrast, irradiation, shading and thermal-expansion concerns. This is a contemporary construction report, not surviving-object or workshop authentication. Historical solar observation methods are not modern safety instructions."
+    },
+    {
+      "locator": "pp30-31/canvases182-183",
+      "finding": "Reports beginning observations last October, without an authenticated absolute start date here. Apparent vertical solar diameter reportedly exceeds horizontal by0.5-1arcsec despite expected refraction shortening; tentative true excess2.5-3arcsec and at least1/750 axis difference are author inferences. He suspends judgment pending different instruments and seasonal/altitude comparisons."
+    },
+    {
+      "locator": "pp32-34/canvases184-186",
+      "finding": "Considers atmospheric dispersion and colored solar limbs; cites Delisle1715p168 without original inspection here. p34 expressly says the apparent vertical excess does not prove a genuinely larger solar axis. Longer use is required to separate dispersion expansion from ordinary refraction compression. No dated per-trial raw observation table or validated accuracy established."
     }
   ],
   "bevis_comparison": "Supports identification of actual broad Auzout/Picard apparatus credit, stronger than merely perfectedconstruction wording in deLaHire1717. Earlier Kepler/Huygens principles are also credited. Does not establish complete priority, opponent access to Gascoigne work, deliberate appropriation, ancient recovery or measured accuracy.",
   "dependence": "Bouguer cites earlier optical/treatise works. Actual author/edition transmission relationship to deLaHire or Bevis not authenticated; shared historical credit is not independent instrument measurement. Manifest/catalog and image share BSB surrogate lineage.",
   "limits": [
-    "Only selected openingpages inspected",
-    "OriginalKepler/Huygens/1666treatise notinspected",
-    "NoGascoigneknowledgeorintent chain",
-    "Nooriginalpaper/instrument/calibration authentication",
-    "Noindependentreview"
-  ]
+    "Other volume plates uninspected; no instrument illustration assigned",
+    "Cited Kepler/Huygens/1666treatise/Louville1724/Delisle1715 originals not inspected",
+    "Unnamed artisan; no surviving instrument, workshop or calibration records authenticated",
+    "Relative last October observation start not promoted to an exact date",
+    "No Gascoigne knowledge or intent chain",
+    "No validated solar shape or accuracy result",
+    "No independent review"
+  ],
+  "arithmetic_check": {
+    "source_locator": "p22/canvas174",
+    "reported_transit_seconds": 142,
+    "assumed_degrees_per_solar_day": 360,
+    "seconds_per_day": 86400,
+    "computed_arcseconds": 2130.0,
+    "computed_sexagesimal_arc": "35arcmin30arcsec",
+    "status": "Arithmetic reproduced; not independent observation, calibrated accuracy, or declination-corrected disk diameter"
+  }
 }

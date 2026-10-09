@@ -4661,14 +4661,14 @@
     },
     {
       "id": "S300",
-      "title": "Bouguer1748 heliometer essay: opening micrometer credit and limitations",
+      "title": "Bouguer1748 heliometer essay: complete article text, credit, construction and observation limits",
       "creator": "Pierre Bouguer; French Academy memoirs; Bayerische Staatsbibliothek digital surrogate",
       "publication_date": "1752",
       "url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=163",
       "source_type": "Historical printed memoirs digital scans",
       "access": "SCAN_INSPECTED",
-      "inspected": "Memoirspp11-14/canvases163-166 visually inspected: heading24April1748, Kepler/Huygens principles and broad Auzout/Picard mechanism/whole-instrument credit,1666treatise footnote and moving-target/field limitations. Manifest metadata inspected.",
-      "limitations": "Selected opening only, remaining article/plates uninspected. Heading/reporting1748 and catalog publication1752 distinct. Cited originals, Gascoigne knowledge/intent and measured accuracy unverified. BSB NoC-NC scans linked rather than redistributed; no independent review.",
+      "inspected": "Complete article text pp11-34/canvases163-186 visually inspected; next article p35/canvas187 inspected only to establish boundary. No instrument diagram identified within these article pages. Other volume plates uninspected and not assigned to this article; no full-volume search or diplomatic transcription. Opening attribution, proposed calibration, reported lens manufacture, time conversion and explicitly suspended solar-shape judgment inspected; selected key pages reinspected.",
+      "limitations": "Other volume plates and cited originals uninspected. Reporting1748/catalog publication1752 distinct; last October not an authenticated exact date. Artisan unidentified, no surviving instrument/calibration authentication, no validated solar shape, Gascoigne access or intent, or independent review. NoC-NC scans linked, not redistributed.",
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
