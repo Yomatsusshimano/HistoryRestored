@@ -314,3 +314,8 @@ S302threeprefacesurfaces/pp413–415 inspected. Auzout/Picardshare and rare1667p
 ### 2026-10-09 — Complete 1693 reprint and inline instrument drawing
 
 S302 complete micrometer pp413–422 and next-article boundary inspected; fourteen registered surfaces include the three earlier preface pages. Earlier mechanics, eleven precautions and future-observation promise retained. Inline p420 drawing compared with S301 separate plate; repeated nominal claims are not independent accuracy tests. See [complete reprint audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/302 sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Exact1687 preface target inspected
+
+S303 title/reverse and six preface surfaces inspected. Second preface page and continuation directly confirm Picard application credit without express first-inventor designation, agreeing with Derham1717 qualification. Remaining preface/volume and original custody unverified. See [exact preface audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/303 sources; all twenty objectives active, no independent review or priority verdict.

@@ -1,0 +1,128 @@
+{
+  "source_id": "S303",
+  "book_id": "Mry0snKn15QC",
+  "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP7",
+  "date": "2026-10-09",
+  "coverage": "Title PP7, bleed-through reverse PP8, and six preface surfaces PP9-14 visually inspected from public reader images. Target second preface page PP10 and continuation PP11 inspected in full. Remaining preface, tables, diagrams and volume uninspected. Derham1717p603 re-inspected for selected quotation comparison.",
+  "pages": [
+    {
+      "page_id": "PP7",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP7",
+      "bytes": 88319,
+      "sha256": "a64d0c0622e51cb12fe46130c20a27740da35f23bcbe34ddbd2df2fcd98df481",
+      "dimensions": [
+        575,
+        800
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP8",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP8",
+      "bytes": 59692,
+      "sha256": "93323cb36791bd8a256fe6c42efddde3b02d789b38538d69a6e6e1db17ca369e",
+      "dimensions": [
+        575,
+        809
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP9",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP9",
+      "bytes": 106001,
+      "sha256": "956e679e81abed7565b68e3246dffb293dd83384d818390104d3e369f9c31d6b",
+      "dimensions": [
+        575,
+        805
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP10",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP10",
+      "bytes": 107228,
+      "sha256": "01964cb98da44e3e4dcb9ac0fdecaebb709c937b3d91fa7b1197befbe113d441",
+      "dimensions": [
+        575,
+        815
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP11",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP11",
+      "bytes": 103170,
+      "sha256": "62dc8348d2b39b8ee05ea7feba92ff9576ee14f6f91419771751c63216a75639",
+      "dimensions": [
+        575,
+        802
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP12",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP12",
+      "bytes": 102859,
+      "sha256": "bf73915fdcd99ae64636ba63c3bd31acb59d82be465344c5e35ae8053782610f",
+      "dimensions": [
+        575,
+        807
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP13",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP13",
+      "bytes": 105318,
+      "sha256": "7650072619be728dcf1b9e2291b931f4b65fbc2b7ad018b97cb84e392c0939e2",
+      "dimensions": [
+        575,
+        815
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP14",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP14",
+      "bytes": 102118,
+      "sha256": "9e548af1380b3f40f439122cc65f20a9eb1d055f165fefae0fddb03fdbea180c",
+      "dimensions": [
+        575,
+        806
+      ],
+      "inspected": true
+    }
+  ],
+  "rights": "Google/UCM delivery images retained locally and linked; unrestricted scan redistribution not established. Public reader links used; no authentication or access-control bypass.",
+  "findings": [
+    {
+      "locator": "title/PP7",
+      "finding": "Visible title Tabularum astronomicarum pars prior; author PH. DE LA HIRE; Paris Stephan Michallet; M.DC.LXXXVII. Catalog Madrid origin agrees at document-content level; stamps/annotations not forensic custody authentication."
+    },
+    {
+      "locator": "second preface page/PP10, final paragraph; continuation PP11 first paragraph",
+      "finding": "Credits Picard replacing dioptric sight openings with telescopes, enabling observations of fixed stars and some planets on the meridian and more accurate distance/altitude measurement. Describes application and advantages; does not expressly identify first inventor or name Gascoigne in this passage."
+    },
+    {
+      "locator": "PP10 vs S292p603",
+      "finding": "Selected opening Latin passage agrees in substance with Derham quoted Picard application language. Derham supplies bracketed Royal Academy expansion and truncates continuation with etc.; spelling/capitalization/typographic differences not promoted to changes of technical meaning. Derham himself acknowledges no express inventor designation and infers implication."
+    },
+    {
+      "locator": "PP9-14",
+      "finding": "Surrounding text discusses older instruments, Huygens pendulum clocks and observational/instrumental arrangements. Technical reports are author claims, not independently authenticated construction or performance. Selected absence of Gascoigne is not an exhaustive volume search or evidence of author access or intent."
+    }
+  ],
+  "access_checks": {
+    "archive_title_year_query": "0 results for title:(Tabularum astronomicarum) AND year:1687; broader title returned ten unrelated items; creator:Hire AND year:1687 returned zero. Bounded index searches, not nonexistence proof.",
+    "guessed_archive_google_id": "Metadata returned empty object; not registered as an item.",
+    "google_pdf": "Fresh public reader advertised PDF download failed curl HTTP-error exit22; no PDF acquired. Individual advertised public page-image links succeeded.",
+    "gallica": "Known f5 reader returned403; access failure not archival loss."
+  },
+  "limits": [
+    "Remaining preface and volume unread",
+    "No full diplomatic collation or authenticated physical original",
+    "No original Gascoigne correspondence, calibrated instrument or opponent-access/intent evidence",
+    "No exclusive priority, ancient recovery or independent review established"
+  ]
+}

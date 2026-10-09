@@ -25,7 +25,7 @@ The initial DOI-based Archive PDF endpoint returned503 twice. On2026-10-09 a sep
 |Question|Evidence needed|Current limit|
 | --- | --- | --- |
 |Did Gascoigne construct/use the diagnostic arrangement earlier?|Original dated descriptions, diagrams, observations or instruments with custody|Printed excerpts now read; underlying originals and instruments unchecked|
-|What did de la Hire actually attribute to Picard?|The identified preface in the relevant edition and its exact language|Derham now quotes and qualifies the passage; separate original still unchecked|
+|What did de la Hire actually attribute to Picard?|The identified preface in the relevant edition and its exact language|S303 second preface page and continuation inspected; application credit confirmed, remaining preface and priority unchecked|
 |Was priority lost through copying, omission or limited access?|Source-to-source comparisons and evidence of access|No access chain or editorial mechanism established|
 |Was there independent reinvention?|Diagnostic design comparison and chronology without assumed transmission|Resemblance/priority claim alone cannot distinguish it|
 |Did the Society correct public credit?|Earlier extracts, replies and later reception|1717 article now inspected; acceptance or universal correction unverified|
@@ -265,3 +265,16 @@ Page420 retains the promise to publish Auzout/Picard observations later, matchin
 The instrument drawing is inline on p420, beneath the article text. Selected visual comparison with S301's separate plate shows the same broad arrangement of tube, retaining ring, screw/dial frame, alternative frames and rule, with differences in shading and line presentation. This does not authenticate a common printing matrix, surviving object or dimensionally equivalent manufacture. Pages421–422 retain the sixty-part dial explanation, alternative frames and twelve linear eclipse digits. Some components are expressly not drawn. Page423 begins Frénicle's magic-square article and is a boundary check only.
 
 The earlier reticle 20″/25″ variant remains unresolved; no full word-by-word collation or named editorial authority is claimed. Complete coverage strengthens the transmission comparison while retaining performance and priority limits. Next recover the exact1687preface, original correspondence/custody records and the promised observation publication. All twenty objectives remain active; independent review is absent.
+
+
+## Exact 1687 preface recovered: application versus inferred invention
+
+2026-10-09. S303 supplies the [Google/UCM public-reader preface](https://books.google.com/books?id=Mry0snKn15QC&pg=PP10). The title PP7, its reverse PP8, and six preface surfaces PP9–14 were visually inspected. The target second preface page PP10 and its PP11 continuation are now read directly. Remaining preface and volume are unread. The [ledger](../data/lahire1687-preface.json) registers eight delivery images, dimensions, bytes, hashes, coverage and limits. They remain local and are linked; no unrestricted scan license is assumed.
+
+The visible title gives de la Hire, Paris/Stephan Michallet and M.DC.LXXXVII. This supports the1687 publication label of this scan; handwritten marks and library stamps do not authenticate the physical object's age or custody. A fresh advertised PDF download still failed, while advertised public-reader page images succeeded. Gallica returned403; bounded Archive searches found no matching1687 item. None of those access/index results implies historical disappearance.
+
+The Picard paragraph begins at the foot of PP10 and continues on PP11. It describes Picard removing conventional sight openings and substituting telescopes, allowing meridian observations and more accurate distances/altitudes. It credits an application and its advantages. It does not expressly call him the first inventor in this passage. Selected comparison with reinspected Derham1717p603 supports the substance of Derham's Latin quotation; his bracketed Academy expansion and abbreviated ending are distinguished from the original. No full diplomatic collation is claimed.
+
+Derham's own1717 acknowledgment that the quoted words do not expressly designate Picard inventor therefore agrees with the directly inspected passage. His further inference of priority and claim against the French remain his argument. This narrows the stronger1713 allegation without deciding Gascoigne's priority or whether de la Hire knew the earlier English records. Picard credit is present; deliberate appropriation, ancient recovery and author intent are not established. Gascoigne's absence from this target passage is not a full-volume absence claim.
+
+Surrounding inspected pages discuss older instruments, Huygens clocks and observing arrangements. Their construction/performance statements remain source reports, not independent trials. The precise1687 target is no longer missing, but full preface coverage, original correspondence/custody, numerical-variant authority and the promised observations remain open. All twenty objectives remain active; C027 is an unreviewed sourced draft.
