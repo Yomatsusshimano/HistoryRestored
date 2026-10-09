@@ -2751,6 +2751,62 @@
         "Explicit nonuniform chronology transformation requiring separate tests"
       ],
       "counterevidence": "Modern model contacts remain48-55s earlier than inspected source times; first-contact clock/delay arithmetic differs11-16s from reported corrected time. Precise timing and manuscript authenticity remain unresolved. These discrepancies do not establish a chronology break. Final partial contact remains40.022s earlier in the model; four synopsis durations exceed the author inferred maximum. These are not silently excluded. Maraldi phase tables include substantial model differences and unresolved late6 time token; noerror-based precision fit established."
+    },
+    {
+      "id": "C027",
+      "title": "Gascoigne telescopic sights: a documented attribution dispute",
+      "category": "invention attribution",
+      "place": "Upminster, reported origin of Derham letter; instrument locations unverified",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S290",
+          "locator": "EL/D1/60 image1, sideways main paragraph",
+          "statement": "Derham alleges de la Hire credits Picard rather than Gascoigne with first applying telescopic sights to mathematical instruments; he identifies the second preface page. This is the author's allegation."
+        },
+        {
+          "source_id": "S290",
+          "locator": "Image1, main paragraph lower lines",
+          "statement": "Derham reports holding Gascoigne papers and offers copies for Transactions. Earlier letter dates are reported leads, not authenticated invention dates."
+        },
+        {
+          "source_id": "S291",
+          "locator": "Crossref title, bibliographic fields and publication date",
+          "statement": "Metadata identifies a1717 article with Gascoigne/Crabtrie extracts and a priority-claim title. Contents and exact relation to the1713 proposal remain uninspected."
+        }
+      ],
+      "physical_evidence": "Two manuscript digital image surfaces inspected; no original paper, ink, instrument or material dating examined.",
+      "surviving_documents": "Royal Society EL/D1/60 manuscript surrogate and rights manifest preserved; publisher metadata locates a later article, whose contents remain uninspected.",
+      "source_interpretation": "Derham argues Gascoigne deserves priority and proposes publication of earlier correspondence.",
+      "investigation_inference": "A specific contemporary credit dispute and proposed correction route are documented. Technical priority, transmission, editorial action and later acceptance remain unresolved.",
+      "competing_explanations": [
+        "Earlier Gascoigne use omitted through incomplete access or knowledge",
+        "Independent development with different diagnostic arrangements",
+        "Selective attribution or deliberate appropriation requiring evidence of access and intent",
+        "Different meanings of first application or invention"
+      ],
+      "counterevidence": "The opposed preface and earlier correspondence have not been checked; a partisan allegation and later claim-bearing article title cannot settle priority. The surviving dispute also challenges a claim of uniform historical silence about earlier contributors.",
+      "next_test": "Acquire the1717 extracts and exact de la Hire preface; trace original Gascoigne/Crabtree correspondence, diagnostic designs, custody, replies and reception before judging priority or correction.",
+      "chronology": {
+        "reported": "1713-11-30 manuscript catalog date; Saint Andrew's Day1713 visible heading;1717-06-30 deposited publication date",
+        "dated_object": "Manuscript surrogate and bibliographic record",
+        "method": "Selected visual reading and publisher metadata",
+        "raw_date": "1713-11-30",
+        "uncertainty": null,
+        "timescale": "Historical calendar labels; physical age unverified",
+        "event_association": "Letter date is not an invention date"
+      },
+      "missing": [
+        "Exact opposing preface/edition",
+        "1717 article contents",
+        "Original earlier correspondence and custody",
+        "Authenticated instrument/design chronology",
+        "Reception and editorial response",
+        "Independent review"
+      ],
+      "dependence": "Item catalog and manuscript manifest share Royal Society archival lineage. Crossref identifies a later Derham intervention; it is not independent technical confirmation of his earlier allegation. No publication-response chain authenticated."
     }
   ]
 }

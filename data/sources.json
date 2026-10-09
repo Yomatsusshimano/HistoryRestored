@@ -4507,6 +4507,37 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S290",
+      "title": "William Derham to Richard Waller: Gascoigne telescopic-sight attribution dispute",
+      "creator": "William Derham; The Royal Society digital surrogate",
+      "publication_date": "1713-11-30",
+      "url": "https://makingscience.royalsociety.org/items/el_d1_60/letter-from-william-derham-to-richard-waller-dated-at-upminster",
+      "source_type": "Primary manuscript digital surrogate, EL/D1/60",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Both manuscript image surfaces visually inspected; selected main-paragraph reading, heading, signature and docket. Allegation about de la Hire attribution, reported possession of Gascoigne papers and offer to publish copies.",
+      "limitations": "No complete diplomatic transcription, physical authentication or independent review. Earlier papers and opposing preface uninspected. Inserted later letter year uncertain. Manifest CC BY4.0 requires attribution The Royal Society; unchanged delivery images are not master TIFFs.",
+      "local_copy": "sources/originals/invention/derham1713/image-1.jpg",
+      "sha256": "dffe9a02994b2cb437629252cb2117ef0272c48737d0e005ae6bcc740f6f65b9"
+    },
+    {
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S291",
+      "title": "Metadata for Derham: extracts from Gascoigne and Crabtrie letters claiming priority for telescopic sights",
+      "creator": "W. Derham; Royal Society publisher-deposited Crossref metadata",
+      "publication_date": "1717-06-30",
+      "url": "https://api.crossref.org/works/10.1098/rstl.1717.0010",
+      "doi": "10.1098/rstl.1717.0010",
+      "source_type": "Publisher-deposited article metadata",
+      "access": "CATALOG_METADATA",
+      "inspected": "Metadata title, author, volume30 issue352, pages603-610 and deposited publication date read; raw JSON preserved.",
+      "limitations": "Article contents and copied letters not inspected; attempted PDF returned503 twice. Claim-bearing title does not establish priority, reception or an authenticated link to the1713 offer. Access failure is not evidence of loss.",
+      "local_copy": "sources/originals/invention/derham1713/publication-crossref.json",
+      "sha256": "112279fe1e2ce41bfe7e6fcc94f0ad4cc275c972c9c03a48dfb92883f261d752"
     }
   ]
 }

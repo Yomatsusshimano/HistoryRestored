@@ -234,3 +234,8 @@ The [intermediate-source audit](WILLAPA-INTERMEDIATE-LEADS.md) recovers selected
 ### 2026-10-09 — Original coastal methods constrain transferred claims
 
 The [Phipps source audit](PHIPPS-COASTAL-AUDIT.md) separates approximate photo high-tide proxies, vegetation edges and monument-based beach levels. LongBeachaggregate vegetation distances are not independently located at GrassyIsland. Selected slope/correlation mismatches are preserved alongside reproducing calculations; they warrant input/scope recovery without inferring young terrain or intentional fabrication. Intermediate original island photo plates remain missing.
+
+
+### 2026-10-09 — Primary invention-credit dispute recovered
+
+C027/S290 adds both inspected Royal Society EL/D1/60 manuscript surfaces: Derham alleges misattribution of telescopic sights, reports holding earlier Gascoigne papers and offers copies for publication. S291 publisher metadata locates a1717 intervention; contents and opposed preface remain uninspected. Originals, CC BY4.0 attribution and hashes preserved. See [Gascoigne attribution audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/291 sources; no technical priority, restored identity, independent review or rewriting mechanism established. All twenty objectives remain active.

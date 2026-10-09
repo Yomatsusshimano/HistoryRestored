@@ -1,0 +1,63 @@
+{
+  "source_ids": [
+    "S290",
+    "S291"
+  ],
+  "archive_reference": "EL/D1/60",
+  "acquired_date": "2026-10-09",
+  "files": [
+    {
+      "path": "sources/originals/invention/derham1713/image-1.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_D1%2FEL_D1_60%2Ftif%2FEL_D1_60_0001.ptif/full/2335,/0/default.jpg",
+      "bytes": 1993609,
+      "sha256": "dffe9a02994b2cb437629252cb2117ef0272c48737d0e005ae6bcc740f6f65b9",
+      "decoded_size": [
+        2335,
+        3592
+      ]
+    },
+    {
+      "path": "sources/originals/invention/derham1713/image-2.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_D1%2FEL_D1_60%2Ftif%2FEL_D1_60_0002.ptif/full/2335,/0/default.jpg",
+      "bytes": 1730455,
+      "sha256": "79bab7277f8b3b78c23d6dccc24f52d70106814d0e053a4f072dd55efc288ac9",
+      "decoded_size": [
+        2335,
+        3642
+      ]
+    },
+    {
+      "path": "sources/originals/invention/derham1713/manifest.json",
+      "url": "https://makingscience.royalsociety.org/items/el_d1_60/letter-from-william-derham-to-richard-waller-dated-at-upminster/manifest.json",
+      "bytes": 3540,
+      "sha256": "a3c9d255f40b888f86874501dec7ccc082bc2d98b239b02c3729a0c5e83f77d3"
+    },
+    {
+      "path": "sources/originals/invention/derham1713/publication-crossref.json",
+      "url": "https://api.crossref.org/works/10.1098/rstl.1717.0010",
+      "bytes": 3179,
+      "sha256": "112279fe1e2ce41bfe7e6fcc94f0ad4cc275c972c9c03a48dfb92883f261d752"
+    }
+  ],
+  "rights": "Royal Society manuscript image manifest CC BY4.0, attribution TheRoyalSociety. Unmodified2335pixel-wide IIIFdelivery images, not archival master TIFFs; historical letter/publication texts public domain.",
+  "inspection": "Both letter image surfaces visually inspected; top main paragraph rotated/cropped locally for legibility, transformations not published as original scans. Date/location heading and signature/docket visible. Selected claim paraphrases; no complete diplomatic transcription.",
+  "claims": [
+    {
+      "locator": "image1,sideways main paragraph",
+      "statement": "Derham alleges de laHire secondpage preface tofirstpart astronomical tables creditsPicard forfirst telescopic sights ratherthanGascoigne.",
+      "status": "AUTHOR_ALLEGATION"
+    },
+    {
+      "locator": "image1,main paragraph lower lines",
+      "statement": "Derham saysGascoigne papersareinhishands andofferscopiesforTransactions ifSocietypleases.",
+      "status": "REPORTED_CUSTODY_AND_PROPOSAL"
+    }
+  ],
+  "uncertain_tokens": {
+    "claimed_Picard_reference_year": "1686 read from heading paragraph; not inventiondate",
+    "offered_letter_years": "1638 and overwritten/inserted later year read provisionally as41",
+    "verified_earlier_letters": null
+  },
+  "publication_status": "Crossref catalogmetadata identifies1717-06-30 article30(352),603-610 with explicit priorityclaim title. Full article inaccessible after two normal503responses; contents/lettercopies not inspected.",
+  "metadata_limit": "Manifest canvas width/height reversed relative to body/API geometry; downloaded decoded sizes recorded without inferring physical dimensions. Item/correspondence catalog summaries share institutional lineage."
+}

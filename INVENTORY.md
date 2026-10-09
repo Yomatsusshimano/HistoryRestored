@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-26 sourced drafts; 0 independent scientific reviews.
+27 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -33,6 +33,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C024 | Moxee City mammoth: weathering before flood burial |
 | C025 | Chicago grade proposals, river works and Lake Street building raising,1855-1861 |
 | C026 | 1715 London-Paris eclipse observations and chronology diagnostics |
+| C027 | Gascoigne telescopic sights: a documented attribution dispute |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -1075,3 +1076,33 @@ Place: Royal Society house, Crane Court, London; Luxembourg contextually interpr
 **Chronology:** {"reported": "April22,1715Julian interpreted asMay3,1715Gregorian;CrossrefpublicationMay31,1715", "dated_object": "Printed report of observation and modern calculated event", "method": "Scan transcription, explicit calendar arithmetic and conditional orbital calculation", "raw_date": "1715-04-22", "uncertainty": null, "timescale": "Julian source label/Gregorian model label", "event_association": "CONDITIONAL"}
 
 **Missing:** Original manuscript and physical custody; Historical clock error distribution; Exact observer position/height; Independent high-precision ephemeris and rotation sensitivity; Multiple held-out astronomical anchors; Independent review; Original regional correspondence/calibration and geocoded observer sites; remaining partial/sunspot timing transcription; Authenticated Delisle Luxembourg site and clock convention; numerical peak/end seconds unavailable; Maraldi original micrometer readings, gnomon/site/clock logs, late time token/additional edition reconciliation
+
+## C027: Gascoigne telescopic sights: a documented attribution dispute
+
+Place: Upminster, reported origin of Derham letter; instrument locations unverified. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Derham alleges de la Hire credits Picard rather than Gascoigne with first applying telescopic sights to mathematical instruments; he identifies the second preface page. This is the author's allegation. [S290](https://makingscience.royalsociety.org/items/el_d1_60/letter-from-william-derham-to-richard-waller-dated-at-upminster). Locator: EL/D1/60 image1, sideways main paragraph. Access: SCAN_INSPECTED. Limit: No complete diplomatic transcription, physical authentication or independent review. Earlier papers and opposing preface uninspected. Inserted later letter year uncertain. Manifest CC BY4.0 requires attribution The Royal Society; unchanged delivery images are not master TIFFs.
+- Derham reports holding Gascoigne papers and offers copies for Transactions. Earlier letter dates are reported leads, not authenticated invention dates. [S290](https://makingscience.royalsociety.org/items/el_d1_60/letter-from-william-derham-to-richard-waller-dated-at-upminster). Locator: Image1, main paragraph lower lines. Access: SCAN_INSPECTED. Limit: No complete diplomatic transcription, physical authentication or independent review. Earlier papers and opposing preface uninspected. Inserted later letter year uncertain. Manifest CC BY4.0 requires attribution The Royal Society; unchanged delivery images are not master TIFFs.
+- Metadata identifies a1717 article with Gascoigne/Crabtrie extracts and a priority-claim title. Contents and exact relation to the1713 proposal remain uninspected. [S291](https://api.crossref.org/works/10.1098/rstl.1717.0010). Locator: Crossref title, bibliographic fields and publication date. Access: CATALOG_METADATA. Limit: Article contents and copied letters not inspected; attempted PDF returned503 twice. Claim-bearing title does not establish priority, reception or an authenticated link to the1713 offer. Access failure is not evidence of loss.
+
+**Physical evidence:** Two manuscript digital image surfaces inspected; no original paper, ink, instrument or material dating examined.
+
+**Surviving documents:** Royal Society EL/D1/60 manuscript surrogate and rights manifest preserved; publisher metadata locates a later article, whose contents remain uninspected.
+
+**Source interpretation:** Derham argues Gascoigne deserves priority and proposes publication of earlier correspondence.
+
+**Investigation inference:** A specific contemporary credit dispute and proposed correction route are documented. Technical priority, transmission, editorial action and later acceptance remain unresolved.
+
+**Counterevidence:** The opposed preface and earlier correspondence have not been checked; a partisan allegation and later claim-bearing article title cannot settle priority. The surviving dispute also challenges a claim of uniform historical silence about earlier contributors.
+
+**Next test:** Acquire the1717 extracts and exact de la Hire preface; trace original Gascoigne/Crabtree correspondence, diagnostic designs, custody, replies and reception before judging priority or correction.
+
+**Dependence:** Item catalog and manuscript manifest share Royal Society archival lineage. Crossref identifies a later Derham intervention; it is not independent technical confirmation of his earlier allegation. No publication-response chain authenticated.
+
+**Alternatives:** Earlier Gascoigne use omitted through incomplete access or knowledge; Independent development with different diagnostic arrangements; Selective attribution or deliberate appropriation requiring evidence of access and intent; Different meanings of first application or invention
+
+**Chronology:** {"reported": "1713-11-30 manuscript catalog date; Saint Andrew's Day1713 visible heading;1717-06-30 deposited publication date", "dated_object": "Manuscript surrogate and bibliographic record", "method": "Selected visual reading and publisher metadata", "raw_date": "1713-11-30", "uncertainty": null, "timescale": "Historical calendar labels; physical age unverified", "event_association": "Letter date is not an invention date"}
+
+**Missing:** Exact opposing preface/edition; 1717 article contents; Original earlier correspondence and custody; Authenticated instrument/design chronology; Reception and editorial response; Independent review
