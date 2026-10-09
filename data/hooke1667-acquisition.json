@@ -1,0 +1,37 @@
+{
+  "source_id": "S295",
+  "acquired_date": "2026-10-09",
+  "url": "https://archive.org/download/jstor-101232/101232.pdf",
+  "download_bytes": 930112,
+  "download_sha256": "425081e12933145a34dfd12f4e2c3002e1c6957996be8335cc5c39310546d81b",
+  "local_copy": "sources/originals/invention/derham1713/hooke1667-description.pdf",
+  "bytes": 872179,
+  "sha256": "849eaf487e7d60f33059d022448185572b61c21d72aa8e440644daea153d2c19",
+  "transformation": "Removed modern JSTOR cover from7-page PDF; all6historical scan surfaces preserved without cropping. Rewritten container not original download bytes.",
+  "scan_sequence": [
+    "541",
+    "542",
+    "543",
+    "544",
+    "556",
+    "unnumbered plate with Figures1-5"
+  ],
+  "inspection": "Four article pages and page556 visually inspected at1600pixel render; plate inspected at2000pixel. This is not the full issue: pages545-555 absent from downloaded article package. Page556 correction included; unrelated neighboring content not interpreted as micrometer evidence.",
+  "date_label": "Issue masthead Monday,November11,1667; historical printed label, not independently authenticated distribution day or modern Gregorian date.",
+  "rights": "Historical public-domain text/engraving; modern JSTOR cover excluded, cover permits noncommercial sharing. No original-object or unrestricted master-file rights asserted.",
+  "diagram_limits": "Flattened digital plate, not inspected physical fold/cut mechanism; intended movable-cover action described by text. No scale inferred from image pixels.",
+  "reported_counts": {
+    "locator": "p543",
+    "linear_thread_divisions": 60,
+    "dial_parts_per_revolution": 100,
+    "nominal_combination": 6000,
+    "calculation": "60*100",
+    "limit": "Dial interpolation/readout over reported travel, not6000parts perfoot; lead, travel and calibration unmeasured."
+  },
+  "missing": [
+    "Surviving instrument and original calibration",
+    "Physical fold/cut configuration and manuscript comparison",
+    "Verified original Gascoigne device versus later version linkage",
+    "Independent review"
+  ]
+}

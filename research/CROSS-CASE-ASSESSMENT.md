@@ -249,3 +249,8 @@ S292 recovers all8Derham1717article pages603-610 through JSTOR-derived scan afte
 ### 2026-10-09 — Earlier micrometer claim and response inspected
 
 S293/S294 add all5Auzout/Towneley historical scan pages. Towneley explicitly responds to issue21/p373, reports3Gascoigne instruments and later watchmaker improvement; original objects unverified. Shared-method superiority and exclusive invention separated; performance/missing-treatise limits retained. See [attribution sequence](GASCOIGNE-ATTRIBUTION.md).27 drafts/294 sources; no appropriation, priority verdict or independent review. All twenty objectives active.
+
+
+### 2026-10-09 — Instrument description and design changes recovered
+
+S295 adds pp541-544,p556note and five-figure plate, all6surfaces inspected. Explicit issue25 link, publisher/engraver delay and Hooke drawing/description credit retained. Mechanical readout, alternative hair sights and rest correction separated from calibrated accuracy/original manufacture. See [instrument attribution audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/295 sources; custody/priority/reception and independent review unresolved. All twenty objectives active.

@@ -4584,6 +4584,21 @@
       "sha256": "6d308e038f7dedde3f8f046df678a518bb8a975dbe10e905bfdad2306dd54959",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S295",
+      "title": "Issue29 instrument description with Hooke drawings and later rest-orientation note",
+      "creator": "Philosophical Transactions publisher; drawings and description credited to Mr. Hook; JSTOR scan via Internet Archive",
+      "publication_date": "1667-11-11",
+      "url": "https://archive.org/download/jstor-101232/101232.pdf",
+      "source_type": "Primary printed instrument description and engraved plate digital surrogate",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All6historical surfaces inspected: pp541-544 description, p556 insertion note and unnumbered Figures1-5 plate. Printed masthead date, arrival/delay statement, explicit Hooke credit,60thread divisions/100dial parts, alternative hair sights and rest-orientation suggestion checked.",
+      "limitations": "Not a complete issue; downloaded package skips545-555. Flattened plate does not authenticate physical flap/scale. Original instrument, fabrication, calibration and earlier-design correspondence unchecked. Printed date label not proven distribution day. No independent review.",
+      "local_copy": "sources/originals/invention/derham1713/hooke1667-description.pdf",
+      "sha256": "849eaf487e7d60f33059d022448185572b61c21d72aa8e440644daea153d2c19",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

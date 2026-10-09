@@ -32,7 +32,7 @@ The initial DOI-based Archive PDF endpoint returned503 twice. On2026-10-09 a sep
 
 Ordinary incomplete knowledge, independent development, selective credit and deliberate appropriation are different hypotheses. This letter does not identify a lost civilization, recovered technology or widespread fabrication. Finding a recorded priority dispute also prevents describing the historical record as uniformly silent about earlier contributors.
 
-Next inspect the separate de la Hire preface and issue29 description/plate, then trace original Gascoigne/Crabtree papers, Towneley manuscript and publication reception. This expands the invention/attribution and primary-voice branches while preserving all twenty objectives. C027 remains a sourced draft with no independent review; no restored identity, worldwide mechanism or reconstruction completion is claimed.
+Next inspect the separate de la Hire preface, then trace original Gascoigne/Crabtree papers, Towneley manuscript and publication reception. This expands the invention/attribution and primary-voice branches while preserving all twenty objectives. C027 remains a sourced draft with no independent review; no restored identity, worldwide mechanism or reconstruction completion is claimed.
 
 
 ## Printed argument and technical discrimination: 2026-10-09 update
@@ -67,3 +67,25 @@ His national-credit framing is explicit. It documents his motive for speaking pu
 The sequence now has an explicit printed link: Auzout's account, Towneley's cited response, and Derham's later reuse of that dispute and reported papers. It is evidence of a **publicly contested attribution and reported improvement process**. Three surviving printed records are not three independent instrument tests. We must distinguish original principle, improved device, telescopic-sight application, claimed precision, exclusive priority and subsequent attribution. This advances the mechanism question without converting a credit dispute into proof of widespread historical rewriting or recovered ancient technology.
 
 Next compare Royal Society EL/T/19 with the printed Towneley text and inspect the promised issue29 description/plate. The separate de la Hire preface, original earlier correspondence, named instrument custody and later reception remain required. All twenty objectives remain active; no independent review or restored-identity completion claimed.
+
+
+## Promised description, engraved mechanism and correction recovered
+
+2026-10-09. S295 adds the [issue29 description and plate](../sources/originals/invention/derham1713/hooke1667-description.pdf). All six historical scan surfaces were inspected: pp541-544, the insertion note on p556, and the unnumbered plate. The downloaded article package does **not** contain pages545-555; neither a complete issue nor continuous pagination is claimed. Modern cover removal and the two file hashes are recorded in the [acquisition ledger](../data/hooke1667-acquisition.json).
+
+The p541 masthead reads Monday,November11,1667. This is a printed historical calendar label, not an independently established distribution day or silently modernized date. The opening links the promised description to issue25 and names Towneley. On p542 the publisher attributes delay first to the publisher and then the engraver after the instrument came to hand, and credits Hooke for the figures and description. This supplies a source-reported arrival/publication sequence. It does not authenticate which physical instrument arrived, when it was made, or who manufactured each part.
+
+|Printed locator|Described mechanism or revision|Evidential limit|
+| --- | --- | --- |
+|p542, Figure1|Brass box, dial, screw, sockets and constrained straight movement|Description/drawing, not material inspection or backlash measurement|
+|p543|60thread positions with100dial parts per revolution; coupled motion intended to keep midpoint on telescope axis|Nominal6000readout increments over stated travel; physical lead/travel and accuracy unknown|
+|p543, Figures1-2|Bookseller instructed to cut and position a movable paper cover exposing internal construction|Flattened scan cannot verify actual assembled flap or object condition|
+|p543, Figure3|Hair/thread sights proposed as alternative to solid sight edges|Explicit design alternative; contributors described collectively, not uniquely identified|
+|p544, Figures4-5|Telescope application, eyepiece/pointer distance and adjustable rest|No measured focal distance, optical error or calibrated trial recovered|
+|p556 insertion note|Hooke suggestion to align rest screw with equinoctial/diurnal motion, allowing one screw adjustment in place of two|Printed improvement proposal, not proof of realized performance|
+
+The conditional arithmetic60×100=6000 describes the readout architecture. It does not mean6000divisions per foot, and it cannot be compared directly with Towneley's48000per-foot calculation without authenticated dimensions and calibration. Nor do the descriptive claims of steady movement establish measured zero backlash. The plate depicts five figures and matches the textual component references at a qualitative level. No image-pixel dimension is promoted to a physical measurement.
+
+The detailed later mechanism should not be labeled simply as Gascoigne's original machine. The preceding response already distinguishes inherited papers/instruments from Towneley's improvements; this publication credits Hooke's description and presents further alternatives. A correct attribution must specify the contribution: antecedent principle, later mechanism, drawing, proposed sight replacement, publication or improved rest. The evidence supports a documented development/publication lineage while leaving exclusive priority, original manufacture, ancient recovery and deliberate appropriation unresolved.
+
+Next inspect original EL/T/19 and the Hooke-related CLP/2/13 and RBO/3/65 drawing records, keeping uncertain author/date catalog labels separate from authenticated originals. The opposing1687 preface, surviving instruments and reception remain important gaps. No independent review or worldwide rewriting mechanism established; all twenty objectives remain active.
