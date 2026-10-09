@@ -1,5 +1,10 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Paired Willapa datum diagnostic
+
+S253 paired geometries now checked point-for-point:183features/10,275vertices. Official open grid files hash-recorded; network/ballpark disabled. Older NADCON reproduces stored NAD83 max0.000009422m; NADCON5 max0.161398m, inverse round-trip0.059593m versus proposed0.001m tolerance. Failed newer inverse check retained, cause unresolved. Coordinate consistency is not survey accuracy or displacement. Next original-line/class/revision authentication and dated modern comparison, with operation-specific inverse investigation. See research/WILLAPA-DATUM-COMPARISON.md. All twenty outcomes remain incomplete.
+
+
 ### 2026-10-09 — Vector feature and datum audit
 
 S253-S255audits recoveredMDB through read-only nativeODBC.129lines/54polygons per coordinate version;40MHW/8apparent-marsh lines distinct from approximate, alongshore, controls and added/limit lines. Projected tables declareNAD27UTM10N, geographic copiesNAD83; paired attributes and stored geometry measures checked. Source/domain/date mismatches preserved. No datum transformation, topology/raster authentication or modern shoreline comparison. Next comparable-class selection and source-line validation before displacement. See research/WILLAPA-VECTOR-AUDIT.md. All twenty outcomes remain active.
