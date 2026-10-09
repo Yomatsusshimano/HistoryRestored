@@ -1582,3 +1582,10 @@ Previous goal turn made progress:13caf16published and18files publicly byte-verif
 S309 two Oldenburg1671manuscript surfaces visually inspected and CC-BY deliveries preserved. Closing acknowledges Hooke's long-delayed promise, reported business explanation and renewed commitment. Opening microscope/books are separate. Same1667order, actual cause, final fulfillment and calibration unknown. See [correspondence audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/309sources; all twenty objectives active, no independent review.
 
 Previous status turn was no research progress: it revalidated state but changed no evidence records. This turn inspected original1671letter and narrowed fulfillment inference. EL/H2/18 web timeout did not end task; normal-TLS curl obtained item/manifest, images uninspected. Catalog request failure respected. Secondary quotations used only as locators. No outreach, physical authentication, full transcription, translation review or goal completion claimed.
+
+
+### 2026-10-09 — Sender/recipient equipment distinctions
+
+S310/S311 all ten manuscript deliveries inspected and CC-BY copies preserved.1669sender reports unfinished telescopic sight and attributed London-work/preference reasons;1672recipient renews tube-inserted small-distance request. Equipment identity,1667order link, ultimate delivery and accuracy unknown. Extent/date-role differences retained. See [correspondence audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/311sources; all twenty objectives active, no independent review.
+
+Previous goal turn made progress:0b1babe/f545692published S309, all12changed files byte-verified; current clean checkout revalidated. Bounded official archive searches located EL/O2/8 and EL/H2/32; normal-TLS acquisition delivered6/4surfaces. All ten visually inspected. Revised/canceled1669wording distinguished and numerical accounts not reconciled. No outreach, independent translation, full instrument/order identity, physical authentication or completion claimed. Earlier S309other-lead1669status is historical, superseded by S310 acquisition.

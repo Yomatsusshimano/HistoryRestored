@@ -349,3 +349,8 @@ S308 seventeen selected scan surfaces inspected.1667object-production and reposi
 ### 2026-10-09 — Original letter reports delayed small-distance instrument
 
 S309 two Oldenburg1671manuscript surfaces visually inspected and CC-BY deliveries preserved. Closing acknowledges Hooke's long-delayed promise, reported business explanation and renewed commitment. Opening microscope/books are separate. Same1667order, actual cause, final fulfillment and calibration unknown. See [correspondence audit](GASCOIGNE-ATTRIBUTION.md).27drafts/309sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Sender/recipient equipment distinctions
+
+S310/S311 all ten manuscript deliveries inspected and CC-BY copies preserved.1669sender reports unfinished telescopic sight and attributed London-work/preference reasons;1672recipient renews tube-inserted small-distance request. Equipment identity,1667order link, ultimate delivery and accuracy unknown. Extent/date-role differences retained. See [correspondence audit](GASCOIGNE-ATTRIBUTION.md).27drafts/311sources; all twenty objectives active, no independent review.

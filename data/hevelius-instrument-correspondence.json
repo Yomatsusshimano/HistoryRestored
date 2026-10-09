@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-09",
+  "records": [
+    {
+      "source_id": "S310",
+      "reference": "EL/O2/8",
+      "url": "https://makingscience.royalsociety.org/items/el_o2_8/letter-from-henry-oldenburg-to-johannes-hevelius",
+      "creator": "Henry Oldenburg",
+      "catalog_date": "1669-08-02",
+      "catalog_extent": "6 pages",
+      "delivered_surfaces": 6,
+      "manifest_path": "sources/originals/invention/hevelius-correspondence/oldenburg1669-manifest.json",
+      "manifest_sha256": "431e37404ce859ce639e62d0a18450b25e028403e043e04fd7471094f703ade7",
+      "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+      "attribution": "The Royal Society",
+      "images": [
+        {
+          "locator": "image1",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_O2%2FEL_O2_8%2Ftif%2FEL_O2_8_0001.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/oldenburg1669-image-1.jpg",
+          "bytes": 755987,
+          "sha256": "7a511ec3398bfe19cc8fbcab601684c17fac38f48e019caeed3c37e2c3159aa3",
+          "dimensions": [
+            1843,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image2",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_O2%2FEL_O2_8%2Ftif%2FEL_O2_8_0002.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/oldenburg1669-image-2.jpg",
+          "bytes": 711033,
+          "sha256": "65a47219448f8c03611e9b38e824249dcefee8d476864b6ea03e09c4c31f20ca",
+          "dimensions": [
+            1840,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image3",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_O2%2FEL_O2_8%2Ftif%2FEL_O2_8_0003.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/oldenburg1669-image-3.jpg",
+          "bytes": 731429,
+          "sha256": "77a0c3e5435f6808732edea374799a7c49de9ee7294b5f0bf17193e2fa0e56dd",
+          "dimensions": [
+            1902,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image4",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_O2%2FEL_O2_8%2Ftif%2FEL_O2_8_0004.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/oldenburg1669-image-4.jpg",
+          "bytes": 785697,
+          "sha256": "2f908e47cc37c3f07c2306f86a158fde588282a9ef3fd195502608e41b8d1bd3",
+          "dimensions": [
+            1835,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image5",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_O2%2FEL_O2_8%2Ftif%2FEL_O2_8_0005.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/oldenburg1669-image-5.jpg",
+          "bytes": 756106,
+          "sha256": "acc73891c0463ab4289f42cdabd8a84f7aea52f948896cc282f0310274b95296",
+          "dimensions": [
+            1872,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image6",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_O2%2FEL_O2_8%2Ftif%2FEL_O2_8_0006.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/oldenburg1669-image-6.jpg",
+          "bytes": 636367,
+          "sha256": "dd154aef4f868ee089b4ca00ca1eecc36b7b234c83387be0e1f9cd93af2736d8",
+          "dimensions": [
+            1848,
+            2400
+          ],
+          "inspected": true
+        }
+      ],
+      "coverage": "All six delivered surfaces visually inspected, including heavily revised text, account lists and postscript. Selected optical-equipment and delay passages read directly. No complete transcription, account reconciliation or independently reviewed translation.",
+      "surface_map": {
+        "image1": "Heading August2,1669; revised lens/microscope discussion and named Cocks maker.",
+        "image2": "Revised financial prose and book counts.",
+        "image3": "Book-sale/account amounts and expense entries, including telescope-lens entry40.",
+        "image4": "Revised telescope-tube discussion; earlier alternative sight wording crossed out.",
+        "image5": "Retained telescopic-sight delay paragraph and closing.",
+        "image6": "Objective-lens postscript and show-through; not another independent letter."
+      },
+      "selected_findings": [
+        {
+          "locator": "image1 and image3",
+          "reading": "Lens making, named Cocks artisan and revised expense accounting are present; expense list has a telescope-lens entry40.",
+          "limit": "Currency interpretation, completed payment, invoice identity and delivered optical quality are not independently audited; no numerical cost test performed."
+        },
+        {
+          "locator": "image4",
+          "reading": "Telescope-tube discussion includes non-transmission and expense/manufacture considerations.",
+          "limit": "Crossed-out and retained alternatives must be distinguished; no full diplomatic reconstruction or exact tube-cost calculation claimed."
+        },
+        {
+          "locator": "image5 middle paragraph",
+          "selected_tokens": [
+            "Dioptra illa Telescopica",
+            "nondum confecta est",
+            "Londini aedibus",
+            "Artificem",
+            "edocere"
+          ],
+          "reading": "The telescopic sight promised by Hooke is described as unfinished. The stated reasons include Hevelius not finding this sight agreeable and Hooke being occupied with London house rebuilding and other business, without leisure to instruct a craftsman in its making.",
+          "limit": "Provisional direct Latin reading. Oldenburg reports motives/workload; their truth is not independently verified. A telescopic sight is not automatically the same device as the later small-distance micrometer request."
+        }
+      ],
+      "document_limits": [
+        "Numerous cancellations/insertions are visible; draft/sent-copy status and revision chronology unverified.",
+        "Heading date is a documentary report, not independent physical age or authenticated calendar convention.",
+        "Expense entries do not substitute for supplier receipts or surviving components."
+      ]
+    },
+    {
+      "source_id": "S311",
+      "reference": "EL/H2/32",
+      "url": "https://makingscience.royalsociety.org/items/el_h2_32/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "creator": "Johannes Hevelius",
+      "catalog_date": "1672-10-29",
+      "catalog_extent": "1 page",
+      "delivered_surfaces": 4,
+      "manifest_path": "sources/originals/invention/hevelius-correspondence/hevelius1672-manifest.json",
+      "manifest_sha256": "e0c1efe91c16c7d86b3dfeccbab301f5131e09ee6fd5155f235cc19caa13ef62",
+      "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+      "attribution": "The Royal Society",
+      "images": [
+        {
+          "locator": "image1",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_H2%2FEL_H2_32%2Ftif%2FEL_H2_32_0001.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/hevelius1672-image-1.jpg",
+          "bytes": 610164,
+          "sha256": "5cc617f5928fb601bc997d74830500e1e2fc518aabe8455d75a2db882a916ea3",
+          "dimensions": [
+            1808,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image2",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_H2%2FEL_H2_32%2Ftif%2FEL_H2_32_0002.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/hevelius1672-image-2.jpg",
+          "bytes": 665088,
+          "sha256": "f115d9ff5dc69fcebbe5a03d9b2cb3b4948561605ce346015648350c7e6319c9",
+          "dimensions": [
+            1783,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image3",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_H2%2FEL_H2_32%2Ftif%2FEL_H2_32_0003.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/hevelius1672-image-3.jpg",
+          "bytes": 650885,
+          "sha256": "2c26e2d145a5c770636d6635623e1ebeb7413c3b70dfed96d8e4b1dac1497d2b",
+          "dimensions": [
+            1803,
+            2400
+          ],
+          "inspected": true
+        },
+        {
+          "locator": "image4",
+          "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_H2%2FEL_H2_32%2Ftif%2FEL_H2_32_0004.ptif/full/!2400,2400/0/default.jpg",
+          "local_path": "sources/originals/invention/hevelius-correspondence/hevelius1672-image-4.jpg",
+          "bytes": 503273,
+          "sha256": "ec480d820cd1dabfd3f48eabb7d54484602c207cec28a7a8d5f837accdd77790",
+          "dimensions": [
+            1779,
+            2400
+          ],
+          "inspected": true
+        }
+      ],
+      "coverage": "All four delivered surfaces visually inspected. Closing request, visible date context, docket and Saturn diagram inspected; no complete transcription or independently reviewed translation.",
+      "surface_map": {
+        "image1": "Opening and reading/Letter-Book annotations.",
+        "image2": "Saturn observations and telescope discussion.",
+        "image3": "Machina coelestis/work-progress and other astronomical context.",
+        "image4": "Closing small-distance instrument request, date context, Saturn diagram and English docket."
+      },
+      "selected_findings": [
+        {
+          "locator": "image4 opening continuation",
+          "selected_tokens": [
+            "instrumentulum",
+            "tubo inserendum",
+            "tamdudum promissum",
+            "distantijs minoribus capiendis"
+          ],
+          "reading": "Hevelius asks Oldenburg not to forget a long-promised small-distance instrument to be inserted into a telescope tube, and renews his request that it be sent.",
+          "limit": "Provisional direct reading supports catalog micrometer description; design, maker, exact earlier promise, shipment and final receipt are not authenticated."
+        },
+        {
+          "locator": "image1 docket and image4 date/figure",
+          "reading": "Docket reports reading November6,72; closing October29day/month and diagram caption Anno1672 October19 are visible.",
+          "limit": "Catalog composition date1672-10-29, reported reading date and observation date are different roles. Closing year token is less clear at delivery resolution; no calendar conversion or physical age claim."
+        },
+        {
+          "locator": "image4 figure",
+          "reading": "Saturn outline is accompanied by a55-foot telescope label and October19 observation caption.",
+          "limit": "Source-reported apparatus and drawing, not calibrated observation or evidence that the requested micrometer was used."
+        }
+      ],
+      "document_limits": [
+        "Catalog extent1page differs from four delivery surfaces with continuing text and final diagram/docket; count meaning unresolved, not four independent witnesses.",
+        "Hand identities, sent-copy status and continuous custody not independently authenticated."
+      ]
+    }
+  ],
+  "relationship": {
+    "S310_to_S309": "Earlier sender letter reports unfinished telescopic sight; later sender letter reports delayed small-distance instrument. Same correspondence network, not authenticated device identity.",
+    "S311_to_S309": "Recipient renewed small-distance request after sender acknowledged delay; distinct voices about a shared exchange, not independent performance trials.",
+    "S308_order_identity": null,
+    "interpretation": "Evidence supports unfulfilled promises/renewed requests at specified letter dates. It does not prove one continuous1667-1672order or eventual non-delivery."
+  },
+  "limits": [
+    "No authenticated1667commission-to-device identity.",
+    "No final micrometer shipment/receipt, calibrated accuracy or exclusive priority verdict.",
+    "No full diplomatic transcription or independently reviewed translation.",
+    "No ancient recovery, deliberate suppression or fabricated chronology established."
+  ],
+  "next_test": "Find the earliest explicit small-distance request and subsequent delivery/receipt replies, separating telescope lenses, tubes, sights, microscope and micrometer. Cross-identify the1667commission before assigning duration or fulfillment; seek maker bills and identified instrument observations."
+}

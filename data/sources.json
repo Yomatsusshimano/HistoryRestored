@@ -4798,6 +4798,34 @@
       "accessed_date": "2026-10-09",
       "local_copy": "sources/originals/invention/oldenburg1671/README.md",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S310",
+      "title": "Oldenburg1669 optical-equipment accounts and unfinished telescopic sights",
+      "creator": "Henry Oldenburg; Royal Society Archives",
+      "publication_date": "1669-08-02",
+      "url": "https://makingscience.royalsociety.org/items/el_o2_8/letter-from-henry-oldenburg-to-johannes-hevelius",
+      "source_type": "Digitized manuscript correspondence",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All six delivered surfaces visually inspected, including heavily revised text, account lists and postscript. Selected optical-equipment and delay passages read directly. No complete transcription, account reconciliation or independently reviewed translation.",
+      "limitations": "Selected Latin readings provisional; no full transcription or independent translation review. Equipment identities and1667commission link unverified. No final shipment/receipt or calibrated accuracy. Heavily revised document, account arithmetic and payment identity untested.",
+      "accessed_date": "2026-10-09",
+      "local_copy": "sources/originals/invention/hevelius-correspondence/README.md",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S311",
+      "title": "Hevelius1672 renewed request for tube-inserted small-distance instrument",
+      "creator": "Johannes Hevelius; Royal Society Archives",
+      "publication_date": "1672-10-29",
+      "url": "https://makingscience.royalsociety.org/items/el_h2_32/letter-from-johannes-hevelius-to-henry-oldenburg-dated-at-danzig-gdansk",
+      "source_type": "Digitized manuscript correspondence",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All four delivered surfaces visually inspected. Closing request, visible date context, docket and Saturn diagram inspected; no complete transcription or independently reviewed translation.",
+      "limitations": "Selected Latin readings provisional; no full transcription or independent translation review. Equipment identities and1667commission link unverified. No final shipment/receipt or calibrated accuracy. Catalog1page/four delivery surfaces count mismatch retained. Closing year less clear; docket/diagram date roles distinct.",
+      "accessed_date": "2026-10-09",
+      "local_copy": "sources/originals/invention/hevelius-correspondence/README.md",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
