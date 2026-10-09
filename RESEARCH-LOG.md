@@ -1,5 +1,9 @@
 # Research log
 
+### 2026-10-09 — Direct bat humerus comparison
+
+Previous goal turn made progress:09ff0ae published original cave unit/context evidence and all9changed files were publicly byte-verified. Current checkout revalidated clean. Bounded specimen/locality search located S319; publisher PDF normal-TLS download succeeded,7pages acquired and2/4/5/7visually inspected. Web repeat access500 did not invalidate the acquired PDF. pdftotext executable unavailable; pypdf used for locating, images for inspection. Beta345518 Haitian row transcribed; original three S22sloth sets unchanged. Calculator initially used wrong top-level ledger key, corrected from records to actual samples before execution. Gaps5550/5980/7070years reproduced by endpoint subtraction. Fossil accession absent, modern comparator separated; differing coordinates retained without correction. Other six bat-date rows/supplement and ecological model not audited; no outreach, common deposition, extinction mechanism or completion claimed.28drafts/319sources. See [audit](research/JEREMIE-BAT-COMPARISON.md).
+
 ### 2026-10-09 - Maraldi complete phase and calibration account
 
 Previous goal turn verified public progress6ec9995; revalidated clean. NormalTLSnativecurl acquired canvases227-228;with226allprinted86-88visually inspected. Clocksolaraltitude/noongnomon method and27primary/26derivedextentrows transcribed;firsttable alreadyprocessed, notoriginalmicrometerdivisions. Westrelative-site units and late6token unresolved. FixedapproximateChatenay/true-time/digit convention diagnostic:Partial,contactresiduals−25.338/−10.123s,peak0.939988diameter/source0.931944. Allrowsretained; differences/outlierplotted,figurevisually inspected. No site/clock/radiusfit or inventedCI; source-derived rowsdependent. Scanslinked/hashnotredistributed.26drafts/289sources,no review/global chronology/reconstruction; all twenty objectives active. See research/MARALDI-1715-PHASES.md.

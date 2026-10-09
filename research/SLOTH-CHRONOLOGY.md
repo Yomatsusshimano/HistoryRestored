@@ -1,5 +1,7 @@
 # Haitian sloth dating: specimen ages versus event ages
 
+Latest comparison: a [directly dated bat humerus](JEREMIE-BAT-COMPARISON.md), S319, has a published calendar interval at least5550years younger than the three author-associated Jérémie sloth samples. Exact bat accession, locality and sediment-unit links remain unverified; no deposition date follows.
+
 Research draft, 2026-10-08 (America/New_York). C011/S22; no independent review.
 
 ## Source and extracted evidence

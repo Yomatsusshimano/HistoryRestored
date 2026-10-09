@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-09",
+  "input_sha256": {
+    "data/jeremie-bat2015-date.json": "397ede6ea3aa2838434d785575187c67585457295af6dfc49088749e275b9a26",
+    "data/dating-records.json": "05159162fd85fa9a87e13df94938cea67f860c7daccb8b08a87f390bd3c5172f"
+  },
+  "comparisons": [
+    {
+      "sloth_lab_id": "AA-58432",
+      "sloth_museum_id": "UF 170308",
+      "sloth_youngest_published_endpoint_cal_BP": 7610,
+      "bat_oldest_published_endpoint_cal_BP": 2060,
+      "nearest_set_gap_years": 5550
+    },
+    {
+      "sloth_lab_id": "AA-58433",
+      "sloth_museum_id": "UF 170311",
+      "sloth_youngest_published_endpoint_cal_BP": 8040,
+      "bat_oldest_published_endpoint_cal_BP": 2060,
+      "nearest_set_gap_years": 5980
+    },
+    {
+      "sloth_lab_id": "AA-58431",
+      "sloth_museum_id": "UF 170046",
+      "sloth_youngest_published_endpoint_cal_BP": 9130,
+      "bat_oldest_published_endpoint_cal_BP": 2060,
+      "nearest_set_gap_years": 7070
+    }
+  ],
+  "minimum_pair_gap_years": 5550,
+  "limits": [
+    "Conditional comparison of published calendar sets from different calibration contexts; no recalibration or likelihood fit.",
+    "Not a joint-confidence bound on mortality duration.",
+    "Author-associated site; accession-to-unit and exact locality identity unverified.",
+    "No sediment deposition, extinction or catastrophe date inferred."
+  ]
+}

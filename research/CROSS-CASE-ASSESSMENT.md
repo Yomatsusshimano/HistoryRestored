@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Direct bat date versus author-associated sloths
+
+S319 selected original PDF pages inspected; Beta345518 single humerus2060–1900calBP. Three S22sloth pairs have nearest-set gaps5550/5980/7070years, conditional arithmetic rather than duration confidence. Fossil accession/depth absent and locality-coordinate discrepancy retained; modern UF20812 comparator not assigned to fossil. See [bat comparison](JEREMIE-BAT-COMPARISON.md).28drafts/319sources; no shared deposition date, model replication or independent review.
+
 ### 2026-10-09 - Maraldi phase sequence and instrumental limits
 
 S289fullshortaccount has27primary/26derived phases,reported clockchecks and exactcontacts. FixedChatenay diagnosticPartial,residuals−25.338/−10.123s;conditional diameter0.939988/source0.931944. Late6token/outliers and processed-table dependence retained with inspectedfigure. See [phase audit](MARALDI-1715-PHASES.md).26drafts/289sources; all twenty outcomes active,no review or chronology break.

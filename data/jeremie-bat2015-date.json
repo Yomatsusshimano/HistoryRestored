@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S319",
+  "case_id": "C011",
+  "source_url": "https://www.nature.com/articles/srep07971",
+  "pdf_url": "https://www.nature.com/articles/srep07971.pdf",
+  "pdf_sha256": "af2f350357adc7dee2f866af75cd800769f7e49693516a1d36fc6e686777f48e",
+  "pdf_bytes": 652748,
+  "inspection": "Seven-page PDF acquired; pages2,4,5,7 visually inspected. Table1 Haitian row transcribed; other six rows not entered into this ledger. Supplement and raw laboratory report uninspected.",
+  "rights": "PDF p7 states CC BY-NC-ND4.0. Source linked, not redistributed here.",
+  "bat": {
+    "laboratory_id": "Beta-345518",
+    "museum_catalog_id": null,
+    "taxon_as_published": "Macrotus waterhousii",
+    "site_as_published": "Trouing Jeremie, Département-du-Sud, Haiti",
+    "skeletal_element": "One humerus",
+    "dated_material_as_reported": "Purified bone collagen",
+    "radiocarbon_age_BP": 2030,
+    "radiocarbon_error_plus_minus": 30,
+    "radiocarbon_error_confidence": null,
+    "delta13C_per_mil": -20.3,
+    "published_cal_BP_intervals_young_old": [
+      [
+        1900,
+        2060
+      ]
+    ],
+    "calendar_coverage_as_printed": "2 delta (Table1 heading)",
+    "calibration_curve": null,
+    "calibration_software": null,
+    "collagen_yield": null,
+    "atomic_CN": null,
+    "excavation_bag": null,
+    "sediment_unit": null
+  },
+  "locality_label": {
+    "latitude_as_printed": 18.20999,
+    "longitude_as_printed": -74.01001,
+    "datum_for_this_dated_bone": null,
+    "role": "Methods locality label; not an authenticated bone findspot",
+    "limit": "Methods p4 states WGS84 for modern coordinates and georeferencing for fossils; no direct survey or uncertainty supplied for this bone."
+  },
+  "association": "Authors link the bat locality to three S22 sloth dates, but omit #5 in site label. Exact collection/accession-to-unit link unverified. Coordinates differ from S318 DMS label; neither corrected or treated as movement.",
+  "figure_identity_limit": "Figure1 h depicts fossil; UF20812 belongs to modern comparator i and must not be assigned to dated fossil.",
+  "population_limit": "Species remains extant on Hispaniola; this Haitian bone is not evidence of species extinction.",
+  "next_test": "Recover Beta345518 lab certificate, UF fossil accession and bag/unit history; authenticate locality before linking sediment contexts."
+}

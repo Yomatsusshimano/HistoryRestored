@@ -1565,6 +1565,11 @@
           "source_id": "S318",
           "locator": "p4association discussion;p29Appendix1andTable4;p30continuation",
           "statement": "Original locality registry distinguishes0–5cmorganic/surface and5–25cmred clay fauna, with unresolved specimen-to-unit links. Approximate50matrix bags and16.5mshaft geometry documented; no deposit thickness/date inferred from shaft."
+        },
+        {
+          "source_id": "S319",
+          "locator": "Table1,p2;Fig1caption,p2;Methods,pp4–5",
+          "statement": "One bat humerus Beta345518 dates to2030±30radiocarbonBP and2060–1900calBP. Authors associate locality with three dated sloths; fossil accession/unit link absent and coordinate discrepancy retained."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
@@ -1577,7 +1582,7 @@
         "A common mortality episode, requiring an explicit fit and age-quality audit"
       ],
       "counterevidence": "These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.",
-      "next_test": "Recover1984field map, bag labels, excavation notes and museum accession-to-unit links; date identified units and assess contacts/taphonomy before a shared-deposition test.",
+      "next_test": "Recover Beta345518 certificate and fossil accession/bag/unit history alongside1984field maps and dated sloth accession links; authenticate locality and date sediment units before a shared-deposition test.",
       "chronology": {
         "reported": "Sample-level radiocarbon results and separately published calendar intervals",
         "dated_object": "Bone samples",
@@ -1595,7 +1600,7 @@
         "Later literature and redating audit",
         "Independent review"
       ],
-      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates. S36geometry/faunal abundance repeatsS318locality account; no independent excavation confirmation."
+      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates. S36geometry/faunal abundance repeatsS318locality account; no independent excavation confirmation. S319 repeats S22sloth dates for comparison, not new sloth assays; bat assay is separate but site/unit association unverified."
     },
     {
       "id": "C012",
