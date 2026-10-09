@@ -1,5 +1,7 @@
 # Intermediate Grassy Island survey and its observation dates
 
+Update: the [joint field-report audit](WILLAPA-1953-FIELD-OBSERVATION.md), S266, now recovers an explicit reported June6,1953continuous MHWline between island and point, with a channel at other times. The original field sheet/photograph, June30form conflict and raster-version correspondence remain unresolved. Below preserves the initial source-specific audit.
+
 2026-10-09 (America/New_York). Sourced draft; no independent review.
 
 The NOAA [T-09634S package](https://nsde.ngs.noaa.gov/downloads/T-09634S.zip), S265, supplies a covering raster and combined T-9634 topographic/shoreline report. The downloaded raster depicts Grassy Island within a continuous outer sand outline adjoining Leadbetter Point, with an internal dotted boundary, sand/dune labels and hatched areas. This is an intermediate mapped configuration to compare with the previously inspected 1922 and 2006 records. It is not yet an independently dated island-attachment event.

@@ -1,0 +1,77 @@
+{
+  "source_id": "S266",
+  "url": "https://nsde.ngs.noaa.gov/downloads/T-09637N.zip",
+  "accessed_date": "2026-10-09",
+  "archive_bytes": 20626140,
+  "archive_sha256": "06255c32cd57c55fb277482aa425910863a65bda0e9618fecc5286a2be9ae2e2",
+  "preserved_report": {
+    "path": "sources/originals/cascadia/T-9637.PDF",
+    "bytes": 16009502,
+    "sha256": "bdbc264e6be518766f4230810c9c694a244519a504b31f455e5d0e0da923551f"
+  },
+  "report_pages": 35,
+  "visually_inspected_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "uninspected_pdf_pages": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "text_extraction": "All pages yield only two characters; no substantive fulltext or OCR review.",
+  "observations": [
+    {
+      "locator": "PDF11,printed10,item7a",
+      "observation_date": "1953-06-06",
+      "place": "Leadbetter Point and Grassy Island",
+      "method": "Planetable on enlarged1:10000 photograph1613",
+      "reported_state": "No break in mean high water line between island and point at location date; channel present at other times.",
+      "independently_verified": false
+    },
+    {
+      "locator": "PDF20-21,printed17a-17b",
+      "observation_date": null,
+      "place": "Regional control sketch",
+      "method": "Diagram and control legend",
+      "reported_state": "Photo1613 at northern peninsula tip; point23 identified as LEAD4,1939 and held in models.",
+      "independently_verified": false
+    }
+  ],
+  "dependence": "Same PH62 fieldwork and compilation as S265; narrative and map are not independent confirmations.",
+  "limits": [
+    "Original photograph1613,annotated ratio print,planetable field sheet and date-conflict reconciliation absent.",
+    "No emergence/attachment onset date,permanence,shoreline displacement or event cause inferred.",
+    "T9637N raster itself stops south of island; report covers T9634/T9637 fieldwork jointly."
+  ]
+}

@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Dated continuous waterline and intermittent channel
+
+The [joint field-report audit](WILLAPA-1953-FIELD-OBSERVATION.md) supplies an explicit June6,1953reported continuous MHWboundary between GrassyIsland/LeadbetterPoint and a channel at other times. This strengthens intermediate configuration dating at report level and challenges permanent-topology assumptions. Same-project map and narrative are dependent; originalframe/fieldsheet, June30form conflict and comparable shoreline uncertainty remain. No attachment onset, change rate or catastrophe cause follows. All twenty outcomes remain active.
+
 ### 2026-10-09 — Intermediate island configuration and mixed survey dates
 
 The [T9634 intermediate-map audit](WILLAPA-T9634-INTERMEDIATE.md) adds an actual covering raster depicting a continuous GrassyIsland/Leadbetter sand outline. Original report identifies July1950photo1613 and June1953 shoreline location, retaining June6/30 discrepancy, distinct manuscript products and later revisions. Its seasonal beach, entrance-shift and storm accounts supply regional alternatives rather than measured island causes. Accuracy warnings and unresolved source/raster crosswalk prevent dating attachment from the catalog year or calculating physical displacement. Original observations and comparable classes remain necessary; no global reconstruction outcome is completed.
