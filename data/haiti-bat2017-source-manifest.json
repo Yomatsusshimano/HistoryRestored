@@ -1,0 +1,30 @@
+{
+  "source_id": "S324",
+  "acquired_date": "2026-10-09",
+  "attribution": "Soto-Centeno JA, Simmons NB, Steadman DW (2017), PLOS ONE12(6):e0178066, doi10.1371/journal.pone.0178066",
+  "rights": "Article publisher declares Creative Commons Attribution License; original supplements preserved with attribution, no edits.",
+  "files": [
+    {
+      "path": "sources/originals/wildlife/bats2017/pone.0178066.s001.xlsx",
+      "download_url": "https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0178066.s001&type=supplementary",
+      "bytes": 37076,
+      "sha256": "0dc38fa4ae73a9213f3f76665063c4357d66af06378e6b24a942fe1385b313de"
+    },
+    {
+      "path": "sources/originals/wildlife/bats2017/pone.0178066.s002.pdf",
+      "download_url": "https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0178066.s002&type=supplementary",
+      "bytes": 238732,
+      "sha256": "28a7525b4914c6d3122c4581e208bafd66cc6486d373ca6000446598c85d7028"
+    }
+  ],
+  "main_pdf": {
+    "download_url": "https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0178066&type=printable",
+    "bytes": 7974885,
+    "sha256": "c93a3131b0e0a14e31f0f4bb9d17946a1f8ade503b3e16d1d6b4a556375adbab",
+    "preserved_in_public_repo": false,
+    "visually_inspected_pages": [
+      6,
+      10
+    ]
+  }
+}

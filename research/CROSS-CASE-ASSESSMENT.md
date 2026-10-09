@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Bat coordinates match a different numbered cave label
+
+S324's original locality spreadsheet labels the point rounding to S319's bat coordinates as Trou Jeremie #1. The sloth context is #5; the dated bone's cave identity remains unresolved. Jean Paul accessions and woodcock-based age associations are kept separate. See [locality audit](HAITI-BAT-LOCALITY-CROSSWALK.md). 28 drafts/324 sources; no authenticated shared deposit or independent review.
+
 ### 2026-10-09 — Holotype stratigraphic-code retrieval token
 
 S323author-uploaded survey text reports UF73946/code16,9,2,A andJuly3,1984collection. UniqueS321catalog join agrees on date/taxon; key/units remain unknown, and dated74968/74978 remain separate. Original1989description/notebook and survey scans unacquired. See [code audit](JEREMIE-HOLOTYPE-CODE.md).28drafts/323sources; no dated-specimen unit join, common deposition or independent review.

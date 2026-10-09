@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Haitian bat locality crosswalk](research/HAITI-BAT-LOCALITY-CROSSWALK.md): matching coordinates with conflicting numbered-cave labels and distinct specimen lists.
+
 - [Jérémie holotype excavation-code lead](research/JEREMIE-HOLOTYPE-CODE.md): reported notation, exact catalog agreement and unresolved units/specimen associations.
 
 - [Gascoigne attribution dispute](research/GASCOIGNE-ATTRIBUTION.md): inspected1713 manuscript, proposed correction and unresolved technical priority.

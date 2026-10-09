@@ -43,5 +43,12 @@
   "association": "Authors link the bat locality to three S22 sloth dates, but omit #5 in site label. Exact collection/accession-to-unit link unverified. Coordinates differ from S318 DMS label; neither corrected or treated as movement.",
   "figure_identity_limit": "Figure1 h depicts fossil; UF20812 belongs to modern comparator i and must not be assigned to dated fossil.",
   "population_limit": "Species remains extant on Hispaniola; this Haitian bone is not evidence of species extinction.",
-  "next_test": "Recover Beta345518 lab certificate, UF fossil accession and bag/unit history; authenticate locality before linking sediment contexts."
+  "next_test": "Recover Beta345518 lab certificate, UF fossil accession and bag/unit history; authenticate locality before linking sediment contexts.",
+  "locality_followup": {
+    "source_id": "S324",
+    "locator": "S1Table Sheet1D31:G31",
+    "finding": "2017point18.209992,-74.010012rounds to2015point but is labeledTrouJeremie#1; same-cave link to#5sloths remains unauthenticated.",
+    "original_dated_bone_locality_corrected": false,
+    "museum_accession_assigned": false
+  }
 }

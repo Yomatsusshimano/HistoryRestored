@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "input_sha256": {
-    "data/jeremie-bat2015-date.json": "397ede6ea3aa2838434d785575187c67585457295af6dfc49088749e275b9a26",
+    "data/jeremie-bat2015-date.json": "bf9f39870b2053cc92c4bd0a3b804a6c9ac33ba1327a86e65236c6bec158e483",
     "data/dating-records.json": "05159162fd85fa9a87e13df94938cea67f860c7daccb8b08a87f390bd3c5172f"
   },
   "comparisons": [
@@ -32,6 +32,14 @@
     "Conditional comparison of published calendar sets from different calibration contexts; no recalibration or likelihood fit.",
     "Not a joint-confidence bound on mortality duration.",
     "Author-associated site; accession-to-unit and exact locality identity unverified.",
-    "No sediment deposition, extinction or catastrophe date inferred."
-  ]
+    "No sediment deposition, extinction or catastrophe date inferred.",
+    "S324 labels the point matching the bat coordinates as Jeremie #1; sloth context is #5. These gaps do not establish an age mixture within one cave."
+  ],
+  "locality_followup": {
+    "source_id": "S324",
+    "locator": "S1Table Sheet1D31:G31",
+    "finding": "2017point18.209992,-74.010012rounds to2015point but is labeledTrouJeremie#1; same-cave link to#5sloths remains unauthenticated.",
+    "original_dated_bone_locality_corrected": false,
+    "museum_accession_assigned": false
+  }
 }

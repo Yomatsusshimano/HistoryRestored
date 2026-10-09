@@ -1,0 +1,1014 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S324",
+  "original_workbook_sha256": "0dc38fa4ae73a9213f3f76665063c4357d66af06378e6b24a942fe1385b313de",
+  "bat_record_sha256": "bf9f39870b2053cc92c4bd0a3b804a6c9ac33ba1327a86e65236c6bec158e483",
+  "sheet": "Sheet1",
+  "range_read": "A1:I37",
+  "rows": [
+    {
+      "excel_row": 2,
+      "raw_cells": {
+        "A2": "La Hispaniola",
+        "B2": "Haiti",
+        "C2": "Artibonite",
+        "D2": "Caverne Saint Francisque; St Michael de 'Atalye (3km N of)",
+        "E2": 500,
+        "F2": 19.401333,
+        "G2": -72.348675,
+        "H2": "Fossil",
+        "I2": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Artibonite",
+        "Specific Locality": "Caverne Saint Francisque; St Michael de 'Atalye (3km N of)",
+        "Elevation (m)*": 500,
+        "Latitude": 19.401333,
+        "Longitude": -72.348675,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 3,
+      "raw_cells": {
+        "A3": "La Hispaniola",
+        "B3": "Haiti",
+        "C3": "Artibonite",
+        "D3": "Trou Diable; St Michel de 'Atalye (3km N of)",
+        "E3": 500,
+        "F3": 19.401333,
+        "G3": -72.348675,
+        "H3": "Fossil",
+        "I3": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Artibonite",
+        "Specific Locality": "Trou Diable; St Michel de 'Atalye (3km N of)",
+        "Elevation (m)*": 500,
+        "Latitude": 19.401333,
+        "Longitude": -72.348675,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 4,
+      "raw_cells": {
+        "A4": "La Hispaniola",
+        "B4": "Haiti",
+        "C4": "Artibonite",
+        "D4": "St Michel",
+        "E4": "?",
+        "F4": 19.35,
+        "G4": -72.3,
+        "H4": "Fossil",
+        "I4": "Miller 1929"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Artibonite",
+        "Specific Locality": "St Michel",
+        "Elevation (m)*": "?",
+        "Latitude": 19.35,
+        "Longitude": -72.3,
+        "Basis of record": "Fossil",
+        "Source": "Miller 1929"
+      }
+    },
+    {
+      "excel_row": 5,
+      "raw_cells": {
+        "A5": "La Hispaniola",
+        "B5": "Haiti",
+        "C5": "Grand'Anse",
+        "D5": "8 mi WSW Jeremie",
+        "E5": "?",
+        "F5": 18.592329,
+        "G5": -74.222825,
+        "H5": "Fossil",
+        "I5": "Miller 1918"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Grand'Anse",
+        "Specific Locality": "8 mi WSW Jeremie",
+        "Elevation (m)*": "?",
+        "Latitude": 18.592329,
+        "Longitude": -74.222825,
+        "Basis of record": "Fossil",
+        "Source": "Miller 1918"
+      }
+    },
+    {
+      "excel_row": 6,
+      "raw_cells": {
+        "A6": "La Hispaniola",
+        "B6": "Haiti",
+        "C6": "Grand'Anse",
+        "D6": "Anse d'Hainault",
+        "E6": 15,
+        "F6": 18.48516,
+        "G6": -74.45168,
+        "H6": "Living",
+        "I6": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Grand'Anse",
+        "Specific Locality": "Anse d'Hainault",
+        "Elevation (m)*": 15,
+        "Latitude": 18.48516,
+        "Longitude": -74.45168,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 7,
+      "raw_cells": {
+        "A7": "La Hispaniola",
+        "B7": "Haiti",
+        "C7": "Grand'Anse",
+        "D7": "Beaumont, 3km S of",
+        "E7": 990,
+        "F7": 18.456204,
+        "G7": -73.96662,
+        "H7": "Living",
+        "I7": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Grand'Anse",
+        "Specific Locality": "Beaumont, 3km S of",
+        "Elevation (m)*": 990,
+        "Latitude": 18.456204,
+        "Longitude": -73.96662,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 8,
+      "raw_cells": {
+        "A8": "La Hispaniola",
+        "B8": "Haiti",
+        "C8": "Grand'Anse",
+        "D8": "Beaumont, 8km N of",
+        "E8": 263,
+        "F8": 18.55564,
+        "G8": -73.966636,
+        "H8": "Living",
+        "I8": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Grand'Anse",
+        "Specific Locality": "Beaumont, 8km N of",
+        "Elevation (m)*": 263,
+        "Latitude": 18.55564,
+        "Longitude": -73.966636,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 9,
+      "raw_cells": {
+        "A9": "La Hispaniola",
+        "B9": "Haiti",
+        "C9": "Ile de la Tortue",
+        "D9": "Trou Gallery, below Aux Palmist",
+        "E9": 7,
+        "F9": 20.021783,
+        "G9": -72.788339,
+        "H9": "Fossil",
+        "I9": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Ile de la Tortue",
+        "Specific Locality": "Trou Gallery, below Aux Palmist",
+        "Elevation (m)*": 7,
+        "Latitude": 20.021783,
+        "Longitude": -72.788339,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 10,
+      "raw_cells": {
+        "A10": "La Hispaniola",
+        "B10": "Haiti",
+        "C10": "La Gonave",
+        "D10": "Cave Nan de Bois #6",
+        "E10": 259,
+        "F10": 18.921127,
+        "G10": -73.19026,
+        "H10": "Fossil",
+        "I10": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "La Gonave",
+        "Specific Locality": "Cave Nan de Bois #6",
+        "Elevation (m)*": 259,
+        "Latitude": 18.921127,
+        "Longitude": -73.19026,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 11,
+      "raw_cells": {
+        "A11": "La Hispaniola",
+        "B11": "Haiti",
+        "C11": "La Gonave",
+        "D11": "Caverne La Palmiste #1",
+        "E11": 280,
+        "F11": 18.836522,
+        "G11": -73.041047,
+        "H11": "Fossil",
+        "I11": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "La Gonave",
+        "Specific Locality": "Caverne La Palmiste #1",
+        "Elevation (m)*": 280,
+        "Latitude": 18.836522,
+        "Longitude": -73.041047,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 12,
+      "raw_cells": {
+        "A12": "La Hispaniola",
+        "B12": "Haiti",
+        "C12": "La Gonave",
+        "D12": "Nan Cave #1",
+        "E12": 440,
+        "F12": 18.805733,
+        "G12": -72.946928,
+        "H12": "Fossil",
+        "I12": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "La Gonave",
+        "Specific Locality": "Nan Cave #1",
+        "Elevation (m)*": 440,
+        "Latitude": 18.805733,
+        "Longitude": -72.946928,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 13,
+      "raw_cells": {
+        "A13": "La Hispaniola",
+        "B13": "Haiti",
+        "C13": "La Gonave",
+        "D13": "En Café",
+        "E13": "?",
+        "F13": 18.80861,
+        "G13": -72.98389,
+        "H13": "Fossil",
+        "I13": "Miller 1930, Koopman 1955"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "La Gonave",
+        "Specific Locality": "En Café",
+        "Elevation (m)*": "?",
+        "Latitude": 18.80861,
+        "Longitude": -72.98389,
+        "Basis of record": "Fossil",
+        "Source": "Miller 1930, Koopman 1955"
+      }
+    },
+    {
+      "excel_row": 14,
+      "raw_cells": {
+        "A14": "La Hispaniola",
+        "B14": "Haiti",
+        "C14": "Nippes",
+        "D14": "Dadier Arawak? Hole #2 bats",
+        "E14": 155,
+        "F14": 18.446092,
+        "G14": -73.127475,
+        "H14": "Fossil",
+        "I14": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Dadier Arawak? Hole #2 bats",
+        "Elevation (m)*": 155,
+        "Latitude": 18.446092,
+        "Longitude": -73.127475,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 15,
+      "raw_cells": {
+        "A15": "La Hispaniola",
+        "B15": "Haiti",
+        "C15": "Nippes",
+        "D15": "Trou Roche Malise, Miragoâne",
+        "E15": 306,
+        "F15": 18.441117,
+        "G15": -73.132869,
+        "H15": "Fossil",
+        "I15": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Trou Roche Malise, Miragoâne",
+        "Elevation (m)*": 306,
+        "Latitude": 18.441117,
+        "Longitude": -73.132869,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 16,
+      "raw_cells": {
+        "A16": "La Hispaniola",
+        "B16": "Haiti",
+        "C16": "Nippes",
+        "D16": "Charlier",
+        "E16": 50,
+        "F16": 18.48339,
+        "G16": -73.18665,
+        "H16": "Living",
+        "I16": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Charlier",
+        "Elevation (m)*": 50,
+        "Latitude": 18.48339,
+        "Longitude": -73.18665,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 17,
+      "raw_cells": {
+        "A17": "La Hispaniola",
+        "B17": "Haiti",
+        "C17": "Nippes",
+        "D17": "Lebrun, 1km E of",
+        "E17": 450,
+        "F17": 18.433338,
+        "G17": -73.140529,
+        "H17": "Living",
+        "I17": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Lebrun, 1km E of",
+        "Elevation (m)*": 450,
+        "Latitude": 18.433338,
+        "Longitude": -73.140529,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 18,
+      "raw_cells": {
+        "A18": "La Hispaniola",
+        "B18": "Haiti",
+        "C18": "Nippes",
+        "D18": "Lebrun, 1km S of",
+        "E18": 550,
+        "F18": 18.424064,
+        "G18": -73.149937,
+        "H18": "Living",
+        "I18": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Lebrun, 1km S of",
+        "Elevation (m)*": 550,
+        "Latitude": 18.424064,
+        "Longitude": -73.149937,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 19,
+      "raw_cells": {
+        "A19": "La Hispaniola",
+        "B19": "Haiti",
+        "C19": "Nippes",
+        "D19": "Lebrun, 2km N, 2km E of",
+        "E19": 150,
+        "F19": 18.451199,
+        "G19": -73.131092,
+        "H19": "Living",
+        "I19": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Lebrun, 2km N, 2km E of",
+        "Elevation (m)*": 150,
+        "Latitude": 18.451199,
+        "Longitude": -73.131092,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 20,
+      "raw_cells": {
+        "A20": "La Hispaniola",
+        "B20": "Haiti",
+        "C20": "Nippes",
+        "D20": "Lebrun, 4km S of",
+        "E20": 700,
+        "F20": 18.397356,
+        "G20": -73.149775,
+        "H20": "Living",
+        "I20": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Lebrun, 4km S of",
+        "Elevation (m)*": 700,
+        "Latitude": 18.397356,
+        "Longitude": -73.149775,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 21,
+      "raw_cells": {
+        "A21": "La Hispaniola",
+        "B21": "Haiti",
+        "C21": "Nippes",
+        "D21": "Miragoane, 1km W of",
+        "E21": 100,
+        "F21": 18.442298,
+        "G21": -73.078054,
+        "H21": "Living",
+        "I21": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Miragoane, 1km W of",
+        "Elevation (m)*": 100,
+        "Latitude": 18.442298,
+        "Longitude": -73.078054,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 22,
+      "raw_cells": {
+        "A22": "La Hispaniola",
+        "B22": "Haiti",
+        "C22": "Nippes",
+        "D22": "Paillant",
+        "E22": 730,
+        "F22": 18.41667,
+        "G22": -73.15,
+        "H22": "Living",
+        "I22": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nippes",
+        "Specific Locality": "Paillant",
+        "Elevation (m)*": 730,
+        "Latitude": 18.41667,
+        "Longitude": -73.15,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 23,
+      "raw_cells": {
+        "A23": "La Hispaniola",
+        "B23": "Haiti",
+        "C23": "Nord-Ouest",
+        "D23": "Trou de Bon Dieu, near Pot de Paix",
+        "E23": "?",
+        "F23": 19.90365,
+        "G23": -72.77106,
+        "H23": "Fossil",
+        "I23": "Miller 1918"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Nord-Ouest",
+        "Specific Locality": "Trou de Bon Dieu, near Pot de Paix",
+        "Elevation (m)*": "?",
+        "Latitude": 19.90365,
+        "Longitude": -72.77106,
+        "Basis of record": "Fossil",
+        "Source": "Miller 1918"
+      }
+    },
+    {
+      "excel_row": 24,
+      "raw_cells": {
+        "A24": "La Hispaniola",
+        "B24": "Haiti",
+        "C24": "Ouest",
+        "D24": "Trou Jean Paul",
+        "E24": 1825,
+        "F24": 18.3375,
+        "G24": -72.280556,
+        "H24": "Fossil",
+        "I24": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Ouest",
+        "Specific Locality": "Trou Jean Paul",
+        "Elevation (m)*": 1825,
+        "Latitude": 18.3375,
+        "Longitude": -72.280556,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 25,
+      "raw_cells": {
+        "A25": "La Hispaniola",
+        "B25": "Haiti",
+        "C25": "Ouest",
+        "D25": "Trou Joli Vet; Beloc, on road to Jacmel",
+        "E25": 705,
+        "F25": 18.395233,
+        "G25": -72.650094,
+        "H25": "Fossil",
+        "I25": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Ouest",
+        "Specific Locality": "Trou Joli Vet; Beloc, on road to Jacmel",
+        "Elevation (m)*": 705,
+        "Latitude": 18.395233,
+        "Longitude": -72.650094,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 26,
+      "raw_cells": {
+        "A26": "La Hispaniola",
+        "B26": "Haiti",
+        "C26": "Ouest",
+        "D26": "Trou Venter Eglise, DINY, near Trouin",
+        "E26": 165,
+        "F26": 18.414028,
+        "G26": -72.622972,
+        "H26": "Fossil",
+        "I26": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Ouest",
+        "Specific Locality": "Trou Venter Eglise, DINY, near Trouin",
+        "Elevation (m)*": 165,
+        "Latitude": 18.414028,
+        "Longitude": -72.622972,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 27,
+      "raw_cells": {
+        "A27": "La Hispaniola",
+        "B27": "Haiti",
+        "C27": "Ouest",
+        "D27": "\"Cave at Diquini\"",
+        "E27": "?",
+        "F27": 18.53222,
+        "G27": -72.38917,
+        "H27": "Fossil",
+        "I27": "Miller 1929"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Ouest",
+        "Specific Locality": "\"Cave at Diquini\"",
+        "Elevation (m)*": "?",
+        "Latitude": 18.53222,
+        "Longitude": -72.38917,
+        "Basis of record": "Fossil",
+        "Source": "Miller 1929"
+      }
+    },
+    {
+      "excel_row": 28,
+      "raw_cells": {
+        "A28": "La Hispaniola",
+        "B28": "Haiti",
+        "C28": "Ouest",
+        "D28": "Diquini",
+        "E28": 25,
+        "F28": 18.53222,
+        "G28": -72.38917,
+        "H28": "Living",
+        "I28": "Sanborn 1941"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Ouest",
+        "Specific Locality": "Diquini",
+        "Elevation (m)*": 25,
+        "Latitude": 18.53222,
+        "Longitude": -72.38917,
+        "Basis of record": "Living",
+        "Source": "Sanborn 1941"
+      }
+    },
+    {
+      "excel_row": 29,
+      "raw_cells": {
+        "A29": "La Hispaniola",
+        "B29": "Haiti",
+        "C29": "Ouest",
+        "D29": "Petionville",
+        "E29": 400,
+        "F29": 18.5125,
+        "G29": -72.28528,
+        "H29": "Living",
+        "I29": "Sanborn 1941"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Ouest",
+        "Specific Locality": "Petionville",
+        "Elevation (m)*": 400,
+        "Latitude": 18.5125,
+        "Longitude": -72.28528,
+        "Basis of record": "Living",
+        "Source": "Sanborn 1941"
+      }
+    },
+    {
+      "excel_row": 30,
+      "raw_cells": {
+        "A30": "La Hispaniola",
+        "B30": "Haiti",
+        "C30": "Ouest",
+        "D30": "Port au Prince",
+        "E30": 40,
+        "F30": 18.53917,
+        "G30": -72.335,
+        "H30": "Living",
+        "I30": "Sanborn 1941"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Ouest",
+        "Specific Locality": "Port au Prince",
+        "Elevation (m)*": 40,
+        "Latitude": 18.53917,
+        "Longitude": -72.335,
+        "Basis of record": "Living",
+        "Source": "Sanborn 1941"
+      }
+    },
+    {
+      "excel_row": 31,
+      "raw_cells": {
+        "A31": "La Hispaniola",
+        "B31": "Haiti",
+        "C31": "Sud",
+        "D31": "Trou Jeremie #1",
+        "E31": 236,
+        "F31": 18.209992,
+        "G31": -74.010012,
+        "H31": "Fossil",
+        "I31": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Sud",
+        "Specific Locality": "Trou Jeremie #1",
+        "Elevation (m)*": 236,
+        "Latitude": 18.209992,
+        "Longitude": -74.010012,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 32,
+      "raw_cells": {
+        "A32": "La Hispaniola",
+        "B32": "Haiti",
+        "C32": "Sud",
+        "D32": "Trou Woche Sawo, Camp Perrin",
+        "E32": 273,
+        "F32": 18.322078,
+        "G32": -73.887606,
+        "H32": "Fossil",
+        "I32": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Sud",
+        "Specific Locality": "Trou Woche Sawo, Camp Perrin",
+        "Elevation (m)*": 273,
+        "Latitude": 18.322078,
+        "Longitude": -73.887606,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 33,
+      "raw_cells": {
+        "A33": "La Hispaniola",
+        "B33": "Haiti",
+        "C33": "Sud",
+        "D33": "Duchity, 2km SE of",
+        "E33": 750,
+        "F33": 18.39361,
+        "G33": -73.879864,
+        "H33": "Living",
+        "I33": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Sud",
+        "Specific Locality": "Duchity, 2km SE of",
+        "Elevation (m)*": 750,
+        "Latitude": 18.39361,
+        "Longitude": -73.879864,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 34,
+      "raw_cells": {
+        "A34": "La Hispaniola",
+        "B34": "Haiti",
+        "C34": "Sud",
+        "D34": "Sapoti",
+        "E34": 1850,
+        "F34": 18.393522,
+        "G34": -74.108465,
+        "H34": "Living",
+        "I34": "Kilinger et al 1978"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Sud",
+        "Specific Locality": "Sapoti",
+        "Elevation (m)*": 1850,
+        "Latitude": 18.393522,
+        "Longitude": -74.108465,
+        "Basis of record": "Living",
+        "Source": "Kilinger et al 1978"
+      }
+    },
+    {
+      "excel_row": 35,
+      "raw_cells": {
+        "A35": "La Hispaniola",
+        "B35": "Haiti",
+        "C35": "Sud",
+        "D35": "Parc Nationale Pic Macaya",
+        "E35": 1400,
+        "F35": 18.369017,
+        "G35": -74.02027,
+        "H35": "Living",
+        "I35": "Woods 1986"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Sud",
+        "Specific Locality": "Parc Nationale Pic Macaya",
+        "Elevation (m)*": 1400,
+        "Latitude": 18.369017,
+        "Longitude": -74.02027,
+        "Basis of record": "Living",
+        "Source": "Woods 1986"
+      }
+    },
+    {
+      "excel_row": 36,
+      "raw_cells": {
+        "A36": "La Hispaniola",
+        "B36": "Haiti",
+        "C36": "Sud-Est",
+        "D36": "Calsius Cavern, Jacmel",
+        "E36": 26,
+        "F36": 18.23825,
+        "G36": -72.534214,
+        "H36": "Fossil",
+        "I36": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Sud-Est",
+        "Specific Locality": "Calsius Cavern, Jacmel",
+        "Elevation (m)*": 26,
+        "Latitude": 18.23825,
+        "Longitude": -72.534214,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    },
+    {
+      "excel_row": 37,
+      "raw_cells": {
+        "A37": "La Hispaniola",
+        "B37": "Haiti",
+        "C37": "Sud-Est",
+        "D37": "Parc Nationale La Visite",
+        "E37": 990,
+        "F37": 18.324842,
+        "G37": -72.330127,
+        "H37": "Living",
+        "I37": "Woods 1986"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Sud-Est",
+        "Specific Locality": "Parc Nationale La Visite",
+        "Elevation (m)*": 990,
+        "Latitude": 18.324842,
+        "Longitude": -72.330127,
+        "Basis of record": "Living",
+        "Source": "Woods 1986"
+      }
+    }
+  ],
+  "formula_cells": [],
+  "basis_counts": {
+    "Fossil": 19,
+    "Living": 17
+  },
+  "jeremie_name_rows": [
+    {
+      "excel_row": 5,
+      "raw_cells": {
+        "A5": "La Hispaniola",
+        "B5": "Haiti",
+        "C5": "Grand'Anse",
+        "D5": "8 mi WSW Jeremie",
+        "E5": "?",
+        "F5": 18.592329,
+        "G5": -74.222825,
+        "H5": "Fossil",
+        "I5": "Miller 1918"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Grand'Anse",
+        "Specific Locality": "8 mi WSW Jeremie",
+        "Elevation (m)*": "?",
+        "Latitude": 18.592329,
+        "Longitude": -74.222825,
+        "Basis of record": "Fossil",
+        "Source": "Miller 1918"
+      }
+    },
+    {
+      "excel_row": 31,
+      "raw_cells": {
+        "A31": "La Hispaniola",
+        "B31": "Haiti",
+        "C31": "Sud",
+        "D31": "Trou Jeremie #1",
+        "E31": 236,
+        "F31": 18.209992,
+        "G31": -74.010012,
+        "H31": "Fossil",
+        "I31": "This study"
+      },
+      "fields": {
+        "Island": "La Hispaniola",
+        "Country": "Haiti",
+        "Province": "Sud",
+        "Specific Locality": "Trou Jeremie #1",
+        "Elevation (m)*": 236,
+        "Latitude": 18.209992,
+        "Longitude": -74.010012,
+        "Basis of record": "Fossil",
+        "Source": "This study"
+      }
+    }
+  ],
+  "comparison": {
+    "method": "Numeric latitude and longitude rounded separately to five decimal places; no spatial transformation or distance estimate",
+    "bat2015_printed_point": {
+      "latitude_as_printed": 18.20999,
+      "longitude_as_printed": -74.01001,
+      "datum_for_this_dated_bone": null,
+      "role": "Methods locality label; not an authenticated bone findspot",
+      "limit": "Methods p4 states WGS84 for modern coordinates and georeferencing for fossils; no direct survey or uncertainty supplied for this bone."
+    },
+    "matching_rows": [
+      {
+        "excel_row": 31,
+        "raw_cells": {
+          "A31": "La Hispaniola",
+          "B31": "Haiti",
+          "C31": "Sud",
+          "D31": "Trou Jeremie #1",
+          "E31": 236,
+          "F31": 18.209992,
+          "G31": -74.010012,
+          "H31": "Fossil",
+          "I31": "This study"
+        },
+        "fields": {
+          "Island": "La Hispaniola",
+          "Country": "Haiti",
+          "Province": "Sud",
+          "Specific Locality": "Trou Jeremie #1",
+          "Elevation (m)*": 236,
+          "Latitude": 18.209992,
+          "Longitude": -74.010012,
+          "Basis of record": "Fossil",
+          "Source": "This study"
+        }
+      }
+    ],
+    "cave_identity_authenticated": false,
+    "dated_bone_accession_authenticated": false,
+    "same_deposit_established": false
+  },
+  "limits": [
+    "Numeric agreement is documentary linkage, not measured spatial accuracy or specimen custody.",
+    "S1 assigns Trou Jeremie #1, whereas S318 names the sloth context Jérémie #5; cause unresolved.",
+    "New-locality elevations estimated with GoogleEarth according to supporting-information caption; not independent elevation measurements.",
+    "Unknown datum, coordinate uncertainty and dated-bone accession stay unknown.",
+    "S2 specimen list concerns Trouing Jean Paul, not the 2015 dated Jérémie humerus."
+  ]
+}

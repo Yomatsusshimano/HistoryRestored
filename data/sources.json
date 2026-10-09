@@ -4995,6 +4995,20 @@
       "local_copy": "",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S324",
+      "title": "The bat community of Haiti and evidence for its long-term persistence at high elevations, with original S1/S2 supplements",
+      "creator": "J. Angel Soto-Centeno; Nancy B. Simmons; David W. Steadman",
+      "publication_date": "2017-06-02",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178066",
+      "source_type": "Original PLOS ONE article12(6)e0178066 and publisher-provided XLSX/PDF supplements; one study, not three replications",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Main PDF pages6/10 visually inspected; S2PDF page1 visually inspected. S1XLSX all36rows/A1:I37 cells read without editing; no formula cells. Article supporting captions and CC-BY declaration read. No workbook layout-rendering claim.",
+      "limitations": "S1coordinates are reported labels; datum/uncertainty unresolved. Matching2015point is labeled#1, not proof of dated-bone cave identity. S2accessions belong to Jean Paul. Six main Table3dates measure woodcock bones, not directly dated bats. Other main/supplement pages not visually audited; raw lab/field notes absent.",
+      "local_copy": "sources/originals/wildlife/bats2017/pone.0178066.s001.xlsx",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
