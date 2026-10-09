@@ -2663,9 +2663,9 @@
     },
     {
       "id": "C026",
-      "title": "Halley1715 solar eclipse: primary observation and chronology diagnostic",
+      "title": "1715 London-Paris eclipse observations and chronology diagnostics",
       "category": "astronomical chronology",
-      "place": "Royal Society house at Crane Court, Fleet Street, London",
+      "place": "Royal Society house, Crane Court, London; Luxembourg, contextually interpreted as Paris",
       "coordinates": null,
       "status": "SOURCED_DRAFT",
       "reviewers": [],
@@ -2704,13 +2704,18 @@
           "source_id": "S287",
           "locator": "BSBcanvases229-231/printed89-91;data/louville1715-results.json",
           "statement": "Separately printed account explicitly labelsMay3,1715newstyle and shares Halley clock calibration. Nine paired times differ14s or15s from English compilation; both retain202s totality forLouville. Correction during compilation is consistent but not proven."
+        },
+        {
+          "source_id": "S288",
+          "locator": "BSBcanvases225-226/printed85-86;data/delisle1715-results.json",
+          "statement": "Delisle account reports partial eclipse at Luxembourg, onset08:12:15or16. Fixed approximate Paris model givesPartial/onset08:11:47.295,27.7-28.7s earlier;18site variants remainPartial. Peak/end seconds unresolved; digits not area percentage."
         }
       ],
       "physical_evidence": "No original paper/manuscript or dated material inspected; digital scan and executed modern orbital calculation available.",
-      "surviving_documents": "Selected1715printed observation scans with calibration and contacts; publisher-deposited citation metadata; official calendar-act text.",
+      "surviving_documents": "Inspected Halley printed account and regional synopsis; selected deLouville and complete shortDelisle account in separately preserved FrenchAcademy volume; publisher metadata and officialcalendar-act text. Original notes/custody unauthenticated.",
       "source_interpretation": "Halley reports total solar eclipse at Crane Court and regional observations; precise source timing has an internal onset discrepancy.",
       "investigation_inference": "Conventional Julian conversion and modern model are compatible at day/type/minute scale. Simple tested nonzero integer-year relabelings fail for this record under fixed date/location/model; one record does not establish all chronology or disprove flexible rewriting.",
-      "next_test": "Inspect rest ofLouville account/additional editions and original calibration/editorial records; resolve regional sites and compare separately located astronomical observations under explicit chronology transformations.",
+      "next_test": "Authenticate Paris observer site/time convention and original notes; inspect complete Maraldi account; combine separately located events with original calibration/custody and independent ephemeris under explicit chronology transformations.",
       "chronology": {
         "reported": "April22,1715Julian interpreted asMay3,1715Gregorian;CrossrefpublicationMay31,1715",
         "dated_object": "Printed report of observation and modern calculated event",
@@ -2727,9 +2732,10 @@
         "Independent high-precision ephemeris and rotation sensitivity",
         "Multiple held-out astronomical anchors",
         "Independent review",
-        "Original regional correspondence/calibration and geocoded observer sites; remaining partial/sunspot timing transcription"
+        "Original regional correspondence/calibration and geocoded observer sites; remaining partial/sunspot timing transcription",
+        "Authenticated Delisle Luxembourg site and clock convention; numerical peak/end seconds unavailable"
       ],
-      "dependence": "Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics. S287French account explicitly shares Halley calibration and venue; separate publication is not wholly independent chronology. Nine paired spot/contact times are dependent within the record.",
+      "dependence": "Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics. S287French account explicitly shares Halley calibration and venue; separate publication is not wholly independent chronology. Nine paired spot/contact times are dependent within the record. Delisle uses different reported observing context but same eclipse/Academy volume asLouville; same model/DeltaT asLondon. Historical clock/location and printed-item provenance remain unvalidated.",
       "competing_explanations": [
         "Document date or custody error",
         "Later compilation or calculated record",

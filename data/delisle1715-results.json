@@ -1,0 +1,553 @@
+{
+  "source_ids": [
+    "S288",
+    "S283"
+  ],
+  "input_sha256": "e3d472a51d8e39ad6d2cd020afb7b9342f73a84fb6f8138439b6a1303c6ce1db",
+  "astronomy_engine_version": "2.1.19",
+  "module_sha256": "5f3a17c0b14290d084eeb0d29b00b3139cd1703a8d30fa5eb141398a24719261",
+  "observer": {
+    "latitude": 48.8462,
+    "longitude": 2.3372,
+    "height_m": 0,
+    "role": "Selected approximate Paris Luxembourg-area diagnostic point, not surveyed historical instrument position."
+  },
+  "baseline": {
+    "kind": "Partial",
+    "obscuration_area_fraction": 0.9389596252763398,
+    "contacts": {
+      "partial_begin": {
+        "UT_label": "1715-05-03T07:59:04.376Z",
+        "apparent_local_time": "08:11:47.295",
+        "apparent_seconds": 29507.29454969582,
+        "sun_altitude_deg": 33.13534268352597
+      },
+      "peak": {
+        "UT_label": "1715-05-03T09:04:51.358Z",
+        "apparent_local_time": "09:17:34.672",
+        "apparent_seconds": 33454.67232626908,
+        "sun_altitude_deg": 43.09143548155531
+      },
+      "partial_end": {
+        "UT_label": "1715-05-03T10:15:37.078Z",
+        "apparent_local_time": "10:28:20.841",
+        "apparent_seconds": 37700.84079944841,
+        "sun_altitude_deg": 51.801182205248416
+      }
+    },
+    "delta_t_s": 10.325473238788584,
+    "partial_begin_model_minus_reported_s": [
+      -27.705450304179976,
+      -28.705450304179976
+    ],
+    "peak_model_minus_nominal_minute_label_s": -25.32767373092065,
+    "partial_end_model_minus_nominal_reference_s": -39.15920055159222
+  },
+  "observer_variants": [
+    {
+      "latitude": 48.8362,
+      "longitude": 2.3172,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9389450460674101,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:02.587Z",
+          "apparent_local_time": "08:11:40.706",
+          "apparent_seconds": 29500.70551149544,
+          "sun_altitude_deg": 33.12051545517006
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:49.191Z",
+          "apparent_local_time": "09:17:27.705",
+          "apparent_seconds": 33447.704618268624,
+          "sun_altitude_deg": 43.08015577841015
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:34.668Z",
+          "apparent_local_time": "10:28:13.630",
+          "apparent_seconds": 37693.63035398768,
+          "sun_altitude_deg": 51.79712856663528
+        }
+      },
+      "delta_t_s": 10.325473234643823
+    },
+    {
+      "latitude": 48.8362,
+      "longitude": 2.3172,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9389582275177099,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:02.566Z",
+          "apparent_local_time": "08:11:40.684",
+          "apparent_seconds": 29500.684063797064,
+          "sun_altitude_deg": 33.12045865431562
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:49.178Z",
+          "apparent_local_time": "09:17:27.692",
+          "apparent_seconds": 33447.69152907223,
+          "sun_altitude_deg": 43.0801249222189
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:34.668Z",
+          "apparent_local_time": "10:28:13.630",
+          "apparent_seconds": 37693.62998561039,
+          "sun_altitude_deg": 51.79712794272025
+        }
+      },
+      "delta_t_s": 10.325473234618794
+    },
+    {
+      "latitude": 48.8362,
+      "longitude": 2.3372,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9387183801140002,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:03.378Z",
+          "apparent_local_time": "08:11:46.296",
+          "apparent_seconds": 29506.29616191702,
+          "sun_altitude_deg": 33.135306006396185
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:50.367Z",
+          "apparent_local_time": "09:17:33.681",
+          "apparent_seconds": 33453.681012878566,
+          "sun_altitude_deg": 43.094224983717694
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:36.195Z",
+          "apparent_local_time": "10:28:19.957",
+          "apparent_seconds": 37699.957155227516,
+          "sun_altitude_deg": 51.807657959493646
+        }
+      },
+      "delta_t_s": 10.325473236893105
+    },
+    {
+      "latitude": 48.8362,
+      "longitude": 2.3372,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9387315629056845,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:03.357Z",
+          "apparent_local_time": "08:11:46.275",
+          "apparent_seconds": 29506.27471170259,
+          "sun_altitude_deg": 33.13524920422035
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:50.354Z",
+          "apparent_local_time": "09:17:33.668",
+          "apparent_seconds": 33453.667883442366,
+          "sun_altitude_deg": 43.09419404123887
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:36.195Z",
+          "apparent_local_time": "10:28:19.957",
+          "apparent_seconds": 37699.95680822838,
+          "sun_altitude_deg": 51.80765737170848
+        }
+      },
+      "delta_t_s": 10.325473236868007
+    },
+    {
+      "latitude": 48.8362,
+      "longitude": 2.3572,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9384916461666442,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:04.169Z",
+          "apparent_local_time": "08:11:51.888",
+          "apparent_seconds": 29511.887588214784,
+          "sun_altitude_deg": 33.150097218654295
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:51.544Z",
+          "apparent_local_time": "09:17:39.658",
+          "apparent_seconds": 33459.658021141506,
+          "sun_altitude_deg": 43.10829174070001
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:37.722Z",
+          "apparent_local_time": "10:28:26.284",
+          "apparent_seconds": 37706.28435511307,
+          "sun_altitude_deg": 51.81817902511464
+        }
+      },
+      "delta_t_s": 10.325473239143552
+    },
+    {
+      "latitude": 48.8362,
+      "longitude": 2.3572,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9385048302164589,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:04.148Z",
+          "apparent_local_time": "08:11:51.866",
+          "apparent_seconds": 29511.866132968986,
+          "sun_altitude_deg": 33.15004040850596
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:51.531Z",
+          "apparent_local_time": "09:17:39.645",
+          "apparent_seconds": 33459.64495206642,
+          "sun_altitude_deg": 43.10826094894708
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:37.721Z",
+          "apparent_local_time": "10:28:26.284",
+          "apparent_seconds": 37706.28403451667,
+          "sun_altitude_deg": 51.81817848177526
+        }
+      },
+      "delta_t_s": 10.32547323911858
+    },
+    {
+      "latitude": 48.8462,
+      "longitude": 2.3172,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9391861720281913,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:03.586Z",
+          "apparent_local_time": "08:11:41.704",
+          "apparent_seconds": 29501.7040715478,
+          "sun_altitude_deg": 33.12055622934859
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:50.182Z",
+          "apparent_local_time": "09:17:28.696",
+          "apparent_seconds": 33448.696097662185,
+          "sun_altitude_deg": 43.0773712976871
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:35.552Z",
+          "apparent_local_time": "10:28:14.514",
+          "apparent_seconds": 37694.51415289425,
+          "sun_altitude_deg": 51.79065828055759
+        }
+      },
+      "delta_t_s": 10.325473236539619
+    },
+    {
+      "latitude": 48.8462,
+      "longitude": 2.3172,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9391993510876849,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:03.564Z",
+          "apparent_local_time": "08:11:41.683",
+          "apparent_seconds": 29501.682638931452,
+          "sun_altitude_deg": 33.120499482380055
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:50.169Z",
+          "apparent_local_time": "09:17:28.683",
+          "apparent_seconds": 33448.68298079981,
+          "sun_altitude_deg": 43.077340386449514
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:35.552Z",
+          "apparent_local_time": "10:28:14.514",
+          "apparent_seconds": 37694.51378702776,
+          "sun_altitude_deg": 51.790657661129664
+        }
+      },
+      "delta_t_s": 10.325473236514535
+    },
+    {
+      "latitude": 48.8462,
+      "longitude": 2.3372,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9389596252763398,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:04.376Z",
+          "apparent_local_time": "08:11:47.295",
+          "apparent_seconds": 29507.29454969582,
+          "sun_altitude_deg": 33.13534268352597
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:51.358Z",
+          "apparent_local_time": "09:17:34.672",
+          "apparent_seconds": 33454.67232626908,
+          "sun_altitude_deg": 43.09143548155531
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:37.078Z",
+          "apparent_local_time": "10:28:20.841",
+          "apparent_seconds": 37700.84079944841,
+          "sun_altitude_deg": 51.801182205248416
+        }
+      },
+      "delta_t_s": 10.325473238788584
+    },
+    {
+      "latitude": 48.8462,
+      "longitude": 2.3372,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9389728056812795,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:04.355Z",
+          "apparent_local_time": "08:11:47.273",
+          "apparent_seconds": 29507.2731158306,
+          "sun_altitude_deg": 33.13528593858801
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:51.345Z",
+          "apparent_local_time": "09:17:34.659",
+          "apparent_seconds": 33454.65920562999,
+          "sun_altitude_deg": 43.09140456996198
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:37.078Z",
+          "apparent_local_time": "10:28:20.840",
+          "apparent_seconds": 37700.840454957055,
+          "sun_altitude_deg": 51.801181621927675
+        }
+      },
+      "delta_t_s": 10.325473238763488
+    },
+    {
+      "latitude": 48.8462,
+      "longitude": 2.3572,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9387330100276531,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:05.167Z",
+          "apparent_local_time": "08:11:52.886",
+          "apparent_seconds": 29512.88580623109,
+          "sun_altitude_deg": 33.15012980408426
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:52.535Z",
+          "apparent_local_time": "09:17:40.649",
+          "apparent_seconds": 33460.64919872007,
+          "sun_altitude_deg": 43.105497286783226
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:38.605Z",
+          "apparent_local_time": "10:28:27.168",
+          "apparent_seconds": 37707.16784966293,
+          "sun_altitude_deg": 51.811697811785045
+        }
+      },
+      "delta_t_s": 10.32547324103877
+    },
+    {
+      "latitude": 48.8462,
+      "longitude": 2.3572,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.938746191751032,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:05.146Z",
+          "apparent_local_time": "08:11:52.864",
+          "apparent_seconds": 29512.864367340695,
+          "sun_altitude_deg": 33.150073051186546
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:52.522Z",
+          "apparent_local_time": "09:17:40.636",
+          "apparent_seconds": 33460.636094428686,
+          "sun_altitude_deg": 43.10546642223295
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:38.605Z",
+          "apparent_local_time": "10:28:27.168",
+          "apparent_seconds": 37707.167527812664,
+          "sun_altitude_deg": 51.811697266620534
+        }
+      },
+      "delta_t_s": 10.325473241013714
+    },
+    {
+      "latitude": 48.8562,
+      "longitude": 2.3172,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9394271967080492,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:04.584Z",
+          "apparent_local_time": "08:11:42.703",
+          "apparent_seconds": 29502.702774947204,
+          "sun_altitude_deg": 33.12059506851953
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:51.173Z",
+          "apparent_local_time": "09:17:29.687",
+          "apparent_seconds": 33449.68749656873,
+          "sun_altitude_deg": 43.07458399761436
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:36.435Z",
+          "apparent_local_time": "10:28:15.398",
+          "apparent_seconds": 37695.39763240751,
+          "sun_altitude_deg": 51.784185367332476
+        }
+      },
+      "delta_t_s": 10.325473238435249
+    },
+    {
+      "latitude": 48.8562,
+      "longitude": 2.3172,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9394403734604286,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:04.563Z",
+          "apparent_local_time": "08:11:42.681",
+          "apparent_seconds": 29502.68135994539,
+          "sun_altitude_deg": 33.12053838211279
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:51.160Z",
+          "apparent_local_time": "09:17:29.674",
+          "apparent_seconds": 33449.67440485823,
+          "sun_altitude_deg": 43.07455315576297
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:36.435Z",
+          "apparent_local_time": "10:28:15.397",
+          "apparent_seconds": 37695.397264029205,
+          "sun_altitude_deg": 51.784184744011924
+        }
+      },
+      "delta_t_s": 10.32547323841022
+    },
+    {
+      "latitude": 48.8562,
+      "longitude": 2.3372,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9392007696197814,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:05.375Z",
+          "apparent_local_time": "08:11:48.293",
+          "apparent_seconds": 29508.293083337692,
+          "sun_altitude_deg": 33.13537743186098
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:52.349Z",
+          "apparent_local_time": "09:17:35.664",
+          "apparent_seconds": 33455.663560440844,
+          "sun_altitude_deg": 43.088643163150245
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:37.962Z",
+          "apparent_local_time": "10:28:21.724",
+          "apparent_seconds": 37701.72412552719,
+          "sun_altitude_deg": 51.7947038280654
+        }
+      },
+      "delta_t_s": 10.325473240683898
+    },
+    {
+      "latitude": 48.8562,
+      "longitude": 2.3372,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9392139476775901,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:05.353Z",
+          "apparent_local_time": "08:11:48.272",
+          "apparent_seconds": 29508.271664558826,
+          "sun_altitude_deg": 33.13532074079461
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:52.336Z",
+          "apparent_local_time": "09:17:35.650",
+          "apparent_seconds": 33455.65048004011,
+          "sun_altitude_deg": 43.08861235645838
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:37.961Z",
+          "apparent_local_time": "10:28:21.724",
+          "apparent_seconds": 37701.72378104426,
+          "sun_altitude_deg": 51.79470324503515
+        }
+      },
+      "delta_t_s": 10.3254732406589
+    },
+    {
+      "latitude": 48.8562,
+      "longitude": 2.3572,
+      "height_m": 0,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9389742735393962,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:06.166Z",
+          "apparent_local_time": "08:11:53.884",
+          "apparent_seconds": 29513.88416635434,
+          "sun_altitude_deg": 33.15016045030004
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:53.526Z",
+          "apparent_local_time": "09:17:41.640",
+          "apparent_seconds": 33461.64028324046,
+          "sun_altitude_deg": 43.102699984139576
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:39.488Z",
+          "apparent_local_time": "10:28:28.051",
+          "apparent_seconds": 37708.0510210548,
+          "sun_altitude_deg": 51.80521396928848
+        }
+      },
+      "delta_t_s": 10.32547324293381
+    },
+    {
+      "latitude": 48.8562,
+      "longitude": 2.3572,
+      "height_m": 50,
+      "kind": "Partial",
+      "obscuration_area_fraction": 0.9389874529346541,
+      "contacts": {
+        "partial_begin": {
+          "UT_label": "1715-05-03T07:59:06.144Z",
+          "apparent_local_time": "08:11:53.863",
+          "apparent_seconds": 29513.862745056376,
+          "sun_altitude_deg": 33.150103757919496
+        },
+        "peak": {
+          "UT_label": "1715-05-03T09:04:53.513Z",
+          "apparent_local_time": "09:17:41.627",
+          "apparent_seconds": 33461.627204099845,
+          "sun_altitude_deg": 43.10266918894122
+        },
+        "partial_end": {
+          "UT_label": "1715-05-03T10:15:39.488Z",
+          "apparent_local_time": "10:28:28.051",
+          "apparent_seconds": 37708.05069920005,
+          "sun_altitude_deg": 51.805213424377975
+        }
+      },
+      "delta_t_s": 10.325473242908798
+    }
+  ],
+  "limits": "Retrospective conditional local-apparent-time interpretation, fixed unfitted approximate site. Source peak/end seconds unknown; nominal-label differences are not measured residuals. Digits are not area obscuration. No confidence bounds or wholly independent orbital/rotation validation."
+}

@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 - Paris eclipse observation and executed diagnostic
+
+S288Delisle account at different observing site adds partial-eclipse report and fixed Paris modelPartial. Onset27.7-28.7s early;peak/end seconds remainunknown,18site variantsPartial,digitsnotarea. Shared event/model/volume and unauthenticatedsite/clock preserved. See [Paris audit](DELISLE-1715-PARIS.md).26drafts/288sources; full twenty objectives active,no independent review or chronology break.
+
 ### 2026-10-09 - French eclipse publication crosswalk
 
 S287selected officialBSBscans show nineLouville times14-15s later thanEnglish compilation;202s totality agrees,225s prediction kept separate. SharedHalleycalibration is explicit; correction mechanism consistent, not authenticated. Reporting1715/publication1718 distinguished, scanslinkednotrepublished. See [French account audit](LOUVILLE-1715-CROSSWALK.md).26drafts/287sources; all twenty objectives active, no review or chronology break.

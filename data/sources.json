@@ -4477,6 +4477,21 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S288",
+      "title": "Delisle le Cadet: résultat de l'observation de l'éclipse du Soleil du3Mai1715 auLuxembourg",
+      "creator": "Delisle le Cadet; Académie Royale des Sciences; Bayerische Staatsbibliothek digital surrogate",
+      "publication_date": "1718",
+      "url": "https://www.digitale-sammlungen.de/en/view/bsb10500330?page=225",
+      "source_type": "Primary historical observation digital surrogate",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Canvases225-226/printed85-86 Delisle account visually inspected; Maraldi begins later on86, not complete audited here. Onset08:12:15or16,peak09:18/11¼digits,endfew seconds before10:29 and three spot times transcribed. Pinned fixed Paris diagnostic and18site variants executed.",
+      "limitations": "Original notes/site/clock/custody unauthenticated; Luxembourg interpreted as Paris context, not surveyed. True time explicit for first spot; extending to contacts conditional. Peak/endseconds unknown, digits not area. Gregorian convention contextual. Same event/volume/model dependencies; NoC-NC scans linked/hashed not redistributed.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

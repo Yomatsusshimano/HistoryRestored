@@ -32,7 +32,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C023 | Ice-core chronology revision: isotope anchors and validation dependence |
 | C024 | Moxee City mammoth: weathering before flood burial |
 | C025 | Chicago grade proposals, river works and Lake Street building raising,1855-1861 |
-| C026 | Halley1715 solar eclipse: primary observation and chronology diagnostic |
+| C026 | 1715 London-Paris eclipse observations and chronology diagnostics |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -1040,9 +1040,9 @@ Place: Chicago, Illinois; Lake Street north side between Clark and La Salle; Ont
 
 **Missing:** Original newspaper scan; Original estimate and sketch; Council grade/approval instruments; Named completed-work block and historical benchmark; Fill purchase records and measured sediment contacts; Specimen/material dates; Original1859 Common Council journal and dredging contracts; North Branch spoil disposal and measured quantities; Original assessment court opinions and matched properties; Lake Street original photograph and newspaper issue; Block-level lifting/foundation contracts and fill delivery records; Mendel lithograph accession, original date and commission lineage
 
-## C026: Halley1715 solar eclipse: primary observation and chronology diagnostic
+## C026: 1715 London-Paris eclipse observations and chronology diagnostics
 
-Place: Royal Society house at Crane Court, Fleet Street, London. Status: SOURCED_DRAFT.
+Place: Royal Society house, Crane Court, London; Luxembourg, contextually interpreted as Paris. Status: SOURCED_DRAFT.
 
 **Sourced statements**
 
@@ -1053,10 +1053,11 @@ Place: Royal Society house at Crane Court, Fleet Street, London. Status: SOURCED
 - Act changes1752year commencement and nominalSeptember dates; April1715preceded reform. [S286](https://www.legislation.gov.uk/apgb/Geo2/24/23). Locator: Date/year reckoning text. Access: FULL_TEXT_PORTION. Limit: Online legal text rather than original enacted print/manuscript; source styling1750 differs enactment-year conventions. No legal advice or archive custody authentication.
 - Final London contact10:20:00 uses15s clock correction, model40.022s earlier. Regional synopsis26rows includes19durations;11endpoint pairs agree, while four exceed author-inferred237s maximum. Original observers/site/calibration and document independence unresolved. [S282](https://archive.org/download/paper-doi-10_1098_rstl_1714_0025/paper-doi-10_1098_rstl_1714_0025.pdf). Locator: PDF7-18/printed251-262;data/halley1715-regional-results.json. Access: SCAN_INSPECTED. Limit: Digital surrogate not original manuscript authentication. C1 arithmetic discrepancy11-16s retained; final clock correction15s versus earlier14s. Four synopsis durations exceed author-inferred237s maximum. Original individual regional records, clock calibration and exact sites unauthenticated; compilation is shared lineage.
 - Separately printed account explicitly labelsMay3,1715newstyle and shares Halley clock calibration. Nine paired times differ14s or15s from English compilation; both retain202s totality forLouville. Correction during compilation is consistent but not proven. [S287](https://www.digitale-sammlungen.de/en/view/bsb10500330?page=229). Locator: BSBcanvases229-231/printed89-91;data/louville1715-results.json. Access: SCAN_INSPECTED. Limit: Selected pages only; original manuscript/clock/custody unauthenticated. Shared venue/calibration/event and English compilation cause dependence. Publication1718 from institutional metadata not scanned title page. NoC-NC1.0 scans linked/hashed, not redistributed. First-spot emersion semantics provisional.
+- Delisle account reports partial eclipse at Luxembourg, onset08:12:15or16. Fixed approximate Paris model givesPartial/onset08:11:47.295,27.7-28.7s earlier;18site variants remainPartial. Peak/end seconds unresolved; digits not area percentage. [S288](https://www.digitale-sammlungen.de/en/view/bsb10500330?page=225). Locator: BSBcanvases225-226/printed85-86;data/delisle1715-results.json. Access: SCAN_INSPECTED. Limit: Original notes/site/clock/custody unauthenticated; Luxembourg interpreted as Paris context, not surveyed. True time explicit for first spot; extending to contacts conditional. Peak/endseconds unknown, digits not area. Gregorian convention contextual. Same event/volume/model dependencies; NoC-NC scans linked/hashed not redistributed.
 
 **Physical evidence:** No original paper/manuscript or dated material inspected; digital scan and executed modern orbital calculation available.
 
-**Surviving documents:** Selected1715printed observation scans with calibration and contacts; publisher-deposited citation metadata; official calendar-act text.
+**Surviving documents:** Inspected Halley printed account and regional synopsis; selected deLouville and complete shortDelisle account in separately preserved FrenchAcademy volume; publisher metadata and officialcalendar-act text. Original notes/custody unauthenticated.
 
 **Source interpretation:** Halley reports total solar eclipse at Crane Court and regional observations; precise source timing has an internal onset discrepancy.
 
@@ -1064,12 +1065,12 @@ Place: Royal Society house at Crane Court, Fleet Street, London. Status: SOURCED
 
 **Counterevidence:** Modern model contacts remain48-55s earlier than inspected source times; first-contact clock/delay arithmetic differs11-16s from reported corrected time. Precise timing and manuscript authenticity remain unresolved. These discrepancies do not establish a chronology break. Final partial contact remains40.022s earlier in the model; four synopsis durations exceed the author inferred maximum. These are not silently excluded.
 
-**Next test:** Inspect rest ofLouville account/additional editions and original calibration/editorial records; resolve regional sites and compare separately located astronomical observations under explicit chronology transformations.
+**Next test:** Authenticate Paris observer site/time convention and original notes; inspect complete Maraldi account; combine separately located events with original calibration/custody and independent ephemeris under explicit chronology transformations.
 
-**Dependence:** Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics. S287French account explicitly shares Halley calibration and venue; separate publication is not wholly independent chronology. Nine paired spot/contact times are dependent within the record.
+**Dependence:** Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics. S287French account explicitly shares Halley calibration and venue; separate publication is not wholly independent chronology. Nine paired spot/contact times are dependent within the record. Delisle uses different reported observing context but same eclipse/Academy volume asLouville; same model/DeltaT asLondon. Historical clock/location and printed-item provenance remain unvalidated.
 
 **Alternatives:** Document date or custody error; Later compilation or calculated record; Clock/calibration/contact identification error; Calendar/day convention mismatch; Modern orbital/DeltaT/model radius error; Explicit nonuniform chronology transformation requiring separate tests
 
 **Chronology:** {"reported": "April22,1715Julian interpreted asMay3,1715Gregorian;CrossrefpublicationMay31,1715", "dated_object": "Printed report of observation and modern calculated event", "method": "Scan transcription, explicit calendar arithmetic and conditional orbital calculation", "raw_date": "1715-04-22", "uncertainty": null, "timescale": "Julian source label/Gregorian model label", "event_association": "CONDITIONAL"}
 
-**Missing:** Original manuscript and physical custody; Historical clock error distribution; Exact observer position/height; Independent high-precision ephemeris and rotation sensitivity; Multiple held-out astronomical anchors; Independent review; Original regional correspondence/calibration and geocoded observer sites; remaining partial/sunspot timing transcription
+**Missing:** Original manuscript and physical custody; Historical clock error distribution; Exact observer position/height; Independent high-precision ephemeris and rotation sensitivity; Multiple held-out astronomical anchors; Independent review; Original regional correspondence/calibration and geocoded observer sites; remaining partial/sunspot timing transcription; Authenticated Delisle Luxembourg site and clock convention; numerical peak/end seconds unavailable

@@ -1,5 +1,9 @@
 # Research log
 
+### 2026-10-09 - Different observing site: Delisle Paris diagnostic
+
+Previous goal turn made verified public progress317f48e; revalidated clean checkout. NormalTLS native curl acquired BSBcanvases225-226/printed85-86; Delisle full short account visually inspected, separateMaraldi beginning excluded from complete-site claims. Onsettwo seconds alternatives, peakunknownseconds and endfewseconds before10:29 retained;11¼digits not area. Fixed approximateParisLuxembourg point, no fit:Partial/onset08:11:47.295,27.7-28.7s earlier;18variantsPartial. Peak/end differences nominal-label only, not precision residuals. True-time extension/calendar/site contextual assumptions stated; same event/model/volume dependence. Scanslinked/hashednotredistributed.26drafts/288sources,no review/prospective success/worldwide reconstruction; full twenty goals retained. See research/DELISLE-1715-PARIS.md.
+
 ### 2026-10-09 - Separately preserved French eclipse account
 
 Previous goal turn made verified public progressc7ea5f6; revalidated clean checkout. Official BSBmanifest434canvases identifies1715reporting-year volume published1718. Native curl with normalTLS acquired selected scans after Pythoncertificate-chain failure; no override. Canvases229-231/printed89-91 visually inspected. Nine pairedLouville entries give six14s/three15s differences fromHalley compilation;202s observed versus225s calculated retained. SharedHalleycalibration/platform described, so separate edition not independent date anchor. Calendarnewstyle explicit; firstcontact08:06:13 not substituted forHalley08:06:00. ScansrightsNoC-NC:links/hashes only public. BoundedRoyalSociety search did not recover targetsolar observer originals; Pound lunar1715 catalog is a different event, not substituted.26drafts/287sources, no review/global reconstruction; full twenty objectives active. See research/LOUVILLE-1715-CROSSWALK.md.

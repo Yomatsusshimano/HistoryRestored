@@ -1,0 +1,72 @@
+{
+  "source_id": "S288",
+  "reported_date": "1715-05-03",
+  "calendar_interpretation": "Gregorian/newstyle by French context; page title itself saysMay3,1715 without newstyle phrase",
+  "site_token": "Luxembourg",
+  "creator_token": "M. Delisle le Cadet",
+  "inspected_canvases": [
+    225,
+    226
+  ],
+  "printed_pages": "85-86;page86 ends Delisle account and begins Maraldi account",
+  "contacts": {
+    "partial_begin": {
+      "tokens": [
+        "08:12:15",
+        "08:12:16"
+      ],
+      "role": "Alternative reported seconds, not statistical confidence interval"
+    },
+    "peak": {
+      "token": "09:18",
+      "seconds": null,
+      "role": "Minute label; rounding/observational uncertainty unspecified"
+    },
+    "partial_end": {
+      "token": "10:29 moins quelques secondes",
+      "nominal_reference": "10:29:00",
+      "exact_time": null,
+      "role": "A few seconds before10:29; no numerical bound invented"
+    }
+  },
+  "maximum_extent": {
+    "token": "11digits1/4",
+    "reported_digits": 11.25,
+    "area_fraction": null
+  },
+  "time_basis": {
+    "token": "temps vrai",
+    "locator": "printed85 sunspot-emersion sentence",
+    "limits": "True time explicitly attached to first spot emersion; extending local apparent time to eclipse contacts is a diagnostic interpretation, not independently authenticated clock calibration."
+  },
+  "spot_emersions": [
+    "09:45:22",
+    "09:47:35",
+    "09:48:38"
+  ],
+  "observer": {
+    "latitude": 48.8462,
+    "longitude": 2.3372,
+    "height_m": 0,
+    "role": "Selected approximate Paris Luxembourg-area diagnostic point, not surveyed historical instrument position."
+  },
+  "scans": [
+    {
+      "canvas": 225,
+      "printed_page": 85,
+      "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500330_00225/full/full/0/default.jpg",
+      "bytes": 674899,
+      "sha256": "313db9fcddddec8955e90c5ace1b2525c2dbafaa454d4d19f1eb90eca89e843e",
+      "public_copy": null
+    },
+    {
+      "canvas": 226,
+      "printed_page": 86,
+      "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500330_00226/full/full/0/default.jpg",
+      "bytes": 638181,
+      "sha256": "59d3f4540be7f50645ed98f79b3c07269538107daff4eec27931ea5cde4bc4a9",
+      "public_copy": null
+    }
+  ],
+  "rights": "München,Bayerische Staatsbibliothek;manifestNoC-NC1.0.Scans linked/hashed,not redistributed."
+}
