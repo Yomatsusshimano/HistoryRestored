@@ -1149,3 +1149,8 @@ Previous turn made verified public progress at500b23c. Revalidated clean checkou
 ### 2026-10-09 — 1999 processing-report lead inspected
 
 Previous turn made verified public progress at45a0cf2. Revalidated clean checkout. Bounded searches located Yamaguchi1999 pp53-57 in official USGS OFR99-400. Web fetch returned403; normal urllib request with browser user agent recovered hash-recorded110-page PDF. Visually inspected pp53-54 and text-read contribution/references. Title promises processing, but opening explicitly omits it; no original settings recovered. LaPush rooted tree is a resident-tip lead without sample ID or ring result. Follow-up searches found no sample-linked result and do not prove absence. Added S232; kept shared authorship, planned Japan visit, and unverified geographic extension distinct from replication or completed fieldwork. No outreach or review claimed.
+
+
+### 2026-10-09 — Archived Long Island processed outputs recovered
+
+Previous turn made verified public progress atd57296c. Revalidated clean checkout. Existing header-only search already locatedwa129.crn; inspected live NOAA directory for a/r suffix variants and recovered six full files. Hash-preserved all three decadal outputs and templates. Fixed-column parsing compared every annual index/count against tabular copies exactly, including opening missing placeholders. Valid spans991/992/993-1986 distinguish standard/ARSTAN/residual; residual matches reported study span without authenticating exact1997 input. Generic metadata descriptors and archive dates preserved. Site outputs available; individual-radius settings/processed records and original study-version identity still missing. No new dating result or independent review.

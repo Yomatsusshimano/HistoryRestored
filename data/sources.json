@@ -3651,6 +3651,21 @@
       "sha256": "5e8bb4c246b18c921928ee7be3170d25191af4121571aeefdd7658d71f741cf4",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S233",
+      "title": "Long Island Willapa Bay archived standard, ARSTAN and residual growth-index chronologies",
+      "creator": "David K. Yamaguchi / NOAA NCEI",
+      "publication_date": null,
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wa129r.crn",
+      "source_type": "Investigator-processed chronology outputs and NOAA tabular templates",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "All rows and headers of wa129.crn, wa129a.crn and wa129r.crn, and corresponding crn-noaa.txt templates. Every valid annual index/count pair agrees exactly across each file pair; versions span991,992,993 through1986 respectively.",
+      "limitations": "Same source collection and derivative templates, not independent records. Archive metadata dates2005/2018 do not authenticate exact1997 version; no original individual-radius processing settings/indices. Generic template first-year and method descriptors retained as metadata discrepancies.",
+      "local_copy": "sources/originals/cascadia/wa129r.crn",
+      "sha256": "75e7605eac2d833dd8637b35b6434aed85ee398d1730cab00b9c1c1f69b970df",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

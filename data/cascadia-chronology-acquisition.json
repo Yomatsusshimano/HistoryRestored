@@ -1,0 +1,49 @@
+{
+  "source_id": "S233",
+  "accessed_date": "2026-10-09",
+  "files": [
+    {
+      "name": "wa129.crn",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wa129.crn",
+      "bytes": 8343,
+      "sha256": "f956078916b1b2825d89d2e0c858c6ac50589449ecf27ddb058339064523ccc6",
+      "file": "sources/originals/cascadia/wa129.crn"
+    },
+    {
+      "name": "wa129a.crn",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wa129a.crn",
+      "bytes": 8343,
+      "sha256": "92a04a150dbe4f3f05e22c1b1d8583c4c8102912bc3d66d2fa51c5795821be4e",
+      "file": "sources/originals/cascadia/wa129a.crn"
+    },
+    {
+      "name": "wa129r.crn",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wa129r.crn",
+      "bytes": 8343,
+      "sha256": "75e7605eac2d833dd8637b35b6434aed85ee398d1730cab00b9c1c1f69b970df",
+      "file": "sources/originals/cascadia/wa129r.crn"
+    },
+    {
+      "name": "wa129-crn-noaa.txt",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wa129-crn-noaa.txt",
+      "bytes": 18320,
+      "sha256": "6f0edbbeae9776ea6be804846cd3f4d23f021639380106286691611ea4b32d5d",
+      "file": "sources/originals/cascadia/wa129-crn-noaa.txt"
+    },
+    {
+      "name": "wa129a-crn-noaa.txt",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wa129a-crn-noaa.txt",
+      "bytes": 18301,
+      "sha256": "009d9974dd6b8dcbe718d1a209f8d8d73ffa51476f1b6209faca80b09978057d",
+      "file": "sources/originals/cascadia/wa129a-crn-noaa.txt"
+    },
+    {
+      "name": "wa129r-crn-noaa.txt",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wa129r-crn-noaa.txt",
+      "bytes": 18307,
+      "sha256": "1a5d3768968165ae334a3c3e4981c4704773d77995c1595d7360ace1aeb0a735",
+      "file": "sources/originals/cascadia/wa129r-crn-noaa.txt"
+    }
+  ],
+  "limits": "Recovered investigator chronology outputs and NOAA templates; no original 1997 version or per-radius settings authenticated."
+}

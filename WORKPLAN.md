@@ -507,3 +507,8 @@ S19/S231 now distinguish named physical tracing reports, width correlations and 
 ### 2026-10-09 — Processing-title lead resolved
 
 S2321999 workshop contribution recovered; processing explicitly omitted despite title, so do not repeat this as an uninspected promised implementation. Exact settings/indices remain missing. LaPush redcedar is a follow-up lead, not measured expansion of the dated footprint. Next original processed files or subsequent detailed methodology and specimen-linked LaPush records. No global completion blocker or reconstruction success claimed.
+
+
+### 2026-10-09 — Processed reference access advanced
+
+S233 supplies standard/ARSTAN/residual Long Island reference outputs, all numerically checked against duplicate templates. Do not continue treating all processed reference outputs as unrecovered. Next declared archived-reference snag diagnostic with version sensitivity, preserving unknown original target processing and1997 input identity; physical specimen authentication is still separate.
