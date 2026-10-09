@@ -254,3 +254,8 @@ S293/S294 add all5Auzout/Towneley historical scan pages. Towneley explicitly res
 ### 2026-10-09 — Instrument description and design changes recovered
 
 S295 adds pp541-544,p556note and five-figure plate, all6surfaces inspected. Explicit issue25 link, publisher/engraver delay and Hooke drawing/description credit retained. Mechanical readout, alternative hair sights and rest correction separated from calibrated accuracy/original manufacture. See [instrument attribution audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/295 sources; custody/priority/reception and independent review unresolved. All twenty objectives active.
+
+
+### 2026-10-09 — Towneley manuscript copy and audit correction
+
+S296 all3EL/T/19surfaces inspected; docket explicitly copy. Selected manuscript/print comparison preserves priority/development claims and documents omissions. Our1/4000reading/48000inference retracted: printed1/10implies120perfoot, conflicting with above40000if same division; manuscript numeratorunknown. See [comparison and correction](GASCOIGNE-ATTRIBUTION.md).27 drafts/296 sources; no autograph/custody/priority verdict or independent review. All twenty objectives active.

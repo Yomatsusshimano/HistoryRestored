@@ -30,10 +30,17 @@
   "date_limits": "Auzout heading gives letter date December28,1666, not publication day. Towneley excerpt itself lacks letter date; modern volume2/issue25 catalog locates1667 publication. Exact publication days not established from these scans.",
   "performance_limits": "Division counts and accuracy claims are author reports; original calibration/trial records and instruments not inspected.",
   "arithmetic": {
-    "towneley_reported_division_inches": "1/4000",
-    "conditional_divisions_per_foot": 48000,
-    "calculation": "12*4000",
-    "comparison": "Compatible with above40000, not independent accuracy validation"
+    "towneley_reported_division_inches": "1/10",
+    "conditional_divisions_per_foot": 120,
+    "calculation": "12/(1/10)",
+    "comparison": "Conflicts with above40000 if same elementary division; no replacement fraction guessed."
   },
-  "custody_limits": "Towneley reports3instruments and loose papers, failed retrieval of optics treatise. No objects/accessions/original correspondence authenticated."
+  "custody_limits": "Towneley reports3instruments and loose papers, failed retrieval of optics treatise. No objects/accessions/original correspondence authenticated.",
+  "correction": {
+    "date": "2026-10-09",
+    "superseded_commit": "198e158",
+    "previous_reading": "1/4000inch and derived48000divisions perfoot",
+    "status": "RETRACTED_TRANSCRIPTION_ERROR",
+    "evidence": "Higher3600pixel p458 scan inspection clearly gives1/10; EL/T/19 image2 denominator10 visible, numerator unresolved. Previous compatibility conclusion withdrawn; original scan bytes unchanged."
+  }
 }

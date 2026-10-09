@@ -4599,6 +4599,21 @@
       "sha256": "849eaf487e7d60f33059d022448185572b61c21d72aa8e440644daea153d2c19",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S296",
+      "title": "Towneley EL/T/19 manuscript copy and selected printed-extract comparison",
+      "creator": "Richard Towneley attributed letter; copyist unidentified; The Royal Society archival digital surrogate",
+      "publication_date": "1667-03-25",
+      "url": "https://makingscience.royalsociety.org/items/el_t_19/letter-from-richard-towneley-to-the-royal-society-dated-at-towneley",
+      "source_type": "Manuscript copy digital surrogate",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All3image surfaces: heading, two body pages, copied sign-off and copy docket. Selected print comparison; denominator10 visible, numerator unresolved. Higher rendering of S294p458 corrects prior fraction to1/10.",
+      "limitations": "Recorded letter date is not authenticated copy production date. No autograph/handwriting/material dating, complete collation or instrument calibration. Bracket author/date unknown. CC BY4.0 attribution The Royal Society.",
+      "local_copy": "sources/originals/invention/towneley1667/image-1.jpg",
+      "sha256": "8d1691006bac415c5406ebe9c27baf3a8fe73add2e4545fd0307750bff8080e5",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

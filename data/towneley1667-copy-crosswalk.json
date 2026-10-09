@@ -1,0 +1,94 @@
+{
+  "source_id": "S296",
+  "archive_reference": "EL/T/19",
+  "acquired_date": "2026-10-09",
+  "files": [
+    {
+      "path": "sources/originals/invention/towneley1667/image-1.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_T%2FEL_T_19%2Ftif%2FEL_T_19_0001.ptif/full/2500,/0/default.jpg",
+      "bytes": 1741462,
+      "sha256": "8d1691006bac415c5406ebe9c27baf3a8fe73add2e4545fd0307750bff8080e5",
+      "decoded_size": [
+        2500,
+        3779
+      ]
+    },
+    {
+      "path": "sources/originals/invention/towneley1667/image-2.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_T%2FEL_T_19%2Ftif%2FEL_T_19_0002.ptif/full/2500,/0/default.jpg",
+      "bytes": 1628086,
+      "sha256": "a84896c536b4191dc16d774575862278c5d11c82b95e4975635814c9ef1329b1",
+      "decoded_size": [
+        2500,
+        3790
+      ]
+    },
+    {
+      "path": "sources/originals/invention/towneley1667/image-3.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_T%2FEL_T_19%2Ftif%2FEL_T_19_0003.ptif/full/2500,/0/default.jpg",
+      "bytes": 1549835,
+      "sha256": "60852f927b02e34b499702ba1c72ae1b4ca221d196cb2c6a8d198836758860b4",
+      "decoded_size": [
+        2500,
+        3802
+      ]
+    },
+    {
+      "path": "sources/originals/invention/towneley1667/manifest.json",
+      "url": "https://makingscience.royalsociety.org/items/el_t_19/letter-from-richard-towneley-to-the-royal-society-dated-at-towneley/manifest.json",
+      "bytes": 4670,
+      "sha256": "a31a9e5b9841d01ee40e51653d8eef2e49e681cdb302a1be888bd32b1fcb529c"
+    }
+  ],
+  "rights": "CC BY4.0 manifest attribution: The Royal Society. Unchanged2500pixel-wide delivery JPEGs, not archival master TIFFs.",
+  "inspection": "All3image surfaces inspected, with local fraction crop and rotated docket crop; public originals unchanged. Selected comparison, no full diplomatic transcription.",
+  "record_role": "Docket explicitly labels a copy; copied signature and visible heading do not establish autograph, copying date or physical authenticity.",
+  "letter_date_label": "Townley March25,1667 in image1 heading; matching date in image3 docket, not date of independently authenticated physical writing.",
+  "crosswalk": [
+    {
+      "manuscript": "Image1 introductory lines before bracket",
+      "print": "Absent from p457 extract opening",
+      "finding": "Personal approach and encouragement by DrPower omitted; print begins at substantive Finding paragraph."
+    },
+    {
+      "manuscript": "Image1 war phrase",
+      "print": "p457 war phrase",
+      "finding": "Manuscript late unfortunate wars; print our late Civil Wars. Selected wording change, not evidence of changed event chronology."
+    },
+    {
+      "manuscript": "Image1 lower section and image2 main body",
+      "print": "pp457-458",
+      "finding": "Reported instruments, missing optics treatise, watchmaker improvement and land/sky distinction retained in selected comparison."
+    },
+    {
+      "manuscript": "Image2 division fraction",
+      "print": "p458 division fraction",
+      "finding": "Manuscript denominator10 visible, numerator not confidently legible; print clearly1/10inch at higher rendering. Neither supports earlier audit1/4000."
+    },
+    {
+      "manuscript": "Image2 closing after bracket, signature and address instruction",
+      "print": "Not included in extract",
+      "finding": "Request for answer, copied sign-off and Manchester contact instruction omitted; selected body bracket visible. Bracket author/date unverified."
+    },
+    {
+      "manuscript": "No matching marginal note in selected end",
+      "print": "p458 editorial note",
+      "finding": "Printed note reports action to seek description/observations; not treated as Towneley autograph wording."
+    }
+  ],
+  "conditional_arithmetic": {
+    "printed_division_inches": "1/10",
+    "inches_per_foot_assumption": 12,
+    "implied_divisions_per_foot": 120,
+    "separate_reported_claim": "above40000divisions perfoot",
+    "result": "Literal quantities disagree if they refer to the same elementary linear division. No proposed replacement adopted; typographical, copying or unit/reference mismatch unresolved."
+  },
+  "limits": [
+    "Copying date and writer unknown",
+    "No full word-for-word collation",
+    "Brackets not assigned to named editor",
+    "Manuscript numerator left unknown",
+    "Original instrument/calibration and Gascoigne autograph papers unverified",
+    "No independent review"
+  ]
+}
