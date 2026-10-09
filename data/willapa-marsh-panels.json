@@ -1,0 +1,163 @@
+{
+  "source_ids": [
+    "S251",
+    "S252",
+    "S253"
+  ],
+  "method": "World-file pixel-center inverse, 100-pixel context, all stored Feature15 records, paired unmarked/marked crops; no fit adjustment.",
+  "limits": "Visual comparison only; no edge-distance or field classification validation. Rendering scales differ by crop; colored overlay is derived.",
+  "records": [
+    {
+      "id": 14,
+      "feature_code": 15,
+      "points": 22,
+      "crop_pixel_edges": [
+        10736,
+        2036,
+        10967,
+        2254
+      ],
+      "lon_lat_bounds": [
+        -123.99726634084128,
+        46.716964544700915,
+        -123.9967295900599,
+        46.717270673627155
+      ],
+      "panel": "research/figures/willapa-marsh-14.png",
+      "sha256": "f03d1bd654d88b1f2ac93fb67ca393c9853fb5b1e8affbbaab845e665a7bdc26"
+    },
+    {
+      "id": 38,
+      "feature_code": 15,
+      "points": 163,
+      "crop_pixel_edges": [
+        7769,
+        1404,
+        8750,
+        2164
+      ],
+      "lon_lat_bounds": [
+        -124.05180882106016,
+        46.71861628298519,
+        -124.0374725210297,
+        46.728888337232654
+      ],
+      "panel": "research/figures/willapa-marsh-38.png",
+      "sha256": "1f4d47879dee0a3295f7eea64f80371924e8ab9e28dc49df256eac83010de323"
+    },
+    {
+      "id": 41,
+      "feature_code": 15,
+      "points": 363,
+      "crop_pixel_edges": [
+        10380,
+        1821,
+        12419,
+        2790
+      ],
+      "lon_lat_bounds": [
+        -124.00379462893733,
+        46.707107166482665,
+        -123.9700382272465,
+        46.72120981737927
+      ],
+      "panel": "research/figures/willapa-marsh-41.png",
+      "sha256": "a1a60e47cbfe49c75eae02ce074c87967d98607b4c76a698056a4f2da82778da"
+    },
+    {
+      "id": 42,
+      "feature_code": 15,
+      "points": 41,
+      "crop_pixel_edges": [
+        12893,
+        6399,
+        13409,
+        6855
+      ],
+      "lon_lat_bounds": [
+        -123.95760412872944,
+        46.632380830678805,
+        -123.95183663719958,
+        46.637054476828226
+      ],
+      "panel": "research/figures/willapa-marsh-42.png",
+      "sha256": "59a95f458140fbc696c1a40537ada995e8f805751b3992c3089cb66c47212706"
+    },
+    {
+      "id": 44,
+      "feature_code": 15,
+      "points": 3,
+      "crop_pixel_edges": [
+        13156,
+        6830,
+        13404,
+        7034
+      ],
+      "lon_lat_bounds": [
+        -123.95277832187993,
+        46.629100311848724,
+        -123.9519315525434,
+        46.62912813906322
+      ],
+      "panel": "research/figures/willapa-marsh-44.png",
+      "sha256": "77fe6534e94de5148cc6081549f43a19e00880f7b6a7656e1c41a1381fffd819"
+    },
+    {
+      "id": 49,
+      "feature_code": 15,
+      "points": 41,
+      "crop_pixel_edges": [
+        8154,
+        6621,
+        8649,
+        6951
+      ],
+      "lon_lat_bounds": [
+        -124.04472829551351,
+        46.63061779817552,
+        -124.03933484698463,
+        46.632974028030155
+      ],
+      "panel": "research/figures/willapa-marsh-49.png",
+      "sha256": "b9d2d3e68f8b83e9fb2b747724c1176251e93d61c22c164775ac116b5f07f998"
+    },
+    {
+      "id": 51,
+      "feature_code": 15,
+      "points": 32,
+      "crop_pixel_edges": [
+        8582,
+        6695,
+        9015,
+        7004
+      ],
+      "lon_lat_bounds": [
+        -124.03684709610866,
+        46.629653135917046,
+        -124.03261772827291,
+        46.63161924948374
+      ],
+      "panel": "research/figures/willapa-marsh-51.png",
+      "sha256": "80d985d30e9f33fe5add5f28f15d929a6c3ca778ebfc30c232bcba33916261ed"
+    },
+    {
+      "id": 125,
+      "feature_code": 15,
+      "points": 6,
+      "crop_pixel_edges": [
+        13147,
+        6747,
+        13411,
+        6982
+      ],
+      "lon_lat_bounds": [
+        -123.95292838102277,
+        46.63005936025944,
+        -123.95179844136524,
+        46.63066680449509
+      ],
+      "panel": "research/figures/willapa-marsh-125.png",
+      "sha256": "c774c31c5062d6ec2db0d8f2079b3bb8ae7839bfee5edf4246cf66c86c2e0e01"
+    }
+  ]
+}

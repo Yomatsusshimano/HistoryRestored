@@ -3958,7 +3958,7 @@
       "source_type": "Historical-map vector derivative and metadata",
       "access": "FULL_TEXT_PORTION",
       "inspected": "Four line/polygon tables, geometry registrations, spatial references and coded domains read via read-only ODBC. Original metadata selected sections read;129lines and54polygons per coordinate version checked, shape metrics and paired attributes audited.",
-      "limitations": "Related raster/survey lineage, not independent field evidence. No datum-transform or raster-line authentication, topology, modern comparison or shoreline-change test. Source metadata legacy codes differ from actual domain. PlanetableP and2003domain descriptions retained alongside actual record dates. Requires compatible driver for sourceMDB extraction.",
+      "limitations": "Related raster/survey lineage, not independent field evidence. Paired datum transformation checked separately; all eight apparent-marsh traces visually compared with raster, without ecological authentication. No complete raster-line authentication, topology, modern comparison or shoreline-change test. Source metadata legacy codes differ from actual domain. PlanetableP and2003domain descriptions retained alongside actual record dates. Requires compatible driver for sourceMDB extraction.",
       "local_copy": "sources/originals/cascadia/T-03921/WC46C03.zip",
       "sha256": "5443aa1092591c500dbb40cea54e6fd221342b388e6c95b8537692a22d1d1a6b",
       "accessed_date": "2026-10-09",
@@ -3991,6 +3991,21 @@
       "limitations": "Definitions do not authenticate individual historical lines or supply measured elevations, datum history or uncertainty for T03921.",
       "local_copy": null,
       "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S256",
+      "title": "Coastal Mapping Program project completion report WA0401D, Willapa Bay, GC10747",
+      "creator": "NOAA National Geodetic Survey; SAIC and TMSI project teams",
+      "publication_date": null,
+      "url": "https://www.ngs.noaa.gov/desc_reports/WA0401D.PDF",
+      "source_type": "Agency coastal mapping project completion report",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Six pages text-read; image/tide table page4 and overview page6 visually inspected. Photography2005-2006, review2008, coordinate/tide and predicted accuracy distinctions checked.",
+      "limitations": "Report not original aerial imagery or independent field validation. Modern shapefile/metadata not recovered; no feature-frame match or shoreline change calculated. Publication date unknown;2008review is not imagery date.",
+      "local_copy": "sources/originals/cascadia/WA0401D.pdf",
+      "sha256": "45e1cfbc0af7f3eac9daec0b48a1cc4e686645df531ef356a4a344e0144d7bf3",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }

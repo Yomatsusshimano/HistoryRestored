@@ -1,0 +1,24 @@
+{
+  "source_id": "S256",
+  "url": "https://www.ngs.noaa.gov/desc_reports/WA0401D.PDF",
+  "path": "sources/originals/cascadia/WA0401D.pdf",
+  "sha256": "45e1cfbc0af7f3eac9daec0b48a1cc4e686645df531ef356a4a344e0144d7bf3",
+  "bytes": 440437,
+  "pdf_pages": 6,
+  "text_read_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "visually_inspected_pages": [
+    4,
+    6
+  ],
+  "downloaded_date": "2026-10-09",
+  "geometry_recovered": false,
+  "attempted_inferred_geometry_url": "https://nsde.ngs.noaa.gov/downloads/GC10747.zip",
+  "result": "AccessDenied; no ZIP acquired"
+}
