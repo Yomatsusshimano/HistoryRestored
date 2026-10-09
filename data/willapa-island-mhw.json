@@ -1,0 +1,88 @@
+{
+  "source_ids": [
+    "S251",
+    "S252",
+    "S253",
+    "S257",
+    "S261"
+  ],
+  "selection": "All40historical Feature20 records tested against exact EPSG26910 returned image rectangle; intersecting whole features retained, no proximity selection.",
+  "extent": {
+    "xmin": 419630.087015083,
+    "ymin": 5164130.378818746,
+    "xmax": 421355.46490422566,
+    "ymax": 5165306.382717083,
+    "spatialReference": {
+      "wkid": 26910,
+      "latestWkid": 26910
+    }
+  },
+  "historical_crop_pixel_edges": [
+    7964,
+    6518,
+    9203,
+    7107
+  ],
+  "selected_historical": [
+    {
+      "id": 22,
+      "attributes": {
+        "OBJECTID": 22,
+        "Data_Sourc": "P",
+        "Feature": 20,
+        "Extract_Te": "P",
+        "Inform": null,
+        "SRC_Date": "1922-01-01T00:00:00",
+        "Source_ID": "T03921",
+        "Ext_Meth": "M",
+        "Scale": 20000,
+        "GIS_Date": "2006-04-24T00:00:00",
+        "Shape_Length": 0.028607806607894963
+      },
+      "length_inside_extent_m": 1981.9981070972235
+    },
+    {
+      "id": 50,
+      "attributes": {
+        "OBJECTID": 50,
+        "Data_Sourc": "P",
+        "Feature": 20,
+        "Extract_Te": "P",
+        "Inform": null,
+        "SRC_Date": "1922-01-01T00:00:00",
+        "Source_ID": "T03921",
+        "Ext_Meth": "M",
+        "Scale": 20000,
+        "GIS_Date": "2006-04-24T00:00:00",
+        "Shape_Length": 0.003298129087491921
+      },
+      "length_inside_extent_m": 297.03471970054096
+    },
+    {
+      "id": 52,
+      "attributes": {
+        "OBJECTID": 52,
+        "Data_Sourc": "P",
+        "Feature": 20,
+        "Extract_Te": "P",
+        "Inform": null,
+        "SRC_Date": "1922-01-01T00:00:00",
+        "Source_ID": "T03921",
+        "Ext_Meth": "M",
+        "Scale": 20000,
+        "GIS_Date": "2006-04-24T00:00:00",
+        "Shape_Length": 0.009275513098218986
+      },
+      "length_inside_extent_m": 786.7364965273922
+    }
+  ],
+  "modern_mhw_in_extent": [
+    {
+      "id": 887366,
+      "source_date": "20061009"
+    }
+  ],
+  "figure": "research/figures/willapa-island-mhw.png",
+  "figure_sha256": "3bf95972a39cf6020aeb0eae93f2834144fbd741c1cb6d891813f6b7820f906f",
+  "limits": "Historical raster rectangle uses inverse-projected corners and its own grid; panels not pixel-corresponding warps. Boundary code/source trace visual check is not field authentication. No signed displacement, error budget, ecology, exact tide or catastrophe inference."
+}

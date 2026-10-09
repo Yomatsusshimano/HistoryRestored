@@ -1282,3 +1282,8 @@ Previous turn made verified public progress ated71c31. Revalidated clean checkou
 ### 2026-10-09 — Separate 2006 island imagery inspected
 
 S261 locked NAIP tile filename encodes June24,2006; rendered1726x1177crop and paired overlay inspected, four response hashes/dimensions and41/32vertex catalog inclusion checked. Trace49 lies over visible land/mixed textures; much of51 over water/pale margin. No fit, ecological identity, signed displacement or complete NOAAcoverage inferred. Original October frames remain unrecovered. Next historical symbol/revision and MHW audit plus original-frame recovery.25drafts/261sources; twenty objectives retained, no independent review. See research/WILLAPA-NAIP2006-IMAGE.md.
+
+
+### 2026-10-09 — Local historical island waterline inspected
+
+All40historical MHWrecords exact-tested against recorded NAIPextent;22/50/52intersect. Local source/overlay panels inspected:50/52and marsh49/51divide GrassyIsl drawn outline,22separate eastern curve.2006placements cross land/water; no uniform translation, exact tide, signed displacement or cause inferred. Other37MHWrecords and22outside crop remain visually unaudited. Next original symbols/revisions, intermediate dated observation and uncertainty budget.25drafts/261sources, no independent review, full twenty outcomes remain active. See research/WILLAPA-ISLAND-MHW.md.

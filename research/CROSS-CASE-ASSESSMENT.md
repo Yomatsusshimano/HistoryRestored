@@ -128,3 +128,8 @@ The [exact geometry/photo-inventory follow-up](WILLAPA-ISLAND-COVERAGE.md) place
 ### 2026-10-09 — Separate island image discriminates local contexts
 
 The [recorded NAIP crop](WILLAPA-NAIP2006-IMAGE.md) shows visible land at historical trace49 and water/pale margin under much of51. This separates their modern surface contexts without identifying a homologous marsh boundary. The modern MHWline is a different class and date. Missing same-class records remain unexplained; neither kilometre-scale migration nor abrupt disappearance is measured. Original October photography, historical symbols/revisions and positional uncertainty remain necessary. No global reconstruction or completion follows.
+
+
+### 2026-10-09 — Historical island outline has mixed feature classes
+
+The [local MHWaudit](WILLAPA-ISLAND-MHW.md) shows the GrassyIsl source outline divided between waterline and marsh-coded segments. Missing modern marsh matches therefore do not represent a complete-island disappearance test. Historical and2006boundary configurations differ locally, but homologous physical change, duration and cause remain unresolved. Intermediate observations and survey/tidal uncertainty are needed before any catastrophe attribution.
