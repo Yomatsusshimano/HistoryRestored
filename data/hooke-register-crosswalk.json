@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S307",
+  "reference": "RBO/3/65",
+  "url": "https://makingscience.royalsociety.org/items/rbo_3_65/a-description-of-an-instrument-of-dividing-a-foot-into-many-thousand-parts-and-thereby-measuring-the-diameters-of-planets-with-great-exactnesse-etc-by-robert-hooke",
+  "catalog_date_literal": "1667",
+  "catalog_extent": "7 pages; CalmView7sides",
+  "delivered_canvases": 8,
+  "visible_page_coverage": [
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232"
+  ],
+  "document_role": "Register-book copy of communicated paper, not separately inspected Journal Book meeting minutes or authenticated autograph.",
+  "manifest_path": "sources/originals/invention/hooke-register/rbo_3_65-manifest.json",
+  "manifest_sha256": "4e4edc0426adada4b8c509b0639b92a01eec706954dc907e034b3eb2c88733f6",
+  "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+  "attribution": "The Royal Society",
+  "images": [
+    {
+      "locator": "image1",
+      "visible_page": "227",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/RBO%2FRBO_3%2FRBO_3_65%2Ftif%2FRBO_3_65_0001.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-register/rbo_3_65-image-1.jpg",
+      "bytes": 1243494,
+      "sha256": "61e4d5ff700dfcb302a5fd16ffd2cee16e490de4e7bf8c583a1ae3481b8b50c4",
+      "dimensions": [
+        2335,
+        3248
+      ],
+      "inspected": true,
+      "description": "Opening page with overlapping plate reverse, partly concealing text."
+    },
+    {
+      "locator": "image2",
+      "visible_page": "226",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/RBO%2FRBO_3%2FRBO_3_65%2Ftif%2FRBO_3_65_0002.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-register/rbo_3_65-image-2.jpg",
+      "bytes": 1241859,
+      "sha256": "4d3f0b97e16c83aad6b26069141b81bf83ba6870e2b9bb658cbc3b935f1fe200",
+      "dimensions": [
+        2335,
+        3248
+      ],
+      "inspected": true,
+      "description": "Neighboring Latin text and attached annotated engraving; cover piece overlaps mechanism and hair-frame area crossed."
+    },
+    {
+      "locator": "image3",
+      "visible_page": "227",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/RBO%2FRBO_3%2FRBO_3_65%2Ftif%2FRBO_3_65_0003.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-register/rbo_3_65-image-3.jpg",
+      "bytes": 1250366,
+      "sha256": "a6cf33ca5ef144eb5f86b9059c8eb7737a1111220a6c55031c8904ec8d2c0278",
+      "dimensions": [
+        2335,
+        3248
+      ],
+      "inspected": true,
+      "description": "Same opening page with overlay moved; sending and reading statements, brass-box description and internal drawing visible."
+    },
+    {
+      "locator": "image4",
+      "visible_page": "228",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/RBO%2FRBO_3%2FRBO_3_65%2Ftif%2FRBO_3_65_0004.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-register/rbo_3_65-image-4.jpg",
+      "bytes": 1257339,
+      "sha256": "f1eb0a757e2565bc7a4b9f3aa9177dd991303892e434e0a79ba0f392354a60c0",
+      "dimensions": [
+        2335,
+        3248
+      ],
+      "inspected": true,
+      "description": "Dial, screw, sockets and carriers described; instrument steadiness claimed, not measured."
+    },
+    {
+      "locator": "image5",
+      "visible_page": "229",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/RBO%2FRBO_3%2FRBO_3_65%2Ftif%2FRBO_3_65_0005.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-register/rbo_3_65-image-5.jpg",
+      "bytes": 1277667,
+      "sha256": "e30a59943a965fba38d2956653843d219c1df8d999c629bafad19e5619585b8c",
+      "dimensions": [
+        2335,
+        3248
+      ],
+      "inspected": true,
+      "description": "Sixty threads/divisions and hundred-part dial; cover/tube figure references and tube description."
+    },
+    {
+      "locator": "image6",
+      "visible_page": "230",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/RBO%2FRBO_3%2FRBO_3_65%2Ftif%2FRBO_3_65_0006.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-register/rbo_3_65-image-6.jpg",
+      "bytes": 1173258,
+      "sha256": "05dc3cb01632d8566830c1ad80674774e4c2690c76afc1df34ac5406e592383b",
+      "dimensions": [
+        2335,
+        3248
+      ],
+      "inspected": true,
+      "description": "Tube/rest continuation and support drawing; Towneley letter introduction reports Society reading July25,1667."
+    },
+    {
+      "locator": "image7",
+      "visible_page": "231",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/RBO%2FRBO_3%2FRBO_3_65%2Ftif%2FRBO_3_65_0007.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-register/rbo_3_65-image-7.jpg",
+      "bytes": 1329503,
+      "sha256": "5b95d15cba163ef62650d28e605989598ab3c3291442b19c84eda378fb69ed15",
+      "dimensions": [
+        2335,
+        3248
+      ],
+      "inspected": true,
+      "description": "Copied Towneley letter reports Gascoigne papers/instruments and watchmaker assistance; no autograph authentication."
+    },
+    {
+      "locator": "image8",
+      "visible_page": "232",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/RBO%2FRBO_3%2FRBO_3_65%2Ftif%2FRBO_3_65_0008.ptif/full/2335,/0/default.jpg",
+      "local_path": "sources/originals/invention/hooke-register/rbo_3_65-image-8.jpg",
+      "bytes": 1220705,
+      "sha256": "2d768bcffa4e3df12007471401142c87c2fa9c2096fa1721e9fee9e06b432bc3",
+      "dimensions": [
+        2335,
+        3248
+      ],
+      "inspected": true,
+      "description": "Letter continuation: nominal divisions, astronomical difficulty, rest and offered observations; no raw trial table."
+    }
+  ],
+  "findings": [
+    {
+      "locator": "image3 p227 opening",
+      "finding": "Register text attributes contrivance and sending to Richard Towneley, description to Hooke, and its Society reading to November14,1667. Sending is a documentary report, not a shipment receipt or object authentication."
+    },
+    {
+      "locator": "image6 p230 letter introduction",
+      "finding": "Copied Towneley letter is introduced as read July25,1667; distinguish this reading date from March25 composition heading in S296 and May1667 S294 print. No physical copy production date authenticated."
+    },
+    {
+      "locator": "image2 p226 attached engraving versus S295 plate",
+      "finding": "Shared Fig1 mechanism, telescope and support arrangement. Visible added cover piece across mechanism, crossed hair-frame area and altered figure numbers: tube numbered3 and rest4, versus S295 tube4/rest5. Maker, date and purpose of physical interventions unknown."
+    },
+    {
+      "locator": "image5 p229; image6 p230",
+      "finding": "Register text identifies second figure as cover, third as tube mounting and fourth as rest, consistent in broad numbering with altered engraving. S295 print separately explains third hair-frame figure, fourth tube and fifth rest. Selected comparison only, not full collation."
+    },
+    {
+      "locator": "image4 p228; image5 p229",
+      "finding": "Hundred-part dial and sixty linear threads/divisions repeat nominal6000 increments across stated span; no measured precision or calibrated6000partsperfoot inferred."
+    },
+    {
+      "locator": "images7/8 pp231/232",
+      "finding": "Towneley account repeats Gascoigne priority/possession reports, local watchmaker assistance and angular-use precision claims; shared letter lineage, not independent corroboration or identified craftsman."
+    },
+    {
+      "locator": "images1/3",
+      "finding": "Two delivery views of p227 with overlay moved; eight canvases span seven visible numbered pages226-232. Different views are not separate manuscripts."
+    }
+  ],
+  "date_roles": {
+    "description_reading_report": "1667-11-14",
+    "letter_reading_report": "1667-07-25",
+    "S295_printed_issue_label": "1667-11-11",
+    "S296_copied_letter_heading": "1667-03-25",
+    "calendar_conversion": "None: historical labels retained; distribution/entry production dates not authenticated."
+  },
+  "inspection": "All eight delivery surfaces visually inspected. Selected text, figure numbering and engraving comparison; no full diplomatic transcription or physical authentication. Neighboring Latin article not evidence for instrument.",
+  "limits": [
+    "Register Book Original is an archival series label, not proof of autograph authorship or independent testimony.",
+    "No shipment receipt, object identity, manufacture dimensions or raw accuracy trial.",
+    "No authenticated intervention sequence, editor identity or motive for altered engraving.",
+    "Printed issue label, reported reading and composition date are distinct; mismatch alone does not establish chronology fabrication.",
+    "Letter repetition and drawings remain dependent sources.",
+    "No ancient recovery, independent review or global catastrophe established."
+  ],
+  "next_test": "Inspect original Journal Book entries for July11/25 and November7/14,1667, then correspondence and shipment records for the actual instrument. Identify who altered the engraving and when; preserve unknowns if inaccessible."
+}

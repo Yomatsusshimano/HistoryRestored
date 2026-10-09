@@ -334,3 +334,8 @@ S304 letter/S305 Oldenburg extract inspected on four surfaces; unchanged CC BY4.
 ### 2026-10-09 — Manuscript/print design correspondence
 
 S306 CLP/2/13 all six delivery canvases inspected and preserved CC BY4.0 with Royal Society attribution. Selected manuscript features correspond to S295 Fig1/3/4/5 and p544 tube description; repeated views, tentative creator/date and catalog discrepancies retained. No manufacture or accuracy proof. See [manuscript comparison](GASCOIGNE-ATTRIBUTION.md).27 drafts/306 sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Register sending/reading reports and altered engraving
+
+S307 eight delivery views/seven numbered pages inspected and preserved with Royal Society CC BY4.0 attribution. Towneley sending and November14/July25 reading reports separated from composition/print dates; altered cover/tube/rest numbering documented without author/motive inference. No authenticated object or accuracy trial. See [register comparison](GASCOIGNE-ATTRIBUTION.md).27 drafts/307 sources; all twenty objectives active, no independent review.

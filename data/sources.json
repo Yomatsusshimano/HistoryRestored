@@ -4756,6 +4756,20 @@
       "local_copy": "sources/originals/invention/hooke-manuscript/clp_2_13-image-1.jpg",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S307",
+      "title": "Hooke instrument description and Towneley letter in register copy RBO/3/65",
+      "creator": "Robert Hooke; copied Towneley letter; register hand unauthenticated",
+      "publication_date": "1667",
+      "url": "https://makingscience.royalsociety.org/items/rbo_3_65/a-description-of-an-instrument-of-dividing-a-foot-into-many-thousand-parts-and-thereby-measuring-the-diameters-of-planets-with-great-exactnesse-etc-by-robert-hooke",
+      "source_type": "Register-book manuscript copy and attached annotated engraving",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All eight delivery views, visible pp226-232; p227 repeated with overlay moved. Selected reading/sending statements, figure numbering and mechanism compared with S295/S296/S306.",
+      "limitations": "Archive series Original does not authenticate autograph or independently corroborate copied reports. Seven-page extent versus eight views resolved by visible repeated page. No physical shipment/object authentication, intervention date, raw accuracy trial or independent review.",
+      "local_copy": "sources/originals/invention/hooke-register/rbo_3_65-image-1.jpg",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
