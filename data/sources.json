@@ -4953,6 +4953,20 @@
       "local_copy": "",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S321",
+      "title": "University of Florida Vertebrate Paleontology Darwin Core Archive, version1.181",
+      "creator": "Florida Museum of Natural History",
+      "publication_date": "2026-09-21",
+      "url": "https://ipt.floridamuseum.ufl.edu/ipt/resource?r=ufvp&v=1.181",
+      "source_type": "Original museum catalog export, dataset2fba9985-ac30-46cb-99bf-91ccde0d8d2f; CC BY-NC4.0",
+      "access": "CATALOG_METADATA",
+      "inspected": "Pinned ZIP acquired; meta.xml/EML inspected; all554765occurrence and1967multimedia rows scanned. Exact18target rows retained in data/ufvp-dated-specimen-links.json;9S22sloths/8S36rodents/1holotype comparator.",
+      "limitations": "Published catalog, not physical specimen or original field-note authentication. Collection dates and field numbers not stratigraphic ages/depths. Datum/coordinate uncertainties blank for targets; no matching media. Unidentified UF293830bat not assigned to Beta345518.",
+      "local_copy": "",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Exact museum catalog accession matches
+
+S321pinned museum export all554765occurrences/1967media scanned; all9datedsloths/8datedrodents/1holotype comparator uniquely matched. Three Jérémie sloth field codesMKL998/1006/992 and July3/7/9collection-date discrepancies add original-note targets. No specimen-to-depth or datum; unidentifiedUF293830bat not assigned toBeta345518. See [catalog provenance](UFVP-SPECIMEN-PROVENANCE.md).28drafts/321sources; no shared deposition or independent review.
+
 ### 2026-10-09 — Bat supplement and geographic-model boundaries
 
 S320 all6pages visually inspected; no dated-bat accession/depth/certificate or coordinate table there. Three pixel-count losses reproduce17/86/91percent, conditional on assumed−135msea level; present outlines in habitat maps are not past coastline reconstructions. Same-study dependency and Table3/1caption mismatch retained. See [geography supplement audit](BAT-GEOGRAPHY-SUPPLEMENT.md).28drafts/320sources; no cave-unit resolution, geographic upheaval or independent review.

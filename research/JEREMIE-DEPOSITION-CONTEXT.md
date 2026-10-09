@@ -1,5 +1,7 @@
 # Two reported sediment units and missing specimen links
 
+Update2026-10-09: the [museum catalog crosswalk](UFVP-SPECIMEN-PROVENANCE.md), S321, now supplies exact dated-accession matches, three sloth field codes and collection dates. No sediment depths are recovered; catalog July3/7/9dates differ from the work-date summary below. Original statements remain preserved as reported.
+
 2026-10-09. C011/S318; sourced draft without independent review. This audit tests the common-later-deposition question left open by [biological dates](SLOTH-CHRONOLOGY.md), rather than assuming the dated animals entered the cave together.
 
 The original [MacPhee, White and Woods2000 locality account](https://archive.org/details/newmegalonychid3303macp), *American Museum Novitates*3303, is available as a32-page scan contributed by the AMNH Library. Printed pages4,29and30were visually inspected; p29Table4was fully transcribed in the [ledger](../data/jeremie2000-deposition-context.json). The PDF is retained locally with a hash but not redistributed: an explicit reuse license was not established. Other pages and original field notebooks remain uninspected.
