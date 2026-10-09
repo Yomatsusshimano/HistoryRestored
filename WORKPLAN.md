@@ -1,5 +1,10 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Apparent-marsh nearest-candidate and overlay test
+
+Eight historical traces tested against all375modernFeature15records,10/20m unsigned sampling with endpoint/tie/candidate dates preserved. Median10m43.7-6386.8m; heterogeneous proximity and remote49/51matches retained as association failures, not6km island movement. All eight paired panels inspected. Local full-class bbox candidates expose MHW/source-limit/contour records; no substituted observations. Analytic point-segment checks and known-offset/self controls pass; epoch, source-frame, ecology and map uncertainty remain. Next imagery/coverage/class crosswalk and historicalMHW audit.258sources/25drafts; all twenty outcomes incomplete. See research/WILLAPA-MARSH-COMPARISON.md.
+
+
 ### 2026-10-09 — Modern GC10747 source geometry recovered
 
 Actual viewer/index maps projectWA0401D toGC10747; project-ID ZIP succeeds where guessed cell-ID endpoint failed. S257original13-member ZIP preserved, all2082line/141point/1boundary records audited. Coarse historical-bbox Feature15/20selection188records:91marsh/97MHW,184date20060423and4date20061009. Geographic boundNAD83PRJ retained versus reportepoch/UTMmapping. S258catalog artificial-continuity/coverage/process2010dates retained; no source-frame match or displacement. Next homologous segment and historicalMHW/raster inspection.25drafts/258sources; all twenty outcomes incomplete. See research/WILLAPA-MODERN-VECTOR.md.

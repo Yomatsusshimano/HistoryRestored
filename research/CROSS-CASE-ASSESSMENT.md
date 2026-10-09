@@ -113,3 +113,8 @@ The [complete-root and combined-average diagnostic](CASCADIA-COMBINED-GF2.md) ad
 ### 2026-10-09 — Local and regional GF2 agreement separated
 
 The [combined regional diagnostic](CASCADIA-COMBINED-REGIONAL.md) favors source placement in4/18 combined-trunk variants, compared with0/18 NW-only variants. Explicit averaging changes the comparison, but remaining alternatives and255/full-scope sensitivity prevent a uniform-robustness claim. The prior all48 local root/trunk results concern a narrower relative-pattern question; they cannot be converted into independent regional or absolute calendar confirmation. Original processing/version and physical authentication remain required. No reconstruction outcome is completed.
+
+
+### 2026-10-09 — Historical-modern apparent-marsh association
+
+The [Willapa comparison](WILLAPA-MARSH-COMPARISON.md) adds a genuine spatial diagnostic rather than another catalog lead: eight historical traces versus all375modern same-class records. It exposes heterogeneous proximity, distant portions and no local same-class matches for two Grassy-island traces. Their kilometre-scale nearest distances are unmatched associations, not measured island migration. Coverage, changed classification and physical change must be discriminated with actual imagery and source limits. Nearby candidate curves likewise need authenticated correspondence and map/datum uncertainty before a signed change claim. The result does not establish a common displacement field, abrupt event, chronology break or reconstructed geography.
