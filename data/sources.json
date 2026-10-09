@@ -4038,6 +4038,36 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S259",
+      "title": "NOAA NGS aerial photograph holdings footprint inventory,2006",
+      "creator": "NOAA National Geodetic Survey",
+      "publication_date": null,
+      "url": "https://www.ngs.noaa.gov/web/APOS2/download/shp/NOAA_NGS_IMAGERY_2006.ZIP",
+      "source_type": "Agency aerial photography footprint inventory",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "All12133footprint records read;430WA0401records selected; exact polygon intersection with eight historical marsh traces executed. Original fields, dates, rolls, emulsion and candidate footprints retained. Index page and selected sourceXML/PRJ sections read.",
+      "limitations": "Inventory geometry is not original photography or validated image footprint accuracy. Project includes widerWA0401subprojects. No original image downloaded/inspected, custody/availability verified or vector-to-frame correspondence authenticated.",
+      "local_copy": "sources/originals/cascadia/NOAA_NGS_IMAGERY_2006.ZIP",
+      "sha256": "106367bc85568b5a9c063a90367b495f5177d4cceb326297b617d01e4bdbf3aa",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S260",
+      "title": "NGS notice on analog aerial-photo holdings transfer",
+      "creator": "NOAA National Geodetic Survey",
+      "publication_date": null,
+      "url": "https://www.ngs.noaa.gov/web/APOS2/APOS.shtml",
+      "source_type": "Agency archival access notice",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Analog-film maintenance/access/sales cessation and NARA/FRC/RG23retrieval route read.",
+      "limitations": "Notice does not verify specific-frame accession, digitization, location or current availability. No third-party contact or photo order made.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

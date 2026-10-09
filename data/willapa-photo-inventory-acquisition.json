@@ -1,0 +1,47 @@
+{
+  "source_id": "S259",
+  "url": "https://www.ngs.noaa.gov/web/APOS2/download/shp/NOAA_NGS_IMAGERY_2006.ZIP",
+  "index_page": "https://www.ngs.noaa.gov/web/APOS2/sf2.shtml",
+  "path": "sources/originals/cascadia/NOAA_NGS_IMAGERY_2006.ZIP",
+  "sha256": "106367bc85568b5a9c063a90367b495f5177d4cceb326297b617d01e4bdbf3aa",
+  "bytes": 925490,
+  "members": [
+    {
+      "name": "NOAA_NGS_Imagery_2006.dbf",
+      "bytes": 1881129,
+      "sha256": "8cd4b9a4bf917530c6458d94ec02283696ca648e813c0198ca4f68fd49852fc4"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.prj",
+      "bytes": 167,
+      "sha256": "84cf5b9a3c1a444f83ac30ff76f8c5035990223027ba69b2f4d628388adcbd65"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.sbn",
+      "bytes": 113876,
+      "sha256": "ac4aab2b4e9cff0a5342d79b7bd5c89bbe55a4a53de550ad073ece9088852ece"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.sbx",
+      "bytes": 1940,
+      "sha256": "cc72c25a847296bc2874d21b180077c766d2ea9a03fe81f8ddc0c50a32fbb7b4"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.shp",
+      "bytes": 1650188,
+      "sha256": "02676566bc5bd46c0479313631ca246f69359de39fe581c8a2a614e91f4cff5a"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.shp.xml",
+      "bytes": 36243,
+      "sha256": "10c9b04df73323bc0eef685e5b9959f54ebbdd90bc469b3de067b86352f529f4"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.shx",
+      "bytes": 97164,
+      "sha256": "426e5040b83cfd8af1af57171ed14abb4b27b76c55cfc5f2532fb79cfe74bab5"
+    }
+  ],
+  "downloaded_date": "2026-10-09",
+  "note": "Original footprint inventory, not aerial photographs. Original source metadata is preserved inside ZIP; agency internal paths therein are historical metadata, not project-owner paths."
+}

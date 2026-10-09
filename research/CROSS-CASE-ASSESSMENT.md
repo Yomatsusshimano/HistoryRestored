@@ -118,3 +118,8 @@ The [combined regional diagnostic](CASCADIA-COMBINED-REGIONAL.md) favors source 
 ### 2026-10-09 — Historical-modern apparent-marsh association
 
 The [Willapa comparison](WILLAPA-MARSH-COMPARISON.md) adds a genuine spatial diagnostic rather than another catalog lead: eight historical traces versus all375modern same-class records. It exposes heterogeneous proximity, distant portions and no local same-class matches for two Grassy-island traces. Their kilometre-scale nearest distances are unmatched associations, not measured island migration. Coverage, changed classification and physical change must be discriminated with actual imagery and source limits. Nearby candidate curves likewise need authenticated correspondence and map/datum uncertainty before a signed change claim. The result does not establish a common displacement field, abrupt event, chronology break or reconstructed geography.
+
+
+### 2026-10-09 — Island coverage explanation narrowed
+
+The [exact geometry/photo-inventory follow-up](WILLAPA-ISLAND-COVERAGE.md) places both unmatched historical island traces inside the modern project polygon and kilometres from the actual source-limit line. A local mapped-edge explanation is therefore unsupported; complete coverage still does not follow from polygon inclusion. Nearby MHW geometry and eighteen candidate photo footprints per island make class/feature correspondence testable with named original frames. No same-class match is manufactured, and no disappearance or kilometre-scale movement is inferred.

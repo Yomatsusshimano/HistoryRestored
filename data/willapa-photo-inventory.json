@@ -1,0 +1,4012 @@
+{
+  "source_id": "S259",
+  "archive_sha256": "106367bc85568b5a9c063a90367b495f5177d4cceb326297b617d01e4bdbf3aa",
+  "members": [
+    {
+      "name": "NOAA_NGS_Imagery_2006.dbf",
+      "bytes": 1881129,
+      "sha256": "8cd4b9a4bf917530c6458d94ec02283696ca648e813c0198ca4f68fd49852fc4"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.prj",
+      "bytes": 167,
+      "sha256": "84cf5b9a3c1a444f83ac30ff76f8c5035990223027ba69b2f4d628388adcbd65"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.sbn",
+      "bytes": 113876,
+      "sha256": "ac4aab2b4e9cff0a5342d79b7bd5c89bbe55a4a53de550ad073ece9088852ece"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.sbx",
+      "bytes": 1940,
+      "sha256": "cc72c25a847296bc2874d21b180077c766d2ea9a03fe81f8ddc0c50a32fbb7b4"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.shp",
+      "bytes": 1650188,
+      "sha256": "02676566bc5bd46c0479313631ca246f69359de39fe581c8a2a614e91f4cff5a"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.shp.xml",
+      "bytes": 36243,
+      "sha256": "10c9b04df73323bc0eef685e5b9959f54ebbdd90bc469b3de067b86352f529f4"
+    },
+    {
+      "name": "NOAA_NGS_Imagery_2006.shx",
+      "bytes": 97164,
+      "sha256": "426e5040b83cfd8af1af57171ed14abb4b27b76c55cfc5f2532fb79cfe74bab5"
+    }
+  ],
+  "national_frame_count": 12133,
+  "WA0401_frame_count": 430,
+  "inventory_crs_wkt": "GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]",
+  "method": "Exact polygon-line intersection after genericNAD83UTM10 projection;10m sample covers counts are inventory checks only.",
+  "limits": "Inventory footprint is not viewed aerial image or verified image ground coverage. Original frames, orientation/footprint accuracy, tide and source-vector correspondence remain unverified. No original photo downloaded or ordered.",
+  "records": [
+    {
+      "historical_id": 14,
+      "candidate_frame_count": 8,
+      "candidate_frames": [
+        {
+          "attributes": {
+            "ExposeNum": "0020",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:22:53",
+            "Longitude": -124.01438,
+            "Latitude": 46.7334,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06118,
+              46.70337
+            ],
+            [
+              -123.97074,
+              46.70119
+            ],
+            [
+              -123.96758,
+              46.76343
+            ],
+            [
+              -124.05802,
+              46.76561
+            ],
+            [
+              -124.06118,
+              46.70337
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 13,
+          "sample_count": 13
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0021",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:23:22",
+            "Longitude": -124.01665,
+            "Latitude": 46.70879,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06336,
+              46.67881
+            ],
+            [
+              -123.97309,
+              46.67664
+            ],
+            [
+              -123.96994,
+              46.73878
+            ],
+            [
+              -124.06021,
+              46.74095
+            ],
+            [
+              -124.06336,
+              46.67881
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 13,
+          "sample_count": 13
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0048",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:40:48",
+            "Longitude": -123.9553,
+            "Latitude": 46.70288,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.90859,
+              46.73281
+            ],
+            [
+              -123.99885,
+              46.73498
+            ],
+            [
+              -124.002,
+              46.67294
+            ],
+            [
+              -123.91174,
+              46.67077
+            ],
+            [
+              -123.90859,
+              46.73281
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 13,
+          "sample_count": 13
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0049",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:41:24",
+            "Longitude": -123.95307,
+            "Latitude": 46.72764,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.90642,
+              46.75752
+            ],
+            [
+              -123.99657,
+              46.75969
+            ],
+            [
+              -123.99971,
+              46.69775
+            ],
+            [
+              -123.90957,
+              46.69559
+            ],
+            [
+              -123.90642,
+              46.75752
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 13,
+          "sample_count": 13
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0119",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:01:11",
+            "Longitude": -124.01413,
+            "Latitude": 46.73345,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06105,
+              46.70334
+            ],
+            [
+              -123.97039,
+              46.70117
+            ],
+            [
+              -123.96722,
+              46.76355
+            ],
+            [
+              -124.05788,
+              46.76573
+            ],
+            [
+              -124.06105,
+              46.70334
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 13,
+          "sample_count": 13
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0120",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:01:42",
+            "Longitude": -124.01632,
+            "Latitude": 46.70863,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06312,
+              46.67858
+            ],
+            [
+              -123.97267,
+              46.67641
+            ],
+            [
+              -123.96951,
+              46.73868
+            ],
+            [
+              -124.05996,
+              46.74085
+            ],
+            [
+              -124.06312,
+              46.67858
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 13,
+          "sample_count": 13
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0147",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:20:49",
+            "Longitude": -123.95529,
+            "Latitude": 46.70291,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.90859,
+              46.73284
+            ],
+            [
+              -123.99884,
+              46.73501
+            ],
+            [
+              -124.00199,
+              46.67298
+            ],
+            [
+              -123.91174,
+              46.67081
+            ],
+            [
+              -123.90859,
+              46.73284
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 13,
+          "sample_count": 13
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0148",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:21:22",
+            "Longitude": -123.95345,
+            "Latitude": 46.72749,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9067,
+              46.75744
+            ],
+            [
+              -123.99705,
+              46.75961
+            ],
+            [
+              -124.0002,
+              46.69754
+            ],
+            [
+              -123.90986,
+              46.69537
+            ],
+            [
+              -123.9067,
+              46.75744
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 13,
+          "sample_count": 13
+        }
+      ]
+    },
+    {
+      "historical_id": 38,
+      "candidate_frame_count": 15,
+      "candidate_frames": [
+        {
+          "attributes": {
+            "ExposeNum": "0019",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:22:23",
+            "Longitude": -124.01321,
+            "Latitude": 46.75802,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06007,
+              46.72796
+            ],
+            [
+              -123.96951,
+              46.72578
+            ],
+            [
+              -123.96634,
+              46.78807
+            ],
+            [
+              -124.05691,
+              46.79025
+            ],
+            [
+              -124.06007,
+              46.72796
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0020",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:22:53",
+            "Longitude": -124.01438,
+            "Latitude": 46.7334,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06118,
+              46.70337
+            ],
+            [
+              -123.97074,
+              46.70119
+            ],
+            [
+              -123.96758,
+              46.76343
+            ],
+            [
+              -124.05802,
+              46.76561
+            ],
+            [
+              -124.06118,
+              46.70337
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0021",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:23:22",
+            "Longitude": -124.01665,
+            "Latitude": 46.70879,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06336,
+              46.67881
+            ],
+            [
+              -123.97309,
+              46.67664
+            ],
+            [
+              -123.96994,
+              46.73878
+            ],
+            [
+              -124.06021,
+              46.74095
+            ],
+            [
+              -124.06336,
+              46.67881
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0118",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:00:40",
+            "Longitude": -124.01221,
+            "Latitude": 46.75811,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.05899,
+              46.7281
+            ],
+            [
+              -123.96858,
+              46.72593
+            ],
+            [
+              -123.96542,
+              46.78811
+            ],
+            [
+              -124.05583,
+              46.79028
+            ],
+            [
+              -124.05899,
+              46.7281
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 61,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0119",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:01:11",
+            "Longitude": -124.01413,
+            "Latitude": 46.73345,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06105,
+              46.70334
+            ],
+            [
+              -123.97039,
+              46.70117
+            ],
+            [
+              -123.96722,
+              46.76355
+            ],
+            [
+              -124.05788,
+              46.76573
+            ],
+            [
+              -124.06105,
+              46.70334
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0120",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:01:42",
+            "Longitude": -124.01632,
+            "Latitude": 46.70863,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06312,
+              46.67858
+            ],
+            [
+              -123.97267,
+              46.67641
+            ],
+            [
+              -123.96951,
+              46.73868
+            ],
+            [
+              -124.05996,
+              46.74085
+            ],
+            [
+              -124.06312,
+              46.67858
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0112",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:22:09",
+            "Longitude": -124.0925,
+            "Latitude": 46.76005,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.14112,
+              46.71227
+            ],
+            [
+              -124.02304,
+              46.72659
+            ],
+            [
+              -124.04388,
+              46.80783
+            ],
+            [
+              -124.16195,
+              46.79351
+            ],
+            [
+              -124.14112,
+              46.71227
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 160,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0113",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:22:50",
+            "Longitude": -124.08435,
+            "Latitude": 46.72759,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.1329,
+              46.67985
+            ],
+            [
+              -124.01499,
+              46.69416
+            ],
+            [
+              -124.0358,
+              46.77533
+            ],
+            [
+              -124.15371,
+              46.76103
+            ],
+            [
+              -124.1329,
+              46.67985
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0114",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:23:32",
+            "Longitude": -124.07608,
+            "Latitude": 46.69517,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.12465,
+              46.64739
+            ],
+            [
+              -124.0067,
+              46.66171
+            ],
+            [
+              -124.02751,
+              46.74296
+            ],
+            [
+              -124.14547,
+              46.72864
+            ],
+            [
+              -124.12465,
+              46.64739
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0043",
+            "SpotNumber": "063-059",
+            "RollNumber": "0605R09",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "27-SEP-2006",
+            "ExposeTime": "21:31:18",
+            "Longitude": -124.09292,
+            "Latitude": 46.76009,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.14142,
+              46.71244
+            ],
+            [
+              -124.02365,
+              46.72672
+            ],
+            [
+              -124.04443,
+              46.80775
+            ],
+            [
+              -124.1622,
+              46.79347
+            ],
+            [
+              -124.14142,
+              46.71244
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": false,
+          "covered_sample_count": 157,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0044",
+            "SpotNumber": "063-059",
+            "RollNumber": "0605R09",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "27-SEP-2006",
+            "ExposeTime": "21:32:03",
+            "Longitude": -124.08459,
+            "Latitude": 46.7276,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.13315,
+              46.67986
+            ],
+            [
+              -124.01524,
+              46.69416
+            ],
+            [
+              -124.03604,
+              46.77533
+            ],
+            [
+              -124.15395,
+              46.76103
+            ],
+            [
+              -124.13315,
+              46.67986
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": false,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0045",
+            "SpotNumber": "063-059",
+            "RollNumber": "0605R09",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "27-SEP-2006",
+            "ExposeTime": "21:32:48",
+            "Longitude": -124.07605,
+            "Latitude": 46.6952,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.12454,
+              46.6475
+            ],
+            [
+              -124.00679,
+              46.66179
+            ],
+            [
+              -124.02757,
+              46.7429
+            ],
+            [
+              -124.14531,
+              46.7286
+            ],
+            [
+              -124.12454,
+              46.6475
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": false,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0001",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:40:25",
+            "Longitude": -124.09219,
+            "Latitude": 46.76005,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.14195,
+              46.71292
+            ],
+            [
+              -124.02368,
+              46.72581
+            ],
+            [
+              -124.04243,
+              46.80718
+            ],
+            [
+              -124.1607,
+              46.79429
+            ],
+            [
+              -124.14195,
+              46.71292
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 165,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0002",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:41:03",
+            "Longitude": -124.08458,
+            "Latitude": 46.72757,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.13434,
+              46.68042
+            ],
+            [
+              -124.01608,
+              46.69331
+            ],
+            [
+              -124.03483,
+              46.77472
+            ],
+            [
+              -124.15308,
+              46.76183
+            ],
+            [
+              -124.13434,
+              46.68042
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0003",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:41:41",
+            "Longitude": -124.07656,
+            "Latitude": 46.69517,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.12631,
+              46.64798
+            ],
+            [
+              -124.00805,
+              46.66088
+            ],
+            [
+              -124.0268,
+              46.74235
+            ],
+            [
+              -124.14506,
+              46.72945
+            ],
+            [
+              -124.12631,
+              46.64798
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 247,
+          "sample_count": 247
+        }
+      ]
+    },
+    {
+      "historical_id": 41,
+      "candidate_frame_count": 12,
+      "candidate_frames": [
+        {
+          "attributes": {
+            "ExposeNum": "0020",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:22:53",
+            "Longitude": -124.01438,
+            "Latitude": 46.7334,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06118,
+              46.70337
+            ],
+            [
+              -123.97074,
+              46.70119
+            ],
+            [
+              -123.96758,
+              46.76343
+            ],
+            [
+              -124.05802,
+              46.76561
+            ],
+            [
+              -124.06118,
+              46.70337
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 424,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0021",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:23:22",
+            "Longitude": -124.01665,
+            "Latitude": 46.70879,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06336,
+              46.67881
+            ],
+            [
+              -123.97309,
+              46.67664
+            ],
+            [
+              -123.96994,
+              46.73878
+            ],
+            [
+              -124.06021,
+              46.74095
+            ],
+            [
+              -124.06336,
+              46.67881
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 414,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0022",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:23:51",
+            "Longitude": -124.01756,
+            "Latitude": 46.68417,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06413,
+              46.65426
+            ],
+            [
+              -123.97414,
+              46.6521
+            ],
+            [
+              -123.97099,
+              46.71408
+            ],
+            [
+              -124.06098,
+              46.71625
+            ],
+            [
+              -124.06413,
+              46.65426
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 267,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0047",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:40:12",
+            "Longitude": -123.95666,
+            "Latitude": 46.67831,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.90979,
+              46.70836
+            ],
+            [
+              -124.00037,
+              46.71054
+            ],
+            [
+              -124.00353,
+              46.64825
+            ],
+            [
+              -123.91295,
+              46.64608
+            ],
+            [
+              -123.90979,
+              46.70836
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 117,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0048",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:40:48",
+            "Longitude": -123.9553,
+            "Latitude": 46.70288,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.90859,
+              46.73281
+            ],
+            [
+              -123.99885,
+              46.73498
+            ],
+            [
+              -124.002,
+              46.67294
+            ],
+            [
+              -123.91174,
+              46.67077
+            ],
+            [
+              -123.90859,
+              46.73281
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 365,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0049",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:41:24",
+            "Longitude": -123.95307,
+            "Latitude": 46.72764,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.90642,
+              46.75752
+            ],
+            [
+              -123.99657,
+              46.75969
+            ],
+            [
+              -123.99971,
+              46.69775
+            ],
+            [
+              -123.90957,
+              46.69559
+            ],
+            [
+              -123.90642,
+              46.75752
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 348,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0119",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:01:11",
+            "Longitude": -124.01413,
+            "Latitude": 46.73345,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06105,
+              46.70334
+            ],
+            [
+              -123.97039,
+              46.70117
+            ],
+            [
+              -123.96722,
+              46.76355
+            ],
+            [
+              -124.05788,
+              46.76573
+            ],
+            [
+              -124.06105,
+              46.70334
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 427,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0120",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:01:42",
+            "Longitude": -124.01632,
+            "Latitude": 46.70863,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06312,
+              46.67858
+            ],
+            [
+              -123.97267,
+              46.67641
+            ],
+            [
+              -123.96951,
+              46.73868
+            ],
+            [
+              -124.05996,
+              46.74085
+            ],
+            [
+              -124.06312,
+              46.67858
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 418,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0121",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:02:12",
+            "Longitude": -124.01833,
+            "Latitude": 46.6841,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06515,
+              46.65402
+            ],
+            [
+              -123.97467,
+              46.65185
+            ],
+            [
+              -123.97151,
+              46.71417
+            ],
+            [
+              -124.06199,
+              46.71635
+            ],
+            [
+              -124.06515,
+              46.65402
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 267,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0146",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:20:15",
+            "Longitude": -123.95688,
+            "Latitude": 46.67834,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91032,
+              46.70819
+            ],
+            [
+              -124.00031,
+              46.71036
+            ],
+            [
+              -124.00345,
+              46.64848
+            ],
+            [
+              -123.91346,
+              46.64631
+            ],
+            [
+              -123.91032,
+              46.70819
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 102,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0147",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:20:49",
+            "Longitude": -123.95529,
+            "Latitude": 46.70291,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.90859,
+              46.73284
+            ],
+            [
+              -123.99884,
+              46.73501
+            ],
+            [
+              -124.00199,
+              46.67298
+            ],
+            [
+              -123.91174,
+              46.67081
+            ],
+            [
+              -123.90859,
+              46.73284
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 365,
+          "sample_count": 428
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0148",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:21:22",
+            "Longitude": -123.95345,
+            "Latitude": 46.72749,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9067,
+              46.75744
+            ],
+            [
+              -123.99705,
+              46.75961
+            ],
+            [
+              -124.0002,
+              46.69754
+            ],
+            [
+              -123.90986,
+              46.69537
+            ],
+            [
+              -123.9067,
+              46.75744
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 352,
+          "sample_count": 428
+        }
+      ]
+    },
+    {
+      "historical_id": 42,
+      "candidate_frame_count": 6,
+      "candidate_frames": [
+        {
+          "attributes": {
+            "ExposeNum": "0044",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:38:23",
+            "Longitude": -123.96184,
+            "Latitude": 46.60434,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91511,
+              46.63435
+            ],
+            [
+              -124.00542,
+              46.63653
+            ],
+            [
+              -124.00857,
+              46.57433
+            ],
+            [
+              -123.91826,
+              46.57216
+            ],
+            [
+              -123.91511,
+              46.63435
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 48,
+          "sample_count": 71
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0045",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:38:58",
+            "Longitude": -123.95993,
+            "Latitude": 46.62893,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91332,
+              46.65885
+            ],
+            [
+              -124.0034,
+              46.66101
+            ],
+            [
+              -124.00654,
+              46.59901
+            ],
+            [
+              -123.91646,
+              46.59684
+            ],
+            [
+              -123.91332,
+              46.65885
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 71,
+          "sample_count": 71
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0046",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:39:35",
+            "Longitude": -123.9583,
+            "Latitude": 46.6536,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9116,
+              46.68356
+            ],
+            [
+              -124.00186,
+              46.68573
+            ],
+            [
+              -124.00501,
+              46.62363
+            ],
+            [
+              -123.91475,
+              46.62146
+            ],
+            [
+              -123.9116,
+              46.68356
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 71,
+          "sample_count": 71
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0143",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:18:36",
+            "Longitude": -123.96187,
+            "Latitude": 46.60428,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91519,
+              46.63425
+            ],
+            [
+              -124.0054,
+              46.63642
+            ],
+            [
+              -124.00855,
+              46.5743
+            ],
+            [
+              -123.91833,
+              46.57213
+            ],
+            [
+              -123.91519,
+              46.63425
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 46,
+          "sample_count": 71
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0144",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:19:09",
+            "Longitude": -123.95998,
+            "Latitude": 46.62886,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91338,
+              46.65877
+            ],
+            [
+              -124.00344,
+              46.66094
+            ],
+            [
+              -124.00658,
+              46.59895
+            ],
+            [
+              -123.91652,
+              46.59678
+            ],
+            [
+              -123.91338,
+              46.65877
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 71,
+          "sample_count": 71
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0145",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:19:42",
+            "Longitude": -123.95811,
+            "Latitude": 46.65366,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91152,
+              46.68355
+            ],
+            [
+              -124.00156,
+              46.68571
+            ],
+            [
+              -124.0047,
+              46.62376
+            ],
+            [
+              -123.91466,
+              46.6216
+            ],
+            [
+              -123.91152,
+              46.68355
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 71,
+          "sample_count": 71
+        }
+      ]
+    },
+    {
+      "historical_id": 44,
+      "candidate_frame_count": 6,
+      "candidate_frames": [
+        {
+          "attributes": {
+            "ExposeNum": "0044",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:38:23",
+            "Longitude": -123.96184,
+            "Latitude": 46.60434,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91511,
+              46.63435
+            ],
+            [
+              -124.00542,
+              46.63653
+            ],
+            [
+              -124.00857,
+              46.57433
+            ],
+            [
+              -123.91826,
+              46.57216
+            ],
+            [
+              -123.91511,
+              46.63435
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 8,
+          "sample_count": 8
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0045",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:38:58",
+            "Longitude": -123.95993,
+            "Latitude": 46.62893,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91332,
+              46.65885
+            ],
+            [
+              -124.0034,
+              46.66101
+            ],
+            [
+              -124.00654,
+              46.59901
+            ],
+            [
+              -123.91646,
+              46.59684
+            ],
+            [
+              -123.91332,
+              46.65885
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 8,
+          "sample_count": 8
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0046",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:39:35",
+            "Longitude": -123.9583,
+            "Latitude": 46.6536,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9116,
+              46.68356
+            ],
+            [
+              -124.00186,
+              46.68573
+            ],
+            [
+              -124.00501,
+              46.62363
+            ],
+            [
+              -123.91475,
+              46.62146
+            ],
+            [
+              -123.9116,
+              46.68356
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 8,
+          "sample_count": 8
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0143",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:18:36",
+            "Longitude": -123.96187,
+            "Latitude": 46.60428,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91519,
+              46.63425
+            ],
+            [
+              -124.0054,
+              46.63642
+            ],
+            [
+              -124.00855,
+              46.5743
+            ],
+            [
+              -123.91833,
+              46.57213
+            ],
+            [
+              -123.91519,
+              46.63425
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 8,
+          "sample_count": 8
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0144",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:19:09",
+            "Longitude": -123.95998,
+            "Latitude": 46.62886,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91338,
+              46.65877
+            ],
+            [
+              -124.00344,
+              46.66094
+            ],
+            [
+              -124.00658,
+              46.59895
+            ],
+            [
+              -123.91652,
+              46.59678
+            ],
+            [
+              -123.91338,
+              46.65877
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 8,
+          "sample_count": 8
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0145",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:19:42",
+            "Longitude": -123.95811,
+            "Latitude": 46.65366,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91152,
+              46.68355
+            ],
+            [
+              -124.00156,
+              46.68571
+            ],
+            [
+              -124.0047,
+              46.62376
+            ],
+            [
+              -123.91466,
+              46.6216
+            ],
+            [
+              -123.91152,
+              46.68355
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 8,
+          "sample_count": 8
+        }
+      ]
+    },
+    {
+      "historical_id": 49,
+      "candidate_frame_count": 18,
+      "candidate_frames": [
+        {
+          "attributes": {
+            "ExposeNum": "0023",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:24:20",
+            "Longitude": -124.01929,
+            "Latitude": 46.65948,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06562,
+              46.62971
+            ],
+            [
+              -123.97609,
+              46.62755
+            ],
+            [
+              -123.97296,
+              46.68925
+            ],
+            [
+              -124.0625,
+              46.69141
+            ],
+            [
+              -124.06562,
+              46.62971
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0024",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:24:49",
+            "Longitude": -124.0217,
+            "Latitude": 46.63479,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06826,
+              46.60486
+            ],
+            [
+              -123.97829,
+              46.60269
+            ],
+            [
+              -123.97514,
+              46.66472
+            ],
+            [
+              -124.06511,
+              46.66689
+            ],
+            [
+              -124.06826,
+              46.60486
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0025",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:25:19",
+            "Longitude": -124.02331,
+            "Latitude": 46.61006,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.07003,
+              46.58001
+            ],
+            [
+              -123.97974,
+              46.57783
+            ],
+            [
+              -123.97658,
+              46.64011
+            ],
+            [
+              -124.06688,
+              46.64229
+            ],
+            [
+              -124.07003,
+              46.58001
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0122",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:02:42",
+            "Longitude": -124.01937,
+            "Latitude": 46.65956,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06626,
+              46.62943
+            ],
+            [
+              -123.97565,
+              46.62725
+            ],
+            [
+              -123.97248,
+              46.68969
+            ],
+            [
+              -124.0631,
+              46.69187
+            ],
+            [
+              -124.06626,
+              46.62943
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0123",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:03:12",
+            "Longitude": -124.02152,
+            "Latitude": 46.63489,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06822,
+              46.60486
+            ],
+            [
+              -123.97796,
+              46.60269
+            ],
+            [
+              -123.97481,
+              46.66492
+            ],
+            [
+              -124.06507,
+              46.66709
+            ],
+            [
+              -124.06822,
+              46.60486
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0124",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:03:42",
+            "Longitude": -124.02383,
+            "Latitude": 46.61022,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.07044,
+              46.58023
+            ],
+            [
+              -123.98036,
+              46.57807
+            ],
+            [
+              -123.97721,
+              46.6402
+            ],
+            [
+              -124.0673,
+              46.64237
+            ],
+            [
+              -124.07044,
+              46.58023
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0115",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:24:14",
+            "Longitude": -124.06867,
+            "Latitude": 46.66276,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.11718,
+              46.615
+            ],
+            [
+              -123.99937,
+              46.62931
+            ],
+            [
+              -124.02016,
+              46.71051
+            ],
+            [
+              -124.13797,
+              46.6962
+            ],
+            [
+              -124.11718,
+              46.615
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0116",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:24:55",
+            "Longitude": -124.06081,
+            "Latitude": 46.63029,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10932,
+              46.5825
+            ],
+            [
+              -123.99151,
+              46.59682
+            ],
+            [
+              -124.0123,
+              46.67808
+            ],
+            [
+              -124.13011,
+              46.66376
+            ],
+            [
+              -124.10932,
+              46.5825
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0117",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:25:37",
+            "Longitude": -124.05367,
+            "Latitude": 46.59784,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.1022,
+              46.55
+            ],
+            [
+              -123.98434,
+              46.56434
+            ],
+            [
+              -124.00514,
+              46.64567
+            ],
+            [
+              -124.123,
+              46.63133
+            ],
+            [
+              -124.1022,
+              46.55
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0121",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:36:19",
+            "Longitude": -124.0407,
+            "Latitude": 46.65533,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10255,
+              46.61557
+            ],
+            [
+              -123.98303,
+              46.6127
+            ],
+            [
+              -123.97885,
+              46.69509
+            ],
+            [
+              -124.09837,
+              46.69796
+            ],
+            [
+              -124.10255,
+              46.61557
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0122",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:37:00",
+            "Longitude": -124.0433,
+            "Latitude": 46.62251,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10506,
+              46.58278
+            ],
+            [
+              -123.9857,
+              46.5799
+            ],
+            [
+              -123.98153,
+              46.66223
+            ],
+            [
+              -124.10089,
+              46.66511
+            ],
+            [
+              -124.10506,
+              46.58278
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0123",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:37:41",
+            "Longitude": -124.04542,
+            "Latitude": 46.58959,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10718,
+              46.54984
+            ],
+            [
+              -123.98783,
+              46.54696
+            ],
+            [
+              -123.98365,
+              46.62934
+            ],
+            [
+              -124.103,
+              46.63221
+            ],
+            [
+              -124.10718,
+              46.54984
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 23,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0004",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:42:18",
+            "Longitude": -124.06846,
+            "Latitude": 46.66274,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.11817,
+              46.61558
+            ],
+            [
+              -124.00004,
+              46.62848
+            ],
+            [
+              -124.01876,
+              46.7099
+            ],
+            [
+              -124.13689,
+              46.69701
+            ],
+            [
+              -124.11817,
+              46.61558
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0005",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:42:54",
+            "Longitude": -124.06036,
+            "Latitude": 46.63022,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.11006,
+              46.58304
+            ],
+            [
+              -123.99194,
+              46.59594
+            ],
+            [
+              -124.01066,
+              46.6774
+            ],
+            [
+              -124.12878,
+              46.6645
+            ],
+            [
+              -124.11006,
+              46.58304
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0006",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:43:30",
+            "Longitude": -124.05268,
+            "Latitude": 46.59778,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10231,
+              46.55064
+            ],
+            [
+              -123.98436,
+              46.56353
+            ],
+            [
+              -124.00305,
+              46.64493
+            ],
+            [
+              -124.12101,
+              46.63204
+            ],
+            [
+              -124.10231,
+              46.55064
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0016",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "20:02:16",
+            "Longitude": -124.04553,
+            "Latitude": 46.58986,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9838,
+              46.6295
+            ],
+            [
+              -124.1031,
+              46.63237
+            ],
+            [
+              -124.10726,
+              46.55022
+            ],
+            [
+              -123.98797,
+              46.54735
+            ],
+            [
+              -123.9838,
+              46.6295
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 29,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0017",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "20:03:06",
+            "Longitude": -124.04325,
+            "Latitude": 46.62277,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9813,
+              46.66252
+            ],
+            [
+              -124.10102,
+              46.6654
+            ],
+            [
+              -124.1052,
+              46.58301
+            ],
+            [
+              -123.98547,
+              46.58013
+            ],
+            [
+              -123.9813,
+              46.66252
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0018",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "20:03:56",
+            "Longitude": -124.04069,
+            "Latitude": 46.65562,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.97859,
+              46.69544
+            ],
+            [
+              -124.0986,
+              46.69833
+            ],
+            [
+              -124.10279,
+              46.61579
+            ],
+            [
+              -123.98278,
+              46.6129
+            ],
+            [
+              -123.97859,
+              46.69544
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 96,
+          "sample_count": 96
+        }
+      ]
+    },
+    {
+      "historical_id": 51,
+      "candidate_frame_count": 18,
+      "candidate_frames": [
+        {
+          "attributes": {
+            "ExposeNum": "0023",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:24:20",
+            "Longitude": -124.01929,
+            "Latitude": 46.65948,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06562,
+              46.62971
+            ],
+            [
+              -123.97609,
+              46.62755
+            ],
+            [
+              -123.97296,
+              46.68925
+            ],
+            [
+              -124.0625,
+              46.69141
+            ],
+            [
+              -124.06562,
+              46.62971
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0024",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:24:49",
+            "Longitude": -124.0217,
+            "Latitude": 46.63479,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06826,
+              46.60486
+            ],
+            [
+              -123.97829,
+              46.60269
+            ],
+            [
+              -123.97514,
+              46.66472
+            ],
+            [
+              -124.06511,
+              46.66689
+            ],
+            [
+              -124.06826,
+              46.60486
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0025",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:25:19",
+            "Longitude": -124.02331,
+            "Latitude": 46.61006,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.07003,
+              46.58001
+            ],
+            [
+              -123.97974,
+              46.57783
+            ],
+            [
+              -123.97658,
+              46.64011
+            ],
+            [
+              -124.06688,
+              46.64229
+            ],
+            [
+              -124.07003,
+              46.58001
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0122",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:02:42",
+            "Longitude": -124.01937,
+            "Latitude": 46.65956,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06626,
+              46.62943
+            ],
+            [
+              -123.97565,
+              46.62725
+            ],
+            [
+              -123.97248,
+              46.68969
+            ],
+            [
+              -124.0631,
+              46.69187
+            ],
+            [
+              -124.06626,
+              46.62943
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0123",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:03:12",
+            "Longitude": -124.02152,
+            "Latitude": 46.63489,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.06822,
+              46.60486
+            ],
+            [
+              -123.97796,
+              46.60269
+            ],
+            [
+              -123.97481,
+              46.66492
+            ],
+            [
+              -124.06507,
+              46.66709
+            ],
+            [
+              -124.06822,
+              46.60486
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0124",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-009",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:03:42",
+            "Longitude": -124.02383,
+            "Latitude": 46.61022,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.07044,
+              46.58023
+            ],
+            [
+              -123.98036,
+              46.57807
+            ],
+            [
+              -123.97721,
+              46.6402
+            ],
+            [
+              -124.0673,
+              46.64237
+            ],
+            [
+              -124.07044,
+              46.58023
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0115",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:24:14",
+            "Longitude": -124.06867,
+            "Latitude": 46.66276,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.11718,
+              46.615
+            ],
+            [
+              -123.99937,
+              46.62931
+            ],
+            [
+              -124.02016,
+              46.71051
+            ],
+            [
+              -124.13797,
+              46.6962
+            ],
+            [
+              -124.11718,
+              46.615
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0116",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:24:55",
+            "Longitude": -124.06081,
+            "Latitude": 46.63029,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10932,
+              46.5825
+            ],
+            [
+              -123.99151,
+              46.59682
+            ],
+            [
+              -124.0123,
+              46.67808
+            ],
+            [
+              -124.13011,
+              46.66376
+            ],
+            [
+              -124.10932,
+              46.5825
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0117",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:25:37",
+            "Longitude": -124.05367,
+            "Latitude": 46.59784,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.1022,
+              46.55
+            ],
+            [
+              -123.98434,
+              46.56434
+            ],
+            [
+              -124.00514,
+              46.64567
+            ],
+            [
+              -124.123,
+              46.63133
+            ],
+            [
+              -124.1022,
+              46.55
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0121",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:36:19",
+            "Longitude": -124.0407,
+            "Latitude": 46.65533,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10255,
+              46.61557
+            ],
+            [
+              -123.98303,
+              46.6127
+            ],
+            [
+              -123.97885,
+              46.69509
+            ],
+            [
+              -124.09837,
+              46.69796
+            ],
+            [
+              -124.10255,
+              46.61557
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0122",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:37:00",
+            "Longitude": -124.0433,
+            "Latitude": 46.62251,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10506,
+              46.58278
+            ],
+            [
+              -123.9857,
+              46.5799
+            ],
+            [
+              -123.98153,
+              46.66223
+            ],
+            [
+              -124.10089,
+              46.66511
+            ],
+            [
+              -124.10506,
+              46.58278
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0123",
+            "SpotNumber": "063-039",
+            "RollNumber": "0605R03",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "04-MAY-2006",
+            "ExposeTime": "20:37:41",
+            "Longitude": -124.04542,
+            "Latitude": 46.58959,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10718,
+              46.54984
+            ],
+            [
+              -123.98783,
+              46.54696
+            ],
+            [
+              -123.98365,
+              46.62934
+            ],
+            [
+              -124.103,
+              46.63221
+            ],
+            [
+              -124.10718,
+              46.54984
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 39,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0004",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:42:18",
+            "Longitude": -124.06846,
+            "Latitude": 46.66274,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.11817,
+              46.61558
+            ],
+            [
+              -124.00004,
+              46.62848
+            ],
+            [
+              -124.01876,
+              46.7099
+            ],
+            [
+              -124.13689,
+              46.69701
+            ],
+            [
+              -124.11817,
+              46.61558
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0005",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:42:54",
+            "Longitude": -124.06036,
+            "Latitude": 46.63022,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.11006,
+              46.58304
+            ],
+            [
+              -123.99194,
+              46.59594
+            ],
+            [
+              -124.01066,
+              46.6774
+            ],
+            [
+              -124.12878,
+              46.6645
+            ],
+            [
+              -124.11006,
+              46.58304
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0006",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-006",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "19:43:30",
+            "Longitude": -124.05268,
+            "Latitude": 46.59778,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -124.10231,
+              46.55064
+            ],
+            [
+              -123.98436,
+              46.56353
+            ],
+            [
+              -124.00305,
+              46.64493
+            ],
+            [
+              -124.12101,
+              46.63204
+            ],
+            [
+              -124.10231,
+              46.55064
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0016",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "20:02:16",
+            "Longitude": -124.04553,
+            "Latitude": 46.58986,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9838,
+              46.6295
+            ],
+            [
+              -124.1031,
+              46.63237
+            ],
+            [
+              -124.10726,
+              46.55022
+            ],
+            [
+              -123.98797,
+              46.54735
+            ],
+            [
+              -123.9838,
+              46.6295
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 43,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0017",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "20:03:06",
+            "Longitude": -124.04325,
+            "Latitude": 46.62277,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9813,
+              46.66252
+            ],
+            [
+              -124.10102,
+              46.6654
+            ],
+            [
+              -124.1052,
+              46.58301
+            ],
+            [
+              -123.98547,
+              46.58013
+            ],
+            [
+              -123.9813,
+              46.66252
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0018",
+            "SpotNumber": "063-062",
+            "RollNumber": "0605R10",
+            "FlightLine": "40-007",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "09-OCT-2006",
+            "ExposeTime": "20:03:56",
+            "Longitude": -124.04069,
+            "Latitude": 46.65562,
+            "PScale": 40,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.97859,
+              46.69544
+            ],
+            [
+              -124.0986,
+              46.69833
+            ],
+            [
+              -124.10279,
+              46.61579
+            ],
+            [
+              -123.98278,
+              46.6129
+            ],
+            [
+              -123.97859,
+              46.69544
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 63,
+          "sample_count": 63
+        }
+      ]
+    },
+    {
+      "historical_id": 125,
+      "candidate_frame_count": 6,
+      "candidate_frames": [
+        {
+          "attributes": {
+            "ExposeNum": "0044",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:38:23",
+            "Longitude": -123.96184,
+            "Latitude": 46.60434,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91511,
+              46.63435
+            ],
+            [
+              -124.00542,
+              46.63653
+            ],
+            [
+              -124.00857,
+              46.57433
+            ],
+            [
+              -123.91826,
+              46.57216
+            ],
+            [
+              -123.91511,
+              46.63435
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 14,
+          "sample_count": 14
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0045",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:38:58",
+            "Longitude": -123.95993,
+            "Latitude": 46.62893,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91332,
+              46.65885
+            ],
+            [
+              -124.0034,
+              46.66101
+            ],
+            [
+              -124.00654,
+              46.59901
+            ],
+            [
+              -123.91646,
+              46.59684
+            ],
+            [
+              -123.91332,
+              46.65885
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 14,
+          "sample_count": 14
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0046",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "22-APR-2006",
+            "ExposeTime": "22:39:35",
+            "Longitude": -123.9583,
+            "Latitude": 46.6536,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.9116,
+              46.68356
+            ],
+            [
+              -124.00186,
+              46.68573
+            ],
+            [
+              -124.00501,
+              46.62363
+            ],
+            [
+              -123.91475,
+              46.62146
+            ],
+            [
+              -123.9116,
+              46.68356
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 14,
+          "sample_count": 14
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0143",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:18:36",
+            "Longitude": -123.96187,
+            "Latitude": 46.60428,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91519,
+              46.63425
+            ],
+            [
+              -124.0054,
+              46.63642
+            ],
+            [
+              -124.00855,
+              46.5743
+            ],
+            [
+              -123.91833,
+              46.57213
+            ],
+            [
+              -123.91519,
+              46.63425
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 14,
+          "sample_count": 14
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0144",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:19:09",
+            "Longitude": -123.95998,
+            "Latitude": 46.62886,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91338,
+              46.65877
+            ],
+            [
+              -124.00344,
+              46.66094
+            ],
+            [
+              -124.00658,
+              46.59895
+            ],
+            [
+              -123.91652,
+              46.59678
+            ],
+            [
+              -123.91338,
+              46.65877
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 14,
+          "sample_count": 14
+        },
+        {
+          "attributes": {
+            "ExposeNum": "0145",
+            "SpotNumber": "063-037",
+            "RollNumber": "0605R02",
+            "FlightLine": "30-005",
+            "Project": "WA0401",
+            "Year": 2006,
+            "State": "WA",
+            "CountyFips": 53049,
+            "ExposeDate": "23-APR-2006",
+            "ExposeTime": "17:19:42",
+            "Longitude": -123.95811,
+            "Latitude": 46.65366,
+            "PScale": 30,
+            "SensorType": "Film",
+            "Emulsion": "Black & White IR"
+          },
+          "footprint_lon_lat": [
+            [
+              -123.91152,
+              46.68355
+            ],
+            [
+              -124.00156,
+              46.68571
+            ],
+            [
+              -124.0047,
+              46.62376
+            ],
+            [
+              -123.91466,
+              46.6216
+            ],
+            [
+              -123.91152,
+              46.68355
+            ]
+          ],
+          "listed_in_WA0401D_report_roll_date_frame_ranges": true,
+          "covered_sample_count": 14,
+          "sample_count": 14
+        }
+      ]
+    }
+  ]
+}
