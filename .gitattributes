@@ -3,3 +3,4 @@ sources/originals/electron/* -text
 sources/originals/hyatt/* -text
 sources/originals/coyote/* -text
 sources/originals/cascadia/* -text
+sources/originals/cascadia/T-03921/** -text

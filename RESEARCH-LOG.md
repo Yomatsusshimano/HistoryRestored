@@ -1,5 +1,9 @@
 # Research log
 
+### 2026-10-09 — Raster metadata byte-preservation correction
+
+Publication verification ofd488b81matched committed content, but additional source-to-commit comparison caught normalization of originalT03921metadata line endings. Added explicit nested-source-folder -text rule and restored archive-member bytes. World-file original trailing spaces retained deliberately; whitespace checks do not justify changing historical bytes. Source/member hashes unchanged; verify corrected committed and public bytes before claiming original-file preservation.
+
 ### 2026-10-09 — Current survey package recovery
 
 Previous goal turn made verified public progress at0b88bbb. Revalidated clean checkout. Bounded NOAA126/WA1870-1873and allWA T-sheet queries did not recover earlier target sheets; no absence inference. Public NSDEpage exposed tile/download routes. Decoded gzip-compressed MVTtile after first wire-parser error;72features nonepre1900, identifier discovery only. Legacy nosimagery raster/world/metadata requests failed DNS; currentT-03921ZIP succeeded13,546,967bytes with sevenmembers. Selected original bytes preserved, whole raster/title visually inspected. Metadata fields read with1922source vs2006ground-condition/process mismatch; reportedRMS not validation. Executed affine corner/bounds check against rounded metadata; no line extraction, ecological interpretation or displacement. Large-raster reader warning disclosed; no source modification, outreach, field authentication or independent review. All twenty objectives remain active.
