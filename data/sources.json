@@ -4273,12 +4273,43 @@
       "doi": "10.5539/jgg.v10n1p109",
       "source_type": "Original research article with core age tables and conditional sediment budget; CC BY4.0",
       "access": "SCAN_INSPECTED",
-      "inspected": "PDF8,19-20,24-25,31scans visually checked; PDF1,5,9,26text only. All23Table3rows and10Table4rows transcribed. Mean/SD, rounding-compatible ratios and Table5mass-volume scenarios calculated. PDF16-18 scans now visually checked; all Table2 cells and W29 note transcribed. All157 literal composition/grain tokens agree with separate PDF extraction. Counts, means, OLS and declared selection sensitivities executed. PDF9-10 Table1/Figure6 now visually inspected; all40site rows extracted and checked; Table1-2 site join and environment/selection diagnostics executed, native-coordinate figure inspected.",
-      "limitations": "Selected audit, not full review. Lab/field records, sample preparation, exact calibration, physical pathways and baywide extrapolation unverified. DuplicateBeta158078 and W29prose/table age retained. AssignedAD1700/oyster markers not independent dates. No chronology transformation or validated flow model. Grain census159 versus157 recovered; all144 pairs give R²0.143, removing W28 645um cell gives143 pairs/R²0.661. Weight-to-volume conversion and area weighting unverified. Horizontal datum absent in Table1, MTL not NAVD88; no cross-dataset overlay. Modern classes not buried facies. Site census/classification/length conflicts and shortening range retained; area weights unknown.",
+      "inspected": "PDF8,19-20,24-25,31scans visually checked; PDF1,5,9,26text only. All23Table3rows and10Table4rows transcribed. Mean/SD, rounding-compatible ratios and Table5mass-volume scenarios calculated. PDF16-18 scans now visually checked; all Table2 cells and W29 note transcribed. All157 literal composition/grain tokens agree with separate PDF extraction. Counts, means, OLS and declared selection sensitivities executed. PDF9-10 Table1/Figure6 now visually inspected; all40site rows extracted and checked; Table1-2 site join and environment/selection diagnostics executed, native-coordinate figure inspected. PDF12/14/15 Figures8/10/11 all31core diagrams, legends and adjacent text visually inspected;19CS/12question arrows, rounded ages and four oyster markers recorded separately.",
+      "limitations": "Selected audit, not full review. Lab/field records, sample preparation, exact calibration, physical pathways and baywide extrapolation unverified. DuplicateBeta158078 and W29prose/table age retained. AssignedAD1700/oyster markers not independent dates. No chronology transformation or validated flow model. Grain census159 versus157 recovered; all144 pairs give R²0.143, removing W28 645um cell gives143 pairs/R²0.661. Weight-to-volume conversion and area weighting unverified. Horizontal datum absent in Table1, MTL not NAVD88; no cross-dataset overlay. Modern classes not buried facies. Site census/classification/length conflicts and shortening range retained; area weights unknown. Diagram arrows are source interpretations, not independent event counts or correlated horizons. KI11 reused from earlier2002study; original log unavailable.",
       "local_copy": "sources/originals/cascadia/willapa-tidalflat-2018.pdf",
       "sha256": "97656b70d0dbfcfcc44eddfd6c4158e1f181b62c438eae39f0e14f247a20431d",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S275",
+      "title": "USGS publication catalog: Large-scale cycles of Holocene deposition and erosion at the entrance to Willapa Bay",
+      "creator": "U.S. Geological Survey; Robert A. Morton, Noreen A. Purcell, Russell L. Peterson",
+      "publication_date": "2002",
+      "url": "https://pubs.usgs.gov/publication/ofr0246",
+      "doi": "10.3133/ofr0246",
+      "source_type": "Official publication catalog; original report not acquired",
+      "access": "CATALOG_METADATA",
+      "inspected": "Publication identity, report number, authors, DOI and iv+96page description read from official catalog. Indexed PDF excerpt supplies AppendixB printed93 retrieval lead only.",
+      "limitations": "Original report403; no report/appendix scan or KI11 raw record.124page citation differs from catalog. Catalog is not independent scientific confirmation.",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "sha256": null
+    },
+    {
+      "id": "S276",
+      "title": "USGS field activity00WCE01 / alternateP-C1-00-WA: Core Descriptions dataset13384",
+      "creator": "U.S. Geological Survey, Coastal and Marine Geoscience Data System",
+      "publication_date": null,
+      "url": "https://cmgds.marine.usgs.gov/services/activity.php?fan=00WCE01",
+      "source_type": "Official field-activity catalog exposed through indexed excerpts",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Indexed official activity service and older fan_info page supply September20-27,2000collection,27core accounting, dataset13384 and report linkage. Directpages403.",
+      "limitations": "Indexed portions only; no underlying dataset, individual core identities, original logs or current custody verification. No authenticatedKI11 crosswalk; broad catalog bounds are not sample positions. Two catalog versions dependent.",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "local_copy": null,
+      "sha256": null
     }
   ]
 }

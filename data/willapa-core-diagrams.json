@@ -1,0 +1,386 @@
+{
+  "source_id": "S274",
+  "inspection": "All31 Figure8/10/11 core diagrams, legends and adjacent captions visually checked on PDF12/14/15",
+  "rows": [
+    {
+      "site": "W1",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 2,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W2",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 1,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W3",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 3,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        0.2,
+        7.0
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W4",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 2,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "KI11",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        1.5
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W5",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W6",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        3.2
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W7",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W8",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        0.7
+      ],
+      "plotted_introduced_oyster_arrows": 1,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W9",
+      "locator": "PDF12/Figure8",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W10",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W11",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W12",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        2.2
+      ],
+      "plotted_introduced_oyster_arrows": 1,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W13",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 5,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        2.7,
+        4.0
+      ],
+      "plotted_introduced_oyster_arrows": 1,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W14",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 3,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W15",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 2,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W16",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 2,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        2.6
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W17",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W18",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 1,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        0.3
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "W18 0.3ka is assigned AD1700 in Table3, not radiocarbon",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W19",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        1.0
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W20",
+      "locator": "PDF14/Figure10",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 2,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W21",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W22",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 2,
+      "printed_age_labels_ka": [
+        1.2
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W23",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 1,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W24",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 2,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        2.6
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W25",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W26",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W27",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 1,
+      "plotted_question_mark_arrows": 2,
+      "printed_age_labels_ka": [
+        1.6,
+        4.1
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W28",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W29",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 0,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        0.1,
+        0.1
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    },
+    {
+      "site": "W30",
+      "locator": "PDF15/Figure11",
+      "plotted_CS_arrows": 1,
+      "plotted_question_mark_arrows": 0,
+      "printed_age_labels_ka": [
+        2.4
+      ],
+      "plotted_introduced_oyster_arrows": 0,
+      "age_caution": "Rounded source labels; association and calibration not independently reproduced",
+      "numerical_contact_elevations_m_MTL": null,
+      "limits": "Plotted interpretation, not an independent event count. No exact contact coordinates digitized."
+    }
+  ],
+  "summary": {
+    "CS_arrow_n": 19,
+    "question_mark_arrow_n": 12,
+    "core_n_with_CS": 9,
+    "core_n_with_question_marks": 6
+  },
+  "limitations": "Different local elevation axes; equal plot height is not a correlated horizon. Counts describe printed annotations, not proven earthquakes or the independently sampled30 contacts used for the thickness budget."
+}

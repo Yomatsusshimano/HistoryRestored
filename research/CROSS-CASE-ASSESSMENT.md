@@ -1,5 +1,10 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Core diagram census and original field-record route
+
+S274 all31 Figure8/10/11 diagrams inspected:19CS arrows across9cores and12question arrows across6cores remain interpretation counts, not independent events. KI11 basal marker/noCS arrows and assignedW18/oyster ages separated. S275official report catalog and S276indexed field activity00WCE01/dataset13384 give precise retrieval leads; originalreport/log downloads remain inaccessible. See research/WILLAPA-CORE-PROVENANCE.md.25 drafts/276sources, full twenty objectives retained.
+
+
 ### 2026-10-09 — Core sampling context and spatial selection
 
 S274 Table1/Figure6 scans and all40site rows inspected. Table1-2 joins show sample means66.839% sand in modern flats,60.256% banks and97-98% channels/shoals; modern classes are not buried facies or area weights. Site census, W19 class, three depth/length mismatches and shortening-range conflict retained. Coordinate datum null, elevations MTL; native-coordinate figure is descriptive. See research/WILLAPA-SAMPLING-CONTEXT.md.25 drafts/274 sources, all twenty outcomes retained.

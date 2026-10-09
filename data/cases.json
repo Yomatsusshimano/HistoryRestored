@@ -541,6 +541,21 @@
           "source_id": "S274",
           "locator": "PDF9-10 Table1/Figure6; data/willapa-site-audit.json",
           "statement": "All40site rows recovered. Modern ITF sample mean66.839%, IAB60.256%, STC97%, TIS97.833%; these are not area weights or buried facies classes. W-site census17ITF/8IAB differs from prose18/7. Three bins start beyond approximate core lengths; shortening mean roughly8% reproduced withKI11 while stated2-16%range differs."
+        },
+        {
+          "source_id": "S274",
+          "locator": "PDF12/14/15 Figures8/10/11; data/willapa-core-diagrams.json",
+          "statement": "All31core diagrams inspected.19CSarrows/12question arrows are source interpretations, not independent earthquake census. KI11 has basal1.5ka marker/noCSarrows; W18 ageassigned1700 and oyster assumptions retained; separate elevation axes prevent page-height correlation."
+        },
+        {
+          "source_id": "S275",
+          "locator": "Official publication catalog identity/description; AppendixB indexed lead",
+          "statement": "Original2002report identity and DOI confirmed at catalog level. Descriptioniv+96pages differs from124pagecitations; AppendixBprinted93 lead, originalPDF403/unacquired."
+        },
+        {
+          "source_id": "S276",
+          "locator": "Indexed activity00WCE01 / alternateP-C1-00-WA / dataset13384",
+          "statement": "Specific2000field activity and Core Descriptions dataset route identified through official indexed portions. No acquired logs, authenticatedKI11 specimen crosswalk or current custody check."
         }
       ],
       "physical_evidence": "Published root/trunk tables visually checked; complete GF2 roots and three trunk series transcribed/crosswalked. Raw-width sensitivity diagnostics executed, with original processing and absolute dating unreproduced. Later field compilation inspected for selected specimen/survey reports; physical specimens, original field-note scans and sediment core logs not independently inspected. S261 rendered June-name2006crop and recorded-extent overlay inspected; historical49/51placements have different visible contexts.",
