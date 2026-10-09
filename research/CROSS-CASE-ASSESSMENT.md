@@ -1,5 +1,10 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Actual modern reach geometry acquired
+
+S272Ecologyapplication-linked publicservice all1185IDs/layer recovered; two layers identical. Exact client rectangle/serverpolygon agree1148records,37extraenvelope results retained. Prior-island-window3299/3382both below-noise/rapidassessment with nullrates/dates/types; no measured stability or historical match. Northern diagnostic158reaches mixes periods/classes. Original query responses/hash manifest and audit published, source imagery/transects uninspected.25drafts/272sources; all twenty outcomes active. See research/WILLAPA-ECOLOGY-REACHES.md.
+
+
 ### 2026-10-09 — Northern shoreline process and forecast constraints
 
 S271 January2024countyplan acquired (98pages); PDF1/32/78/79/83visually inspected. Historical1884/1943/1989/January2023lines separated from2030/2060forecasts; reported11700ft1887–1971retreat gives139.29ft/yr arithmetic only. Channel/wave/sediment alternatives and explicit sparse-measurement/incomplete-budget limits retained; HTL/northern scope not transferred to southern island. Specific1955aerials,Job1636borings,thalweg/shoreline/profile datasets remain retrieval targets.25drafts/271sources; all twenty outcomes remain active. See research/WILLAPA-NORTH-PROCESS-CONSTRAINTS.md.

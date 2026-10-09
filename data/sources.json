@@ -4233,6 +4233,21 @@
       "sha256": "7f91507c3775d96cc0f125ef27a7ba0fea53a9072338e4bd9ef23747beed0b3e",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S272",
+      "title": "Washington Coastal Erosion Hazard Assessment: preliminary November2021 EMD Willapa-area geometry/attributes snapshot",
+      "creator": "Washington State Department of Ecology Coastal Monitoring & Analysis Program",
+      "publication_date": "2021-11",
+      "url": "https://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/EMD_Preliminary_Dataset_updated_November_2021/FeatureServer",
+      "source_type": "Public hosted GIS query responses and application methods; original imagery not inspected",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Actual app/webmap/service metadata; all1185returned records per layer, complete IDreconciliation, identical layers, exact1148polygon match. Two island-window records3299/3382have null rates/dates/types.",
+      "limitations": "Preliminary source snapshot, no latest-version confirmation or contact. Reported rates mix periods/classes; no sourceimage/transect reproduction or field validation. Island below-noise designation has no numeric threshold. Native lengthfeet versus returnedEPSG4326 and ratem/year distinguished.",
+      "local_copy": "sources/originals/cascadia/ecology-willapa-reaches.zip",
+      "sha256": "8973de620bfbe53c5767cbc0ba155219437850735476f84f7f3c096ca78fcb7c",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
