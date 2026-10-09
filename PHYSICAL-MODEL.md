@@ -1,5 +1,9 @@
 # Physical reconstruction: constraints before fitting
 
+### 2026-10-09 — Soil geometry and preservation constraints
+
+The [1997 report audit](research/CASCADIA-SOIL-CORRELATIONS.md) distinguishes generalized regional columns from surveyed sections, inferred paleoenvironmental displacement from mud thickness, and speculative correlations from observed continuity. Preserve soil formation/decomposition, growth-position plants and local dredge-spoil context in candidate models.150years of ample marsh recovery is not a lower duration bound. Calendar-before2000 and BP1950 labels require explicit epochs; limiting material ages cannot be pooled as direct earthquake times. No new flow model or chronology correction is established.
+
 2026-10-08. Proposed model specification; no site-specific hydraulic model has been run.
 
 ## Separate mechanisms

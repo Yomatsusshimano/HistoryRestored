@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Regional correlation and duration limits
+
+The [selected original1997 USGS report audit](CASCADIA-SOIL-CORRELATIONS.md) adds explicit generalized/speculative regional links and age bands allowing an earthquake series. Subsidence inferred from biological environments is distinct from measured displacement or mud thickness. Soil preservation can miss events, and150years described as ample marsh recovery cannot be turned into a minimum per horizon. Its calendar-before2000 convention differs from BP1950;50years of label difference is not a chronology break. These constraints narrow interpretation without resolving original Copalis drawings, field-table exceptions or the global hypothesis. No independent review or prospective confirmation follows.
+
 2026-10-08. Retrospective synthesis at the current public checkpoint. This assessment has no independent scientific or historical review. It preserves all twenty objectives in [the protocol](../PROTOCOL.md); it does not declare completion of the proposed reconstruction.
 
 The archive establishes several local observations, documentary relationships and conditional numerical constraints. It has not established one worldwide event, a common chronology transformation, inherited civilization or a causal chain from catastrophe to fabricated history. The strongest presently testable conclusion concerns narrower versions: some nominated remains cannot be assigned to a short common mortality episode while retaining their reported dating sets. Allowing later redeposition changes the question and requires additional evidence.

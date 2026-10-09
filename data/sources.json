@@ -3828,6 +3828,21 @@
       "sha256": "7f3d3327dbd7565a649a4a8826cbdd71b25a0839e4764fe9fb5606b85f704e72",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S245",
+      "title": "Recurrence Intervals for Great Earthquakes of the Past 3,500 Years at Northeastern Willapa Bay, Washington",
+      "creator": "Brian F. Atwater and Eileen Hemphill-Haley, U.S. Geological Survey",
+      "publication_date": "1997",
+      "url": "https://pubs.usgs.gov/pp/1576/report.pdf",
+      "source_type": "USGS Professional Paper 1576; primary research report with inherited regional comparisons",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Title and printed pp.24,78,83-85,95 visually inspected; selected text also read on pp.79,94. Public seven-page excerpt preserves title, dating definitions, Airport section, subsidence discussion, Figure32 and legend, soil formation/preservation discussion. PDF pages and hashes in acquisition ledger.",
+      "limitations": "Selected portions, not a full-report audit. Regional correlations inherit earlier work including unrecovered1992 Copalis paper. Generalized profiles do not resolve S244 depth/coordinate exceptions. Plant-material ages are limiting evidence, not direct earthquake timestamps. Original Swan account and nineteenth-century T sheets cited in report were not inspected here. No new calibration, chronology correction, field authentication or independent review. Source sha256 identifies public excerpt; full original hash separately retained.",
+      "local_copy": "sources/originals/cascadia/pp1576-selected-context.pdf",
+      "sha256": "f28bdafbea6618b474d53d85ddda54e34ad46c7baf1510614e8f96895265ffd4",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -1,0 +1,57 @@
+{
+  "source_id": "S245",
+  "accessed_date": "2026-10-09",
+  "original_url": "https://pubs.usgs.gov/pp/1576/report.pdf",
+  "original_bytes": 17384918,
+  "original_sha256": "d210732f98c40d41aa331dfec252d60fdb4f0e05b09297d5e21c97a858cfcbae",
+  "original_pdf_pages": 119,
+  "excerpt_path": "sources/originals/cascadia/pp1576-selected-context.pdf",
+  "excerpt_bytes": 2413515,
+  "excerpt_sha256": "f28bdafbea6618b474d53d85ddda54e34ad46c7baf1510614e8f96895265ffd4",
+  "page_map": [
+    {
+      "excerpt_pdf_page": 1,
+      "original_pdf_page": 3,
+      "printed_page": null,
+      "inspection": "SCAN_INSPECTED"
+    },
+    {
+      "excerpt_pdf_page": 2,
+      "original_pdf_page": 32,
+      "printed_page": 24,
+      "inspection": "SCAN_INSPECTED"
+    },
+    {
+      "excerpt_pdf_page": 3,
+      "original_pdf_page": 86,
+      "printed_page": 78,
+      "inspection": "SCAN_INSPECTED"
+    },
+    {
+      "excerpt_pdf_page": 4,
+      "original_pdf_page": 91,
+      "printed_page": 83,
+      "inspection": "SCAN_INSPECTED"
+    },
+    {
+      "excerpt_pdf_page": 5,
+      "original_pdf_page": 92,
+      "printed_page": 84,
+      "inspection": "SCAN_INSPECTED"
+    },
+    {
+      "excerpt_pdf_page": 6,
+      "original_pdf_page": 93,
+      "printed_page": 85,
+      "inspection": "SCAN_INSPECTED"
+    },
+    {
+      "excerpt_pdf_page": 7,
+      "original_pdf_page": 103,
+      "printed_page": 95,
+      "inspection": "SCAN_INSPECTED"
+    }
+  ],
+  "verification": "Every excerpt page extracted text equals its source page; selected original pages visually inspected. Original page orientation and content preserved.",
+  "limits": "Selected pages only; no original 1992 Copalis paper recovered, full report review, laboratory recalibration, field authentication or independent review."
+}
