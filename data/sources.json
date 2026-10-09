@@ -4248,6 +4248,21 @@
       "sha256": "8973de620bfbe53c5767cbc0ba155219437850735476f84f7f3c096ca78fcb7c",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S273",
+      "title": "NAIP2017 named island tile crop and producer acquisition-date polygon",
+      "creator": "USDA National Agriculture Imagery Program, served through GeoPlatform imagery service",
+      "publication_date": null,
+      "url": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2017_CONUS/ImageServer",
+      "source_type": "Locked public service image crop, catalog response and separate same-program acquisition-date response",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Namedtilem_4612424_se_10_1_20170827/object87267raw1726x1177crop and fourpanel comparison visually inspected. Exact2006extent/dimensions;41/32historicalvertices insidecatalog/datepolygon. Datefield2017-08-27UTCrepresentation inspected.",
+      "limitations": "Service crop not native original; datefield not exposure time, tide unknown. Program metadata not independent confirmation. No alignment fit, originalframe1613, ecologicalidentity, boundary extraction, signed movement or cause. Three bands requested, radiometry/season differs.",
+      "local_copy": "sources/originals/cascadia/naip2017/islands.png",
+      "sha256": "fd2504b6f4a97cfeeb9d5ff4c04391a97aad21cab371f153cdbdeccbe301aab8",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

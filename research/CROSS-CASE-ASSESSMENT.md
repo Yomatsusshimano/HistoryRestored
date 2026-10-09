@@ -1,5 +1,10 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Later actual imagery and producer date recovered
+
+S273locked2017tile87267 acquired at identical2006extent/1726x1177dimensions. Raw images/fourpanels inspected:49land both,51water/exposedflatmargin; broad land persists, tidal/vegetation/radiometry differs. Separate same-program datepolygon19covers73vertices and reportsAugust27,2017;06UTCtimestamp not authenticated exposuretime. No alignment fit, ecologicalidentity or displacement.25drafts/273sources; all twenty outcomes active. See research/WILLAPA-NAIP-PAIR.md.
+
+
 ### 2026-10-09 — Actual modern reach geometry acquired
 
 S272Ecologyapplication-linked publicservice all1185IDs/layer recovered; two layers identical. Exact client rectangle/serverpolygon agree1148records,37extraenvelope results retained. Prior-island-window3299/3382both below-noise/rapidassessment with nullrates/dates/types; no measured stability or historical match. Northern diagnostic158reaches mixes periods/classes. Original query responses/hash manifest and audit published, source imagery/transects uninspected.25drafts/272sources; all twenty outcomes active. See research/WILLAPA-ECOLOGY-REACHES.md.

@@ -1,0 +1,18 @@
+{
+  "source_ids": [
+    "S253",
+    "S261",
+    "S273"
+  ],
+  "figure": "research/figures/willapa-naip2006-2017-pair.png",
+  "figure_sha256": "7c00b8e7b8ceed175d4bce77e8e44c724d246f21478c5d50a1845b01d41c9110",
+  "same_returned_extent_and_dimensions": true,
+  "historical_trace_vertices": {
+    "49": 41,
+    "51": 32
+  },
+  "all_historical_vertices_covered_by_2017_date_polygon": true,
+  "date_polygon_objectid": 19,
+  "method": "NAD83geographic historical vertices toUTM10; recorded pixel-edge extent; no registration fit/manual image adjustment/boundary extraction. Date polygon coverage uses even-odd ring inclusion.",
+  "limits": "Service reprojection not independently validated; source filename dates/date field not exposure-time authentication. Different tide/vegetation/season/radiometry. No displacement, homologous modern marsh boundary or cause established."
+}

@@ -1,0 +1,452 @@
+{
+  "source_id": "S273",
+  "acquired_date": "2026-10-09",
+  "service_url": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2017_CONUS/ImageServer?f=pjson",
+  "catalog_query_url": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2017_CONUS/ImageServer/query?f=pjson&where=category%3D1&geometry=-124.050%2C46.625%2C-124.025%2C46.638&geometryType=esriGeometryEnvelope&inSR=4269&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=4269",
+  "export_request_url": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2017_CONUS/ImageServer/exportImage?f=pjson&bbox=419630.087015083%2C5164130.378818746%2C421355.46490422566%2C5165306.382717083&bboxSR=26910&imageSR=26910&size=1726%2C1177&format=png&bandIds=0%2C1%2C2&interpolation=RSP_NearestNeighbor&adjustAspectRatio=false&mosaicRule=%7B%22mosaicMethod%22%3A+%22esriMosaicLockRaster%22%2C+%22lockRasterIds%22%3A+%5B87267%5D%2C+%22mosaicOperation%22%3A+%22MT_FIRST%22%7D",
+  "locked_item": {
+    "attributes": {
+      "objectid": 87267,
+      "name": "m_4612424_se_10_1_20170827",
+      "minps": 0,
+      "maxps": 9.6,
+      "lowps": 1,
+      "highps": 16,
+      "category": 1,
+      "tag": "Dataset",
+      "groupname": "",
+      "productname": "",
+      "centerx": -13807100.8888176,
+      "centery": 5886152.542124621,
+      "zorder": null,
+      "year": 2017,
+      "state": "WA",
+      "public": "yes",
+      "metadata": null,
+      "resolution": 1
+    },
+    "geometry": {
+      "rings": [
+        [
+          [
+            -124.066530407049,
+            46.621602773804405
+          ],
+          [
+            -124.06658661936987,
+            46.62446482352289
+          ],
+          [
+            -124.06664283977545,
+            46.62732687184716
+          ],
+          [
+            -124.06669906916407,
+            46.63018891813738
+          ],
+          [
+            -124.06675530663742,
+            46.6330509629876
+          ],
+          [
+            -124.06681155309373,
+            46.63591300699166
+          ],
+          [
+            -124.0668678085331,
+            46.63877504889302
+          ],
+          [
+            -124.06692407115885,
+            46.641637089285624
+          ],
+          [
+            -124.06698034366592,
+            46.64449912876325
+          ],
+          [
+            -124.06703662425772,
+            46.64736116606955
+          ],
+          [
+            -124.06709291383254,
+            46.650223202414935
+          ],
+          [
+            -124.06714921149204,
+            46.65308523715984
+          ],
+          [
+            -124.06720551813457,
+            46.65594727028134
+          ],
+          [
+            -124.06726183286183,
+            46.658809301756506
+          ],
+          [
+            -124.06731815657209,
+            46.66167133217893
+          ],
+          [
+            -124.0673744892654,
+            46.66453336090915
+          ],
+          [
+            -124.06743083004338,
+            46.66739538792422
+          ],
+          [
+            -124.0674871789061,
+            46.67025741381766
+          ],
+          [
+            -124.06754353765012,
+            46.673119437950085
+          ],
+          [
+            -124.06759990447885,
+            46.67598146029857
+          ],
+          [
+            -124.06765627939232,
+            46.67884348207284
+          ],
+          [
+            -124.06771266328877,
+            46.681705501400984
+          ],
+          [
+            -124.06776905616826,
+            46.68456751949258
+          ],
+          [
+            -124.06782545713246,
+            46.68742953632476
+          ],
+          [
+            -124.06788186618135,
+            46.69029155187441
+          ],
+          [
+            -124.06365299011215,
+            46.69033094331302
+          ],
+          [
+            -124.0594241041616,
+            46.69037017882663
+          ],
+          [
+            -124.05519521012634,
+            46.69040925779941
+          ],
+          [
+            -124.05096630710804,
+            46.69044818084782
+          ],
+          [
+            -124.04673739510676,
+            46.69048694735606
+          ],
+          [
+            -124.04250847412244,
+            46.69052555732445
+          ],
+          [
+            -124.03827954415513,
+            46.69056401136949
+          ],
+          [
+            -124.0340506061031,
+            46.69060230949156
+          ],
+          [
+            -124.02982165996636,
+            46.690640451074756
+          ],
+          [
+            -124.0255927048466,
+            46.69067843611945
+          ],
+          [
+            -124.02136374074385,
+            46.690716265242166
+          ],
+          [
+            -124.01713476855639,
+            46.690753937827
+          ],
+          [
+            -124.0129057873859,
+            46.69079145449044
+          ],
+          [
+            -124.00867679813074,
+            46.690828814616744
+          ],
+          [
+            -124.00444780079084,
+            46.69086601820614
+          ],
+          [
+            -124.00021879446794,
+            46.69090306587516
+          ],
+          [
+            -123.99598978006034,
+            46.690939957007956
+          ],
+          [
+            -123.99593716639271,
+            46.688077877839255
+          ],
+          [
+            -123.99588456080983,
+            46.685215796143595
+          ],
+          [
+            -123.99583196331162,
+            46.682353713792644
+          ],
+          [
+            -123.99577937299982,
+            46.679491629576845
+          ],
+          [
+            -123.99572679167102,
+            46.67662954413545
+          ],
+          [
+            -123.99567421842693,
+            46.67376745687513
+          ],
+          [
+            -123.99562165326755,
+            46.670905367818726
+          ],
+          [
+            -123.99556909529454,
+            46.668043278222115
+          ],
+          [
+            -123.99551654630459,
+            46.66518118625893
+          ],
+          [
+            -123.99546400450102,
+            46.66231909318499
+          ],
+          [
+            -123.99541147078216,
+            46.659456999023355
+          ],
+          [
+            -123.99535894604631,
+            46.65659490256385
+          ],
+          [
+            -123.99530642849683,
+            46.65373280506253
+          ],
+          [
+            -123.9952539190321,
+            46.65087070592578
+          ],
+          [
+            -123.99520141765203,
+            46.648008605793095
+          ],
+          [
+            -123.99514892435668,
+            46.64514650345419
+          ],
+          [
+            -123.99509643914605,
+            46.64228440016534
+          ],
+          [
+            -123.99504396202015,
+            46.63942229533272
+          ],
+          [
+            -123.9949914920806,
+            46.63656018897932
+          ],
+          [
+            -123.99493903112405,
+            46.63369808112802
+          ],
+          [
+            -123.99488657735395,
+            46.63083597180171
+          ],
+          [
+            -123.99483413256684,
+            46.62797386040649
+          ],
+          [
+            -123.99478169496612,
+            46.62511174819897
+          ],
+          [
+            -123.99472926634841,
+            46.62224963458526
+          ],
+          [
+            -123.99895293039133,
+            46.62221283105736
+          ],
+          [
+            -124.00317658634951,
+            46.62217587141145
+          ],
+          [
+            -124.00740023422296,
+            46.62213875626417
+          ],
+          [
+            -124.01162387401178,
+            46.62210148499817
+          ],
+          [
+            -124.01584750481751,
+            46.6220640582302
+          ],
+          [
+            -124.02007112664026,
+            46.62202647534289
+          ],
+          [
+            -124.02429474127662,
+            46.621988736335986
+          ],
+          [
+            -124.02851834692999,
+            46.62195084182605
+          ],
+          [
+            -124.03274194360029,
+            46.621912791195825
+          ],
+          [
+            -124.0369655321859,
+            46.62187458444498
+          ],
+          [
+            -124.04118911178851,
+            46.62183622219014
+          ],
+          [
+            -124.04541268240816,
+            46.62179770381402
+          ],
+          [
+            -124.04963624494299,
+            46.62175902993327
+          ],
+          [
+            -124.05385979939317,
+            46.62172019931362
+          ],
+          [
+            -124.05808334396202,
+            46.62168121380558
+          ],
+          [
+            -124.06230688044619,
+            46.62164207155797
+          ],
+          [
+            -124.066530407049,
+            46.621602773804405
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 4269,
+        "latestWkid": 4269
+      }
+    }
+  },
+  "request_parameters": {
+    "f": "pjson",
+    "bbox": "419630.087015083,5164130.378818746,421355.46490422566,5165306.382717083",
+    "bboxSR": 26910,
+    "imageSR": 26910,
+    "size": "1726,1177",
+    "format": "png",
+    "bandIds": "0,1,2",
+    "interpolation": "RSP_NearestNeighbor",
+    "adjustAspectRatio": "false",
+    "mosaicRule": "{\"mosaicMethod\": \"esriMosaicLockRaster\", \"lockRasterIds\": [87267], \"mosaicOperation\": \"MT_FIRST\"}"
+  },
+  "returned_extent": {
+    "xmin": 419630.087015083,
+    "ymin": 5164130.378818746,
+    "xmax": 421355.46490422566,
+    "ymax": 5165306.382717083,
+    "spatialReference": {
+      "wkid": 26910,
+      "latestWkid": 26910
+    }
+  },
+  "returned_size": [
+    1726,
+    1177
+  ],
+  "files": [
+    {
+      "path": "sources/originals/cascadia/naip2017/acquisition-dates-query.json",
+      "bytes": 750800,
+      "sha256": "a0a313362c363dd7e6a78d497f4ac1b80ddec79a7629d6e796b75516cff24c21"
+    },
+    {
+      "path": "sources/originals/cascadia/naip2017/catalog-query.json",
+      "bytes": 16270,
+      "sha256": "4c905da83f097897ea498ad4542b5df4ac9b20e4c76fd8bbd58acb26ff18bc99"
+    },
+    {
+      "path": "sources/originals/cascadia/naip2017/export-response.json",
+      "bytes": 394,
+      "sha256": "2700a99d46a1cc63dbbc8e61c42d9a0bd1df26a321ef0ecd07f80411455819da"
+    },
+    {
+      "path": "sources/originals/cascadia/naip2017/islands.png",
+      "bytes": 3177940,
+      "sha256": "fd2504b6f4a97cfeeb9d5ff4c04391a97aad21cab371f153cdbdeccbe301aab8"
+    },
+    {
+      "path": "sources/originals/cascadia/naip2017/service.json",
+      "bytes": 11208,
+      "sha256": "3996a88d706622cb3e2c3efdd9a5e233a1dab86b26f14a3e7bce537a7021f728"
+    }
+  ],
+  "coverage": [
+    {
+      "historical_id": 49,
+      "vertices": 41,
+      "all_vertices_inside_catalog_polygon": true
+    },
+    {
+      "historical_id": 51,
+      "vertices": 32,
+      "all_vertices_inside_catalog_polygon": true
+    }
+  ],
+  "prior_source_id": "S261",
+  "imagery_date_role": "Catalog year2017 and20170827filename; separate acquisition-date field inspected. Timestamp representation is not authenticated exposure time.",
+  "limits": "Rendered service crop, not native original. Returned extent identical to2006; not independent geolocation/registration accuracy. First three bands requested, tide/season/vegetation/class/epoch and exposure time unresolved. No manual image edit, alignment fit or displacement.",
+  "acquisition_date_query_url": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2017_CONUS_AcquisitionDates/MapServer/54/query?f=pjson&where=1%3D1&geometry=-124.050%2C46.625%2C-124.025%2C46.638&geometryType=esriGeometryEnvelope&inSR=4269&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=4269",
+  "acquisition_date_features": [
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "stateab": "WA",
+        "date": 1503813600000,
+        "shape_Length": 1545128.0480011809,
+        "shape_Area": 18818612693.064777
+      },
+      "timestamp_utc_representation": "2017-08-27T02:00:00-04:00"
+    }
+  ]
+}
