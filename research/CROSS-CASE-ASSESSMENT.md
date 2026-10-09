@@ -123,3 +123,8 @@ The [Willapa comparison](WILLAPA-MARSH-COMPARISON.md) adds a genuine spatial dia
 ### 2026-10-09 — Island coverage explanation narrowed
 
 The [exact geometry/photo-inventory follow-up](WILLAPA-ISLAND-COVERAGE.md) places both unmatched historical island traces inside the modern project polygon and kilometres from the actual source-limit line. A local mapped-edge explanation is therefore unsupported; complete coverage still does not follow from polygon inclusion. Nearby MHW geometry and eighteen candidate photo footprints per island make class/feature correspondence testable with named original frames. No same-class match is manufactured, and no disappearance or kilometre-scale movement is inferred.
+
+
+### 2026-10-09 — Separate island image discriminates local contexts
+
+The [recorded NAIP crop](WILLAPA-NAIP2006-IMAGE.md) shows visible land at historical trace49 and water/pale margin under much of51. This separates their modern surface contexts without identifying a homologous marsh boundary. The modern MHWline is a different class and date. Missing same-class records remain unexplained; neither kilometre-scale migration nor abrupt disappearance is measured. Original October photography, historical symbols/revisions and positional uncertainty remain necessary. No global reconstruction or completion follows.

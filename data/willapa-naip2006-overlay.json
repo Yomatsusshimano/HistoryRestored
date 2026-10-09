@@ -1,0 +1,39 @@
+{
+  "source_ids": [
+    "S251",
+    "S252",
+    "S253",
+    "S257",
+    "S261"
+  ],
+  "figure": "research/figures/willapa-naip2006-islands.png",
+  "figure_sha256": "aff7667cf0c5e34e44d7ccdc348ffe37ad18b05e3a3acdc47116d16c23c84344",
+  "placement": "Recorded returned pixel-edge extent EPSG26910; vector EPSG4269 to26910; no fitting, offset or epoch reconciliation.",
+  "coverage": [
+    {
+      "historical_id": 49,
+      "vertices": 41,
+      "all_vertices_inside_selected_catalog_footprint": true
+    },
+    {
+      "historical_id": 51,
+      "vertices": 32,
+      "all_vertices_inside_selected_catalog_footprint": true
+    }
+  ],
+  "modern_candidate": {
+    "FEATURE_ID": 887366.0,
+    "FEATURE": 20.0,
+    "SOURCE_ID": "GC10747",
+    "DATA_SOURC": "D",
+    "SRC_DATE": "20061009",
+    "HOR_ACC": "1.2",
+    "INFORM": "",
+    "RESOLUTION": 0.0,
+    "ATTRIBUTE": "Natural.Mean High Water",
+    "CLASS": "SHORELINE",
+    "EXT_METH": "S",
+    "EXTRACT_TE": "S"
+  },
+  "limits": "Catalog polygon inclusion is not native valid-pixel or complete photographic coverage authentication. MHW and apparent marsh differ; tide and exposure time unknown. Visual comparison supplies no signed change, ecological identification or catastrophe date."
+}

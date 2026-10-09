@@ -1,0 +1,16 @@
+{
+ "href": "https://imagery.geoplatform.gov/iipp/rest/directories/system/arcgisoutput/_ags_ed1b6dd8_50d2_4d2d_a606_bc29bf5bfd56.png",
+ "width": 1726,
+ "height": 1177,
+ "extent": {
+  "xmin": 419630.087015083,
+  "ymin": 5164130.3788187457,
+  "xmax": 421355.46490422566,
+  "ymax": 5165306.3827170832,
+  "spatialReference": {
+   "wkid": 26910,
+   "latestWkid": 26910
+  }
+ },
+ "scale": 0
+}

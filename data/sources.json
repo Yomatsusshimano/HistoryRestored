@@ -4068,6 +4068,21 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S261",
+      "title": "NAIP2006 locked-raster service crop at Willapa historical island traces",
+      "creator": "USDA NAIP; public GeoPlatform imagery service",
+      "publication_date": null,
+      "url": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2006_CONUS/ImageServer",
+      "source_type": "Rendered aerial imagery service derivative and retrieval metadata",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Complete1726x1177crop and unmarked/annotated paired panel inspected; catalog item, actual extent/dimensions and four response hashes checked. Historical49/51vertices inside catalog polygon; no fit applied.",
+      "limitations": "Filename encodes20060624, year2006catalog field; original exposure timestamp unverified. Not native raster or OctoberNOAAframe. Tide, datum operation, epoch and positional accuracy unverified. Tone cannot authenticate vegetation, homologous boundary or displacement.",
+      "local_copy": "sources/originals/cascadia/naip2006/islands.png",
+      "sha256": "d6b1780a9344ecedd1290768d3ae621ad1ea9fdb50475d52aa20e0a06e416bee",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
