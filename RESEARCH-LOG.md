@@ -1144,3 +1144,8 @@ Previous turn was a requested status update and made no research-state progress.
 ### 2026-10-09 — Root tracing and field association
 
 Previous turn made verified public progress at500b23c. Revalidated clean checkout and original source records. Reinspected S60 p1001 field paragraph and S19 p923 table; text-read S231 tracing methods and full TableS1. Distinguished five T rows among eight usable roots from seven T rows in the larger supplement, whose extra two dates are bounds. CP-GF2 has reported .57 width correlation and no T flag; S60 nevertheless explicitly reports sampling one tree. GR777 nonsignificant short width fit and physical tracing retained separately. Added source-reported flags and negative log-P transcription, not recalculated probabilities. No physical slice or current accession inventory inspected; no new source, outreach or independent review.
+
+
+### 2026-10-09 — 1999 processing-report lead inspected
+
+Previous turn made verified public progress at45a0cf2. Revalidated clean checkout. Bounded searches located Yamaguchi1999 pp53-57 in official USGS OFR99-400. Web fetch returned403; normal urllib request with browser user agent recovered hash-recorded110-page PDF. Visually inspected pp53-54 and text-read contribution/references. Title promises processing, but opening explicitly omits it; no original settings recovered. LaPush rooted tree is a resident-tip lead without sample ID or ring result. Follow-up searches found no sample-linked result and do not prove absence. Added S232; kept shared authorship, planned Japan visit, and unverified geographic extension distinct from replication or completed fieldwork. No outreach or review claimed.

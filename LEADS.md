@@ -24,3 +24,8 @@
 | Historical rewriting | A specific before/after attribution chain with dated records, rather than an unnamed global mechanism |
 
 No contacts have been messaged. No field samples collected. Search breadth and denominators remain insufficient to infer prevalence.
+
+
+### Cascadia LaPush follow-up
+
+S232 p54 reports a likely earthquake-killed rooted redcedar near LaPush from a resident tip, without a sample ID or measured final ring. Find a specimen-linked follow-up before extending the dated coastal footprint. See [1999 report audit](research/CASCADIA-1999-PROGRESS.md).

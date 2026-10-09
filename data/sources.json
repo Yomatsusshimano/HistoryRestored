@@ -3636,6 +3636,21 @@
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S232",
+      "title": "The 1700 Cascadia earthquake: Tree-ring data processing, a progress report, and opportunities for continuing Japan-US collaboration",
+      "creator": "David Yamaguchi; proceedings edited by Kenji Satake and David Schwartz",
+      "publication_date": "1999",
+      "url": "https://pubs.usgs.gov/of/1999/0400/report.pdf",
+      "source_type": "Original author workshop contribution, USGS Open-File Report 99-400",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Printed pp.53-54/PDF pp.59-60 visually inspected; contribution text and references pp.53-57 read. PDF contains110 pages. Introduction explicitly omits promised processing; LaPush tree is a reported lead without a measurement result.",
+      "limitations": "Selected contribution only; no processing parameters, specimen inventory or LaPush final-ring measurements. Shared author and earlier-study lineage, not independent replication. Last illustration not visually reviewed.",
+      "local_copy": null,
+      "sha256": "5e8bb4c246b18c921928ee7be3170d25191af4121571aeefdd7658d71f741cf4",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

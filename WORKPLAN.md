@@ -502,3 +502,8 @@ Complete original S61 trunk sequences now correspond exactly to all529 S229 NOAA
 ### 2026-10-09 — Physical linkage reports separated
 
 S19/S231 now distinguish named physical tracing reports, width correlations and limiting root dates. S60 supplies an explicit one-tree field sampling account. Next authenticate CP-GF2 field/accession identity and traced slices, alongside original processed averages; do not continue describing publications as lacking all physical association evidence. Calendar and global reconstruction remain unestablished.
+
+
+### 2026-10-09 — Processing-title lead resolved
+
+S2321999 workshop contribution recovered; processing explicitly omitted despite title, so do not repeat this as an uninspected promised implementation. Exact settings/indices remain missing. LaPush redcedar is a follow-up lead, not measured expansion of the dated footprint. Next original processed files or subsequent detailed methodology and specimen-linked LaPush records. No global completion blocker or reconstruction success claimed.
