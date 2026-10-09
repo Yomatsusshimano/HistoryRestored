@@ -1,0 +1,53 @@
+{
+  "source_id": "S292",
+  "url": "https://archive.org/download/jstor-103305/103305.pdf",
+  "acquired_date": "2026-10-09",
+  "download_bytes": 779478,
+  "download_sha256": "0d3a1632c0267fce8ed7c86510433650130e41c55b561a5e68ccb18487c3ad51",
+  "local_copy": "sources/originals/invention/derham1713/derham1717-article.pdf",
+  "bytes": 712941,
+  "sha256": "5a011b404bc4bca8197b53f13fdfb61f43837e7ca22f4f1a023d33e1bff4c8d7",
+  "transformation": "Downloaded9-page PDF; excluded modern JSTOR cover, retained all8historical scan pages603-610 without cropping. PDF container rewritten with pypdf; not identical download bytes. Last page also begins Brook Taylor article, not included in Derham conclusions.",
+  "rights": "Historical1717 text public domain; modern JSTOR cover excluded. Cover permits noncommercial sharing; no unrestricted master-file license asserted.",
+  "inspection": "All8historical scan pages visually inspected at1500-pixel render; page604 double-year date crop enlarged. Text extraction secondary only; its substantial OCR corruption is not treated as diplomatic transcription.",
+  "date_labels": [
+    {
+      "locator": "p604",
+      "label": "Jan.25,1640/1 displayed stacked",
+      "role": "Reported date of quoted Gascoigne letter; no silent modernization or physical authentication"
+    },
+    {
+      "locator": "p604-605",
+      "label": "Christmas Eve1641",
+      "role": "Reported date of quoted Gascoigne letter"
+    },
+    {
+      "locator": "p605",
+      "label": null,
+      "role": "Date of further Gascoigne letter reported worn out"
+    },
+    {
+      "locator": "p606-608",
+      "label": "October30,1640",
+      "role": "Reported Crabtrie letter date"
+    },
+    {
+      "locator": "p608",
+      "label": "December28,1640",
+      "role": "Reported Crabtrie letter date"
+    },
+    {
+      "locator": "p608-609",
+      "label": "December6,1641",
+      "role": "Reported Crabtrie letter date"
+    }
+  ],
+  "limits": [
+    "Original letters and physical custody unverified",
+    "de la Hire quote only via Derham; separate preface uninspected",
+    "No actual instrument or accuracy trial authenticated",
+    "Derham proposed-publication1713 to printed1717 editorial chain unverified",
+    "Published reception and independent review absent"
+  ],
+  "metadata_dates": "Crossref1717-06-30 retained separately from Archive generic1717-01-01. Neither independently establishes actual distribution day."
+}

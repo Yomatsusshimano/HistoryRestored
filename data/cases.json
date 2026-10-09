@@ -2775,20 +2775,25 @@
           "source_id": "S291",
           "locator": "Crossref title, bibliographic fields and publication date",
           "statement": "Metadata identifies a1717 article with Gascoigne/Crabtrie extracts and a priority-claim title. Contents and exact relation to the1713 proposal remain uninspected."
+        },
+        {
+          "source_id": "S292",
+          "locator": "pp603-610; data/derham1717-acquisition.json",
+          "statement": "Printed intervention includes earlier letter extracts and concrete instrument descriptions. Derham acknowledges de la Hire does not expressly state Picard invented the method, but argues implication and cites Auzout. Missing diagram/date, unfinished workmanship and prospective accuracy statements retained."
         }
       ],
       "physical_evidence": "Two manuscript digital image surfaces inspected; no original paper, ink, instrument or material dating examined.",
-      "surviving_documents": "Royal Society EL/D1/60 manuscript surrogate and rights manifest preserved; publisher metadata locates a later article, whose contents remain uninspected.",
+      "surviving_documents": "Royal Society EL/D1/60 manuscript surrogate; publisher metadata and fully inspected1717 printed intervention quoting earlier letters. Original quoted papers and opposing preface still uninspected.",
       "source_interpretation": "Derham argues Gascoigne deserves priority and proposes publication of earlier correspondence.",
-      "investigation_inference": "A specific contemporary credit dispute and proposed correction route are documented. Technical priority, transmission, editorial action and later acceptance remain unresolved.",
+      "investigation_inference": "Specific credit dispute and a later published intervention are documented. Technical descriptions support testing development history; manuscript-to-publication editorial chain, authenticated priority, transmission and reception remain unresolved. Derham qualifies explicit versus implied credit.",
       "competing_explanations": [
         "Earlier Gascoigne use omitted through incomplete access or knowledge",
         "Independent development with different diagnostic arrangements",
         "Selective attribution or deliberate appropriation requiring evidence of access and intent",
         "Different meanings of first application or invention"
       ],
-      "counterevidence": "The opposed preface and earlier correspondence have not been checked; a partisan allegation and later claim-bearing article title cannot settle priority. The surviving dispute also challenges a claim of uniform historical silence about earlier contributors.",
-      "next_test": "Acquire the1717 extracts and exact de la Hire preface; trace original Gascoigne/Crabtree correspondence, diagnostic designs, custody, replies and reception before judging priority or correction.",
+      "counterevidence": "Derham himself acknowledges the opposing quoted words do not expressly call Picard the inventor. A date and diagram are reported missing; workmanship and precision include unfinished/conditional statements. Quoted originals and independent performance evidence remain unverified; no appropriation or intent established.",
+      "next_test": "Acquire exact de la Hire1687 preface, Auzout issue21 and Towneley issue25; locate original Gascoigne/Crabtree correspondence and diagnostic diagrams, reconcile year conventions and trace custody/reception before judging priority or accepted correction.",
       "chronology": {
         "reported": "1713-11-30 manuscript catalog date; Saint Andrew's Day1713 visible heading;1717-06-30 deposited publication date",
         "dated_object": "Manuscript surrogate and bibliographic record",
@@ -2800,13 +2805,14 @@
       },
       "missing": [
         "Exact opposing preface/edition",
-        "1717 article contents",
         "Original earlier correspondence and custody",
         "Authenticated instrument/design chronology",
         "Reception and editorial response",
-        "Independent review"
+        "Independent review",
+        "Original diagram cited as missing in1717",
+        "Auzout issue21 and Towneley issue25 statements"
       ],
-      "dependence": "Item catalog and manuscript manifest share Royal Society archival lineage. Crossref identifies a later Derham intervention; it is not independent technical confirmation of his earlier allegation. No publication-response chain authenticated."
+      "dependence": "Item catalog and manuscript manifest share Royal Society archival lineage. Crossref identifies a later Derham intervention; it is not independent technical confirmation of his earlier allegation. No publication-response chain authenticated. S292 is the article described by S291, not a separate witness. Its quoted correspondents have distinct reported authors but share Derham selection/transmission; originals not authenticated."
     }
   ]
 }

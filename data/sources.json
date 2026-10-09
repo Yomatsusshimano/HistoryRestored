@@ -4538,6 +4538,22 @@
       "limitations": "Article contents and copied letters not inspected; attempted PDF returned503 twice. Claim-bearing title does not establish priority, reception or an authenticated link to the1713 offer. Access failure is not evidence of loss.",
       "local_copy": "sources/originals/invention/derham1713/publication-crossref.json",
       "sha256": "112279fe1e2ce41bfe7e6fcc94f0ad4cc275c972c9c03a48dfb92883f261d752"
+    },
+    {
+      "id": "S292",
+      "title": "Derham1717: Gascoigne and Crabtrie letter extracts on telescopic sights, pages603-610",
+      "creator": "W. Derham; Philosophical Transactions; JSTOR digital scan via Internet Archive",
+      "publication_date": "1717-06-30",
+      "url": "https://archive.org/download/jstor-103305/103305.pdf",
+      "doi": "10.1098/rstl.1717.0010",
+      "source_type": "Primary printed attribution intervention quoting earlier correspondence",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All8article scan pages603-610 visually inspected. Derham qualification on inferred Picard priority, reported custody via Towneley, technical excerpts and stated missing diagram/date audited. Jan25 stacked1640/1 retained.",
+      "limitations": "Original correspondence, opposing preface, instrument and custody unverified; performance claims not trials. Quoted letters share Derham editorial/custody lineage. Modern cover excluded; last page starts separate Taylor article. No independent review.",
+      "local_copy": "sources/originals/invention/derham1713/derham1717-article.pdf",
+      "sha256": "5a011b404bc4bca8197b53f13fdfb61f43837e7ca22f4f1a023d33e1bff4c8d7",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
