@@ -1292,3 +1292,8 @@ All40historical MHWrecords exact-tested against recorded NAIPextent;22/50/52inte
 ### 2026-10-09 — Intermediate island records and local mechanisms
 
 S262December2010draft recovered viaGovInfo; five text-only pages plus cover visually inspected, excerpt/hash ledger preserved. GrassyIsland attachment,1965–1999tip accretion/later erosion and habitat/management accounts supply alternatives, not trace-specific measurements. S263indexed1966caption gives1955two-part/channel lead; photograph/reverse uninspected after normalTLScertificate failure. Tip estimate not transferred to islands. Next actual1966/1955images,Phipps90-21andWSDOTmaps.25drafts/263sources, no third georeferenced boundary/review/global reconstruction; full twenty goals retained. See research/WILLAPA-INTERMEDIATE-LEADS.md.
+
+
+### 2026-10-09 — Original Phipps methods and selected regression failures
+
+S26439-page scan recovered from government project-library after Ecology403; PDF1–10/14/17/35–39visually inspected. Wet-sand/flotsam photo proxy and separate vegetationedge retained;390/280ftfigures LongBeach not authenticated GrassyIsland. Two A2columns transcribed; JoeJohn recent/Klipsan total slopes match rounded values, JoeJohn total/Klipsan recent fail. Missing years null, signedr and all mismatches retained. File ends at photo index, actual plates/monuments missing. Next photo9/originals and scope/input reconciliation, no ad hoc fitting.25drafts/264sources; full goals active, no independent review. See research/PHIPPS-COASTAL-AUDIT.md.

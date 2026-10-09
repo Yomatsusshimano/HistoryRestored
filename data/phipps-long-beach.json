@@ -1,0 +1,360 @@
+{
+  "source_id": "S264",
+  "source_locator": "Printed TableA2p31 and TableA3p32; PDF37/38",
+  "method": "Manual selected-column transcription, null blanks/dashes, OLS against recorded years; signed Pearson r. No filled missing years.",
+  "measurement": "Feet west of fixed monument to beach elevation +8feet (approximately high tide); vertical datum and monument coordinates not supplied in selected table.",
+  "source_sha256": "b59c0591a78c0ffc78586f9dd68a4397c7292dd015a2faca531dfa5e116b9874",
+  "records": [
+    {
+      "site": "Joe John (XB)",
+      "reported_total_slope_ft_per_year": 14,
+      "reported_since1977_slope_ft_per_year": -3,
+      "reported_total_R": 0.83,
+      "reported_since1977_R": 0.04,
+      "rows": [
+        {
+          "year": 1951,
+          "distance_ft": null
+        },
+        {
+          "year": 1952,
+          "distance_ft": null
+        },
+        {
+          "year": 1953,
+          "distance_ft": null
+        },
+        {
+          "year": 1954,
+          "distance_ft": null
+        },
+        {
+          "year": 1955,
+          "distance_ft": null
+        },
+        {
+          "year": 1956,
+          "distance_ft": null
+        },
+        {
+          "year": 1957,
+          "distance_ft": 500
+        },
+        {
+          "year": 1958,
+          "distance_ft": 570
+        },
+        {
+          "year": 1959,
+          "distance_ft": 600
+        },
+        {
+          "year": 1960,
+          "distance_ft": 580
+        },
+        {
+          "year": 1961,
+          "distance_ft": 600
+        },
+        {
+          "year": 1962,
+          "distance_ft": 580
+        },
+        {
+          "year": 1963,
+          "distance_ft": null
+        },
+        {
+          "year": 1964,
+          "distance_ft": 620
+        },
+        {
+          "year": 1965,
+          "distance_ft": 640
+        },
+        {
+          "year": 1966,
+          "distance_ft": null
+        },
+        {
+          "year": 1967,
+          "distance_ft": 600
+        },
+        {
+          "year": 1968,
+          "distance_ft": 640
+        },
+        {
+          "year": 1969,
+          "distance_ft": 590
+        },
+        {
+          "year": 1970,
+          "distance_ft": 650
+        },
+        {
+          "year": 1971,
+          "distance_ft": 630
+        },
+        {
+          "year": 1972,
+          "distance_ft": 680
+        },
+        {
+          "year": 1973,
+          "distance_ft": 730
+        },
+        {
+          "year": 1974,
+          "distance_ft": 640
+        },
+        {
+          "year": 1975,
+          "distance_ft": 670
+        },
+        {
+          "year": 1976,
+          "distance_ft": 760
+        },
+        {
+          "year": 1977,
+          "distance_ft": null
+        },
+        {
+          "year": 1978,
+          "distance_ft": null
+        },
+        {
+          "year": 1979,
+          "distance_ft": 760
+        },
+        {
+          "year": 1980,
+          "distance_ft": 925
+        },
+        {
+          "year": 1981,
+          "distance_ft": 954
+        },
+        {
+          "year": 1982,
+          "distance_ft": 740
+        },
+        {
+          "year": 1983,
+          "distance_ft": null
+        },
+        {
+          "year": 1984,
+          "distance_ft": null
+        },
+        {
+          "year": 1985,
+          "distance_ft": null
+        },
+        {
+          "year": 1986,
+          "distance_ft": null
+        },
+        {
+          "year": 1987,
+          "distance_ft": null
+        }
+      ],
+      "diagnostics": [
+        {
+          "nominal_start_year": 1951,
+          "actual_first_year": 1957,
+          "actual_last_year": 1982,
+          "n": 22,
+          "ols_slope_ft_per_year": 11.794223313058017,
+          "pearson_r_signed": 0.83724339346296
+        },
+        {
+          "nominal_start_year": 1977,
+          "actual_first_year": 1979,
+          "actual_last_year": 1982,
+          "n": 4,
+          "ols_slope_ft_per_year": -3.1,
+          "pearson_r_signed": -0.036267481791358795
+        }
+      ]
+    },
+    {
+      "site": "Klipsan (XA)",
+      "reported_total_slope_ft_per_year": 14,
+      "reported_since1977_slope_ft_per_year": -12,
+      "reported_total_R": 0.91,
+      "reported_since1977_R": 0.36,
+      "rows": [
+        {
+          "year": 1951,
+          "distance_ft": null
+        },
+        {
+          "year": 1952,
+          "distance_ft": null
+        },
+        {
+          "year": 1953,
+          "distance_ft": null
+        },
+        {
+          "year": 1954,
+          "distance_ft": null
+        },
+        {
+          "year": 1955,
+          "distance_ft": null
+        },
+        {
+          "year": 1956,
+          "distance_ft": null
+        },
+        {
+          "year": 1957,
+          "distance_ft": 400
+        },
+        {
+          "year": 1958,
+          "distance_ft": 440
+        },
+        {
+          "year": 1959,
+          "distance_ft": 490
+        },
+        {
+          "year": 1960,
+          "distance_ft": 460
+        },
+        {
+          "year": 1961,
+          "distance_ft": 510
+        },
+        {
+          "year": 1962,
+          "distance_ft": 480
+        },
+        {
+          "year": 1963,
+          "distance_ft": 500
+        },
+        {
+          "year": 1964,
+          "distance_ft": 580
+        },
+        {
+          "year": 1965,
+          "distance_ft": 580
+        },
+        {
+          "year": 1966,
+          "distance_ft": 550
+        },
+        {
+          "year": 1967,
+          "distance_ft": 620
+        },
+        {
+          "year": 1968,
+          "distance_ft": 620
+        },
+        {
+          "year": 1969,
+          "distance_ft": 690
+        },
+        {
+          "year": 1970,
+          "distance_ft": 700
+        },
+        {
+          "year": 1971,
+          "distance_ft": 670
+        },
+        {
+          "year": 1972,
+          "distance_ft": 670
+        },
+        {
+          "year": 1973,
+          "distance_ft": 720
+        },
+        {
+          "year": 1974,
+          "distance_ft": 680
+        },
+        {
+          "year": 1975,
+          "distance_ft": 650
+        },
+        {
+          "year": 1976,
+          "distance_ft": 790
+        },
+        {
+          "year": 1977,
+          "distance_ft": 806
+        },
+        {
+          "year": 1978,
+          "distance_ft": 825
+        },
+        {
+          "year": 1979,
+          "distance_ft": 670
+        },
+        {
+          "year": 1980,
+          "distance_ft": 760
+        },
+        {
+          "year": 1981,
+          "distance_ft": 790
+        },
+        {
+          "year": 1982,
+          "distance_ft": 670
+        },
+        {
+          "year": 1983,
+          "distance_ft": null
+        },
+        {
+          "year": 1984,
+          "distance_ft": null
+        },
+        {
+          "year": 1985,
+          "distance_ft": null
+        },
+        {
+          "year": 1986,
+          "distance_ft": null
+        },
+        {
+          "year": 1987,
+          "distance_ft": null
+        }
+      ],
+      "diagnostics": [
+        {
+          "nominal_start_year": 1951,
+          "actual_first_year": 1957,
+          "actual_last_year": 1982,
+          "n": 26,
+          "ols_slope_ft_per_year": 14.271794871794873,
+          "pearson_r_signed": 0.9024521910955792
+        },
+        {
+          "nominal_start_year": 1977,
+          "actual_first_year": 1977,
+          "actual_last_year": 1982,
+          "n": 6,
+          "ols_slope_ft_per_year": -19.857142857142858,
+          "pearson_r_signed": -0.545517668253365
+        }
+      ]
+    }
+  ],
+  "limits": "Two named ocean-side beach profiles, not GrassyIsland boundaries. ReportedRpositive with negative rates; signed diagnostic differs in sign. Original observations, full survey uncertainty and aerial photo plates unrecovered. Arithmetic reproduction not independent physical validation."
+}

@@ -138,3 +138,8 @@ The [local MHWaudit](WILLAPA-ISLAND-MHW.md) shows the GrassyIsl source outline d
 ### 2026-10-09 — Intermediate coastal and vegetation alternatives have retrieval targets
 
 The [intermediate-source audit](WILLAPA-INTERMEDIATE-LEADS.md) recovers selected2010draft habitat/coastal accounts and identifies a1966photo caption with1955island-shape reports. These make attachment, channel development, accretion/erosion and vegetation management testable alternatives; neither source authenticates change at the chosen vector coordinates. The actual intermediate images and source measurements remain needed. This advances discrimination without creating a catastrophe chronology.
+
+
+### 2026-10-09 — Original coastal methods constrain transferred claims
+
+The [Phipps source audit](PHIPPS-COASTAL-AUDIT.md) separates approximate photo high-tide proxies, vegetation edges and monument-based beach levels. LongBeachaggregate vegetation distances are not independently located at GrassyIsland. Selected slope/correlation mismatches are preserved alongside reproducing calculations; they warrant input/scope recovery without inferring young terrain or intentional fabrication. Intermediate original island photo plates remain missing.

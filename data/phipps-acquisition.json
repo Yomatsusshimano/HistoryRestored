@@ -1,0 +1,36 @@
+{
+  "source_id": "S264",
+  "download_url": "https://www.ezview.wa.gov/DesktopModules/Documents2/View.aspx?ItemID=110712&alias=2014&mid=81250&tabID=41973",
+  "listing_url": "https://www.ezview.wa.gov/site/alias__2014/41973/library.aspx",
+  "acquired_date": "2026-10-09",
+  "bytes": 1959126,
+  "sha256": "b59c0591a78c0ffc78586f9dd68a4397c7292dd015a2faca531dfa5e116b9874",
+  "pages": 39,
+  "visually_inspected_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    14,
+    17,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "text_extraction": "All39pages returned empty strings; noOCR/fulltext review",
+  "edition_dates": {
+    "cover": "1990-08",
+    "interim": "1989-04",
+    "editorial_revision": "1990-04"
+  },
+  "access_failure": "Ecology summary endpoint403; separate public government-library download succeeded using normalTLS.",
+  "limits": "Public linked source not republished; remaining pages unreviewed. File ends at printed33photo index; actual indexed plates/originals not acquired."
+}

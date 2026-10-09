@@ -4113,6 +4113,21 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S264",
+      "title": "Coastal Accretion and Erosion in Southwest Washington1977–1987, Ecology90-21",
+      "creator": "James B. Phipps; Washington Department of Ecology",
+      "publication_date": "1990-08",
+      "url": "https://www.ezview.wa.gov/DesktopModules/Documents2/View.aspx?ItemID=110712&alias=2014&mid=81250&tabID=41973",
+      "source_type": "Original agency coastal-study scan, government project-library delivery",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF1–10/14/17/35–39visual review; printed methods3–4, LongBeach8, vegetation11, appendix29–33. Selected JoeJohn/Klipsan columns transcribed and regression comparisons executed.",
+      "limitations": "Selected scan portions, not39page/fulltext review. Photo wet-sand/flotsam proxy and50ftaccuracy not field MHW authentication. Original indexed photo plates and monument coordinates missing. Selected published regression discrepancies retained; not GrassyIsland displacement.",
+      "local_copy": null,
+      "sha256": "b59c0591a78c0ffc78586f9dd68a4397c7292dd015a2faca531dfa5e116b9874",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
