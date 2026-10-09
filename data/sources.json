@@ -4152,10 +4152,25 @@
       "url": "https://nsde.ngs.noaa.gov/downloads/T-09637N.zip",
       "source_type": "Original federal field-inspection and compilation report scan",
       "access": "SCAN_INSPECTED",
-      "inspected": "PDF1-24 of35 visually inspected; printed10/item7a dated island MHW connection,printed16-17 plot methods and17a-17b control sketch/legend. PDF25-35 uninspected.",
-      "limitations": "Same project/fieldwork as S265,not independent shoreline confirmation. Originalphoto/annotatedprint/fieldsheet absent;June6/30conflict unresolved. T9637N raster excludes island; joint report includes target. No onset,permanence,displacement or cause inferred.",
+      "inspected": "All35PDFpages visually inspected; PDF11 dated island MHW connection,PDF20-21 control sketch,PDF31 chart-use log,PDF32-33 October1957adjacent-sheet edits/accuracy,PDF34-35 April1958review. No substantive OCR/fulltext review.",
+      "limitations": "Same project/fieldwork as S265,not independent shoreline confirmation. Originalphoto/annotatedprint/fieldsheet absent;June6/30conflict unresolved. T9637N raster excludes island; joint report includes target. No onset,permanence,displacement or cause inferred. Later contour check375/450does not equal printed83.5percent; cause unknown. No explicit later target-island observation found in report; adjacent-sheet accuracy not transferable.",
       "local_copy": "sources/originals/cascadia/T-9637.PDF",
       "sha256": "bdbc264e6be518766f4230810c9c694a244519a504b31f455e5d0e0da923551f",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S267",
+      "title": "NOAA NGS 1950 aerial photography inventory: national footprint shapefile",
+      "creator": "NOAA National Geodetic Survey",
+      "publication_date": null,
+      "url": "https://www.ngs.noaa.gov/web/APOS2/download/shp/NOAA_NGS_IMAGERY_1950.ZIP",
+      "source_type": "Federal aerial-photo footprint and attribute inventory; not original imagery",
+      "access": "CATALOG_METADATA",
+      "inspected": "All1479records,48WArecords,geographicNAD83PRJ; inclusive Willapa bbox and national1613/1614exposure-number searches executed,zero matches.",
+      "limitations": "This inventory version does not locate target50-O-1613. Absence from inventory is not physical photograph loss or absence of survey; year/day agreement alone cannot authenticate another frame.",
+      "local_copy": "sources/originals/cascadia/NOAA_NGS_IMAGERY_1950.ZIP",
+      "sha256": "0f5bcfae1bbca5efb0da2fed87e5dac9cc6c901d38df70446a58b669620f314c",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }

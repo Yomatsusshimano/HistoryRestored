@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Later report scope and negative original-frame inventory search
+
+S266all35report pages visually inspected: later1957edits/1958review add adjacent-sheet context, not an explicit new island observation.375/450versusprinted83.5percent discrepancy retained. S2671950inventory all1479records/48WAchecked; zeroWillapafootprints and1613/1614numbermatches. Originalframe still missing; inventory absence not loss.25drafts/267sources; no independent review, no event cause, full twenty outcomes active. See [field and inventory assessment](WILLAPA-1953-FIELD-OBSERVATION.md).
+
 ### 2026-10-09 — Dated continuous waterline and intermittent channel
 
 The [joint field-report audit](WILLAPA-1953-FIELD-OBSERVATION.md) supplies an explicit June6,1953reported continuous MHWboundary between GrassyIsland/LeadbetterPoint and a channel at other times. This strengthens intermediate configuration dating at report level and challenges permanent-topology assumptions. Same-project map and narrative are dependent; originalframe/fieldsheet, June30form conflict and comparable shoreline uncertainty remain. No attachment onset, change rate or catastrophe cause follows. All twenty outcomes remain active.

@@ -1,0 +1,39 @@
+{
+  "source_id": "S267",
+  "accessed_date": "2026-10-09",
+  "url": "https://www.ngs.noaa.gov/web/APOS2/download/shp/NOAA_NGS_IMAGERY_1950.ZIP",
+  "local_copy": "sources/originals/cascadia/NOAA_NGS_IMAGERY_1950.ZIP",
+  "bytes": 111516,
+  "sha256": "0f5bcfae1bbca5efb0da2fed87e5dac9cc6c901d38df70446a58b669620f314c",
+  "coordinate_reference_text": "GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]",
+  "query_bbox_west_south_east_north": [
+    -124.3,
+    46.4,
+    -123.9,
+    46.85
+  ],
+  "selection_method": "Inclusive footprint bounding-box intersection; no point-center substitution",
+  "total_records": 1479,
+  "washington_records": 48,
+  "washington_roll_counts": {
+    "50OP14": 45,
+    "50OP19": 3
+  },
+  "washington_reported_center_extent": {
+    "longitude": [
+      -123.62611,
+      -122.42611
+    ],
+    "latitude": [
+      47.6575,
+      48.18861
+    ]
+  },
+  "exposure_1613_or_1614_matches": [],
+  "query_bbox_matches": [],
+  "limits": [
+    "Inventory absence does not establish physical loss or absence of survey.",
+    "Exposure number is not a unique cross-year identifier; target also requires roll/date/place authentication.",
+    "No original image, annotated enlargement or field sheet recovered."
+  ]
+}

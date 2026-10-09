@@ -34,9 +34,7 @@
     21,
     22,
     23,
-    24
-  ],
-  "uninspected_pdf_pages": [
+    24,
     25,
     26,
     27,
@@ -49,6 +47,7 @@
     34,
     35
   ],
+  "uninspected_pdf_pages": [],
   "text_extraction": "All pages yield only two characters; no substantive fulltext or OCR review.",
   "observations": [
     {
@@ -73,5 +72,28 @@
     "Original photograph1613,annotated ratio print,planetable field sheet and date-conflict reconciliation absent.",
     "No emergence/attachment onset date,permanence,shoreline displacement or event cause inferred.",
     "T9637N raster itself stops south of island; report covers T9634/T9637 fieldwork jointly."
-  ]
+  ],
+  "later_field_edit": {
+    "locator": "PDF32-33",
+    "report_date": "1957-10-02",
+    "sheet": "T9637",
+    "listed_field_photos": [
+      "50-O-1617",
+      "50-O-1618",
+      "50-O-1619",
+      "50-O-1621"
+    ],
+    "explicit_target_island_reobservation_found": false,
+    "scope_limit": "No explicit later target observation in this inspected report; not absence of physical change or other records."
+  },
+  "accuracy_arithmetic": {
+    "locator": "PDF33,item53",
+    "tested_points": 450,
+    "points_within_half_contour_interval": 375,
+    "printed_percent": 83.5,
+    "calculated_percent": 83.33333333333334,
+    "matches_at_one_decimal": false,
+    "cause": null,
+    "scope": "Adjacent T9637 contour check; not target-island shoreline uncertainty or independently validated corrected map."
+  }
 }
