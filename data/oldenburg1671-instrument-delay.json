@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S309",
+  "reference": "EL/O2/58",
+  "url": "https://makingscience.royalsociety.org/items/el_o2_58/letter-from-henry-oldenburg-to-johannes-hevelius-dated-at-london",
+  "catalog_date": "1671-11-09",
+  "visible_closing_date": "Dat. Londini, Nov. 9. 71.",
+  "date_role": "Reported composition date; calendar not independently authenticated or converted.",
+  "catalog_extent": "2 pages",
+  "delivered_surfaces": 2,
+  "coverage": "Both delivered manuscript surfaces visually inspected at delivery resolution. Selected closing passage read directly; no full diplomatic transcription or independently reviewed translation.",
+  "manifest_path": "sources/originals/invention/oldenburg1671/manifest.json",
+  "manifest_sha256": "f7b056162af3188a196b9022e5cc934e414c95321cd08d1338559fbe76b56e16",
+  "rights": "http://creativecommons.org/licenses/by/4.0/legalcode",
+  "attribution": "The Royal Society",
+  "images": [
+    {
+      "locator": "image1",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_O2%2FEL_O2_58%2Ftif%2FEL_O2_58_0001.ptif/full/!2400,2400/0/default.jpg",
+      "local_path": "sources/originals/invention/oldenburg1671/image-1.jpg",
+      "bytes": 674125,
+      "sha256": "2cf01fb8829c0ae908dfa009376f229a298d1d1ce4902c8cfd9bdeb463658d47",
+      "dimensions": [
+        1532,
+        2400
+      ],
+      "inspected": true
+    },
+    {
+      "locator": "image2",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/EL%2FEL_O2%2FEL_O2_58%2Ftif%2FEL_O2_58_0002.ptif/full/!2400,2400/0/default.jpg",
+      "local_path": "sources/originals/invention/oldenburg1671/image-2.jpg",
+      "bytes": 640766,
+      "sha256": "b73921bc6d06471ffa19253b750b0987493f39e8d53e74032ed446d29e380ede",
+      "dimensions": [
+        1548,
+        2400
+      ],
+      "inspected": true
+    }
+  ],
+  "findings": [
+    {
+      "locator": "image1 opening paragraph",
+      "observation": "Microscope and requested books are described in a chest entrusted to a named carrier; Oldenburg expresses confidence it has reached Hevelius.",
+      "limit": "Sender assurance, not an independently inspected recipient receipt or authenticated surviving object; not the small-distance instrument."
+    },
+    {
+      "locator": "image2 final paragraph",
+      "selected_latin_tokens": [
+        "Video Te aegre ferre",
+        "promissum jamdudum",
+        "instrumentum",
+        "dimetiendis minoribus distantijs aptum",
+        "tam diu retardari",
+        "negotiorum turba",
+        "Ego urgere non desinam"
+      ],
+      "reading": "Oldenburg acknowledges Hevelius taking badly the long delay of an instrument for measuring small distances promised by Hooke. Hooke attributes delay to the press of business, promises fulfillment when possible, and Oldenburg says he will continue urging him.",
+      "limit": "Provisional direct reading, not a certified translation. Reported explanation and promise do not establish the true cause, delivery date or final fulfillment."
+    },
+    {
+      "locator": "image2 middle",
+      "observation": "Letter includes a lunar-eclipse observation passage attributed to Hooke with September 8, 1671 heading and timed phases.",
+      "limit": "Copied report within correspondence, not an independently inspected Hooke original or calibrated trial of the delayed instrument. Numerical eclipse data not transcribed or modeled here."
+    },
+    {
+      "locator": "both surfaces",
+      "observation": "Corrections, insertions and an entered-Letter-Book annotation are visible.",
+      "limit": "Draft/sent-copy status, hand identity, intervention dates, authenticity and continuous custody not independently established."
+    }
+  ],
+  "order_identity": {
+    "prior_commission_source": "S308",
+    "prior_register_source": "S307",
+    "same_instrument_or_order": null,
+    "reason": "Similar small-distance function and Hooke connection support a follow-up, but no order number, part identification, dimensions or explicit1667commission cross-reference is established."
+  },
+  "limits": [
+    "No final shipment or receipt for the small-distance instrument.",
+    "No surviving-object identification, actual accuracy measurement or exclusive priority determination.",
+    "No independently reviewed Latin translation or physical authentication.",
+    "No ancient recovery or deliberate historical rewriting established."
+  ],
+  "other_leads": {
+    "EL/H2/18": "Item HTML and manifest acquired locally. Eight surfaces NOT inspected or acquired as images. Catalog earliest possible date January1,1668 is not a confirmed composition date; reading dates December17,1668 and January7,1669 concern different sections. Telescope-sending description remains catalog metadata, not recipient proof.",
+    "1669_delay": "Secondary locator suggests Oldenburg August2,1669; original letter not yet acquired. Secondary interpretation not accepted as primary evidence."
+  },
+  "next_test": "Locate original August2,1669 correspondence and Hevelius request/receipt replies; establish identity with1667making order before assigning fulfillment. Seek actual making/shipping accounts and observation tables."
+}

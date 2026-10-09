@@ -1575,3 +1575,10 @@ Previous goal turn made progress:3d994e7 published and16files publicly byte-veri
 S308 seventeen selected scan surfaces inspected.1667object-production and repository/Hevelius making orders reported; actual fulfillment and calibration unverified.1967reproduction imprint and literalNovember4/14conflict preserved; original minutes inaccessible. See [meeting audit](research/GASCOIGNE-ATTRIBUTION.md).27 drafts/308 sources; all twenty objectives active, no independent review.
 
 Previous goal turn made progress:13caf16published and18files publicly byte-verified; clean checkout revalidated. JBOcatalog403respected. Archive smaller PDF initially500, then successfully acquired after terminal failure; alternate large copy terminal90secondtimeout remained incomplete/excluded. Same58253/24885/79869handles polled toterminal results, no restart for observation timeout. Googlecandidate resolved to wrong book and was excluded. PDF/scandata offset corrected against visible pages before conclusions. Seventeen surfaces visually inspected; original minutes, whole volume, completed instrument orders, calibrated trial, outreach and independent review not claimed.
+
+
+### 2026-10-09 — Original letter reports delayed small-distance instrument
+
+S309 two Oldenburg1671manuscript surfaces visually inspected and CC-BY deliveries preserved. Closing acknowledges Hooke's long-delayed promise, reported business explanation and renewed commitment. Opening microscope/books are separate. Same1667order, actual cause, final fulfillment and calibration unknown. See [correspondence audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/309sources; all twenty objectives active, no independent review.
+
+Previous status turn was no research progress: it revalidated state but changed no evidence records. This turn inspected original1671letter and narrowed fulfillment inference. EL/H2/18 web timeout did not end task; normal-TLS curl obtained item/manifest, images uninspected. Catalog request failure respected. Secondary quotations used only as locators. No outreach, physical authentication, full transcription, translation review or goal completion claimed.

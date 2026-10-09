@@ -4784,6 +4784,20 @@
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "local_copy": ""
+    },
+    {
+      "id": "S309",
+      "title": "Oldenburg to Hevelius,9November1671: delayed small-distance instrument",
+      "creator": "Henry Oldenburg; Royal Society Archives",
+      "publication_date": "1671-11-09",
+      "url": "https://makingscience.royalsociety.org/items/el_o2_58/letter-from-henry-oldenburg-to-johannes-hevelius-dated-at-london",
+      "source_type": "Digitized manuscript correspondence",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Both delivered manuscript surfaces visually inspected at delivery resolution. Selected closing passage read directly; no full diplomatic transcription or independently reviewed translation.",
+      "limitations": "Sender assurance of microscope/books arrival is separate from explicit small-distance instrument delay. Same1667commission unestablished. Corrections visible; draft/hand/custody not authenticated. Selected Latin reading provisional, no independent translation review or final fulfillment evidence.",
+      "accessed_date": "2026-10-09",
+      "local_copy": "sources/originals/invention/oldenburg1671/README.md",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

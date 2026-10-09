@@ -344,3 +344,8 @@ S307 eight delivery views/seven numbered pages inspected and preserved with Roya
 ### 2026-10-09 — Meeting compilation and commissioning evidence
 
 S308 seventeen selected scan surfaces inspected.1667object-production and repository/Hevelius making orders reported; actual fulfillment and calibration unverified.1967reproduction imprint and literalNovember4/14conflict preserved; original minutes inaccessible. See [meeting audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/308 sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Original letter reports delayed small-distance instrument
+
+S309 two Oldenburg1671manuscript surfaces visually inspected and CC-BY deliveries preserved. Closing acknowledges Hooke's long-delayed promise, reported business explanation and renewed commitment. Opening microscope/books are separate. Same1667order, actual cause, final fulfillment and calibration unknown. See [correspondence audit](GASCOIGNE-ATTRIBUTION.md).27drafts/309sources; all twenty objectives active, no independent review.
