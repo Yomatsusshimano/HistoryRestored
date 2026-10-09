@@ -54,3 +54,8 @@ The [locality map and coverage ledger](WILDLIFE-GEOGRAPHY.md) now distinguish te
 ## Moxee mortality versus deposition check
 
 The [Moxee audit](MOXEE-MAMMOTH.md) adds physical weathering evidence and a reported collagen assay. It challenges treating fossil burial as automatically simultaneous with death. It also shows why a reworked tusk in an upper unit cannot by itself date lower units relative to the animal's death. Neither a delay duration nor shared regional burial is established.
+
+
+## Pooled cave comparator
+
+The [2026Hispaniola audit](HISPANIOLA-POOLED-DATES.md) adds C028: three pooled bone assays with separated reported envelopes. It makes the distinction between biological age and final deposition explicit; different ages neither demonstrate separate deposition nor establish later catastrophic movement. Regional overlap with an earlier rat assay does not establish local coexistence. An unresolved citation endpoint discrepancy is preserved rather than corrected to fit historical expectations. Earlier sloth input records and calculations are unchanged.

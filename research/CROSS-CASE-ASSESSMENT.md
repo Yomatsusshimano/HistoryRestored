@@ -369,3 +369,8 @@ S313/S314 all four body/address surfaces inspected/preserved. Flamsteed reports 
 ### 2026-10-09 — Printed Saturn extraction and observer correction
 
 S315 completep3034scan inspected/preserved, seven selected comparisons toS313. Micrometer and other topics omitted under explicitSaturn-extract scope; intent unknown. EarlierJonesreading corrected toquotedI lately/Towneley. Crossref1671/Archive1753metadata conflict retained. See [print audit](GASCOIGNE-ATTRIBUTION.md).27drafts/315sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Pooled cave dates and deposition limits
+
+C028/S316 adds three pooled assays from Pozimán Cadena. Reported envelopes require227years to touch all three; this is pool-age geometry, not a mortality confidence bound or deposition chronology. Earlier-rat citation endpoints, nominal mass and metric boundary flags retained. Text portions accessed; figures/supplement uninspected. See [audit](HISPANIOLA-POOLED-DATES.md).28drafts/316sources; all twenty objectives active, no independent review.

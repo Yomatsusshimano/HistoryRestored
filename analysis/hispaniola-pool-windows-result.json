@@ -1,0 +1,113 @@
+{
+  "status": "RETROSPECTIVE_CONDITIONAL_ENVELOPE_COMPARISON",
+  "input_sha256": "27f1c997f07077dbcdc4630c3da6aaec97f5fe51d988671e3b734f6da35e5123",
+  "comparisons": [
+    {
+      "lab_ids": [
+        "RICH-24986",
+        "RICH-24977"
+      ],
+      "reported_calendar_envelopes_CE": [
+        [
+          1406,
+          1453
+        ],
+        [
+          1680,
+          1940
+        ]
+      ],
+      "intersection_CE": null,
+      "minimum_touching_window_years": 227,
+      "duration_feasibility": {
+        "0": false,
+        "1": false,
+        "10": false,
+        "100": false,
+        "200": false,
+        "250": true
+      }
+    },
+    {
+      "lab_ids": [
+        "RICH-24986",
+        "RICH-27406"
+      ],
+      "reported_calendar_envelopes_CE": [
+        [
+          1406,
+          1453
+        ],
+        [
+          1660,
+          1950
+        ]
+      ],
+      "intersection_CE": null,
+      "minimum_touching_window_years": 207,
+      "duration_feasibility": {
+        "0": false,
+        "1": false,
+        "10": false,
+        "100": false,
+        "200": false,
+        "250": true
+      }
+    },
+    {
+      "lab_ids": [
+        "RICH-24986",
+        "RICH-24977",
+        "RICH-27406"
+      ],
+      "reported_calendar_envelopes_CE": [
+        [
+          1406,
+          1453
+        ],
+        [
+          1680,
+          1940
+        ],
+        [
+          1660,
+          1950
+        ]
+      ],
+      "intersection_CE": null,
+      "minimum_touching_window_years": 227,
+      "duration_feasibility": {
+        "0": false,
+        "1": false,
+        "10": false,
+        "100": false,
+        "200": false,
+        "250": true
+      }
+    }
+  ],
+  "regional_comparison": {
+    "new_pool_CE": [
+      1406,
+      1453
+    ],
+    "earlier_rat_S36_ledger_CE_arithmetic": [
+      1435,
+      1460
+    ],
+    "earlier_rat_S316_citation_CE": [
+      1435,
+      1468
+    ],
+    "intersection_each_version_CE": [
+      1435,
+      1453
+    ]
+  },
+  "limits": [
+    "Pool dates do not date each individual or deposition.",
+    "Marginal envelopes omit probability structure; no joint confidence assigned.",
+    "Regional overlap is not same-site coexistence or causal interaction.",
+    "S36 conversion is arithmetic only; no calibration rerun or transcription resolution."
+  ]
+}

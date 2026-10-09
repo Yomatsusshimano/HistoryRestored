@@ -4882,6 +4882,20 @@
       "accessed_date": "2026-10-09",
       "local_copy": "sources/originals/invention/flamsteed-print/saturn-extract-p3034.pdf",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S316",
+      "title": "New direct radiocarbon dates constrain the timing of Nesophontes spp.: Extinction and the arrival of Rattus rattus on Hispaniola (Greater Antilles)",
+      "creator": "Alejandro Valenzuela, Enric Torres-Roig and Josep Antoni Alcover",
+      "publication_date": "2026-06-18",
+      "url": "https://journals.sagepub.com/doi/10.1177/09596836261458223",
+      "source_type": "Original research article; publisher HTML and extracted PDF text",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher HTML methods, Tables 1-2, figure captions, Results and Discussion; PDF text portions pp1271-1274 cross-read. No visual scan inspection achieved. Figures themselves and supplement uninspected.",
+      "limitations": "Three pooled assays; no independent field/lab validation. PDF figures/scans and supplement uninspected; downloads403. Individual extinction and deposition not directly dated. Citation interval/nominal mass/metric boundary flags retained.",
+      "accessed_date": "2026-10-09",
+      "local_copy": "",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

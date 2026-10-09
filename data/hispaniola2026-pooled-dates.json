@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-09",
+  "status": "SOURCED_DRAFT_NOT_INDEPENDENTLY_REVIEWED",
+  "source_id": "S316",
+  "url": "https://journals.sagepub.com/doi/10.1177/09596836261458223",
+  "access": "FULL_TEXT_PORTION",
+  "coverage": "Publisher HTML methods, Tables 1-2, figure captions, Results and Discussion; PDF text portions pp1271-1274 cross-read. No visual scan inspection achieved. Figures themselves and supplement uninspected.",
+  "publication_date": "2026-06-18",
+  "issue_date": "2026-10",
+  "site": {
+    "name": "Pozimán Cadena",
+    "country": "Dominican Republic",
+    "latitude": 17.744975,
+    "longitude": -71.402884,
+    "datum": "WGS84",
+    "coordinate_role": "Reported cenote locality, not individual bone coordinates",
+    "elevation_m_asl_upper_bound": 80,
+    "stratification": "No clear stratification reported; rats uppermost and slightly offset from most Nesophontes material",
+    "origin": "Owl pellet accumulation proposed by authors; no independent field inspection"
+  },
+  "calibration_as_reported": "OxCal v4.4, IntCal20; Table 2 reports 95.4% ranges, not full probability distributions",
+  "pretreatment_as_reported": "Mechanical cleaning, HCl demineralization, NaOH humic removal, gelatinization at pH3/90C, freeze drying; modified Longin/KIK-IRPA protocol",
+  "rows": [
+    {
+      "source_id": "S316",
+      "lab_id": "RICH-24977",
+      "taxon": "Rattus rattus",
+      "locator": "Table 2; Results; Figure 2 caption",
+      "museum_id": null,
+      "pooled": true,
+      "elements_as_reported": "Eight partial hemimandibles",
+      "individual_count": null,
+      "results_radiocarbon_BP": 120,
+      "results_error": 28,
+      "table_radiocarbon_BP": 120,
+      "table_error": 30,
+      "reported_2sigma_calendar_CE": [
+        1680,
+        1940
+      ],
+      "starting_dry_bone_mass_g": 1.63,
+      "collagen_yield_percent": 4.0,
+      "carbon_percent": 31.6,
+      "nitrogen_percent": 11.5,
+      "atomic_CN": 3.2,
+      "delta13C_permil": -19.8,
+      "delta15N_permil": 11.0,
+      "original_lab_report_inspected": false
+    },
+    {
+      "source_id": "S316",
+      "lab_id": "RICH-27406",
+      "taxon": "Rattus rattus",
+      "locator": "Table 2; Results; Figure 2 caption",
+      "museum_id": null,
+      "pooled": true,
+      "elements_as_reported": "Two hemimandibles, one each side",
+      "individual_count": null,
+      "results_radiocarbon_BP": 160,
+      "results_error": 22,
+      "table_radiocarbon_BP": 160,
+      "table_error": 20,
+      "reported_2sigma_calendar_CE": [
+        1660,
+        1950
+      ],
+      "starting_dry_bone_mass_g": 0.51,
+      "collagen_yield_percent": 5.7,
+      "carbon_percent": 19.5,
+      "nitrogen_percent": 7.0,
+      "atomic_CN": 3.3,
+      "delta13C_permil": -19.6,
+      "delta15N_permil": 10.6,
+      "original_lab_report_inspected": false
+    },
+    {
+      "source_id": "S316",
+      "lab_id": "RICH-24986",
+      "taxon": "Nesophontes hypomicrus",
+      "locator": "Table 2; Results; Figure 2 caption",
+      "museum_id": null,
+      "pooled": true,
+      "elements_as_reported": "Six hemimandible fragments and six humeral fragments",
+      "individual_count": null,
+      "results_radiocarbon_BP": 486,
+      "results_error": 29,
+      "table_radiocarbon_BP": 490,
+      "table_error": 30,
+      "reported_2sigma_calendar_CE": [
+        1406,
+        1453
+      ],
+      "starting_dry_bone_mass_g": 0.27,
+      "collagen_yield_percent": 2.8,
+      "carbon_percent": 31.8,
+      "nitrogen_percent": 10.7,
+      "atomic_CN": 3.5,
+      "delta13C_permil": -18.8,
+      "delta15N_permil": 10.7,
+      "original_lab_report_inspected": false
+    }
+  ],
+  "crosswalk": {
+    "lab_id": "UCIAMS 191028",
+    "S36_original_ledger_cal_BP": [
+      490,
+      515
+    ],
+    "S36_CE_arithmetic_only": [
+      1435,
+      1460
+    ],
+    "S316_cited_CE_range": [
+      1435,
+      1468
+    ],
+    "resolution": null,
+    "limit": "S316 cites same 435±15 BP result but has different upper endpoint from arithmetic conversion of the existing S36 transcription. Original S36 scan not freshly inspected, recalibration/endpoint convention not resolved. No input silently replaced."
+  },
+  "audit_flags": [
+    {
+      "locator": "Methods; Table 2",
+      "finding": "Stated nominal minimum bone mass approximately0.4–0.5g; Nesophontes starting mass0.27g below it.",
+      "limit": "Protocol exceptions and raw lab records uninspected; this alone does not invalidate assay."
+    },
+    {
+      "locator": "Table 1; Results",
+      "finding": "Observed minimum ramus depth1.99mm versus stated diagnostic minimum2.0mm; prose says all measurements within range.",
+      "limit": "Rounded boundary, multiple diagnostic characters and individual measurements uninspected; no taxonomic reassignment."
+    },
+    {
+      "locator": "Discussion on earliest rat date",
+      "finding": "An early reported calibrated range is retained despite authors interpreting post1492 arrival.",
+      "limit": "Historical expectation or calibration complexity cannot by itself supply a measured correction. Actual arrival and specimen identification need their own evidence."
+    },
+    {
+      "locator": "Results and Discussion on deposition",
+      "finding": "Different biological pool ages are interpreted as later rat deposition.",
+      "limit": "Without specimen-linked deposition ages, separated bone ages do not exclude later co-deposition."
+    }
+  ],
+  "access_limits": [
+    "Normal TLS HTML/PDF and DOCX downloads returned403; respected.",
+    "Web PDF screenshot requests yielded only text references, no inspectable images.",
+    "Supplement web fetch unsupported DOCX; supplement not read."
+  ],
+  "limits": [
+    "Pooled collagen dates are not dates of each individual or of extinction.",
+    "No raw assays, blanks, replicate dating or individual pool contributions recovered.",
+    "Calendar envelopes are not a joint statistical test or full disjoint calibration sets.",
+    "No direct Haitian sloth redating, flood horizon, chronology rewrite or causal extinction proof."
+  ],
+  "next_test": "Acquire supplement individual measurements, original pooled-assay certificates and excavation positions; independently recover S36 Table2 and exact calibration outputs before resolving the earliest-rat endpoint discrepancy."
+}

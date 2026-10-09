@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-27 sourced drafts; 0 independent scientific reviews.
+28 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -34,6 +34,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C025 | Chicago grade proposals, river works and Lake Street building raising,1855-1861 |
 | C026 | 1715 London-Paris eclipse observations and chronology diagnostics |
 | C027 | Gascoigne telescopic sights: a documented attribution dispute |
+| C028 | Hispaniolan cave microfauna: pooled bone ages versus deposition |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -1136,3 +1137,31 @@ Place: Upminster, reported origin of Derham letter; instrument locations unverif
 **Chronology:** {"reported": "1713-11-30 manuscript catalog date; Saint Andrew's Day1713 visible heading;1717-06-30 deposited publication date", "dated_object": "Manuscript surrogate and bibliographic record", "method": "Selected visual reading and publisher metadata", "raw_date": "1713-11-30", "uncertainty": null, "timescale": "Historical calendar labels; physical age unverified", "event_association": "Letter date is not an invention date"}
 
 **Missing:** Original1687remaining table/instrument sections and p71edition; Continuous earlier correspondence/device custody and making/receipt chain; Authenticated instrument/design chronology; Reception and editorial response; Independent review; Original diagram cited as missing in1717; Unnamed watchmaker identity and instrument accession; Original physical plate/fold configuration; Instrument calibration and fabrication records; Authenticated Towneley original/autograph and copy production date; Independent fraction/count and unit/reference reconciliation; Gascoigne-to-Oughtred original and Bevis copying/custody authentication; WilliamJones/Macclesfield custody chain and authority for insertedprintclause; Bevisabove40years referencepoint; FullShort1753article and manuscriptnote association; Other Bouguer volume plates, exact1666edition and original calibration/observation records; OriginalHuygens1659/Malvasia1662/Picard1671and1693reprint editorial authority; Edition of de la Hire Tablesp71 cited in1717 and observed calibration trials
+
+## C028: Hispaniolan cave microfauna: pooled bone ages versus deposition
+
+Place: Pozimán Cadena, Jaragua National Park, Dominican Republic. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Three pooled collagen dates from one cenote assemblage have separated reported calendar envelopes; deposition and extinction remain unmeasured. Earlier rat citation endpoints and analytical/context limitations retained. [S316](https://journals.sagepub.com/doi/10.1177/09596836261458223). Locator: Methods, Tables1-2, Results and Discussion; data/hispaniola2026-pooled-dates.json. Access: FULL_TEXT_PORTION. Limit: Three pooled assays; no independent field/lab validation. PDF figures/scans and supplement uninspected; downloads403. Individual extinction and deposition not directly dated. Citation interval/nominal mass/metric boundary flags retained.
+
+**Physical evidence:** Published pooled bone measurements and reported locality; no bones, excavation or lab records inspected.
+
+**Surviving documents:** Publisher HTML/text portions; source linked, not copied. Structured pool ledger and reproducible interval comparison.
+
+**Source interpretation:** Authors infer later rat deposition and possible regional invasion/extinction association; no direct causation claimed.
+
+**Investigation inference:** Reported pool envelopes challenge a simultaneous pooled biological-age assignment. Different death ages do not by themselves prove separate deposition; regional age overlap does not prove interaction.
+
+**Counterevidence:** One cave concentration is not demonstrated simultaneous mortality. Pooled samples and unknown individual contributions prevent an individual death/extinction estimate.
+
+**Next test:** Acquire supplement individual measurements, original pooled-assay certificates and excavation positions; independently recover S36 Table2 and exact calibration outputs before resolving the earliest-rat endpoint discrepancy.
+
+**Dependence:** Three pooled assays share study, lab and calibration. S316 cites S36; repeated earliest-rat result is not an independent assay. Locality coordinates are not individual findspots.
+
+**Alternatives:** Time-averaged owl-pellet accumulation; Later movement/co-deposition of older bones, if independently demonstrated; Introduced-species and landscape pressures, requiring causal evidence; A shared catastrophe, requiring a dated horizon and transport evidence
+
+**Chronology:** {"reported": "Three radiocarbon results, rounded table variants and separate95.4% calendar envelopes", "dated_object": "Pooled bone collagen", "method": "AMS radiocarbon, OxCal4.4/IntCal20 as reported", "raw_date": null, "uncertainty": null, "timescale": "RadiocarbonBP and calibratedCE kept separate", "event_association": "UNTESTED"}
+
+**Missing:** Individual contribution weights and specimen museum identifiers; Original laboratory certificates, blanks and replicate assays; Supplement and visual figure inspection; Specimen-specific deposition ages; Independent review
