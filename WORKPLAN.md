@@ -492,3 +492,8 @@ Source-selected local master supports CPGF2NW's published relative placement und
 ### 2026-10-09 — Candidate GF2 root/trunk linkage
 
 Published all18 comparisons: annual-difference variants consistently favor source placements; one raw-width comparison does not. Next verify specimen identity and root/trunk field linkage, original combined processing and final-ring anatomy. Common absolute calendar shifts are outside this relative test's scope.
+
+
+### 2026-10-09 — GF2 original trunk records identified
+
+Complete original S61 trunk sequences now correspond exactly to all529 S229 NOAA widths and assigned years, with seven initial manual-reading corrections retained. Dataset-label crosswalk is verified; physical root/trunk specimen linkage remains open. Next recover specimen/field inventory and original processed averages, not further duplicate numerical matches. Absolute chronology and all twenty completion requirements remain unchanged.

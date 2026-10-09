@@ -1134,3 +1134,8 @@ Preceding status update was no progress; last substantive checkpoint was the ver
 ### 2026-10-09 — Candidate root/trunk alignment
 
 Previous turn made verified public progress. Revalidated clean checkout, corrected root records and NOAA trunk acquisition. Reinspected S61 PDF p3 table image; compared two complete root series against three candidate CPGF2 trunk series under raw/log-difference/width-difference processing. All full-overlap shifts retained. Published-position Pearson values checked by independent centered dot-product formula. All12 annual-difference variants favor published relative positions, while one raw-width variant retains a different maximum. Identifier/physical crosswalk remains candidate; no absolute date, original-method reproduction, new source, outreach or independent review claimed.
+
+
+### 2026-10-09 — Original Cascadia trunk-table crosswalk
+
+Previous turn was a requested status update and made no research-state progress. Revalidated clean checkout and publicly retrieved latest eight files. Visually inspected S61 PDF pp.4-5 and enlarged trunk table; transcribed all529 widths from three trunk series. Initial GF2TRNW transcription had seven mismatches; enlarged scan confirmed corrections, retained in the ledger. All three corrected series match NOAA by value, assigned year and end-marker position. This verifies dataset correspondence, not physical sample identity, independent dating or original-method reproduction. Updated case and source records; no new source, outreach or independent review.

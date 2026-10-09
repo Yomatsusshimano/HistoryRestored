@@ -1069,7 +1069,7 @@
       "publication_date": "1997",
       "source_type": "Original measurement supplement",
       "access": "SCAN_INSPECTED",
-      "inspected": "PDF pp. 1-4, 43 and 45 visually inspected; API metadata and file MD5 verified. Complete GF2RTC series on PDF p. 3 manually transcribed and visually checked. Enlarged 200-dpi recheck corrected seven GF2RTC transcription errors; GF2RTB completed from pp. 3-4.",
+      "inspected": "PDF pp. 1-4, 43 and 45 visually inspected; API metadata and file MD5 verified. Complete GF2RTC series on PDF p. 3 manually transcribed and visually checked. Enlarged 200-dpi recheck corrected seven GF2RTC transcription errors; GF2RTB completed from pp. 3-4. PDF pp.4-5 trunk tables visually inspected and all529 widths transcribed; enlarged p.5 recheck corrected seven initial GF2TRNW reading errors, retained in data/cascadia-trunk-crosswalk.json. All three sequences match S229 NOAA records exactly by assigned year.",
       "limitations": "45-page file versus 37-page cover/catalog retained; partial transcription only. Published dates not independently crossdated.",
       "local_copy": null,
       "sha256": "daa3895a61dc5fa0bdb4dc6e3b3ccb07e76e9873f523ed24cdd40a4bd1349740",

@@ -32,3 +32,7 @@ The earlier regional/local-reference exceptions for shorter CPGF2 records theref
 The scans and numerical transcription have been inspected, but independent transcription review remains absent. Seven earlier GF2RTC digitization errors were corrected and recorded before this calculation. Source-assigned years and a shared shift of roots and trunks leave these correlations unchanged, so this test cannot establish the absolute calendar or detect a uniform chronology transformation.
 
 The published S231 root/trunk statistic uses processed, combined radii and reports255-year overlap; our individual comparisons do not reproduce that statistic. No significance probability or earthquake-day estimate is supplied. Physical anatomy, bark preservation, chain of custody and the GF2-to-CPGF2 specimen crosswalk still require direct evidence. No corrected historical date, global catastrophe link or independent-review status follows.
+
+## Subsequent documentary crosswalk
+
+The [original trunk-table comparison](CASCADIA-TRUNK-CROSSWALK.md) now matches all529 widths and assigned years of GF2TRA/GF2TRB/GF2TRNW to NOAA's CPGF2A/CPGF2B/CPGF2NW. This verifies correspondence between the numerical records and strengthens the documentary basis for the candidate link. It does not authenticate physical root/trunk identity. Exact duplicate measurements are dependent evidence; the relative-pattern results above are unchanged.
