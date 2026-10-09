@@ -1550,6 +1550,11 @@
           "source_id": "S141",
           "locator": "p.69; Cuban comparator only",
           "statement": "Original report supplies human assay identity and a sloth-element description needing reconciliation with the later dated specimen."
+        },
+        {
+          "source_id": "S36",
+          "locator": "Table2anddiscussionp5; research/HAITI-RAT-CALIBRATION.md",
+          "statement": "Original rat range confirmed490–515calBP; independent simplified IntCal20 diagnostic yields two pre1492high-densitysegments, providing an unresolved interval-summary lead for2026citation. Not a rat-arrival or sloth-redating result."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
@@ -1562,7 +1567,7 @@
         "A common mortality episode, requiring an explicit fit and age-quality audit"
       ],
       "counterevidence": "These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.",
-      "next_test": "Recover original sloth preparation and endpoint specimen assays; compare new rodent dates with sample-specific excavation context before inferring deposition.",
+      "next_test": "Recover exact CALIB8.2/OxCal4.4 segments and UCIAMS191028specimen/lab certificates; retain original sloth preparation and depositional-context gaps.",
       "chronology": {
         "reported": "Sample-level radiocarbon results and separately published calendar intervals",
         "dated_object": "Bone samples",
@@ -2986,6 +2991,11 @@
           "source_id": "S316",
           "locator": "Methods, Tables1-2, Results and Discussion; data/hispaniola2026-pooled-dates.json",
           "statement": "Three pooled collagen dates from one cenote assemblage have separated reported calendar envelopes; deposition and extinction remain unmeasured. Earlier rat citation endpoints and analytical/context limitations retained."
+        },
+        {
+          "source_id": "S36",
+          "locator": "Table2anddiscussionp5; research/HAITI-RAT-CALIBRATION.md",
+          "statement": "Original rat range confirmed490–515calBP; independent simplified IntCal20 diagnostic yields two pre1492high-densitysegments, providing an unresolved interval-summary lead for2026citation. Not a rat-arrival or sloth-redating result."
         }
       ],
       "physical_evidence": "Published pooled bone measurements and reported locality; no bones, excavation or lab records inspected.",
@@ -2999,7 +3009,7 @@
         "A shared catastrophe, requiring a dated horizon and transport evidence"
       ],
       "counterevidence": "One cave concentration is not demonstrated simultaneous mortality. Pooled samples and unknown individual contributions prevent an individual death/extinction estimate.",
-      "next_test": "Acquire supplement individual measurements, original pooled-assay certificates and excavation positions; independently recover S36 Table2 and exact calibration outputs before resolving the earliest-rat endpoint discrepancy.",
+      "next_test": "Recover exact CALIB8.2/OxCal4.4 segments and UCIAMS191028specimen/lab certificates; retain original sloth preparation and depositional-context gaps.",
       "chronology": {
         "reported": "Three radiocarbon results, rounded table variants and separate95.4% calendar envelopes",
         "dated_object": "Pooled bone collagen",

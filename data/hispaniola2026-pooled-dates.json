@@ -115,7 +115,8 @@
       1468
     ],
     "resolution": null,
-    "limit": "S316 cites same 435±15 BP result but has different upper endpoint from arithmetic conversion of the existing S36 transcription. Original S36 scan not freshly inspected, recalibration/endpoint convention not resolved. No input silently replaced."
+    "limit": "S316 cites same 435±15 BP result but has different upper endpoint from arithmetic conversion of the existing S36 transcription. Original S36 scan not freshly inspected, recalibration/endpoint convention not resolved. No input silently replaced.",
+    "reinspection_2026_10_09": "Original S36Table2visually confirms490–515calBP. Separate diagnostic contains two segments extending toabout1468CE; publication difference cause remains unresolved."
   },
   "audit_flags": [
     {
@@ -150,5 +151,5 @@
     "Calendar envelopes are not a joint statistical test or full disjoint calibration sets.",
     "No direct Haitian sloth redating, flood horizon, chronology rewrite or causal extinction proof."
   ],
-  "next_test": "Acquire supplement individual measurements, original pooled-assay certificates and excavation positions; independently recover S36 Table2 and exact calibration outputs before resolving the earliest-rat endpoint discrepancy."
+  "next_test": "Recover original calibration outputs, specimen/lab certificates, supplement and excavation positions; see research/HAITI-RAT-CALIBRATION.md."
 }

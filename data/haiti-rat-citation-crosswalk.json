@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-09",
+  "source_ids": [
+    "S36",
+    "S316",
+    "S128"
+  ],
+  "lab_id": "UCIAMS191028",
+  "museum_id": "UF293844",
+  "original_PDF_sha256": "661ea9fb790d3344c6000ad0ad701e154d4657eaf6e8aff04a741bfb404ff808",
+  "inspection": "Local7-page NSF-hosted PDF; pages4and5visually reinspected, preparation/site/calibration and original Table2/discussion. PDF retained locally, redistribution rights not assumed.",
+  "original_table_cal_BP": [
+    490,
+    515
+  ],
+  "calendar_CE_arithmetic": [
+    1435,
+    1460
+  ],
+  "S316_cited_CE": [
+    1435,
+    1468
+  ],
+  "cause_resolution": null,
+  "diagnostic_interpretation": "Separate IntCal20 diagnostic contains a second high-density segment approximately1464–1468CE. Different segment summaries are a plausible explanation; original software outputs not acquired, cause unauthenticated.",
+  "context": "Top5cm sediment yielded multiple native/invasive taxa. Bags removed for later sorting; dated mandibles selected from museum collection. Individual dated mandible excavation positions not recovered.",
+  "preparation": "About150mg bone,0.5NHCl demineralization,0.001NNaOH humic removal,approximately0.001NHCl gelatinization,1.5micron glass-fiber filtration,lyophilization, UCIrvineAMS. Collagen yield assessed but individual values not tabulated.",
+  "uncertainty_summary": "Table Mean±1sigma label conflicts with footnote describing construction from rounded2sigma ranges; this summary not used in calibration diagnostic.",
+  "scientific_limits": [
+    "No verified1492species-arrival date from this specimen.",
+    "No original certificates, repeat dating or specimen-level dietary correction.",
+    "S36 identifiesRattussp., not authenticatedRattusrattus for this mandible.",
+    "Published interval divergence does not establish fabrication or automatically invalidate an assay.",
+    "No probability of historical rat introduction inferred from conditional calibration mass."
+  ],
+  "next_test": "Recover exact CALIB8.2/OxCal4.4 output segments and lab certificate; check mandible photographs/identity, carbon-isotope measurements and excavation accession records before any dietary offset or arrival inference."
+}

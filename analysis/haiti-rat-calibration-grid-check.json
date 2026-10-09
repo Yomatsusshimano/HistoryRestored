@@ -1,0 +1,68 @@
+{
+  "purpose": "Discretization check only, not scientific validation",
+  "variants": [
+    {
+      "grid_step_years": 0.5,
+      "mode_CE": 1448.0,
+      "equal_tail_95_4_CE": [
+        1437.0,
+        1468.0
+      ],
+      "highest_density_95_4_segments_CE": [
+        [
+          1435.5,
+          1460.5
+        ],
+        [
+          1464.0,
+          1468.0
+        ]
+      ],
+      "conditional_grid_mass_CE_at_or_after1492": 0.00037076930078102564,
+      "conditional_mass_CE_1463_to1470": 0.03466348067426889,
+      "first_last10year_mass": 7.370887372781898e-37
+    },
+    {
+      "grid_step_years": 0.25,
+      "mode_CE": 1448.0,
+      "equal_tail_95_4_CE": [
+        1437.0,
+        1468.25
+      ],
+      "highest_density_95_4_segments_CE": [
+        [
+          1435.25,
+          1460.25
+        ],
+        [
+          1463.75,
+          1468.25
+        ]
+      ],
+      "conditional_grid_mass_CE_at_or_after1492": 0.0003670926641334189,
+      "conditional_mass_CE_1463_to1470": 0.033727613837738174,
+      "first_last10year_mass": 6.296785049437713e-37
+    },
+    {
+      "grid_step_years": 0.125,
+      "mode_CE": 1448.0,
+      "equal_tail_95_4_CE": [
+        1437.0,
+        1468.125
+      ],
+      "highest_density_95_4_segments_CE": [
+        [
+          1435.25,
+          1460.375
+        ],
+        [
+          1463.625,
+          1468.25
+        ]
+      ],
+      "conditional_grid_mass_CE_at_or_after1492": 0.0003654401559215241,
+      "conditional_mass_CE_1463_to1470": 0.033261150871290154,
+      "first_last10year_mass": 5.798436320867277e-37
+    }
+  ]
+}

@@ -374,3 +374,8 @@ S315 completep3034scan inspected/preserved, seven selected comparisons toS313. M
 ### 2026-10-09 — Pooled cave dates and deposition limits
 
 C028/S316 adds three pooled assays from Pozimán Cadena. Reported envelopes require227years to touch all three; this is pool-age geometry, not a mortality confidence bound or deposition chronology. Earlier-rat citation endpoints, nominal mass and metric boundary flags retained. Text portions accessed; figures/supplement uninspected. See [audit](HISPANIOLA-POOLED-DATES.md).28drafts/316sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Original early-rat row and separate calibration diagnostic
+
+S36pages4/5visually reinspected;490–515calBPconfirmed. Separate IntCal20diagnostic has two95.4%segments near1435–1460and1464–1468CE; possible interval-summary explanation forS316citation, cause unverified. No-offset conditional post1492massapproximately0.0367%, not an arrival probability. Three-grid check passed; specimen identity/diet/raw assays remain open. See [audit](HAITI-RAT-CALIBRATION.md).28drafts/316sources; all twenty objectives active, no independent review.

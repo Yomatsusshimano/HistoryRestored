@@ -91,3 +91,8 @@ The current Haitian supplement attempts again returned a PMC browser check and E
 The same page describes a right lower sloth incisor fragment at 20-30 cm, with possible mixing of pre-existing fossil material into occupation debris. S140 instead describes its dated tooth as a molariform. These descriptions cannot yet be joined as one specimen. The submission record, accession history or original specimen photographs must resolve whether this is different terminology, an identification revision or different material. The published depth therefore remains unassigned to Beta 206173.
 
 This recovered context strengthens the case for testing reworking locally, but does not establish its mechanism, date, or a regional flood. It also supplies a concrete laboratory identifier for further preparation/certification checks. No human identity or sloth-human interaction is inferred from the shared site.
+
+
+## Rat citation follow-up
+
+The [original-table and calibration follow-up](HAITI-RAT-CALIBRATION.md) now confirms S36Table2visually and supplies a separate two-segment diagnostic. The publication-summary cause remains unresolved; no empirical date correction or pre-contact arrival is established. The no-offset model retains the early result as a challenge to investigate. Original sloth dates and mortality comparisons are unchanged.

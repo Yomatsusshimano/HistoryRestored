@@ -37,3 +37,8 @@ The reported Nesophontes starting mass0.27g falls below the methods' nominal0.4â
 Quality indicators are now available for these pools, unlike the still-incomplete earlier Haitian sloth quality audit. They do not validate the sloth assays or establish absence of contamination in the new pools. No original lab certificates, blanks or repeat dating were inspected.
 
 Next recover the supplementary specimen measurements, laboratory records and excavation positions, then resolve the S36citation against its original table/calibration output. No common flood horizon, exact extinction date, historical fabrication mechanism or independent review is established. All twenty original objectives remain active.
+
+
+## Rat citation follow-up
+
+The [original-table and calibration follow-up](HAITI-RAT-CALIBRATION.md) now confirms S36Table2visually and supplies a separate two-segment diagnostic. The publication-summary cause remains unresolved; no empirical date correction or pre-contact arrival is established. The no-offset model retains the early result as a challenge to investigate. Original sloth dates and mortality comparisons are unchanged.

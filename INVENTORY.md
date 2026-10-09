@@ -536,10 +536,11 @@ Place: Haiti and Ile de la Tortue; sample-specific localities in dating records.
 **Sourced statements**
 
 - Nine specimen-linked AMS bone determinations extracted, retaining exact ages, a lower bound and split calendar intervals separately. [S22](https://pmc.ncbi.nlm.nih.gov/articles/PMC1187974/). Locator: Table 4 and caption; Figure 2 caption. Access: FULL_TEXT_PORTION. Limit: No laboratory worksheets, specimens, preparation audit, supplementary text or recalibration. Supplement link returned browser check. Historical paper, not a current literature consensus review.
-- Eight new rodent collagen dates from Trouing Jeremie 5 provide same-site temporal context, not remeasurements of the sloth specimens. [S36](https://doi.org/10.1177/09596836221101279). Locator: Site description and methods p. 4; Table 2 p. 5. Access: SCAN_INSPECTED. Limit: Different specimens from 2005 sloths. Raw assays, probability distributions and sample-specific depositional positions not audited. Table summary uncertainty label conflicts with footnote derivation.
+- Eight new rodent collagen dates from Trouing Jeremie 5 provide same-site temporal context, not remeasurements of the sloth specimens. [S36](https://doi.org/10.1177/09596836221101279). Locator: Site description and methods p. 4; Table 2 p. 5. Access: SCAN_INSPECTED. Limit: Different specimens from 2005 sloths. Raw assays, probability distributions and sample-specific depositional positions not audited. Table summary uncertainty label conflicts with footnote derivation. UCIAMS191028calendar range precedes stated1492contact;2026citation differs in endpoint. Separate simplified diagnostic is not original software reproduction or arrival dating.
 - Purified collagen is reported; nine printed carbon-isotope values are retained in a separate incomplete specimen-quality audit. [S22](https://pmc.ncbi.nlm.nih.gov/articles/PMC1187974/). Locator: Introduction and Table 4, p. 11766. Access: FULL_TEXT_PORTION. Limit: No laboratory worksheets, specimens, preparation audit, supplementary text or recalibration. Supplement link returned browser check. Historical paper, not a current literature consensus review.
 - Additional island evidence is retained separately; it does not redetermine any Haitian specimen. [S140](https://www.researchgate.net/publication/228491381_Prehistoric_Sloth_Extinctions_in_Cuba_Implications_of_a_New_Last_Appearance_Date). Locator: pp.94-95; separate Cuban comparator. Access: FULL_TEXT_PORTION. Limit: No laboratory certificates, raw quality measurements or specimen inspection. Mirror is not independent replication.
 - Original report supplies human assay identity and a sloth-element description needing reconciliation with the later dated specimen. [S141](https://web.archive.org/web/20180425103634id_/http://www.cubaarqueologica.org/document/bga3.pdf). Locator: p.69; Cuban comparator only. Access: SCAN_INSPECTED. Limit: Published report, not original field notebook or laboratory certificate. Sloth specimen correspondence unresolved.
+- Original rat range confirmed490–515calBP; independent simplified IntCal20 diagnostic yields two pre1492high-densitysegments, providing an unresolved interval-summary lead for2026citation. Not a rat-arrival or sloth-redating result. [S36](https://doi.org/10.1177/09596836221101279). Locator: Table2anddiscussionp5; research/HAITI-RAT-CALIBRATION.md. Access: SCAN_INSPECTED. Limit: Different specimens from 2005 sloths. Raw assays, probability distributions and sample-specific depositional positions not audited. Table summary uncertainty label conflicts with footnote derivation. UCIAMS191028calendar range precedes stated1492contact;2026citation differs in endpoint. Separate simplified diagnostic is not original software reproduction or arrival dating.
 
 **Physical evidence:** Published biological sample measurements; no specimens or field sections inspected here.
 
@@ -551,7 +552,7 @@ Place: Haiti and Ile de la Tortue; sample-specific localities in dating records.
 
 **Counterevidence:** These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.
 
-**Next test:** Recover original sloth preparation and endpoint specimen assays; compare new rodent dates with sample-specific excavation context before inferring deposition.
+**Next test:** Recover exact CALIB8.2/OxCal4.4 segments and UCIAMS191028specimen/lab certificates; retain original sloth preparation and depositional-context gaps.
 
 **Dependence:** One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations.
 
@@ -1145,6 +1146,7 @@ Place: Pozimán Cadena, Jaragua National Park, Dominican Republic. Status: SOURC
 **Sourced statements**
 
 - Three pooled collagen dates from one cenote assemblage have separated reported calendar envelopes; deposition and extinction remain unmeasured. Earlier rat citation endpoints and analytical/context limitations retained. [S316](https://journals.sagepub.com/doi/10.1177/09596836261458223). Locator: Methods, Tables1-2, Results and Discussion; data/hispaniola2026-pooled-dates.json. Access: FULL_TEXT_PORTION. Limit: Three pooled assays; no independent field/lab validation. PDF figures/scans and supplement uninspected; downloads403. Individual extinction and deposition not directly dated. Citation interval/nominal mass/metric boundary flags retained.
+- Original rat range confirmed490–515calBP; independent simplified IntCal20 diagnostic yields two pre1492high-densitysegments, providing an unresolved interval-summary lead for2026citation. Not a rat-arrival or sloth-redating result. [S36](https://doi.org/10.1177/09596836221101279). Locator: Table2anddiscussionp5; research/HAITI-RAT-CALIBRATION.md. Access: SCAN_INSPECTED. Limit: Different specimens from 2005 sloths. Raw assays, probability distributions and sample-specific depositional positions not audited. Table summary uncertainty label conflicts with footnote derivation. UCIAMS191028calendar range precedes stated1492contact;2026citation differs in endpoint. Separate simplified diagnostic is not original software reproduction or arrival dating.
 
 **Physical evidence:** Published pooled bone measurements and reported locality; no bones, excavation or lab records inspected.
 
@@ -1156,7 +1158,7 @@ Place: Pozimán Cadena, Jaragua National Park, Dominican Republic. Status: SOURC
 
 **Counterevidence:** One cave concentration is not demonstrated simultaneous mortality. Pooled samples and unknown individual contributions prevent an individual death/extinction estimate.
 
-**Next test:** Acquire supplement individual measurements, original pooled-assay certificates and excavation positions; independently recover S36 Table2 and exact calibration outputs before resolving the earliest-rat endpoint discrepancy.
+**Next test:** Recover exact CALIB8.2/OxCal4.4 segments and UCIAMS191028specimen/lab certificates; retain original sloth preparation and depositional-context gaps.
 
 **Dependence:** Three pooled assays share study, lab and calibration. S316 cites S36; repeated earliest-rat result is not an independent assay. Locality coordinates are not individual findspots.
 

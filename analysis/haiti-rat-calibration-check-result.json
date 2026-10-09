@@ -1,0 +1,42 @@
+{
+  "source_ids": [
+    "S36",
+    "S128"
+  ],
+  "lab_id": "UCIAMS 191028",
+  "museum_id": "UF 293844",
+  "radiocarbon_BP": 435,
+  "error_1sigma": 15,
+  "input_sha256": "04102e640752ef68d0b3ec0f4ea4dd4e0f7cb80840adbd6fb5eec6037d6a43ec",
+  "curve_sha256": "974a66649f2ac8a53e6c99e256b019ac6982f999b12dcf7193162d4c1c09168e",
+  "curve_rows": 9501,
+  "method": "Gaussian assay likelihood; linearly interpolated IntCal20 mean/sigma; sum of assay and curve variances; discrete uniform prior1000\u20131950CE; no reservoir offset.",
+  "grid_step_years": 0.25,
+  "mode_CE": 1448.0,
+  "equal_tail_95_4_CE": [
+    1437.0,
+    1468.25
+  ],
+  "highest_density_95_4_segments_CE": [
+    [
+      1435.25,
+      1460.25
+    ],
+    [
+      1463.75,
+      1468.25
+    ]
+  ],
+  "highest_density_actual_grid_mass": 0.9541314022557253,
+  "conditional_grid_mass_CE_at_or_after1492": 0.0003670926641334189,
+  "conditional_mass_CE_1463_to1470": 0.033727613837738174,
+  "first_last10year_mass": 6.296785049437713e-37,
+  "limitations": [
+    "Not CALIB8.2 or OxCal4.4 reproduction; curve smoothing/interval algorithms differ.",
+    "Uniform calendar prior and no-offset model are assumptions, not verified specimen history.",
+    "Conditional mass is not probability of rat arrival or historical fabrication.",
+    "No taxonomic, reservoir, contamination, raw-assay or deposition validation.",
+    "Reported published intervals retained; diagnostic does not replace them."
+  ],
+  "scientific_validation": false
+}
