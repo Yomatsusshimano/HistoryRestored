@@ -1,0 +1,423 @@
+{
+  "source_id": "S257",
+  "pyshp_version": "3.1.6",
+  "pyproj_version": "3.8.0",
+  "archive_sha256": "c609f677f8856cfa2cb00528c26464a99f8e785a486047cd061ac74de16d9b26",
+  "members": [
+    {
+      "name": "WA0401D-readme.txt",
+      "bytes": 72,
+      "sha256": "0bb0ef8e04703546524f52b6e15bd23e26c12f7c9f88a9526d5cb2fcc488604f"
+    },
+    {
+      "name": "projbnd.dbf",
+      "bytes": 957,
+      "sha256": "11c8921cb5551b53a4abd4574c9bd9b8e37d01cb322c7588e60428d187ba375f"
+    },
+    {
+      "name": "projbnd.prj",
+      "bytes": 379,
+      "sha256": "4ea5393376c5c4889d0248691cb7c51b7493bfb09a83014a0bd6d1549dd4e26a"
+    },
+    {
+      "name": "projbnd.shp",
+      "bytes": 236,
+      "sha256": "1b23246a0bc9057b638eac7cb730217ddfc247c84278686da94c3a00ec1d69c6"
+    },
+    {
+      "name": "projbnd.shx",
+      "bytes": 108,
+      "sha256": "15b816aa4f1a489173461db8ad58996b6504a6930d6e6e5e786ab357b1c201de"
+    },
+    {
+      "name": "softcopyl1.dbf",
+      "bytes": 4968069,
+      "sha256": "fd6e36c80461c600e48e274afe4dd123b7e66da481987e560e0f1f172a8150af"
+    },
+    {
+      "name": "softcopyl1.prj",
+      "bytes": 379,
+      "sha256": "4ea5393376c5c4889d0248691cb7c51b7493bfb09a83014a0bd6d1549dd4e26a"
+    },
+    {
+      "name": "softcopyl1.shp",
+      "bytes": 3322372,
+      "sha256": "9628df12cc85265a1c7dc7ea859d6189f7024c0bb6a6429bd87b94b221294216"
+    },
+    {
+      "name": "softcopyl1.shx",
+      "bytes": 16756,
+      "sha256": "a4319b00f6f0af081507bb78204d08fdd27c165990624623ddd48a0e998dee01"
+    },
+    {
+      "name": "softcopyp1.dbf",
+      "bytes": 336843,
+      "sha256": "40159869e82bab6cc1be4e38c1056a8f7d3e9254398e217424b103e4348f1b78"
+    },
+    {
+      "name": "softcopyp1.prj",
+      "bytes": 379,
+      "sha256": "4ea5393376c5c4889d0248691cb7c51b7493bfb09a83014a0bd6d1549dd4e26a"
+    },
+    {
+      "name": "softcopyp1.shp",
+      "bytes": 4048,
+      "sha256": "7ed473b39515ae49a9dc69a189a22b2033990354138a65fe5aacada700edbf3d"
+    },
+    {
+      "name": "softcopyp1.shx",
+      "bytes": 1228,
+      "sha256": "a4d9dc9994df9b4e37b9097d2756ff77d26006452284ca9aff8a4029804c204f"
+    }
+  ],
+  "tables": {
+    "softcopyl1": {
+      "count": 2082,
+      "shape_type": 3,
+      "bounds": [
+        -124.159327874343,
+        46.3219555099111,
+        -123.73053192507,
+        46.800129408718
+      ],
+      "crs_wkt": "GEOGCS[\"NAD83\", DATUM[\"North American Datum 1983\", SPHEROID[\"GRS 1980\", 6378137.0, 298.257222101, AUTHORITY[\"EPSG\",\"7019\"]], TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], AUTHORITY[\"EPSG\",\"6269\"]], PRIMEM[\"Greenwich\", 0.0, AUTHORITY[\"EPSG\",\"8901\"]], UNIT[\"degree\", 0.017453292519943295], AXIS[\"Geodetic longitude\", EAST], AXIS[\"Geodetic latitude\", NORTH], AUTHORITY[\"EPSG\",\"4269\"]]",
+      "is_bound_crs": true,
+      "underlying_crs_epsg": null,
+      "attribute_counts": {
+        "FEATURE": {
+          "23.0": 73,
+          "20.0": 453,
+          "18.0": 88,
+          "177.0": 2,
+          "2.0": 34,
+          "15.0": 375,
+          "161.0": 130,
+          "54.0": 88,
+          "53.0": 50,
+          "143.0": 22,
+          "10.0": 33,
+          "202.0": 26,
+          "172.0": 262,
+          "82.0": 5,
+          "193.0": 258,
+          "206.0": 36,
+          "91.0": 2,
+          "29.0": 4,
+          "9.0": 9,
+          "162.0": 3,
+          "28.0": 4,
+          "164.0": 1,
+          "165.0": 1,
+          "204.0": 1,
+          "26.0": 2,
+          "11.0": 1,
+          "153.0": 37,
+          "176.0": 24,
+          "94.0": 2,
+          "81.0": 1,
+          "90.0": 1,
+          "93.0": 2,
+          "84.0": 4,
+          "55.0": 8,
+          "167.0": 8,
+          "32.0": 21,
+          "44.0": 2,
+          "144.0": 4,
+          "179.0": 4,
+          "46.0": 1
+        },
+        "ATTRIBUTE": {
+          "Natural.River Or Stream": 73,
+          "Natural.Mean High Water": 453,
+          "Natural.Great Lake Or Lake Or Pond": 88,
+          "Stream.Perennial": 2,
+          "Man-made.Bulkhead Or Sea Wall": 34,
+          "Natural.Apparent.Marsh Or Swamp": 375,
+          "Road": 130,
+          "Pier.Floating": 88,
+          "Pier.Fixed": 50,
+          "Building": 22,
+          "Man-made.Rip Rap": 33,
+          "Feature Limit": 26,
+          "Marsh Or Swamp.Extent": 262,
+          "Obstruction.Covers/Uncovers": 5,
+          "Depth Contour.Approximate": 258,
+          "Depth Contour": 36,
+          "Ruins.Undetermined.Covers/Uncovers": 2,
+          "Breakwater.Bare": 4,
+          "Man-made.Ramp": 9,
+          "Road.Path": 3,
+          "Shoreline/Alongshore Feature Boundary": 4,
+          "Railroad.Abandoned": 1,
+          "Runway": 1,
+          "Source Data Limit": 1,
+          "Undetermined.Approximate": 2,
+          "Man-made.Slipway": 1,
+          "Levee Or Dike": 37,
+          "Stream.Intermittent": 24,
+          "Wreck.Hull.Covers/Uncovers": 2,
+          "Obstruction.Bare": 1,
+          "Ruins.Undetermined.Bare": 1,
+          "Wreck.Hull.Bare": 2,
+          "Platform.Floating": 4,
+          "Pier.Ruins": 8,
+          "Cliff Or Bluff": 8,
+          "Bridge.Fixed": 21,
+          "Fender": 2,
+          "Cable.Overhead": 4,
+          "Breakers": 4,
+          "Groin.Bare": 1
+        },
+        "CLASS": {
+          "SHORELINE": 1072,
+          "NATURAL FEATURE MISCELLANEOUS": 296,
+          "TRANSPORTATION": 135,
+          "ALONGSHORE FEATURE": 174,
+          "CULTURAL FEATURE MISCELLANEOUS": 63,
+          "CARTOGRAPHIC LIMIT": 27,
+          "OBSTRUCTION LINEAR": 17,
+          "CONTOUR": 294,
+          "DANGER AREA": 4
+        },
+        "SRC_DATE": {
+          "20060423": 1030,
+          "20061009": 106,
+          "20050524": 597,
+          "20050525": 27,
+          "20060422": 302,
+          "20060504": 20
+        },
+        "INFORM": {
+          "": 1761,
+          "Drainage canal": 1,
+          "Boathouse": 6,
+          "Culvert": 2,
+          "Possible oyster racks": 5,
+          "MLLW": 294,
+          "Piling": 2,
+          "Possibly piles in ruins": 1,
+          "Road-path on levee": 3,
+          "Road on levee": 6,
+          "BARN": 1
+        },
+        "HOR_ACC": {
+          "1.2": 2082
+        },
+        "SOURCE_ID": {
+          "GC10747": 2082
+        }
+      },
+      "historical_extent_bbox_overlap_count": 480,
+      "overlap_attribute_counts": {
+        "FEATURE": {
+          "20.0": 97,
+          "18.0": 13,
+          "15.0": 91,
+          "54.0": 19,
+          "161.0": 36,
+          "53.0": 6,
+          "143.0": 11,
+          "2.0": 12,
+          "10.0": 14,
+          "29.0": 3,
+          "9.0": 2,
+          "28.0": 3,
+          "204.0": 1,
+          "202.0": 3,
+          "26.0": 2,
+          "172.0": 72,
+          "176.0": 1,
+          "84.0": 1,
+          "193.0": 61,
+          "206.0": 17,
+          "55.0": 1,
+          "153.0": 3,
+          "32.0": 4,
+          "179.0": 4,
+          "46.0": 1,
+          "167.0": 2
+        },
+        "ATTRIBUTE": {
+          "Natural.Mean High Water": 97,
+          "Natural.Great Lake Or Lake Or Pond": 13,
+          "Natural.Apparent.Marsh Or Swamp": 91,
+          "Pier.Floating": 19,
+          "Road": 36,
+          "Pier.Fixed": 6,
+          "Building": 11,
+          "Man-made.Bulkhead Or Sea Wall": 12,
+          "Man-made.Rip Rap": 14,
+          "Breakwater.Bare": 3,
+          "Man-made.Ramp": 2,
+          "Shoreline/Alongshore Feature Boundary": 3,
+          "Source Data Limit": 1,
+          "Feature Limit": 3,
+          "Undetermined.Approximate": 2,
+          "Marsh Or Swamp.Extent": 72,
+          "Stream.Intermittent": 1,
+          "Platform.Floating": 1,
+          "Depth Contour.Approximate": 61,
+          "Depth Contour": 17,
+          "Pier.Ruins": 1,
+          "Levee Or Dike": 3,
+          "Bridge.Fixed": 4,
+          "Breakers": 4,
+          "Groin.Bare": 1,
+          "Cliff Or Bluff": 2
+        },
+        "CLASS": {
+          "SHORELINE": 234,
+          "ALONGSHORE FEATURE": 34,
+          "TRANSPORTATION": 36,
+          "CULTURAL FEATURE MISCELLANEOUS": 14,
+          "CARTOGRAPHIC LIMIT": 4,
+          "NATURAL FEATURE MISCELLANEOUS": 75,
+          "OBSTRUCTION LINEAR": 1,
+          "CONTOUR": 78,
+          "DANGER AREA": 4
+        },
+        "SRC_DATE": {
+          "20060423": 231,
+          "20061009": 4,
+          "20050524": 163,
+          "20060422": 68,
+          "20060504": 14
+        }
+      }
+    },
+    "softcopyp1": {
+      "count": 141,
+      "shape_type": 1,
+      "bounds": [
+        -124.054399390756,
+        46.3881128534704,
+        -123.773908555308,
+        46.7492556312
+      ],
+      "crs_wkt": "GEOGCS[\"NAD83\", DATUM[\"North American Datum 1983\", SPHEROID[\"GRS 1980\", 6378137.0, 298.257222101, AUTHORITY[\"EPSG\",\"7019\"]], TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], AUTHORITY[\"EPSG\",\"6269\"]], PRIMEM[\"Greenwich\", 0.0, AUTHORITY[\"EPSG\",\"8901\"]], UNIT[\"degree\", 0.017453292519943295], AXIS[\"Geodetic longitude\", EAST], AXIS[\"Geodetic latitude\", NORTH], AUTHORITY[\"EPSG\",\"4269\"]]",
+      "is_bound_crs": true,
+      "underlying_crs_epsg": null,
+      "attribute_counts": {
+        "FEATURE": {
+          "61.0": 8,
+          "62.0": 5,
+          "97.0": 11,
+          "101.0": 69,
+          "114.0": 1,
+          "124.0": 7,
+          "132.0": 3,
+          "133.0": 2,
+          "138.0": 8,
+          "140.0": 15,
+          "141.0": 12
+        },
+        "ATTRIBUTE": {
+          "Rock.Bare": 8,
+          "Rock.Covers/Uncovers": 5,
+          "Dolphin.Bare": 11,
+          "Pile.Bare": 69,
+          "Dome Or Cupola": 1,
+          "Other": 7,
+          "Tower": 3,
+          "Tower.Recommended Landmark": 2,
+          "Daybeacon": 8,
+          "Marine Light.Pile": 15,
+          "Marine Light.Tower": 12
+        },
+        "CLASS": {
+          "OBSTRUCTION POINT": 13,
+          "FREESTANDING MARINE FEATURE": 80,
+          "LANDMARK": 13,
+          "AID TO NAVIGATION": 35
+        },
+        "SRC_DATE": {
+          "20060423": 88,
+          "20060422": 5,
+          "20050524": 48
+        },
+        "INFORM": {
+          "": 128,
+          "COURTHOUSE DOME": 1,
+          "MONUMENT": 2,
+          "GABLE": 2,
+          "BARN": 1,
+          "RED BLUFF (W CREST)": 1,
+          "S E GABLE": 1,
+          "TR": 1,
+          "TOWER": 3,
+          "FLAG TR": 1
+        },
+        "HOR_ACC": {
+          "1.2": 141
+        },
+        "SOURCE_ID": {
+          "GC10747": 141
+        }
+      },
+      "historical_extent_bbox_overlap_count": 35,
+      "overlap_attribute_counts": {
+        "FEATURE": {
+          "61.0": 4,
+          "97.0": 1,
+          "101.0": 7,
+          "124.0": 6,
+          "138.0": 4,
+          "140.0": 9,
+          "141.0": 4
+        },
+        "ATTRIBUTE": {
+          "Rock.Bare": 4,
+          "Dolphin.Bare": 1,
+          "Pile.Bare": 7,
+          "Other": 6,
+          "Daybeacon": 4,
+          "Marine Light.Pile": 9,
+          "Marine Light.Tower": 4
+        },
+        "CLASS": {
+          "OBSTRUCTION POINT": 4,
+          "FREESTANDING MARINE FEATURE": 8,
+          "LANDMARK": 6,
+          "AID TO NAVIGATION": 17
+        },
+        "SRC_DATE": {
+          "20060423": 12,
+          "20050524": 23
+        }
+      }
+    },
+    "projbnd": {
+      "count": 1,
+      "shape_type": 5,
+      "bounds": [
+        -124.159329,
+        46.321955,
+        -123.730531,
+        46.80013
+      ],
+      "crs_wkt": "GEOGCS[\"NAD83\", DATUM[\"North American Datum 1983\", SPHEROID[\"GRS 1980\", 6378137.0, 298.257222101, AUTHORITY[\"EPSG\",\"7019\"]], TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], AUTHORITY[\"EPSG\",\"6269\"]], PRIMEM[\"Greenwich\", 0.0, AUTHORITY[\"EPSG\",\"8901\"]], UNIT[\"degree\", 0.017453292519943295], AXIS[\"Geodetic longitude\", EAST], AXIS[\"Geodetic latitude\", NORTH], AUTHORITY[\"EPSG\",\"4269\"]]",
+      "is_bound_crs": true,
+      "underlying_crs_epsg": null,
+      "attribute_counts": {},
+      "historical_extent_bbox_overlap_count": 1,
+      "overlap_attribute_counts": {}
+    }
+  },
+  "historical_bbox_wsen": [
+    -124.09896678120475,
+    46.61259706619438,
+    -123.9030876512486,
+    46.74957839026382
+  ],
+  "selection": "Bbox intersection with complete historical line extent, then exact Feature15/20; includes whole intersecting features, not clipped geometry.",
+  "selected_count": 188,
+  "selected_class_counts": {
+    "20.0": 97,
+    "15.0": 91
+  },
+  "selected_date_counts": {
+    "20060423": 184,
+    "20061009": 4
+  },
+  "limits": "Bbox intersection is coarse spatial eligibility, not source-frame or coast-segment identity. PRJ generic NAD83 does not encode report CORS96 epoch2002. No displacement or feature authenticity validation."
+}

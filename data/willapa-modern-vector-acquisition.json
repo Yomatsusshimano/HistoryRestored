@@ -1,0 +1,87 @@
+{
+  "source_id": "S257",
+  "downloaded_date": "2026-10-09",
+  "url": "https://nsde.ngs.noaa.gov/downloads/WA0401D.zip",
+  "path": "sources/originals/cascadia/WA0401D.zip",
+  "bytes": 2438089,
+  "sha256": "c609f677f8856cfa2cb00528c26464a99f8e785a486047cd061ac74de16d9b26",
+  "members": [
+    {
+      "name": "WA0401D-readme.txt",
+      "bytes": 72,
+      "sha256": "0bb0ef8e04703546524f52b6e15bd23e26c12f7c9f88a9526d5cb2fcc488604f"
+    },
+    {
+      "name": "projbnd.dbf",
+      "bytes": 957,
+      "sha256": "11c8921cb5551b53a4abd4574c9bd9b8e37d01cb322c7588e60428d187ba375f"
+    },
+    {
+      "name": "projbnd.prj",
+      "bytes": 379,
+      "sha256": "4ea5393376c5c4889d0248691cb7c51b7493bfb09a83014a0bd6d1549dd4e26a"
+    },
+    {
+      "name": "projbnd.shp",
+      "bytes": 236,
+      "sha256": "1b23246a0bc9057b638eac7cb730217ddfc247c84278686da94c3a00ec1d69c6"
+    },
+    {
+      "name": "projbnd.shx",
+      "bytes": 108,
+      "sha256": "15b816aa4f1a489173461db8ad58996b6504a6930d6e6e5e786ab357b1c201de"
+    },
+    {
+      "name": "softcopyl1.dbf",
+      "bytes": 4968069,
+      "sha256": "fd6e36c80461c600e48e274afe4dd123b7e66da481987e560e0f1f172a8150af"
+    },
+    {
+      "name": "softcopyl1.prj",
+      "bytes": 379,
+      "sha256": "4ea5393376c5c4889d0248691cb7c51b7493bfb09a83014a0bd6d1549dd4e26a"
+    },
+    {
+      "name": "softcopyl1.shp",
+      "bytes": 3322372,
+      "sha256": "9628df12cc85265a1c7dc7ea859d6189f7024c0bb6a6429bd87b94b221294216"
+    },
+    {
+      "name": "softcopyl1.shx",
+      "bytes": 16756,
+      "sha256": "a4319b00f6f0af081507bb78204d08fdd27c165990624623ddd48a0e998dee01"
+    },
+    {
+      "name": "softcopyp1.dbf",
+      "bytes": 336843,
+      "sha256": "40159869e82bab6cc1be4e38c1056a8f7d3e9254398e217424b103e4348f1b78"
+    },
+    {
+      "name": "softcopyp1.prj",
+      "bytes": 379,
+      "sha256": "4ea5393376c5c4889d0248691cb7c51b7493bfb09a83014a0bd6d1549dd4e26a"
+    },
+    {
+      "name": "softcopyp1.shp",
+      "bytes": 4048,
+      "sha256": "7ed473b39515ae49a9dc69a189a22b2033990354138a65fe5aacada700edbf3d"
+    },
+    {
+      "name": "softcopyp1.shx",
+      "bytes": 1228,
+      "sha256": "a4d9dc9994df9b4e37b9097d2756ff77d26006452284ca9aff8a4029804c204f"
+    }
+  ],
+  "viewer_url": "https://nsde.ngs.noaa.gov/cmp.html",
+  "viewer_sha256": "ed1637127262b70fcd7f86e2601e7242173ef7509568d1e50b4b4795b522f3a4",
+  "index_tile_url": "https://nsde.ngs.noaa.gov/cmp/cmpidx/8/39/90.pbf",
+  "index_tile_sha256": "466c17fda65fa8b5e786153388775e0d1e7b159e9bb0da194133a203a01c4a58",
+  "index_match": [
+    {
+      "id": "WA0401D",
+      "gc": "GC10747",
+      "start_date": "20050524"
+    }
+  ],
+  "note": "Project ID constructs actual viewer download URL. Prior inferred cell-ID endpoint AccessDenied was not absence of data."
+}
