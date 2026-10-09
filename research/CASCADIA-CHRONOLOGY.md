@@ -153,3 +153,8 @@ The [executed sensitivity audit](CASCADIA-ALIGNMENT-SENSITIVITY.md) tests every 
 ## Copalis local-reference follow-up
 
 The [local-reference audit](CASCADIA-LOCAL-REFERENCE.md) uses S231's CP791/793/794 master-tree selection and excludes a target from its own reference. The longest CPGF2 trunk measurement ranks first at the published position under both alternative transformations; shorter radii retain exceptions. Three targets lack complete published-span reference coverage, so a separately disclosed fixed shared-year subset is also evaluated. Local agreement does not independently date the reference or test a joint calendar shift. Original processing and root/trunk linkage remain pending.
+
+
+## Candidate root/trunk pattern linkage
+
+The [GF2 root/trunk audit](CASCADIA-ROOT-TRUNK.md) compares two corrected root transcriptions with three NOAA trunk records. All12 annual-difference variants favor the published relative placements; raw widths retain one exception. GF2/CPGF2 remains a candidate specimen crosswalk, and related radii are not independent trees. Original processing, physical linkage and absolute calendar placement remain unresolved.

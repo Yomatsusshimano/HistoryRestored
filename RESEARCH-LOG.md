@@ -1129,3 +1129,8 @@ Previous turn made verified public progress. Revalidated clean checkout and reco
 ### 2026-10-09 — Copalis local-reference comparison
 
 Preceding status update was no progress; last substantive checkpoint was the verified published sensitivity audit, followed by the requested privacy update. Revalidated clean checkout and local source notes. Executed hash-checked local reference using the three trees explicitly named in S231, omitting reference targets from their own master. Initial full-span rule leaves three published placements unscored; added and disclosed fixed shared-year subsets after observing coverage limits. Preserved both scopes, every candidate and short-radius exceptions. Local relative agreement improves for CPGF2NW without supplying independent calendar placement. No new external source, outreach, corrected date or review claimed.
+
+
+### 2026-10-09 — Candidate root/trunk alignment
+
+Previous turn made verified public progress. Revalidated clean checkout, corrected root records and NOAA trunk acquisition. Reinspected S61 PDF p3 table image; compared two complete root series against three candidate CPGF2 trunk series under raw/log-difference/width-difference processing. All full-overlap shifts retained. Published-position Pearson values checked by independent centered dot-product formula. All12 annual-difference variants favor published relative positions, while one raw-width variant retains a different maximum. Identifier/physical crosswalk remains candidate; no absolute date, original-method reproduction, new source, outreach or independent review claimed.

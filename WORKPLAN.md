@@ -487,3 +487,8 @@ Published four alternative-processing variants and per-series ranks/top alternat
 ### 2026-10-09 — Copalis local-reference diagnostic
 
 Source-selected local master supports CPGF2NW's published relative placement under both difference transformations; shorterGF2 radii retain exceptions. Full-span coverage limits and a retrospective fixed-subset response preserved. Next original processed indices, per-tree averaging and root/trunk crosswalk; no absolute date or prospective success established.
+
+
+### 2026-10-09 — Candidate GF2 root/trunk linkage
+
+Published all18 comparisons: annual-difference variants consistently favor source placements; one raw-width comparison does not. Next verify specimen identity and root/trunk field linkage, original combined processing and final-ring anatomy. Common absolute calendar shifts are outside this relative test's scope.
