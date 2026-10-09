@@ -259,3 +259,8 @@ S295 adds pp541-544,p556note and five-figure plate, all6surfaces inspected. Expl
 ### 2026-10-09 — Towneley manuscript copy and audit correction
 
 S296 all3EL/T/19surfaces inspected; docket explicitly copy. Selected manuscript/print comparison preserves priority/development claims and documents omissions. Our1/4000reading/48000inference retracted: printed1/10implies120perfoot, conflicting with above40000if same division; manuscript numeratorunknown. See [comparison and correction](GASCOIGNE-ATTRIBUTION.md).27 drafts/296 sources; no autograph/custody/priority verdict or independent review. All twenty objectives active.
+
+
+### 2026-10-09 — Continued invention-credit advocacy in1753
+
+S297 adds all4BevisL&P/2/346 surfaces, explicitTowneley/Derham lineage and reported personal copy ofGascoigne-to-Oughtred letter. FrenchAcademy1717/Bouguer1748 targets and distinctMay10annotation/May17reading docket retained. No underlying original/opposed-text authentication or priority verdict. See [reception audit](GASCOIGNE-ATTRIBUTION.md).27drafts/297sources; all twenty objectives active, no independent review or reconstruction established.

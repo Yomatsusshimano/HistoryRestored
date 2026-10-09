@@ -1,0 +1,144 @@
+{
+  "source_id": "S297",
+  "archive_reference": "L&P/2/346",
+  "acquired_date": "2026-10-09",
+  "rights": "CC BY4.0; attribution The Royal Society",
+  "files": [
+    {
+      "path": "sources/originals/invention/bevis1753/image-1.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/L%26P%2FL%26P_5%2FL%26P_2%2FL%26P_2_346%2Ftif%2FL%26P_2_346_0001.ptif/full/2500,/0/default.jpg",
+      "bytes": 1434700,
+      "sha256": "b389b6c539bb7fa1602f3285d228dffb797931cf8a8bf7f13c59960aaf2b63f5",
+      "decoded_size": [
+        2500,
+        3211
+      ],
+      "canvas_size": [
+        5812,
+        4525
+      ],
+      "body_size": [
+        4525,
+        5812
+      ]
+    },
+    {
+      "path": "sources/originals/invention/bevis1753/image-2.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/L%26P%2FL%26P_5%2FL%26P_2%2FL%26P_2_346%2Ftif%2FL%26P_2_346_0002.ptif/full/2500,/0/default.jpg",
+      "bytes": 1284825,
+      "sha256": "b11e0010d68b2bb64aad21aab42259d2d696109ddc58587aa2c9ea8f0105a259",
+      "decoded_size": [
+        2500,
+        3232
+      ],
+      "canvas_size": [
+        5798,
+        4485
+      ],
+      "body_size": [
+        4485,
+        5798
+      ]
+    },
+    {
+      "path": "sources/originals/invention/bevis1753/image-3.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/L%26P%2FL%26P_5%2FL%26P_2%2FL%26P_2_346%2Ftif%2FL%26P_2_346_0003.ptif/full/2500,/0/default.jpg",
+      "bytes": 1392544,
+      "sha256": "847250ac58dc9294c2165f84f9c022fd4201ef0903ce7e214013a9c3a7c26cdd",
+      "decoded_size": [
+        2500,
+        3221
+      ],
+      "canvas_size": [
+        5806,
+        4507
+      ],
+      "body_size": [
+        4507,
+        5806
+      ]
+    },
+    {
+      "path": "sources/originals/invention/bevis1753/image-4.jpg",
+      "url": "https://images-rs-sitm.fly.dev/iiif/3/L%26P%2FL%26P_5%2FL%26P_2%2FL%26P_2_346%2Ftif%2FL%26P_2_346_0004.ptif/full/2500,/0/default.jpg",
+      "bytes": 1226018,
+      "sha256": "91174d477bef5df303e5a61790f582e3a00bf55ccdac087bdb710bdfd288d976",
+      "decoded_size": [
+        2500,
+        3310
+      ],
+      "canvas_size": [
+        5813,
+        4391
+      ],
+      "body_size": [
+        4391,
+        5813
+      ]
+    },
+    {
+      "path": "sources/originals/invention/bevis1753/manifest.json",
+      "url": "https://makingscience.royalsociety.org/items/l-and-p_2_346/letter-of-gascoignes-invention-of-the-micrometer-from-john-bevis-to-james-short/manifest.json",
+      "bytes": 6626,
+      "sha256": "ccc3d4cff8b8760f541df7ee779f7ea1a6b7a1ac98034ce5e5d8d4be9e79f06f"
+    }
+  ],
+  "inspection": "All four image surfaces visually inspected. Selected reading, not full diplomatic transcription. Unchanged delivery JPEGs, not archival master TIFFs. Canvas/body dimensions disagree; decoded dimensions recorded without physical-scale inference.",
+  "surface_roles": [
+    {
+      "image": 1,
+      "role": "Priority argument and selected earlier observation entries",
+      "finding": "Explicit Towneley issue25/p457 and Derham references; alleges later French credit persists. Says Bevis himself copied an original Gascoigne-to-Oughtred letter labelled1640-41. Original not acquired."
+    },
+    {
+      "image": 2,
+      "role": "Argument conclusion, signature and annotation",
+      "finding": "Concludes instrument was developed, not merely embryonic; signed JBevis. Annotation includesMay10,1753 and morning time; place wording left unresolved."
+    },
+    {
+      "image": 3,
+      "role": "Additional observing note",
+      "finding": "SurreyStreetMay6morning; Mercury transit, clouds/refraction, wire crossings and clock micrometer mentioned. Exact numeric transcription and year not inferred here; not an independent test of Gascoigne device."
+    },
+    {
+      "image": 4,
+      "role": "Docket/address surface",
+      "finding": "Read atRS May17,1753; PhilTrans XLVIII p190; JamesShort address. Reading date differs in role from image2 annotation; not treated as chronology contradiction."
+    }
+  ],
+  "allegation_targets": [
+    {
+      "target": "De la Hire, FrenchAcademy memoirs for1717",
+      "status": "NOT_ACCESSED",
+      "claim_role": "Bevis alleges Auzout/Picard micrometer credit and citation of AuzoutDec28,1666 extract; not independent proof of wording or intent."
+    },
+    {
+      "target": "Bouguer, FrenchAcademy memoirs for1748",
+      "status": "NOT_ACCESSED",
+      "claim_role": "Bevis alleges inherited attribution and compares heliometer contrivance with Savery proposal. Exact text and diagnostic design comparison pending."
+    },
+    {
+      "target": "Gascoigne letter toOughtred labelled1640-41",
+      "status": "NOT_ACCESSED",
+      "claim_role": "Bevis reports making copy himself from original; distinct addressee from DerhamCrabtrie extracts. No autograph/date/custody authentication."
+    }
+  ],
+  "preface_retrieval": {
+    "observatory_exhibit": "https://bibnum.obspm.fr/l-entourage",
+    "linked_gallica_item": "https://gallica.bnf.fr/ark:/12148/bpt6k3200479t/f5",
+    "gallica_manifest_result": "HTTP403, no scan/manifest inspection",
+    "upenn_listing": "https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Michallet%2C+Estienne%2C+%28Par%26iacute%3Bs%29",
+    "hathitrust_record": "https://catalog.hathitrust.org/Record/009300365",
+    "hathitrust_result": "Web unavailable; Python TLS certificate verification failed; no bypass or contents acquired",
+    "limit": "Library identification is retrieval evidence, not inspected preface or independent technical witness."
+  },
+  "dependence": "Bevis explicitly inherits Towneley/Derham argument. Reported personal copying is a custody lead, not verified independent antecedent. Observation list is transmitted and uncalibrated. National framing is author position, not investigator verdict.",
+  "limits": [
+    "No originalOughtred letter",
+    "No material/handwriting authentication",
+    "No exact1717French/1748Bouguer text inspected",
+    "No demonstrated opponent access/intent",
+    "No universal reception or priority verdict",
+    "No independent review"
+  ]
+}
