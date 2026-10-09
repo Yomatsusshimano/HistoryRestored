@@ -274,3 +274,8 @@ S298 all3historicalpp190-192 inspected. PrintaddsJones/Macclesfieldcustodyclause
 ### 2026-10-09 — Opposing1717 credit scope tested
 
 S299 twelveBSBscanspp57-59/78-86 inspected. Auzout/Picardperfectedconstructioncredit isreal, butadjacentessaycreditsHuygens earlierinvention/discussesMalvasia; sightapplicationdateexplicitlyuncertain. Report1717/catalogpublication1719distinct; remainingpages/plates uninspected. See [opposing-text audit](GASCOIGNE-ATTRIBUTION.md).27drafts/299sources; alltwentyobjectivesactive,nopriorityverdict/independentreview.
+
+
+### 2026-10-09 — Complete de la Hire articles and calibration scope
+
+S299 article texts pp57-67/78-87 now fully visually inspected;24registered surfaces include boundary and botanical plate/reverse. Curved caliper, target calibration, triangle-card half-digits and complementary luminous width documented. Estimated5arcsecond subdivisions are not demonstrated accuracy. See [complete article audit](GASCOIGNE-ATTRIBUTION.md).27drafts/299sources; all twenty objectives active, no independent review or reconstruction established.

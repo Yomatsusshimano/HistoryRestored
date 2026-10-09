@@ -5,7 +5,7 @@
   "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10500332/manifest",
   "manifest_sha256": "ce78ac3c77ecf153675f751a590c0f7890f6be37004d022912b76b1e4b452ee9",
   "rights": "BSB No Copyright - Non-Commercial Use Only; scans retained for local inspection and linked, not redistributed in this public repository. Attribution München, Bayerische Staatsbibliothek.",
-  "coverage": "Selected Memoirspp57-59 and78-86,12scans. Constructionarticlecontinuation/plates and historyessayafter86 uninspected; not fullarticles or fullvolume. Historypart has duplicatepagination; exactcanvasesexplicit. Two interveningplatecanvases193-194 not inspected.",
+  "coverage": "Both complete article texts visually inspected: Memoirs pp57-67 (canvases169-179) and pp78-87 (192,195-203), including inline diagrams on61/64. Boundary page88/canvas204 begins Varignon article. Intervening canvases193-194 are botanical plate/reverse, not micrometer diagrams. 24 registered surfaces; not full-volume coverage or full diplomatic transcription.",
   "chronology": {
     "reporting_year": 1717,
     "catalog_publication_year": 1719,
@@ -54,6 +54,110 @@
       "inspected": true
     },
     {
+      "canvas": 172,
+      "label": "60 (0172)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=172",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00172/full/full/0/default.jpg",
+      "bytes": 666913,
+      "sha256": "fde1c84d65144d0f14bc6220e53a090cf2dce4c7cb336fb9c451b2d59433cfe3",
+      "decoded_size": [
+        2142,
+        2995
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 173,
+      "label": "61 (0173)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=173",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00173/full/full/0/default.jpg",
+      "bytes": 632103,
+      "sha256": "e12a10f243b8f8192c4b8fb606429048f1a226ddd2d9e5cd1110854ca8ffb86b",
+      "decoded_size": [
+        2092,
+        2994
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 174,
+      "label": "62 (0174)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=174",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00174/full/full/0/default.jpg",
+      "bytes": 634269,
+      "sha256": "bbce4c6809a79adf3774a1fab19676cb33e9b92821996fbe15bda06e8dc1526f",
+      "decoded_size": [
+        2147,
+        2998
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 175,
+      "label": "63 (0175)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=175",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00175/full/full/0/default.jpg",
+      "bytes": 676479,
+      "sha256": "292b6f10213783f3ef469a1f6e84f5d8fb454e65e7b3a25eac6f7a395d485e1b",
+      "decoded_size": [
+        2087,
+        2999
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 176,
+      "label": "64 (0176)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=176",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00176/full/full/0/default.jpg",
+      "bytes": 606668,
+      "sha256": "dad12bcb6efe6095016b739757bf7e0a512eaaf53a8a89a677874dd8645cdfea",
+      "decoded_size": [
+        2130,
+        2992
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 177,
+      "label": "65 (0177)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=177",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00177/full/full/0/default.jpg",
+      "bytes": 674541,
+      "sha256": "05a8c880eca0370ce0d875d081878b2f7cdf3029b3083cef5c69502f3186a829",
+      "decoded_size": [
+        2119,
+        3007
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 178,
+      "label": "66 (0178)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=178",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00178/full/full/0/default.jpg",
+      "bytes": 662245,
+      "sha256": "3204f1b0cfb524d7b77d26e737e724ec33cea12687c1849e308d5375aeaf6682",
+      "decoded_size": [
+        2149,
+        2998
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 179,
+      "label": "67 (0179)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=179",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00179/full/full/0/default.jpg",
+      "bytes": 623926,
+      "sha256": "7ede1c44958720c3218133d148977588e3a6def383712f7e45ef5c638aafb1e4",
+      "decoded_size": [
+        2097,
+        2998
+      ],
+      "inspected": true
+    },
+    {
       "canvas": 192,
       "label": "78 (0192)",
       "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=192",
@@ -63,6 +167,32 @@
       "decoded_size": [
         2138,
         3025
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 193,
+      "label": "(0193)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=193",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00193/full/full/0/default.jpg",
+      "bytes": 696841,
+      "sha256": "31e711beaabbaafe15ad04994eee7c5959341355f890ba1c47f45aa9997ce186",
+      "decoded_size": [
+        2115,
+        2997
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 194,
+      "label": "(0194)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=194",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00194/full/full/0/default.jpg",
+      "bytes": 497737,
+      "sha256": "a2e270da33ada957d07ef7596efe36c1e1634e2270fba9cde35fd04a8d780b91",
+      "decoded_size": [
+        2153,
+        3005
       ],
       "inspected": true
     },
@@ -169,6 +299,32 @@
         3005
       ],
       "inspected": true
+    },
+    {
+      "canvas": 203,
+      "label": "87 (0203)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=203",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00203/full/full/0/default.jpg",
+      "bytes": 613288,
+      "sha256": "fd2429b1bbee479f52f03008b808ccd29f4ae7996a4ee3ec08f91bf2b1047e74",
+      "decoded_size": [
+        2128,
+        3005
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 204,
+      "label": "88 (0204)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=204",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00204/full/full/0/default.jpg",
+      "bytes": 619501,
+      "sha256": "2f0bbcdb25e910f4f75208a9938433fa46decde993d9841f03ad1c65fc00ad2d",
+      "decoded_size": [
+        2183,
+        3005
+      ],
+      "inspected": true
     }
   ],
   "passages": [
@@ -191,6 +347,30 @@
     {
       "locator": "pp84-86/canvases200-202",
       "finding": "Discusses incrementalperfection and earlieridea versus laterdevelopment; telescope/clockattributions remainauthor narrative, underlyingrecords unverified."
+    },
+    {
+      "locator": "pp60-61/canvases172-173",
+      "finding": "Rejects variable-focus two-objective arrangement as inconvenient; modifies prior double-branch caliper with curved short arms to clear the disk. Long arms eight or ten times short; tips close together, focal-plane alignment and screw clamp described. Prior Tables p71 cited without edition identification. No physical instrument examined."
+    },
+    {
+      "locator": "pp62-63/canvases174-175",
+      "finding": "Describes target calibration: three/four parallel black marks with two-inch center spacing, target at measured200/300toises, orientation controls and measured long-arm opening. Right-triangle tangent calculation described; no executed trial data or uncertainties supplied. Historical units retained without assumed conversion."
+    },
+    {
+      "locator": "pp64-66/canvases176-178",
+      "finding": "Equilateral triangle card divided into24parts for half-digits; source explicitly says figure shows only12 to avoid clutter. Parallel cross-line scales measured disk diameter, enabling relative eclipse phases without angular-diameter tables. Remaining luminous width must be complemented to12digits. Separate24arcminute calibration and estimated twelfths give5arcsecond reading subdivisions, not measured accuracy."
+    },
+    {
+      "locator": "p67/canvas179",
+      "finding": "Reports visibility difficulty against dark sky, proposes white silk in front of objective to resemble light cloud, and claims experience. Historical practice only, not a modern observing recommendation or calibrated demonstration. Construction article ends; de la Faye water-raising article starts on same page."
+    },
+    {
+      "locator": "p87/canvas203; boundary p88/canvas204",
+      "finding": "Priority essay ends with Porta telescope discussion: de la Hire interprets passage as spectacle correction and disputes earlier telescope attribution, using reported publication/reception reasoning. Quoted originals uninspected. Varignon article starts88; no additional micrometer priority paragraph after86."
+    },
+    {
+      "locator": "canvases193-194",
+      "finding": "Inserted botanical plate labelled1717plate2/page78 and reverse; not micrometer apparatus. Physical binding/placement and plant identity not authenticated."
     }
   ],
   "bevis_comparison": "Bevis1717target has actualAuzout/Picardperfectedconstructionlanguage, but adjacentpriorityessaycreditsHuygens anddiscussesMalvasia. Cannot summarizewholevolumeasexclusiveFrenchfirstinvention. Gascoigne notnamed in selectedmicrometer/sightpassages; scopeofabsence limited, knowledge/intentunknown.",
@@ -198,9 +378,20 @@
   "limits": [
     "1687preface stilluninspected",
     "Bouguer1748stilluninspected",
-    "Incompleteconstruction/historyarticlecoverage",
     "NoGascoignepapersaccesschain",
     "Noautograph/physicaldating",
-    "Noindependentreview"
-  ]
+    "Noindependentreview",
+    "No full diplomatic transcription or full-volume Gascoigne name search",
+    "No calibrated performance trial or historical-unit conversion",
+    "Underlying Porta editions and quoted passage uninspected"
+  ],
+  "derived_checks": {
+    "triangle_half_digit_divisions": 24,
+    "digits_in_diameter": 12,
+    "half_digits_per_digit": 2,
+    "general_angle_reference_arcminutes": 24,
+    "estimated_subdivisions_per_arcminute": 12,
+    "seconds_per_estimated_subdivision": 5.0,
+    "limit": "Arithmetic reproduces proposed subdivisions; no accuracy, resolution, observed error, physical dimensions or execution verified."
+  }
 }
