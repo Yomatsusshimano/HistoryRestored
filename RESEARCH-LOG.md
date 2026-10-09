@@ -1287,3 +1287,8 @@ S261 locked NAIP tile filename encodes June24,2006; rendered1726x1177crop and pa
 ### 2026-10-09 — Local historical island waterline inspected
 
 All40historical MHWrecords exact-tested against recorded NAIPextent;22/50/52intersect. Local source/overlay panels inspected:50/52and marsh49/51divide GrassyIsl drawn outline,22separate eastern curve.2006placements cross land/water; no uniform translation, exact tide, signed displacement or cause inferred. Other37MHWrecords and22outside crop remain visually unaudited. Next original symbols/revisions, intermediate dated observation and uncertainty budget.25drafts/261sources, no independent review, full twenty outcomes remain active. See research/WILLAPA-ISLAND-MHW.md.
+
+
+### 2026-10-09 — Intermediate island records and local mechanisms
+
+S262December2010draft recovered viaGovInfo; five text-only pages plus cover visually inspected, excerpt/hash ledger preserved. GrassyIsland attachment,1965–1999tip accretion/later erosion and habitat/management accounts supply alternatives, not trace-specific measurements. S263indexed1966caption gives1955two-part/channel lead; photograph/reverse uninspected after normalTLScertificate failure. Tip estimate not transferred to islands. Next actual1966/1955images,Phipps90-21andWSDOTmaps.25drafts/263sources, no third georeferenced boundary/review/global reconstruction; full twenty goals retained. See research/WILLAPA-INTERMEDIATE-LEADS.md.

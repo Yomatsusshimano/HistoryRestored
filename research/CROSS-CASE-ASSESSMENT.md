@@ -133,3 +133,8 @@ The [recorded NAIP crop](WILLAPA-NAIP2006-IMAGE.md) shows visible land at histor
 ### 2026-10-09 — Historical island outline has mixed feature classes
 
 The [local MHWaudit](WILLAPA-ISLAND-MHW.md) shows the GrassyIsl source outline divided between waterline and marsh-coded segments. Missing modern marsh matches therefore do not represent a complete-island disappearance test. Historical and2006boundary configurations differ locally, but homologous physical change, duration and cause remain unresolved. Intermediate observations and survey/tidal uncertainty are needed before any catastrophe attribution.
+
+
+### 2026-10-09 — Intermediate coastal and vegetation alternatives have retrieval targets
+
+The [intermediate-source audit](WILLAPA-INTERMEDIATE-LEADS.md) recovers selected2010draft habitat/coastal accounts and identifies a1966photo caption with1955island-shape reports. These make attachment, channel development, accretion/erosion and vegetation management testable alternatives; neither source authenticates change at the chosen vector coordinates. The actual intermediate images and source measurements remain needed. This advances discrimination without creating a catastrophe chronology.

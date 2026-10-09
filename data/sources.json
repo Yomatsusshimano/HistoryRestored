@@ -4083,6 +4083,36 @@
       "sha256": "d6b1780a9344ecedd1290768d3ae621ad1ea9fdb50475d52aa20e0a06e416bee",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S262",
+      "title": "Willapa National Wildlife Refuge Draft CCP/EIS, December2010, selected Leadbetter and Grassy Island passages",
+      "creator": "U.S. Fish and Wildlife Service",
+      "publication_date": "2010-12",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I49-PURL-gpo12803/pdf/GOVPUB-I49-PURL-gpo12803.pdf",
+      "source_type": "Agency draft environmental and habitat report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF131/177/178/669/670, printed3-13/4-32/4-33/M-14/M-15text read and scans checked; cover inspected privately.826pages not fully reviewed.",
+      "limitations": "Draft not final2011. Later synthesis, not original dated boundary measurements. Source Phipps1990and WSDOTmaps unrecovered; habitat mechanisms not linked to selected vector coordinates. No displacement or catastrophe dating.",
+      "local_copy": "sources/originals/cascadia/willapa-2010-draft-excerpt.pdf",
+      "sha256": "66a37cc602ec32e64afb5dc7f897296b02f394d266b8f6a683cd9a948d292832",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S263",
+      "title": "Tacoma archive Leadbetter Point aerial photograph record TNT0201L",
+      "creator": "Tacoma Public Library Northwest Room; creator Tacoma News Tribune",
+      "publication_date": null,
+      "url": "https://tpl.accesstomemory.org/leadbetter-point-wildfowl-refuge-northern-tip-of-long-beach-peninsula-1",
+      "source_type": "Institutional photograph catalog, indexed caption transcription",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Search-indexed catalog fields/reference5.1.2-TNT0201L, creation1966-12-09, transcribed February1966caption and reference filenameTNT0201L_141.jpg read.",
+      "limitations": "Original photograph/reverse uninspected; directweb failed and normalTLScertificate expired.1955two-part claim and tip-change estimate not independent geometry or selected island displacement. Copyright/qualified-use limits retained.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
