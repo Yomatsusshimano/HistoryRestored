@@ -264,3 +264,8 @@ S296 all3EL/T/19surfaces inspected; docket explicitly copy. Selected manuscript/
 ### 2026-10-09 — Continued invention-credit advocacy in1753
 
 S297 adds all4BevisL&P/2/346 surfaces, explicitTowneley/Derham lineage and reported personal copy ofGascoigne-to-Oughtred letter. FrenchAcademy1717/Bouguer1748 targets and distinctMay10annotation/May17reading docket retained. No underlying original/opposed-text authentication or priority verdict. See [reception audit](GASCOIGNE-ATTRIBUTION.md).27drafts/297sources; all twenty objectives active, no independent review or reconstruction established.
+
+
+### 2026-10-09 — Bevis print crosswalk and inserted custody claim
+
+S298 all3historicalpp190-192 inspected. PrintaddsJones/Macclesfieldcustodyclause absent frommanuscriptparagraph;12selectedanglesagree, noaccuracyinference. May10letter/May17readingdistinct; above40year referenceunresolved against26/27year arithmetic. AdjacentShortopeningnotfullarticle. See [print audit](GASCOIGNE-ATTRIBUTION.md).27drafts/298sources; fulltwentyobjectivesactive,noindependentreview.

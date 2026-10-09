@@ -1,0 +1,157 @@
+{
+  "source_id": "S298",
+  "manuscript_source_id": "S297",
+  "acquired_date": "2026-10-09",
+  "doi": "10.1098/rstl.1753.0029",
+  "file": {
+    "path": "sources/originals/invention/bevis1753/printed-article.pdf",
+    "url": "https://archive.org/download/philtrans04919358/04919358.pdf",
+    "bytes": 242042,
+    "sha256": "1c3f9c5d91b5678ef852eaf18311aed844c9d9332ef4e1d540cbf6025dcc9fb2",
+    "pages": 3,
+    "transformation": "None; downloaded bytes preserved"
+  },
+  "inspection": "All3historical scans visually inspected, printed190-192. No modern cover. Neighboring Bond conclusion on190 and beginning of Short articleXXX on192 excluded from Bevis claims; complete adjacent article not inspected.",
+  "crosswalk": [
+    {
+      "manuscript": "image1 opening/priority argument",
+      "print": "pp190-191",
+      "finding": "Towneleyissue25/p457, Derham and alleged1717/1748French credit targets retained; selected wording comparison, not complete collation."
+    },
+    {
+      "manuscript": "image1 Gascoigne-to-Oughtred paragraph",
+      "print": "p191",
+      "finding": "Print inserts reported original ownership by lateWilliamJones and currentlocation inEarl ofMacclesfield library. That custody clause absent from inspected manuscript paragraph; insertion author/authority unverified."
+    },
+    {
+      "manuscript": "image1 twelve selected angle entries",
+      "print": "pp191-192",
+      "finding": "All12selected angular values agree in visual comparison. Manuscript explicitly repeats some time labels where print uses blanks; blanks left null instead of inventing independent timestamps."
+    },
+    {
+      "manuscript": "image2 conclusion/signature/May10annotation",
+      "print": "p192",
+      "finding": "Conclusion retained; print labelsRed-lionstreetClerkenwellMay10,1753. Printp190ReadMay17,1753 agrees with manuscriptimage4reading docket; differentdate roles."
+    },
+    {
+      "manuscript": "image3 Mercury transit note",
+      "print": "p192 following articleXXX opening",
+      "finding": "SeparateShort article namesMay6,1753transit andMay17reading. Full article uninspected; relationship to manuscript note not authenticated, no definitive authorship assigned."
+    }
+  ],
+  "selected_angle_rows": [
+    {
+      "date_label": "1640 Aug5",
+      "object": "Jupiter diameter",
+      "arcminutes": 0,
+      "arcseconds": 51,
+      "time_token": null,
+      "page": 191
+    },
+    {
+      "date_label": "same printed group",
+      "object": "Mars diameter",
+      "arcminutes": 0,
+      "arcseconds": 38,
+      "time_token": null,
+      "page": 191
+    },
+    {
+      "date_label": "Dec24",
+      "object": "Mars diameter",
+      "arcminutes": 0,
+      "arcseconds": 25,
+      "time_token": null,
+      "page": 191
+    },
+    {
+      "date_label": "same printed group",
+      "object": "Venus diameter",
+      "arcminutes": 0,
+      "arcseconds": 25,
+      "time_token": null,
+      "page": 191
+    },
+    {
+      "date_label": "1640 Aug25",
+      "object": "Moon semidiameter",
+      "arcminutes": 15,
+      "arcseconds": 17,
+      "time_token": "h.8p.m.",
+      "page": 191
+    },
+    {
+      "date_label": "Sept19",
+      "object": "Moon semidiameter",
+      "arcminutes": 15,
+      "arcseconds": 11,
+      "time_token": null,
+      "page": 191
+    },
+    {
+      "date_label": "1640 Oct9",
+      "object": "Moon semidiameter",
+      "arcminutes": 16,
+      "arcseconds": 36,
+      "time_token": "h.8p.m.",
+      "page": 192
+    },
+    {
+      "date_label": "10",
+      "object": "Moon semidiameter",
+      "arcminutes": 16,
+      "arcseconds": 36,
+      "time_token": null,
+      "page": 192
+    },
+    {
+      "date_label": "27",
+      "object": "Moon semidiameter",
+      "arcminutes": 15,
+      "arcseconds": 38,
+      "time_token": "h.7p.m.",
+      "page": 192
+    },
+    {
+      "date_label": "29",
+      "object": "Moon semidiameter",
+      "arcminutes": 15,
+      "arcseconds": 41,
+      "time_token": null,
+      "page": 192
+    },
+    {
+      "date_label": "30",
+      "object": "Moon semidiameter",
+      "arcminutes": 15,
+      "arcseconds": 43,
+      "time_token": null,
+      "page": 192
+    },
+    {
+      "date_label": "31",
+      "object": "Moon semidiameter",
+      "arcminutes": 15,
+      "arcseconds": 49,
+      "time_token": null,
+      "page": 192
+    }
+  ],
+  "conditional_diagnostics": {
+    "moon_rows": 8,
+    "minimum_arcseconds": 911,
+    "maximum_arcseconds": 996,
+    "range_arcseconds": 85,
+    "meaning": "Variation among transmitted semidiameters, not instrument error or accuracy.",
+    "priority_interval": "Conclusion saysabove40years; simple1666-1640=26 and1667-1640=27 do not reproduce40. Exact intended later comparison point unknown; neither date nor claim repaired."
+  },
+  "limits": [
+    "No originalOughtredletter",
+    "No currentMacclesfieldcustody confirmed",
+    "No authorship/authority ofprintinsertion",
+    "No calibratedseconds-levelaccuracy",
+    "No completeadjacentShortarticle",
+    "No independentreview"
+  ],
+  "dependence": "S298 publishesS297argument and shared selected observations; print/manuscript agreement is text-transmission evidence, not independent priority/performance corroboration."
+}

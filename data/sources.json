@@ -4629,6 +4629,21 @@
       "sha256": "b389b6c539bb7fa1602f3285d228dffb797931cf8a8bf7f13c59960aaf2b63f5",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S298",
+      "title": "Bevis1753 printed Gascoigne micrometer letter, pp190-192: manuscript comparison",
+      "creator": "John Bevis; Philosophical Transactions historical print digital scan",
+      "publication_date": null,
+      "url": "https://archive.org/details/philtrans04919358",
+      "source_type": "Historical printed article scan",
+      "access": "SCAN_INSPECTED",
+      "inspected": "All3scans printed190-192; selected manuscript crosswalk,12angular entries and addedJones/Macclesfieldcustody clause. BevisletterMay10,1753/readMay17,1753 distinguished; neighboringarticles outsidecase.",
+      "limitations": "Exactdistributionday unverified. Manuscript/printsameargumentlineage, underlyingoriginal/custody and insertionauthority unchecked. Selectedobservationvaluesnotcalibratedaccuracy. Above40years comparison point unresolved. No independentreview.",
+      "local_copy": "sources/originals/invention/bevis1753/printed-article.pdf",
+      "sha256": "1c3f9c5d91b5678ef852eaf18311aed844c9d9332ef4e1d540cbf6025dcc9fb2",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
