@@ -1,0 +1,96 @@
+{
+  "source_id": "S300",
+  "volume_id": "bsb10500359",
+  "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10500359/manifest",
+  "manifest_sha256": "1d6b135e789b78dcd3a880618799dc16f85f8fb4f09395d6d1292f7f966285cd",
+  "acquired_date": "2026-10-09",
+  "rights": "BSB No Copyright - Non-Commercial Use Only. Attribution München, Bayerische Staatsbibliothek. Scans retained locally and linked, not publicly redistributed.",
+  "chronology": {
+    "reporting_year": 1748,
+    "catalog_publication_year": 1752,
+    "printed_heading_date": "24April1748",
+    "limit": "Printed article label and catalog publication year, not authenticated presentation event, physical age or exact distribution date."
+  },
+  "coverage": "Four selected opening Memoirs pages11-14/canvases163-166 visually inspected. Distinct History pages11-14/canvases25-28 not used. Remaining article and plates uninspected; no full-volume search.",
+  "scans": [
+    {
+      "canvas": 163,
+      "label": "11 (0163)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=163",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00163/full/full/0/default.jpg",
+      "bytes": 675384,
+      "sha256": "4371a15effd1449a0899ab3dd2cf0e061069c51c6fa07ed498f988558e87983f",
+      "decoded_size": [
+        2103,
+        2839
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 164,
+      "label": "12 (0164)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=164",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00164/full/full/0/default.jpg",
+      "bytes": 724495,
+      "sha256": "3adf26deefffc5ae5420bf46a99fbffe3d5330cc70a9b229d807cffeb25c808c",
+      "decoded_size": [
+        2097,
+        2855
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 165,
+      "label": "13 (0165)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=165",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00165/full/full/0/default.jpg",
+      "bytes": 728377,
+      "sha256": "350211bb31e1661fe5aebcbd22b3aaa0d9ca7a232acd43528021def91aa16677",
+      "decoded_size": [
+        2111,
+        2837
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 166,
+      "label": "14 (0166)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500359?page=166",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500359_00166/full/full/0/default.jpg",
+      "bytes": 739978,
+      "sha256": "d76a005279519b0781236c7219dbfbce3a6d23a4f24808d7da831522b13e9a79",
+      "decoded_size": [
+        2099,
+        2852
+      ],
+      "inspected": true
+    }
+  ],
+  "passages": [
+    {
+      "locator": "p11/canvas163",
+      "finding": "Article heading names Bouguer and heliometer; historical24April1748label. Claims existing micrometers lose precision for larger arcs, motivating proposed new instrument. No measured error bound established here."
+    },
+    {
+      "locator": "pp12-13/canvases164-165",
+      "finding": "Credits Kepler optical principle with Dioptrice1611propositionLXXXVI citation, and Huygens SystemaSaturnium1659 focal-plane visibility. Says Auzout/Picard gave instrument final form; later assigns entire mechanism/disposition and consequently whole micrometer to them. No Gascoigne name in these selected paragraphs; knowledge/intent unverified."
+    },
+    {
+      "locator": "p13footnote/canvas165",
+      "finding": "Cites Manière exacte pour prendre les diamètres des Planètes, Paris JeanCusson1666. Treatise contents, exact authorship and correspondence relation uninspected; citation label is not proof of publication or execution date."
+    },
+    {
+      "locator": "pp13-14/canvases165-166",
+      "finding": "Describes screw-driven frame with wires/silk at focal plane and notes fixed terrestrial versus moving celestial use differences, magnification/field limitations and alternating-limb tracking. Description is not observed performance or surviving-object authentication."
+    }
+  ],
+  "bevis_comparison": "Supports identification of actual broad Auzout/Picard apparatus credit, stronger than merely perfectedconstruction wording in deLaHire1717. Earlier Kepler/Huygens principles are also credited. Does not establish complete priority, opponent access to Gascoigne work, deliberate appropriation, ancient recovery or measured accuracy.",
+  "dependence": "Bouguer cites earlier optical/treatise works. Actual author/edition transmission relationship to deLaHire or Bevis not authenticated; shared historical credit is not independent instrument measurement. Manifest/catalog and image share BSB surrogate lineage.",
+  "limits": [
+    "Only selected openingpages inspected",
+    "OriginalKepler/Huygens/1666treatise notinspected",
+    "NoGascoigneknowledgeorintent chain",
+    "Nooriginalpaper/instrument/calibration authentication",
+    "Noindependentreview"
+  ]
+}

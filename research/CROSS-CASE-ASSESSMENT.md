@@ -279,3 +279,8 @@ S299 twelveBSBscanspp57-59/78-86 inspected. Auzout/Picardperfectedconstructioncr
 ### 2026-10-09 — Complete de la Hire articles and calibration scope
 
 S299 article texts pp57-67/78-87 now fully visually inspected;24registered surfaces include boundary and botanical plate/reverse. Curved caliper, target calibration, triangle-card half-digits and complementary luminous width documented. Estimated5arcsecond subdivisions are not demonstrated accuracy. See [complete article audit](GASCOIGNE-ATTRIBUTION.md).27drafts/299sources; all twenty objectives active, no independent review or reconstruction established.
+
+
+### 2026-10-09 — Bouguer1748 apparatus credit inspected
+
+S300 openingpp11-14 explicitly creditAuzout/Picard whole mechanism andconsequentlymicrometer, while creditingKepler/Huygens optical antecedents. SupportsBevis identification, notknowledge/intent orpriorityverdict. Reporting1748/catalogpublication1752 distinct; remaining article/plates andcited1666treatise uninspected. See [opposing-text comparison](GASCOIGNE-ATTRIBUTION.md).27drafts/300sources; all twenty objectives active,noindependentreview.
