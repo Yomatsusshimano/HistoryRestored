@@ -1,0 +1,206 @@
+{
+  "source_id": "S299",
+  "volume_id": "bsb10500332",
+  "acquired_date": "2026-10-09",
+  "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10500332/manifest",
+  "manifest_sha256": "ce78ac3c77ecf153675f751a590c0f7890f6be37004d022912b76b1e4b452ee9",
+  "rights": "BSB No Copyright - Non-Commercial Use Only; scans retained for local inspection and linked, not redistributed in this public repository. Attribution München, Bayerische Staatsbibliothek.",
+  "coverage": "Selected Memoirspp57-59 and78-86,12scans. Constructionarticlecontinuation/plates and historyessayafter86 uninspected; not fullarticles or fullvolume. Historypart has duplicatepagination; exactcanvasesexplicit. Two interveningplatecanvases193-194 not inspected.",
+  "chronology": {
+    "reporting_year": 1717,
+    "catalog_publication_year": 1719,
+    "construction_heading_date": "29May1717",
+    "history_heading_date": "23June1717",
+    "limit": "Dates are historical printedheading labels and catalogyear, not physicalauthentication or exactdistributionday."
+  },
+  "scans": [
+    {
+      "canvas": 169,
+      "label": "57 (0169)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=169",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00169/full/full/0/default.jpg",
+      "bytes": 610627,
+      "sha256": "a5047aac9095e68c3d96fe1b0ce37e83d594987dc3b081fef4b724bef3a0a9cc",
+      "decoded_size": [
+        2105,
+        2991
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 170,
+      "label": "58 (0170)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=170",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00170/full/full/0/default.jpg",
+      "bytes": 685718,
+      "sha256": "ae8391d27d60a57ab5323fae5c950a25c79dd7388ad526c3af9c9248da07f409",
+      "decoded_size": [
+        2135,
+        3001
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 171,
+      "label": "59 (0171)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=171",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00171/full/full/0/default.jpg",
+      "bytes": 664097,
+      "sha256": "2d93ac670eb4d523ee0ace29c141555532ed59cfffbbcb8840f6f034034a3a5f",
+      "decoded_size": [
+        2094,
+        2996
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 192,
+      "label": "78 (0192)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=192",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00192/full/full/0/default.jpg",
+      "bytes": 687919,
+      "sha256": "111c44b87558588eed44d9560f7fbf73d3dd6c8239e65980086f1859dad53c8c",
+      "decoded_size": [
+        2138,
+        3025
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 195,
+      "label": "79 (0195)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=195",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00195/full/full/0/default.jpg",
+      "bytes": 715220,
+      "sha256": "c8912a196f751e0158baef73bb731e9f8016ea5c03b1a5d3d494e204c21060fc",
+      "decoded_size": [
+        2131,
+        3004
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 196,
+      "label": "80 (0196)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=196",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00196/full/full/0/default.jpg",
+      "bytes": 717363,
+      "sha256": "b2ae892a7994520dd767719ceb7745baa6ac81e087c4fa95552d4f08241e3971",
+      "decoded_size": [
+        2174,
+        3004
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 197,
+      "label": "81 (0197)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=197",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00197/full/full/0/default.jpg",
+      "bytes": 701008,
+      "sha256": "3311373b8728267ed2e59c266f9babb2aecc0ecd644659dbb4f10be4fa323341",
+      "decoded_size": [
+        2129,
+        3003
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 198,
+      "label": "82 (0198)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=198",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00198/full/full/0/default.jpg",
+      "bytes": 698370,
+      "sha256": "deaac7e99436803f8d8f4d6657c81d69b03ade96df92b0cf06261e5a3480e243",
+      "decoded_size": [
+        2162,
+        3006
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 199,
+      "label": "83 (0199)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=199",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00199/full/full/0/default.jpg",
+      "bytes": 701709,
+      "sha256": "5288a7bffc5890e0e47d7731401d0bcbf8a325094b5e88a51c4d73bcd7466a01",
+      "decoded_size": [
+        2129,
+        2998
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 200,
+      "label": "84 (0200)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=200",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00200/full/full/0/default.jpg",
+      "bytes": 686608,
+      "sha256": "1c6a3bdd679214fc47e191e181d80132e855e499d9888f13045acdf76a8313d1",
+      "decoded_size": [
+        2169,
+        2996
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 201,
+      "label": "85 (0201)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=201",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00201/full/full/0/default.jpg",
+      "bytes": 718535,
+      "sha256": "433523cf0e1054ce1bc3b364a604836370b934ac22daa0aeae701f6de69f1c8b",
+      "decoded_size": [
+        2132,
+        2997
+      ],
+      "inspected": true
+    },
+    {
+      "canvas": 202,
+      "label": "86 (0202)",
+      "viewer_url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=202",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500332_00202/full/full/0/default.jpg",
+      "bytes": 672939,
+      "sha256": "f8e3859592b2029b9eb8ea309507e08c0dfe4fae20a08d15594eb67e0fa83447",
+      "decoded_size": [
+        2178,
+        3005
+      ],
+      "inspected": true
+    }
+  ],
+  "passages": [
+    {
+      "locator": "Memoirsp57/canvas169",
+      "finding": "Constructionparfaite attributed toAuzout/Picard; citesAuzoutDec28,1666letter extract and says reprinted1693 to preserveinvention memory andhonor. SupportsBevis identification, but contribution scope differs from earliestprinciple."
+    },
+    {
+      "locator": "pp58-59/canvases170-171",
+      "finding": "Reports screwrotation withoutframemotion despite spring, explains possiblethreadfit; imageedge distortion andturncount/eclipsedigitconversion difficulties. Authorsreportedmechanical/use limitations, no measuredbacklash or accuracy."
+    },
+    {
+      "locator": "pp78-80/canvases192,195,196",
+      "finding": "Explicitpriority inquiry;Malvasia1662silverreticle/screw andHuygens1659focalplanevirgula discussed. ConcludesHuygens invention andlaterperfection. Originalantecedentworks notinspected."
+    },
+    {
+      "locator": "pp82-83/canvases198-199",
+      "finding": "Says noexactfirstapplicationdatefortelescopicsights;reportsaskingPicard who creditedAuzoutcontribution. CitesPicard1671book/work1669 and EnglishTransactions search with no relevantmentionnoticed. Reportednegative search not proof ofabsence or prioraccess."
+    },
+    {
+      "locator": "pp84-86/canvases200-202",
+      "finding": "Discusses incrementalperfection and earlieridea versus laterdevelopment; telescope/clockattributions remainauthor narrative, underlyingrecords unverified."
+    }
+  ],
+  "bevis_comparison": "Bevis1717target has actualAuzout/Picardperfectedconstructionlanguage, but adjacentpriorityessaycreditsHuygens anddiscussesMalvasia. Cannot summarizewholevolumeasexclusiveFrenchfirstinvention. Gascoigne notnamed in selectedmicrometer/sightpassages; scopeofabsence limited, knowledge/intentunknown.",
+  "dependence": "DeLaHire expressly citesAuzout and reports1693republication; derivativecitation not independentmeasurement. Twoessaysshareauthor/volume. Huygens/Malvasia/Picard reports require originalwork/custody checks.",
+  "limits": [
+    "1687preface stilluninspected",
+    "Bouguer1748stilluninspected",
+    "Incompleteconstruction/historyarticlecoverage",
+    "NoGascoignepapersaccesschain",
+    "Noautograph/physicaldating",
+    "Noindependentreview"
+  ]
+}

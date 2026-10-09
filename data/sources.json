@@ -4644,6 +4644,20 @@
       "sha256": "1c3f9c5d91b5678ef852eaf18311aed844c9d9332ef4e1d540cbf6025dcc9fb2",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S299",
+      "title": "De la Hire1717 micrometer construction and priority essays: selected opposing passages",
+      "creator": "Philippe de La Hire; FrenchAcademy printed memoirs; Bayerische Staatsbibliothek digital surrogate",
+      "publication_date": "1719",
+      "url": "https://www.digitale-sammlungen.de/en/view/bsb10500332?page=169",
+      "source_type": "Historical printed memoirs digital scans",
+      "access": "SCAN_INSPECTED",
+      "inspected": "12selectedscans: Memoirspp57-59and78-86,canvases169-171,192,195-202. ConstructionparfaiteAuzout/Picard, Huygens/Malvasiaearlierprinciple, uncertaintelescopicsights date, mechanical/phase limits. Manifestmetadata inspected.",
+      "limitations": "Notfullarticles orvolume; remainingconstruction/historypages/plates uninspected. Historicalheading1717/catalogpublication1719distinct. Earliercitedworks andGascoigneaccess/intent unverified. BSBNoC-NCscans linkednotredistributed. Noindependentreview.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

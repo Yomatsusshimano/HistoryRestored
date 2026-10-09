@@ -269,3 +269,8 @@ S297 adds all4BevisL&P/2/346 surfaces, explicitTowneley/Derham lineage and repor
 ### 2026-10-09 — Bevis print crosswalk and inserted custody claim
 
 S298 all3historicalpp190-192 inspected. PrintaddsJones/Macclesfieldcustodyclause absent frommanuscriptparagraph;12selectedanglesagree, noaccuracyinference. May10letter/May17readingdistinct; above40year referenceunresolved against26/27year arithmetic. AdjacentShortopeningnotfullarticle. See [print audit](GASCOIGNE-ATTRIBUTION.md).27drafts/298sources; fulltwentyobjectivesactive,noindependentreview.
+
+
+### 2026-10-09 — Opposing1717 credit scope tested
+
+S299 twelveBSBscanspp57-59/78-86 inspected. Auzout/Picardperfectedconstructioncredit isreal, butadjacentessaycreditsHuygens earlierinvention/discussesMalvasia; sightapplicationdateexplicitlyuncertain. Report1717/catalogpublication1719distinct; remainingpages/plates uninspected. See [opposing-text audit](GASCOIGNE-ATTRIBUTION.md).27drafts/299sources; alltwentyobjectivesactive,nopriorityverdict/independentreview.

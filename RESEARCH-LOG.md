@@ -1470,3 +1470,10 @@ Previous goal turn was a verified status restatement without research-state prog
 S298 all3historicalpp190-192 inspected. PrintaddsJones/Macclesfieldcustodyclause absent frommanuscriptparagraph;12selectedanglesagree, noaccuracyinference. May10letter/May17readingdistinct; above40year referenceunresolved against26/27year arithmetic. AdjacentShortopeningnotfullarticle. See [print audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/298sources; fulltwentyobjectivesactive,noindependentreview.
 
 Previousgoalturnpublishedverifieddd51e82;cleancheckoutrevalidated. CrossrefquerylocatesDOI, ArchiveDOIquerytwoitemsactualmetadatafilename; normalTLSnativecurldownload242042bytes/3pages. All3scansrendered/inspected underexistingPDFworkflow; OCRcorruptionnotauthoritativetranscription. No cover/containerchange, originalhashretained. Selectedmanuscript12valuescompared; addedcustodyclause andtimedate rolesexplicit. No originalletter/currentcustody, exactFrenchtext, adjacentfullarticle, instrumentaccuracy, outreach orindependentreview claimed.
+
+
+### 2026-10-09 — Opposing1717 credit scope tested
+
+S299 twelveBSBscanspp57-59/78-86 inspected. Auzout/Picardperfectedconstructioncredit isreal, butadjacentessaycreditsHuygens earlierinvention/discussesMalvasia; sightapplicationdateexplicitlyuncertain. Report1717/catalogpublication1719distinct; remainingpages/plates uninspected. See [opposing-text audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/299sources; alltwentyobjectivesactive,nopriorityverdict/independentreview.
+
+Previousgoalturnpublishedverified68f1ef6;cleancheckoutrevalidated. Bibliography/BSBsearch locatedactual1717volume, manifestnormalTLS200. ExactlabelseparateHistory/Memoirspagination/insertedplates correctedinitialpageoffset guess beforeconclusions. Initialviewcalledbeforelive downloadfinished failed; polledsame47494session tocompletion, no restart. Twelve selectedtextscansvisuallyinspected, sourceNoC-NC honoredbylinking. Unrelatedcover/frontispiece andextraHistorypages notclaimedevidence. Nofullarticle/platecoverage, exact1687/Bouguer1748, citedoriginals, calibratedbacklash, opponentaccess/intent, outreach orindependentreview claimed.
