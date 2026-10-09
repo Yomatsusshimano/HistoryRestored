@@ -1,0 +1,110 @@
+{
+  "source_ids": [
+    "S282",
+    "S287"
+  ],
+  "paired_louville_times": [
+    {
+      "event": "Four digits",
+      "french": "08:28:34",
+      "english": "08:28:20",
+      "french_locator": "BSBcanvas229/printed89",
+      "english_locator": "HalleyPDF7/printed251"
+    },
+    {
+      "event": "First spot ingress begins",
+      "french": "08:33:11",
+      "english": "08:32:57",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF7/printed251"
+    },
+    {
+      "event": "First spot fully hidden",
+      "french": "08:33:32",
+      "english": "08:33:18",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF7/printed251"
+    },
+    {
+      "event": "Second spot hidden",
+      "french": "08:34:22",
+      "english": "08:34:08",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF7/printed251"
+    },
+    {
+      "event": "Third spot hidden",
+      "french": "08:35:12",
+      "english": "08:34:58",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF7/printed251"
+    },
+    {
+      "event": "First spot emersion (French says middle)",
+      "french": "09:36:15",
+      "english": "09:36:01",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF8/printed252"
+    },
+    {
+      "event": "Second spot emersion",
+      "french": "09:38:41",
+      "english": "09:38:26",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF8/printed252"
+    },
+    {
+      "event": "Third spot emersion",
+      "french": "09:40:40",
+      "english": "09:40:25",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF8/printed252"
+    },
+    {
+      "event": "Eclipse ends",
+      "french": "10:20:19",
+      "english": "10:20:04",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF8/printed252"
+    }
+  ],
+  "french_contacts": {
+    "partial_begin": "08:06:13",
+    "total_begin": "09:09:13",
+    "total_end": "09:12:35",
+    "partial_end": "10:20:19"
+  },
+  "french_stated_totality_s": 202,
+  "french_calculated_totality_s": 225,
+  "limits": "Printed text transcribed from canvases229-230; paired sunspot event semantics provisional, especially middle versus unspecified emersion. Times retained as printed; no clock offset applied. Original clocks/sites/notes unauthenticated.",
+  "scans": [
+    {
+      "canvas": 229,
+      "printed_page": 89,
+      "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500330_00229/full/full/0/default.jpg",
+      "bytes": 662095,
+      "sha256": "22efa4f83d8f04d28e6b8f0dfe1d72adcfc33fc0e12e6e672bad844f8c696090",
+      "public_copy": null
+    },
+    {
+      "canvas": 230,
+      "printed_page": 90,
+      "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500330_00230/full/full/0/default.jpg",
+      "bytes": 634985,
+      "sha256": "4c576902cf6336fa698501fcf5638eaf133292a895ccefc1299e8e474a4af397",
+      "public_copy": null
+    },
+    {
+      "canvas": 231,
+      "printed_page": 91,
+      "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500330_00231/full/full/0/default.jpg",
+      "bytes": 706225,
+      "sha256": "4b25e25695340c29db7046114bacfcd34f0cb9b5a188dfe8ba72114129d949ee",
+      "public_copy": null
+    }
+  ],
+  "institution": "München, Bayerische Staatsbibliothek; shelfmark4Acad.117-1715;bsb10500330",
+  "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10500330/manifest",
+  "manifest_sha256": "a02cc5d4b1f4d613bc88a3db3881fefd5b9608e892bf59df3f7c0775834ae9b0",
+  "rights": "Manifest NoC-NC1.0. Scans linked and hashed; not redistributed in public repository."
+}

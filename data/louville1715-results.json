@@ -1,0 +1,83 @@
+{
+  "input_sha256": "c8023a08e0db629697d1ae830e54e021754e5d7ecc371b1b20b6ec7007af6894",
+  "pairs": [
+    {
+      "event": "Four digits",
+      "french": "08:28:34",
+      "english": "08:28:20",
+      "french_locator": "BSBcanvas229/printed89",
+      "english_locator": "HalleyPDF7/printed251",
+      "french_minus_english_s": 14
+    },
+    {
+      "event": "First spot ingress begins",
+      "french": "08:33:11",
+      "english": "08:32:57",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF7/printed251",
+      "french_minus_english_s": 14
+    },
+    {
+      "event": "First spot fully hidden",
+      "french": "08:33:32",
+      "english": "08:33:18",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF7/printed251",
+      "french_minus_english_s": 14
+    },
+    {
+      "event": "Second spot hidden",
+      "french": "08:34:22",
+      "english": "08:34:08",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF7/printed251",
+      "french_minus_english_s": 14
+    },
+    {
+      "event": "Third spot hidden",
+      "french": "08:35:12",
+      "english": "08:34:58",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF7/printed251",
+      "french_minus_english_s": 14
+    },
+    {
+      "event": "First spot emersion (French says middle)",
+      "french": "09:36:15",
+      "english": "09:36:01",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF8/printed252",
+      "french_minus_english_s": 14
+    },
+    {
+      "event": "Second spot emersion",
+      "french": "09:38:41",
+      "english": "09:38:26",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF8/printed252",
+      "french_minus_english_s": 15
+    },
+    {
+      "event": "Third spot emersion",
+      "french": "09:40:40",
+      "english": "09:40:25",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF8/printed252",
+      "french_minus_english_s": 15
+    },
+    {
+      "event": "Eclipse ends",
+      "french": "10:20:19",
+      "english": "10:20:04",
+      "french_locator": "BSBcanvas230/printed90",
+      "english_locator": "HalleyPDF8/printed252",
+      "french_minus_english_s": 15
+    }
+  ],
+  "offset_counts": {
+    "14": 6,
+    "15": 3
+  },
+  "french_totality_s": 202,
+  "limits": "Arithmetic differences only. A clock-correction mechanism is consistent with the pattern but not authenticated by original notes. Shared venue/calibration/event prevents independent astronomical anchoring."
+}

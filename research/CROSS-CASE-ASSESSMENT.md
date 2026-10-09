@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 - French eclipse publication crosswalk
+
+S287selected officialBSBscans show nineLouville times14-15s later thanEnglish compilation;202s totality agrees,225s prediction kept separate. SharedHalleycalibration is explicit; correction mechanism consistent, not authenticated. Reporting1715/publication1718 distinguished, scanslinkednotrepublished. See [French account audit](LOUVILLE-1715-CROSSWALK.md).26drafts/287sources; all twenty objectives active, no review or chronology break.
+
 ### 2026-10-09 - Regional eclipse report audit
 
 All18S282article pages now visually inspected.26synopsis rows:19durations/sevenblanks;11paired endpoints agree. Four durations exceed author-inferred237s maximum; clock-quality claims, uncertain sites and shared lineage retained. FourthLondoncontact gives40.022s residual with separate15s clock correction. See [regional audit](HALLEY-1715-REGIONAL.md).26drafts/286sources; all twenty objectives remain active, no independent review or chronology break.

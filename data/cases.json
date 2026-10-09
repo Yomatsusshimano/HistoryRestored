@@ -2699,13 +2699,18 @@
           "source_id": "S282",
           "locator": "PDF7-18/printed251-262;data/halley1715-regional-results.json",
           "statement": "Final London contact10:20:00 uses15s clock correction, model40.022s earlier. Regional synopsis26rows includes19durations;11endpoint pairs agree, while four exceed author-inferred237s maximum. Original observers/site/calibration and document independence unresolved."
+        },
+        {
+          "source_id": "S287",
+          "locator": "BSBcanvases229-231/printed89-91;data/louville1715-results.json",
+          "statement": "Separately printed account explicitly labelsMay3,1715newstyle and shares Halley clock calibration. Nine paired times differ14s or15s from English compilation; both retain202s totality forLouville. Correction during compilation is consistent but not proven."
         }
       ],
       "physical_evidence": "No original paper/manuscript or dated material inspected; digital scan and executed modern orbital calculation available.",
       "surviving_documents": "Selected1715printed observation scans with calibration and contacts; publisher-deposited citation metadata; official calendar-act text.",
       "source_interpretation": "Halley reports total solar eclipse at Crane Court and regional observations; precise source timing has an internal onset discrepancy.",
       "investigation_inference": "Conventional Julian conversion and modern model are compatible at day/type/minute scale. Simple tested nonzero integer-year relabelings fail for this record under fixed date/location/model; one record does not establish all chronology or disprove flexible rewriting.",
-      "next_test": "Retrieve original observer correspondence/custody and clock/site records, then declare regional eclipse comparison; compare high-precision ephemeris and separately sourced astronomical anchors with explicit chronology transformations.",
+      "next_test": "Inspect rest ofLouville account/additional editions and original calibration/editorial records; resolve regional sites and compare separately located astronomical observations under explicit chronology transformations.",
       "chronology": {
         "reported": "April22,1715Julian interpreted asMay3,1715Gregorian;CrossrefpublicationMay31,1715",
         "dated_object": "Printed report of observation and modern calculated event",
@@ -2724,7 +2729,7 @@
         "Independent review",
         "Original regional correspondence/calibration and geocoded observer sites; remaining partial/sunspot timing transcription"
       ],
-      "dependence": "Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics.",
+      "dependence": "Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics. S287French account explicitly shares Halley calibration and venue; separate publication is not wholly independent chronology. Nine paired spot/contact times are dependent within the record.",
       "competing_explanations": [
         "Document date or custody error",
         "Later compilation or calculated record",

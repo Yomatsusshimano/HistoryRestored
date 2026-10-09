@@ -4462,6 +4462,21 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S287",
+      "title": "De Louville: observation faite à Londres de l'éclipse totale du Soleil du3May1715,nouveau style",
+      "creator": "Chevalier de Louville; Académie Royale des Sciences; Bayerische Staatsbibliothek digital surrogate",
+      "publication_date": "1718",
+      "url": "https://www.digitale-sammlungen.de/en/view/bsb10500330?page=229",
+      "source_type": "Primary historical observation digital surrogate",
+      "access": "SCAN_INSPECTED",
+      "inspected": "IIIFmanifest metadata read;canvases229-231/printed89-91 visually inspected. Calendar new-style label, shared Halley clock calibration, contacts and nine printed-time pairs transcribed. Six14s/three15s differences;202s observed versus225s calculated distinguished.",
+      "limitations": "Selected pages only; original manuscript/clock/custody unauthenticated. Shared venue/calibration/event and English compilation cause dependence. Publication1718 from institutional metadata not scanned title page. NoC-NC1.0 scans linked/hashed, not redistributed. First-spot emersion semantics provisional.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
