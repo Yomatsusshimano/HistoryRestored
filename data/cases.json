@@ -2665,7 +2665,7 @@
       "id": "C026",
       "title": "1715 London-Paris eclipse observations and chronology diagnostics",
       "category": "astronomical chronology",
-      "place": "Royal Society house, Crane Court, London; Luxembourg, contextually interpreted as Paris",
+      "place": "Royal Society house, Crane Court, London; Luxembourg contextually interpreted asParis; Chatenay historical site unverified",
       "coordinates": null,
       "status": "SOURCED_DRAFT",
       "reviewers": [],
@@ -2709,13 +2709,18 @@
           "source_id": "S288",
           "locator": "BSBcanvases225-226/printed85-86;data/delisle1715-results.json",
           "statement": "Delisle account reports partial eclipse at Luxembourg, onset08:12:15or16. Fixed approximate Paris model givesPartial/onset08:11:47.295,27.7-28.7s earlier;18site variants remainPartial. Peak/end seconds unresolved; digits not area percentage."
+        },
+        {
+          "source_id": "S289",
+          "locator": "BSBcanvases226-228/printed86-88;data/maraldi1715-results.json",
+          "statement": "Chatenay account supplies clock method and27primary/26dependent derived phases. Fixed modelPartial/contact residuals−25.338s/−10.123s;peakdiameter0.939988versus interpretedsource0.931944. Substantial row discrepancies/late6 token retained, noprecision validation."
         }
       ],
       "physical_evidence": "No original paper/manuscript or dated material inspected; digital scan and executed modern orbital calculation available.",
       "surviving_documents": "Inspected Halley printed account and regional synopsis; selected deLouville and complete shortDelisle account in separately preserved FrenchAcademy volume; publisher metadata and officialcalendar-act text. Original notes/custody unauthenticated.",
       "source_interpretation": "Halley reports total solar eclipse at Crane Court and regional observations; precise source timing has an internal onset discrepancy.",
       "investigation_inference": "Conventional Julian conversion and modern model are compatible at day/type/minute scale. Simple tested nonzero integer-year relabelings fail for this record under fixed date/location/model; one record does not establish all chronology or disprove flexible rewriting.",
-      "next_test": "Authenticate Paris observer site/time convention and original notes; inspect complete Maraldi account; combine separately located events with original calibration/custody and independent ephemeris under explicit chronology transformations.",
+      "next_test": "Compare editions and original clock/micrometer/site records; resolve phase/late-time discrepancies; test sensitivity and separately dated events before any common chronology inference.",
       "chronology": {
         "reported": "April22,1715Julian interpreted asMay3,1715Gregorian;CrossrefpublicationMay31,1715",
         "dated_object": "Printed report of observation and modern calculated event",
@@ -2733,9 +2738,10 @@
         "Multiple held-out astronomical anchors",
         "Independent review",
         "Original regional correspondence/calibration and geocoded observer sites; remaining partial/sunspot timing transcription",
-        "Authenticated Delisle Luxembourg site and clock convention; numerical peak/end seconds unavailable"
+        "Authenticated Delisle Luxembourg site and clock convention; numerical peak/end seconds unavailable",
+        "Maraldi original micrometer readings, gnomon/site/clock logs, late time token/additional edition reconciliation"
       ],
-      "dependence": "Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics. S287French account explicitly shares Halley calibration and venue; separate publication is not wholly independent chronology. Nine paired spot/contact times are dependent within the record. Delisle uses different reported observing context but same eclipse/Academy volume asLouville; same model/DeltaT asLondon. Historical clock/location and printed-item provenance remain unvalidated.",
+      "dependence": "Archive/JSTOR scan and metadata same article lineage. NASA and Astronomy Engine share Espenak-Meeus DeltaT; neither is a second historical witness. Location variants and repeated contacts are dependent diagnostics. S287French account explicitly shares Halley calibration and venue; separate publication is not wholly independent chronology. Nine paired spot/contact times are dependent within the record. Delisle uses different reported observing context but same eclipse/Academy volume asLouville; same model/DeltaT asLondon. Historical clock/location and printed-item provenance remain unvalidated. Maraldi supplies different site/context but sameevent/volume/model; primary phases already inferred from uneclipsed-diameter measurements, secondtable explicitlydependent.",
       "competing_explanations": [
         "Document date or custody error",
         "Later compilation or calculated record",
@@ -2744,7 +2750,7 @@
         "Modern orbital/DeltaT/model radius error",
         "Explicit nonuniform chronology transformation requiring separate tests"
       ],
-      "counterevidence": "Modern model contacts remain48-55s earlier than inspected source times; first-contact clock/delay arithmetic differs11-16s from reported corrected time. Precise timing and manuscript authenticity remain unresolved. These discrepancies do not establish a chronology break. Final partial contact remains40.022s earlier in the model; four synopsis durations exceed the author inferred maximum. These are not silently excluded."
+      "counterevidence": "Modern model contacts remain48-55s earlier than inspected source times; first-contact clock/delay arithmetic differs11-16s from reported corrected time. Precise timing and manuscript authenticity remain unresolved. These discrepancies do not establish a chronology break. Final partial contact remains40.022s earlier in the model; four synopsis durations exceed the author inferred maximum. These are not silently excluded. Maraldi phase tables include substantial model differences and unresolved late6 time token; noerror-based precision fit established."
     }
   ]
 }

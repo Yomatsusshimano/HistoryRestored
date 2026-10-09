@@ -1,5 +1,9 @@
 # Research log
 
+### 2026-10-09 - Maraldi complete phase and calibration account
+
+Previous goal turn verified public progress6ec9995; revalidated clean. NormalTLSnativecurl acquired canvases227-228;with226allprinted86-88visually inspected. Clocksolaraltitude/noongnomon method and27primary/26derivedextentrows transcribed;firsttable alreadyprocessed, notoriginalmicrometerdivisions. Westrelative-site units and late6token unresolved. FixedapproximateChatenay/true-time/digit convention diagnostic:Partial,contactresiduals−25.338/−10.123s,peak0.939988diameter/source0.931944. Allrowsretained; differences/outlierplotted,figurevisually inspected. No site/clock/radiusfit or inventedCI; source-derived rowsdependent. Scanslinked/hashnotredistributed.26drafts/289sources,no review/global chronology/reconstruction; all twenty objectives active. See research/MARALDI-1715-PHASES.md.
+
 ### 2026-10-09 - Different observing site: Delisle Paris diagnostic
 
 Previous goal turn made verified public progress317f48e; revalidated clean checkout. NormalTLS native curl acquired BSBcanvases225-226/printed85-86; Delisle full short account visually inspected, separateMaraldi beginning excluded from complete-site claims. Onsettwo seconds alternatives, peakunknownseconds and endfewseconds before10:29 retained;11¼digits not area. Fixed approximateParisLuxembourg point, no fit:Partial/onset08:11:47.295,27.7-28.7s earlier;18variantsPartial. Peak/end differences nominal-label only, not precision residuals. True-time extension/calendar/site contextual assumptions stated; same event/model/volume dependence. Scanslinked/hashednotredistributed.26drafts/288sources,no review/prospective success/worldwide reconstruction; full twenty goals retained. See research/DELISLE-1715-PARIS.md.

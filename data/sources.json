@@ -4492,6 +4492,21 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S289",
+      "title": "Maraldi: observation de l'éclipse du Soleil du3Mai1715 àChâtenay",
+      "creator": "M. Maraldi; Académie Royale des Sciences; Bayerische Staatsbibliothek digital surrogate",
+      "publication_date": "1718",
+      "url": "https://www.digitale-sammlungen.de/en/view/bsb10500330?page=226",
+      "source_type": "Primary historical observation digital surrogate",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Canvases226-228/printed86-88 full short account visually inspected. Solar-altitude/noon-gnomon clock checks;27primary/26derived phase rows and two contacts transcribed. Fixed angular-disc calculation and figure executed; ambiguous late6 retained.",
+      "limitations": "Original micrometer divisions/instrument/site/clock/editioncustody unauthenticated. Both tables processed/dependent; minute-only seconds unknown. Westrelative-site unit unresolved. Digit convention conditional; model differences include outliers, no confidence bounds/fitting. Samevolume/event/model dependence;NoC-NC imageslinked/hashednotredistributed.",
+      "local_copy": null,
+      "sha256": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

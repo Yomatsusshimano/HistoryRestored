@@ -1,0 +1,578 @@
+{
+  "source_id": "S289",
+  "date": "1715-05-03",
+  "site_token": "Châtenay",
+  "observer": {
+    "latitude": 48.768,
+    "longitude": 2.277,
+    "height_m": 0,
+    "role": "Selected approximate Chatenay-area diagnostic point; historical instrument position/modern locality identity not authenticated."
+  },
+  "reported_relative_site": "Four minutes south of Observatory; ten west, western unit unspecified in inspected sentence. Not converted to coordinates.",
+  "clock": "Seconds pendulum checked by solar altitudes before eclipse and noon Sun centre passage at Chatenay gnomon; actual adjustment values unknown.",
+  "partial_begin": "08:11:48",
+  "partial_end": "10:28:05",
+  "measured_rows": [
+    {
+      "row": 1,
+      "time_token": "08:19",
+      "digits": 1,
+      "digit_minutes": 11,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 2,
+      "time_token": "08:21",
+      "digits": 1,
+      "digit_minutes": 34,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 3,
+      "time_token": "08:23",
+      "digits": 1,
+      "digit_minutes": 51,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 4,
+      "time_token": "08:28",
+      "digits": 3,
+      "digit_minutes": 13,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 5,
+      "time_token": "08:31",
+      "digits": 3,
+      "digit_minutes": 42,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 6,
+      "time_token": "08:34",
+      "digits": 4,
+      "digit_minutes": 21,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 7,
+      "time_token": "08:48:30",
+      "digits": 6,
+      "digit_minutes": 43,
+      "seconds_explicit": true,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 8,
+      "time_token": "08:56",
+      "digits": 8,
+      "digit_minutes": 26,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 9,
+      "time_token": "09:04",
+      "digits": 9,
+      "digit_minutes": 26,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 10,
+      "time_token": "09:07",
+      "digits": 10,
+      "digit_minutes": 11,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 11,
+      "time_token": "09:11",
+      "digits": 10,
+      "digit_minutes": 50,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 12,
+      "time_token": "09:16",
+      "digits": 11,
+      "digit_minutes": 11,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 13,
+      "time_token": "09:17:20",
+      "digits": 11,
+      "digit_minutes": 11,
+      "seconds_explicit": true,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 14,
+      "time_token": "09:23",
+      "digits": 10,
+      "digit_minutes": 50,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 15,
+      "time_token": "09:25",
+      "digits": 10,
+      "digit_minutes": 28,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 16,
+      "time_token": "09:30:20",
+      "digits": 9,
+      "digit_minutes": 37,
+      "seconds_explicit": true,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 17,
+      "time_token": "09:34:20",
+      "digits": 9,
+      "digit_minutes": 5,
+      "seconds_explicit": true,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 18,
+      "time_token": "09:36:25",
+      "digits": 8,
+      "digit_minutes": 43,
+      "seconds_explicit": true,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 19,
+      "time_token": "09:38:25",
+      "digits": 8,
+      "digit_minutes": 25,
+      "seconds_explicit": true,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 20,
+      "time_token": "09:40:50",
+      "digits": 7,
+      "digit_minutes": 56,
+      "seconds_explicit": true,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 21,
+      "time_token": "09:44",
+      "digits": 7,
+      "digit_minutes": 25,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 22,
+      "time_token": "09:56:03",
+      "digits": 4,
+      "digit_minutes": 58,
+      "seconds_explicit": true,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 23,
+      "time_token": "10:01",
+      "digits": 4,
+      "digit_minutes": 28,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 24,
+      "time_token": "10:04",
+      "digits": 4,
+      "digit_minutes": 3,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 25,
+      "time_token": "10:06",
+      "digits": 2,
+      "digit_minutes": 35,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": "Printed late token6 retained as10:06; missing leading1/other error possible but unproven."
+    },
+    {
+      "row": 26,
+      "time_token": "10:17",
+      "digits": 1,
+      "digit_minutes": 45,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 27,
+      "time_token": "10:20",
+      "digits": 1,
+      "digit_minutes": 11,
+      "seconds_explicit": false,
+      "table": "measured",
+      "locator": "printed87-88",
+      "time_ambiguity": null
+    }
+  ],
+  "derived_rows": [
+    {
+      "row": 1,
+      "time_token": "08:17:40",
+      "digits": 1,
+      "digit_minutes": 0,
+      "seconds_explicit": true,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 2,
+      "time_token": "08:20:30",
+      "digits": 1,
+      "digit_minutes": 30,
+      "seconds_explicit": true,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 3,
+      "time_token": "08:24:10",
+      "digits": 2,
+      "digit_minutes": 0,
+      "seconds_explicit": true,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 4,
+      "time_token": "08:27",
+      "digits": 3,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 5,
+      "time_token": "08:30",
+      "digits": 3,
+      "digit_minutes": 30,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 6,
+      "time_token": "08:33",
+      "digits": 4,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 7,
+      "time_token": "08:35",
+      "digits": 4,
+      "digit_minutes": 30,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 8,
+      "time_token": "08:49",
+      "digits": 6,
+      "digit_minutes": 45,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 9,
+      "time_token": "08:58",
+      "digits": 8,
+      "digit_minutes": 30,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 10,
+      "time_token": "09:05",
+      "digits": 9,
+      "digit_minutes": 30,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 11,
+      "time_token": "09:08",
+      "digits": 10,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 12,
+      "time_token": "09:13",
+      "digits": 10,
+      "digit_minutes": 30,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 13,
+      "time_token": "09:16",
+      "digits": 11,
+      "digit_minutes": 11,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 14,
+      "time_token": "09:19",
+      "digits": 11,
+      "digit_minutes": 11,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 15,
+      "time_token": "09:22",
+      "digits": 11,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 16,
+      "time_token": "09:32",
+      "digits": 9,
+      "digit_minutes": 30,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 17,
+      "time_token": "09:35",
+      "digits": 9,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 18,
+      "time_token": "09:38",
+      "digits": 8,
+      "digit_minutes": 30,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 19,
+      "time_token": "09:41",
+      "digits": 8,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 20,
+      "time_token": "09:43:30",
+      "digits": 7,
+      "digit_minutes": 30,
+      "seconds_explicit": true,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 21,
+      "time_token": "09:57",
+      "digits": 5,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 22,
+      "time_token": "10:01",
+      "digits": 4,
+      "digit_minutes": 30,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 23,
+      "time_token": "10:04",
+      "digits": 4,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 24,
+      "time_token": "10:15:30",
+      "digits": 2,
+      "digit_minutes": 30,
+      "seconds_explicit": true,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 25,
+      "time_token": "10:18:30",
+      "digits": 1,
+      "digit_minutes": 30,
+      "seconds_explicit": true,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    },
+    {
+      "row": 26,
+      "time_token": "10:21",
+      "digits": 1,
+      "digit_minutes": 0,
+      "seconds_explicit": false,
+      "table": "derived",
+      "locator": "printed88",
+      "time_ambiguity": null
+    }
+  ],
+  "unit_interpretation": "Digits divide diameter into12; minute interpreted as1/60digit. Conditional unit convention, not an area fraction or instrument accuracy.",
+  "scans": [
+    {
+      "canvas": 226,
+      "printed_page": 86,
+      "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500330_00226/full/full/0/default.jpg",
+      "bytes": 638181,
+      "sha256": "59d3f4540be7f50645ed98f79b3c07269538107daff4eec27931ea5cde4bc4a9",
+      "public_copy": null
+    },
+    {
+      "canvas": 227,
+      "printed_page": 87,
+      "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500330_00227/full/full/0/default.jpg",
+      "bytes": 566022,
+      "sha256": "63081504dd4c6726142ab4f6b988ba022909f0b72eef256a50a7155405fb8452",
+      "public_copy": null
+    },
+    {
+      "canvas": 228,
+      "printed_page": 88,
+      "url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10500330_00228/full/full/0/default.jpg",
+      "bytes": 462214,
+      "sha256": "1f8227f8da011cdcf8105b25864c4d812a8421bea4cf6f709b9f25e5b9c8889f",
+      "public_copy": null
+    }
+  ],
+  "rights": "München,Bayerische Staatsbibliothek;manifestNoC-NC1.0;imageslinked/hashednotredistributed.",
+  "table_status": "First table reports eclipsed extent inferred from measurements of uneclipsed diameter, not recovered raw micrometer divisions. Second explicitly derived from those observations. Both tables processed/dependent; no original instrument readings authenticated."
+}

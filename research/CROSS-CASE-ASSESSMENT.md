@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 - Maraldi phase sequence and instrumental limits
+
+S289fullshortaccount has27primary/26derived phases,reported clockchecks and exactcontacts. FixedChatenay diagnosticPartial,residuals−25.338/−10.123s;conditional diameter0.939988/source0.931944. Late6token/outliers and processed-table dependence retained with inspectedfigure. See [phase audit](MARALDI-1715-PHASES.md).26drafts/289sources; all twenty outcomes active,no review or chronology break.
+
 ### 2026-10-09 - Paris eclipse observation and executed diagnostic
 
 S288Delisle account at different observing site adds partial-eclipse report and fixed Paris modelPartial. Onset27.7-28.7s early;peak/end seconds remainunknown,18site variantsPartial,digitsnotarea. Shared event/model/volume and unauthenticatedsite/clock preserved. See [Paris audit](DELISLE-1715-PARIS.md).26drafts/288sources; full twenty objectives active,no independent review or chronology break.
