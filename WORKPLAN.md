@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Holotype stratigraphic-code retrieval token
+
+S323author-uploaded survey text reports UF73946/code16,9,2,A andJuly3,1984collection. UniqueS321catalog join agrees on date/taxon; key/units remain unknown, and dated74968/74978 remain separate. Original1989description/notebook and survey scans unacquired. See [code audit](research/JEREMIE-HOLOTYPE-CODE.md).28drafts/323sources; no dated-specimen unit join, common deposition or independent review.
+
 ### 2026-10-09 — Named original stratigraphy record retrieval route
 
 S322finding aid supplies explicit Series2Box3Book2Jeremie#5Stratigraphy, with unknown date, plusBox3Book4Cordier-WoodsHaiti1983/1984. Original notes not acquired; exact field-code absence is bounded to description. Next inspect those items for XH007/MKL998/1006/992 accession/bag/depth links. See [route](research/UFVP-ARCHIVAL-ROUTE.md).28drafts/322sources; all twenty outcomes active.

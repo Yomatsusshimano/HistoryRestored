@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Jérémie holotype excavation-code lead](research/JEREMIE-HOLOTYPE-CODE.md): reported notation, exact catalog agreement and unresolved units/specimen associations.
+
 - [Gascoigne attribution dispute](research/GASCOIGNE-ATTRIBUTION.md): inspected1713 manuscript, proposed correction and unresolved technical priority.
 
 - [Halley1715 astronomical chronology audit](research/HALLEY-1715-ECLIPSE.md): inspected observation scans, calendar conversion and conditional eclipse/year-shift calculations.

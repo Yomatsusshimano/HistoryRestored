@@ -1654,3 +1654,10 @@ Previous goal turn made progress:85edc32published original rat table/calibration
 S318p4/29/30visually inspected; Table4distinguishes0–5cmorganic/surface and5–25cmred clay faunal lists. Individually dated specimen-to-unit links absent; primate table/prose conflict retained.50bags/shaft geometry reported, not mud thickness or a deposition date. See [audit](research/JEREMIE-DEPOSITION-CONTEXT.md).28drafts/318sources; all twenty objectives active, no independent review.
 
 Previous goal turn made progress:52ca156published isotope-accession links and19files byte-verified. Current checkout clean. Bounded original-reference search located2000registry; Archive AMNH-contributed32page scan acquired. Dominican/BHLdownloads403andCiteSeer404respected; USAIDhostDNSfailed. Selected pages visually inspected, original table transcribed; no copyright redistribution assumed. No individually dated bone assigned by taxon alone, no shaft/deposit substitution, outreach or completion claimed.
+
+
+### 2026-10-09 — Holotype stratigraphic-code retrieval token
+
+S323author-uploaded survey text reports UF73946/code16,9,2,A andJuly3,1984collection. UniqueS321catalog join agrees on date/taxon; key/units remain unknown, and dated74968/74978 remain separate. Original1989description/notebook and survey scans unacquired. See [code audit](research/JEREMIE-HOLOTYPE-CODE.md).28drafts/323sources; no dated-specimen unit join, common deposition or independent review.
+
+Previous status-only goal turn made no research progress; current clean checkout and remote1779dae revalidated. Next safe action inspected author-uploaded survey methods/type entry and recovered an additional original-note search token. Offered PDF404 respected; no scan claim. Earlier original1989acquisition attempts encountered BHL403 and restricted Archive book; unrelated limpets PDF excluded. Catalog comparison executed against existing18exact matches. No third-party contact, age/depth assignment, physical authentication, independent review or goal completion claimed.

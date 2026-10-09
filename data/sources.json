@@ -4981,6 +4981,20 @@
       "local_copy": "",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S323",
+      "title": "West Indian terrestrial mammals in world collections",
+      "creator": "Rafael Borroto-Páez and Ignacio Ramos García (chapter authors; distinct from book editors)",
+      "publication_date": "2012 (book title page in exposed text); author upload2015-07-14",
+      "url": "https://www.researchgate.net/publication/280040090_WEST_INDIAN_TERRESTRIAL_MAMMALS_IN_WORLD_COLLECTIONS",
+      "source_type": "Author-uploaded collection-survey chapter, Terrestrial Mammals of the West Indies: Contributions, pp11–31",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Exposed book title/authorship, methods and Florida Museum type entries, specifically Rhizoplagiodontia lemkei catalog73946/code16,9,2,A; no PDF pages visually inspected.",
+      "limitations": "Mixed museum/documentary survey; exact entry lineage unresolved. Offered PDF404. Woods1989original and field-code key unacquired. Code is not interpreted depth or dated-bone association. No original specimen authentication or independent deposition chronology.",
+      "local_copy": "",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

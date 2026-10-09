@@ -1,0 +1,25 @@
+{
+  "input_sha256": {
+    "jeremie-holotype-code.json": "5126951cc11c2f1f14e490ded2dd8e4a1c98467563b543809640985f448122dc",
+    "ufvp-dated-specimen-links.json": "edab828aa2c9f84653d5a970bf8c832749cdcba9f800258a8909ae91b6acb010"
+  },
+  "source_ids": [
+    "S323",
+    "S321"
+  ],
+  "accession": "UF:VP:73946",
+  "unique_catalog_match": true,
+  "taxon_agrees": true,
+  "collection_date_agrees": true,
+  "catalog_type_status": "Holotype",
+  "catalog_location_id": "XH007",
+  "catalog_field_number_raw": "",
+  "survey_stratigraphic_code_raw": "16, 9, 2, A",
+  "dated_same_taxon_accessions": [
+    "74968",
+    "74978"
+  ],
+  "depth_resolved": false,
+  "dated_specimen_to_unit_join_resolved": false,
+  "interpretation": "Collection identity agreement; no independent physical authentication or dating/depth transfer."
+}
