@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Copalis sediment mechanism and context
+
+Audited S244Table18 all68 reported observations plus nine exact-label Table3 matches and ten Ws assays. Preserved11 vent flags, zero/unknown thickness, approximate ranges, A31/A40 coordinate differences, T6/T1/A31 depth inversions and discordant T15B. Original intrusion geometry and source/pressure inputs are needed to discriminate emplacement and trigger; no age or hydraulic fit. Public GeoJSON is reported-point context, not a reconstructed event footprint. Next original1992 sections/figures and trench/boring logs, specimen preparation/calibration and field correlation. See research/COPALIS-VENTED-SAND.md. Original twenty outcomes remain incomplete.
+
 ### 2026-10-09 — Cascadia field release and specimen locators
 
 S244 USGS2022 release recovered with guide and18 tables. Selected guide/Table10–13 audit supplies GF2 rootUC-DC-3,1994/1995 sampling, WGS84 location and approximate tidal survey context; tag60/50 conflict retained.19 Long Island trees account for21 archived series;702 endpoint/count,767 span/count and766 comment-label discrepancies preserved. Plain/guide census totals also differ. Original notes/accessions, original processing and Ozette inputs remain missing. Next specimen-record retrieval using these identifiers and separate regional sediment-table audit; do not repeat absence of all field details. See research/CASCADIA-FIELD-RELEASE.md. All twenty outcomes remain in scope; no independent review or absolute-date authentication.

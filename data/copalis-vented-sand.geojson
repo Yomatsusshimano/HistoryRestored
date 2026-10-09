@@ -1,0 +1,1433 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.164,
+          47.1246
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E37",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 8,
+        "reported_vent": null,
+        "source_comments": "No soil beneath sand interpreted as vented",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1623,
+          47.1245
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "A16",
+        "reported_method": "Boring",
+        "reported_date": "7-Jul-1987",
+        "reported_sand_cm": 17,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1645,
+          47.1237
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E36",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 9,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1651,
+          47.1228
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E35",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 15,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1665,
+          47.1224
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T14",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 10,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1667,
+          47.1224
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E28",
+        "reported_method": "Boring",
+        "reported_date": "16-Sep-1991",
+        "reported_sand_cm": 10,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.168,
+          47.1222
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T13",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 15,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1681,
+          47.1222
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E27",
+        "reported_method": "Boring",
+        "reported_date": "12-Sep-1991",
+        "reported_sand_cm": 50,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1639,
+          47.1221
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E54",
+        "reported_method": "Boring",
+        "reported_date": "19-Sep-1991",
+        "reported_sand_cm": 7,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1656,
+          47.122
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E29",
+        "reported_method": "Boring",
+        "reported_date": "16-Sep-1991",
+        "reported_sand_cm": 9,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1655,
+          47.122
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E30",
+        "reported_method": "Boring",
+        "reported_date": "16-Sep-1991",
+        "reported_sand_cm": 17,
+        "reported_vent": null,
+        "source_comments": "1 m west of trench T17 and 5 m west of vegetation lineament",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1655,
+          47.122
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T17",
+        "reported_method": "Trench",
+        "reported_date": "11-Aug-1991",
+        "reported_sand_cm": 15,
+        "reported_vent": "Observed",
+        "source_comments": "Thickness approximate",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1656,
+          47.1217
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T16",
+        "reported_method": "Trench",
+        "reported_date": "11-Aug-1991",
+        "reported_sand_cm": 20,
+        "reported_vent": "Observed",
+        "source_comments": "Thickness range 10-20 cm",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1648,
+          47.1217
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E55",
+        "reported_method": "Boring",
+        "reported_date": "19-Sep-1991",
+        "reported_sand_cm": 10,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1691,
+          47.1217
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E60",
+        "reported_method": "Boring",
+        "reported_date": "20-Sep-1991",
+        "reported_sand_cm": 8,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1657,
+          47.1216
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T18",
+        "reported_method": "Trench",
+        "reported_date": "11-Aug-1991",
+        "reported_sand_cm": 20,
+        "reported_vent": "Observed",
+        "source_comments": "Thickness approximate",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.171,
+          47.1214
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E34",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 5,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1675,
+          47.1213
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T12",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 30,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1677,
+          47.1213
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E58",
+        "reported_method": "Boring",
+        "reported_date": "20-Sep-1991",
+        "reported_sand_cm": 31,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1653,
+          47.1212
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E56",
+        "reported_method": "Boring",
+        "reported_date": "19-Sep-1991",
+        "reported_sand_cm": 23,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1636,
+          47.1212
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E40",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 15,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1638,
+          47.1212
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E39",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 12,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1624,
+          47.1211
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "D21, E31",
+        "reported_method": "Bank",
+        "reported_date": "11-Sep-1990",
+        "reported_sand_cm": 10,
+        "reported_vent": "Observed",
+        "source_comments": "Sills and crater above dike with rounded wood in throat (Atwater, 1992, Fig. 8). Underlying deposits checked 16-Sep-1991 with gouge core E31 (BA, SP)",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1642,
+          47.1211
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E41",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 43,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1646,
+          47.121
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E38",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 31,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1689,
+          47.121
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E59",
+        "reported_method": "Boring",
+        "reported_date": "20-Sep-1991",
+        "reported_sand_cm": 16,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1647,
+          47.1209
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E19",
+        "reported_method": "Boring",
+        "reported_date": "9-Sep-1991",
+        "reported_sand_cm": 20,
+        "reported_vent": null,
+        "source_comments": "Near trench T9",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1647,
+          47.1209
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T9",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 12,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.165,
+          47.1209
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E42",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 26,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1663,
+          47.1209
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T11",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 25,
+        "reported_vent": null,
+        "source_comments": "Mud clasts up to 10 cm long in vented sand",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1661,
+          47.1208
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T10",
+        "reported_method": "Trench",
+        "reported_date": "11-Aug-1991",
+        "reported_sand_cm": 35,
+        "reported_vent": "Observed",
+        "source_comments": "Thickness range 0-35 cm",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1655,
+          47.1208
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E18",
+        "reported_method": "Boring",
+        "reported_date": "9-Sep-1991",
+        "reported_sand_cm": 24,
+        "reported_vent": null,
+        "source_comments": "Near trench T8",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1655,
+          47.1208
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T8",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 20,
+        "reported_vent": null,
+        "source_comments": "Thickness range 17-20 cm",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1657,
+          47.1207
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E20",
+        "reported_method": "Boring",
+        "reported_date": "10-Sep-1991",
+        "reported_sand_cm": 10,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1662,
+          47.1207
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T5",
+        "reported_method": "Trench",
+        "reported_date": "11-Aug-1991",
+        "reported_sand_cm": 31,
+        "reported_vent": "Observed",
+        "source_comments": "Thickness range 0-31 cm",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1665,
+          47.1206
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T15",
+        "reported_method": "Trench",
+        "reported_date": "11-Aug-1991",
+        "reported_sand_cm": 38,
+        "reported_vent": null,
+        "source_comments": "Thickness range 28-38 cm",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1639,
+          47.1206
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E101",
+        "reported_method": "Boring",
+        "reported_date": "18-Sep-1991",
+        "reported_sand_cm": 20,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1702,
+          47.1206
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E33",
+        "reported_method": "Boring",
+        "reported_date": "17-Sep-1991",
+        "reported_sand_cm": 10,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1667,
+          47.1205
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E17",
+        "reported_method": "Boring",
+        "reported_date": "9-Sep-1991",
+        "reported_sand_cm": 15,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1669,
+          47.1205
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T4",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 32,
+        "reported_vent": null,
+        "source_comments": "Apparently erosional contact between vented sand and peaty soil beneath",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1644,
+          47.1205
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E50",
+        "reported_method": "Boring",
+        "reported_date": "19-Sep-1991",
+        "reported_sand_cm": 21,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1663,
+          47.1205
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T7",
+        "reported_method": "Trench",
+        "reported_date": "8-Aug-1991",
+        "reported_sand_cm": 0,
+        "reported_vent": "Observed",
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1609,
+          47.1204
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "A31",
+        "reported_method": "Bank",
+        "reported_date": "3-Aug-1987",
+        "reported_sand_cm": 40,
+        "reported_vent": "Observed",
+        "source_comments": "Sills and dikes (Atwater, 1992, Figs. 9a, 9b). Reviewed 11-Sep-1990 (BA, JS, SO, SP)",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1662,
+          47.1204
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T6",
+        "reported_method": "Trench",
+        "reported_date": "8-Aug-1991",
+        "reported_sand_cm": 20,
+        "reported_vent": "Observed",
+        "source_comments": "Thickness approximate",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1672,
+          47.1204
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E21",
+        "reported_method": "Boring",
+        "reported_date": "10-Sep-1991",
+        "reported_sand_cm": 20,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1634,
+          47.1204
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E53",
+        "reported_method": "Boring",
+        "reported_date": "19-Sep-1991",
+        "reported_sand_cm": 17,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1673,
+          47.1203
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E22",
+        "reported_method": "Boring",
+        "reported_date": "10-Sep-1991",
+        "reported_sand_cm": null,
+        "reported_vent": "Observed",
+        "source_comments": "Pit or trench required to estimate thickness away from probable site of venting",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.165,
+          47.1203
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E49",
+        "reported_method": "Boring",
+        "reported_date": "18-Sep-1991",
+        "reported_sand_cm": 19,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1625,
+          47.1203
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "A40",
+        "reported_method": "Bank",
+        "reported_date": "18-Aug-1987",
+        "reported_sand_cm": 30,
+        "reported_vent": null,
+        "source_comments": "Vented sand contains clasts as long as 25 cm (Atwater, 1992, Figs. 9c, 9d)",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1679,
+          47.1203
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E23",
+        "reported_method": "Boring",
+        "reported_date": "11-Sep-1991",
+        "reported_sand_cm": 53,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1676,
+          47.1202
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T3",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 35,
+        "reported_vent": null,
+        "source_comments": "Doubtful sills",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1641,
+          47.1202
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E52",
+        "reported_method": "Boring",
+        "reported_date": "19-Sep-1991",
+        "reported_sand_cm": 30,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1683,
+          47.1202
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T2",
+        "reported_method": "Trench",
+        "reported_date": "9-Aug-1991",
+        "reported_sand_cm": 40,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1659,
+          47.1201
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E100",
+        "reported_method": "Boring",
+        "reported_date": "18-Sep-1991",
+        "reported_sand_cm": 15,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1684,
+          47.1201
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E24",
+        "reported_method": "Boring",
+        "reported_date": "11-Sep-1991",
+        "reported_sand_cm": 29,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1686,
+          47.12
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E25",
+        "reported_method": "Boring",
+        "reported_date": "11-Sep-1991",
+        "reported_sand_cm": 45,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1689,
+          47.12
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "T1",
+        "reported_method": "Trench",
+        "reported_date": "8-Aug-1991",
+        "reported_sand_cm": 40,
+        "reported_vent": null,
+        "source_comments": "Thickness range 25-40 cm",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1688,
+          47.12
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E26",
+        "reported_method": "Boring",
+        "reported_date": "12-Sep-1991",
+        "reported_sand_cm": 0,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1649,
+          47.1199
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E57",
+        "reported_method": "Boring",
+        "reported_date": "20-Sep-1991",
+        "reported_sand_cm": 38,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.167,
+          47.1199
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E48",
+        "reported_method": "Boring",
+        "reported_date": "18-Sep-1991",
+        "reported_sand_cm": 10,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.171,
+          47.1196
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E61",
+        "reported_method": "Boring",
+        "reported_date": "20-Sep-1991",
+        "reported_sand_cm": 4,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1656,
+          47.1195
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "E47",
+        "reported_method": "Boring",
+        "reported_date": "18-Sep-1991",
+        "reported_sand_cm": 8,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1636,
+          47.1192
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "SL86-66",
+        "reported_method": "Bank",
+        "reported_date": "24-Jun-1986",
+        "reported_sand_cm": 0,
+        "reported_vent": "Observed",
+        "source_comments": "Irregular intrusions (Atwater, 1992, Fig. 10). Underlying deposits checked 16-Sep-1991 with gouge core E32 (BA, SP)",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1662,
+          47.1176
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "SL86-114",
+        "reported_method": "Boring",
+        "reported_date": "9-Nov-1986",
+        "reported_sand_cm": 65,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1656,
+          47.1173
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "SL86-115",
+        "reported_method": "Boring",
+        "reported_date": "9-Nov-1986",
+        "reported_sand_cm": 45,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1665,
+          47.1165
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "F45",
+        "reported_method": "Boring",
+        "reported_date": "29-Jul-1992",
+        "reported_sand_cm": 33,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1666,
+          47.1177
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "F44",
+        "reported_method": "Boring",
+        "reported_date": "29-Jul-1992",
+        "reported_sand_cm": 59,
+        "reported_vent": null,
+        "source_comments": null,
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1664,
+          47.1184
+        ]
+      },
+      "properties": {
+        "source_id": "S244",
+        "source_table": 18,
+        "field_id": "F43",
+        "reported_method": "Boring",
+        "reported_date": "29-Jul-1992",
+        "reported_sand_cm": 115,
+        "reported_vent": null,
+        "source_comments": "Peaty soil Y at 46 cm depth. Probable soil S, with 2-cm coating of sand and silt, at 203 cm depth",
+        "status": "REPORTED_NOT_INDEPENDENTLY_SURVEYED_OR_DATED"
+      }
+    }
+  ]
+}

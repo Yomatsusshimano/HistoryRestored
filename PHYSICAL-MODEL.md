@@ -38,6 +38,14 @@ For a former coastline, combine topography/bathymetry, uplift/subsidence indicat
 
 For wildlife, map specimen coordinates and contextual age distributions before connecting habitat corridors. Distinguish living habitat from transported/reworked remains. Ecological feasibility and simultaneous occupancy are required; lines connecting modern fossil localities are insufficient.
 
+## Copalis intrusion and extrusion benchmark
+
+The [Copalis vented-sand audit](research/COPALIS-VENTED-SAND.md) supplies68 reported observations with source-linked [GeoJSON](data/copalis-vented-sand.geojson). It is a regional process benchmark, not a dated worldwide horizon. Eleven records report vents; two combine observed venting with zero sheet thickness. Thickness ranges and unknown entries preclude treating every observation as a uniform blanket.
+
+A candidate model must explain authenticated dike/sill/crater continuity as well as surface deposits, entrained wood/mud clasts and reported soil relationships. Compare surface inundation with groundwater venting, then distinguish possible shaking-induced liquefaction from speculative deformation of a deep aquifer. The latter's reported depth greater than35m is not a measured pressure head. Source sediment, hydraulic head, permeability, confinement, intrusion dimensions and dated sequence remain missing; no discharge, sediment volume or duration is computed.
+
+Resolve A31/A40 coordinate differences and T6/T1/A31 depth-order inversions against original sections before fitting elevations or thickness gradients. Ten Ws material ages have limiting/not-applicable relations; do not use them as ten exact event ages or assign the regional W combination without checking correlation. A future held-out transect must be selected and publicly frozen before inspection; these already inspected points are discovery inputs.
+
 ## Model comparison
 
 Start with local explanations and their published measured parameters. Fit a candidate catastrophe model on a declared discovery subset. Freeze parameters; predict held-out sites. Compare error, uncertainty, and number of unsupported adjustments. Do not use qualitative resemblance as a fit statistic.
