@@ -3,7 +3,7 @@
   "book_id": "Mry0snKn15QC",
   "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP7",
   "date": "2026-10-09",
-  "coverage": "Title PP7, bleed-through reverse PP8, and six preface surfaces PP9-14 visually inspected from public reader images. Target second preface page PP10 and continuation PP11 inspected in full. Remaining preface, tables, diagrams and volume uninspected. Derham1717p603 re-inspected for selected quotation comparison.",
+  "coverage": "Title PP7, reverse PP8, all fourteen preface surfaces PP9-22, and first numbered table page PA1 as boundary visually inspected. Seventeen surfaces registered. Complete visual preface coverage, not full diplomatic transcription/collation, independent translation or physical authentication. Remaining tables, instrument sections, diagrams and volume unread.",
   "pages": [
     {
       "page_id": "PP7",
@@ -92,6 +92,105 @@
         806
       ],
       "inspected": true
+    },
+    {
+      "page_id": "PP15",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP15",
+      "bytes": 100519,
+      "sha256": "d6f4302df59f8a283be978d654864f93ee24ed9c02bae87c701893b908b59878",
+      "dimensions": [
+        575,
+        824
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP16",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP16",
+      "bytes": 103081,
+      "sha256": "a8480304872d4e6155956e5bda325b2009f12a7907124cc5acba9914f75ce965",
+      "dimensions": [
+        575,
+        815
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP17",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP17",
+      "bytes": 106689,
+      "sha256": "7d92c923716793621f70b7d2ac1406686541d3ea370f26a6b4a7e08e4e1ddf0f",
+      "dimensions": [
+        575,
+        822
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP18",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP18",
+      "bytes": 101650,
+      "sha256": "bdf1d3af04debec9ac208dd3713491db98ae55fdb906f73133dbe866e4366e8b",
+      "dimensions": [
+        575,
+        811
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP19",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP19",
+      "bytes": 102206,
+      "sha256": "e72fbf8a7e18fdb4f5b98ab79ac3da9382214a827251685b916802312e465ada",
+      "dimensions": [
+        575,
+        820
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP20",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP20",
+      "bytes": 103865,
+      "sha256": "bb00a722d3061f39552200c022f74ee365fab80f60fa146fabc203da29a317ae",
+      "dimensions": [
+        575,
+        812
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP21",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP21",
+      "bytes": 104399,
+      "sha256": "e2abf56f54231dcab9f4f7121d8c41c7d1043de2ad6f222c5df31b609dbc2962",
+      "dimensions": [
+        575,
+        823
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PP22",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP22",
+      "bytes": 86193,
+      "sha256": "91225242603f57bfede402977a1158a42de615bd41c4264a00ef9463c84b5a6c",
+      "dimensions": [
+        575,
+        816
+      ],
+      "inspected": true
+    },
+    {
+      "page_id": "PA1",
+      "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PA1",
+      "bytes": 102752,
+      "sha256": "2fde07243cbe1245bc58d3f346a612ef62dc9876f0df0a48db7167108387900f",
+      "dimensions": [
+        575,
+        831
+      ],
+      "inspected": true
     }
   ],
   "rights": "Google/UCM delivery images retained locally and linked; unrestricted scan redistribution not established. Public reader links used; no authentication or access-control bypass.",
@@ -111,6 +210,30 @@
     {
       "locator": "PP9-14",
       "finding": "Surrounding text discusses older instruments, Huygens pendulum clocks and observational/instrumental arrangements. Technical reports are author claims, not independently authenticated construction or performance. Selected absence of Gascoigne is not an exhaustive volume search or evidence of author access or intent."
+    },
+    {
+      "locator": "PP15-17",
+      "finding": "Describes stellar measurements, refraction correction and comparisons with Picard observations. Discusses older/modern models and credits Kepler/Cassini; claims solar-table derivation through observations. These are author accounts, not reproduced calibration or raw observation data."
+    },
+    {
+      "locator": "PP18-20",
+      "finding": "Admits insufficient observations for some lunar terms; discusses Tycho and Le Febvre antecedents. Reports comparing calculations with Observatory lunar eclipses and other observations and deriving a different lunar correction. Fit and reference observations are dependent."
+    },
+    {
+      "locator": "PP20-21",
+      "finding": "Describes further correction, lunar inclination, unresolved effects and possible atmospheric alternatives. Numerical constants and explanations are published author choices, not authenticated modern uncertainty estimates."
+    },
+    {
+      "locator": "PP22",
+      "finding": "Reports agreement of eclipse calculations from these tables with Observatory observations, after earlier calibration description. Reports discrepancies of many minutes with some other observations and attributes them to instrument defects; that causal judgment is not independently validated here. Promises later planetary tables and fuller star catalog."
+    },
+    {
+      "locator": "PP9-22",
+      "finding": "Complete inspected preface does not yield an explicit Picard first-inventor designation in the target passage; other named contributors and unresolved technical problems remain visible. Gascoigne was not located in this preface reading; no full-volume absence or author-access/intent claim."
+    },
+    {
+      "locator": "PA1",
+      "finding": "Following numbered page opens angle/time conversion tables, establishing end of preface. Table values not transcribed or validated."
     }
   ],
   "access_checks": {
@@ -120,9 +243,10 @@
     "gallica": "Known f5 reader returned403; access failure not archival loss."
   },
   "limits": [
-    "Remaining preface and volume unread",
-    "No full diplomatic collation or authenticated physical original",
+    "Remaining tables, instrument sections, diagrams and volume unread",
+    "No full diplomatic collation, independently reviewed translation or authenticated physical original",
     "No original Gascoigne correspondence, calibrated instrument or opponent-access/intent evidence",
-    "No exclusive priority, ancient recovery or independent review established"
+    "No exclusive priority, ancient recovery or independent review established",
+    "Author reported calibration and agreement not independently reproduced; no raw trial table in inspected preface"
   ]
 }

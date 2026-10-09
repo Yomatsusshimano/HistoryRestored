@@ -4703,14 +4703,14 @@
     },
     {
       "id": "S303",
-      "title": "De la Hire1687 Tabularum astronomicarum pars prior: title and selected preface scans",
+      "title": "De la Hire1687 Tabularum astronomicarum pars prior: complete preface scans",
       "creator": "Philippe de la Hire; Google Books/UCM scan delivery",
       "publication_date": "1687",
       "url": "https://books.google.com/books?id=Mry0snKn15QC&pg=PP9",
       "source_type": "Historical printed preface digital page images",
       "access": "SCAN_INSPECTED",
-      "inspected": "Title PP7, bleed-through reverse PP8, and six preface surfaces PP9-14 visually inspected from public reader images. Target second preface page PP10 and continuation PP11 inspected in full. Remaining preface, tables, diagrams and volume uninspected. Derham1717p603 re-inspected for selected quotation comparison.",
-      "limitations": "Selected preface only, not full-volume search. Printed content and attribution are not physical-date, custody, priority or performance authentication. Original letter/custody and editorial authority unresolved; scan redistribution rights not established. No independent review.",
+      "inspected": "Title PP7, reverse PP8, all fourteen preface surfaces PP9-22, and first numbered table page PA1 as boundary visually inspected. Seventeen surfaces registered. Complete visual preface coverage, not full diplomatic transcription/collation, independent translation or physical authentication. Remaining tables, instrument sections, diagrams and volume unread.",
+      "limitations": "Complete preface only, not full-volume search. Reported calibration/fit and instrumental explanations are author claims, not reproduced accuracy tests. Printed content is not physical-date, custody or priority authentication. Original correspondence/access and editorial authority unresolved; scan redistribution rights not established. No independent review.",
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"

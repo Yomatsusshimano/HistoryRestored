@@ -319,3 +319,8 @@ S302 complete micrometer pp413–422 and next-article boundary inspected; fourte
 ### 2026-10-09 — Exact1687 preface target inspected
 
 S303 title/reverse and six preface surfaces inspected. Second preface page and continuation directly confirm Picard application credit without express first-inventor designation, agreeing with Derham1717 qualification. Remaining preface/volume and original custody unverified. See [exact preface audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/303 sources; all twenty objectives active, no independent review or priority verdict.
+
+
+### 2026-10-09 — Complete1687 preface and dependent eclipse fitting
+
+S303 all fourteen preface pages inspected, with title/reverse and numbered-table boundary: seventeen surfaces. Lunar correction constructed against eclipse observations precedes reported agreement; this is not independent validation. Other-observation discrepancies and author instrumental explanation retained separately. See [complete preface audit](GASCOIGNE-ATTRIBUTION.md).27 drafts/303 sources; all twenty objectives active, no independent review.

@@ -1540,3 +1540,10 @@ Previous goal turn made progress: cad433c published and eight files publicly byt
 S303 title/reverse and six preface surfaces inspected. Second preface page and continuation directly confirm Picard application credit without express first-inventor designation, agreeing with Derham1717 qualification. Remaining preface/volume and original custody unverified. See [exact preface audit](research/GASCOIGNE-ATTRIBUTION.md).27 drafts/303 sources; all twenty objectives active, no independent review or priority verdict.
 
 Previous goal turn made progress: ca0e2cc complete reprint audit published and eight files byte-verified. Clean checkout revalidated. Initial broad search confused1693collection with1687tables; exact target corrected before findings. Google public reader delivered images through its advertised image links despite advertisedPDF failure; no denied endpoint bypass. Eight images inspected, Derham603 reinspected. LOCOMAT link leads sameGooglecopy, not independent evidence; DBNL related correspondence lead read but not counted as authenticated custody or registered case evidence. No original authentication, exhaustive volume search, outreach or independent review claimed.
+
+
+### 2026-10-09 — Complete1687 preface and dependent eclipse fitting
+
+S303 all fourteen preface pages inspected, with title/reverse and numbered-table boundary: seventeen surfaces. Lunar correction constructed against eclipse observations precedes reported agreement; this is not independent validation. Other-observation discrepancies and author instrumental explanation retained separately. See [complete preface audit](research/GASCOIGNE-ATTRIBUTION.md).27 drafts/303 sources; all twenty objectives active, no independent review.
+
+Previous goal turn made progress:754ed9a target-preface audit published and eight files publicly byte-verified. Clean checkout revalidated. Public-reader image links acquired normally; eight remaining preface surfaces and PA1 boundary inspected. No source duplication, exhaustive volume search, raw-data calibration reproduction, independently reviewed Latin translation, physical authentication, outreach or independent review claimed.
