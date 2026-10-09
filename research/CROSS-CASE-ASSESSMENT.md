@@ -384,3 +384,8 @@ S36pages4/5visually reinspected;490–515calBPconfirmed. Separate IntCal20diagno
 ### 2026-10-09 — Exact rodent isotope accession links
 
 S317originalCCBYsupplement acquired/preserved; all five OOXMLtables extracted,74isotope rows/40museumIDs. All eightS36dated IDs match, including early-ratUF293844enamel carbon−12.1/oxygen−2.4per mil. Tissue distinction prevents automatic collagen or reservoir correction; reference scale/full methods/rendered layout uninspected. See [audit](RODENT-ISOTOPE-SPECIMEN-LINK.md).28drafts/317sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Original cave unit/context recovery
+
+S318p4/29/30visually inspected; Table4distinguishes0–5cmorganic/surface and5–25cmred clay faunal lists. Individually dated specimen-to-unit links absent; primate table/prose conflict retained.50bags/shaft geometry reported, not mud thickness or a deposition date. See [audit](JEREMIE-DEPOSITION-CONTEXT.md).28drafts/318sources; all twenty objectives active, no independent review.

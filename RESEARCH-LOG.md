@@ -1631,3 +1631,10 @@ Previous goal turn made progress:f66c109published C028/S316and11files publicly b
 S317originalCCBYsupplement acquired/preserved; all five OOXMLtables extracted,74isotope rows/40museumIDs. All eightS36dated IDs match, including early-ratUF293844enamel carbon−12.1/oxygen−2.4per mil. Tissue distinction prevents automatic collagen or reservoir correction; reference scale/full methods/rendered layout uninspected. See [audit](research/RODENT-ISOTOPE-SPECIMEN-LINK.md).28drafts/317sources; all twenty objectives active, no independent review.
 
 Previous goal turn made progress:85edc32published original rat table/calibration diagnostic with15files byte-verified; clean checkout revalidated. DOI-specific Figshare API search returned publisher article7209677. Original supplement and metadata acquired; MD5 matched. Publisher/author site normal downloads403respected. Packaged render_docx.pyandLibreOffice unavailable; no visual source-layout claim. Initial extractor case-sensitive prefix missed twoUf293817rows; corrected to normalized-ID selection while retaining raw cells. Final74rows/40IDs and8/8joins. No empirical diet/age correction, independent physical identity, outreach or completion claimed.
+
+
+### 2026-10-09 — Original cave unit/context recovery
+
+S318p4/29/30visually inspected; Table4distinguishes0–5cmorganic/surface and5–25cmred clay faunal lists. Individually dated specimen-to-unit links absent; primate table/prose conflict retained.50bags/shaft geometry reported, not mud thickness or a deposition date. See [audit](research/JEREMIE-DEPOSITION-CONTEXT.md).28drafts/318sources; all twenty objectives active, no independent review.
+
+Previous goal turn made progress:52ca156published isotope-accession links and19files byte-verified. Current checkout clean. Bounded original-reference search located2000registry; Archive AMNH-contributed32page scan acquired. Dominican/BHLdownloads403andCiteSeer404respected; USAIDhostDNSfailed. Selected pages visually inspected, original table transcribed; no copyright redistribution assumed. No individually dated bone assigned by taxon alone, no shaft/deposit substitution, outreach or completion claimed.

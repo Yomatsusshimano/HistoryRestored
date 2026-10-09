@@ -1560,10 +1560,15 @@
           "source_id": "S317",
           "locator": "Table1S, exact museum-ID crosswalk in data/rodent2018-isotope-crosswalk.json",
           "statement": "All eight S36dated specimen IDs match isotope supplement records; early ratUF293844has whole-incisor enamel carbon−12.1andoxygen−2.4per mil. Different tissue from dated collagen; no empirical radiocarbon correction or deposition date follows."
+        },
+        {
+          "source_id": "S318",
+          "locator": "p4association discussion;p29Appendix1andTable4;p30continuation",
+          "statement": "Original locality registry distinguishes0–5cmorganic/surface and5–25cmred clay fauna, with unresolved specimen-to-unit links. Approximate50matrix bags and16.5mshaft geometry documented; no deposit thickness/date inferred from shaft."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
-      "surviving_documents": "Research article HTML; structured extraction in data/dating-records.json and audit in research/SLOTH-CHRONOLOGY.md.",
+      "surviving_documents": "Research article HTML; structured extraction in data/dating-records.json and audit in research/SLOTH-CHRONOLOGY.md. S318selectedscanpages visually inspected; two unit faunal lists in data/jeremie2000-deposition-context.json.",
       "source_interpretation": "The paper compares regional survival chronologies; its broader causal account has not been independently audited here.",
       "investigation_inference": "The seven published calendar sets have empty common intersection; their shortest covering window spans 5,910 years (3,870 for six Neocnus comes rows). This descriptive interval result is not a statistical event-duration bound or a date of later deposition/extinction. See research/SLOTH-CHRONOLOGY.md.",
       "competing_explanations": [
@@ -1572,7 +1577,7 @@
         "A common mortality episode, requiring an explicit fit and age-quality audit"
       ],
       "counterevidence": "These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.",
-      "next_test": "Recover complete2018methods, incisor-to-mandible accession history and collagen-specific isotope/raw assay records; retain exact calibration and depositional-context gaps.",
+      "next_test": "Recover1984field map, bag labels, excavation notes and museum accession-to-unit links; date identified units and assess contacts/taphonomy before a shared-deposition test.",
       "chronology": {
         "reported": "Sample-level radiocarbon results and separately published calendar intervals",
         "dated_object": "Bone samples",
@@ -1590,7 +1595,7 @@
         "Later literature and redating audit",
         "Independent review"
       ],
-      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates."
+      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates. S36geometry/faunal abundance repeatsS318locality account; no independent excavation confirmation."
     },
     {
       "id": "C012",

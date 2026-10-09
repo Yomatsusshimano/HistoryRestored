@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S318",
+  "url": "https://archive.org/details/newmegalonychid3303macp",
+  "download_url": "https://archive.org/download/newmegalonychid3303macp/newmegalonychid3303macp.pdf",
+  "pdf_bytes": 5414627,
+  "pdf_sha256": "933d5d06af7b06da82269d5e13407c746306b0e238bce81e98e080b0ee0d87a0",
+  "coverage": "32page scan acquired; printed pages4,29and30 visually inspected. Page29Table4fully transcribed. Other pages not visually audited. OCR locating only.",
+  "rights": "Archive metadata points to BHL permissions; no redistribution license established. PDF retained locally, public source linked only.",
+  "site": "Trouing Jérémie#5",
+  "reported_coordinate_DMS": {
+    "latitude": "18°20′30″N",
+    "longitude": "74°02′30″W",
+    "datum": null,
+    "role": "Locality label, not dated specimen coordinates"
+  },
+  "excavation_reports": {
+    "located": "1984-02-01",
+    "workers_as_reported": [
+      "D. Cordier",
+      "T. Cordier"
+    ],
+    "worked_dates": [
+      "1984-06-03",
+      "1984-06-08",
+      "1984-07-04"
+    ],
+    "july4_role": "Mapping only",
+    "matrix_bags_approximate": 50,
+    "opening_width_m": 2.5,
+    "shaft_depth_m": 16.5,
+    "base_width_m": 12,
+    "shaft_depth_is_sediment_thickness": false,
+    "owl_roost_indication": "None reported, past or present",
+    "wet_cave_fauna": [
+      "frogs",
+      "spiders",
+      "land snails"
+    ]
+  },
+  "units": [
+    {
+      "name_as_printed": "Surface and organic unit",
+      "depth_cm": [
+        0,
+        5
+      ],
+      "taxa_as_printed": [
+        "Rattus rattus",
+        "Mus musculus",
+        "Plagiodontia aedium",
+        "Solenodon paradoxus",
+        "megalonychids",
+        "Solenodon marcanoi",
+        "Hexolobodon phenax",
+        "Rhizoplagiodontia lemkei",
+        "Isolobodon portoricensis",
+        "Isolobodon montanus",
+        "Nesophontes paramicrus",
+        "Nesophontes hypomicrus",
+        "Brotomys voratus",
+        "Plagiodontia ipnaeum"
+      ],
+      "dated_specimen_IDs": null
+    },
+    {
+      "name_as_printed": "Red clay unit",
+      "depth_cm": [
+        5,
+        25
+      ],
+      "taxa_as_printed": [
+        "megalonychids",
+        "Rhizoplagiodontia lemkei",
+        "Antillothrix bernensis"
+      ],
+      "dated_specimen_IDs": null
+    }
+  ],
+  "table_footnotes": {
+    "megalonychids": "SeeTable3; species-level unit assignment not inferred here.",
+    "Antillothrix_bernensis": "Represented by a femur; no individual accession identified inTable4."
+  },
+  "source_discrepancies": [
+    {
+      "locator": "p29Table4versus abundance prose",
+      "finding": "Table4listsAntillothrix only in red clay5–25cm, while prose includes0.08percentAntillothrix in discussion of upper5cm count.",
+      "cause": null,
+      "consequence": "No physical depth assigned to a primate specimen from these conflicting summaries."
+    },
+    {
+      "locator": "S317Table1SversusS318p29",
+      "finding": "S317rounded locality label18°21N74°1W differs fromS31818°20′30N74°02′30W.",
+      "cause": null,
+      "consequence": "Neither label used as precise findspot, datum correction or geographic displacement."
+    }
+  ],
+  "source_dependence": "S36explicitly citesS318for geometry/faunal count. Repeated values are dependent reports, not independent excavations. Different-cave S316owl interpretation not transferred.",
+  "association_limit": "p4reports some associated skeletons collected as units and caution where association uncertain. This general policy does not authenticate the later dated sloth/rat accession-to-bag/unit links.",
+  "limits": [
+    "No individually dated specimen assigned to either unit.",
+    "No measured sediment age, sediment source, transport direction, contact geometry or later mixing chronology.",
+    "Two reported units are not automatically two floods or an independently dated sequence.",
+    "16.5mshaft depth is not16.5mmud thickness.",
+    "Species listed by original source; current taxonomy not independently reviewed.",
+    "No common catastrophe or independent review established."
+  ],
+  "next_test": "Recover1984field map, bag labels, excavation notes and museum accession-to-unit links; date identified units and assess contacts/taphonomy before a shared-deposition test."
+}

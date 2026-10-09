@@ -101,3 +101,8 @@ The [original-table and calibration follow-up](HAITI-RAT-CALIBRATION.md) now con
 ## Specimen-linked enamel measurements recovered
 
 The [2018supplement audit](RODENT-ISOTOPE-SPECIMEN-LINK.md) now matches all eight dated museum identifiers, includingUF293844. Its carbon/oxygen measurements are incisor enamel, not collagen. The general absence-of-isotope-values claim requires that distinction; no dietary correction or radiocarbon result is changed. Full methods, tissue identity and specimen-specific collagen records remain needed.
+
+
+## Original locality units recovered
+
+The [2000registry audit](JEREMIE-DEPOSITION-CONTEXT.md) now distinguishes surface/organic and red clay units at Trouing Jérémie#5. It does not assign the dated bones to either unit. Original accession-to-bag/depth records remain necessary to test common later deposition; existing biological-date inputs are unchanged.
