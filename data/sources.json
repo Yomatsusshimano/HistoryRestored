@@ -4263,6 +4263,22 @@
       "sha256": "fd2504b6f4a97cfeeb9d5ff4c04391a97aad21cab371f153cdbdeccbe301aab8",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S274",
+      "title": "Tidal Flat Depositional Response to Neotectonic Cyclic Uplift and Subsidence in Willapa Bay",
+      "creator": "Curt D. Peterson and Sandy Vanderburgh",
+      "publication_date": "2018-02-28",
+      "url": "https://www.ccsenet.org/journal/index.php/jgg/article/download/73877/40653",
+      "doi": "10.5539/jgg.v10n1p109",
+      "source_type": "Original research article with core age tables and conditional sediment budget; CC BY4.0",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF8,19-20,24-25,31scans visually checked; PDF1,5,9,26text only. All23Table3rows and10Table4rows transcribed. Mean/SD, rounding-compatible ratios and Table5mass-volume scenarios calculated.",
+      "limitations": "Selected audit, not full review. Lab/field records, sample preparation, exact calibration, physical pathways and baywide extrapolation unverified. DuplicateBeta158078 and W29prose/table age retained. AssignedAD1700/oyster markers not independent dates. No chronology transformation or validated flow model.",
+      "local_copy": "sources/originals/cascadia/willapa-tidalflat-2018.pdf",
+      "sha256": "97656b70d0dbfcfcc44eddfd6c4158e1f181b62c438eae39f0e14f247a20431d",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
