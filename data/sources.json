@@ -3666,6 +3666,48 @@
       "sha256": "75e7605eac2d833dd8637b35b6434aed85ee398d1730cab00b9c1c1f69b970df",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S234",
+      "title": "Mayor Levi Day Boone inaugural address,1855: public-library transcription",
+      "creator": "Levi Day Boone / Chicago Public Library",
+      "publication_date": "1855-03-14",
+      "url": "https://www.chipublib.org/mayor-levi-day-boone-inaugural-address-1855/",
+      "source_type": "Institutional transcription of contemporary mayoral address",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Inauguration March13,1855; cited Daily Democratic Press March14 p.[2]; street/drainage paragraphs proposing sand/gravel, timber stringers and oak plank surfacing.",
+      "limitations": "Original newspaper scan not inspected. Recommendations are not completed work; no named block, benchmark or executed material quantity."
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S235",
+      "title": "Estimate for Street Construction, September14,1855: Illinois State Archives Document32",
+      "creator": "Illinois State Archives; original author not recovered",
+      "publication_date": "1855-09-14",
+      "url": "https://www.ilsos.gov/departments/archives/teaching-packages/early-chicago/doc32.html",
+      "source_type": "Catalog/explanation for original municipal estimate",
+      "access": "CATALOG_METADATA",
+      "inspected": "Document title, catalog date, explanation and scan/transcription links.",
+      "limitations": "Original scan and PDF transcription retrieval failed/timed out. Modern explanation not original estimate text; no costs, quantities or exact location extracted."
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S236",
+      "title": "Sketch of Ontario Street, December16,1856: Illinois State Archives Document35",
+      "creator": "Illinois State Archives; sketch attributed to William B. Ogden in explanation",
+      "publication_date": "1856-12-16",
+      "url": "https://www.ilsos.gov/departments/archives/teaching-packages/early-chicago/doc35.html",
+      "source_type": "Catalog/explanation for original street-development sketch",
+      "access": "CATALOG_METADATA",
+      "inspected": "Catalog date/title; explanation attributing proposed street/sidewalk raising to shifting sand and reporting council approval.",
+      "limitations": "Drawing retrieval timed out; no scale, elevations or original approval inspected. Planned development is not completed construction."
     }
   ]
 }

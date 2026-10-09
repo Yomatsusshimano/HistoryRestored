@@ -517,3 +517,8 @@ S233 supplies standard/ARSTAN/residual Long Island reference outputs, all numeri
 ### 2026-10-09 — Archived-reference sensitivity completed
 
 All three S233 reference outputs tested under declared first-difference processing:21-24/27 dependent series rank source-relative placement first. Original target processing remains missing; no corrected date. Next per-radius detrending/autoregression and combined-tree average reproduction, retaining substantial-count GF2A residual-linear exception and all other variants. Further duplicate reference acquisition is not the priority.
+
+
+### 2026-10-09 — Buried-street coverage expanded
+
+C025 Chicago adds a second-city documentary draft from1855-1856 proposal/transcription and catalog records. Original estimate/sketch retrieval failed; completed works and building linkage remain missing. Next named-block original grade/as-built/fill records and physical contacts; another additional city is still needed for the original two-city expansion target. Cascadia original processing work remains open.

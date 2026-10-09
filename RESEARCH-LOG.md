@@ -1159,3 +1159,8 @@ Previous turn made verified public progress atd57296c. Revalidated clean checkou
 ### 2026-10-09 — Archived-reference alignment diagnostic
 
 Previous turn made verified public progress at569c18c. Revalidated clean checkout and recovered chronology ledger. Executed all27 dependent snag series against three archived processed references under log/linear first differences and1720/1986 endpoint bounds. Stored every candidate correlation, counts and top alternatives. Published placement ranks first for21-24/27 depending on variant; all three GF2 trunk radii retain alternatives. Residual-linear GF2A best+6 has reported count min12/median14, preventing a universal sparse-reference explanation. Known-shift, correlation-formula and width-unit invariance checks passed. Original target processing/version remains unverified; no dates, probabilities, independent review or outreach claimed.
+
+
+### 2026-10-09 — Chicago street-grade comparison opened
+
+Previous turn made verified public progress at0d3247e. Revalidated clean checkout and inventory coverage gap. Added C025 from S234 mayoral transcription and S235/S236 original-document finding pages. Read specified grading/fill proposal, separated drainage from Ontario sand rationale and proposal from completion. Three original-file downloads timed out and process53225 was confirmed terminal; no scan claim. Old LOC book PDF failed; retained as lead only. Coordinates, costs and as-built quantities remain unknown. Adds a second city documentary case, not a physical sediment observation, independent review or global reconstruction.

@@ -24,6 +24,7 @@ The event date is unknown. User requested comparison of candidate periods and au
 - [Lamp patent comparison](research/LAMP-PATENT-COMPARISON.md): Woodward's earlier disclosure, Edison's claims, and unresolved transmission evidence.
 - [Cascadia chronology audit](research/CASCADIA-CHRONOLOGY.md): sample-level tree dates, an outlier, shared dating assumptions and the published correction.
 - [Seattle grade dispute](research/SEATTLE-GRADE-DISPUTE.md): resident allegations, original elevation report and unresolved source discrepancies.
+- [Chicago street-grade proposals](research/CHICAGO-STREET-GRADE.md): specified engineering recommendations, original-record leads and the distinction between planned and completed work.
 - [Denny regrade audit](research/DENNY-REGRADE.md): inspected archival frame and participant engineering account, with rated pump capacity separated from actual excavation.
 - [Sloth chronology audit](research/SLOTH-CHRONOLOGY.md): specimen-level bone dates and separate tests of death, deposition and extinction.
 - [Muskox methods audit](research/MUSKOX-METHODS.md): sample accounting, genetic-model assumptions and causal limits.

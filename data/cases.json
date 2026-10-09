@@ -2320,6 +2320,61 @@
         "Original contact/dike geometry and independent evidence distinguishing separate inundations from stages within one inundation"
       ],
       "dependence": "Original site study, but regional chronology and species interpretation use prior literature. Shared references do not independently replicate other regional sites."
+    },
+    {
+      "id": "C025",
+      "title": "Chicago street-grade and drainage proposals,1855-1856",
+      "category": "buried streets and engineered fill",
+      "place": "Chicago, Illinois; Ontario Street near lakeshore in catalog description",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S234",
+          "locator": "Street/drainage paragraphs and Source footer",
+          "statement": "1855 mayoral transcription proposes graded roadway, lake-shore sand/gravel, timber stringers and oak planking; completion is not demonstrated."
+        },
+        {
+          "source_id": "S235",
+          "locator": "Document32 title/date and Explanation",
+          "statement": "Archive catalogs a September14,1855 street-construction estimate; underlying numerical record uninspected."
+        },
+        {
+          "source_id": "S236",
+          "locator": "Document35 title/date and Explanation",
+          "statement": "Archive describes an Ontario Street raising proposal addressing shifting sand and reports council approval; drawing and action not inspected."
+        }
+      ],
+      "physical_evidence": "No site or sediment inspection. Original drawing scans were not retrieved; no physical below-grade structure assigned to these works.",
+      "surviving_documents": "Public-library address transcription; two state-archive catalog/explanation pages pointing to original estimate/sketch.",
+      "source_interpretation": "Mayor proposes engineered street surfacing and drainage; archive explanations describe grade changes and a sand-related development proposal.",
+      "investigation_inference": "A specific engineered-fill proposal supplies a testable alternative to natural burial, but execution and linkage to surviving lower levels remain unverified. See research/CHICAGO-STREET-GRADE.md.",
+      "competing_explanations": [
+        "Intentional grade raising and fill, if linked to original completed-work records",
+        "Designed basement or later alteration, to be tested against building fabric",
+        "Local natural deposition or subsidence, if independently dated and demonstrated"
+      ],
+      "counterevidence": "Proposed engineering is documented. Neither proposals nor uninspected catalog descriptions prove completion; below-grade facades alone cannot establish cause.",
+      "next_test": "Inspect original estimate, Ontario sketch and council approval; identify one block and reconcile grade ordinances, as-built elevations, fill quantities, contacts and building phases.",
+      "chronology": {
+        "reported": "March1855 address; September1855 estimate and December1856 sketch catalog dates",
+        "dated_object": "Speech publication and catalog-described administrative documents",
+        "method": "Institutional transcription/catalog attribution",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Original newspaper scan",
+        "Original estimate and sketch",
+        "Council grade/approval instruments",
+        "Named completed-work block and historical benchmark",
+        "Fill purchase records and measured sediment contacts",
+        "Specimen/material dates"
+      ],
+      "dependence": "Same city administrative context; archive explanation and linked record are not independent observations. Distinct from Seattle projects; no shared event date established."
     }
   ]
 }

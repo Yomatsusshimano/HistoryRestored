@@ -4,7 +4,7 @@
 
 | Requested class | Search unit and required next evidence |
 | --- | --- |
-| Buried streets | At least two additional cities; street-grade plans, boreholes, construction phases, utilities, and dated fill |
+| Buried streets | Chicago C025 now begins one additional-city documentary audit; original grade/as-built records and physical fill evidence remain missing. At least one further city plus street-grade plans, boreholes, construction phases, utilities and dated fill |
 | Changed coastlines | Named shoreline transects with a vertical datum, in-place markers, and dated deformation |
 | Forgotten infrastructure | One named structure with maintenance, engineering, ownership, and material records |
 | Odd maps | Original map scans, edition/copy lineages, survey notes, soundings, and proposed ground-truth transects |
