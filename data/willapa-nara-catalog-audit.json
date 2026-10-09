@@ -1,0 +1,27 @@
+{
+  "source_id": "S270",
+  "files_checked": 400,
+  "records_checked": 11823,
+  "target_series_descendant_matches": 0,
+  "selected": [
+    {
+      "file": "rg_23-323.jsonl",
+      "line": 1,
+      "reasons": [
+        "target_series"
+      ],
+      "naId": 305404,
+      "title": "Project Completion Reports"
+    },
+    {
+      "file": "rg_23-395.jsonl",
+      "line": 3,
+      "reasons": [
+        "target_place_title"
+      ],
+      "naId": 196068540,
+      "title": "6185 - Willapa Bay, Washington"
+    }
+  ],
+  "scope": "Titles and exact series/ancestor identifiers in this hash-recorded RG23 export only; not an OCR search or physical holdings audit."
+}

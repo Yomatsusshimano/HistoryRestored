@@ -4203,6 +4203,21 @@
       "sha256": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S270",
+      "title": "NARA RG23 open catalog export: Project Completion Reports series and Willapa Bay chart descriptions",
+      "creator": "U.S. National Archives and Records Administration",
+      "publication_date": null,
+      "url": "https://nara-national-archives-catalog.s3.us-east-2.amazonaws.com/descriptions/record-groups/rg_23/rg_23-323.jsonl",
+      "source_type": "Official open-export archival descriptions; selected unchanged record excerpts",
+      "access": "CATALOG_METADATA",
+      "inspected": "All400RG23JSONLfiles/11823records checked by title and exact series/ancestor identifier; series305404andchart196068540matched,no305404descendant descriptions. Two rawrecordlines preserved.",
+      "limitations": "Catalogmetadata,not report/photograph content. ExportobjectsmodifiedSeptember28,2026; not authenticated exposuredates or latestlivecatalog. AccessionNN3-23-93-2andtransfer66A2582concern existing series,not2022film transfer.",
+      "local_copy": "sources/originals/cascadia/nara-rg23-selected.jsonl",
+      "sha256": "6699bd0cd146ddb55d1a20892e2e4a873c6fd26d0745f4f9ddd38cfc25409c4d",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

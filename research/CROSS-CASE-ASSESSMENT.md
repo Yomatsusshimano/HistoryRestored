@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Original catalog series description recovered
+
+S270NARAopenexport all400RG23files/11823descriptions audited. Actualseries305404metadata supplies23-AERIALREPORTS,accessionNN3-23-93-2,transfer66A2582,eightboxes,report104/106photo scope. No descendant description in this export; chart6185metadata separately located. No targetphoto/reportcontents or2022film custody authenticated.25drafts/270sources; all twenty outcomes active. See [archival retrieval assessment](WILLAPA-ARCHIVAL-PHOTO-ROUTE.md).
+
 ### 2026-10-09 — Specific NARA photograph/report retrieval route
 
 NARA Special List25 Washingtonrow530 lists Willpa Bay underRG23Project Completion Reports; countyrows340-342 supply DGM1949P andDOQ1951Pindex leads. Officialguide identifies series305404/reports104and106. Example1950CAPEprint inspected but not authenticated as target; catalogdownload applicationshell, browser unavailable, Tacomaimage still TLSblocked. No frame/fieldsheet/custody/independent confirmation.25drafts/269sources; full twenty outcomes remain active. See [archival retrieval assessment](WILLAPA-ARCHIVAL-PHOTO-ROUTE.md).

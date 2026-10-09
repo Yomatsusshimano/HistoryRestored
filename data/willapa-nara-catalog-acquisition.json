@@ -1,0 +1,2891 @@
+{
+  "accessed_date": "2026-10-09",
+  "listing_prefix": "descriptions/record-groups/rg_23/",
+  "base_url": "https://nara-national-archives-catalog.s3.us-east-2.amazonaws.com/",
+  "objects": [
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-1.jsonl",
+      "size": 1065280,
+      "modified": "2026-09-28T19:36:38.000Z",
+      "sha256": "8af31e8691279c3c51482885840652d7b8068aa73c06999ff5877e4297c5d3bf",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-10.jsonl",
+      "size": 490819,
+      "modified": "2026-09-28T19:36:38.000Z",
+      "sha256": "7b93651676cc83f54aefabe98585e942ddca0a7bd01d157f76d4914069b4cb0a",
+      "record_count": 21
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-100.jsonl",
+      "size": 3343830,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "66288d04f793ac071f6115a5f464964d989d46ba52c03adcea2f2e4c1cc9d82e",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-101.jsonl",
+      "size": 314018,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "749d5e36e947d338d6c93a26d1f3f629c4f85bde5ea2814471f18e7d291bae28",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-102.jsonl",
+      "size": 469100,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "0932357e4e01fb65085e997ab5eb2dcfac3ef772b0b5db8a2f61efec02237258",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-103.jsonl",
+      "size": 1769102,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "96ea16a0ac1f86ab8467d9f3fdba0a82a720ee7f73351915d60194e3b5637652",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-104.jsonl",
+      "size": 1385521,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "1a758031d4c051f514a8d0108016d859fc3946f9149ffa42b82a6b71db187d70",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-105.jsonl",
+      "size": 2441702,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "e6e75e4d8f8b98c0916a7c71dd2a74072073f6d27c62e482a952ea144504009a",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-106.jsonl",
+      "size": 839971,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "8e00fe79372984dacf8de1f24b87e0f4abf7c5f07ab0550afc75306cbf8ee03c",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-107.jsonl",
+      "size": 604273,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "b2410174f8c6e5ebe0d45264dfd8c1aabceb550a06be52f51ed0436cc53114f1",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-108.jsonl",
+      "size": 356505,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "ab8decbdc92a426957a7ccf9ec233d0422c6f77859b1ee3f4fd2d0826d572f23",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-109.jsonl",
+      "size": 61953,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "5a757f7475f75e1eef45fd44abb1dc604d00afb982b19dd0feea6610e41c9f85",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-11.jsonl",
+      "size": 2096927,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "5dca8117c5dbc15667b2a3ee7ae7a748236f2b2da11e7e1beb0926242a650c78",
+      "record_count": 38
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-110.jsonl",
+      "size": 1353242,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "1245c3164c94f860edd898a08437df9672db7ba7d6a8a8f478f2931a970156d9",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-111.jsonl",
+      "size": 816956,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "3dac6accaa08b9c5e700d798ac2fa7895a27ab15e64a383f3911591da4d3629e",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-112.jsonl",
+      "size": 2244842,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "fe2bc60e35dafeefa9cb312dcb73b32f1fc18baaacc6b3a1852ff770cf3fc8ea",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-113.jsonl",
+      "size": 2157969,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "9fa6640b48b53afe8fe03b18244d76a97b621909a4ae0b45a0c712d531c9cc9f",
+      "record_count": 40
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-114.jsonl",
+      "size": 3500044,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "33a613eacdb6527501e14a52166cea2f42d310b149ed00db54c1df60930669f0",
+      "record_count": 42
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-115.jsonl",
+      "size": 1717430,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "693b60fa65886df0cfc98b70bbb7d8d9703131b67492fecf4fec8ad7388ef26f",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-116.jsonl",
+      "size": 447750,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "0762550058d912861fda32006c177c38be33b91d5f16ad14e1e4dd8b5599b4fb",
+      "record_count": 18
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-117.jsonl",
+      "size": 418585,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "9799d16b3ca9d455d4632f4e614f95ca39d4d1066e36110eb62e115f5117ee69",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-118.jsonl",
+      "size": 670002,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "c73448efea011d6af177880f54f26395de6c421dee3fa63c7fab267a7ff571ea",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-119.jsonl",
+      "size": 693723,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "145a21b58c9d9c28636d0ddefe878878688dca09e511a99402d7009d7307b4ed",
+      "record_count": 41
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-12.jsonl",
+      "size": 736833,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "22958613c46fcf19350606cc38c86a2ccdb111b98aee439ac230206e39a925ed",
+      "record_count": 18
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-120.jsonl",
+      "size": 3042424,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "5a5b66177355bc540934499b66b2a55f79d92a053f7b2d81cf2879f8917e6d2a",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-121.jsonl",
+      "size": 613724,
+      "modified": "2026-09-28T19:36:39.000Z",
+      "sha256": "4b3d6d1135cec3ebe3e81b8dffe5c321c0a399edf58aae3295bb95835f76e725",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-122.jsonl",
+      "size": 1790940,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "6d71e9de590a242828da23450d9a5eb3f5884d951bf212a16c4b3b0f50e022a1",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-123.jsonl",
+      "size": 951491,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "1aaf157cbc273c411f44b95b84052b46e2d650e95e0c690eb79d74371c443eeb",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-124.jsonl",
+      "size": 527589,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "ae658eaa039a56c885b95fc8a2a5669c30d90f93886934d28c4622c5df2c67df",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-125.jsonl",
+      "size": 1492912,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "75fce42876c8f3512e308d96503af6c8325233b4e33c4455ccaeaaf78ed5bdb5",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-126.jsonl",
+      "size": 2072448,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "f2b111a4e860c48b8fc449a44f503f75d9b3c6cc87164a8bd7b954352cff3cad",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-127.jsonl",
+      "size": 840739,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "7e751f72c26c737608eaacadbadeb92f8b07124fd934f1c2fbd087e5542018d7",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-128.jsonl",
+      "size": 2037314,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "1a3fe448c41f096f61c0d6df1d7b4f9dd3ec6a6505e85783b7d47597d1470c13",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-129.jsonl",
+      "size": 368258,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "1cb3524fdc6b935faefd03c9d540214d9b0c47b44e0b231d7569bd54aee67e80",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-13.jsonl",
+      "size": 665373,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "c21c2cd84f2f79e3d80b4cba8028a2741ade1aa020dc2483ed3857d34f8e9803",
+      "record_count": 18
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-130.jsonl",
+      "size": 62726,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "4813bd567c5bc6d819966c874b728c6cd66478393f3699da0949a27a179d8e01",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-131.jsonl",
+      "size": 1338096,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "a28530a57ba93ed4bd549b6104199547fa61ac5f75cb27eaff24551778677f58",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-132.jsonl",
+      "size": 879418,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "e3053cc7829bc2928220ced8184ada6a19303048d4c6b33ab11bcb0f696be282",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-133.jsonl",
+      "size": 3011033,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "e15f597f609fa2b7a67d37652be4eda9b61aead804cd008fe5150aeec01916a3",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-134.jsonl",
+      "size": 694092,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "8e8880e3afa12c821afbcf015107e4c06cfd93b293cdbdf50c491ca399b8c032",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-135.jsonl",
+      "size": 1852249,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "b41181eb4fb1e5f00b8321a2f0d47360e783003ea5c4213a7e6fe885e996a355",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-136.jsonl",
+      "size": 1395743,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "e3666d975b10fdfe4acf8520b942c53f33b1326fe15965f074ef38a04bd191a7",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-137.jsonl",
+      "size": 2070281,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "62e0dc2b1bec0d52190b01b89a26eb9bb842982172685a07f0d7f7399142b989",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-138.jsonl",
+      "size": 917566,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "69edc44d7d95ae00324911d64b7c3d032c0de6e8c505da83e544e6b3310c0010",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-139.jsonl",
+      "size": 841000,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "de97b08c3cb256024dffa156c835ef906816feac33f165cd09898089b470e5fe",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-14.jsonl",
+      "size": 2202879,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "47e18d64a14cb9f926e781c6fa34390039fdd00c871b35f8568bb2b9cbb63181",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-140.jsonl",
+      "size": 413298,
+      "modified": "2026-09-28T19:36:40.000Z",
+      "sha256": "509cab6a145ffa4d1d1605f813a9216ab365f335d4231a34587a0fb38e6748ec",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-141.jsonl",
+      "size": 43181,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "aa651afe5365e416fc18582160c6e9b7dee9ee2ec14a1ad29d728889d5e994c6",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-142.jsonl",
+      "size": 2142616,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "9f7151f30cfae9b848903bed0271c0eb89fa7f60348c29b577e4ad8052556553",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-143.jsonl",
+      "size": 943615,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "2e47dca070aa08d4ff74f6de79e274e7a2067440b0737ec0046f0e4f069af07a",
+      "record_count": 41
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-144.jsonl",
+      "size": 637059,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "c522ba9c99ce3970e41925e880e37d4867a116884632ef78980173bf1b741d7c",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-145.jsonl",
+      "size": 3873223,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "f460dd2d5fa92bd85507dab4a205b05a15d83ed1ad6e5bad2da1aee71c804aa8",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-146.jsonl",
+      "size": 1268844,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "c5bec65755a90aed64704789ac7504ab7f5e516319bc7312dbad95abc7003f61",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-147.jsonl",
+      "size": 65584,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "f3356a1772bed5bceacba757538a9647fb4c6e9ebb9830f60ffde03512d49733",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-148.jsonl",
+      "size": 1759128,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "44349796fb38d3f0cbf1de5fac495456eedfff05282f9449b352ad68fc6024df",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-149.jsonl",
+      "size": 1214671,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "30e8420a841492dc473490013966899c5be7eb83eb509bf54e9d1c58bae2eac3",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-15.jsonl",
+      "size": 1506069,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "64a0297c107d58bfb7ead4704a2a4b164110d234806e14b7f55fa2ff22869c9a",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-150.jsonl",
+      "size": 1518570,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "0ddef822ebc99348bde7b246b4895669fb1c435fc8230ffd6dbcd21c1601da62",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-151.jsonl",
+      "size": 57379,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "2eb7041b72e504dcc9faca96686990e656cfabe6b179398202eabe60a3aaaa5c",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-152.jsonl",
+      "size": 3157393,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "d92737b5ec0b82170b80b124a54c8350d7500e795943eda21e617f4ab84d1f73",
+      "record_count": 40
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-153.jsonl",
+      "size": 1770258,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "312f21334b089a8f86de0acf297e987ff518147668acaabcac88175b870b9147",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-154.jsonl",
+      "size": 47109,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "cfe3e64f63646c493eb3db100a076be8f21db54d8b561ece386c57cd043ac967",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-155.jsonl",
+      "size": 54863,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "35243c69ea592499fe495d15d5b799728fd23f10add7303c7cca79875139b6dc",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-156.jsonl",
+      "size": 2412467,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "22a9b6ac87a67f323498d2d1f978db12dce170fb5b2eb3a334639fac57af0396",
+      "record_count": 39
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-157.jsonl",
+      "size": 54775,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "eb5700e57be38f72a5d53836b9c55bb7a274787128ce92cc7dba2ee58a0903d2",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-158.jsonl",
+      "size": 54181,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "46364f77555ffeb799f5b22cd77cde2da36c2f02b896c279838a6dd90a3fcbe6",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-159.jsonl",
+      "size": 817438,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "2a262c9c502affce7f55fcdc4322652327a20bdc1cba1bf5ff15b28b01374ada",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-16.jsonl",
+      "size": 1767729,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "f861c67860ba1b34c083703ea4579fa1f86974fab89edc6efb614fe70300f083",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-160.jsonl",
+      "size": 2815597,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "626f26d5bed7d72085e83f46dd3c97e0ba03482766e9e9d0d541311f3cb6f17c",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-161.jsonl",
+      "size": 2418730,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "e4250246cc38a89a6a59578f0dcae98a9af708dda35c66603a86ee249c946e29",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-162.jsonl",
+      "size": 44462,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "63b01b731488aea202dd4feaab2c3fa4749f050e89c0c2458cc4d7de7c34694f",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-163.jsonl",
+      "size": 1817727,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "d039086dc7a40e0ffb27b86a1f0db7c531b78a1068aa2b9c10091f7eebb26ac8",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-164.jsonl",
+      "size": 1573389,
+      "modified": "2026-09-28T19:36:41.000Z",
+      "sha256": "b1d8236cb43b19fc44b5f667232da5c68d84135104f2c7d232a4fe5af6bd9228",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-165.jsonl",
+      "size": 1830979,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "90648206f0225a533bef3789522d72f5edc6e8cfde2010fa6968a035dfddea33",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-166.jsonl",
+      "size": 655382,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "6e2c964df0e963ab64e0efd22a72dfdfb67d2bbb4f72fdf47f756bbb210607af",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-167.jsonl",
+      "size": 49574,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "fc7ac2e12cd3ea4ce8761e6eb7ee55413b18a8be6af765f8b3bfa52006df35cf",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-168.jsonl",
+      "size": 1040035,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "9696c4517d82f2cea367de4073d917005ff0ab6cf1c27756b9c26e254a243360",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-169.jsonl",
+      "size": 973617,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "3be9068e20120f446ffe49f6a25903690483f53680f786d1a4ea7995076b5ff9",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-17.jsonl",
+      "size": 1469521,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "cf2428f009514945add5eb90b2e6cd8ff905cb4ac536f78a1aed1cc66cba0511",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-170.jsonl",
+      "size": 2508649,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "378d307ab00f2f665a4e5a10dc007b330b84c2d83190958484db1f6fe6c4d12e",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-171.jsonl",
+      "size": 2058191,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "cee0a9a730e98f2bd8f47fd15e4e56413c41ca9c549bf38a7ebb75e718abbcb8",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-172.jsonl",
+      "size": 50511,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "0b212e6b1666bb6d6d9f6841fbc4e9edf1d61dc6928333c464d37e9823df81c0",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-173.jsonl",
+      "size": 318800,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "f59d054d846e21f45c7c4b1484d87ce3bdb8eb6d5670225b8035eff667fd5d68",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-174.jsonl",
+      "size": 48816,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "3faaf76a166e68d1bd7b564ee8d180c28baccd33cf2bfcc775418aa94d1e4c86",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-175.jsonl",
+      "size": 46549,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "ea9b6c2f15dc6827c1415f14bff6604abe8a1ac54b102660e98d7b4a29378835",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-176.jsonl",
+      "size": 52960,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "00aedb49d54433ee06efffc01106a62872e7483aeae32be09cabd69c852dcf15",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-177.jsonl",
+      "size": 422027,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "520e17edd231685cb15f216ab747f19b8db75fad1d3c47b2d5ad70ff56fa161d",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-178.jsonl",
+      "size": 535982,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "1229ef3a3dcd949815a2e34fe11831a2cbc72f62b1b3dca544f881fa02d36fe6",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-179.jsonl",
+      "size": 1183278,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "38bec55c55125b177eabd3eb47609c6bfccca13f0dd0b215c475fbbe78a0182e",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-18.jsonl",
+      "size": 1305120,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "32a4992be202d605d59987a7bf307a49836d3244b4114eac6712b7aecbb0d37b",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-180.jsonl",
+      "size": 910539,
+      "modified": "2026-09-28T19:36:42.000Z",
+      "sha256": "9ff04c824d2118ff7407a282af6ef55c24aea1722d325220c76c04317b29d11b",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-181.jsonl",
+      "size": 738911,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "6d7e84db9ffe20d23b49a435953329041c1db7f5eff23fa10950e5a9a5a10b71",
+      "record_count": 21
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-182.jsonl",
+      "size": 1286437,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "8d210bcbb81df67b61b104e66bcd1f89d3ed8670ddb4c92d5019ff3acb77bcdb",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-183.jsonl",
+      "size": 1465068,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "92e239d26f816f1f51db5333984bed940203d374b693e52c4e7a580b194bb103",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-184.jsonl",
+      "size": 369183,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "d77b95bc82f7e9e2b18d32df379b65f67f50eb8f337a4eeeced6070485293c1f",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-185.jsonl",
+      "size": 501590,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "13e99a2f3b30ceef37cf865b74e45ba646eea0a57d5a4b5c2ea265ca588b2a1f",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-186.jsonl",
+      "size": 1873236,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "6dc9704ada0c05f231e243fb75c81df3c9b0dcbbf7709d6eee2c77c56a69b9df",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-187.jsonl",
+      "size": 585899,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "77d558f849baec1109d878c6194a17cfeb0557a220f8d667f70ce854478ba988",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-188.jsonl",
+      "size": 3426719,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "d8a6fb37b14cb0de97fb4b7d838a15e187f898d83111f6a1b86e95df26d1ad07",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-189.jsonl",
+      "size": 639153,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "df044cf9780a8f258b9719aea1242c0ec06700e6596a552dca023a3ebb5638fd",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-19.jsonl",
+      "size": 774278,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "237f00290540b0a12ada3d4ce85212bd55b0c1d494a84633663525e7a750b8ad",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-190.jsonl",
+      "size": 405329,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "47573b7ddc2d372e517c86499d6449824418c085ce86b42592554bf860d0b831",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-191.jsonl",
+      "size": 2409723,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "6a601d7d772d39f423279c0bfb1d3ad13a6ace755913f01224c685c1d2d355ec",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-192.jsonl",
+      "size": 536988,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "b4f7569e5e2068f09197d3a5f7e127f9e21e82aaf4ffdfd31b599e4ddb657838",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-193.jsonl",
+      "size": 908085,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "8ac395a73b7eb52984b99901d0dd25a1d314e838d0ebeacae8a49b8be58af8c9",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-194.jsonl",
+      "size": 1528047,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "281cf75854bd509197a5790d79bf8286177fff62172400abd4ed23df3746079c",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-195.jsonl",
+      "size": 2302886,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "b328ef654b988942b111b73e01cf5a710fce195ddbbe98965f3c1572e89dd8d1",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-196.jsonl",
+      "size": 1413643,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "519a7a8012c9a23ec5b6dc23f816d9ae50d942f7e50d0e14a11d1087725a19c6",
+      "record_count": 39
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-197.jsonl",
+      "size": 3622203,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "18577f9a52ed26d49fc5ff4d97ce50bcbea77a7a1202c710634fa633c771855b",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-198.jsonl",
+      "size": 1673506,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "1f3628a1784f1fde94066d11b059999130d8af1e88e4c4e3dd9bc1253b92c7db",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-199.jsonl",
+      "size": 619872,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "4e1e3cfac87dc5c3d2cfa3e863628d2bfcd908ee33978ea695818e92b5feec40",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-2.jsonl",
+      "size": 591573,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "2f46c5eff060f9c736bc10e28b741ae4e47aa4f32cf601293941fff106a9b06b",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-20.jsonl",
+      "size": 923260,
+      "modified": "2026-09-28T19:36:43.000Z",
+      "sha256": "683716679661c758916e42bdc56c0523224d729803b6ddeafa455d937532ded0",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-200.jsonl",
+      "size": 708631,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "e2b27fd9cdb099b992554f598acd66067b38aae45647b0167cebcd4cca471594",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-201.jsonl",
+      "size": 766434,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "e357db9322cd73ac60d778b39c77a7565524ee8388b7939a12cff8e4d5221544",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-202.jsonl",
+      "size": 902934,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "cd083b35728a4484874d03a7afcaa402521d63f227f2ba9bb8def6ae6049291a",
+      "record_count": 39
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-203.jsonl",
+      "size": 892553,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "f66298b0d6f44e8d5898f2e7486529188edcea7340d2b4f1d15eff185549e115",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-204.jsonl",
+      "size": 1979007,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "7fab3f48a31256da9d4f29af36793801967d7dbb2dc7e938dc1bcf3a54f9a218",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-205.jsonl",
+      "size": 718865,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "ed7d74987eb44bc51da9e9de31f690e8b5e7a677a706ad13c431d6260129f380",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-206.jsonl",
+      "size": 977931,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "98e4410e80af2b3055aaea7504eb6f685dc6f639bc9a3b7a19483fb97afc2de4",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-207.jsonl",
+      "size": 1175253,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "6843903838e692d4be6a318a26a399026243981eb20ae35e55bcaa1f3b89efa5",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-208.jsonl",
+      "size": 900195,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "a8a880d6b5fc53fe44093691983f2ae1cdb07dfd6a88b3a2b713b01c3abefc72",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-209.jsonl",
+      "size": 803965,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "c77a2b3bbdee08881f539aa69f700cf255f67735e87cec70736514b073ddfb16",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-21.jsonl",
+      "size": 1399725,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "02590111f358dacedbb62a1d092e817af41ef08ab3573c5554a75702dde784d6",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-210.jsonl",
+      "size": 329905,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "eef076fbd7626a0cc9a3be9a5bfb2941997fa4a9f82f18079f3265f024bf5d6d",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-211.jsonl",
+      "size": 1273200,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "bdacf5000fb6f089d4d06f08d8e410889475025ed8a7ba5730c0ebf5d50bb75b",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-212.jsonl",
+      "size": 1703644,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "2a14e946bcce5a621e56f8155a2b937c42711b593ba182786957baffce0eefc1",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-213.jsonl",
+      "size": 1841161,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "1711b5a26d07e8ad859003c2f0f171236e9d6eeb32853dd73c9ca6100e434372",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-214.jsonl",
+      "size": 1550163,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "40b718ab7e8bfff029e8376ff76e9881bf6c930dcdbac8ff6c11a8a9669274af",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-215.jsonl",
+      "size": 640260,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "2e8b899fc10ef1cf30ed2b45d488056ced718609629b0559a46eff9cc74e0acc",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-216.jsonl",
+      "size": 1967187,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "93115aae35039137634d9b885de811c09b03ce35e085f1b04acf2f6dd11f0253",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-217.jsonl",
+      "size": 388975,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "828cd85032bcc6d2eff4fd7ae8b0567d95b251418615032d15eb7330e81b1932",
+      "record_count": 38
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-218.jsonl",
+      "size": 1045127,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "a94fa48a0c178b4661caa2fe050a55b5aea2d4f0c92a146df673e4d2d582254e",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-219.jsonl",
+      "size": 3835946,
+      "modified": "2026-09-28T19:36:44.000Z",
+      "sha256": "cc12f2f333e3003ed5d7c64de1c42549333f7f85727831c442acadda55c1d7c4",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-22.jsonl",
+      "size": 839045,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "160ab7a3d1816a36e895b746de75245357b4d1a7a3eb3e13df07be992accf0fa",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-220.jsonl",
+      "size": 365158,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "9ee4f1c4d84c67a78a56a2d68bf42c25ff0f475153621fc3a3baf2e46e0269b7",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-221.jsonl",
+      "size": 2126877,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "329f3d63b4b6620129682611dbc49dcd93da5df10d018068bad66c692d691c2c",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-222.jsonl",
+      "size": 792288,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "20966615d71f91483bba18b9d9fec937591eb64beb26497b6610388d11408352",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-223.jsonl",
+      "size": 974306,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "36091ccc43f8438606f86cc0b6816d69bb8907f987d809b90ad15b3224e0c1ab",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-224.jsonl",
+      "size": 377994,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "251b216c74a3170b0cccf21aebd9e61c2009b893bcadd87c2ffdf8d782d5bf27",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-225.jsonl",
+      "size": 1903146,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "974a0fb45b28a67ad1e767b6937bf342e5cce8b32b046544c2de11d29ff08601",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-226.jsonl",
+      "size": 386847,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "b47355b078531f015ff6f7b71b3f7956f041c210b00b56a4c1b1a9a77f1f5e5c",
+      "record_count": 19
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-227.jsonl",
+      "size": 1381550,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "5f35e888317afd6c9209d56dad11d99082bfb7f61cb35e4cf9306aff03742ffa",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-228.jsonl",
+      "size": 314786,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "09716f032c7add40e9cbff164c7193980485de473b66a5f41e64f171159b1059",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-229.jsonl",
+      "size": 1107516,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "74b1276099127d4116ec0d425904f0f917777918b7140eab93ffd33cd28c32bc",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-23.jsonl",
+      "size": 591306,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "b2782e220f81c2810b35dd6ea3b84404a8344695fa3aa4c5870a385b36edf7c2",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-230.jsonl",
+      "size": 2017809,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "f7e7af9e0bc2a03788ae916edd63546fb74a5059f123d35e1b830d1250a831fe",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-231.jsonl",
+      "size": 3216210,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "630c630ebffab2d12b8a7ae8ff522b3d4c89765363b5454ef448e5afee3e0352",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-232.jsonl",
+      "size": 393524,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "ce9eb52232d8ceee28ef546e109c56107d0d207cc8eee51189e2ed4fd00f35a7",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-233.jsonl",
+      "size": 428275,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "f8822c6dc0c361f085e7829ccf004867fa54b8f106fd87ddfbb57d5e216f005a",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-234.jsonl",
+      "size": 733169,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "c7c584c1f976d1e55080f140ec10ae2bd3309b411fe8d722a338ff83216e47c0",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-235.jsonl",
+      "size": 2060563,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "fc86d1243284b1a4aa4ecc21c0d9de6b850ae012fc515a5264e8f89eb2fe342d",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-236.jsonl",
+      "size": 432641,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "05711efb136c347d08e79179809f58ccab8f47d57aca8e9256d511b26ca068b0",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-237.jsonl",
+      "size": 771280,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "34c488d64aad0e10dd973b89a023993d86c1f4f3a25d447fc892f05dd9e9114d",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-238.jsonl",
+      "size": 308491,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "8e78ca09d4c91eb058dc59e257201a1851394d2710d1fa25f81dfe00786ed3da",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-239.jsonl",
+      "size": 3695322,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "6d3207b595bf211366a38804717791313d7600ba47fde2d7e6c7093480f76dbb",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-24.jsonl",
+      "size": 62071,
+      "modified": "2026-09-28T19:36:45.000Z",
+      "sha256": "6588b098ab2b56991079617e0841fb7bd3a2b0ebf845f0bcb762ac7c713c7f25",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-240.jsonl",
+      "size": 465174,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "d4deba946c0c18d4dd3955441402148768a64efcd0779986c5a236a5bf197433",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-241.jsonl",
+      "size": 1336648,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "48cd8506c036809794c0dd335c21ff477989c14cb4511e1263c448228c8d6d7d",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-242.jsonl",
+      "size": 38595,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "27ccc3dd5080bda14133ebbf324d70c5f247e26007a16d7e742ffef7c7cd4da5",
+      "record_count": 20
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-243.jsonl",
+      "size": 628340,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "3f5984f1f0e9ef3154f9fba79a5d3bcb9b3c5d87af258c06e6821447eebdb863",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-244.jsonl",
+      "size": 387707,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "51f50a9aa8b9c77545fbb5227f4812bb2a2f523d695042dc23f467c464f44f62",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-245.jsonl",
+      "size": 1984844,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "8da20ca0f4ff5196ca0739873bfa2b53704aacdd1f317d16f21651a45c515d3f",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-246.jsonl",
+      "size": 851959,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "e471d0129b43546ba18b6a95b44f7076cf4c1f87f7be8fcc60a6a85fe1f32251",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-247.jsonl",
+      "size": 340113,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "c6ee8744ffeb5fd61cafea7b284ee8bf4a01990f205df52ce3c23c883c298ce9",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-248.jsonl",
+      "size": 838880,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "ebd512653064e7c746bccf8837e21f6b046536bcea7834ae886a41e99965633d",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-249.jsonl",
+      "size": 272380,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "f814dc48edc306e389f1b4cb5c3a65e5115408c7733b37dec95f3479134d754a",
+      "record_count": 19
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-25.jsonl",
+      "size": 1847591,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "875e05ab3fd896673768f193f17361713d568385036c2bac6d732e964fa7d872",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-250.jsonl",
+      "size": 1523512,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "3aa5e4854824d86f54c7661cd3ff8dbe4b67b2bbbd078a5cf65d450795570aaf",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-251.jsonl",
+      "size": 1031766,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "aa0f5f5385c0974c2177da4d713f40f94ef5e19705fd06b4878842ce8e5f80aa",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-252.jsonl",
+      "size": 1443554,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "8544caf299e7cd6863ff5de25dfd5c45b025c64e5bce04753d6ac2636785278c",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-253.jsonl",
+      "size": 641695,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "006784224e526a1719c43628d6f936868c48ab43b962240b4ee42d92d0070ff2",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-254.jsonl",
+      "size": 678682,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "a55421098096db826cd77c34fc80b2217c418686add7d53608edbf0c52bf9d22",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-255.jsonl",
+      "size": 51349,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "321a7628403178e1e44357801b5c6b25c2e3fbdc772aac3e7e12c4ae2c3a7f62",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-256.jsonl",
+      "size": 2344944,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "6c86ad66cdd03c1e3189f0dc856f3acc4ca74126a97c243ab2217c7b38c82e4e",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-257.jsonl",
+      "size": 337070,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "f8250d17508d477157043cf7fde5b199621ba86425cf6f272b1927ca0aa7e7fb",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-258.jsonl",
+      "size": 683597,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "fbbca902011623036e41068367a9e51cf8030620a097607227d2c115a1e4a249",
+      "record_count": 21
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-259.jsonl",
+      "size": 1111519,
+      "modified": "2026-09-28T19:36:46.000Z",
+      "sha256": "14b6bb87250c93cfd393870e4bccb6bddc92967ead475762ccce80e0fecc4bb8",
+      "record_count": 38
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-26.jsonl",
+      "size": 379296,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "d7067ce4f7b9cd3fe2793325355bdc3600f02223da3117385c22b0fdeedee9ba",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-260.jsonl",
+      "size": 837249,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "52b3662d9421338be4e398bcb5616317dad61abe35c95a5af8155c973d074021",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-261.jsonl",
+      "size": 716122,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "dba0f2dc7e4bb92e0272600a4af202d4d6a468ede16b45079c5e9f76ab3268d1",
+      "record_count": 38
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-262.jsonl",
+      "size": 1132780,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "b1c4a631d1b29bb1c696be0492d24dcbbffa99adaee39992ef63aef54cb31c7d",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-263.jsonl",
+      "size": 1872360,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "b6952be598d13a8887077e1af994b8231d7f86f4664f09ae9fdb00027ed49962",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-264.jsonl",
+      "size": 41091,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "1d721030423372d583b0e9cfbc4dd6250896d49d8b971db03fc52baf97666703",
+      "record_count": 21
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-265.jsonl",
+      "size": 1471182,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "b5081dbcd1ce789a2f113496c220af6a9e4cb5bbad24bb0d7897daef8f6dcd04",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-266.jsonl",
+      "size": 1115998,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "8a58fc3ae84c28eaad3d28871c96de1961d309e16bf40db620b3a9693b403487",
+      "record_count": 21
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-267.jsonl",
+      "size": 695408,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "6e9095611fac87103225602f62a4e62c3d245cf46c2a8b62ef18d32157c94fd1",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-268.jsonl",
+      "size": 682105,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "fa8454580492eaa2004981b624ac5b832b6f513ee4fbfed0884c7f6dbf389831",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-269.jsonl",
+      "size": 682097,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "048547ab3a605efe58d6fd084a5caf63af98fcd39beaffd44067cf7468fdd3b8",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-27.jsonl",
+      "size": 793778,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "ab7128d542918ede67766cad13d668270840f21cfcf5533170db2b4590365fa3",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-270.jsonl",
+      "size": 1829322,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "eaf3d907e1326f9c91d03d5f31305fbac4e45a3034e0809c7874d948a1e7bfc0",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-271.jsonl",
+      "size": 1506317,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "996189790921732477b0812222cf9e8197c8e027c5bb65e5e0d913e0a7ad0b3f",
+      "record_count": 21
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-272.jsonl",
+      "size": 1049316,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "b57b21aa5ae118c6dea53891c025d7ff0c6440ea27ae2f87082423b4a861d3fb",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-273.jsonl",
+      "size": 53967,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "3b4205d44c5ff4852b76ad4f92ab6e785e3b643fc79aa5444bb2d73713bb57bb",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-274.jsonl",
+      "size": 1872138,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "92c215d70593c6667b1353c9ac3385b407122fb2b29e16a06e7c898bbb40bf2f",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-275.jsonl",
+      "size": 1372148,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "8336e42cd59a584bed08568d64ebad01586dcefd5340ae9fe4880eaaaa35193f",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-276.jsonl",
+      "size": 825033,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "112b4b80a2c5ffcdf2a77c47ffbf2841873491c023d603ab764a47da2769dee5",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-277.jsonl",
+      "size": 50504,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "705599911c73ab648143945c2f60545447905b2ee5dd9dcca0dbb18c48f43d22",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-278.jsonl",
+      "size": 56652,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "b93b32a9d8816816eb13be8a34cdc99d0ca9cb74dcc428c5c34e123f13f17595",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-279.jsonl",
+      "size": 963585,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "1cd7441b501a3089fc557a2b3f1bac88a80af22433a5f30f73b613c188a32657",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-28.jsonl",
+      "size": 1935304,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "f5cc5d68389ce78378a5d5464182c3b3c25599fec3f7bc1b3024fb3499845197",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-280.jsonl",
+      "size": 1198089,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "a28bde0fec29a6845348dabc5a2b677579ce6971d4c57bf45ce5963c9028255c",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-281.jsonl",
+      "size": 339062,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "65189327359c99615cf42648a4655e28225985db80c977b428866ec6a2e8078f",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-282.jsonl",
+      "size": 454660,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "ad13b898810cac6a4a4d6c01caba44be42e20818ad1902163b7afc9079264d5f",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-283.jsonl",
+      "size": 1216435,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "dc1ac6305e7e40235e5c2f693e59c8120848fd41ffdc8f883aa880eb84449012",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-284.jsonl",
+      "size": 1236191,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "60b4da0e408ed959907b9d8365325116d29508bc4e20065b6700dc4c1a8d7ff5",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-285.jsonl",
+      "size": 1639164,
+      "modified": "2026-09-28T19:36:47.000Z",
+      "sha256": "f7f28b99904ebb709599aefa5f6edf869e9b73c7c7c8adf59735650cf68ad846",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-286.jsonl",
+      "size": 488968,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "9ebcad3f1a1d20c0bcfb9eb66d9424032b2360563b0c2057d18cf6e98a63b582",
+      "record_count": 21
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-287.jsonl",
+      "size": 1147025,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "f5ff90ff72f387c76a4f9fe385224fb37a2dce2fe775bc7801212f1d446581fa",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-288.jsonl",
+      "size": 1947964,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "097955af59e717557440593d347a242ea4381043f87cc6e16710d3a649cf6284",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-289.jsonl",
+      "size": 1554005,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "6cf9af4d8b84e5020bdffe5d56b266e4d537a65c784d8bd9027986dd7418c043",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-29.jsonl",
+      "size": 625635,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "78a8b740d776a09c6c4705c83449090b6c105e4e7a633456dfaf580186b44c1c",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-290.jsonl",
+      "size": 675160,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "fa32d4e86c6caf22dd0e197e8e1b05b7f6d380e47e8e8d50c168f6e21c90df3f",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-291.jsonl",
+      "size": 1342933,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "1bdc3a547844a5111595b84f65185f0e4e6c9e91c9930f216083de1153c3d2cc",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-292.jsonl",
+      "size": 1899588,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "6b43fc13666b0b53cf0b390a032305aca844c1c32ac53e263418a449ad718646",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-293.jsonl",
+      "size": 505698,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "939e12f5086eca1ce1f1277c32640790247285480d93ebac25131b42d9147c45",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-294.jsonl",
+      "size": 2027889,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "a478ce4474657f7ae8bfd78a0b9f6f49f77459ba8cb8a099b5e37d0491f2d264",
+      "record_count": 39
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-295.jsonl",
+      "size": 1082313,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "99ddc8ab7427d190b4d082d948b6762da05d0ebc54d8e819d0151bcce58719bc",
+      "record_count": 20
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-296.jsonl",
+      "size": 1093759,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "d69341dbc3e3ecef7876ba5daec1a364fd097a02787ad631e6c8cb896f9c54e1",
+      "record_count": 48
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-297.jsonl",
+      "size": 332013,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "bf415c971e78f19fe3dbeef0b4fac141431e87e2616bcc86d768f3477ca5dab8",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-298.jsonl",
+      "size": 2778493,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "2709b7163dafa881c999bede635dc8982655e61f132351a1b236b25966f31b40",
+      "record_count": 38
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-299.jsonl",
+      "size": 2429168,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "c50129e48728bc2393f0b6f15b7968c64714b6b86096956f85d7478e188160ec",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-3.jsonl",
+      "size": 382759,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "918901c3cde30d6ffc8054430b299be8b6daaeb37ae4fea3a885fd75c689e655",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-30.jsonl",
+      "size": 775990,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "977517f29944c85fe707b540601b6d963f6510a6e8484ab34f83da18e4afc331",
+      "record_count": 17
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-300.jsonl",
+      "size": 3066609,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "44fdecaaae4ad1590fd86c363789a92243c14d13168cba70d1e1660b499182bb",
+      "record_count": 39
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-301.jsonl",
+      "size": 816620,
+      "modified": "2026-09-28T19:36:48.000Z",
+      "sha256": "ee82d502f071793541f424c93918fdf0e8d8bd0fc3228c588d0f418b63d73186",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-302.jsonl",
+      "size": 1435991,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "62cffa12b5b3e9dfc00092bd64d1c6b2286f83a12fdecb80c321d0ee515f1298",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-303.jsonl",
+      "size": 1082311,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "af876d358021aab2cd6c64a4b9e12c15faa088d021ab80f4105a3cce8f6ca54b",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-304.jsonl",
+      "size": 630227,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "a81f6a6f491cd019a550e449118d078a9155ac7899e026921a84fd5e705d5c7d",
+      "record_count": 42
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-305.jsonl",
+      "size": 2017341,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "97393f4c2b8dea5197ee9aa7d6fa5dc8800cfa32cf2b96cf267ed85f179f87d8",
+      "record_count": 39
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-306.jsonl",
+      "size": 383926,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "08e482c9440ed1442c2ccf76de4748e5d6dfe6a8a27a33c8ce520184b3541a27",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-307.jsonl",
+      "size": 929373,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "2d5be82f3d068b22b304d9123712740d1a62a8dac2dd0c10d6a6721aca7e79cb",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-308.jsonl",
+      "size": 748475,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "3db9b4b9de0fe9c3f653e9cace77adf9dea98ea0016e4fccf59bf3239bc1e6ac",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-309.jsonl",
+      "size": 1133603,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "d8a7d58f52650cab21c927ca7eb1bb30eb3ab0cf8f6b70a501772a419cfc28d0",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-31.jsonl",
+      "size": 917033,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "489f1d26a9e0f48914aa8b15cced1af6e258a9cf366c483c25881fe711ab0315",
+      "record_count": 43
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-310.jsonl",
+      "size": 466864,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "c8c2ceda220cf1113692a331ad4a6a68b74ccd434fbd9cd1de6c4372a107dbf8",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-311.jsonl",
+      "size": 1614530,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "6d183f3da39f8201f6698352fbe42b2a718c25f61e6c9eb9e950fa27bfb21287",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-312.jsonl",
+      "size": 59405,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "3901c02a2a30b0608aace181dd822d92090d03c4951e09b72da14cb1a337e591",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-313.jsonl",
+      "size": 43735,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "7712e325e05ce0b56d6dcd1dec7a9f87459a6f21e70245971a692060f407cf03",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-314.jsonl",
+      "size": 1264386,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "0a40a9bc2cd5889951cb02f4b29e5e68164ed5a19374c0e96096815aa7d0389a",
+      "record_count": 40
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-315.jsonl",
+      "size": 413487,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "e0c28180ec606f06209e9d1ed3e28b647ee5ffafda3c489058720b8a22cc0880",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-316.jsonl",
+      "size": 1414918,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "72320f2c81a9cd1d72f67b4c4990674c439d3eb4127c8abe685c6347052ec209",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-317.jsonl",
+      "size": 1418886,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "942344d1810d44bcca5c5e944b3e2eb353922ab0fec10bf5600aaf18405986eb",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-318.jsonl",
+      "size": 1196437,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "c047527dd41b6417f707e585ed6d589369daaf2616cb171fcf61a6f53ff3ad0c",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-319.jsonl",
+      "size": 1385292,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "2b1c1076f502c8a6b8ab8b3511ad9ee7d3f616e55dfc07c33d81dfff49417134",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-32.jsonl",
+      "size": 1951503,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "972c60b2425f82b9d34c81eb602e238db29bb33ffe32e32843cf959b8b0be168",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-320.jsonl",
+      "size": 963026,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "36861f8f6b7d155c957ed3a8399bccc322ae0bae3f0bcf29b44fa3d2b2339e27",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-321.jsonl",
+      "size": 860950,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "27e58ba4478a9ce7c3fdc6db71770f8730f5428a309c2c944ba6286f524e20a2",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-322.jsonl",
+      "size": 628177,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "e9a9b20f3d566e1b92bc672abfa966ce7dd846d5b2b70c8c3e639e0b2fde822e",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-323.jsonl",
+      "size": 49558,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "0aa924d2a25b5b459145391a6b0eef2d06438adfa8d1d567c5b10306d8f37c6b",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-324.jsonl",
+      "size": 34810,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "bef2a75964d5b9df205f63fabbe31b4c6f349b15d2996bee65ef4b75750d11d3",
+      "record_count": 18
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-325.jsonl",
+      "size": 747247,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "221433a0e4de2b12ceebcc7a0d906cae3e2c52e0209c92a4370bde2dd47d5765",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-326.jsonl",
+      "size": 961255,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "0eafd58a0f4bcc91b5f76700581d137bf9b53cc3b78b9316ff52d178411ca706",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-327.jsonl",
+      "size": 3855447,
+      "modified": "2026-09-28T19:36:49.000Z",
+      "sha256": "e555fadca152b79baad590dbdab227f52b12530c54b1f5b75fe7035c9e2c33d3",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-328.jsonl",
+      "size": 2672571,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "cbec07d23b7873b67198f6492742b00f2e20d43fe8c3d11f2055d89aee68e793",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-329.jsonl",
+      "size": 709613,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "c2f01d94bdb713ab60196a504115cbf3a18f8b67ef9c209c03a8b5b374336fab",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-33.jsonl",
+      "size": 279400,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "4ecba09fccaced14e424f42617d43b00e706fa2e64a82d1ddd2abb15eaa5033b",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-330.jsonl",
+      "size": 884837,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "0dc832b047cd7f4b61cf3452483c67de2e6a59be0f0275d3b891922016c44536",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-331.jsonl",
+      "size": 522616,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "bb1a7e1b10429be1bbf319e967cd8d15c10bd9ab588dffdb4461da5da1759cea",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-332.jsonl",
+      "size": 508809,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "81d0d7004ff303522aed8063dc22c75f3f637d4bb3f102f56428a8a73f7e3eb8",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-333.jsonl",
+      "size": 432975,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "65ab7ad0fcfb55a813cfcda721250aa974c25e05c142570ef91fe3b825efb084",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-334.jsonl",
+      "size": 1655280,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "94aefd5ea58473b2135e981e9d39c677024adb9a7e6f80c5deb64c188ae50460",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-335.jsonl",
+      "size": 787353,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "7bd0624bf6847569371acf6d8a4b34cf6e04a7d9cae7963da3296831ea9b4c55",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-336.jsonl",
+      "size": 3473818,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "32d2e4283117cbf6d74210a5dcb7733d0075b2d2ed64d23ff2aec7afb2ee8d4b",
+      "record_count": 41
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-337.jsonl",
+      "size": 2141088,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "d3fd2b3f197c012d5224a2470341837388d2c67843d092c2235da127e056cb2c",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-338.jsonl",
+      "size": 292042,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "21af430699f40fa1e8dceedbddc6bda2ad1c97536792bb12898c0d8aae308528",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-339.jsonl",
+      "size": 1447650,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "e3fe6732d889d6a184b0e7a4234da47f474d6b6db0b7bf19650d9ace994dda75",
+      "record_count": 35
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-34.jsonl",
+      "size": 386656,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "5b5d12461cf519de7e7ac971773844ac3f7426c4d9dde1b5828ab0986a287993",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-340.jsonl",
+      "size": 1054374,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "8e4ff3f2806cfe56c172ea95c058a8080d141c67307a53e4811be54cc18324c5",
+      "record_count": 18
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-341.jsonl",
+      "size": 45823,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "69f43f4dc30509e38c3275b2cfb55f6697087516724b275cf800c438adab6640",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-342.jsonl",
+      "size": 1255172,
+      "modified": "2026-09-28T19:36:50.000Z",
+      "sha256": "8f4300ab0be31c5ea7cd8fb7c70c9c420d1d5c92a69c0a8b699a1d8cdf7632ab",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-343.jsonl",
+      "size": 752496,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "da2552d6a50809370cf0cc3289ff82bba0e72247eb4f34d621d25177ba0dde28",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-344.jsonl",
+      "size": 1774590,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "2e59eee4a7fcd1401d908c3505434d6c3aebd6fa3aa9f34c74a71246107a01ce",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-345.jsonl",
+      "size": 1297917,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "06fed4ddd802e8ab375736a9b2e2e6b51007b62c323559533c93eab7c4eada1f",
+      "record_count": 38
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-346.jsonl",
+      "size": 843198,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "565fface3473ca5e22f461212142deb3b2e9a9aae3429f938d421685c3ca2f12",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-347.jsonl",
+      "size": 1805588,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "10999af0e2db2983554b8dcf613ef8a27181abbb239f09659fa38a6e7ca129b6",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-348.jsonl",
+      "size": 1881088,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "35bcc4ddd66cdfa2920bb0b647975f842ebd01262166a9ea986508bdbc149cda",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-349.jsonl",
+      "size": 1374869,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "6c1675fafbc3c08d808b801e6ea0811bf4dbdd3c4dd5d2ec0ea8a328ae3ba483",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-35.jsonl",
+      "size": 609411,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "1f5547232d940649ea8fcc36863a14629942c4d76c4daf0d1717c34c92302bf8",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-350.jsonl",
+      "size": 370000,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "25c78bbf780b1dab7f0e36e392105083ea5f3efd2a18b435237dedc053b51b72",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-351.jsonl",
+      "size": 694048,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "6e1a808b0d628ee8b83ae385f0edbe66c76caa7c4285592e98b55c712dd0bbf6",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-352.jsonl",
+      "size": 55868,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "bd1bc27fa830a5d4fc44c1730355cfdbdde86c6a7247c3e7ce794bd78f8b1bb5",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-353.jsonl",
+      "size": 1488823,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "68e52d67701c0deb381c59225eb1af33144e584bf356f8dbdb0842a76192b656",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-354.jsonl",
+      "size": 2089389,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "dfe2890ab4de773559285e1e3384dd86a2b9a432ee0726cdceb61ff2c9e467ff",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-355.jsonl",
+      "size": 64572,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "19b99dbe2095c3895c67d9877574d52f5590a533c647f05c6cb89126e55a4c07",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-356.jsonl",
+      "size": 40378,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "e0195d64b4d1b8d3f10793ccfdc9caa2200b1d93b372129d74f6538cfc8f25f2",
+      "record_count": 20
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-357.jsonl",
+      "size": 47346,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "27db3028e4033803a162a281033411368f61d8fa36885870844b93a4d2c15c5f",
+      "record_count": 21
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-358.jsonl",
+      "size": 715076,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "83c08690908c0f2ad18a1d6d96013209d4089970d86a6388c9f6c1372f3e8d86",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-359.jsonl",
+      "size": 978166,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "bb93511bbf4688a3229850d32dc3df4fe88654ea59c66b9c553f591c5fc2a415",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-36.jsonl",
+      "size": 960436,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "9a263dc1fc3d9cd4ad8004c894a977251b9eab71c4f28062b8e09a2dd93ce167",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-360.jsonl",
+      "size": 71833,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "41dcb09db8735a210507a249e4ab332f2b988b04377867ee3e68b355b02aca1b",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-361.jsonl",
+      "size": 1407622,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "d52be252a5f71f992539adc032fbe4b06c7aa20b832854c294465e4052b6cb68",
+      "record_count": 39
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-362.jsonl",
+      "size": 1032939,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "ce1e0b56109babaa509c0475b5d60316118337cb4918f8c48174ceadde6e3a3f",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-363.jsonl",
+      "size": 630534,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "d66e32ebb4923735f6d323e88503ca5df463419b38602ce92d8ec97691956831",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-364.jsonl",
+      "size": 589156,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "f95fefa2a4acb8e2f22031b6f41af80c1da0f6a8fee1135826a5f90a6641e30d",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-365.jsonl",
+      "size": 2036545,
+      "modified": "2026-09-28T19:36:51.000Z",
+      "sha256": "42267f08c267e4ca70c3856acf929f0322e1c7e85d71d43934edf7b48a2734b0",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-366.jsonl",
+      "size": 850533,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "6bb82772813f178169320fe9b79d165fb0646bb632fad434ab11f59b415742d9",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-367.jsonl",
+      "size": 1915647,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "cc68cf33241ddc9edcb2658349540d224d36bd61ee8945cdf8df7af10eb25056",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-368.jsonl",
+      "size": 380251,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "38964353354c3dab3ca4c8f03e33625cc004dc48512079ae6530f51046c4f3d4",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-369.jsonl",
+      "size": 2187808,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "3effaa9c0545ac8726fe11bb1a32f24a5259808bcc9d4892f3c6492fdaa2bf88",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-37.jsonl",
+      "size": 652416,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "97367a40e582dc22dd311e8b6ea0d8434ec96782a85acc084a3ffca0e6749849",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-370.jsonl",
+      "size": 2005644,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "fb7ee6c7f2023b169728e1f336296c1d631974a0aa14f77522373019d24eceeb",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-371.jsonl",
+      "size": 1297286,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "ab62729b8f12bc0457409adcfff54cf54ed044e79d39ed29dc86af9fa26e86d6",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-372.jsonl",
+      "size": 58699,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "20b2b3860fe366a285013c4e68b77410c97c907d0efac7ed5349da4110cd6f23",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-373.jsonl",
+      "size": 1516592,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "e911b150fc965289f435611e7e78ee94f31350a0f27d4d0790fc12e4fbf0ba0d",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-374.jsonl",
+      "size": 2203060,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "55eb7ff781985a594c1d904f3c03c0a341cb0d1b0bfcb90e2e52fb48cb3f269a",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-375.jsonl",
+      "size": 2078768,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "06e4251bff535c67ddcbcb74b301a3607e1ee5dc65b69df3ac07f4cb7a3e50d8",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-376.jsonl",
+      "size": 606850,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "84945ba0bd1a9dbb46e21e30ac20687062ba6eab7c88b85cb8cd09a47d9131d4",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-377.jsonl",
+      "size": 1761190,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "6964135b9be66af107e457076fcebd6b571135e7246a874a43afeeca15efe61e",
+      "record_count": 38
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-378.jsonl",
+      "size": 1629534,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "79074de0c23199365c9518f8a9a420f04c282596034a93c24d6d579e9e92f7cf",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-379.jsonl",
+      "size": 605535,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "78a07f29f41ad056c70745f05d99ffd3801767df4365d265eba5aa8582d518c2",
+      "record_count": 39
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-38.jsonl",
+      "size": 53269,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "816dd0f1df0f2c6555e3ec5e7685da93c8fbe62e3c78f2bfe502944503a8f5b9",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-380.jsonl",
+      "size": 755269,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "e7e01938dc071be504b820b0679af0866e978996124b9695c975df407290977a",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-381.jsonl",
+      "size": 578755,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "8799cb9cba643c4d7735fed56b4c9f480fbec3f3593703644b27c45e148df3ce",
+      "record_count": 42
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-382.jsonl",
+      "size": 54374,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "6a09b013f5bbeed05bed1b324cc2daa0aa0deafdee50ccb782c80ef8af9c80e9",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-383.jsonl",
+      "size": 689786,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "ef008eddc222913d9d785da5beafb93a4961aa1c08b6401b81c389c2161d49f7",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-384.jsonl",
+      "size": 687958,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "e5e1bc13c39ecd3ea8456ea6fb6391ad93ca80dac62095257bbd90a2b1b67ec6",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-385.jsonl",
+      "size": 1664138,
+      "modified": "2026-09-28T19:36:52.000Z",
+      "sha256": "9fcd201bb21e0042acf01ddd393ea019ec300653899e9cbda98cb7fc0697acd6",
+      "record_count": 40
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-386.jsonl",
+      "size": 592855,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "7afd187b9c850bde75b155801ed87b03a6eec56015ffc3a78a4b505850514473",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-387.jsonl",
+      "size": 1085735,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "a439f74a0c32280802b106042d3044765c826c92451d465d258f48459ac12bf1",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-388.jsonl",
+      "size": 614514,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "2acc7d750ea2f4bb96be6a30e92a0e558878e64bbf4ffcc09a53dcd9a55de721",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-389.jsonl",
+      "size": 1705887,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "d82b5ba9db58b3287a51dd0ce753056f882a64b8e2be6e8b1418332b7ac0bf00",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-39.jsonl",
+      "size": 804336,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "1ce30d2eabdd176775b16957e7e26f365358d6fa61050f7732248d1db2eb9b67",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-390.jsonl",
+      "size": 1343036,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "5cf48e023a7f597d7e7c42ceb1f706ae1dc1277bea2b3782437e35d792798c6f",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-391.jsonl",
+      "size": 1459736,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "6f2c9f995429feccbdff4a6072d5479cdc6c1be5544b509641a669202b27bf6e",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-392.jsonl",
+      "size": 1296088,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "0f2766d008d0de79f88762b777f4edf5c684144c2cf0d37a7c6593d91e8cf6c8",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-393.jsonl",
+      "size": 457122,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "0bb2a172a50ebcaac73f916fd78f68d96b8e0743b1545633f5f925ba94026da2",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-394.jsonl",
+      "size": 775867,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "2564adeff839e49999dc8e7b0ddc768ac5ff9c09b2c3a9bcc1ce483c6d8d352f",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-395.jsonl",
+      "size": 51158,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "87b29c4a1a92406bef6b08e0089bc8f53b867ac1906f52d7c46b8b8ec516bb1a",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-396.jsonl",
+      "size": 424027,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "4f4aebee704de4766040369b3f895c45683707b5ecd9810c2624bcc26dfe6fba",
+      "record_count": 40
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-397.jsonl",
+      "size": 1218070,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "bfb087e2da96baea75d22d448db1cffc3c860f60532507b7e50f4bca040cea26",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-398.jsonl",
+      "size": 1941025,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "74caf46f272e75bdcc1e4890b3e2726e9a99fd9dc0558c789fe810339ca95ca5",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-399.jsonl",
+      "size": 149628,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "f253e06f5c223ceddaa477555d925a8b039bba8820c55c28097bae112c14d60f",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-4.jsonl",
+      "size": 37765,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "5dc96ad5b7f1557a9fa690441659ad7f5eb9d03dca79fd476bd7fc5e952e5a61",
+      "record_count": 19
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-40.jsonl",
+      "size": 1331369,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "c78c7359e1e84462bbb016aa60b23f4b69033d6da08b2d4969c0b4be30f4255c",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-400.jsonl",
+      "size": 1920071,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "cee8342270f7cb804f93b88f4a22c0c3318e87d7fe5fe8173802297ded468d2e",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-41.jsonl",
+      "size": 2161200,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "79e901c04db8ea17d9c8e9ca8d4fed6d8633b98fef90934f76e20fcf54074187",
+      "record_count": 20
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-42.jsonl",
+      "size": 1342995,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "d8c4a1efcca3203fdd2b39c1f4fba01e97c4fd80cbfc1139c71c5ef3e4a3add2",
+      "record_count": 45
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-43.jsonl",
+      "size": 1678713,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "6bbd8cb0b8986b191fe5558b062e49c066717bcb573b7a06a355a60f591ce287",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-44.jsonl",
+      "size": 2688753,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "16777f31be910cf26fd1d2e8e3f1b21a516b5d3589b0d63be05c7a32ba494746",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-45.jsonl",
+      "size": 377190,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "6b507b517baf3c2d19c0b29d244e64f8130a91ff4966046260194137ff35815f",
+      "record_count": 27
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-46.jsonl",
+      "size": 900987,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "aa3f74001a5416c49974ff027d9561276f04392733a993591c1579827572cc72",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-47.jsonl",
+      "size": 355359,
+      "modified": "2026-09-28T19:36:53.000Z",
+      "sha256": "8e34be105fd4fdcd4381604cf6c1ee0dd64f11336c67a25e5eee0049e2a5fa0c",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-48.jsonl",
+      "size": 1832694,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "e16eb1ec9a8c56316d0d56333a51f2bcce9dc46bbbfd5165dd70f8cd89ce2a3c",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-49.jsonl",
+      "size": 389125,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "ad42f423ae0e506de2aaf1ac0a5de649fc374e518cc384300e38cf5dec40981a",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-5.jsonl",
+      "size": 517713,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "a56191b4cf9b20aad0a528674fd313187f57699320459f03b660ab52dc89f7c7",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-50.jsonl",
+      "size": 654944,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "d1b3d33f24382cb823ba0d621ec6b50d0edac499b2c6da25a36d92362b3ebbbf",
+      "record_count": 20
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-51.jsonl",
+      "size": 1642061,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "2c7ca4ddf9407cd87eb65be60a627efca9caf470a8596e4052c0efa8a9924a71",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-52.jsonl",
+      "size": 1480667,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "f36a9fb9f7961e8030e27674733d36ed370b49baa5af348c8532e63928ea10e5",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-53.jsonl",
+      "size": 64630,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "b2d0b01d514f7070ab05c929bf8d02926fef8479c8f958c6bae36786e9b8fb51",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-54.jsonl",
+      "size": 572325,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "86eacaa59cd24795d2d2c889c1ce87a4b29c55e434b243140481554fed8b0a62",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-55.jsonl",
+      "size": 329974,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "2471e4be2d936c58f0ad3978d7f6e2acd0b57538fbb780d112a91b5b64689aec",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-56.jsonl",
+      "size": 2065809,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "34baffb01217822c9cf999668591f9e4519b21d753a7df9b16c5bc7d16f20360",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-57.jsonl",
+      "size": 183141,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "6a5531f0499f173bc1e0be148997580408a7fcc3a10e2e5883a2c6df29e8ddc8",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-58.jsonl",
+      "size": 65965,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "2e198b8689b43638c96d32122d379d7a0b215ace92ae74edf12464208b6ee8db",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-59.jsonl",
+      "size": 591680,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "7157ee1a4f92645cdc2e50302c4b8cb3902e6983febb37479e3289eb7124bcee",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-6.jsonl",
+      "size": 517572,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "7daf70bdd3b34a1c060a15b1c52929164603d693375c8bba4e6a281faf3b6be1",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-60.jsonl",
+      "size": 1014199,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "c1ddfd0ccbb707e1272a13686d8bac963be09cf0103ff53fb97f334930edc6a4",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-61.jsonl",
+      "size": 1945152,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "72b705c4023ffc7fafba98bfad44bd00e15664c59aa45f8326d4d392a8960300",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-62.jsonl",
+      "size": 412580,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "b79ccccc4fe589313c27575c388485b54979464da5a4bf56fb81c57e71c2bb37",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-63.jsonl",
+      "size": 530105,
+      "modified": "2026-09-28T19:36:54.000Z",
+      "sha256": "9fb03997fc8f6c9eeb364a675f81ecc8e25bfb7fe6fa1da3746ce4d6ab14475b",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-64.jsonl",
+      "size": 337303,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "b28a2512a1bab4e88972a0f055f207cb0b5a0c0af9c9c553f2d6d8901ad7fece",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-65.jsonl",
+      "size": 1909872,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "18f9ab507c018bfc9688e218a65c5b26e57ae8c887b4f85c048c314653de13e5",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-66.jsonl",
+      "size": 624823,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "1cb38d27cc56f734a676710ad42f9058f0c606db256011b17b463e7cdb7396d4",
+      "record_count": 23
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-67.jsonl",
+      "size": 724490,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "e7f68a5dcc133f8a8e76ac6bb4adfc3664d45cae93c2a65126a507508f862cb4",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-68.jsonl",
+      "size": 319340,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "81f1902df5c0f2e24122a617ad38fe0cb665ca1cc07d1cb599cc44c3a445b9de",
+      "record_count": 34
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-69.jsonl",
+      "size": 943471,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "8945b52ca620ea8ca253c5010c74ef20d66fec25b912ecfc5fd1d5541e5255c5",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-7.jsonl",
+      "size": 3962978,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "92beb0fc9fd2a0fe7b26fb7692d978ab1f0239f26bed67eff24662234ba127be",
+      "record_count": 25
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-70.jsonl",
+      "size": 1052865,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "307d40db50893263a4d9b803d42e47d5f0cb4e56f1ca65cb9cdb67fb0e67b217",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-71.jsonl",
+      "size": 57126,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "576ff6e77e6f836d84f8b63e804b217a5529fbaf39c927f9b400f68479d4402c",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-72.jsonl",
+      "size": 45842,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "dc2b0476a8106e6c03fa6c40ada2a0ec23275b4bb83ae5b1ed0625e1da4466ef",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-73.jsonl",
+      "size": 2087340,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "a56dfeeff50b20f5c3cc6e83eb3c17e3323bc65d3d28c0d291a5c1d807caf294",
+      "record_count": 40
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-74.jsonl",
+      "size": 1019746,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "2f9c9d75f61e9e1ead58c87c37a0a721ace81eff72c3cc41fb2a291363fe2ba6",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-75.jsonl",
+      "size": 50500,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "f04b54c2948d53fb82fbf285525b5fea845867bb1426e7b3ae6c8ffbe9d27df2",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-76.jsonl",
+      "size": 1508365,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "5db64e8af08a6e648668f45de0f5050c4821c47c8ce471191f6afb52a13108f1",
+      "record_count": 20
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-77.jsonl",
+      "size": 3953534,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "0e1b55a4023fbfdda5f7b52e1b8f02c5b868afbf020ad1b2e3e8fdf2cdff1866",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-78.jsonl",
+      "size": 1162975,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "bbf17a78cc908c5b793e5e0be27b821a64992a4920f3041eb366cfe5b68dce43",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-79.jsonl",
+      "size": 75283,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "f45886cd3839a4412c12fb377a2c6a342ee8e71606e97fca3c5cf24d37262515",
+      "record_count": 38
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-8.jsonl",
+      "size": 1512482,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "6c2e2fd4b67f0075f72c9ed5aa1485270bccd8ce3fbe3f575d3091461005124b",
+      "record_count": 28
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-80.jsonl",
+      "size": 408008,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "7a33515839e2ba3eb0b55b29fda5928894a2b89ec591d3dd3fb3adf710587f78",
+      "record_count": 32
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-81.jsonl",
+      "size": 712827,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "ae2a29642118267bcda2dbec6926e60dc8d1e753539d466bee248741ff397591",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-82.jsonl",
+      "size": 1767327,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "535ca51a62a37b7fa34e4bb634b379f4ea4c664716a6fa86d40b649c44687dc7",
+      "record_count": 37
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-83.jsonl",
+      "size": 384285,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "6f8b45015bafa08ab4f853f127045420c4fd19b1640245e80393ed1633cb1449",
+      "record_count": 36
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-84.jsonl",
+      "size": 961062,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "cbc76c745117d7e04ba317e154f398ed28f26735ff2983c3067582e39c68decd",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-85.jsonl",
+      "size": 838482,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "4e532cdc8cb5bfa9a8539d77b609b1ea3bb0e8f35947ad253b64fab83da80fc1",
+      "record_count": 20
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-86.jsonl",
+      "size": 1756335,
+      "modified": "2026-09-28T19:36:55.000Z",
+      "sha256": "0072792570280768b7f2d6c5777b2bf70d0caf454c06d849cc4c951b9277fb08",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-87.jsonl",
+      "size": 1202038,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "13f8104453c5dfab5ac202383ed3ab9256a8c1b07f7226f1da213d6c57d7aa22",
+      "record_count": 16
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-88.jsonl",
+      "size": 1125559,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "b62162d8815b61e33a43c67a4aafa0f82ea2d68a5ca6eff9632bd543c39f2f22",
+      "record_count": 22
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-89.jsonl",
+      "size": 395586,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "4b4ccd5cc758f094d8348bc5bfd80e56a2639d7e5ca33f5b02b45336f689b64d",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-9.jsonl",
+      "size": 1707383,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "316e4f5a14443127b665ab363d7fb9366640295edebaf5dafdb76a3f331a978d",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-90.jsonl",
+      "size": 66000,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "40644d0108943878b7e89d0da943bc73240068ce506be69213a889e1d4ac94a4",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-91.jsonl",
+      "size": 1900626,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "ae81a71477f3cc2c9c5757b39588fe3b9a265532ebcef4320b8fab1d7211455c",
+      "record_count": 40
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-92.jsonl",
+      "size": 2215604,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "79c73395d071e0eac8919f6c6ea9f4fc8876a878c71796d6269f7b83a7ba9053",
+      "record_count": 31
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-93.jsonl",
+      "size": 1880122,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "bca15ebff309f738864c6c06a70e882b8db95fa3cae1456c00fc9840d67e0af4",
+      "record_count": 24
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-94.jsonl",
+      "size": 677654,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "f8c0852d406408711c504bc08e9e648a96e9da2917a74cdc6b9bb2c6655f25c7",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-95.jsonl",
+      "size": 1877421,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "e771cee163ee401ca8c5f2be7ee4fd047823cbc3a2d794da8f40674ae03db9f7",
+      "record_count": 33
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-96.jsonl",
+      "size": 59127,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "c534c38ddb23505ee944db12401abe7cc85fd8fea0696b9d674616cd62dd130f",
+      "record_count": 30
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-97.jsonl",
+      "size": 438836,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "cfb991b9d9688fd5f117f3db525daa7ef1369016d2d0d1bd12a3e4f705ea9e73",
+      "record_count": 29
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-98.jsonl",
+      "size": 834610,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "aaac74304485b8a05c0ecf8263308bd370fe508554bec53fd006ca4c1c1f5802",
+      "record_count": 26
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-99.jsonl",
+      "size": 1530945,
+      "modified": "2026-09-28T19:36:56.000Z",
+      "sha256": "88fb32cee942510afbb3807d04c348ab5946b131cf2fa2d5eba20f8afde5b567",
+      "record_count": 36
+    }
+  ],
+  "errors": [],
+  "source_id": "S270",
+  "dataset_documentation": "https://www.archives.gov/developer/national-archives-catalog-dataset",
+  "listing_count": 400,
+  "total_bytes": 441496756,
+  "record_count": 11823,
+  "preserved_excerpt": {
+    "path": "sources/originals/cascadia/nara-rg23-selected.jsonl",
+    "bytes": 4569,
+    "sha256": "6699bd0cd146ddb55d1a20892e2e4a873c6fd26d0745f4f9ddd38cfc25409c4d",
+    "method": "Two exact JSONLrecord lines plus newline, sorted by source filename and line; not complete source chunks."
+  },
+  "initial_attempt_errors": [
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-13.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-132.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-164.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-174.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-176.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-20.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-209.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-21.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-233.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-319.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-373.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-376.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-379.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-387.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-394.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    },
+    {
+      "key": "descriptions/record-groups/rg_23/rg_23-59.jsonl",
+      "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+    }
+  ],
+  "recovery": "Terminal first run; retried16missing objects at lower concurrency,all400now successfully downloaded/parsed. Existing bytes reused only after size and hash audit.",
+  "limits": [
+    "Open-export snapshot,not confirmed latest live catalog.",
+    "No report104/106contents,targetframe,field sheet or post2022film accession inspected.",
+    "No descendant identifier matches in export does not establish missing paper reports or absent photography."
+  ]
+}
