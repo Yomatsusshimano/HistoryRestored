@@ -4962,7 +4962,7 @@
       "url": "https://ipt.floridamuseum.ufl.edu/ipt/resource?r=ufvp&v=1.181",
       "source_type": "Original museum catalog export, dataset2fba9985-ac30-46cb-99bf-91ccde0d8d2f; CC BY-NC4.0",
       "access": "CATALOG_METADATA",
-      "inspected": "Pinned ZIP acquired; meta.xml/EML inspected; all554765occurrence and1967multimedia rows scanned. Exact18target rows retained in data/ufvp-dated-specimen-links.json;9S22sloths/8S36rodents/1holotype comparator.",
+      "inspected": "Pinned ZIP acquired; meta.xml/EML inspected; all554765occurrence and1967multimedia rows scanned. Exact18target rows retained in data/ufvp-dated-specimen-links.json;9S22sloths/8S36rodents/1holotype comparator. Follow-up: all occurrence cells searched for normalizedBeta345518token (zerohits); exact JeanPaul282171/307265 and country/taxon selectors audited,2769HaitiChiroptera records.",
       "limitations": "Published catalog, not physical specimen or original field-note authentication. Collection dates and field numbers not stratigraphic ages/depths. Datum/coordinate uncertainties blank for targets; no matching media. Unidentified UF293830bat not assigned to Beta345518.",
       "local_copy": "",
       "accessed_date": "2026-10-09",

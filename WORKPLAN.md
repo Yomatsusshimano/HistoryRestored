@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Broader museum bat search and incomplete taxon labels
+
+The pinned S321 export yields one Haitian Macrotus record and 2769 Haitian Chiroptera records. Both S324 Jean Paul accessions match, but UF307265 has only an order-level catalog label. No normalized Beta345518 token appears across occurrence cells. Scope is the export, not all museum records. See [catalog audit](research/HAITI-BAT-CATALOG-SEARCH.md). 28 drafts/324 sources; no assay accession, shared deposit or independent review established.
+
 ### 2026-10-09 — Bat coordinates match a different numbered cave label
 
 S324's original locality spreadsheet labels the point rounding to S319's bat coordinates as Trou Jeremie #1. The sloth context is #5; the dated bone's cave identity remains unresolved. Jean Paul accessions and woodcock-based age associations are kept separate. See [locality audit](research/HAITI-BAT-LOCALITY-CROSSWALK.md). 28 drafts/324 sources; no authenticated shared deposit or independent review.

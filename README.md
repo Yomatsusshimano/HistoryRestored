@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Haitian bat catalog search](research/HAITI-BAT-CATALOG-SEARCH.md): wider taxon/accession selection, incomplete labels and bounded laboratory-token search.
+
 - [Haitian bat locality crosswalk](research/HAITI-BAT-LOCALITY-CROSSWALK.md): matching coordinates with conflicting numbered-cave labels and distinct specimen lists.
 
 - [Jérémie holotype excavation-code lead](research/JEREMIE-HOLOTYPE-CODE.md): reported notation, exact catalog agreement and unresolved units/specimen associations.

@@ -1595,6 +1595,11 @@
           "source_id": "S324",
           "locator": "S1Table Sheet1D31:G31; S2Table PDFp1; main PDFpp6/10",
           "statement": "S1labels18.209992,-74.010012 asTrouJeremie#1; rounds toS319bat point. Sloth cave#5 identity not resolved. S2Macrotus282171/307265 areJeanPaul, not assigned toBeta345518. Main dates usewoodcock bones."
+        },
+        {
+          "source_id": "S321",
+          "locator": "Pinned1.181export: all554765occurrences; exact282171/307265; Haiti/Chiroptera and Macrotus selectors; all-cell Beta345518 search",
+          "statement": "Wider search finds2769HaitiChiroptera records andoneHaitiMacrotus. Both JeanPaul accessions match;307265retains broadChiroptera label despiteS324species assignment. Zero assay-token hits in export, not proof of absence elsewhere. No Beta345518accession assigned."
         }
       ],
       "physical_evidence": "Published biological sample measurements; no specimens or field sections inspected here.",
@@ -1607,7 +1612,7 @@
         "A common mortality episode, requiring an explicit fit and age-quality audit"
       ],
       "counterevidence": "These published sets do not accommodate simultaneous death of all selected calibrated specimens. A common later depositional event is a distinct hypothesis and lacks a demonstrated shared horizon here. No joint probability or calibration-quality model has been fitted.",
-      "next_test": "Resolve Beta345518 fossil accession and original numbered-cave label: S324assigns matching coordinates to#1, whereas sloth context is#5. Inspect Box3Book2 for#5holotypecode16,9,2,A and separate dated-bone units; do not substitute JeanPaul specimens.",
+      "next_test": "Obtain Beta345518original submission/loan/field-label link to a UF accession and numbered cave. Same-export name/genus/token searches are now boundedly exhausted; preserve separate #5notebook/code targets and advance other geography/chronology branches meanwhile.",
       "chronology": {
         "reported": "Sample-level radiocarbon results and separately published calendar intervals",
         "dated_object": "Bone samples",
@@ -1625,7 +1630,7 @@
         "Later literature and redating audit",
         "Independent review"
       ],
-      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates. S36geometry/faunal abundance repeatsS318locality account; no independent excavation confirmation. S319 repeats S22sloth dates for comparison, not new sloth assays; bat assay is separate but site/unit association unverified. S320 is the S319supplement, not independent replication; conditional pixel counts and model maps do not authenticate locality or deposition. S321museum records may supply original paper identifiers; agreement is collection crosswalk, not independent dating or depth confirmation. S322finding aid andS321catalog are institutional descriptions; neither independently validates original notebook content or dated-bone stratigraphy. S323collection survey combines documentary and museum sources; code agreement must not be counted as independent excavation/deposition evidence. S324is one2017study with two supplements; shared authors, collection and labels do not independently establish Beta345518findspot. JeanPaul grid-associated woodcock ages are not direct bat ages."
+      "dependence": "One publication; shared laboratory/calibration context. Multiple elements under one lab identifier are not automatically independent observations. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates. S36geometry/faunal abundance repeatsS318locality account; no independent excavation confirmation. S319 repeats S22sloth dates for comparison, not new sloth assays; bat assay is separate but site/unit association unverified. S320 is the S319supplement, not independent replication; conditional pixel counts and model maps do not authenticate locality or deposition. S321museum records may supply original paper identifiers; agreement is collection crosswalk, not independent dating or depth confirmation. S322finding aid andS321catalog are institutional descriptions; neither independently validates original notebook content or dated-bone stratigraphy. S323collection survey combines documentary and museum sources; code agreement must not be counted as independent excavation/deposition evidence. S324is one2017study with two supplements; shared authors, collection and labels do not independently establish Beta345518findspot. JeanPaul grid-associated woodcock ages are not direct bat ages. Widened S321search reuses the same pinned export; exact accession agreement is not a second collection census or independent physical authentication. Broad catalog taxonomy can hide a published species-level assignment."
     },
     {
       "id": "C012",
