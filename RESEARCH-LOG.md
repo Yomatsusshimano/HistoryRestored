@@ -1164,3 +1164,8 @@ Previous turn made verified public progress at569c18c. Revalidated clean checkou
 ### 2026-10-09 — Chicago street-grade comparison opened
 
 Previous turn made verified public progress at0d3247e. Revalidated clean checkout and inventory coverage gap. Added C025 from S234 mayoral transcription and S235/S236 original-document finding pages. Read specified grading/fill proposal, separated drainage from Ontario sand rationale and proposal from completion. Three original-file downloads timed out and process53225 was confirmed terminal; no scan claim. Old LOC book PDF failed; retained as lead only. Coordinates, costs and as-built quantities remain unknown. Adds a second city documentary case, not a physical sediment observation, independent review or global reconstruction.
+
+
+### 2026-10-09 — Chicago executed river works and retrieval chain
+
+Previous turn was a requested status update and made no research-state progress. Revalidated clean checkout, main remote head and integrity; read local guidance and current source/case files. Original LOC book PDF still404; no scan inspection claimed. Read1859 Haines institutional transcription, including Claims and its council-source footer. Added S237 and explicit dated retrieval chain for source-reported completed dredging. Retained distinct reaches, interested mayoral narrative and lack of spoil destination; no street-raising execution inferred. Bounded court search returned candidate names but full-page retrieval failed, so they remain leads rather than sources or matched judgments. No new physical evidence, quantities, independent review, outreach or global event claim.

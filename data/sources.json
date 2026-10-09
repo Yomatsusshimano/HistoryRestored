@@ -3708,6 +3708,20 @@
       "access": "CATALOG_METADATA",
       "inspected": "Catalog date/title; explanation attributing proposed street/sidewalk raising to shifting sand and reporting council approval.",
       "limitations": "Drawing retrieval timed out; no scale, elevations or original approval inspected. Planned development is not completed construction."
+    },
+    {
+      "id": "S237",
+      "title": "Mayor John Charles Haines inaugural address, March16,1859: municipal works and payment disputes",
+      "creator": "John Charles Haines / Chicago Public Library",
+      "publication_date": "1859-03-16",
+      "url": "https://www.chipublib.org/mayor-john-charles-haines-inaugural-address-1859/",
+      "source_type": "Institutional transcription of contemporary address citing Common Council proceedings",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Inauguration/source attribution; Streets and Alleys, Harbor and Bridges, and Claims sections. Completed North Branch dredging and assessment litigation are reported; original journal not inspected.",
+      "limitations": "Interested mayoral account through later transcription. Not audited payments, measured dredging volume, street raising, spoil destination or independent court verification. Different project extents in the narrated instruments retained.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

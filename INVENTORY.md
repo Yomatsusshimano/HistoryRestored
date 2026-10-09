@@ -31,7 +31,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C022 | Campo Laborde sloth: same-specimen chemical redating |
 | C023 | Ice-core chronology revision: isotope anchors and validation dependence |
 | C024 | Moxee City mammoth: weathering before flood burial |
-| C025 | Chicago street-grade and drainage proposals,1855-1856 |
+| C025 | Chicago street-grade proposals and municipal works reports,1855-1859 |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -954,7 +954,7 @@ Place: Moxee Valley, Washington. Status: SOURCED_DRAFT.
 
 **Missing:** Original CAMS certificate and Stafford preparation details; Collagen quality and blank controls; Accession and field records; Independent dates for sediment units; Quantified exposure and transport delay; Independent review; Original contact/dike geometry and independent evidence distinguishing separate inundations from stages within one inundation
 
-## C025: Chicago street-grade and drainage proposals,1855-1856
+## C025: Chicago street-grade proposals and municipal works reports,1855-1859
 
 Place: Chicago, Illinois; Ontario Street near lakeshore in catalog description. Status: SOURCED_DRAFT.
 
@@ -963,23 +963,24 @@ Place: Chicago, Illinois; Ontario Street near lakeshore in catalog description. 
 - 1855 mayoral transcription proposes graded roadway, lake-shore sand/gravel, timber stringers and oak planking; completion is not demonstrated. [S234](https://www.chipublib.org/mayor-levi-day-boone-inaugural-address-1855/). Locator: Street/drainage paragraphs and Source footer. Access: FULL_TEXT_PORTION. Limit: Original newspaper scan not inspected. Recommendations are not completed work; no named block, benchmark or executed material quantity.
 - Archive catalogs a September14,1855 street-construction estimate; underlying numerical record uninspected. [S235](https://www.ilsos.gov/departments/archives/teaching-packages/early-chicago/doc32.html). Locator: Document32 title/date and Explanation. Access: CATALOG_METADATA. Limit: Original scan and PDF transcription retrieval failed/timed out. Modern explanation not original estimate text; no costs, quantities or exact location extracted.
 - Archive describes an Ontario Street raising proposal addressing shifting sand and reports council approval; drawing and action not inspected. [S236](https://www.ilsos.gov/departments/archives/teaching-packages/early-chicago/doc35.html). Locator: Document35 title/date and Explanation. Access: CATALOG_METADATA. Limit: Drawing retrieval timed out; no scale, elevations or original approval inspected. Planned development is not completed construction.
+- 1859 mayor reports completed North Branch dredging and disputed contractor balances; no spoil-to-street connection demonstrated. [S237](https://www.chipublib.org/mayor-john-charles-haines-inaugural-address-1859/). Locator: Claims section, North Branch dredging narrative; Source footer. Access: FULL_TEXT_PORTION. Limit: Interested mayoral account through later transcription. Not audited payments, measured dredging volume, street raising, spoil destination or independent court verification. Different project extents in the narrated instruments retained.
 
 **Physical evidence:** No site or sediment inspection. Original drawing scans were not retrieved; no physical below-grade structure assigned to these works.
 
-**Surviving documents:** Public-library address transcription; two state-archive catalog/explanation pages pointing to original estimate/sketch.
+**Surviving documents:** Public-library address transcription; two state-archive catalog/explanation pages pointing to original estimate/sketch. A later mayoral transcription reports executed river works and a payment dispute, citing March16,1859 council proceedings.
 
 **Source interpretation:** Mayor proposes engineered street surfacing and drainage; archive explanations describe grade changes and a sand-related development proposal.
 
-**Investigation inference:** A specific engineered-fill proposal supplies a testable alternative to natural burial, but execution and linkage to surviving lower levels remain unverified. See research/CHICAGO-STREET-GRADE.md.
+**Investigation inference:** A specific engineered-fill proposal supplies a testable alternative to natural burial, but execution and linkage to surviving lower levels remain unverified. See research/CHICAGO-STREET-GRADE.md. Completed dredging is source-reported, but it is a different operation from street raising and cannot supply missing fill provenance.
 
 **Counterevidence:** Proposed engineering is documented. Neither proposals nor uninspected catalog descriptions prove completion; below-grade facades alone cannot establish cause.
 
-**Next test:** Inspect original estimate, Ontario sketch and council approval; identify one block and reconcile grade ordinances, as-built elevations, fill quantities, contacts and building phases.
+**Next test:** Inspect original estimate, Ontario sketch and council approval; identify one block and reconcile grade ordinances, as-built elevations, fill quantities, contacts and building phases. Trace Haines's cited council dates, contracts and assessment litigation; distinguish dredging limits and disposal from street work.
 
 **Dependence:** Same city administrative context; archive explanation and linked record are not independent observations. Distinct from Seattle projects; no shared event date established.
 
 **Alternatives:** Intentional grade raising and fill, if linked to original completed-work records; Designed basement or later alteration, to be tested against building fabric; Local natural deposition or subsidence, if independently dated and demonstrated
 
-**Chronology:** {"reported": "March1855 address; September1855 estimate and December1856 sketch catalog dates", "dated_object": "Speech publication and catalog-described administrative documents", "method": "Institutional transcription/catalog attribution", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
+**Chronology:** {"reported": "March1855 address; September1855 estimate and December1856 sketch catalog dates; March16,1859 address reports1857-1859 river-work proceedings", "dated_object": "Speech publication and catalog-described administrative documents", "method": "Institutional transcription/catalog attribution", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
-**Missing:** Original newspaper scan; Original estimate and sketch; Council grade/approval instruments; Named completed-work block and historical benchmark; Fill purchase records and measured sediment contacts; Specimen/material dates
+**Missing:** Original newspaper scan; Original estimate and sketch; Council grade/approval instruments; Named completed-work block and historical benchmark; Fill purchase records and measured sediment contacts; Specimen/material dates; Original1859 Common Council journal and dredging contracts; North Branch spoil disposal and measured quantities; Original assessment court opinions and matched properties

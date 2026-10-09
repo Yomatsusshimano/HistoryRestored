@@ -29,3 +29,6 @@ No contacts have been messaged. No field samples collected. Search breadth and d
 ### Cascadia LaPush follow-up
 
 S232 p54 reports a likely earthquake-killed rooted redcedar near LaPush from a resident tip, without a sample ID or measured final ring. Find a specimen-linked follow-up before extending the dated coastal footprint. See [1999 report audit](research/CASCADIA-1999-PROGRESS.md).
+
+
+Chicago S237 retrieval chain: inspect1857-1859 council entries and original North Branch contracts/disposal records. Search-only court candidates Elston40 Ill.514 (later decision) and McAuley22 Ill.563 remain uninspected and unmatched to Haines; see the Chicago audit.
