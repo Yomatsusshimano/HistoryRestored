@@ -1,5 +1,9 @@
 # Research log
 
+### 2026-10-09 — Named Jérémie stratigraphy notebook cataloged
+
+Previous goal turn made progress:faa2ae6published exact museum accession/field-code joins,10files publicly byte-verified. Current checkout clean. Previously timed-out official finding-aid DOCX now acquired by normalTLSdownload. OOXMLbody11059paragraphs/39tables extracted; Table3eight six-cell rows20–27transcribed, explicit Series2Box3Book2Jeremie#5Stratigraphy andBox3Book4Cordier-WoodsHaiti1983/1984locators. No renderer/visual page claim; application121pagecount and2026modification metadata separated from notebook dates. Exact code/accession token searches empty in description; not evidence of notebook absence. No original notes/images, physical shelf authentication, rights grant, outreach or completion. See [route](research/UFVP-ARCHIVAL-ROUTE.md).28drafts/322sources.
+
 ### 2026-10-09 — Original museum dataset accession and field-code joins
 
 Previous goal turn made progress:0b9a26c published complete supplement/area audit,11files publicly byte-verified. Current checkout clean. Official museum repository located with pinnedv1.181; normal-TLS24MBZIPdownload completed, all554765occurrence/1967media rows scanned against exact catalog IDs. Preliminary exploratory rodent targets included2018supplement specimens not dated inS36; final extractor derives all9S22and8S36targets from actual ledgers plus one localityholotype,18unique matches. Original inputs preserved. Three Jérémie slothsMKL998/1006/992carry July3/7/9dates absent from2000work-date list; cause unknown. All18datum/uncertainty/otherCatalogNumbers blank, no matchingmedia. One unidentifiedbatUF293830not assigned toBeta345518. Archived field-guide DOCX webfetch timed out, contents not inspected; official archive existence not evidence of targetnotes. No physical bone/fieldrecord authentication, depth join, outreach or completion. See [audit](research/UFVP-SPECIMEN-PROVENANCE.md).28drafts/321sources.

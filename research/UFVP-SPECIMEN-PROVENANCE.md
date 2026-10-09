@@ -1,5 +1,7 @@
 # Museum catalog links for the dated Haitian fossils
 
+Update: the [original archival finding aid](UFVP-ARCHIVAL-ROUTE.md), S322, identifies Series2Box3Book2 as Jeremie#5Stratigraphy and Box3Book4 as Cordier-WoodsHaiti1983/1984notes. These are retrieval locators; notebook contents and sample-depth joins remain uninspected.
+
 2026-10-09. C011/S321; sourced draft without independent review.
 
 The Florida Museum's [version1.181 export](https://ipt.floridamuseum.ufl.edu/ipt/resource?r=ufvp&v=1.181), published2026-09-21, was acquired from its own repository. The [extractor](../analysis/ufvp_specimen_links.py) scans all554765 occurrence records and1967 multimedia records. [Results](../data/ufvp-dated-specimen-links.json) retain full published fields for exact matches to all nine S22dated sloth accessions, all eight S36dated rodent accessions and one locality holotype comparator. All18targets match uniquely. The archive hash and download version are preserved; selected data attributed to Florida Museum of Natural History under its CC BY-NC4.0 license.

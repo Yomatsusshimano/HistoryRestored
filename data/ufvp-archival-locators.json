@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S322",
+  "source_url": "https://www.floridamuseum.ufl.edu/vertpaleo/professionals/archives/",
+  "download_url": "https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/41/2024/10/FLMNH-VP-Archives-Complete-4.7.2026.accessible-1.docx",
+  "docx_bytes": 328818,
+  "docx_sha256": "160997d1a4eb5e031bd242e725a55b8175a5142d00a11fb7f09af07e49f8ddf4",
+  "inspection": "OOXML body extraction, all11059paragraphs searched. Selected Table3rows20–27transcribed from actual six-cell rows. No original notebook, physical shelf or rendered DOCX pages inspected.",
+  "table_count": 39,
+  "body_paragraph_count": 11059,
+  "application_page_count_metadata": 121,
+  "rendered_page_count": null,
+  "file_metadata_modified_UTC": "2026-04-07T19:16:00Z",
+  "file_metadata_created_UTC": "2026-04-07T16:39:00Z",
+  "selected_entries": [
+    {
+      "table_ordinal": 3,
+      "row_ordinal": 20,
+      "series": "Series2:Field Notebooks",
+      "box_as_printed": "2",
+      "book_as_printed": "8",
+      "creator_as_printed": "Charles Woods ",
+      "title_as_printed": "Fomen Area, assorted caves",
+      "years_as_printed": "23 Jan -7 Feb 1984",
+      "keywords_as_printed": "",
+      "raw_cells": [
+        "2",
+        "8",
+        "Charles Woods ",
+        "Fomen Area, assorted caves",
+        "23 Jan -7 Feb 1984",
+        ""
+      ],
+      "notebook_contents_inspected": false
+    },
+    {
+      "table_ordinal": 3,
+      "row_ordinal": 21,
+      "series": "Series2:Field Notebooks",
+      "box_as_printed": "2",
+      "book_as_printed": "9",
+      "creator_as_printed": "Charles Woods",
+      "title_as_printed": "Hispaniola/Caribbean bone material; assorted caves",
+      "years_as_printed": "Sept 1979 – Nov 1983",
+      "keywords_as_printed": "",
+      "raw_cells": [
+        "2",
+        "9",
+        "Charles Woods",
+        "Hispaniola/Caribbean bone material; assorted caves",
+        "Sept 1979 – Nov 1983",
+        ""
+      ],
+      "notebook_contents_inspected": false
+    },
+    {
+      "table_ordinal": 3,
+      "row_ordinal": 22,
+      "series": "Series2:Field Notebooks",
+      "box_as_printed": "2",
+      "book_as_printed": "10",
+      "creator_as_printed": "Almost entirely Charles Woods, with other unidentified authors",
+      "title_as_printed": "Cave Notes - Haiti",
+      "years_as_printed": "1979",
+      "keywords_as_printed": "",
+      "raw_cells": [
+        "2",
+        "10",
+        "Almost entirely Charles Woods, with other unidentified authors",
+        "Cave Notes - Haiti",
+        "1979",
+        ""
+      ],
+      "notebook_contents_inspected": false
+    },
+    {
+      "table_ordinal": 3,
+      "row_ordinal": 23,
+      "series": "Series2:Field Notebooks",
+      "box_as_printed": "2",
+      "book_as_printed": "11",
+      "creator_as_printed": "Charles Woods",
+      "title_as_printed": "Field Notes- Haiti, D.R., Jamaica",
+      "years_as_printed": "1983, 1984, 1985",
+      "keywords_as_printed": "",
+      "raw_cells": [
+        "2",
+        "11",
+        "Charles Woods",
+        "Field Notes- Haiti, D.R., Jamaica",
+        "1983, 1984, 1985",
+        ""
+      ],
+      "notebook_contents_inspected": false
+    },
+    {
+      "table_ordinal": 3,
+      "row_ordinal": 24,
+      "series": "Series2:Field Notebooks",
+      "box_as_printed": "3",
+      "book_as_printed": "1",
+      "creator_as_printed": "Charles Woods",
+      "title_as_printed": "Cave Data - Haiti",
+      "years_as_printed": "n.d.",
+      "keywords_as_printed": "",
+      "raw_cells": [
+        "3",
+        "1",
+        "Charles Woods",
+        "Cave Data - Haiti",
+        "n.d.",
+        ""
+      ],
+      "notebook_contents_inspected": false
+    },
+    {
+      "table_ordinal": 3,
+      "row_ordinal": 25,
+      "series": "Series2:Field Notebooks",
+      "box_as_printed": "3",
+      "book_as_printed": "2",
+      "creator_as_printed": "Charles Woods",
+      "title_as_printed": "Jeremie #5, Stratigraphy",
+      "years_as_printed": "n.d.",
+      "keywords_as_printed": "",
+      "raw_cells": [
+        "3",
+        "2",
+        "Charles Woods",
+        "Jeremie #5, Stratigraphy",
+        "n.d.",
+        ""
+      ],
+      "notebook_contents_inspected": false
+    },
+    {
+      "table_ordinal": 3,
+      "row_ordinal": 26,
+      "series": "Series2:Field Notebooks",
+      "box_as_printed": "3",
+      "book_as_printed": "3",
+      "creator_as_printed": "Charles Woods",
+      "title_as_printed": "Cordier-Woods Field Notes, La Visite, Haiti",
+      "years_as_printed": "1983, 1984",
+      "keywords_as_printed": "",
+      "raw_cells": [
+        "3",
+        "3",
+        "Charles Woods",
+        "Cordier-Woods Field Notes, La Visite, Haiti",
+        "1983, 1984",
+        ""
+      ],
+      "notebook_contents_inspected": false
+    },
+    {
+      "table_ordinal": 3,
+      "row_ordinal": 27,
+      "series": "Series2:Field Notebooks",
+      "box_as_printed": "3",
+      "book_as_printed": "4",
+      "creator_as_printed": "Charles Woods",
+      "title_as_printed": "Cordier-Woods Field Notes, Haiti",
+      "years_as_printed": "1983, 1984",
+      "keywords_as_printed": "",
+      "raw_cells": [
+        "3",
+        "4",
+        "Charles Woods",
+        "Cordier-Woods Field Notes, Haiti",
+        "1983, 1984",
+        ""
+      ],
+      "notebook_contents_inspected": false
+    }
+  ],
+  "exact_token_search": {
+    "MKL 998": [],
+    "MKL 1006": [],
+    "MKL 992": [],
+    "XH007": [],
+    "170046": [],
+    "170308": [],
+    "170311": [],
+    "293844": [],
+    "Beta-345518": []
+  },
+  "rights": "Public finding aid linked; no redistribution license established for original DOCX or underlying notebooks.",
+  "limits": [
+    "Finding-aid description only; title does not demonstrate preserved strata, specimen association or a catastrophe.",
+    "n.d. retained as unknown notebook date; cannot assign1984from neighboring rows.",
+    "Modern document metadata dates do not date notebooks or fossils.",
+    "Exact-token absence in body does not exclude alternate spelling or uncataloged specimen references.",
+    "Box/book locator not physical custody or independent authentication."
+  ],
+  "next_test": "Inspect Series2Box3Book2(Jeremie#5Stratigraphy), Box3Book4(Cordier-WoodsHaiti1983/1984), and relevant notebooks; seek explicit XH007/MKL998/1006/992 and accession/bag/depth joins."
+}

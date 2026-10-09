@@ -4967,6 +4967,20 @@
       "local_copy": "",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S322",
+      "title": "Florida Museum Vertebrate Paleontology Archives finding aid: Haitian field notebooks",
+      "creator": "Florida Museum of Natural History; compilation credited to Bruce J. MacFadden and Alexa Neilson",
+      "publication_date": "2026-04-07 (DOCX modification metadata; compilation described as2024)",
+      "url": "https://www.floridamuseum.ufl.edu/vertpaleo/professionals/archives/",
+      "source_type": "Original museum finding-aid DOCX, Table3 Series2FieldNotebooks",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "All11059OOXMLbody paragraphs extracted/searched; eight Table3rows20–27transcribed from six-cell rows. Box3Book2Jeremie#5Stratigraphy explicitly listed. No rendered pages or underlying notebooks inspected.",
+      "limitations": "Archival description, not original notebook contents or custody authentication. n.d.unknown; exact specimen/field codes absent from description, not necessarily notebooks.121page count metadata only. No rendered layout or reuse-rights authentication.",
+      "local_copy": "",
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

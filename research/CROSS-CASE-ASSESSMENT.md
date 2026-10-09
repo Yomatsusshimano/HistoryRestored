@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Explicit stratigraphy notebook located in finding aid
+
+S322originalDOCX table cells identify Series2Box3Book2Jeremie#5Stratigraphy andBox3Book4Cordier-WoodsHaiti1983/1984notes. n.d.retained; original notebook/physical custody/renderedDOCX uninspected. Precise route now replaces generic field-record search. See [archival route](UFVP-ARCHIVAL-ROUTE.md).28drafts/322sources; no actual depth/sample join, shared deposition date or independent review.
+
 ### 2026-10-09 — Exact museum catalog accession matches
 
 S321pinned museum export all554765occurrences/1967media scanned; all9datedsloths/8datedrodents/1holotype comparator uniquely matched. Three Jérémie sloth field codesMKL998/1006/992 and July3/7/9collection-date discrepancies add original-note targets. No specimen-to-depth or datum; unidentifiedUF293830bat not assigned toBeta345518. See [catalog provenance](UFVP-SPECIMEN-PROVENANCE.md).28drafts/321sources; no shared deposition or independent review.
