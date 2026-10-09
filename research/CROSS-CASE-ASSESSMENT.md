@@ -1,5 +1,10 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Northern shoreline process and forecast constraints
+
+S271 January2024countyplan acquired (98pages); PDF1/32/78/79/83visually inspected. Historical1884/1943/1989/January2023lines separated from2030/2060forecasts; reported11700ft1887–1971retreat gives139.29ft/yr arithmetic only. Channel/wave/sediment alternatives and explicit sparse-measurement/incomplete-budget limits retained; HTL/northern scope not transferred to southern island. Specific1955aerials,Job1636borings,thalweg/shoreline/profile datasets remain retrieval targets.25drafts/271sources; all twenty outcomes remain active. See research/WILLAPA-NORTH-PROCESS-CONSTRAINTS.md.
+
+
 ### 2026-10-09 — Original catalog series description recovered
 
 S270NARAopenexport all400RG23files/11823descriptions audited. Actualseries305404metadata supplies23-AERIALREPORTS,accessionNN3-23-93-2,transfer66A2582,eightboxes,report104/106photo scope. No descendant description in this export; chart6185metadata separately located. No targetphoto/reportcontents or2022film custody authenticated.25drafts/270sources; all twenty outcomes active. See [archival retrieval assessment](WILLAPA-ARCHIVAL-PHOTO-ROUTE.md).
