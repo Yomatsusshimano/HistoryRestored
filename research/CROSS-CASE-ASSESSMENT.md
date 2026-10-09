@@ -1,5 +1,10 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Historical trace elevation sampling
+
+Four S253 historical island traces transformed to S278 HARN coordinates using S279 documented grids. All270 queries match within10m;262 within5m. Alternate operation changes3nearest identities, no inclusion counts/medians. Apparent-marsh49/51 medians2.442/0.472mNAVD88 describe later surface positions, not deformation. See [trace elevation assessment](WILLAPA-TRACE-ELEVATIONS.md).25drafts/279sources; all twenty objectives retained.
+
+
 ### 2026-10-09 — Actual lidar and reproduced elevation validation
 
 S277nine-pageNOAAvalidation recovered,24residuals reproduce0.13716mbias/0.18789mrawRMSE/0.12841mcorrectedRMSE. S278actualtile17all4,999,615points decoded withHARNUTM10/NAVD88 reference andzeroGPS times;28record index and originalmetadata preserved. Nativewindow612,992points/5m grid retains4288emptycells; no source registration or event inference. See research/WILLAPA-LIDAR-VALIDATION.md.25drafts/278sources, all twenty outcomes retained.
