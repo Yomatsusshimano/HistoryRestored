@@ -91,3 +91,8 @@ Dependence can be scientifically useful; it limits what counts as independent co
 7. **Discriminate regional flood mechanisms before assigning years.** The [recording-sensitivity calculation](FLOOD-DISCRIMINATION.md) quantifies how much additional angular allowance would close each selected magnetic contrast. A common rigid rotation cannot do so; differential recording effects need measurements. Recover those observations alongside the actual 2003 reference input, retaining ash and annuality tests as separate constraints.
 
 The current evidence does not justify teaching the starting hypothesis as established history. It does justify publishing documented local findings, reproducible limitations and corrections openly. Institutional adoption, worldwide archival replication and independent prospective discoveries remain outstanding outcomes, not consequences inferred from repository publication.
+
+
+### 2026-10-09 — GF2 combined-radius update
+
+The [complete-root and combined-average diagnostic](CASCADIA-COMBINED-GF2.md) adds the third root radius and finds source-relative placement first in all48 declared local averaging/omission variants. These are dependent comparisons within a narrow inherited-calendar domain. They strengthen the local growth-pattern association while leaving regional-reference exceptions, original processing, physical authentication and independent absolute dates unresolved. No change to the global reconstruction or twenty-part completion assessment follows.

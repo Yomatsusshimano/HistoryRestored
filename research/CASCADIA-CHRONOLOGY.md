@@ -166,3 +166,8 @@ The [1999 progress-report audit](CASCADIA-1999-PROGRESS.md), S232, resolves a bi
 The [processed chronology acquisition](CASCADIA-ARCHIVED-CHRONOLOGIES.md), S233, now recovers full standard/ARSTAN/residual Long Island site outputs and duplicate NOAA templates. Residual valid coverage993-1986 matches the paper's span; original version and target processing are not authenticated. Site-output access has advanced, while original-method reproduction remains pending.
 
 The [archived-reference diagnostic](CASCADIA-ARCHIVED-REFERENCE-TEST.md) now tests all three versions under two difference transforms. Source placements rank first for21-24/27 dependent series. All three GF2 trunks retain alternatives; one GF2A residual-linear alternative has reported count minimum12, so sparse reference support cannot explain every exception. Original method and absolute dates remain unverified.
+
+
+### Complete third root and combined-radius sensitivity
+
+[GF2 combined audit](CASCADIA-COMBINED-GF2.md) completes RTA330 widths and all three roots (962 related measurements). All48 declared tree-averaging/omission variants rank source-relative placement first in a fixed local domain. This strengthens the local pattern association without reproducing the original r=.57/255-year calculation, resolving regional-reference exceptions, authenticating physical specimens or independently anchoring the calendar. Original per-radius indices/model orders remain the next processing gap. Earlier terminal-only extraction is retained as historical provenance.
