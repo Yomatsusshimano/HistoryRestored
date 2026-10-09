@@ -1526,3 +1526,10 @@ Previousgoalturnpublishedbyteverifiedf2e1753; cleancheckout revalidated. Existin
 S302threeprefacesurfaces/pp413–415 inspected. Auzout/Picardshare and rare1667priorprinting explicitlyreported; selectedFrenchnumeric readings and4Januarynote retained. Reticle20/25arithmeticvariant preserved with unknowneditorauthority. See [reprint audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/302sources; all twenty objectives active, no independent review.
 
 Previousgoalturnpublishedbyteverifiedb860f0d; cleancheckoutrevalidated. Spanishlibraryviewer botdenial respected. Archivequerythreecandidates; Robervalitem acquired/excluded byscope, firstfullcopydownload failed, secondfullcopy normalTLS succeeded. Same live49448/10612/59773handles polled toexit0; no timeout restart. Scandata locators checked against scans; OCRusedonlylocating. Sixsurfacesinspected, originalsretainedlocally. No remainingarticle/plate, exact1687preface, physicalauthentication, outreach or independentreview claimed.
+
+
+### 2026-10-09 — Complete 1693 reprint and inline instrument drawing
+
+S302 complete micrometer pp413–422 and next-article boundary inspected; fourteen registered surfaces include the three earlier preface pages. Earlier mechanics, eleven precautions and future-observation promise retained. Inline p420 drawing compared with S301 separate plate; repeated nominal claims are not independent accuracy tests. See [complete reprint audit](research/GASCOIGNE-ATTRIBUTION.md).27 drafts/302 sources; all twenty objectives active, no independent review.
+
+Previous goal turn made progress: cad433c published and eight files publicly byte-verified. Clean checkout revalidated. Existing unchanged PDF and scandata reused; no new download or source. Initial 95dpi renders were too small for reliable text inspection, so 450dpi renders replaced them before conclusions. Eight additional surfaces inspected; four earlier S301 surfaces reinspected for selected method/promise/drawing comparison. No full diplomatic collation, rest-of-volume search, exact1687preface, object authentication, outreach or independent review claimed.

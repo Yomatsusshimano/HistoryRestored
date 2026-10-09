@@ -12,9 +12,17 @@
     9,
     420,
     421,
-    422
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430
   ],
-  "coverage": "All three preface surfaces/PDF7-9 and selected micrometer pp413-415/PDF420-422 visually inspected. Remaining micrometer pages, plates, title and rest of volume uninspected. OCR used for locating only, not authoritative transcription.",
+  "coverage": "Three preface surfaces/PDF7-9 and complete micrometer article pp413-422/PDF420-429 visually inspected, including inline instrument drawing on p420. Next-article boundary p423/PDF430 inspected only to establish scope. Title and rest of volume uninspected. Complete visual article coverage, not a diplomatic transcription or full word-by-word collation; OCR used for locating only.",
   "date": "2026-10-09",
   "rights": "This Archive/Google surrogate has no established unrestricted scan license here; retained locally and linked. Spanish library CC BY4.0 pertains to its separate inaccessible surrogate, not transferred to this scan.",
   "findings": [
@@ -37,13 +45,60 @@
     {
       "locator": "p415/PDF422",
       "finding": "Note concludes before technicaltreatise. Nominal25920/34560/43200subdivisions retained. Reticle-estimate alternatives24/25arcsec differ from S301p5reading24/20; literal one-sixth of120arcsec is20, so25does not reproduce that stated arithmetic. Cause/authority unknown."
+    },
+    {
+      "locator": "pp416-417/PDF423-424; selected S301 pp7-8/PDF8-9 comparison",
+      "finding": "Retains mechanical-wear warning, Picard microscope contribution, 400 rule divisions per foot and 60-fold magnification, giving 24000 nominal parts per foot/2000 per inch. Retains focal-radius/tangent conversion and need for lens geometry and correct focus. Same account, not independent calibration."
+    },
+    {
+      "locator": "pp417-420/PDF424-427",
+      "finding": "Eleven numbered precautions retained: focus, mounting, aperture, centering, eye parallax, tube length, illumination, motion/refraction effects and per-telescope scale tables. Winter shortening of 12-foot metal tube near two lines is reported without temperatures or trial records. Historical viewing practices are source descriptions, not modern instructions."
+    },
+    {
+      "locator": "p420/PDF427; S301 p13/PDF14",
+      "finding": "Retains future-publication wording for Auzout/Picard observations. No dated trial table or uncertainty budget appears in this complete article. This does not prove observations were never published elsewhere."
+    },
+    {
+      "locator": "p420/PDF427; S301 plate/PDF19",
+      "finding": "Instrument drawing is inline beneath text, rather than a separate plate leaf. Selected visual comparison preserves tube, retaining ring, screw/dial frame, alternative frames and scale arrangement. Shading and line presentation differ. No same printing matrix, actual-object identity or dimensional fabrication equivalence established."
+    },
+    {
+      "locator": "pp421-422/PDF428-429",
+      "finding": "Figure explanation retains 60-part dial, whole-turn frame divisions, alternative hair/blade/card frames and twelve linear eclipse digits. Some tube and eclipse-frame components expressly not drawn; no complete fabrication dimensions."
+    },
+    {
+      "locator": "p423/PDF430",
+      "finding": "Frénicle magic-square article starts immediately after micrometer ending. Boundary inspected; neighboring article not analyzed as micrometer evidence."
     }
   ],
   "dependence": "Reprint of earlier account; selected agreement supports transmission, not independent measurements. Direction and authority of numeric changes require underlying manuscripts/printing records.",
   "limits": [
-    "Remaining article and plate uninspected",
+    "Title and rest of volume uninspected; no full diplomatic collation",
     "Exact1687preface still uninspected",
     "No original letter, custody transaction or calibrated instrument authenticated",
     "No named variant editor, motive, ancient recovery or independent review"
-  ]
+  ],
+  "article_page_labels": {
+    "420": "413",
+    "421": "414",
+    "422": "415",
+    "423": "416",
+    "424": "417",
+    "425": "418",
+    "426": "419",
+    "427": "420",
+    "428": "421",
+    "429": "422",
+    "430": "423"
+  },
+  "new_render_hashes": {
+    "423": "82363820dcba1d379f2eb2aa3d85995e9140b7baea120548ec52aa7a2025fb56",
+    "424": "6b2156b3df9534a327f60a9e49c0a92b18f1775385ada094fdefb537b8879f50",
+    "425": "81dbe696945fa19903fabbd931b592e3450dc9b3b13a220ce7ac6346de0585ca",
+    "426": "fe38a6223055045d781830abd33881b11959e03cf5a89196a2dad614d943af6b",
+    "427": "03123692fd5a91a35ecef86a7bc5d2945f4ae1e7fd5f7ac30e04df79a298d8c7",
+    "428": "692090e2495848fcc9d0c6ea8b3171082ef29cefc64e58e61ec1300a63d397bd",
+    "429": "83a75e8e987516e7699d94d0b5dc3abf51a7f13bbf8312eb26f9e0a980b9381e",
+    "430": "7a423f8e807cf54a57ab7fb32b3e784ee8d00d2bd07daaf323908ff88d324d46"
+  }
 }

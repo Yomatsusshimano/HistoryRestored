@@ -795,3 +795,8 @@ S293/S301ten selected comparisons record apogee38/40, refraction7–8/8–9 and 
 ### 2026-10-09 — 1693 reprint and explicit earlier-publication credit
 
 S302threeprefacesurfaces/pp413–415 inspected. Auzout/Picardshare and rare1667priorprinting explicitlyreported; selectedFrenchnumeric readings and4Januarynote retained. Reticle20/25arithmeticvariant preserved with unknowneditorauthority. See [reprint audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/302sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Complete 1693 reprint and inline instrument drawing
+
+S302 complete micrometer pp413–422 and next-article boundary inspected; fourteen registered surfaces include the three earlier preface pages. Earlier mechanics, eleven precautions and future-observation promise retained. Inline p420 drawing compared with S301 separate plate; repeated nominal claims are not independent accuracy tests. See [complete reprint audit](research/GASCOIGNE-ATTRIBUTION.md).27 drafts/302 sources; all twenty objectives active, no independent review.
