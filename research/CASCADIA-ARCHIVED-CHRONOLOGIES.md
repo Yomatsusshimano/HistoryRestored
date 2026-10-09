@@ -27,3 +27,5 @@ These are alternative processed versions of one source collection. Their tabular
 ## Next discriminating calculation
 
 Compare the available residual chronology against separately declared processing of the snag widths, retaining standard/ARSTAN versions as sensitivities and all alternative placements. Call this an archived-reference diagnostic unless the original target processing and version identity are established. Do not label a hybrid raw/processed comparison as reproduction of the1997 published correlations or as an independent absolute-date test.
+
+This [first-difference diagnostic](CASCADIA-ARCHIVED-REFERENCE-TEST.md) is now executed for all three versions: published relative placements rank first for21-24/27 dependent series. Original per-radius target processing and study-version linkage are still needed.

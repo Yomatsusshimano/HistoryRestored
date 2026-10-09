@@ -1154,3 +1154,8 @@ Previous turn made verified public progress at45a0cf2. Revalidated clean checkou
 ### 2026-10-09 — Archived Long Island processed outputs recovered
 
 Previous turn made verified public progress atd57296c. Revalidated clean checkout. Existing header-only search already locatedwa129.crn; inspected live NOAA directory for a/r suffix variants and recovered six full files. Hash-preserved all three decadal outputs and templates. Fixed-column parsing compared every annual index/count against tabular copies exactly, including opening missing placeholders. Valid spans991/992/993-1986 distinguish standard/ARSTAN/residual; residual matches reported study span without authenticating exact1997 input. Generic metadata descriptors and archive dates preserved. Site outputs available; individual-radius settings/processed records and original study-version identity still missing. No new dating result or independent review.
+
+
+### 2026-10-09 — Archived-reference alignment diagnostic
+
+Previous turn made verified public progress at569c18c. Revalidated clean checkout and recovered chronology ledger. Executed all27 dependent snag series against three archived processed references under log/linear first differences and1720/1986 endpoint bounds. Stored every candidate correlation, counts and top alternatives. Published placement ranks first for21-24/27 depending on variant; all three GF2 trunk radii retain alternatives. Residual-linear GF2A best+6 has reported count min12/median14, preventing a universal sparse-reference explanation. Known-shift, correlation-formula and width-unit invariance checks passed. Original target processing/version remains unverified; no dates, probabilities, independent review or outreach claimed.

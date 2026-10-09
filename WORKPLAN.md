@@ -512,3 +512,8 @@ S2321999 workshop contribution recovered; processing explicitly omitted despite 
 ### 2026-10-09 — Processed reference access advanced
 
 S233 supplies standard/ARSTAN/residual Long Island reference outputs, all numerically checked against duplicate templates. Do not continue treating all processed reference outputs as unrecovered. Next declared archived-reference snag diagnostic with version sensitivity, preserving unknown original target processing and1997 input identity; physical specimen authentication is still separate.
+
+
+### 2026-10-09 — Archived-reference sensitivity completed
+
+All three S233 reference outputs tested under declared first-difference processing:21-24/27 dependent series rank source-relative placement first. Original target processing remains missing; no corrected date. Next per-radius detrending/autoregression and combined-tree average reproduction, retaining substantial-count GF2A residual-linear exception and all other variants. Further duplicate reference acquisition is not the priority.

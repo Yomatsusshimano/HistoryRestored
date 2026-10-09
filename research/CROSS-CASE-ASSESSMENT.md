@@ -54,6 +54,8 @@ The older field accounts support investigating a **regional** boulder-flood mech
 
 ## Avoid double-counting apparent agreement
 
+The [Cascadia archived-reference sensitivity](CASCADIA-ARCHIVED-REFERENCE-TEST.md) now uses three recovered processed Long Island outputs. Published relative placements rank first for21-24/27 dependent series under declared difference transforms, with all GF2 trunk radii retaining alternatives. One GF2A alternative has substantial reported reference counts, preventing a universal sparse-coverage explanation. This narrows claims of uniform method robustness without establishing replacement dates: original target processing, exact reference version and absolute calendar validation remain unresolved. Duplicate reference outputs, related radii and repeated transforms must not be counted as independent dating confirmations.
+
 | Apparent agreement | Shared input or dependence | What would provide a stronger check |
 | --- | --- | --- |
 | Bonneville and Electron radiocarbon placements | IntCal20, plus multiple assays from individual trees | Independently audited relative ring placement, full error covariance and genuinely separate anchors |
