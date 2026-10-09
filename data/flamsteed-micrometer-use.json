@@ -60,13 +60,13 @@
         },
         {
           "locator": "image1 earlier Saturn paragraph",
-          "reading": "Reports Saturn appearance using a14-foot telescope and discusses Towneley/Jones observations through correspondence.",
+          "reading": "Reports Saturn appearance using a14-foot telescope and quotes Towneley observations through correspondence; the earlier Jones reading was erroneous.",
           "limit": "Different reported observers retained inside one transmitted letter; not independent instrument calibration or tested cause of differing appearances."
         },
         {
           "locator": "item catalog",
           "reading": "Partly printed in Philosophical Transactions volume6,no78,p3034.",
-          "limit": "Publication locator only; printed passage and omission extent not acquired or collated in this turn."
+          "limit": "S315 printed3034article now acquired/inspected and selected crosswalk recorded; whole issue and November21original remain unacquired."
         }
       ]
     },
@@ -147,5 +147,15 @@
     "No full diplomatic transcription, physical authentication or independently reviewed interpretation.",
     "No intentional attribution suppression, ancient recovery or fabricated chronology established."
   ],
-  "next_test": "Acquire the actual scheme/drawing and associated lunar observation account sent to Collins, plus printed issue78p3034, to distinguish disclosure, editorial transmission, manufacture and numerical performance. Preserve qualitative complaints separately from calibration results."
+  "next_test": "Acquire November21original and full issue78masthead to resolve edition/date roles; seek promised micrometer scheme and separately sent lunar observation accounts. Compare exact measurements only when specimen, scale, time and calibration are available.",
+  "corrections": [
+    {
+      "affected_source": "S313",
+      "previous_assertion": "Towneley/Jones observations",
+      "reinspected_locator": "EL/F1/77,image1 quoted Saturn paragraph",
+      "reading": "I lately",
+      "corrected_interpretation": "Flamsteed quotes Towneley saying he lately looked at Saturn. No separate Jones observer is established in this passage.",
+      "action": "Current ledger and synthesis/dependence text corrected; prior Git version retained. No effect on micrometer-use reading or reported14-foot/1½-inch/two-inch apparatus values."
+    }
+  ]
 }

@@ -4868,6 +4868,20 @@
       "accessed_date": "2026-10-09",
       "local_copy": "sources/originals/invention/flamsteed-use/README.md",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S315",
+      "title": "Flamsteed Saturn letter extracts,p3034: printed selection and manuscript comparison",
+      "creator": "John Flamsteed; Philosophical Transactions; Royal Society/Archive mirror",
+      "publication_date": "1671-12-18",
+      "url": "https://archive.org/details/philtrans07223149",
+      "source_type": "Scanned historical printed letter extracts",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Complete one-page article on printed3034visually inspected via2400-pixel render. Selected comparison to already inspectedS313body, reinspection of Saturn quotation crop. OCR locating only. No full word-by-word collation.",
+      "limitations": "Publication date fromCrossref, Archive1753metadata conflicting; exact scanedition/masthead unverified. Complete one-page article, not fullissue. Derivative two-letter excerpt; November21original unacquired. Micrometer and other topics omitted here, intent/laterpublication unknown. EarlierJonesreading corrected toI lately. No calibrated accuracy or independent review.",
+      "accessed_date": "2026-10-09",
+      "local_copy": "sources/originals/invention/flamsteed-print/saturn-extract-p3034.pdf",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

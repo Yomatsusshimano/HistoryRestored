@@ -364,3 +364,8 @@ S312 all four manuscript surfaces inspected/preserved. Long-telescope and sextan
 ### 2026-10-09 — Micrometer use and unmade redesign
 
 S313/S314 all four body/address surfaces inspected/preserved. Flamsteed reports practical inconvenience and proposed remedy, explicitly still unmade in March1671/2. Screw-quality comparison and utility claims remain qualitative; no numerical accuracy trial. Double-year heading/catalog1672roles retained. See [use audit](GASCOIGNE-ATTRIBUTION.md).27drafts/314sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-09 — Printed Saturn extraction and observer correction
+
+S315 completep3034scan inspected/preserved, seven selected comparisons toS313. Micrometer and other topics omitted under explicitSaturn-extract scope; intent unknown. EarlierJonesreading corrected toquotedI lately/Towneley. Crossref1671/Archive1753metadata conflict retained. See [print audit](GASCOIGNE-ATTRIBUTION.md).27drafts/315sources; all twenty objectives active, no independent review.

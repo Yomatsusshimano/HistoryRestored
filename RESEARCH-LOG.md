@@ -746,7 +746,7 @@ Internal checks now include dating-record references, unique sample identifiers,
 
 Previous visible turn was a greeting, with no research progress to assess. Current files in Science and Physics were inspected. EmergenceAtlas is a separate research project and was left intact. No existing catastrophe investigation was located in these two workspace roots. Neither workspace root is a Git repository.
 
-the project owner set the event date to unknown with candidate periods to be compared. Public destination: https://github.com/Yomatsusshimano/HistoryRestored. the project owner installed the dedicated deploy key and authorized publication as work progresses. SSH access succeeded. The continuing local checkout is D:/Projects/Science/HistoryRestored; HistoricalEvidence is the preliminary draft directory.
+the project owner set the event date to unknown with candidate periods to be compared. Public destination: https://github.com/Yomatsusshimano/HistoryRestored. the project owner installed the dedicated deploy key and authorized publication as work progresses. SSH access succeeded. The investigation continues in the project checkout; the preliminary draft archive is retained locally.
 
 Initial selection is purposive: urban regrading, fossil-context dating, a historical tsunami, a map discrepancy, construction evidence, an invention record, and repeated megafloods. It is not an estimate of prevalence or a balanced global sample.
 
@@ -1603,3 +1603,10 @@ Previous goal turn made progress:e1573e8published S310/S311 with21files byte-ver
 S313/S314 all four body/address surfaces inspected/preserved. Flamsteed reports practical inconvenience and proposed remedy, explicitly still unmade in March1671/2. Screw-quality comparison and utility claims remain qualitative; no numerical accuracy trial. Double-year heading/catalog1672roles retained. See [use audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/314sources; all twenty objectives active, no independent review.
 
 Previous goal turn made progress:f9210c8published S312 and15files byte-verified; clean checkout revalidated. Two official item/manifests and four normal-TLS images acquired/visually inspected. No made-device status inferred from envisioned remedy; manuscript double-year retained. National Archives blog403respected, not inspected. No outreach, raw trial reproduction, full transcription, independent review or goal completion claimed.
+
+
+### 2026-10-09 — Printed Saturn extraction and observer correction
+
+S315 completep3034scan inspected/preserved, seven selected comparisons toS313. Micrometer and other topics omitted under explicitSaturn-extract scope; intent unknown. EarlierJonesreading corrected toquotedI lately/Towneley. Crossref1671/Archive1753metadata conflict retained. See [print audit](research/GASCOIGNE-ATTRIBUTION.md).27drafts/315sources; all twenty objectives active, no independent review.
+
+Previous goal turn made progress:7c2021epublished S313/S314,15files byte-verified; clean checkout revalidated. Crossref/originalcatalog located exactDOI; publisher403respected. Archive identified two dependent mirrors; public-domain-mark one-page scan acquired/visually inspected. Reinspection of S313quotedparagraph corrected observerreading, with previouspublicversion retained inGit. No suppressed-intent, calendarbreak, fullissue, firstletter, rawaccuracy, outreach or completion claimed.

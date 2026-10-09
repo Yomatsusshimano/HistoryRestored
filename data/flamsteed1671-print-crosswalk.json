@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-09",
+  "source_id": "S315",
+  "doi": "10.1098/rstl.1671.0062",
+  "url": "https://archive.org/details/philtrans07223149",
+  "download_url": "https://archive.org/download/philtrans07223149/07223149.pdf",
+  "local_path": "sources/originals/invention/flamsteed-print/saturn-extract-p3034.pdf",
+  "bytes": 138273,
+  "sha256": "566b9477c1c4efe7c0964d78ef12a3cf7e789b68fbd59771767ed1d5bc7e3e9f",
+  "pages": 1,
+  "coverage": "Complete one-page article on printed3034visually inspected via2400-pixel render. Selected comparison to already inspectedS313body, reinspection of Saturn quotation crop. OCR locating only. No full word-by-word collation.",
+  "date_roles": {
+    "printed_heading": "Letters November21andDecember2,1671; observation dates distinct.",
+    "crossref_publication": "1671-12-18",
+    "archive_metadata_date": "1753-01-01",
+    "resolution": null,
+    "limits": "Crossref publication date is metadata, not inspected issue masthead or independent distribution date. Archive1753label conflict remains unresolved; scan edition/physical age not authenticated."
+  },
+  "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "archive_metadata_url": "https://archive.org/metadata/philtrans07223149",
+  "archive_metadata_sha256": "445274b4a61107c6af61e32d0b8066d4c27cc25953ce530936922efc856cff72",
+  "crossref_url": "https://api.crossref.org/works/10.1098/rstl.1671.0062",
+  "crossref_sha256": "d01fc55ee40662e076498fb18406469b15e60a5fc27e7db8ea0a4bf5c704c6b0",
+  "source_relationship": "Printed article explicitly combines two letters as extracts about Saturn; December2source identified via catalog/selectedmanuscriptcomparison. November21original unacquired. Derivative report, not independent observations.",
+  "crosswalk": [
+    {
+      "manuscript": "S313,image1 Saturn paragraph",
+      "print": "S315,p3034 second extract",
+      "feature": "14-foot telescope;1½-inch aperture;two-inch eyeglass drawing",
+      "result": "Selected three apparatus values agree; not independently calibrated dimensions."
+    },
+    {
+      "manuscript": "same paragraph and left margin",
+      "print": "second extract opening",
+      "feature": "Thursday-night observation;November30marginal date versus explicit printed date",
+      "result": "Print integrates marginal date into running text; attribution/editorial authority for the change not independently authenticated."
+    },
+    {
+      "manuscript": "same paragraph",
+      "print": "second extract body",
+      "feature": "Round appearance without rays/colors or visible ansae",
+      "result": "Selected appearance report agrees; interpreted telescope observation, not a measured diameter or shape test."
+    },
+    {
+      "manuscript": "same paragraph quoting Towneley",
+      "print": "second extract Towneley sentence",
+      "feature": "Request to continue Saturn observations; barely visible ansula line and dark line near upper part",
+      "result": "Print recasts quoted first-person account as telling-me narrative. Sender of quoted report remains Towneley; his original letter unacquired."
+    },
+    {
+      "manuscript": "same paragraph after quoted report",
+      "print": "last paragraph",
+      "feature": "Repeated appearance a week or two afterOctober12with wider aperture",
+      "result": "Selected reported sequence and aperture qualification retained; repetitions not independent calibration trials."
+    },
+    {
+      "manuscript": "image1 later micrometer paragraph",
+      "print": "entire inspectedp3034article",
+      "feature": "Towneley micrometer inconvenience; conceived replacement; promised scheme",
+      "result": "Absent from this explicitly Saturn-focused extract. This page also omits other manuscript topics; intent and later publication elsewhere unknown."
+    },
+    {
+      "manuscript": "image1 opening/late sections",
+      "print": "entire inspectedp3034article",
+      "feature": "Thanks, glass procurement, book discussion and prospective ephemeris work",
+      "result": "Other non-Saturn topics likewise excluded; no selective suppression mechanism established."
+    }
+  ],
+  "correction": {
+    "affected_source": "S313",
+    "previous_assertion": "Towneley/Jones observations",
+    "reinspected_locator": "EL/F1/77,image1 quoted Saturn paragraph",
+    "reading": "I lately",
+    "corrected_interpretation": "Flamsteed quotes Towneley saying he lately looked at Saturn. No separate Jones observer is established in this passage.",
+    "action": "Current ledger and synthesis/dependence text corrected; prior Git version retained. No effect on micrometer-use reading or reported14-foot/1½-inch/two-inch apparatus values."
+  },
+  "access_limits": [
+    "Crossref-advertised publisher PDF returned403; respected.",
+    "Archive public-domain-mark mirror supplied one-page scan; complete historical issue/masthead unacquired.",
+    "JSTOR mirror metadata also located but its PDF not acquired, not counted as independent evidence."
+  ],
+  "limits": [
+    "No editorial intent/authority or full publication-reception chain authenticated.",
+    "Omission from this selected article is not absence from all publication.",
+    "No raw micrometer trial, scheme fulfillment or independent accuracy confirmation.",
+    "No ancient recovery, exclusive priority or chronology fabrication established.",
+    "No independent review."
+  ],
+  "next_test": "Acquire November21original and full issue78masthead to resolve edition/date roles; seek promised micrometer scheme and separately sent lunar observation accounts. Compare exact measurements only when specimen, scale, time and calibration are available."
+}
