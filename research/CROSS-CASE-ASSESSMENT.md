@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Exact printed-vector match across ash assignments
+
+S330Table2FLV119nine values match S327lightfraction under a different group heading. Four declared coefficient diagnostics reproduce rounded source values; physical aliquots, reassignment rationale and whole-bed identity remain open. See [audit](ARTISTS-DRIVE-2008-CROSSWALK.md). 28 drafts/330 sources; no regional age transfer or independent review.
+
 ### 2026-10-09 — Later ash names and approximate-age limits
 
 S329original supplement labels JRK39/104tuff of Artists Drive and explains episodic/sparsely sampled sedimentation ages. Exact FLV119populations, rare-earth numbers and2008extrapolation remain unresolved. See [audit](DEATH-VALLEY-2018-CONTROLS.md). 28 drafts/329 sources; no regional age transfer or independent review.

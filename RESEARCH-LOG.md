@@ -1724,3 +1724,10 @@ Previous goal turn made progress:152adbc published chemical crosswalk;12files pu
 S329original supplement labels JRK39/104tuff of Artists Drive and explains episodic/sparsely sampled sedimentation ages. Exact FLV119populations, rare-earth numbers and2008extrapolation remain unresolved. See [audit](research/DEATH-VALLEY-2018-CONTROLS.md). 28 drafts/329 sources; no regional age transfer or independent review.
 
 Previous goal turn made progress:16d7e9a published Artists Drive primary controls,12files byte-verified; clean checkout revalidated. DOI-token Figshare search empty; exact-title search found publisher-linked2017396package. Both originalfiles acquired normally/MD5matched. Main publisher inaccessible and institutional record metadata-only; no main scan claim. PDF2/4/19rendered and inspected; original reference text identifies distinct Knott2008predecessor. Workbook remains uninspected. No invented Gaussian error, rare-earth values, direct local age, field verification, outreach or completion.
+
+
+### 2026-10-09 — Exact printed-vector match across ash assignments
+
+S330Table2FLV119nine values match S327lightfraction under a different group heading. Four declared coefficient diagnostics reproduce rounded source values; physical aliquots, reassignment rationale and whole-bed identity remain open. See [audit](research/ARTISTS-DRIVE-2008-CROSSWALK.md). 28 drafts/330 sources; no regional age transfer or independent review.
+
+Previous goal turn made progress:c3a1b6a published later names/methods,11files byte-verified; clean checkout revalidated. Original2008author-uploaded text located; PDF403/tableimage404respected. Selected numerical rows and notes inspected as text only. Exactvector comparison and four coefficient checks executed from retained inputs; no originalscans or1972formula implementation claimed. No new physical age, trace-element/shard classification, outreach or goal completion.

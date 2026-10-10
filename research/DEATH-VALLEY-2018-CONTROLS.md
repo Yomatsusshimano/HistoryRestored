@@ -32,3 +32,6 @@ The sedimentation-rate discussion on PDF4 expressly warns that deposition in fan
 That example is not the age of lower Nomlaki and not a reproduced interpolation. Its spread is not treated as one standard deviation or a confidence interval. Nor is the warning adopted as a universal rule against estimating uncertainty: an explicit model of sampling, hiatuses, accumulation variability and dating error could quantify uncertainty, but no such model is executed here. It cannot replace the different2008personal-communication error recipe.
 
 Next inspect the2008predecessor and recover quantitative trace-element data and the exact Artists Drive age-depth inputs. Retain the later names when retrieving records, but keep all dated minerals, correlated beds, core depths and final depositional events separate. No historical event date or global reconstruction follows from this documentary continuity.
+
+
+Follow-up: [2008printed-vector crosswalk](ARTISTS-DRIVE-2008-CROSSWALK.md) matches all nine FLV119oxide values to the later lightfraction record, while preserving different group assignments and unverified physical identity.

@@ -78,3 +78,5 @@ Public releases include standards, cases, adverse findings, limitations, and rev
 Latest primary-source follow-up: [Artists Drive ash controls](research/ARTISTS-DRIVE-NOMLAKI.md).
 
 Latest methods follow-up: [Death Valley later names and approximate ages](research/DEATH-VALLEY-2018-CONTROLS.md).
+
+Latest ash follow-up: [2008printed-vector crosswalk](research/ARTISTS-DRIVE-2008-CROSSWALK.md).

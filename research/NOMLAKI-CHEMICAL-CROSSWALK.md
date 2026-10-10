@@ -37,3 +37,6 @@ Follow-up: [Artists Drive original controls](ARTISTS-DRIVE-NOMLAKI.md) recover t
 
 
 Follow-up: [2018original supplement](DEATH-VALLEY-2018-CONTROLS.md) preserves later tuff-of-Artists-Drive sample names and cautions on approximate sedimentation ages; component identities and exact extrapolation remain open.
+
+
+Follow-up: [2008printed-vector crosswalk](ARTISTS-DRIVE-2008-CROSSWALK.md) matches all nine FLV119oxide values to the later lightfraction record, while preserving different group assignments and unverified physical identity.

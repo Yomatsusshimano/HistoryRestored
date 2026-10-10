@@ -28,3 +28,6 @@ Next recover quantitative rare-earth analyses of JRK-DV-39, FLV-119's separate p
 
 
 Follow-up: [2018original supplement](DEATH-VALLEY-2018-CONTROLS.md) preserves later tuff-of-Artists-Drive sample names and cautions on approximate sedimentation ages; component identities and exact extrapolation remain open.
+
+
+Follow-up: [2008printed-vector crosswalk](ARTISTS-DRIVE-2008-CROSSWALK.md) matches all nine FLV119oxide values to the later lightfraction record, while preserving different group assignments and unverified physical identity.

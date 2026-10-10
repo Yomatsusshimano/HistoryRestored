@@ -1,0 +1,151 @@
+{
+  "source_ids": [
+    "S330",
+    "S327"
+  ],
+  "S330_access": "AUTHOR_UPLOADED_TEXT_PORTION_NO_SCAN",
+  "S330_url": "https://www.researchgate.net/publication/277679974_Reconstructing_late_Pliocene_to_middle_Pleistocene_Death_Valley_lakes_and_river_systems_as_a_test_of_pupfish_Cyprinodontidae_dispersal_hypotheses",
+  "S330_locator": "Table2printed8, tuff of Artists Drive group",
+  "oxide_order": [
+    "SiO2",
+    "Al2O3",
+    "Fe2O3",
+    "MgO",
+    "MnO",
+    "CaO",
+    "TiO2",
+    "Na2O",
+    "K2O"
+  ],
+  "basis": "Normalized mean wtpercent oxides,100percent fluid-free",
+  "rows": [
+    {
+      "sample": "JRK-DV-39",
+      "oxides": [
+        75.41,
+        13.82,
+        1.2,
+        0.24,
+        0.06,
+        0.93,
+        0.22,
+        4.55,
+        3.56
+      ],
+      "original_total": 93.27,
+      "reported_SC": 1.0
+    },
+    {
+      "sample": "JRK-DV-104",
+      "oxides": [
+        76.85,
+        13.4,
+        1.12,
+        0.22,
+        0.06,
+        0.88,
+        0.2,
+        3.76,
+        3.53
+      ],
+      "original_total": 93.89,
+      "reported_SC": 0.9479
+    },
+    {
+      "sample": "JRK-DV-113",
+      "oxides": [
+        76.7,
+        13.52,
+        1.12,
+        0.23,
+        0.07,
+        0.91,
+        0.2,
+        3.79,
+        3.47
+      ],
+      "original_total": 93.69,
+      "reported_SC": 0.9565
+    },
+    {
+      "sample": "JT Wall Ash",
+      "oxides": [
+        76.19,
+        13.66,
+        1.15,
+        0.22,
+        0.08,
+        0.92,
+        0.21,
+        4.33,
+        3.25
+      ],
+      "original_total": null,
+      "reported_SC": 0.9761
+    },
+    {
+      "sample": "FLV-119-WW",
+      "oxides": [
+        76.88,
+        12.96,
+        1.07,
+        0.16,
+        0.05,
+        0.89,
+        0.19,
+        3.4,
+        4.41
+      ],
+      "original_total": 92.3,
+      "reported_SC": 0.9262
+    }
+  ],
+  "earlier_group": "Tuff of Artists Drive (>3.58 Ma)",
+  "later_group": "Tuff of Danville, ~4.8 Ma (4.37 Ma)",
+  "later_fraction": "FLV-119-WW LT. COL. GLS. T183-",
+  "later_analysis": 2199,
+  "reassignment_reason": null,
+  "whole_bed_identity": null,
+  "independent_review": false,
+  "diagnostic": {
+    "oxide_indices": [
+      0,
+      1,
+      2,
+      5,
+      6
+    ],
+    "reference_sample": "JRK-DV-39",
+    "rule": "Mean min/max concentration ratios for Si/Al/Fe/Ca/Ti oxides",
+    "results": [
+      {
+        "sample": "JRK-DV-104",
+        "declared_ratio_mean": 0.947906452518476,
+        "reported_SC": 0.9479,
+        "rounded_match": true
+      },
+      {
+        "sample": "JRK-DV-113",
+        "declared_ratio_mean": 0.9564784843181696,
+        "reported_SC": 0.9565,
+        "rounded_match": true
+      },
+      {
+        "sample": "JT Wall Ash",
+        "declared_ratio_mean": 0.9760622223397629,
+        "reported_SC": 0.9761,
+        "rounded_match": true
+      },
+      {
+        "sample": "FLV-119-WW",
+        "declared_ratio_mean": 0.9261885831788295,
+        "reported_SC": 0.9262,
+        "rounded_match": true
+      }
+    ],
+    "S327_all_nine_printed_values_equal": true,
+    "physical_aliquot_identity_verified": false,
+    "original_method_implementation_verified": false,
+    "geological_correlation_validated": false
+  }
+}
