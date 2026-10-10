@@ -1,5 +1,9 @@
 # Physical reconstruction: constraints before fitting
 
+### 2026-10-09 — Complete flood-control inputs before fitting
+
+The [complete Missoula table audit](research/MISSOULA-COMPLETE-CONTROLS.md) supplies 47 published controls, 17 shaded nonexceedance bounds and four missing model registrations. Keep one-sided constraints, actual stage outputs and terrain elevations distinct. The nearby Lynch 433 m / Evergreen 431 m pair cannot define one exact level water surface; positional/vertical uncertainty, relief, flow gradients and event association require verification. The 1360ft/420m row and Long-11 registration discrepancy remain uncorrected. Sixty retrospective distance comparisons include a 1.03 m short-distance rounding-sensitive flag; not every ratio flag is a large coordinate error. No hydraulic model or validated spatial prediction executed.
+
 ### 2026-10-09 — Compare shoreline features in declared coordinates
 
 The [Willapa vector audit](research/WILLAPA-VECTOR-AUDIT.md) distinguishes mean-high-water, apparent vegetation edge, approximation, control and added boundaries. Model inputs must choose comparable classes, not all129lines. Unsuffixed feature tables declareNAD27UTM10N; geographic copies declareNAD83. Degree/square-degree measures cannot stand for metres/area. Stored-geometry agreement does not validate datum transformations, actual coast positions or historical displacement; no modern comparison run.
@@ -68,7 +72,7 @@ The present cases include positive examples of catastrophic processes and altern
 
 ## Source-constrained regional benchmark
 
-The [Missoula audit](research/MISSOULA-MODEL-AUDIT.md) now supplies eleven field controls, four lacking published projected/model values and separates observational bounds from modeled terrain. Its executable elevation check is not a hydraulic model. Obtain and reproduce the published terrain/configuration before extending it, and preserve unresolved source discrepancies. No worldwide fitted reconstruction follows from this benchmark.
+The [Missoula audit](research/MISSOULA-MODEL-AUDIT.md) preserves the earlier eleven-row selection; the [complete-table follow-up](research/MISSOULA-COMPLETE-CONTROLS.md) now supplies all 47 published controls, four lacking projected/model values, and separates observational bounds from modeled terrain. Its executable elevation check is not a hydraulic model. Obtain and reproduce the published terrain/configuration before extending it, and preserve unresolved source discrepancies. No worldwide fitted reconstruction follows from this benchmark.
 
 The [published pulse alternative](research/MISSOULA-PULSE-ALTERNATIVE.md) now has an executed constant-discharge water-budget check. Its transcribed volume/discharge imply about 1,157 days, compared with about 100 days in the source. This is a consistency issue to resolve, not a reproduced hydrograph or a refutation of every pulse interpretation.
 

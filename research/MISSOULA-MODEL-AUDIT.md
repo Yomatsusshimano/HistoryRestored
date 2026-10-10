@@ -62,3 +62,8 @@ The source leaves projected x/y and terrain elevation blank for all four. Feet a
 The first two rows cite Waitt interpretation; the last two cite Waitt et al. (2019). This extraction is another portion of S27, not independent field confirmation. Noncrossing interpretation, event correlation and terrain registration must be checked before these become quantitative model rejection thresholds. This purposive extension was selected for missing-data diagnosis, not as an untouched validation set.
 
 Attempts to retrieve the underlying Wenatchee table and a separate USGS Willamette spatial-data package remained unsuccessful. Neither dataset is claimed as inspected. Long-11's discrepancy remains unresolved, and the regional hydraulic run remains pending its actual inputs.
+
+
+### Complete-table follow-up, 2026-10-09
+
+The [complete control audit](MISSOULA-COMPLETE-CONTROLS.md) now transcribes all47Table1rows rather than the eleven-row selection above. Legacy values remain unchanged. Additional unit, terrain and nearby-bound diagnostics are reported without correcting original records or claiming hydraulic reproduction. This supersedes partial-table coverage as a current limitation; original field provenance and actual model inputs remain unresolved.

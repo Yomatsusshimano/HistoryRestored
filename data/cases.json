@@ -1464,9 +1464,14 @@
           "source_id": "S173",
           "locator": "Manuscript PDF page 22",
           "statement": "The 2017 regional comparison uses another revised Fish Lake chronology and reports inherited inclination correction; its data lineage must remain distinct from the 2003 input."
+        },
+        {
+          "source_id": "S27",
+          "locator": "Complete Table 1, printed pp. 5-6 / PDF pp. 6-7",
+          "statement": "All 47 published control rows now transcribed, including 17 shaded nonexceedance bounds, four missing model registrations, printed unit-conversion discrepancies and a nearby opposite-bound pair; see research/MISSOULA-COMPLETE-CONTROLS.md. No hydraulic model or field correction established."
         }
       ],
-      "physical_evidence": "Published geomorphic/stratigraphic observations; eleven field-control rows transcribed and visually checked, no field section inspected.",
+      "physical_evidence": "Published geomorphic/stratigraphic observations; complete 47-row S27 Table 1 transcribed and visually checked, including all eleven previous selected rows. No original field section inspected.",
       "surviving_documents": "Original and later geological reports, selected measured-section/counting discussions, published Touchet bed-direction summaries and tephra analyses, and archived reference-lake numerical records; source-specific inspection limits retained.",
       "source_interpretation": "Authors infer repeated glacial-outburst floods.",
       "investigation_inference": "Changing deposition and recorded magnetic directions constrain short-event models, but this archive has not independently reproduced a minimum sequence duration. Unit counts, independent flood initiations and elapsed years are distinct. Conditional pairwise recording sensitivity is quantified in research/FLOOD-DISCRIMINATION.md; no differential error is thereby demonstrated.",
@@ -1475,7 +1480,7 @@
         "Shaw et al. regional pulse model for selected downstream sections with additional water sources; not a single event for all Scabland history"
       ],
       "counterevidence": "Intervening time indicators challenge treating the whole sequence as one uninterrupted event.",
-      "next_test": "Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation. Retrieve and inspect the S59 Globus package before reproducing S58 terrain comparisons. Recover specimen orientation/demagnetization and bed deformation data, exact extended 2003 reference inputs and Little Boulder Lake core/assays; test common versus differential recording and the ash-interval transfer.",
+      "next_test": "Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation. Retrieve and inspect the S59 Globus package before reproducing S58 terrain comparisons. Recover specimen orientation/demagnetization and bed deformation data, exact extended 2003 reference inputs and Little Boulder Lake core/assays; test common versus differential recording and the ash-interval transfer. Complete-table follow-up: resolve row 40 printed feet/metres, row 42 field/terrain difference, and Lynch/nearby Evergreen-Babcock context before judging stages against precise bounds; retain source values and site-specific uncertainties.",
       "chronology": {
         "reported": "Last-glacial sequence; S29 derives a conditional 15.8-14.9 cal ka interval for final Missoula floods from tephra correlation and varve counts, not a direct date of every flood.",
         "dated_object": "Flood sequence in review",

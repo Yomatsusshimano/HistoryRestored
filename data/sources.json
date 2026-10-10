@@ -498,10 +498,10 @@
       "publication_date": "2021",
       "source_type": "original hydraulic modeling study",
       "access": "SCAN_INSPECTED",
-      "inspected": "Relevant methods, scenario definitions and discussion; Table 1 printed p. 5 and scenario-label paragraph p. 11 visually inspected. Author PDF has preliminary profile sheet; printed pagination 1-18. Table 1 continuation printed p. 6 and Figure 10 p. 16 visually inspected; four final table controls extracted with blank model fields retained.",
-      "limitations": "Partial table extraction, no raw field audit, input retrieval or simulation rerun. See research/MISSOULA-MODEL-AUDIT.md.",
+      "inspected": "Relevant methods, scenario definitions and discussion; Table 1 printed p. 5 and scenario-label paragraph p. 11 visually inspected. Author PDF has preliminary profile sheet; printed pagination 1-18. Table 1 continuation printed p. 6 and Figure 10 p. 16 visually inspected; four final table controls extracted with blank model fields retained. Follow-up 2026-10-09: both Table 1 scans re-inspected and complete 47-row numerical/reference/shading transcription recovered; independent PDF-extraction checks and retrospective diagnostic audit executed. See research/MISSOULA-COMPLETE-CONTROLS.md.",
+      "limitations": "Complete Table 1 transcription, but no raw field audit, actual model input retrieval, stage-output comparison or simulation rerun. Original eleven-row selection is preserved as historical extraction. See research/MISSOULA-COMPLETE-CONTROLS.md and research/MISSOULA-MODEL-AUDIT.md.",
       "local_copy": null,
-      "accessed_date": "2026-10-08",
+      "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {

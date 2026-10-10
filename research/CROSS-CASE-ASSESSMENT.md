@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Complete Missoula field-control table
+
+S27 complete 47-row Table 1 now retains 17 nonexceedance / 30 other indicators, four blank model registrations, source unit discrepancies and nearby opposite bounds. All numeric cells checked against separate original-PDF extraction; eleven legacy rows unchanged. Retrospective coordinate screening keeps short-distance rounding separate from Long-11 mismatches. No corrected survey, stage outputs, hydraulic run or common event. See [complete control audit](MISSOULA-COMPLETE-CONTROLS.md).28 drafts / 334 sources; all twenty outcomes remain active.
+
 ### 2026-10-09 — Species key and complete cruise column
 
 S334original companion key expands CIBFLT; complete S33321row column retains all zeros and five positives at21-68m. Single-taxon presence cannot enforce an exclusive<50m rule; assemblage model untested. See [audit](RUSSIAN-RIVER-SPECIES-CODE.md). 28 drafts/334 sources; no fossil date or uplift.

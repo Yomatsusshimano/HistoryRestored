@@ -92,3 +92,5 @@ Latest ecological and geographic check: [Ohlson faunal letter and projected shor
 Latest calibration recovery: [Russian River modern faunal controls](research/RUSSIAN-RIVER-FAUNAL-CALIBRATION.md).
 
 Latest calibration check: [species key and complete cruise column](research/RUSSIAN-RIVER-SPECIES-CODE.md).
+
+Latest physical-model input audit: [complete Missoula controls](research/MISSOULA-COMPLETE-CONTROLS.md), all47published rows, preserved discrepancies and bounds.
