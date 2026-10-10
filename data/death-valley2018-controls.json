@@ -1,0 +1,92 @@
+{
+  "source_id": "S329",
+  "article_DOI": "10.1130/B31690.1",
+  "supplement_DOI": "10.1130/2017396",
+  "publisher_relationship": [
+    {
+      "id": 45440963,
+      "identifier": "10.1130/B31690.1",
+      "title": "Late Neogene-Quaternary tephrochronology, stratigraphy and paleoclimate of Death Valley, California, USA",
+      "relation": "IsSupplementTo",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.1130/B31690.1"
+    }
+  ],
+  "license": {
+    "value": 10,
+    "name": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "files": [
+    {
+      "name": "2017396.pdf",
+      "url": "https://ndownloader.figshare.com/files/23306417",
+      "bytes": 14905848,
+      "md5": "bde1109416d0b55ad0ad09342efbec68",
+      "sha256": "b22814222e4ea8965cdd1c4b509686296e16723cf07b4cebd4c6f29e12e6ac2e"
+    },
+    {
+      "name": "2017396_Table4.xlsx",
+      "url": "https://ndownloader.figshare.com/files/23306423",
+      "bytes": 53696,
+      "md5": "fa4358edb6a49618625f4f6a19628c60",
+      "sha256": "83ca1e051ff5118ce1f353c1f35a295235d5c9b0a2c239309d0f2a3aa071d8f5"
+    }
+  ],
+  "visually_inspected_pdf_pages": [
+    2,
+    4,
+    19
+  ],
+  "workbook_inspected": false,
+  "selected_Table2_rows": [
+    {
+      "sample": "JRK-DV-39",
+      "label": "tuff of Artists Drive",
+      "context": "Funeral Formation/type locality/Artists Drive"
+    },
+    {
+      "sample": "JRK-DV-104",
+      "label": "tuff of Artists Drive",
+      "context": "Funeral Formation/Artists Drive"
+    },
+    {
+      "sample": "CAES#1-1143",
+      "label": "Unnamed ash bed",
+      "context": "Bristol Lake/core1/1143feet below ground"
+    },
+    {
+      "sample": "JRK-DV-41",
+      "label": "tuff of Zabriskie Wash",
+      "context": "Former lower Mesquite Spring/Artists Drive"
+    },
+    {
+      "sample": "JRK-DV-60",
+      "label": "Nomlaki Tuff",
+      "context": "Funeral Formation/Artists Drive"
+    },
+    {
+      "sample": "BUR-958.0",
+      "label": "Unnamed ash bed",
+      "context": "Burmester core/958feet below surface"
+    }
+  ],
+  "Curry_canyon_example_only": {
+    "rate_cm_per_ka": 18.4,
+    "magnetozone_boundary_ages_Ma": [
+      3.596,
+      3.33
+    ],
+    "sampling_related_age_range_Ma": [
+      3.57,
+      3.51
+    ],
+    "reported_approximate_age_Ma": 3.54,
+    "sigma": null,
+    "calculation_reproduced": false
+  },
+  "FLV119_fraction_identification": null,
+  "regional_age_transfer_verified": false,
+  "independent_review": false
+}

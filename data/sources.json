@@ -5065,6 +5065,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S329",
+      "title": "Late Neogene-Quaternary tephrochronology, stratigraphy, and paleoclimate of Death Valley, California, USA, with original Data Repository2017396 supplement",
+      "creator": "Jeffrey R. Knott; Michael N. Machette; Elmira Wan; Ralph E. Klinger; Joseph C. Liddicoat; Andrei M. Sarna-Wojcicki; Robert J. Fleck; Alan L. Deino; John W. Geissman; Janet L. Slate; David B. Wahl; Brian P. Wernicke; Stephen G. Wells; John C. Tinsley III; Jeffrey C. Hathaway; Veva M. Weamer",
+      "publication_date": "2018",
+      "url": "https://doi.org/10.1130/B31690.1",
+      "source_type": "GSA Bulletin130(7-8)1231-1255; original publisher-linked23page supplement DOI10.1130/2017396; main institutional metadata/abstract only",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Supplement PDF2/4/19 visually inspected: correlation methods, approximate-age discussion and six selected Table2rows. PDF1/5reference text-read only. Main full text/scan not acquired; companion workbook acquired/hashchecked but uninspected.",
+      "limitations": "No full23page supplement audit, numerical rare-earth reproduction, FLV119fraction identification, original raw assays, exact2008extrapolation or independent regional age transfer. Same-study supplement not independent evidence.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Later ash names and approximate-age limits
+
+S329original supplement labels JRK39/104tuff of Artists Drive and explains episodic/sparsely sampled sedimentation ages. Exact FLV119populations, rare-earth numbers and2008extrapolation remain unresolved. See [audit](DEATH-VALLEY-2018-CONTROLS.md). 28 drafts/329 sources; no regional age transfer or independent review.
+
 ### 2026-10-09 — Artists Drive primary correlation controls
 
 S328original Table C3-1 groups FLV119under lower Nomlaki, not Nomlaki Tuff; rare-earth/polarity/section controls supply discriminators but mixed fractions and2008extrapolation remain unresolved. See [audit](ARTISTS-DRIVE-NOMLAKI.md). 28 drafts/328 sources; no regional age transfer or independent review.

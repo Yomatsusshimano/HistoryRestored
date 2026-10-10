@@ -1717,3 +1717,10 @@ Previous goal turn made progress:6325229published inverse-ratio check and11files
 S328original Table C3-1 groups FLV119under lower Nomlaki, not Nomlaki Tuff; rare-earth/polarity/section controls supply discriminators but mixed fractions and2008extrapolation remain unresolved. See [audit](research/ARTISTS-DRIVE-NOMLAKI.md). 28 drafts/328 sources; no regional age transfer or independent review.
 
 Previous goal turn made progress:152adbc published chemical crosswalk;12files publicly byte-verified. Clean checkout revalidated. Bounded21column read-only search of S327TablesS2/S3/S4 found only the previously identifiedFLV119lightfraction under the declared119/117label selector; no databasewideabsence claimed. Normal official TLS download acquired254page2001guide despite webtool403; selected5pages rendered and inspected. Search snippet obscured lower-Nomlakiheading, corrected against original scan before publication. No inferred fraction join, trace-element calculation, field verification, outreach or goal completion.
+
+
+### 2026-10-09 — Later ash names and approximate-age limits
+
+S329original supplement labels JRK39/104tuff of Artists Drive and explains episodic/sparsely sampled sedimentation ages. Exact FLV119populations, rare-earth numbers and2008extrapolation remain unresolved. See [audit](research/DEATH-VALLEY-2018-CONTROLS.md). 28 drafts/329 sources; no regional age transfer or independent review.
+
+Previous goal turn made progress:16d7e9a published Artists Drive primary controls,12files byte-verified; clean checkout revalidated. DOI-token Figshare search empty; exact-title search found publisher-linked2017396package. Both originalfiles acquired normally/MD5matched. Main publisher inaccessible and institutional record metadata-only; no main scan claim. PDF2/4/19rendered and inspected; original reference text identifies distinct Knott2008predecessor. Workbook remains uninspected. No invented Gaussian error, rare-earth values, direct local age, field verification, outreach or completion.

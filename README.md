@@ -76,3 +76,5 @@ Run `python archive.py build` to generate the inventory from the records, then `
 Public releases include standards, cases, adverse findings, limitations, and revision history together. Git commits preserve public versions; snapshots/ is an optional local backup excluded from Git. Outside review and geographically independent replication remain pending. Repository publication does not establish the reconstruction.
 
 Latest primary-source follow-up: [Artists Drive ash controls](research/ARTISTS-DRIVE-NOMLAKI.md).
+
+Latest methods follow-up: [Death Valley later names and approximate ages](research/DEATH-VALLEY-2018-CONTROLS.md).

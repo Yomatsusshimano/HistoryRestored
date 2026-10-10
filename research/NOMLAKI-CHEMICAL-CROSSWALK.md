@@ -34,3 +34,6 @@ Recover the complete FLV-119-WW component analyses and the later evidence separa
 
 
 Follow-up: [Artists Drive original controls](ARTISTS-DRIVE-NOMLAKI.md) recover the2001lower-Nomlaki grouping of FLV119and explicit rare-earth/stratigraphic discriminators; component identity and exact2008extrapolation remain unresolved.
+
+
+Follow-up: [2018original supplement](DEATH-VALLEY-2018-CONTROLS.md) preserves later tuff-of-Artists-Drive sample names and cautions on approximate sedimentation ages; component identities and exact extrapolation remain open.

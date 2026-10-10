@@ -25,3 +25,6 @@ Figure C3-3 depicts separate sections and polarity assignments. Its caption says
 The [2008 age audit](NOMLAKI-AGE-CONTROLS.md) reports a4.06±0.46Ma lower-Nomlaki estimate combining two extrapolations, including Artists Drive section2. The 2001 chapter contains that named section and relevant controls, but does not supply the exact pair of extrapolated ages, weights, or later error-model calculation. Its earlier bracket and the later estimate use different constructions; this audit neither equates them nor declares them statistically contradictory.
 
 Next recover quantitative rare-earth analyses of JRK-DV-39, FLV-119's separate populations and the reference Nomlaki samples; identify whether the 2001 FLV-119 row represents one component. Then recover the precise age-depth inputs and hiatus assumptions used for Artists Drive section2 in2008. No regional target-bed date, historical waterway, or catastrophe follows from these correlations alone.
+
+
+Follow-up: [2018original supplement](DEATH-VALLEY-2018-CONTROLS.md) preserves later tuff-of-Artists-Drive sample names and cautions on approximate sedimentation ages; component identities and exact extrapolation remain open.
