@@ -1675,3 +1675,10 @@ Previous goal turn made progress: b5fa942 published the holotype code, with all1
 The pinned S321 export yields one Haitian Macrotus record and 2769 Haitian Chiroptera records. Both S324 Jean Paul accessions match, but UF307265 has only an order-level catalog label. No normalized Beta345518 token appears across occurrence cells. Scope is the export, not all museum records. See [catalog audit](research/HAITI-BAT-CATALOG-SEARCH.md). 28 drafts/324 sources; no assay accession, shared deposit or independent review established.
 
 Previous goal turn made progress:187da21published numbered-cave conflict and original supplements;19files publicly byte-verified. Current clean checkout revalidated. Original archive SHA256 matched prior pinned record. Country/genus search widened beyond earlier Jérémie-name selector; exact accession join recovered a record the genus filter missed. All554765occurrence rows/free-cell assay token searched. No new source count, assumed physical identity, taxonomic correction, animal count, outreach, independent review or goal completion. This bounded export path cannot substitute for original submission/field records.
+
+
+### 2026-10-09 — Original Nomlaki age construction and northern contacts
+
+S325 original methods derive both regional tephra ages from paired extrapolations and a shared empirical error model. Later fan deposits are described above an erosion surface cut on Bullhead; primary ash and target-bed correlation remain unverified. See [audit](research/NOMLAKI-AGE-CONTROLS.md). 28 drafts/325 sources; no historical age, continuous passage or independent review established.
+
+Previous status-only turn made no research progress; clean checkout and remote680fd9b revalidated. Original2008PDF already acquired normally; selected four pages now rendered and visually inspected. Poppler reported display-font warnings, but inspected values and text remained readable. A renewed web fetch timed out; retained original supplies inspected evidence. No field verification, full chemical-table audit, original extrapolation reproduction, age transfer, outreach or goal completion claimed.

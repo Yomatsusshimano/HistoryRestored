@@ -41,3 +41,6 @@ The [Bullhead younger-constraint audit](BULLHEAD-YOUNGER-CONSTRAINTS.md) now ide
 
 
 The [Lost Cabin sediment audit](LOST-CABIN-SEDIMENTS.md) now separates inherited ash dates from reported exposure horizons. Neither uncertain age transfer nor reworking removes the need to explain the physical sequence.
+
+
+Follow-up: the [original Nomlaki audit](NOMLAKI-AGE-CONTROLS.md) recovers the paired extrapolation methods and northern contact descriptions. Original age-depth inputs/error model, primary deposition and southern target correlation remain unresolved.

@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Original Nomlaki age construction and northern contacts
+
+S325 original methods derive both regional tephra ages from paired extrapolations and a shared empirical error model. Later fan deposits are described above an erosion surface cut on Bullhead; primary ash and target-bed correlation remain unverified. See [audit](NOMLAKI-AGE-CONTROLS.md). 28 drafts/325 sources; no historical age, continuous passage or independent review established.
+
 ### 2026-10-09 — Broader museum bat search and incomplete taxon labels
 
 The pinned S321 export yields one Haitian Macrotus record and 2769 Haitian Chiroptera records. Both S324 Jean Paul accessions match, but UF307265 has only an order-level catalog label. No normalized Beta345518 token appears across occurrence cells. Scope is the export, not all museum records. See [catalog audit](HAITI-BAT-CATALOG-SEARCH.md). 28 drafts/324 sources; no assay accession, shared deposit or independent review established.

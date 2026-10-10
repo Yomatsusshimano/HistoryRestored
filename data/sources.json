@@ -5009,6 +5009,20 @@
       "local_copy": "sources/originals/wildlife/bats2017/pone.0178066.s001.xlsx",
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S325",
+      "title": "Stratigraphic evidence for the role of lake spillover in the inception of the lower Colorado River in southern Nevada and western Arizona",
+      "creator": "P. Kyle House; Philip A. Pearthree; Michael E. Perkins",
+      "publication_date": "2008",
+      "url": "https://wpg.forestry.oregonstate.edu/sites/default/files/seminars/08_Houseetal_GSA_SP.pdf",
+      "source_type": "Original GSA Special Paper439 chapter pp335-353, DOI10.1130/2008.2439(15), institutional PDF mirror",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF pages1/8/11/17, printed335/342/345/351, visually inspected; remaining pages text-searched only. Lower Nomlaki and Nomlaki age-construction methods and northern contact descriptions audited.",
+      "limitations": "Original extrapolation inputs/weights and personal-communication error-model implementation unacquired. No independent primary-ash/contact verification, field inspection, southern target-bed correlation or full-page chemical-table audit. Later citation S208 is dependent evidence.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

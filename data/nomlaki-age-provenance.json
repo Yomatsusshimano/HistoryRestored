@@ -1,0 +1,46 @@
+{
+  "source_id": "S325",
+  "doi": "10.1130/2008.2439(15)",
+  "pdf_sha256": "1d8d2ccfa4f1b9f4120df8f442f6a13df150defaaed0b659c19f416741eb370e",
+  "pdf_bytes": 3693247,
+  "visually_inspected_pdf_pages": [
+    1,
+    8,
+    11,
+    17
+  ],
+  "controls": [
+    {
+      "name": "lower Nomlaki",
+      "age_ma": 4.06,
+      "reported_error_ma": 0.46,
+      "error_convention": "1sigma",
+      "rounded_age_ma": 4.1,
+      "rounded_error_ma": 0.5,
+      "method": "weighted mean of two linear extrapolation estimates",
+      "input_sections": [
+        "Bristol Lake CAES#1",
+        "Artist Drive section2"
+      ],
+      "individual_ages": null,
+      "weights": null
+    },
+    {
+      "name": "Nomlaki",
+      "age_ma": 3.29,
+      "reported_error_ma": 0.05,
+      "error_convention": null,
+      "method": "weighted average of two extrapolation estimates; preceding empirical error model",
+      "input_sections": [
+        "Burmester Utah core",
+        "Willow Wash California section"
+      ],
+      "individual_ages": null,
+      "weights": null
+    }
+  ],
+  "error_model": "M. Perkins2007personal communication; implementation unacquired",
+  "primary_ash_independently_verified": false,
+  "southern_target_correlation_verified": false,
+  "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+}

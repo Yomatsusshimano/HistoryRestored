@@ -35,3 +35,6 @@ The [published2021 debate](COLORADO-2021-DEBATE.md) now records the Comment and 
 
 
 A later [cosmogenic burial-dating audit](COLORADO-BURIAL-DATING.md) adds sample-level measurements for related regional deposits. Initial inspection preserves conflicting age summaries and all exclusions; it is not a direct date of the Bouse target bed.
+
+
+Follow-up: the [original Nomlaki audit](NOMLAKI-AGE-CONTROLS.md) recovers the paired extrapolation methods and northern contact descriptions. Original age-depth inputs/error model, primary deposition and southern target correlation remain unresolved.
