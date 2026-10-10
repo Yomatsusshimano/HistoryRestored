@@ -26,3 +26,6 @@ The [structured ledger](../data/willow-wash-controls.json) separates quoted nume
 The earlier plan to recover an extrapolation recipe must now first establish **which Willow Wash layer was selected and how the1991ambiguity was resolved**. Then recover its measured height, bounding controls, hiatus treatment, reference-timescale version and2008weight/error inputs. The report's provisional correlations and explicit conflicts should not be hidden behind the later precise estimate.
 
 These are disclosed technical uncertainties in an ancient regional chronology. They do not supply a common historical chronology break, a date for southern Bouse fossils or a continuous marine passage. Supporting observations also remain: physical bed tracing, repeated compositional comparisons and demagnetized polarity measurements. A competing reconstruction must explain them along with the conflicts.
+
+
+Follow-up: [direct Nomlaki dating](NOMLAKI-DIRECT-DATING.md) adds a separate Dry Creek plagioclase analysis; it does not resolve the original Willow Wash layer selection or transfer an age to the southern target.

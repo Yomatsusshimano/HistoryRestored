@@ -1689,3 +1689,10 @@ Previous status-only turn made no research progress; clean checkout and remote68
 S326 original scans retain multiple Nomlaki-like layers, reworking, an unconformity and older Rimrock age conflict. Reported36cm/kyr average arithmetic is reproducible, but the specific2008extrapolation is not. Next establish the selected layer and later resolution before age fitting. See [audit](research/WILLOW-WASH-NOMLAKI.md). 28 drafts/326 sources; no historical age or independent review established.
 
 Previous goal turn made progress:c123790published Nomlaki dependencies and11files were byte-verified. Clean checkout revalidated. Normal TLS acquired official94page report; selected eight pages rendered and visually inspected. Chapter heading west-central retained against later east-central citation. Fulltext search located rate discussion, not exact2008recipe. Chemistry tables, original K-Ar assay and raw magnetic measurements remain unaudited. No new empirical age, extrapolation reproduction, historical fabrication, outreach or completion claimed.
+
+
+### 2026-10-09 — Direct Nomlaki analysis and bounded plateau check
+
+S327 original methods and analytical data identify ROSER-2aDryCreek plagioclase. Five marked steps reproduce rounded plateau3.314±0.011Ma, while authors prefer3.339Ma inverse isochron, not reproduced. Figure/main uncertainty difference and allnine steps retained; no regional target age transferred. See [audit](research/NOMLAKI-DIRECT-DATING.md). 28 drafts/327 sources; no independent review or chronology break established.
+
+Previous goal turn made progress:5801116published Willow Wash and12files byte-verified; current clean checkout revalidated. Search recovered later direct analysis and original DOI-linked Figshare packagev2; both acquired-fileMD5s matched. Methods four pages rendered/inspected; spreadsheet original cells/fonts read-only, no layout claim. Publisher web fetch inaccessible; main remains author-uploaded textportion. Unknown source weights, raw gas reduction and regional joins remain unresolved; no outreach or goal completion.

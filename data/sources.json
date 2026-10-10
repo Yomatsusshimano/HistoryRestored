@@ -5037,6 +5037,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S327",
+      "title": "Late Cenozoic tephrochronology of the Mount Diablo area within the evolving plate-tectonic boundary zone of northern California, with original analytical supplements",
+      "creator": "Andrei M. Sarna-Wojcicki; Raymond Sullivan; Alan Deino; Laura C. Walkup; J. Ross Wagner; Elmira Wan",
+      "publication_date": "2021",
+      "url": "https://doi.org/10.1130/2021.1217(16)",
+      "source_type": "Original GSA Memoir217 chapter pp393-441; author-uploaded main text portion plus publisher-linked AppS1 and TableS1; one study",
+      "access": "SCAN_INSPECTED",
+      "inspected": "AppS1PDF21-24 visually inspected. Original TableS1XLSX headers3/4, block86-95 and notes99-109 read-only, lab-ID bold inclusion flags checked; no workbook layout rendering. Main Nomlaki passage and Table4 exposed text read, no main scans.",
+      "limitations": "One Nomlaki aliquot with9steps is not9independent specimens. Plateau diagnostic reuses published derived values; raw gas reduction, selection algorithm and preferred inverse isochron unreproduced. Figure/main0.015/0.016error difference retained. No Willow Wash candidate resolution or southern target correlation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

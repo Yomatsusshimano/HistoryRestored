@@ -1,0 +1,32 @@
+{
+  "source_id": "S327",
+  "supplement_doi": "10.1130/MWR.S.15149043.v2",
+  "license": {
+    "value": 10,
+    "name": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "files": [
+    {
+      "name": "217-16-AppS1.pdf",
+      "url": "https://ndownloader.figshare.com/files/29107470",
+      "bytes": 1120483,
+      "md5": "fd6b4a5bbe24bd1a84ae2c52a7011c9e",
+      "sha256": "82976e2602101842dec2d47c7c4119937dbaefb48116f27e2bc06f7b88583ed7"
+    },
+    {
+      "name": "217-16-SuppTab1.xlsx",
+      "url": "https://ndownloader.figshare.com/files/29107467",
+      "bytes": 38396,
+      "md5": "fbab392f4a92dd81ca2adc06dfe22821",
+      "sha256": "18144d096092ebfd3de69e852c986acc0c19121f579cf0775f59c442414cf9fb"
+    }
+  ],
+  "main_access": "AUTHOR_UPLOADED_TEXT_PORTION",
+  "methods_visually_inspected_pdf_pages": [
+    21,
+    22,
+    23,
+    24
+  ]
+}

@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Direct Nomlaki dating audit](research/NOMLAKI-DIRECT-DATING.md): named sample, original methods, marked heating steps and separate age-transfer limits.
+
 - [Willow Wash original control](research/WILLOW-WASH-NOMLAKI.md): unresolved ash identity, age conflicts and a bounded rate calculation.
 
 - [Original Nomlaki chronology audit](research/NOMLAKI-AGE-CONTROLS.md): extrapolation dependencies and the younger northern Bullhead constraint.

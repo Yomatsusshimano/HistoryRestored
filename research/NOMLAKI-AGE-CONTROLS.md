@@ -33,3 +33,6 @@ Next recover the four original extrapolation sections' age-depth controls and th
 
 
 Follow-up: the [original Willow Wash control](WILLOW-WASH-NOMLAKI.md) retains unresolved candidate-layer identity and chronology conflicts. Establish the later layer selection before reproducing the2008extrapolation.
+
+
+Follow-up: [direct Nomlaki dating](NOMLAKI-DIRECT-DATING.md) adds a separate Dry Creek plagioclase analysis; it does not resolve the original Willow Wash layer selection or transfer an age to the southern target.
