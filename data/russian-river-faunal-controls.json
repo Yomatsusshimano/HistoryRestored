@@ -1,0 +1,108 @@
+{
+  "accessed_date": "2026-10-09",
+  "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+  "files": [
+    {
+      "source_id": "S332",
+      "filename": "quinterno1987-record.html",
+      "bytes": 50003,
+      "sha256": "abdf813d0c7ae0f5b57898cc620dca4ff3fe24dedec9f42a489dda43dbf1ad6c",
+      "redistributed": false
+    },
+    {
+      "source_id": "S333",
+      "filename": "russian-river1984.pdf",
+      "bytes": 1899434,
+      "sha256": "f2595a02859bcd8c9513aa90bfd03031641f4818b5dae322aa97413757bdc6c7",
+      "redistributed": false
+    }
+  ],
+  "S332": {
+    "access": "ABSTRACT_ONLY",
+    "surface_samples_reported": 71,
+    "taxa_reported": 106,
+    "assemblage_factors_reported": 6,
+    "explained_variation_percent_reported": 94,
+    "inner_shelf_depth_m": {
+      "upper": 50,
+      "upper_inclusive": false,
+      "lower": null
+    },
+    "middle_shelf_depth_m_reported": [
+      50,
+      90
+    ],
+    "classification_accuracy": null,
+    "Ohlson_depth_reproduced": false
+  },
+  "S333": {
+    "pdf_pages": 119,
+    "visually_inspected_pdf_pages": [
+      1,
+      2,
+      3,
+      7,
+      10,
+      11,
+      32
+    ],
+    "surface_samples_reported": 75,
+    "core": "L13-81-G138",
+    "method": {
+      "wash_sieve_um": 63,
+      "split_fraction_um": 149,
+      "approximate_specimen_target": 300,
+      "unidentified_retained": true
+    },
+    "selected_rows": [
+      {
+        "sample": "L1-81-Bx9",
+        "depth_m_uncorrected": 68,
+        "CIBFLT_percent": 7.5,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx10",
+        "depth_m_uncorrected": 53,
+        "CIBFLT_percent": 9.2,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx15",
+        "depth_m_uncorrected": 26,
+        "CIBFLT_percent": 4.6,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx16",
+        "depth_m_uncorrected": 21,
+        "CIBFLT_percent": 5.0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx22",
+        "depth_m_uncorrected": 40,
+        "CIBFLT_percent": 34.0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      }
+    ],
+    "CIBFLT_taxon_expansion": null,
+    "depth_correction": null,
+    "coordinate_datum": null,
+    "full_matrix_transcribed": false
+  },
+  "joins": {
+    "S333_to_exact_S332_sample_selection": null,
+    "modern_to_Ohlson_quantified_counts": null
+  },
+  "inference": {
+    "depth_classifier_executed": false,
+    "uplift_calculated": false,
+    "event_date_assigned": false
+  }
+}

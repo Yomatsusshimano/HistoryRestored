@@ -21,3 +21,5 @@ Printed173 explicitly treats lithologic and fossil agreement as permitting a cor
 Retain marine-environment support separately from numerical chronology and geographic correlation. Do not add the interpreted30-60m depth to the later reported350m platform elevation to claim measured uplift: their sample/location/datum joins, sea-level history and uncertainty are unverified. No continuous interbasin passage or rapid global displacement follows from this local reconstruction.
 
 Next retrieve the named slides and their field-section records, original modern ecological calibration (Quinterno and Gardner1987, cited in the letter; full paper not acquired), and independent contacts/dates for the Point Arena comparison. The search for the original2012ash dating report still yields later citations rather than its analytical data; no absent identifier or inaccessible abstract is treated as negative geological evidence.
+
+Follow-up: [modern ecological abstract and original related data](RUSSIAN-RIVER-FAUNAL-CALIBRATION.md) recover methods and numerical controls; the exact1987matrix and Ohlson depth estimate remain unreproduced.

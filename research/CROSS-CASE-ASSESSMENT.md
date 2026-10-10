@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Modern faunal calibration controls recovered
+
+S332official modern-study abstract and S333original related data report recover ecological depth bands, sample processing and five depth/percentage joins. No exact1987matrix join, taxon expansion or Ohlson depth validation. See [audit](RUSSIAN-RIVER-FAUNAL-CALIBRATION.md). 28 drafts/333 sources; no uplift or event date.
+
 ### 2026-10-09 — Marine ecology and shoreline correlation separated
 
 Original Ingleletter names faunal slides and separates marine shelf30-60m interpretation from uncertain age. Figure4-3and source discussion retain projected shoreline/conditional Point Arena correlation. See [audit](OHLSON-FAUNA-SHORELINE.md). 28 drafts/331 sources; no measured uplift or independent review.

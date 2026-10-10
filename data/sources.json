@@ -5107,6 +5107,34 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S332",
+      "title": "Benthic foraminifers on the continental shelf and upper slope, Russian River area, northern California",
+      "creator": "P. J. Quinterno; J. V. Gardner",
+      "publication_date": "1987",
+      "url": "https://pubs.usgs.gov/publication/70014470",
+      "source_type": "Original Journal of Foraminiferal Research17(2)132-152 study, DOI10.2113/gsjfr.17.2.132; official USGS abstract/metadata only",
+      "access": "ABSTRACT",
+      "inspected": "Official abstract and bibliographic record acquired normally as HTML and read;71samples/106taxa/sixfactors/94percent variation and shelfdepth bands retained. Original article not acquired.",
+      "limitations": "No complete factor matrix, methods, exact selection, validation errors or individual Ohlson depth reproduction. Abstract depth bands do not supply age or classification accuracy."
+    },
+    {
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S333",
+      "title": "Quantitative microfossil, sedimentologic, and geochemical data on core L13-81-G138 and surface samples from the continental shelf and slope off northern California",
+      "creator": "James V. Gardner; John A. Barron; Walter E. Dean; Linda E. Heusser; Richard Z. Poore; Paula J. Quinterno; Sean M. Stone; Christine R. Wilson",
+      "publication_date": "1984",
+      "url": "https://pubs.usgs.gov/of/1984/0369/report.pdf",
+      "source_type": "Original USGS Open-File Report84-369;119PDFpages,118printed pages",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF1-3/7/10-11/32 visually inspected: title/byline, introduction, foraminifer processing, Table1firstpage, Table2key and Table9selected CIBFLTcolumn. Five depth/percentage rows transcribed; fullreport text-searched for table locations.",
+      "limitations": "No full119page review or fullmatrix transcription. CIBFLT expansion absent from inspected key; not inferred. Uncorrected depths/datum and exact1987sample selection unresolved; no fossil calibration or independent validation."
     }
   ]
 }
