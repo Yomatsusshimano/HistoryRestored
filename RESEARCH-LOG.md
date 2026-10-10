@@ -1682,3 +1682,10 @@ Previous goal turn made progress:187da21published numbered-cave conflict and ori
 S325 original methods derive both regional tephra ages from paired extrapolations and a shared empirical error model. Later fan deposits are described above an erosion surface cut on Bullhead; primary ash and target-bed correlation remain unverified. See [audit](research/NOMLAKI-AGE-CONTROLS.md). 28 drafts/325 sources; no historical age, continuous passage or independent review established.
 
 Previous status-only turn made no research progress; clean checkout and remote680fd9b revalidated. Original2008PDF already acquired normally; selected four pages now rendered and visually inspected. Poppler reported display-font warnings, but inspected values and text remained readable. A renewed web fetch timed out; retained original supplies inspected evidence. No field verification, full chemical-table audit, original extrapolation reproduction, age transfer, outreach or goal completion claimed.
+
+
+### 2026-10-09 — Original Willow Wash control and unresolved ash identity
+
+S326 original scans retain multiple Nomlaki-like layers, reworking, an unconformity and older Rimrock age conflict. Reported36cm/kyr average arithmetic is reproducible, but the specific2008extrapolation is not. Next establish the selected layer and later resolution before age fitting. See [audit](research/WILLOW-WASH-NOMLAKI.md). 28 drafts/326 sources; no historical age or independent review established.
+
+Previous goal turn made progress:c123790published Nomlaki dependencies and11files were byte-verified. Clean checkout revalidated. Normal TLS acquired official94page report; selected eight pages rendered and visually inspected. Chapter heading west-central retained against later east-central citation. Fulltext search located rate discussion, not exact2008recipe. Chemistry tables, original K-Ar assay and raw magnetic measurements remain unaudited. No new empirical age, extrapolation reproduction, historical fabrication, outreach or completion claimed.

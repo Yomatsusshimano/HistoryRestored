@@ -1,0 +1,57 @@
+{
+  "source_id": "S326",
+  "pdf_sha256": "844c74ba7a0e3609888cf396a42c51e50153bb84e40029845901335aaae12a39",
+  "pdf_bytes": 2119160,
+  "visually_inspected_pdf_pages": [
+    47,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "nomlaki_candidates": [
+    "FLV-97-WW",
+    "FLV-21-WW",
+    "FLV-119-WW",
+    "FLV-117-WW"
+  ],
+  "authors_resolve_unique_nomlaki_in_inspected_passages": false,
+  "reported_average_rate": {
+    "locator": "Printed59/PDF60",
+    "thickness_m": 500,
+    "older_age_ma": 3.4,
+    "younger_age_ma": 2.0,
+    "reported_rate_cm_per_kyr": 36,
+    "ages_are_interpretations": true
+  },
+  "later_rate": {
+    "locator": "Printed62/PDF63",
+    "cm_per_kyr": [
+      2,
+      3
+    ],
+    "conditional_on_chron_correlations": true
+  },
+  "rimrock_prior_age": {
+    "locator": "Printed62/PDF63 cites Robinson1968",
+    "age_ma": 4.3,
+    "reported_error_ma": 0.4,
+    "error_convention": null,
+    "method": "K-Ar biotite",
+    "original_assay_audited": false
+  },
+  "major_unconformity": {
+    "locator": "Printed59/PDF60",
+    "reported_minimum_removed_thickness_m": 100
+  },
+  "original2008_extrapolation": {
+    "selected_layer": null,
+    "individual_age_ma": null,
+    "weights": null,
+    "error_model_implementation": null
+  },
+  "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+}

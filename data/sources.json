@@ -5023,6 +5023,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S326",
+      "title": "The late Cenozoic section at Willow Wash, west-central California: A tephrochronologic Rosetta Stone",
+      "creator": "Marith C. Reheis; Andrei M. Sarna-Wojcicki; Douglas M. Burbank; Charles E. Meyer",
+      "publication_date": "1991",
+      "url": "https://pubs.usgs.gov/of/1991/0290/report.pdf",
+      "source_type": "Original USGS Open-File Report91-290 chapter printed46-66; preliminary field-trip report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF47/58-64, printed46/57-63 visually inspected including Figures3-6; other94page report pages text-searched only.",
+      "limitations": "Provisional Nomlaki-like layer identities, age/polarity conflicts and reworking warnings retained. No full chemistry-table audit, raw field/demagnetization reproduction, exact2008extrapolation inputs or independent target-bed correlation.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

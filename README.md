@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Willow Wash original control](research/WILLOW-WASH-NOMLAKI.md): unresolved ash identity, age conflicts and a bounded rate calculation.
+
 - [Original Nomlaki chronology audit](research/NOMLAKI-AGE-CONTROLS.md): extrapolation dependencies and the younger northern Bullhead constraint.
 
 - [Haitian bat catalog search](research/HAITI-BAT-CATALOG-SEARCH.md): wider taxon/accession selection, incomplete labels and bounded laboratory-token search.

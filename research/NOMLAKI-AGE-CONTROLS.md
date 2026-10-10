@@ -30,3 +30,6 @@ The source strengthens the documented northern relative sequence and makes the a
 This does not transfer a numerical age to the Hart Mine Wash fossil-bearing target in southern Bouse. The original northern section must be connected to that exact target through measured contacts and defensible correlations. Nor do these ages establish a continuous historical Gulf-to-Pacific passage. Environmental evidence, chronology and route geometry remain separate requirements.
 
 Next recover the four original extrapolation sections' age-depth controls and the error-model recipe; inspect sample-specific ash texture/contacts for primary deposition; then trace a measured northern-to-target stratigraphic connection. A repeated regional age citation cannot close those gaps. See [Bouse age-transfer rules](BOUSE-AGE-TRANSFER.md).
+
+
+Follow-up: the [original Willow Wash control](WILLOW-WASH-NOMLAKI.md) retains unresolved candidate-layer identity and chronology conflicts. Establish the later layer selection before reproducing the2008extrapolation.

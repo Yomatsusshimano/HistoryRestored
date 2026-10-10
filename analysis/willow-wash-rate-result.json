@@ -1,0 +1,9 @@
+{
+  "source_id": "S326",
+  "input_locator": "Printed59/PDF60",
+  "duration_kyr": 1400.0,
+  "computed_rate_cm_per_kyr": 35.714285714285715,
+  "reported_rounded_rate_cm_per_kyr": 36,
+  "agrees_when_rounded_to_integer": true,
+  "scope": "Dimensional arithmetic on rounded reported inputs; not independent dating or reproduction of2008Nomlaki extrapolation."
+}

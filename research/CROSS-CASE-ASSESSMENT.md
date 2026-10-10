@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Original Willow Wash control and unresolved ash identity
+
+S326 original scans retain multiple Nomlaki-like layers, reworking, an unconformity and older Rimrock age conflict. Reported36cm/kyr average arithmetic is reproducible, but the specific2008extrapolation is not. Next establish the selected layer and later resolution before age fitting. See [audit](WILLOW-WASH-NOMLAKI.md). 28 drafts/326 sources; no historical age or independent review established.
+
 ### 2026-10-09 — Original Nomlaki age construction and northern contacts
 
 S325 original methods derive both regional tephra ages from paired extrapolations and a shared empirical error model. Later fan deposits are described above an erosion surface cut on Bullhead; primary ash and target-bed correlation remain unverified. See [audit](NOMLAKI-AGE-CONTROLS.md). 28 drafts/325 sources; no historical age, continuous passage or independent review established.
