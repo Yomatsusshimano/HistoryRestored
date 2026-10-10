@@ -86,3 +86,5 @@ Latest reference-age audit: [Danville correlation reasoning](research/DANVILLE-C
 Latest analytical follow-up: [Danville/Ohlson INAAreference check](research/DANVILLE-INAA-REFERENCE-CHECK.md).
 
 Latest original dating record: [Ohlson1988laboratory report and1989context](research/OHLSON-ASH-1989-CONTEXT.md).
+
+Latest ecological and geographic check: [Ohlson faunal letter and projected shoreline](research/OHLSON-FAUNA-SHORELINE.md).

@@ -11,9 +11,14 @@
   "scan_inspected_pdf_pages_1based": [
     1,
     174,
+    177,
+    178,
+    182,
     192,
     193,
-    256
+    256,
+    258,
+    259
   ],
   "publication_year": 1989,
   "submission_date": "1988-12-01",
@@ -88,5 +93,58 @@
     "FLV119": null
   },
   "later_near_base_description": "S327; bed identity not established, not a verified contradiction",
-  "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+  "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+  "faunal_letter": {
+    "author": "J. C. Ingle",
+    "date": "1988-02-12",
+    "pdf_pages": [
+      258,
+      259
+    ],
+    "printed_pages": [
+      249,
+      250
+    ],
+    "Ohlson_samples": [
+      "87-OR-51A",
+      "87-OR-51B",
+      "87-OR-54"
+    ],
+    "Point_Arena_comparator": "86-PAOR-1",
+    "slide_51A": "Arranged and numbered",
+    "slides_51B_and_54": "Scatter mounts",
+    "depth_m_source_interpretation": [
+      30,
+      60
+    ],
+    "depth_uncertainty": null,
+    "living_taxa": "Not definitive age diagnostic; source interprets broad post-Miocene and suggests mid/late Pliocene",
+    "numerical_age_likelihood": null,
+    "dated_ash_field_section_join": null,
+    "modern_calibration_cited": "Quinterno and Gardner1987, Journal of Foraminiferal Research17,132-152",
+    "modern_calibration_reproduced": false,
+    "proposed_terrace_test_completed": null
+  },
+  "shoreline_correlation": {
+    "figure": "4-3",
+    "pdf_pages": [
+      177,
+      178,
+      182
+    ],
+    "map_elements": [
+      "Formation patches",
+      "Approximate shoreline",
+      "Projected shoreline",
+      "Point Arena marine deposit"
+    ],
+    "surface_classes": [
+      "Formation preserved",
+      "Formation inferred stripped",
+      "Deeply weathered surfaces interpreted never covered"
+    ],
+    "source_correlation_status": "Compatible, not proved",
+    "independent_survey": false,
+    "combined_depth_platform_uplift_calculated": false
+  }
 }

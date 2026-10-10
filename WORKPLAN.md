@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Marine ecology and shoreline correlation separated
+
+Original Ingleletter names faunal slides and separates marine shelf30-60m interpretation from uncertain age. Figure4-3and source discussion retain projected shoreline/conditional Point Arena correlation. See [audit](research/OHLSON-FAUNA-SHORELINE.md). 28 drafts/331 sources; no measured uplift or independent review.
+
 ### 2026-10-09 — Original Ohlson fission-track report recovered
 
 S331original laboratory report identifies86-FR-1HP/DF5762, six zircon grains and3.3±0.8Ma(2sigma). Source uses ash as approximate maximum age for later retreat; near-top/base identity remains unjoined. See [audit](research/OHLSON-ASH-1989-CONTEXT.md). 28 drafts/331 sources; no historical date or independent review.

@@ -34,3 +34,5 @@ The [2021 discussion already audited](DANVILLE-CORRELATION-REASONING.md) describ
 The dissertation narrows the retrieval task to a named sample and laboratory report. Next recover the field location and section position of86-FR-1HP, the2012dated-sample identifiers and analytical methods, and any explicit link to OH-2A. An ash age, chemical correlation and shoreline-retreat bound must remain separate until those joins are established. This source supplies no historical catastrophe date, continuous Gulf-to-Pacific passage or historical-fabrication mechanism.
 
 The source PDF and scan images are not redistributed; provenance and transcribed report fields are retained in [structured context](../data/ohlson-ash-1989-context.json).
+
+Follow-up: [original faunal letter and shoreline map](OHLSON-FAUNA-SHORELINE.md) distinguish environmental evidence, uncertain age and conditional geographic correlation.
