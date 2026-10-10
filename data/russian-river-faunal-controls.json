@@ -15,6 +15,13 @@
       "bytes": 1899434,
       "sha256": "f2595a02859bcd8c9513aa90bfd03031641f4818b5dae322aa97413757bdc6c7",
       "redistributed": false
+    },
+    {
+      "source_id": "S334",
+      "filename": "russian-river1983.pdf",
+      "bytes": 854066,
+      "sha256": "f9531562d6b7a1f11b20c1bed5294b8fe3763daeb2e9ae846d737bcbb42783b5",
+      "redistributed": false
     }
   ],
   "S332": {
@@ -91,10 +98,160 @@
         "percentage_pdf_page": 32
       }
     ],
-    "CIBFLT_taxon_expansion": null,
+    "CIBFLT_taxon_expansion": "Cibicides fletcheri; explicit S334related-study key",
     "depth_correction": null,
     "coordinate_datum": null,
-    "full_matrix_transcribed": false
+    "full_matrix_transcribed": false,
+    "L1_81_CIBFLT_complete_column": [
+      {
+        "sample": "L1-81-Bx3",
+        "depth_m_uncorrected": 94,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx6",
+        "depth_m_uncorrected": 85,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx7",
+        "depth_m_uncorrected": 133,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx8",
+        "depth_m_uncorrected": 76,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx9",
+        "depth_m_uncorrected": 68,
+        "CIBFLT_percent": 7.5,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx10",
+        "depth_m_uncorrected": 53,
+        "CIBFLT_percent": 9.2,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx11",
+        "depth_m_uncorrected": 220,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx12",
+        "depth_m_uncorrected": 145,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx13",
+        "depth_m_uncorrected": 142,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx14",
+        "depth_m_uncorrected": 116,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx15",
+        "depth_m_uncorrected": 26,
+        "CIBFLT_percent": 4.6,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx16",
+        "depth_m_uncorrected": 21,
+        "CIBFLT_percent": 5,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx17",
+        "depth_m_uncorrected": 35,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx19",
+        "depth_m_uncorrected": 59,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx20",
+        "depth_m_uncorrected": 73,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx21",
+        "depth_m_uncorrected": 88,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx22",
+        "depth_m_uncorrected": 40,
+        "CIBFLT_percent": 34,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx27",
+        "depth_m_uncorrected": 99,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx28",
+        "depth_m_uncorrected": 123,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx29",
+        "depth_m_uncorrected": 120,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      },
+      {
+        "sample": "L1-81-Bx30",
+        "depth_m_uncorrected": 138,
+        "CIBFLT_percent": 0,
+        "depth_pdf_page": 7,
+        "percentage_pdf_page": 32
+      }
+    ],
+    "selected_rows_selection": "All five nonzero entries in this21row cruise column; not random sample"
   },
   "joins": {
     "S333_to_exact_S332_sample_selection": null,
@@ -104,5 +261,16 @@
     "depth_classifier_executed": false,
     "uplift_calculated": false,
     "event_date_assigned": false
+  },
+  "S334": {
+    "visually_inspected_pdf_pages": [
+      1,
+      11
+    ],
+    "pdf_pages": 54,
+    "key": {
+      "CIBFLT": "Cibicides fletcheri"
+    },
+    "key_printed_page": 8
   }
 }

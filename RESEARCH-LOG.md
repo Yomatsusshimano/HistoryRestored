@@ -1766,3 +1766,10 @@ Previous goal turn made progress:6431001published original laboratory report,10f
 S332official modern-study abstract and S333original related data report recover ecological depth bands, sample processing and five depth/percentage joins. No exact1987matrix join, taxon expansion or Ohlson depth validation. See [audit](research/RUSSIAN-RIVER-FAUNAL-CALIBRATION.md). 28 drafts/333 sources; no uplift or event date.
 
 Previous goal turn made progress:7131357published original faunal-letter/map audit and10files byte-verified; clean checkout revalidated. Webtool metadata fetches timed out/403, normal official HTML/PDFdownloads succeeded. Full1987article remains unacquired. Seven1984scans inspected; Table2key incomplete for target token, kept unresolved. Five named joins are selected diagnostics rather than model fitting or representative prevalence. Local parser missingbs4and shellquoting error resolved with standard-library file parser; no source data fabricated. No outreach, independent review or completion.
+
+
+### 2026-10-09 — Species key and complete cruise column
+
+S334original companion key expands CIBFLT; complete S33321row column retains all zeros and five positives at21-68m. Single-taxon presence cannot enforce an exclusive<50m rule; assemblage model untested. See [audit](research/RUSSIAN-RIVER-SPECIES-CODE.md). 28 drafts/334 sources; no fossil date or uplift.
+
+Previous goal turn made progress:81b3be7published calibration controls,10files byte-verified; clean checkout revalidated. Exactcode search found companion explicit key; normal officialPDF acquired and two scans inspected. Previously inspected1984table/depth scans support complete21row transcription and count summary. Five positive entries retained alongside16roundedzeros; selection description clarified. No exact1987matrix, rawcounts, transport diagnosis, specimen reidentification, uplift, outreach or independentreview.

@@ -31,3 +31,5 @@ The raw column token is retained: the inspected Table2key does not supply its ex
 The calibration search now has primary methods, sample identifiers and a readable numerical table, rather than only an ecological conclusion. Next resolve the column dictionary, acquire the1987full methods/sample selection, transcribe the relevant complete assemblage matrix with independent verification, and test depth prediction on held-out modern samples before application to fossil assemblages. Fossil counts, preservation, reworking and field-section joins remain necessary.
 
 No palaeodepth likelihood, uplift magnitude, catastrophe chronology or common event is established here. Original source files are retained locally with hashes in [structured controls](../data/russian-river-faunal-controls.json); source access and inspection scopes remain distinct.
+
+Follow-up: [companion species key and complete21row column](RUSSIAN-RIVER-SPECIES-CODE.md) recover CIBFLTexpansion and clarify that the five earlier rows are all nonzero entries in this cruise column. Earlier unknown status is preserved above as inspection history; no specimen reidentification is claimed.

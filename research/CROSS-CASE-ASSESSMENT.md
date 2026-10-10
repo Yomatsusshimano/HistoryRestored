@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Species key and complete cruise column
+
+S334original companion key expands CIBFLT; complete S33321row column retains all zeros and five positives at21-68m. Single-taxon presence cannot enforce an exclusive<50m rule; assemblage model untested. See [audit](RUSSIAN-RIVER-SPECIES-CODE.md). 28 drafts/334 sources; no fossil date or uplift.
+
 ### 2026-10-09 — Modern faunal calibration controls recovered
 
 S332official modern-study abstract and S333original related data report recover ecological depth bands, sample processing and five depth/percentage joins. No exact1987matrix join, taxon expansion or Ohlson depth validation. See [audit](RUSSIAN-RIVER-FAUNAL-CALIBRATION.md). 28 drafts/333 sources; no uplift or event date.

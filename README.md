@@ -90,3 +90,5 @@ Latest original dating record: [Ohlson1988laboratory report and1989context](rese
 Latest ecological and geographic check: [Ohlson faunal letter and projected shoreline](research/OHLSON-FAUNA-SHORELINE.md).
 
 Latest calibration recovery: [Russian River modern faunal controls](research/RUSSIAN-RIVER-FAUNAL-CALIBRATION.md).
+
+Latest calibration check: [species key and complete cruise column](research/RUSSIAN-RIVER-SPECIES-CODE.md).

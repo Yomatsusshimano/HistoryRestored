@@ -5133,8 +5133,22 @@
       "url": "https://pubs.usgs.gov/of/1984/0369/report.pdf",
       "source_type": "Original USGS Open-File Report84-369;119PDFpages,118printed pages",
       "access": "SCAN_INSPECTED",
-      "inspected": "PDF1-3/7/10-11/32 visually inspected: title/byline, introduction, foraminifer processing, Table1firstpage, Table2key and Table9selected CIBFLTcolumn. Five depth/percentage rows transcribed; fullreport text-searched for table locations.",
-      "limitations": "No full119page review or fullmatrix transcription. CIBFLT expansion absent from inspected key; not inferred. Uncorrected depths/datum and exact1987sample selection unresolved; no fossil calibration or independent validation."
+      "inspected": "PDF1-3/7/10-11/32 visually inspected: title/byline, introduction, foraminifer processing, Table1firstpage, Table2key and Table9selected CIBFLTcolumn. Five depth/percentage rows transcribed; fullreport text-searched for table locations. Follow-up retains all21L1-81Table9CIBFLTentries, including16printed zeros, and their Table1depth joins. Code expanded through explicit S334companion dictionary, not guessed.",
+      "limitations": "No full119page review or fullmatrix transcription. CIBFLT expansion absent from inspected key; not inferred. Uncorrected depths/datum and exact1987sample selection unresolved; no fossil calibration or independent validation. CIBFLTdictionary now recovered in S334; actual specimen taxonomic reidentification and exact1987selection remain unverified."
+    },
+    {
+      "id": "S334",
+      "title": "Quantitative microfossil, sedimentologic, and geochemical data on cores V1-80-P3, V1-80-G1, and V1-80-P8 from the continental slope off northern California",
+      "creator": "James V. Gardner; John A. Barron; Walter E. Dean; Linda E. Heusser; David H. Klise; Richard Z. Poore; Paula J. Quinterno; Sean M. Stone",
+      "publication_date": "1983",
+      "url": "https://pubs.usgs.gov/of/1983/0083/report.pdf",
+      "source_type": "Original USGS Open-File Report83-83, companion cited by S333",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF1/11visually inspected: title/byline and Table2printed8explicit CIBFLT=Cibicides fletcheri key. No other54PDFpage audit.",
+      "limitations": "Related-study dictionary, not specimen reidentification, complete matrix, full1987sample selection or fossil depth model.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
