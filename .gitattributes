@@ -14,3 +14,6 @@ sources/originals/invention/** -text
 sources/originals/wildlife/rodent2018/** -text
 sources/originals/wildlife/bats2017/** -text
 sources/originals/missoula/lynch-terrain/** -text whitespace=cr-at-eol
+sources/originals/missoula/babcock-quads/** -text whitespace=cr-at-eol
+sources/originals/missoula/babcock-quads/*.pdf binary
+sources/originals/missoula/babcock-quads/*.tif binary

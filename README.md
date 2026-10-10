@@ -96,3 +96,5 @@ Latest calibration check: [species key and complete cruise column](research/RUSS
 Latest physical-model input audit: [complete Missoula controls](research/MISSOULA-COMPLETE-CONTROLS.md), all47published rows, preserved discrepancies and bounds.
 
 Latest divide follow-up: [modern terrain and original control labels](research/LYNCH-BABCOCK-TERRAIN.md). Related [published discovery-credit correction](research/MISSOULA-CREDIT-CORRECTION.md).
+
+Historical-map follow-up: [Babcock editions and datum audit](research/BABCOCK-QUAD-DATUM.md). Candidate maps identify a contour-interval/source-match gap; original field edition and a justified vertical comparison remain unresolved.

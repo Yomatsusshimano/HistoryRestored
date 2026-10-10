@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Historical quad editions and datum audit
+
+Two candidate USGS Babcock sheets share1964/1966 surveys and print10ft main contours, differing from S27reported20ft for the crossing. One explicitly namesNGVD1929; the other says mean sea level. Executed horizontal registration does not authenticate field boundaries or correct vertical elevations.28drafts/339sources; all twenty objectives remain active. See [map audit](BABCOCK-QUAD-DATUM.md).
+
 ### 2026-10-09 — Modern terrain and a published discovery-credit correction
 
 S335 ten USGS queries identify one 1 m NAVD88 raster; nominal crossing/noncrossing terrain 431.602/434.117 m reverses S27 printed field ordering, without correcting ancient stages or authenticating original surveys. Original S11 Table 3 distinguishes Babcock crossing from separate Lynch erratic. S336 authors’ corrigendum credits Thomas Cooney for four discoveries and reports revision/name errors; first-posting bytes and intent unverified. See [terrain audit](LYNCH-BABCOCK-TERRAIN.md) and [credit correction](MISSOULA-CREDIT-CORRECTION.md).28 drafts / 336 sources; all twenty objectives remain active.

@@ -103,3 +103,5 @@ A useful discriminating observation is a measured Bat Cave cut section tying BC0
 ### 2026-10-09 — Modern terrain follow-up
 
 The [modern surface check](research/LYNCH-BABCOCK-TERRAIN.md) reverses the crossing/noncrossing nominal ground ordering, using one USGS 1 m NAVD88 raster. This prioritizes original elevation/registration verification; modern values do not replace S27 modified terrain, authenticate noncrossing evidence or establish ancient peak stages.
+
+Historical-map follow-up: [Babcock editions and datum audit](research/BABCOCK-QUAD-DATUM.md). Candidate maps identify a contour-interval/source-match gap; original field edition and a justified vertical comparison remain unresolved.

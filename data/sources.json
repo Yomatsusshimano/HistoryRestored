@@ -5204,6 +5204,74 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S337",
+      "title": "Babcock Ridge historical topographic sheet, USGS copy 239888, 1992 imprint",
+      "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Babcock%20Ridge_239888_1966_24000_geo.pdf",
+      "creator": "U.S. Geological Survey",
+      "source_type": "Original USGS Historical Topographic Map Collection GeoPDF",
+      "access": "SCAN_INSPECTED",
+      "local_copy": "sources/originals/missoula/babcock-quads/239888.pdf",
+      "inspected": "Full sheet, margins and control-area crop visually inspected. 10 ft main and 5 ft supplementary contours; NAD27 polyconic horizontal reference; NGVD1929 explicitly printed. Embedded registration checked internally, not against a ground survey.",
+      "limitations": "Candidate map edition only; flood authors actual edition/annotations unacquired. Shares 1964 aerial photography and 1966 field checking with other copy. No exact contour interpolation, field elevation correction or vertical transformation.",
+      "date_note": "Catalog year1966; aerial photography1964; field checking1966; printed imprint1992. Catalog January1 and digital processing dates are not exact terrain observation dates.",
+      "retrievals": [
+        {
+          "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Babcock%20Ridge_239888_1966_24000_geo.pdf",
+          "sha256": "b5bee4e65e1c84eb089b003a1fce9a6a76c3767c10d00542b78f39f8309f67dd",
+          "public_mirror_in_this_repository": true
+        }
+      ],
+      "doi": null,
+      "publication_date": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S338",
+      "title": "Babcock Ridge historical topographic sheet, USGS copy 239889, 1968 imprint",
+      "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Babcock%20Ridge_239889_1966_24000_geo.pdf",
+      "creator": "U.S. Geological Survey",
+      "source_type": "Original USGS Historical Topographic Map Collection GeoPDF",
+      "access": "SCAN_INSPECTED",
+      "local_copy": "sources/originals/missoula/babcock-quads/239889.pdf",
+      "inspected": "Full sheet, margins and control-area crop visually inspected. 10 ft main and 5 ft supplementary contours; NAD27 polyconic horizontal reference; mean sea level wording; specific datum not authenticated. Embedded registration checked internally, not against a ground survey.",
+      "limitations": "Candidate map edition only; flood authors actual edition/annotations unacquired. Shares 1964 aerial photography and 1966 field checking with other copy. No exact contour interpolation, field elevation correction or vertical transformation.",
+      "date_note": "Catalog year1966; aerial photography1964; field checking1966; printed imprint1968. Catalog January1 and digital processing dates are not exact terrain observation dates.",
+      "retrievals": [
+        {
+          "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Babcock%20Ridge_239889_1966_24000_geo.pdf",
+          "sha256": "62699adc53e1e88ede2e05f9fca025fe6dbd5e5694801df2192c158982e47bc2",
+          "public_mirror_in_this_repository": true
+        }
+      ],
+      "doi": null,
+      "publication_date": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S339",
+      "title": "NOAA CONUS NAD27-to-NAD83 horizontal grid distributed by PROJ",
+      "url": "https://cdn.proj.org/us_noaa_conus.tif",
+      "creator": "NOAA; PROJ grid distribution",
+      "source_type": "Horizontal-offset grid and provider catalog entry",
+      "access": "FULL_TEXT_PORTION",
+      "local_copy": "sources/originals/missoula/babcock-quads/us_noaa_conus.tif",
+      "inspected": "Complete retained catalog entry, actual file byte length and SHA256 verified against provider catalog. Executed as part of WGS84-to-NAD27 operation with existing Washington/Oregon grid.",
+      "limitations": "Horizontal coordinate transformation only; provider operation accuracy is not a measured control-point uncertainty. No vertical correction, field validation or flood reconstruction.",
+      "retrievals": [
+        {
+          "url": "https://cdn.proj.org/us_noaa_conus.tif",
+          "sha256": "44611d823c48e5347500ee6afe40ff33d2b88cf817bf59f705ed4a4c3bd687d7",
+          "public_mirror_in_this_repository": true
+        }
+      ],
+      "doi": null,
+      "publication_date": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

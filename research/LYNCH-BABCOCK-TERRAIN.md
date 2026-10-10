@@ -22,3 +22,5 @@ S11's original author-linked PDF Table 3, printed/PDF p. 40, was visually inspec
 The shared O'Connor interpretation, authors and field sources prevent counting S11 and S27 as independent confirmation. Selected-page inspection does not establish whether the noncrossing control is absent from every other part of S11. The original field notebook, quad edition, datum and geomorphic evidence remain needed.
 
 Raw public-service [responses and acquisition ledger](../sources/originals/missoula/lynch-terrain/acquisition.json) are preserved unchanged with hashes. The [offline audit](../analysis/lynch_terrain_audit.py) verifies responses and reproduces [results](../analysis/lynch-terrain-audit-result.json). Copyrighted review PDF remains linked rather than redistributed. This is retrospective input investigation, not a successful held-out prediction.
+
+Historical-map follow-up: [Babcock editions and datum audit](BABCOCK-QUAD-DATUM.md). Candidate maps identify a contour-interval/source-match gap; original field edition and a justified vertical comparison remain unresolved.

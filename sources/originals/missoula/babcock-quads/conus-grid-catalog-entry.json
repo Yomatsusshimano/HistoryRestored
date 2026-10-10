@@ -1,0 +1,23 @@
+{
+  "url": "https://cdn.proj.org/us_noaa_conus.tif",
+  "name": "us_noaa_conus.tif",
+  "area_of_use": "USA - Conterminous",
+  "type": "HORIZONTAL_OFFSET",
+  "source_crs_code": "EPSG:4267",
+  "source_crs_name": "NAD27",
+  "target_crs_code": "EPSG:4269",
+  "target_crs_name": "NAD83",
+  "source": "US National Oceanographic and Atmospheric Administration (NOAA)",
+  "source_country": "USA",
+  "source_id": "us_noaa",
+  "source_url": "https://www.ngs.noaa.gov/",
+  "description": "NAD27 (EPSG:4267) to NAD83 (EPSG:4269)",
+  "full_bbox": [
+    -131.0,
+    20.0,
+    -63.0,
+    50.0
+  ],
+  "file_size": 173029,
+  "sha256sum": "44611d823c48e5347500ee6afe40ff33d2b88cf817bf59f705ed4a4c3bd687d7"
+}

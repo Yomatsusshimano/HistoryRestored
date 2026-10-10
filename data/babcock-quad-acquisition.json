@@ -1,0 +1,37 @@
+{
+  "acquired_date": "2026-10-09",
+  "catalog_query_url": "https://tnmaccess.nationalmap.gov/api/v1/products?datasets=Historical%20Topographic%20Maps&bbox=-119.970,47.210,-119.966,47.213&max=100",
+  "catalog_total": 14,
+  "selected_source_ids": [
+    "5a8a2b8ee4b00f54eb3ca691",
+    "5a8a2b8ee4b00f54eb3ca697"
+  ],
+  "files": [
+    {
+      "path": "sources/originals/missoula/babcock-quads/239888.pdf",
+      "bytes": 12315248,
+      "sha256": "b5bee4e65e1c84eb089b003a1fce9a6a76c3767c10d00542b78f39f8309f67dd"
+    },
+    {
+      "path": "sources/originals/missoula/babcock-quads/239889.pdf",
+      "bytes": 11548585,
+      "sha256": "62699adc53e1e88ede2e05f9fca025fe6dbd5e5694801df2192c158982e47bc2"
+    },
+    {
+      "path": "sources/originals/missoula/babcock-quads/conus-grid-catalog-entry.json",
+      "bytes": 712,
+      "sha256": "cb3bb9a0cac90f4feb1635432a2f24671bb685d8154176e4f09175af870afb2a"
+    },
+    {
+      "path": "sources/originals/missoula/babcock-quads/tnm-products.json",
+      "bytes": 21833,
+      "sha256": "68281a745f2584f8932ab6bb1ff6b3ad5c5f950fd6824fe83e254b2177a2e64e"
+    },
+    {
+      "path": "sources/originals/missoula/babcock-quads/us_noaa_conus.tif",
+      "bytes": 173029,
+      "sha256": "44611d823c48e5347500ee6afe40ff33d2b88cf817bf59f705ed4a4c3bd687d7"
+    }
+  ],
+  "notes": "Downloaded PDF sizes differ from catalog sizeInBytes; retrieved files are independently hashed, no provider checksum claimed. Provider checksum for conus grid agrees. Original maps preserved unchanged; selected scans and map-coordinate calculations, not source field authentication."
+}
