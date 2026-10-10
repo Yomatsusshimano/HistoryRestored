@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Original Ohlson fission-track report recovered
+
+S331original laboratory report identifies86-FR-1HP/DF5762, six zircon grains and3.3±0.8Ma(2sigma). Source uses ash as approximate maximum age for later retreat; near-top/base identity remains unjoined. See [audit](research/OHLSON-ASH-1989-CONTEXT.md). 28 drafts/331 sources; no historical date or independent review.
+
 ### 2026-10-09 — Original neutron-activation reference rows
 
 S327TableS3supplies four laboratory analyses of two Danville/Ohlson identifiers; units/missingDy and descriptive paired differences retained. No FLV119trace-element join or statistical correlation acceptance. See [audit](research/DANVILLE-INAA-REFERENCE-CHECK.md). 28 drafts/330 sources; no independent review or age transfer.

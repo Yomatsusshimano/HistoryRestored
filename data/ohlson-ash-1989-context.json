@@ -1,0 +1,92 @@
+{
+  "source_id": "S331",
+  "source_url": "https://thesis.caltech.edu/238/13/Prentice_cs_1989.pdf",
+  "accessed_date": "2026-10-09",
+  "original_pdf": {
+    "bytes": 8049246,
+    "sha256": "ebbeffec518368b14c03d3849346fa76319d78dc7dece3ac2b08ee38fdac74ff",
+    "pages": 261,
+    "redistributed": false
+  },
+  "scan_inspected_pdf_pages_1based": [
+    1,
+    174,
+    192,
+    193,
+    256
+  ],
+  "publication_year": 1989,
+  "submission_date": "1988-12-01",
+  "report": {
+    "pdf_page": 256,
+    "printed_page": 247,
+    "date": "1988-05-13",
+    "analyst": "C. W. Naeser",
+    "sample_id": "86-FR-1HP",
+    "laboratory_number": 5762,
+    "laboratory_prefix": "DF",
+    "mineral": "ZIRCON",
+    "grains": 6,
+    "fossil_track_density": {
+      "value": 0.533,
+      "scale": 1000000.0,
+      "unit": "tracks/cm2"
+    },
+    "fossil_tracks_counted": 74,
+    "induced_track_density": {
+      "value": 9.46,
+      "scale": 1000000.0,
+      "unit": "tracks/cm2"
+    },
+    "induced_tracks_counted": 657,
+    "neutron_dose": {
+      "value": 0.988,
+      "scale": 1000000000000000.0,
+      "unit": "neutrons/cm2"
+    },
+    "dose_tracks_counted": 2638,
+    "s_prime": null,
+    "age_ma": 3.3,
+    "uncertainty_ma": 0.8,
+    "uncertainty_convention": "2sigma",
+    "printed_spontaneous_fission_constant_per_year": 7.03e-17,
+    "age_recomputed": false,
+    "grain_level_counts": null,
+    "calibration_standard": null
+  },
+  "emplacement_context": {
+    "pdf_page": 174,
+    "printed_page": 165,
+    "dated_tuff_beds": 1,
+    "original_zircon_component": "Source interpretation from limited abrasion",
+    "quiet_marine_bay": "Source interpretation from lithology, fossils and limited ash reworking",
+    "internal_unconformity": "Possible; not confirmed in source"
+  },
+  "geomorphic_use": {
+    "pdf_pages": [
+      192,
+      193
+    ],
+    "printed_pages": [
+      183,
+      184
+    ],
+    "ash_position": "Apparently near top of section, source description",
+    "event": "Proposed shoreline retreat and initial drainage formation",
+    "age_role": "Approximate maximum age; unknown younger interval to features",
+    "offset_km_reported": 50,
+    "slip_rate_mm_per_year_reported": [
+      12,
+      20
+    ],
+    "offset_independently_verified": false
+  },
+  "later_sample_joins": {
+    "OH-2A": null,
+    "2012_dated_zircon": null,
+    "2012_dated_biotite": null,
+    "FLV119": null
+  },
+  "later_near_base_description": "S327; bed identity not established, not a verified contradiction",
+  "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+}

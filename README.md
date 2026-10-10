@@ -84,3 +84,5 @@ Latest ash follow-up: [2008printed-vector crosswalk](research/ARTISTS-DRIVE-2008
 Latest reference-age audit: [Danville correlation reasoning](research/DANVILLE-CORRELATION-REASONING.md).
 
 Latest analytical follow-up: [Danville/Ohlson INAAreference check](research/DANVILLE-INAA-REFERENCE-CHECK.md).
+
+Latest original dating record: [Ohlson1988laboratory report and1989context](research/OHLSON-ASH-1989-CONTEXT.md).

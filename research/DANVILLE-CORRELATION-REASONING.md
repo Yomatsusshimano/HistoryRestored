@@ -33,3 +33,5 @@ Next inspect the original neutron-activation analyses for the Danville/Ohlson re
 
 
 Follow-up: [original INAAreference rows](DANVILLE-INAA-REFERENCE-CHECK.md) recover the fouranalyses and descriptive comparisons; measurementerrors and datedaliquot/FLV119joins remain open.
+
+Earlier record: [original1988fission-track report](OHLSON-ASH-1989-CONTEXT.md) supplies86-FR-1HP/DF5762and a shoreline-retreat maximum-age interpretation. Its join to the later dated samples is unestablished.

@@ -1745,3 +1745,10 @@ Previous goal turn made progress:48fab9a published exactvector crosswalk,13files
 S327TableS3supplies four laboratory analyses of two Danville/Ohlson identifiers; units/missingDy and descriptive paired differences retained. No FLV119trace-element join or statistical correlation acceptance. See [audit](research/DANVILLE-INAA-REFERENCE-CHECK.md). 28 drafts/330 sources; no independent review or age transfer.
 
 Previous goal turn made progress:f5e60a1 published Danville reasoning,11files byte-verified; clean checkout revalidated. OriginalS3already acquired/hashchecked; bounded32column extraction recovered four targetrows. ExposedmainTable2Acompared withoutscanclaim: firstanalysisnumber omitted, Dyrounding and generalppmnote distinguished from explicitworkbookFepercent. Read-only extractor excludes missing-1fromdiagnostics and preservesallrawcells. No inferred measurementerrors, acceptance threshold, newfieldreplicates, datedsamplejoin, outreach or completion.
+
+
+### 2026-10-09 — Original Ohlson fission-track report recovered
+
+S331original laboratory report identifies86-FR-1HP/DF5762, six zircon grains and3.3±0.8Ma(2sigma). Source uses ash as approximate maximum age for later retreat; near-top/base identity remains unjoined. See [audit](research/OHLSON-ASH-1989-CONTEXT.md). 28 drafts/331 sources; no historical date or independent review.
+
+Previous research publication a199e34 made progress: original INAA rows recovered and12files publicly byte-verified. The intervening status turn restated findings without changing research state; clean current checkout and remote main revalidated before proceeding. Selected dissertation scans now inspected; Appendix B search unexpectedly recovered original laboratory row. OCR sample token corrected against scan to86-FR-1HP. No full dissertation review, reduction reconstruction, same-bed assumption, outreach or goal completion. Source PDF retained locally; rights do not authorize blanket redistribution.
