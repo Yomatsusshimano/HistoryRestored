@@ -40,3 +40,6 @@ Follow-up: [2018original supplement](DEATH-VALLEY-2018-CONTROLS.md) preserves la
 
 
 Follow-up: [2008printed-vector crosswalk](ARTISTS-DRIVE-2008-CROSSWALK.md) matches all nine FLV119oxide values to the later lightfraction record, while preserving different group assignments and unverified physical identity.
+
+
+Follow-up: [Danville correlation reasoning](DANVILLE-CORRELATION-REASONING.md) separates an acknowledged local identification change and reported reference ages from the unresolvedFLV119decision.

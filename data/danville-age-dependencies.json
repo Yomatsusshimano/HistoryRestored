@@ -1,0 +1,47 @@
+{
+  "source_id": "S327",
+  "access": "AUTHOR_UPLOADED_MAIN_TEXT_PORTION",
+  "locator": "Danville discussion printed420-421",
+  "original_report_acquired": false,
+  "original_report_reference": "McLaughlin et al.2012b, The Ash of Ohlson Ranch, AGU Fall Meeting abstract; original not acquired",
+  "reported_dates": [
+    {
+      "material": "zircon interiors",
+      "method": "U-Pb",
+      "age_Ma": 4.58,
+      "reported_error_Ma": 0.3,
+      "sigma_multiplier": 2
+    },
+    {
+      "material": "zircon interiors",
+      "method": "U-Pb",
+      "age_Ma": 4.36,
+      "reported_error_Ma": 0.11,
+      "sigma_multiplier": 2
+    },
+    {
+      "material": "zircon rims",
+      "method": "U-Pb",
+      "age_Ma": 4.367,
+      "reported_error_Ma": 0.042,
+      "sigma_multiplier": 2
+    },
+    {
+      "material": "biotite",
+      "method": "Ar-Ar",
+      "age_Ma": 4.9,
+      "reported_error_Ma": 0.8,
+      "sigma_multiplier": 2
+    }
+  ],
+  "sample_ids": null,
+  "direct_FLV119_date": null,
+  "combined_age_reported_Ma": 4.57,
+  "combined_error_reported_Ma": 0.4,
+  "combined_sigma_multiplier": null,
+  "combined_recipe_reproduced": false,
+  "Danville_Lawlor_contact": "Source explicitly says not together at one site; ordering projected laterally",
+  "acknowledged_early_misidentification_scope": "Danville southwest of Mount Diablo as Nomlaki, communication circa1990",
+  "FLV119_reassignment_reason": null,
+  "independent_review": false
+}

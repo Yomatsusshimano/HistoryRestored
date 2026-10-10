@@ -31,3 +31,6 @@ The prose explicitly replaces the earlier lower-Nomlaki name with tuff of Artist
 The passage contrasts heterogeneous Nomlaki glass with the Artists Drive tuff using CaO/Fe2O3 and Figure7. The figure has not been inspected here; no distribution or component separation is reproduced. Quantitative rare-earth discrimination from the2001guide remains a separate unresolved route.
 
 Next recover the2021Danville correlation decision and complete FLV119component analyses, then authenticate the original2008table against a scan. Keep the2008correlation coefficient separate from the age-depth extrapolation recipe and from independent evidence of primary ash emplacement.
+
+
+Follow-up: [Danville correlation reasoning](DANVILLE-CORRELATION-REASONING.md) separates an acknowledged local identification change and reported reference ages from the unresolvedFLV119decision.

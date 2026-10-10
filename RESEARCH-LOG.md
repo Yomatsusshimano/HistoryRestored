@@ -1731,3 +1731,10 @@ Previous goal turn made progress:16d7e9a published Artists Drive primary control
 S330Table2FLV119nine values match S327lightfraction under a different group heading. Four declared coefficient diagnostics reproduce rounded source values; physical aliquots, reassignment rationale and whole-bed identity remain open. See [audit](research/ARTISTS-DRIVE-2008-CROSSWALK.md). 28 drafts/330 sources; no regional age transfer or independent review.
 
 Previous goal turn made progress:c3a1b6a published later names/methods,11files byte-verified; clean checkout revalidated. Original2008author-uploaded text located; PDF403/tableimage404respected. Selected numerical rows and notes inspected as text only. Exactvector comparison and four coefficient checks executed from retained inputs; no originalscans or1972formula implementation claimed. No new physical age, trace-element/shard classification, outreach or goal completion.
+
+
+### 2026-10-09 — Danville identification reasoning and age dependencies
+
+S327maintext acknowledges a local Danville/Nomlaki identification revision and reports Ohlson mineral ages plus projected stratigraphy. This does not document FLV119reassignment or date its whole bed. See [audit](research/DANVILLE-CORRELATION-REASONING.md). 28 drafts/330 sources; no independent review or regional date transfer.
+
+Previous goal turn made progress:48fab9a published exactvector crosswalk,13files byte-verified; clean checkout revalidated. Selected2021mainDanvilletext and2012reference read; renewed search did not acquire original2012abstract. No new source record for unacquired citation. Reported zircon/biotite uncertainty conventions retained without original assay claim, new weighting or Gaussian inference. OriginalINAAcomparison and specificFLV119decision remain next tests. No outreach or completion.

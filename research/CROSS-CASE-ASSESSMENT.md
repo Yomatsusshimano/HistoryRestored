@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Danville identification reasoning and age dependencies
+
+S327maintext acknowledges a local Danville/Nomlaki identification revision and reports Ohlson mineral ages plus projected stratigraphy. This does not document FLV119reassignment or date its whole bed. See [audit](DANVILLE-CORRELATION-REASONING.md). 28 drafts/330 sources; no independent review or regional date transfer.
+
 ### 2026-10-09 — Exact printed-vector match across ash assignments
 
 S330Table2FLV119nine values match S327lightfraction under a different group heading. Four declared coefficient diagnostics reproduce rounded source values; physical aliquots, reassignment rationale and whole-bed identity remain open. See [audit](ARTISTS-DRIVE-2008-CROSSWALK.md). 28 drafts/330 sources; no regional age transfer or independent review.
