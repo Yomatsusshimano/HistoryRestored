@@ -1,0 +1,783 @@
+{
+  "source_id": "S327",
+  "original_md5": "23c929502f692785881ce3dfcc167066",
+  "original_sha256": "12482ba48e654275183da23934cc0b07ec32b120d888e1f573a0bad090b539e7",
+  "sheet": "Table S3",
+  "raw_rows": {
+    "1": [
+      "Supplemental Table S3: Neutron activation analysis  (INAA) of selected tephra samples in the Mount Diablo, greater San Franciosco, and Northern California areas.  ",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "2": [
+      "Analyses were performed over a period of several decades at three different laboratories: L - Lawrence Berkeley Laboratory, University of California, Berkeley, California;  D - U.S. Geological Survey, Lakewood, Colorado; R - U.S. Geological Survey, Reston, Vurginia.  Concentrations are given in atomic weight in parts per million (ppm) except for iron, which is given in percent.   -1= no data available or obtained.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "3": [
+      "C.No",
+      "SAMPLE ID",
+      "N-ASW-#",
+      "Lab#",
+      "Lab",
+      null,
+      "Sc",
+      "Mn",
+      "Fe",
+      "Rb",
+      "Cs",
+      "Ba",
+      "La",
+      "Ce",
+      "Nd",
+      "Sm",
+      "Eu",
+      "Tb",
+      "Dy",
+      "Yb",
+      "Lu",
+      "Hf",
+      "Ta",
+      "Th",
+      "U",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "141": [
+      "Tuff of Danville",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "143": [
+      303,
+      "758-328",
+      128,
+      "D-245150",
+      "D",
+      null,
+      1.33,
+      241,
+      0.68,
+      161,
+      9.2,
+      971,
+      23.4,
+      43.4,
+      15,
+      2.13,
+      0.33,
+      0.27,
+      -1,
+      1.61,
+      0.22,
+      3.66,
+      0.69,
+      21.1,
+      6.25,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "144": [
+      119,
+      "758-328",
+      128,
+      "1007 N",
+      "L",
+      null,
+      1.37,
+      251,
+      0.7,
+      171,
+      9.2,
+      936,
+      23.1,
+      46.3,
+      13,
+      1.91,
+      0.31,
+      0.28,
+      2,
+      1.64,
+      0.25,
+      3.61,
+      0.72,
+      20.7,
+      6.43,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "145": [
+      333,
+      "OH-2A",
+      5,
+      "D-245128",
+      "D",
+      null,
+      1.36,
+      267,
+      0.63,
+      152,
+      8.5,
+      927,
+      24.2,
+      45.8,
+      14,
+      2.12,
+      0.29,
+      0.26,
+      1.7,
+      1.69,
+      0.24,
+      3.45,
+      0.74,
+      20.5,
+      6.68,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "146": [
+      6,
+      "OH-2A",
+      5,
+      "851 J",
+      "L",
+      null,
+      1.39,
+      270,
+      0.65,
+      151,
+      8.8,
+      924,
+      24.8,
+      44.9,
+      10,
+      1.95,
+      0.31,
+      0.24,
+      1.62,
+      1.65,
+      0.29,
+      3.4,
+      0.69,
+      20.8,
+      6.42,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "units": "Supplement: ppm except Fe percent; raw -1 means no data, not zero",
+  "comparisons": {
+    "cross_sample_D": {
+      "rows": [
+        143,
+        145
+      ],
+      "values": [
+        {
+          "element": "Sc",
+          "a_raw": 1.33,
+          "b_raw": 1.36,
+          "symmetric_percent_difference": 2.2304832713754665
+        },
+        {
+          "element": "Mn",
+          "a_raw": 241,
+          "b_raw": 267,
+          "symmetric_percent_difference": 10.236220472440944
+        },
+        {
+          "element": "Fe",
+          "a_raw": 0.68,
+          "b_raw": 0.63,
+          "symmetric_percent_difference": 7.6335877862595485
+        },
+        {
+          "element": "Rb",
+          "a_raw": 161,
+          "b_raw": 152,
+          "symmetric_percent_difference": 5.7507987220447285
+        },
+        {
+          "element": "Cs",
+          "a_raw": 9.2,
+          "b_raw": 8.5,
+          "symmetric_percent_difference": 7.909604519774003
+        },
+        {
+          "element": "Ba",
+          "a_raw": 971,
+          "b_raw": 927,
+          "symmetric_percent_difference": 4.636459430979979
+        },
+        {
+          "element": "La",
+          "a_raw": 23.4,
+          "b_raw": 24.2,
+          "symmetric_percent_difference": 3.3613445378151297
+        },
+        {
+          "element": "Ce",
+          "a_raw": 43.4,
+          "b_raw": 45.8,
+          "symmetric_percent_difference": 5.381165919282509
+        },
+        {
+          "element": "Nd",
+          "a_raw": 15,
+          "b_raw": 14,
+          "symmetric_percent_difference": 6.896551724137931
+        },
+        {
+          "element": "Sm",
+          "a_raw": 2.13,
+          "b_raw": 2.12,
+          "symmetric_percent_difference": 0.4705882352941076
+        },
+        {
+          "element": "Eu",
+          "a_raw": 0.33,
+          "b_raw": 0.29,
+          "symmetric_percent_difference": 12.903225806451625
+        },
+        {
+          "element": "Tb",
+          "a_raw": 0.27,
+          "b_raw": 0.26,
+          "symmetric_percent_difference": 3.7735849056603805
+        },
+        {
+          "element": "Dy",
+          "a_raw": -1,
+          "b_raw": 1.7,
+          "symmetric_percent_difference": null
+        },
+        {
+          "element": "Yb",
+          "a_raw": 1.61,
+          "b_raw": 1.69,
+          "symmetric_percent_difference": 4.84848484848484
+        },
+        {
+          "element": "Lu",
+          "a_raw": 0.22,
+          "b_raw": 0.24,
+          "symmetric_percent_difference": 8.69565217391304
+        },
+        {
+          "element": "Hf",
+          "a_raw": 3.66,
+          "b_raw": 3.45,
+          "symmetric_percent_difference": 5.90717299578059
+        },
+        {
+          "element": "Ta",
+          "a_raw": 0.69,
+          "b_raw": 0.74,
+          "symmetric_percent_difference": 6.993006993007
+        },
+        {
+          "element": "Th",
+          "a_raw": 21.1,
+          "b_raw": 20.5,
+          "symmetric_percent_difference": 2.8846153846153912
+        },
+        {
+          "element": "U",
+          "a_raw": 6.25,
+          "b_raw": 6.68,
+          "symmetric_percent_difference": 6.651198762567668
+        }
+      ],
+      "comparable_elements": 18
+    },
+    "cross_sample_L": {
+      "rows": [
+        144,
+        146
+      ],
+      "values": [
+        {
+          "element": "Sc",
+          "a_raw": 1.37,
+          "b_raw": 1.39,
+          "symmetric_percent_difference": 1.449275362318826
+        },
+        {
+          "element": "Mn",
+          "a_raw": 251,
+          "b_raw": 270,
+          "symmetric_percent_difference": 7.293666026871401
+        },
+        {
+          "element": "Fe",
+          "a_raw": 0.7,
+          "b_raw": 0.65,
+          "symmetric_percent_difference": 7.407407407407397
+        },
+        {
+          "element": "Rb",
+          "a_raw": 171,
+          "b_raw": 151,
+          "symmetric_percent_difference": 12.422360248447205
+        },
+        {
+          "element": "Cs",
+          "a_raw": 9.2,
+          "b_raw": 8.8,
+          "symmetric_percent_difference": 4.444444444444429
+        },
+        {
+          "element": "Ba",
+          "a_raw": 936,
+          "b_raw": 924,
+          "symmetric_percent_difference": 1.2903225806451613
+        },
+        {
+          "element": "La",
+          "a_raw": 23.1,
+          "b_raw": 24.8,
+          "symmetric_percent_difference": 7.098121085594986
+        },
+        {
+          "element": "Ce",
+          "a_raw": 46.3,
+          "b_raw": 44.9,
+          "symmetric_percent_difference": 3.0701754385964883
+        },
+        {
+          "element": "Nd",
+          "a_raw": 13,
+          "b_raw": 10,
+          "symmetric_percent_difference": 26.08695652173913
+        },
+        {
+          "element": "Sm",
+          "a_raw": 1.91,
+          "b_raw": 1.95,
+          "symmetric_percent_difference": 2.072538860103629
+        },
+        {
+          "element": "Eu",
+          "a_raw": 0.31,
+          "b_raw": 0.31,
+          "symmetric_percent_difference": 0.0
+        },
+        {
+          "element": "Tb",
+          "a_raw": 0.28,
+          "b_raw": 0.24,
+          "symmetric_percent_difference": 15.384615384615397
+        },
+        {
+          "element": "Dy",
+          "a_raw": 2,
+          "b_raw": 1.62,
+          "symmetric_percent_difference": 20.994475138121537
+        },
+        {
+          "element": "Yb",
+          "a_raw": 1.64,
+          "b_raw": 1.65,
+          "symmetric_percent_difference": 0.6079027355623106
+        },
+        {
+          "element": "Lu",
+          "a_raw": 0.25,
+          "b_raw": 0.29,
+          "symmetric_percent_difference": 14.814814814814808
+        },
+        {
+          "element": "Hf",
+          "a_raw": 3.61,
+          "b_raw": 3.4,
+          "symmetric_percent_difference": 5.991440798858773
+        },
+        {
+          "element": "Ta",
+          "a_raw": 0.72,
+          "b_raw": 0.69,
+          "symmetric_percent_difference": 4.255319148936175
+        },
+        {
+          "element": "Th",
+          "a_raw": 20.7,
+          "b_raw": 20.8,
+          "symmetric_percent_difference": 0.4819277108433803
+        },
+        {
+          "element": "U",
+          "a_raw": 6.43,
+          "b_raw": 6.42,
+          "symmetric_percent_difference": 0.1556420233463002
+        }
+      ],
+      "comparable_elements": 19
+    },
+    "same_sample_758_328_labs": {
+      "rows": [
+        143,
+        144
+      ],
+      "values": [
+        {
+          "element": "Sc",
+          "a_raw": 1.33,
+          "b_raw": 1.37,
+          "symmetric_percent_difference": 2.9629629629629655
+        },
+        {
+          "element": "Mn",
+          "a_raw": 241,
+          "b_raw": 251,
+          "symmetric_percent_difference": 4.065040650406504
+        },
+        {
+          "element": "Fe",
+          "a_raw": 0.68,
+          "b_raw": 0.7,
+          "symmetric_percent_difference": 2.898550724637668
+        },
+        {
+          "element": "Rb",
+          "a_raw": 161,
+          "b_raw": 171,
+          "symmetric_percent_difference": 6.024096385542169
+        },
+        {
+          "element": "Cs",
+          "a_raw": 9.2,
+          "b_raw": 9.2,
+          "symmetric_percent_difference": 0.0
+        },
+        {
+          "element": "Ba",
+          "a_raw": 971,
+          "b_raw": 936,
+          "symmetric_percent_difference": 3.6706869428421607
+        },
+        {
+          "element": "La",
+          "a_raw": 23.4,
+          "b_raw": 23.1,
+          "symmetric_percent_difference": 1.290322580645149
+        },
+        {
+          "element": "Ce",
+          "a_raw": 43.4,
+          "b_raw": 46.3,
+          "symmetric_percent_difference": 6.465997770345595
+        },
+        {
+          "element": "Nd",
+          "a_raw": 15,
+          "b_raw": 13,
+          "symmetric_percent_difference": 14.285714285714286
+        },
+        {
+          "element": "Sm",
+          "a_raw": 2.13,
+          "b_raw": 1.91,
+          "symmetric_percent_difference": 10.89108910891089
+        },
+        {
+          "element": "Eu",
+          "a_raw": 0.33,
+          "b_raw": 0.31,
+          "symmetric_percent_difference": 6.250000000000005
+        },
+        {
+          "element": "Tb",
+          "a_raw": 0.27,
+          "b_raw": 0.28,
+          "symmetric_percent_difference": 3.6363636363636394
+        },
+        {
+          "element": "Dy",
+          "a_raw": -1,
+          "b_raw": 2,
+          "symmetric_percent_difference": null
+        },
+        {
+          "element": "Yb",
+          "a_raw": 1.61,
+          "b_raw": 1.64,
+          "symmetric_percent_difference": 1.846153846153834
+        },
+        {
+          "element": "Lu",
+          "a_raw": 0.22,
+          "b_raw": 0.25,
+          "symmetric_percent_difference": 12.765957446808512
+        },
+        {
+          "element": "Hf",
+          "a_raw": 3.66,
+          "b_raw": 3.61,
+          "symmetric_percent_difference": 1.3755158184319194
+        },
+        {
+          "element": "Ta",
+          "a_raw": 0.69,
+          "b_raw": 0.72,
+          "symmetric_percent_difference": 4.255319148936175
+        },
+        {
+          "element": "Th",
+          "a_raw": 21.1,
+          "b_raw": 20.7,
+          "symmetric_percent_difference": 1.9138755980861348
+        },
+        {
+          "element": "U",
+          "a_raw": 6.25,
+          "b_raw": 6.43,
+          "symmetric_percent_difference": 2.839116719242898
+        }
+      ],
+      "comparable_elements": 18
+    },
+    "same_sample_OH_2A_labs": {
+      "rows": [
+        145,
+        146
+      ],
+      "values": [
+        {
+          "element": "Sc",
+          "a_raw": 1.36,
+          "b_raw": 1.39,
+          "symmetric_percent_difference": 2.1818181818181674
+        },
+        {
+          "element": "Mn",
+          "a_raw": 267,
+          "b_raw": 270,
+          "symmetric_percent_difference": 1.1173184357541899
+        },
+        {
+          "element": "Fe",
+          "a_raw": 0.63,
+          "b_raw": 0.65,
+          "symmetric_percent_difference": 3.1250000000000027
+        },
+        {
+          "element": "Rb",
+          "a_raw": 152,
+          "b_raw": 151,
+          "symmetric_percent_difference": 0.6600660066006601
+        },
+        {
+          "element": "Cs",
+          "a_raw": 8.5,
+          "b_raw": 8.8,
+          "symmetric_percent_difference": 3.468208092485557
+        },
+        {
+          "element": "Ba",
+          "a_raw": 927,
+          "b_raw": 924,
+          "symmetric_percent_difference": 0.3241491085899514
+        },
+        {
+          "element": "La",
+          "a_raw": 24.2,
+          "b_raw": 24.8,
+          "symmetric_percent_difference": 2.4489795918367405
+        },
+        {
+          "element": "Ce",
+          "a_raw": 45.8,
+          "b_raw": 44.9,
+          "symmetric_percent_difference": 1.9845644983461934
+        },
+        {
+          "element": "Nd",
+          "a_raw": 14,
+          "b_raw": 10,
+          "symmetric_percent_difference": 33.333333333333336
+        },
+        {
+          "element": "Sm",
+          "a_raw": 2.12,
+          "b_raw": 1.95,
+          "symmetric_percent_difference": 8.35380835380836
+        },
+        {
+          "element": "Eu",
+          "a_raw": 0.29,
+          "b_raw": 0.31,
+          "symmetric_percent_difference": 6.666666666666673
+        },
+        {
+          "element": "Tb",
+          "a_raw": 0.26,
+          "b_raw": 0.24,
+          "symmetric_percent_difference": 8.000000000000007
+        },
+        {
+          "element": "Dy",
+          "a_raw": 1.7,
+          "b_raw": 1.62,
+          "symmetric_percent_difference": 4.819277108433726
+        },
+        {
+          "element": "Yb",
+          "a_raw": 1.69,
+          "b_raw": 1.65,
+          "symmetric_percent_difference": 2.395209580838326
+        },
+        {
+          "element": "Lu",
+          "a_raw": 0.24,
+          "b_raw": 0.29,
+          "symmetric_percent_difference": 18.86792452830188
+        },
+        {
+          "element": "Hf",
+          "a_raw": 3.45,
+          "b_raw": 3.4,
+          "symmetric_percent_difference": 1.459854014598548
+        },
+        {
+          "element": "Ta",
+          "a_raw": 0.74,
+          "b_raw": 0.69,
+          "symmetric_percent_difference": 6.993006993007
+        },
+        {
+          "element": "Th",
+          "a_raw": 20.5,
+          "b_raw": 20.8,
+          "symmetric_percent_difference": 1.4527845036319649
+        },
+        {
+          "element": "U",
+          "a_raw": 6.68,
+          "b_raw": 6.42,
+          "symmetric_percent_difference": 3.9694656488549587
+        }
+      ],
+      "comparable_elements": 19
+    }
+  },
+  "rule": "200*absolute(a-b)/(a+b), descriptive only",
+  "measurement_errors": null,
+  "correlation_threshold": null,
+  "distinct_named_sample_count": 2,
+  "physical_identity_authenticated": false,
+  "correlation_accepted_by_this_audit": false,
+  "FLV119_trace_element_join": null,
+  "age_transfer_verified": false
+}

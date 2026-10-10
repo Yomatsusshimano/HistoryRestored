@@ -34,6 +34,13 @@
       "bytes": 73859,
       "md5": "dc04784013d67419011a75664eaf1184",
       "sha256": "59bdf244aa6802cc580ef0ee94aec5dfa764ddcd537ee9356a109c08a43d711c"
+    },
+    {
+      "name": "217-16-SuppTab3.xlsx",
+      "url": "https://ndownloader.figshare.com/files/29107476",
+      "bytes": 32038,
+      "md5": "23c929502f692785881ce3dfcc167066",
+      "sha256": "12482ba48e654275183da23934cc0b07ec32b120d888e1f573a0bad090b539e7"
     }
   ],
   "main_access": "AUTHOR_UPLOADED_TEXT_PORTION",
@@ -43,5 +50,6 @@
     23,
     24
   ],
-  "chemical_workbook_inspection": "Selected TableS2/S4 header/group/sample cells, no full database or layout verification"
+  "chemical_workbook_inspection": "Selected TableS2/S4 header/group/sample cells, no full database or layout verification",
+  "INAA_workbook_inspection": "Selected S3headers/group141/fourreference rows143-146; no fulltable/layout/uncertainty audit"
 }

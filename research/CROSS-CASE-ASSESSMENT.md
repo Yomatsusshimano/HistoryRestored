@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Original neutron-activation reference rows
+
+S327TableS3supplies four laboratory analyses of two Danville/Ohlson identifiers; units/missingDy and descriptive paired differences retained. No FLV119trace-element join or statistical correlation acceptance. See [audit](DANVILLE-INAA-REFERENCE-CHECK.md). 28 drafts/330 sources; no independent review or age transfer.
+
 ### 2026-10-09 — Danville identification reasoning and age dependencies
 
 S327maintext acknowledges a local Danville/Nomlaki identification revision and reports Ohlson mineral ages plus projected stratigraphy. This does not document FLV119reassignment or date its whole bed. See [audit](DANVILLE-CORRELATION-REASONING.md). 28 drafts/330 sources; no independent review or regional date transfer.

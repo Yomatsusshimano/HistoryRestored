@@ -1738,3 +1738,10 @@ Previous goal turn made progress:c3a1b6a published later names/methods,11files b
 S327maintext acknowledges a local Danville/Nomlaki identification revision and reports Ohlson mineral ages plus projected stratigraphy. This does not document FLV119reassignment or date its whole bed. See [audit](research/DANVILLE-CORRELATION-REASONING.md). 28 drafts/330 sources; no independent review or regional date transfer.
 
 Previous goal turn made progress:48fab9a published exactvector crosswalk,13files byte-verified; clean checkout revalidated. Selected2021mainDanvilletext and2012reference read; renewed search did not acquire original2012abstract. No new source record for unacquired citation. Reported zircon/biotite uncertainty conventions retained without original assay claim, new weighting or Gaussian inference. OriginalINAAcomparison and specificFLV119decision remain next tests. No outreach or completion.
+
+
+### 2026-10-09 — Original neutron-activation reference rows
+
+S327TableS3supplies four laboratory analyses of two Danville/Ohlson identifiers; units/missingDy and descriptive paired differences retained. No FLV119trace-element join or statistical correlation acceptance. See [audit](research/DANVILLE-INAA-REFERENCE-CHECK.md). 28 drafts/330 sources; no independent review or age transfer.
+
+Previous goal turn made progress:f5e60a1 published Danville reasoning,11files byte-verified; clean checkout revalidated. OriginalS3already acquired/hashchecked; bounded32column extraction recovered four targetrows. ExposedmainTable2Acompared withoutscanclaim: firstanalysisnumber omitted, Dyrounding and generalppmnote distinguished from explicitworkbookFepercent. Read-only extractor excludes missing-1fromdiagnostics and preservesallrawcells. No inferred measurementerrors, acceptance threshold, newfieldreplicates, datedsamplejoin, outreach or completion.

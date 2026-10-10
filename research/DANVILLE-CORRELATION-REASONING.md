@@ -30,3 +30,6 @@ The main discussion uses a heading approximately4.6-4.4Ma and presents a combine
 No selected passage explicitly joins the acknowledged Mount Diablo misidentification to the2008Willow Wash row or documents the rationale for assigning the light-coloured Willow Wash fraction to Danville. The1991description of two FLV119populations, the2008mean vector, and the2021fraction record therefore remain separate evidentiary steps. A general history of mistaken identification cannot fill the missing sample-specific decision record.
 
 Next inspect the original neutron-activation analyses for the Danville/Ohlson reference samples and the2012dated-sample report, then seek the explicit FLV119component decision. Only after that can chemical identity, eruption age and primary deposition be tested for a named regional bed. This identification revision supplies no historical catastrophe date or fabrication mechanism.
+
+
+Follow-up: [original INAAreference rows](DANVILLE-INAA-REFERENCE-CHECK.md) recover the fouranalyses and descriptive comparisons; measurementerrors and datedaliquot/FLV119joins remain open.
