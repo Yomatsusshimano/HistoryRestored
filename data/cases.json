@@ -1469,6 +1469,21 @@
           "source_id": "S27",
           "locator": "Complete Table 1, printed pp. 5-6 / PDF pp. 6-7",
           "statement": "All 47 published control rows now transcribed, including 17 shaded nonexceedance bounds, four missing model registrations, printed unit-conversion discrepancies and a nearby opposite-bound pair; see research/MISSOULA-COMPLETE-CONTROLS.md. No hydraulic model or field correction established."
+        },
+        {
+          "source_id": "S11",
+          "locator": "Table3 printed/PDFp40",
+          "statement": "Babcock Ridge crossing corresponds to S27row12; a separate Lynch Coulee erratic has same433m reported elevation at a different location. Shared interpretation is not independent confirmation."
+        },
+        {
+          "source_id": "S335",
+          "locator": "Ten EPQS responses; raster73965 catalog metadata",
+          "statement": "Modern nominal terrain at nearby crossing/noncrossing points is431.602/434.117mNAVD88, reversing the printed field ordering. These are modern ground elevations, not ancient stages or corrected S27inputs."
+        },
+        {
+          "source_id": "S336",
+          "locator": "Complete appended corrigendum, PDFp53",
+          "statement": "Authors publicly credit Thomas Cooney for four Hawk Creek erratic discoveries and report revision-stage omission/name error. Original earlier version, discovery records and intent remain unverified; see research/MISSOULA-CREDIT-CORRECTION.md."
         }
       ],
       "physical_evidence": "Published geomorphic/stratigraphic observations; complete 47-row S27 Table 1 transcribed and visually checked, including all eleven previous selected rows. No original field section inspected.",
@@ -1480,7 +1495,7 @@
         "Shaw et al. regional pulse model for selected downstream sections with additional water sources; not a single event for all Scabland history"
       ],
       "counterevidence": "Intervening time indicators challenge treating the whole sequence as one uninterrupted event.",
-      "next_test": "Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation. Retrieve and inspect the S59 Globus package before reproducing S58 terrain comparisons. Recover specimen orientation/demagnetization and bed deformation data, exact extended 2003 reference inputs and Little Boulder Lake core/assays; test common versus differential recording and the ash-interval transfer. Complete-table follow-up: resolve row 40 printed feet/metres, row 42 field/terrain difference, and Lynch/nearby Evergreen-Babcock context before judging stages against precise bounds; retain source values and site-specific uncertainties.",
+      "next_test": "Retrieve complete 2000 debate and original logs; test annuality, exposure surfaces and source routes; resolve printed pulse-model budget and Long site 11; obtain complete hydraulic inputs. Recover projected/model values for the final four Table 1 controls; blank publication cells do not establish omission from the actual simulation. Retrieve and inspect the S59 Globus package before reproducing S58 terrain comparisons. Recover specimen orientation/demagnetization and bed deformation data, exact extended 2003 reference inputs and Little Boulder Lake core/assays; test common versus differential recording and the ash-interval transfer. Complete-table follow-up: resolve row 40 printed feet/metres, row 42 field/terrain difference, and Lynch/nearby Evergreen-Babcock context before judging stages against precise bounds; retain source values and site-specific uncertainties. Modern terrain follow-up: recover quad edition/datum, actual divide feature and field notes for Lynch/Babcock pair. Do not substitute S335modernNAVD88 values into S27modified terrain. Trace original review versions and correspondence to independently audit Cooney credit.",
       "chronology": {
         "reported": "Last-glacial sequence; S29 derives a conditional 15.8-14.9 cal ka interval for final Missoula floods from tephra correlation and varve counts, not a direct date of every flood.",
         "dated_object": "Flood sequence in review",
@@ -1501,7 +1516,7 @@
         "Original glass-standard sample linkage to resolve S168 prose versus S167 ratio ordering; direct So-Sg interval evidence",
         "Exact extended Fish Lake and Mono Lake series used in 2003, original dated-sample depth/assay tables and reference transformations; recovered SECVR version does not cover stated overlap"
       ],
-      "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood. Later reported durations can inherit earlier counts. Recovered NOAA Fish Lake coverage differs from the described 2003 input; later recalibrated or magnetically aligned versions cannot substitute without a version audit."
+      "dependence": "Review incorporates earlier research; do not count the review as a fresh independent field dataset. S27 uses earlier field records and overlapping authors; it is not independent dating of each flood. Later reported durations can inherit earlier counts. Recovered NOAA Fish Lake coverage differs from the described 2003 input; later recalibrated or magnetically aligned versions cannot substitute without a version audit. S335ten queries share one modern raster and are not independent surveys. S336is the S11authors’ correction, delivered in samePDF, not independent review."
     },
     {
       "id": "C009",

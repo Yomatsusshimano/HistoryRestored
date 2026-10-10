@@ -98,3 +98,8 @@ The [original field accounts and burial audit](research/COLORADO-BURIAL-DATING.m
 The largest reported boulder and the longest reported transport distance are not measurements on one tracked clast. Combining them would invent a hydraulic constraint. Present sample depth similarly cannot substitute for past shielding. Until the missing inputs are obtained, no discharge, duration, sediment budget or historical event date is inferred from this target.
 
 A useful discriminating observation is a measured Bat Cave cut section tying BC007–011 to the cover/base contact and mapped conglomerate. If the cobbles are in younger cover, model their inherited signal and final emplacement separately. If they are in continuous older conglomerate beneath cover, test its burial history in that context. Neither branch alone supplies a worldwide event. These are retrospective research decisions, not frozen predictions on uninspected sites.
+
+
+### 2026-10-09 — Modern terrain follow-up
+
+The [modern surface check](research/LYNCH-BABCOCK-TERRAIN.md) reverses the crossing/noncrossing nominal ground ordering, using one USGS 1 m NAVD88 raster. This prioritizes original elevation/registration verification; modern values do not replace S27 modified terrain, authenticate noncrossing evidence or establish ancient peak stages.

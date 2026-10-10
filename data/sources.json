@@ -174,15 +174,24 @@
       "title": "The Missoula and Bonneville floods: A review of ice-age megafloods in the Columbia River basin",
       "url": "https://www.usgs.gov/publications/missoula-and-bonneville-floods-a-review-ice-age-megafloods-columbia-river-basin",
       "doi": "10.1016/j.earscirev.2020.103181",
-      "creator": "O'Connor and colleagues",
+      "creator": "Jim E. O’Connor, Victor R. Baker, Richard B. Waitt, Larry N. Smith, Charles M. Cannon, David L. George and Roger P. Denlinger",
       "publication_date": "2020-04-22",
-      "source_type": "research review; USGS-hosted substantive summary",
-      "access": "FULL_TEXT_PORTION",
-      "inspected": "Hosted summary: geomorphology, repeated beds, intervening indicators, chronology and model discussion",
-      "limitations": "Underlying field datasets and journal figures not independently analyzed.",
+      "source_type": "Research review; selected original journal table scans and earlier USGS summary",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Hosted summary: geomorphology, repeated beds, intervening indicators, chronology and model discussion Follow-up 2026-10-09: original author-linked journal PDF acquired; Table 3 printed/PDF pp. 39-40 visually inspected for Hawk Creek attribution and Babcock/Lynch control distinction; appended corrigendum PDF p. 53 inspected separately as S336. Main title/article-history text extracted; remainder not audited.",
+      "limitations": "Selected original table pages only, not a complete audit of the review or underlying field datasets. Shared authors/field sources with S27. Appended authors’ correction does not authenticate the original online version or revision history.",
       "local_copy": null,
-      "accessed_date": "2026-10-08",
-      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://dlgeorge.github.io/pubs/OConnorBakerEtAl2020.pdf",
+          "sha256": "e585d80fb996bd1baadef4ac015dc954d83f5a4b2cd44543e10f6577678f80c4",
+          "public_mirror_in_this_repository": false,
+          "pdf_pages": 53,
+          "inspection": "Selected Table3 pp.39-40 and appended corrigendum p.53; not all pages"
+        }
+      ]
     },
     {
       "id": "S12",
@@ -5146,6 +5155,52 @@
       "access": "SCAN_INSPECTED",
       "inspected": "PDF1/11visually inspected: title/byline and Table2printed8explicit CIBFLT=Cibicides fletcheri key. No other54PDFpage audit.",
       "limitations": "Related-study dictionary, not specimen reidentification, complete matrix, full1987sample selection or fossil depth model.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S335",
+      "title": "USGS modern 3DEP point elevations at the Lynch/Babcock controls, raster 73965",
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.9674&y=47.2119&wkid=4326&units=Meters&includeDate=true",
+      "doi": null,
+      "creator": "U.S. Geological Survey, 3D Elevation Program",
+      "publication_date": null,
+      "source_type": "Public elevation-service query responses and raster catalog metadata",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "All ten complete EPQS JSON responses, catalog query for OBJECTID73965 and service metadata. Numeric elevations, dates, coordinates, resolution and NAVD88 field checked; original lidar/DEM tile and survey accuracy report uninspected.",
+      "limitations": "Modern surface; shared raster, not ten independent surveys. Four rounding-cell corners plus nominal point are not an interior elevation bound or confidence interval. Date fields differ; S27 datum and modified terrain are unjoined. See research/LYNCH-BABCOCK-TERRAIN.md.",
+      "date_note": "Catalog start/end fields20220823/20230628, publication20250630. EPQS5/3/2023 differs from catalog AcquisitionDateJune28,2023. No single point observation or first publication date asserted.",
+      "retrievals": [
+        {
+          "url": "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer?f=pjson",
+          "sha256": "74b4d74deceb9fc1728945ec27cec809bdcb7427e1949ed80c48a9bf60c0e777",
+          "public_mirror_in_this_repository": true
+        }
+      ],
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S336",
+      "title": "Corrigendum to The Missoula and Bonneville floods—A review of ice-age megafloods in the Columbia River basin",
+      "url": "https://doi.org/10.1016/j.earscirev.2020.103401",
+      "doi": "10.1016/j.earscirev.2020.103401",
+      "creator": "Jim E. O’Connor, Victor R. Baker, Richard B. Waitt, Larry N. Smith, Charles M. Cannon, David L. George and Roger P. Denlinger",
+      "publication_date": "2020-10-13",
+      "source_type": "Authors’ published correction, Earth-Science Reviews210,103401",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Complete one-page corrigendum, appended PDFp53 of author-linked S11 delivery, visually inspected. Corrects Glacier Peak age-range typo and Thomas Cooney discovery credit/name.",
+      "limitations": "Authors’ report of revision mechanism and earlier Cooley spelling; original drafts, first-posting bytes and discovery correspondence unacquired. Shared authors and same PDF delivery as S11, not independent corroboration. No intent inferred.",
+      "retrievals": [
+        {
+          "url": "https://dlgeorge.github.io/pubs/OConnorBakerEtAl2020.pdf",
+          "sha256": "e585d80fb996bd1baadef4ac015dc954d83f5a4b2cd44543e10f6577678f80c4",
+          "public_mirror_in_this_repository": false,
+          "locator": "Appended PDFp53"
+        }
+      ],
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"

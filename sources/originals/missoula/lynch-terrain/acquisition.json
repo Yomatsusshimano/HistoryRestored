@@ -1,0 +1,280 @@
+{
+  "acquired_date": "2026-10-09",
+  "source_service": "https://epqs.nationalmap.gov/v1/json",
+  "selection": "Two already inspected controls; nominal points plus four corners of four-decimal-degree rounding cells. Corners are positional sensitivity only, not a survey error distribution.",
+  "query_results": [
+    {
+      "id": "S27-T1-12-nominal",
+      "table_row": 12,
+      "label": "nominal",
+      "latitude": 47.2119,
+      "longitude": -119.9674,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96740&y=47.21190&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-12-nominal.json",
+      "sha256": "0beaa59be25a606a71e947e11735804c6f162080eda4e9a6a9569db249962d42",
+      "response": {
+        "location": {
+          "x": -119.9674,
+          "y": 47.2119,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "431.602355957",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-12-SW",
+      "table_row": 12,
+      "label": "SW",
+      "latitude": 47.21185,
+      "longitude": -119.96745,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96745&y=47.21185&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-12-SW.json",
+      "sha256": "e4615de088d53d644fad52ea787ed1bdcf5aa317ef08923337d23fe1b47f1cb8",
+      "response": {
+        "location": {
+          "x": -119.96745,
+          "y": 47.21185,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "431.018890381",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-12-SE",
+      "table_row": 12,
+      "label": "SE",
+      "latitude": 47.21185,
+      "longitude": -119.96735,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96735&y=47.21185&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-12-SE.json",
+      "sha256": "f937f3d4c7005daac70d594429610c04ab146019db83de022dc2463817a1d545",
+      "response": {
+        "location": {
+          "x": -119.96735,
+          "y": 47.21185,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "431.287963867",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-12-NW",
+      "table_row": 12,
+      "label": "NW",
+      "latitude": 47.21195,
+      "longitude": -119.96745,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96745&y=47.21195&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-12-NW.json",
+      "sha256": "8e25f3738ab74dca1ef6b087a1ed1591b517f61625e3f96a303e6de28045fd89",
+      "response": {
+        "location": {
+          "x": -119.96745,
+          "y": 47.21195,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "432.082336426",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-12-NE",
+      "table_row": 12,
+      "label": "NE",
+      "latitude": 47.21195,
+      "longitude": -119.96735,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96735&y=47.21195&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-12-NE.json",
+      "sha256": "1462111d5a6665790ef71581ade07f49e81457fa0282ff225762371343a7e2fe",
+      "response": {
+        "location": {
+          "x": -119.96735,
+          "y": 47.21195,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "432.465759277",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-45-nominal",
+      "table_row": 45,
+      "label": "nominal",
+      "latitude": 47.2118,
+      "longitude": -119.9687,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96870&y=47.21180&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-45-nominal.json",
+      "sha256": "f12596474819defa5cdb425ebb742f9bb4b868bce99fcadbfb4ca1d2566e3d27",
+      "response": {
+        "location": {
+          "x": -119.9687,
+          "y": 47.2118,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "434.117126465",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-45-SW",
+      "table_row": 45,
+      "label": "SW",
+      "latitude": 47.211749999999995,
+      "longitude": -119.96875,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96875&y=47.21175&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-45-SW.json",
+      "sha256": "f79cccab754d487a6d8e9f3e1054e7d68e445c18c225d7b4374ec8fbf3453fd3",
+      "response": {
+        "location": {
+          "x": -119.96875,
+          "y": 47.21175,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "434.921691895",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-45-SE",
+      "table_row": 45,
+      "label": "SE",
+      "latitude": 47.211749999999995,
+      "longitude": -119.96865,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96865&y=47.21175&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-45-SE.json",
+      "sha256": "77506c49c7c2a33490ff1d2510910652767235c5a177e1cd321287de8017d64b",
+      "response": {
+        "location": {
+          "x": -119.96865,
+          "y": 47.21175,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "434.749877930",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-45-NW",
+      "table_row": 45,
+      "label": "NW",
+      "latitude": 47.21185,
+      "longitude": -119.96875,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96875&y=47.21185&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-45-NW.json",
+      "sha256": "a8e2e75a0e5c116c1595e52568306fa2bb212c8002e6021fc69a5153740106cb",
+      "response": {
+        "location": {
+          "x": -119.96875,
+          "y": 47.21185,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "433.374847412",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    },
+    {
+      "id": "S27-T1-45-NE",
+      "table_row": 45,
+      "label": "NE",
+      "latitude": 47.21185,
+      "longitude": -119.96865,
+      "url": "https://epqs.nationalmap.gov/v1/json?x=-119.96865&y=47.21185&wkid=4326&units=Meters&includeDate=true",
+      "response_file": "S27-T1-45-NE.json",
+      "sha256": "ace4404e85fbfda2a0a1e12a837c639e2a081dedb14cf0ee4a8454614d4516f1",
+      "response": {
+        "location": {
+          "x": -119.96865,
+          "y": 47.21185,
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326
+          }
+        },
+        "locationId": 0,
+        "value": "433.777099609",
+        "rasterId": 73965,
+        "resolution": 1,
+        "attributes": {
+          "AcquisitionDate": "5/3/2023"
+        }
+      }
+    }
+  ],
+  "metadata_url": "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer/query?where=OBJECTID+IN+%2873965%29&outFields=%2A&returnGeometry=false&f=json",
+  "metadata_sha256": "85f6ff466f3e1dd5da99c90da99da166990eaa6f9481cc01f6a77408b29052b0",
+  "actual_flood_model_inputs": false
+}

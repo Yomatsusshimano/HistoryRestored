@@ -35,3 +35,8 @@ All 47 coordinate pairs, printed feet/metres pairs, contour values and projected
 Before a physical reconstruction is judged against these controls, recover its actual stage outputs, modified terrain and projection definition. Compare stage locally with one-sided bounds of justified uncertainty and context. Do not replace missing coordinates with a fitted projection, average nearby limits into an alleged observation, treat terrain height as water height, or turn these inspected discovery controls into successful prospective predictions. Original Waitt/Long/Stanton field context remains a retrieval target; the USGS abstract record supplies no Long-11 table or correction.
 
 The complete table strengthens the input audit for objective 5. It establishes neither a common flood date, an alternative discharge, a worldwide deposit nor the historical-rewriting propositions.
+
+
+### 2026-10-09 — Modern terrain follow-up
+
+The [modern surface check](LYNCH-BABCOCK-TERRAIN.md) reverses the crossing/noncrossing nominal ground ordering, using one USGS 1 m NAVD88 raster. This prioritizes original elevation/registration verification; modern values do not replace S27 modified terrain, authenticate noncrossing evidence or establish ancient peak stages.

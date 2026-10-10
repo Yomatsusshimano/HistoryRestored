@@ -1,0 +1,82 @@
+{
+  "source_id": "S335",
+  "acquired_date": "2026-10-09",
+  "files": [
+    {
+      "path": "sources/originals/missoula/lynch-terrain/acquisition.json",
+      "bytes": 8826,
+      "sha256": "008d059be60adaa4064305ddea4691ade839313c84733674689d4c0fa5a371e8"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/raster-metadata.json",
+      "bytes": 7651,
+      "sha256": "85f6ff466f3e1dd5da99c90da99da166990eaa6f9481cc01f6a77408b29052b0"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-12-NE.json",
+      "bytes": 208,
+      "sha256": "1462111d5a6665790ef71581ade07f49e81457fa0282ff225762371343a7e2fe"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-12-nominal.json",
+      "bytes": 206,
+      "sha256": "0beaa59be25a606a71e947e11735804c6f162080eda4e9a6a9569db249962d42"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-12-NW.json",
+      "bytes": 208,
+      "sha256": "8e25f3738ab74dca1ef6b087a1ed1591b517f61625e3f96a303e6de28045fd89"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-12-SE.json",
+      "bytes": 208,
+      "sha256": "f937f3d4c7005daac70d594429610c04ab146019db83de022dc2463817a1d545"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-12-SW.json",
+      "bytes": 208,
+      "sha256": "e4615de088d53d644fad52ea787ed1bdcf5aa317ef08923337d23fe1b47f1cb8"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-45-NE.json",
+      "bytes": 208,
+      "sha256": "ace4404e85fbfda2a0a1e12a837c639e2a081dedb14cf0ee4a8454614d4516f1"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-45-nominal.json",
+      "bytes": 206,
+      "sha256": "f12596474819defa5cdb425ebb742f9bb4b868bce99fcadbfb4ca1d2566e3d27"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-45-NW.json",
+      "bytes": 208,
+      "sha256": "a8e2e75a0e5c116c1595e52568306fa2bb212c8002e6021fc69a5153740106cb"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-45-SE.json",
+      "bytes": 208,
+      "sha256": "77506c49c7c2a33490ff1d2510910652767235c5a177e1cd321287de8017d64b"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/S27-T1-45-SW.json",
+      "bytes": 208,
+      "sha256": "f79cccab754d487a6d8e9f3e1054e7d68e445c18c225d7b4374ec8fbf3453fd3"
+    },
+    {
+      "path": "sources/originals/missoula/lynch-terrain/service-metadata.json",
+      "bytes": 12988,
+      "sha256": "74b4d74deceb9fc1728945ec27cec809bdcb7427e1949ed80c48a9bf60c0e777"
+    }
+  ],
+  "review_pdf": {
+    "source_ids": [
+      "S11",
+      "S336"
+    ],
+    "url": "https://dlgeorge.github.io/pubs/OConnorBakerEtAl2020.pdf",
+    "sha256": "e585d80fb996bd1baadef4ac015dc954d83f5a4b2cd44543e10f6577678f80c4",
+    "bytes": 45587993,
+    "redistributed": false
+  },
+  "independent_review": false
+}

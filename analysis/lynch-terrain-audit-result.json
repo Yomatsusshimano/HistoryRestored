@@ -1,0 +1,114 @@
+{
+  "source_id": "S335",
+  "controls": [
+    {
+      "table_row": 12,
+      "control_id": "S27-T1-12",
+      "published_field_elevation_m": 433,
+      "published_model_terrain_m": 431,
+      "modern_nominal_elevation_m": 431.602355957,
+      "modern_minus_published_field_m": -1.3976440430000139,
+      "modern_minus_published_model_terrain_m": 0.6023559569999861,
+      "five_queried_values_min_m": 431.018890381,
+      "five_queried_values_max_m": 432.465759277,
+      "samples": [
+        {
+          "label": "nominal",
+          "elevation_m": 431.602355957,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        },
+        {
+          "label": "SW",
+          "elevation_m": 431.018890381,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        },
+        {
+          "label": "SE",
+          "elevation_m": 431.287963867,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        },
+        {
+          "label": "NW",
+          "elevation_m": 432.082336426,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        },
+        {
+          "label": "NE",
+          "elevation_m": 432.465759277,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        }
+      ]
+    },
+    {
+      "table_row": 45,
+      "control_id": "S27-T1-45",
+      "published_field_elevation_m": 431,
+      "published_model_terrain_m": null,
+      "modern_nominal_elevation_m": 434.117126465,
+      "modern_minus_published_field_m": 3.1171264650000126,
+      "modern_minus_published_model_terrain_m": null,
+      "five_queried_values_min_m": 433.374847412,
+      "five_queried_values_max_m": 434.921691895,
+      "samples": [
+        {
+          "label": "nominal",
+          "elevation_m": 434.117126465,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        },
+        {
+          "label": "SW",
+          "elevation_m": 434.921691895,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        },
+        {
+          "label": "SE",
+          "elevation_m": 434.74987793,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        },
+        {
+          "label": "NW",
+          "elevation_m": 433.374847412,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        },
+        {
+          "label": "NE",
+          "elevation_m": 433.777099609,
+          "raster_id": 73965,
+          "resolution": 1,
+          "reported_acquisition_date": "5/3/2023"
+        }
+      ]
+    }
+  ],
+  "published_upper_minus_lower_m": -2,
+  "modern_upper_point_minus_lower_point_m": 2.5147705080000264,
+  "minimum_separation_between_queried_value_sets_m": 0.9090881349999904,
+  "raster_id": 73965,
+  "dataset": "WA_CentralWildfire_D22",
+  "vertical_datum": "North American Vertical Datum of 1988 (NAVD 88)",
+  "catalog_acquisition_date_unix_ms": 1687910400000,
+  "catalog_start_date": 20220823,
+  "catalog_end_date": "20230628",
+  "catalog_publication_date": 20250630,
+  "limits": "Modern USGS service elevations, not ancient stages, original field validation or S27 modified terrain. Five point values do not bound all interior positions or vertical uncertainty. EPQS date 5/3/2023 differs from catalog AcquisitionDate; source-date semantics unverified. No water surface or discharge computed.",
+  "hydraulic_simulation_executed": false,
+  "independent_scientific_validation": false
+}

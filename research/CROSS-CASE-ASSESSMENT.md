@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Modern terrain and a published discovery-credit correction
+
+S335 ten USGS queries identify one 1 m NAVD88 raster; nominal crossing/noncrossing terrain 431.602/434.117 m reverses S27 printed field ordering, without correcting ancient stages or authenticating original surveys. Original S11 Table 3 distinguishes Babcock crossing from separate Lynch erratic. S336 authors’ corrigendum credits Thomas Cooney for four discoveries and reports revision/name errors; first-posting bytes and intent unverified. See [terrain audit](LYNCH-BABCOCK-TERRAIN.md) and [credit correction](MISSOULA-CREDIT-CORRECTION.md).28 drafts / 336 sources; all twenty objectives remain active.
+
 ### 2026-10-09 — Complete Missoula field-control table
 
 S27 complete 47-row Table 1 now retains 17 nonexceedance / 30 other indicators, four blank model registrations, source unit discrepancies and nearby opposite bounds. All numeric cells checked against separate original-PDF extraction; eleven legacy rows unchanged. Retrospective coordinate screening keeps short-distance rounding separate from Long-11 mismatches. No corrected survey, stage outputs, hydraulic run or common event. See [complete control audit](MISSOULA-COMPLETE-CONTROLS.md).28 drafts / 334 sources; all twenty outcomes remain active.
