@@ -1696,3 +1696,10 @@ Previous goal turn made progress:c123790published Nomlaki dependencies and11file
 S327 original methods and analytical data identify ROSER-2aDryCreek plagioclase. Five marked steps reproduce rounded plateau3.314±0.011Ma, while authors prefer3.339Ma inverse isochron, not reproduced. Figure/main uncertainty difference and allnine steps retained; no regional target age transferred. See [audit](research/NOMLAKI-DIRECT-DATING.md). 28 drafts/327 sources; no independent review or chronology break established.
 
 Previous goal turn made progress:5801116published Willow Wash and12files byte-verified; current clean checkout revalidated. Search recovered later direct analysis and original DOI-linked Figshare packagev2; both acquired-fileMD5s matched. Methods four pages rendered/inspected; spreadsheet original cells/fonts read-only, no layout claim. Publisher web fetch inaccessible; main remains author-uploaded textportion. Unknown source weights, raw gas reduction and regional joins remain unresolved; no outreach or goal completion.
+
+
+### 2026-10-09 — Correlated-error Nomlaki fit and conversion discrepancy
+
+S327five-step inverse-ratio fit closely reproduces source intercept/scatter/error. DeclaredJ/lambda give3.340204Ma versus3.339reported; sharedJ could explain rounded0.015/0.016error difference but original convention remains unverified. Allnine-step sensitivity has excess scatter. See [audit](research/NOMLAKI-ISOCHRON-CHECK.md). 28 drafts/327 sources; no target-bed date or independent review established.
+
+Previous goal turn made progress:9058d70published direct-dating audit and13files were publicly byte-verified; current clean checkout revalidated. Original reduced JSON inputs retained. Three-start and profile-objective numerical checks passed for each variant. No source calibration was tuned; derived impliedJ diagnostic remains distinct from a measurement. Original main scan/reduction software, shared gas-error covariance and target correlations remain unverified. No outreach, independent scientific review or goal completion.

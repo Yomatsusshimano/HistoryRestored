@@ -5046,8 +5046,8 @@
       "url": "https://doi.org/10.1130/2021.1217(16)",
       "source_type": "Original GSA Memoir217 chapter pp393-441; author-uploaded main text portion plus publisher-linked AppS1 and TableS1; one study",
       "access": "SCAN_INSPECTED",
-      "inspected": "AppS1PDF21-24 visually inspected. Original TableS1XLSX headers3/4, block86-95 and notes99-109 read-only, lab-ID bold inclusion flags checked; no workbook layout rendering. Main Nomlaki passage and Table4 exposed text read, no main scans.",
-      "limitations": "One Nomlaki aliquot with9steps is not9independent specimens. Plateau diagnostic reuses published derived values; raw gas reduction, selection algorithm and preferred inverse isochron unreproduced. Figure/main0.015/0.016error difference retained. No Willow Wash candidate resolution or southern target correlation.",
+      "inspected": "AppS1PDF21-24 visually inspected. Original TableS1XLSX headers3/4, block86-95 and notes99-109 read-only, lab-ID bold inclusion flags checked; no workbook layout rendering. Main Nomlaki passage and Table4 exposed text read, no main scans. Follow-up declared correlated-error inverse-ratio fit with all-nine and zero-correlation sensitivities; source intercept/scatter/error closely reproduced, central-age conversion differs0.001204Ma.",
+      "limitations": "One Nomlaki aliquot, not9independent specimens. Reduced-data Gaussian fit is substantially reproduced under explicit parameters, not original software or raw gas reduction. Calibration/conversion discrepancy and figure/main uncertainty conventions remain unresolved; no primary-emplacement or regional target correlation verified.",
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"

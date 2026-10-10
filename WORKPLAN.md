@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Correlated-error Nomlaki fit and conversion discrepancy
+
+S327five-step inverse-ratio fit closely reproduces source intercept/scatter/error. DeclaredJ/lambda give3.340204Ma versus3.339reported; sharedJ could explain rounded0.015/0.016error difference but original convention remains unverified. Allnine-step sensitivity has excess scatter. See [audit](research/NOMLAKI-ISOCHRON-CHECK.md). 28 drafts/327 sources; no target-bed date or independent review established.
+
 ### 2026-10-09 — Direct Nomlaki analysis and bounded plateau check
 
 S327 original methods and analytical data identify ROSER-2aDryCreek plagioclase. Five marked steps reproduce rounded plateau3.314±0.011Ma, while authors prefer3.339Ma inverse isochron, not reproduced. Figure/main uncertainty difference and allnine steps retained; no regional target age transferred. See [audit](research/NOMLAKI-DIRECT-DATING.md). 28 drafts/327 sources; no independent review or chronology break established.

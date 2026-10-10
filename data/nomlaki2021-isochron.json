@@ -1,0 +1,190 @@
+{
+  "source_id": "S327",
+  "input_sha256": "fe533ef1b0612400766398dac2a7beb25b0d4c67fc77d32bc5b7ae24c13090fa",
+  "model": "Fixed point-specific bivariate Gaussian covariance; latent true x coordinates; weighted squared Mahalanobis residual minimization",
+  "columns": {
+    "x": "AC39Ar/40Ar",
+    "x_error": "ADpercent1sigma",
+    "y": "AA36Ar/40Ar",
+    "y_error": "ABpercent1sigma",
+    "rho": "AEerrorcorrelation"
+  },
+  "parameter_covariance_scope": "Local linearized covariance; no MSWD contraction or unmeasured calibration covariance",
+  "lambda_per_year": 5.463e-10,
+  "lambda_basis": "Declared constant explicit in existing S210 methods, consistent with Min-style convention named by S327; exact S327 reduction implementation unverified",
+  "baseline": {
+    "rows": [
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "n": 5,
+    "dof": 3,
+    "slope": -0.02448046548372765,
+    "intercept": 0.003495641007728605,
+    "parameter_covariance": [
+      [
+        5.104330391882558e-09,
+        -4.17826257120728e-08
+      ],
+      [
+        -4.17826257120728e-08,
+        3.470057165110539e-07
+      ]
+    ],
+    "radiogenic_ar40_ar39": 7.003140605572238,
+    "radiogenic_ratio_sem": 0.031497889527432966,
+    "trapped_ar40_ar36": 286.07056553835866,
+    "trapped_ratio_sem": 5.846766337259369,
+    "Q": 0.3778003526608424,
+    "mswd": 0.12593345088694746,
+    "chi_square_upper_tail": 0.944789261113582,
+    "age_ma": 3.3402035414720177,
+    "analytical_sem_ma": 0.015009470160384576,
+    "shared_J_sem_ma": 0.004603998276554289,
+    "analytical_plus_J_sem_ma": 0.015699713202029834,
+    "J": 0.0002608,
+    "J_sem": 3.59804e-07,
+    "correlations_ignored": false,
+    "numerical_checks": {
+      "three_start_objective_agreement": true,
+      "profile_objective_agreement": true
+    }
+  },
+  "sensitivity_all_nine_steps": {
+    "rows": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "n": 9,
+    "dof": 7,
+    "slope": -0.02360768798590449,
+    "intercept": 0.0033773098445713185,
+    "parameter_covariance": [
+      [
+        4.0811185365794727e-10,
+        -3.432706875179098e-09
+      ],
+      [
+        -3.432706875179098e-09,
+        3.331712050635471e-08
+      ]
+    ],
+    "radiogenic_ar40_ar39": 6.9900865103779095,
+    "radiogenic_ratio_sem": 0.021491104608355554,
+    "trapped_ar40_ar36": 296.09365027831194,
+    "trapped_ratio_sem": 1.7711192063590828,
+    "Q": 27.624863829529353,
+    "mswd": 3.946409118504193,
+    "chi_square_upper_tail": 0.00025710011110425656,
+    "age_ma": 3.333982953738882,
+    "analytical_sem_ma": 0.010241041363929101,
+    "shared_J_sem_ma": 0.004595431881921567,
+    "analytical_plus_J_sem_ma": 0.011224835072244404,
+    "J": 0.0002608,
+    "J_sem": 3.59804e-07,
+    "correlations_ignored": false,
+    "numerical_checks": {
+      "three_start_objective_agreement": true,
+      "profile_objective_agreement": true
+    }
+  },
+  "sensitivity_zero_point_correlations": {
+    "rows": [
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "n": 5,
+    "dof": 3,
+    "slope": -0.02446569439835171,
+    "intercept": 0.003494104245024321,
+    "parameter_covariance": [
+      [
+        4.278794160310753e-09,
+        -3.5137616855868186e-08
+      ],
+      [
+        -3.513761685586817e-08,
+        2.9277454146308345e-07
+      ]
+    ],
+    "radiogenic_ar40_ar39": 7.001993267141751,
+    "radiogenic_ratio_sem": 0.029309866096214634,
+    "trapped_ar40_ar36": 286.19638392987883,
+    "trapped_ratio_sem": 5.3578306404932565,
+    "Q": 0.4153430556745418,
+    "mswd": 0.13844768522484727,
+    "chi_square_upper_tail": 0.9370550564315944,
+    "age_ma": 3.339656808190315,
+    "analytical_sem_ma": 0.01396683074877153,
+    "shared_J_sem_ma": 0.004603245369274105,
+    "analytical_plus_J_sem_ma": 0.01470585696566417,
+    "J": 0.0002608,
+    "J_sem": 3.59804e-07,
+    "correlations_ignored": true,
+    "numerical_checks": {
+      "three_start_objective_agreement": true,
+      "profile_objective_agreement": true
+    }
+  },
+  "source_figure4e": {
+    "age_ma": 3.339,
+    "error_ma": 0.015,
+    "trapped_ratio": 286.1,
+    "trapped_error": 5.8,
+    "mswd": 0.13,
+    "P": 0.94,
+    "n": 5
+  },
+  "implied_J_diagnostic": [
+    {
+      "row": 87,
+      "implied_J": 0.00026071929735627943
+    },
+    {
+      "row": 88,
+      "implied_J": 0.0002607192737371524
+    },
+    {
+      "row": 89,
+      "implied_J": 0.0002607192703567893
+    },
+    {
+      "row": 90,
+      "implied_J": 0.0002607192368937898
+    },
+    {
+      "row": 91,
+      "implied_J": 0.00026071924025125316
+    },
+    {
+      "row": 92,
+      "implied_J": 0.00026071923707731006
+    },
+    {
+      "row": 93,
+      "implied_J": 0.0002607192511924812
+    },
+    {
+      "row": 94,
+      "implied_J": 0.0002607192176400965
+    },
+    {
+      "row": 95,
+      "implied_J": 0.0002607192568271285
+    }
+  ],
+  "limits": "Reuses reduced published ratios and author selection. Numerical checks verify this declared model only. No raw gas reduction, full systematic uncertainty, exact author implementation, primary emplacement or target-bed correlation."
+}

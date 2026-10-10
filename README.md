@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Nomlaki inverse-isochron check](research/NOMLAKI-ISOCHRON-CHECK.md): correlated errors, selection sensitivity and an unresolved conversion discrepancy.
+
 - [Direct Nomlaki dating audit](research/NOMLAKI-DIRECT-DATING.md): named sample, original methods, marked heating steps and separate age-transfer limits.
 
 - [Willow Wash original control](research/WILLOW-WASH-NOMLAKI.md): unresolved ash identity, age conflicts and a bounded rate calculation.
