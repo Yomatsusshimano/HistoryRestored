@@ -39,3 +39,6 @@ Follow-up: [direct Nomlaki dating](NOMLAKI-DIRECT-DATING.md) adds a separate Dry
 
 
 Follow-up: [chemical crosswalk](NOMLAKI-CHEMICAL-CROSSWALK.md) identifies a later Danville assignment for the light-coloured FLV119fraction and a lower-Nomlaki CaO prose-table discrepancy; neither supplies a whole-bed age transfer.
+
+
+Follow-up: [Artists Drive original controls](ARTISTS-DRIVE-NOMLAKI.md) recover the2001lower-Nomlaki grouping of FLV119and explicit rare-earth/stratigraphic discriminators; component identity and exact2008extrapolation remain unresolved.

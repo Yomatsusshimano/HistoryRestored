@@ -74,3 +74,5 @@ Use the links and inspection locators in the source registry. Cached source acce
 Run `python archive.py build` to generate the inventory from the records, then `python archive.py verify` to check internal references and required fields. These are record-integrity checks. Use `python archive.py snapshot` to preserve a new hash manifest and copy of the research files; earlier snapshots are retained. Snapshot creation dates are local records, not independent public timestamps.
 
 Public releases include standards, cases, adverse findings, limitations, and revision history together. Git commits preserve public versions; snapshots/ is an optional local backup excluded from Git. Outside review and geographically independent replication remain pending. Repository publication does not establish the reconstruction.
+
+Latest primary-source follow-up: [Artists Drive ash controls](research/ARTISTS-DRIVE-NOMLAKI.md).

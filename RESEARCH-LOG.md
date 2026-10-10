@@ -1710,3 +1710,10 @@ Previous goal turn made progress:9058d70published direct-dating audit and13files
 S327lists FLV119light-coloured glass inDanville group, without classifying the full bimodal sample. S325printed lower-Nomlaki CaO values reverse the prose ordering for two named samples. Original values and scope retained. See [audit](research/NOMLAKI-CHEMICAL-CROSSWALK.md). 28 drafts/327 sources; no new age transfer or independent review.
 
 Previous goal turn made progress:6325229published inverse-ratio check and11files byte-verified; current clean checkout revalidated. Three further original workbooks acquired withMD5matches. SelectedS2/S4rows/header claims only; S3remains unaudited. Large S2used-range output was bounded to18columns on reread. OriginalTableA1rendered and fiveCaOrows visually compared with inspected prose. No normalization, inferred errors, whole-sample reassignment, direct regional date, outreach or goal completion.
+
+
+### 2026-10-09 — Artists Drive primary correlation controls
+
+S328original Table C3-1 groups FLV119under lower Nomlaki, not Nomlaki Tuff; rare-earth/polarity/section controls supply discriminators but mixed fractions and2008extrapolation remain unresolved. See [audit](research/ARTISTS-DRIVE-NOMLAKI.md). 28 drafts/328 sources; no regional age transfer or independent review.
+
+Previous goal turn made progress:152adbc published chemical crosswalk;12files publicly byte-verified. Clean checkout revalidated. Bounded21column read-only search of S327TablesS2/S3/S4 found only the previously identifiedFLV119lightfraction under the declared119/117label selector; no databasewideabsence claimed. Normal official TLS download acquired254page2001guide despite webtool403; selected5pages rendered and inspected. Search snippet obscured lower-Nomlakiheading, corrected against original scan before publication. No inferred fraction join, trace-element calculation, field verification, outreach or goal completion.

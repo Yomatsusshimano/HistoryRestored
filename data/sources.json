@@ -5051,6 +5051,20 @@
       "local_copy": null,
       "accessed_date": "2026-10-09",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S328",
+      "title": "Late Pliocene tephrostratigraphy and geomorphic development of the Artists Drive structural block (Stop C3)",
+      "creator": "Jeffrey R. Knott; Andrei M. Sarna-Wojcicki",
+      "publication_date": "2001",
+      "url": "https://pubs.usgs.gov/of/2001/ofr-01-0051/ofr-01-0051.pdf",
+      "source_type": "Original USGS Open-File Report01-51 field-guide chapter, printed C105 onward, edited volume by Machette/Johnson/Slate",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF113-117, printed C105-C109 visually inspected, including Table C3-1 and Figures C3-3/C3-4. Selected five nine-oxide rows transcribed; no full254page guide review.",
+      "limitations": "Inferred glass correlations, no separated FLV119populations or shard-level data; no numerical rare-earth reproduction, raw paleomagnetic audit, original personal-communication age assay, exact2008extrapolation or target-bed authentication.",
+      "local_copy": null,
+      "accessed_date": "2026-10-09",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

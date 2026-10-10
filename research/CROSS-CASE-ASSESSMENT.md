@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-09 — Artists Drive primary correlation controls
+
+S328original Table C3-1 groups FLV119under lower Nomlaki, not Nomlaki Tuff; rare-earth/polarity/section controls supply discriminators but mixed fractions and2008extrapolation remain unresolved. See [audit](ARTISTS-DRIVE-NOMLAKI.md). 28 drafts/328 sources; no regional age transfer or independent review.
+
 ### 2026-10-09 — Fraction-specific ash crosswalk and CaO discrepancy
 
 S327lists FLV119light-coloured glass inDanville group, without classifying the full bimodal sample. S325printed lower-Nomlaki CaO values reverse the prose ordering for two named samples. Original values and scope retained. See [audit](NOMLAKI-CHEMICAL-CROSSWALK.md). 28 drafts/327 sources; no new age transfer or independent review.

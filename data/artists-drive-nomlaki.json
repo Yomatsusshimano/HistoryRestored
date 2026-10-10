@@ -1,0 +1,118 @@
+{
+  "source_id": "S328",
+  "source_url": "https://pubs.usgs.gov/of/2001/ofr-01-0051/ofr-01-0051.pdf",
+  "original_pdf_bytes": 7027310,
+  "original_pdf_sha256": "1b4a31e724e05fa1971da2cdf973d580f55480d538ed1784850b377181e21045",
+  "visually_inspected_pdf_pages": [
+    113,
+    114,
+    115,
+    116,
+    117
+  ],
+  "table_locator": "C108/PDF116 Table C3-1",
+  "oxide_order": [
+    "SiO2",
+    "Al2O3",
+    "Fe2O3",
+    "MgO",
+    "MnO",
+    "CaO",
+    "TiO2",
+    "Na2O",
+    "K2O"
+  ],
+  "basis": "Source recalculated to100percent fluid-free, weight-percent oxides",
+  "selected_rows": [
+    {
+      "printed_row": 8,
+      "sample": "JRK-DV-60",
+      "group_heading": "Nomlaki Tuff (3.27 Ma)",
+      "values": [
+        76.9,
+        12.8,
+        1.21,
+        0.24,
+        0.04,
+        1.13,
+        0.21,
+        3.99,
+        3.52
+      ]
+    },
+    {
+      "printed_row": 9,
+      "sample": "TSN-1",
+      "group_heading": "Nomlaki Tuff (3.27 Ma)",
+      "values": [
+        76.5,
+        13.5,
+        1.19,
+        0.2,
+        0.05,
+        1.07,
+        0.22,
+        3.82,
+        3.4
+      ]
+    },
+    {
+      "printed_row": 13,
+      "sample": "JRK-DV-39",
+      "group_heading": "Lower Nomlaki tuff (>3.58 Ma)",
+      "values": [
+        75.4,
+        13.8,
+        1.2,
+        0.24,
+        0.06,
+        0.93,
+        0.22,
+        4.55,
+        3.56
+      ]
+    },
+    {
+      "printed_row": 14,
+      "sample": "JRK-DV-104",
+      "group_heading": "Lower Nomlaki tuff (>3.58 Ma)",
+      "values": [
+        76.9,
+        13.4,
+        1.12,
+        0.22,
+        0.06,
+        0.88,
+        0.2,
+        3.76,
+        3.53
+      ]
+    },
+    {
+      "printed_row": 15,
+      "sample": "FLV-119-WW",
+      "group_heading": "Lower Nomlaki tuff (>3.58 Ma)",
+      "values": [
+        76.6,
+        13.1,
+        1.14,
+        0.17,
+        0.02,
+        0.92,
+        0.21,
+        3.3,
+        4.47
+      ]
+    }
+  ],
+  "FLV119_fraction_identity": null,
+  "local_direct_age": null,
+  "reported_lower_nomlaki_bracket_Ma": [
+    3.58,
+    3.9
+  ],
+  "bracket_basis": "Reverse polarity and position below reported3.35Ma lower Mesquite Spring; not confidence bounds",
+  "rare_earth_values_reproduced": false,
+  "exact_2008_extrapolation_reproduced": false,
+  "independent_review": false
+}

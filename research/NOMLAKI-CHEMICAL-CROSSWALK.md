@@ -31,3 +31,6 @@ The source acknowledges possible multiple similar lower-Nomlaki layers while pro
 ## Next discriminating evidence
 
 Recover the complete FLV-119-WW component analyses and the later evidence separating Danville from Nomlaki; trace the precise Willow Wash sample used for the2008estimate. For the northern Colorado control, recover the shard-level analyses of the five lower-Nomlaki samples and inspect primary-emplacement evidence for the actual ash beds. Distinguish the informal lower Nomlaki from the younger Nomlaki Tuff when testing correlations. The original Dry Creek numerical age remains a separate control, not an age assigned to all these samples.
+
+
+Follow-up: [Artists Drive original controls](ARTISTS-DRIVE-NOMLAKI.md) recover the2001lower-Nomlaki grouping of FLV119and explicit rare-earth/stratigraphic discriminators; component identity and exact2008extrapolation remain unresolved.
