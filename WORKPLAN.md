@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-09 — Fraction-specific ash crosswalk and CaO discrepancy
+
+S327lists FLV119light-coloured glass inDanville group, without classifying the full bimodal sample. S325printed lower-Nomlaki CaO values reverse the prose ordering for two named samples. Original values and scope retained. See [audit](research/NOMLAKI-CHEMICAL-CROSSWALK.md). 28 drafts/327 sources; no new age transfer or independent review.
+
 ### 2026-10-09 — Correlated-error Nomlaki fit and conversion discrepancy
 
 S327five-step inverse-ratio fit closely reproduces source intercept/scatter/error. DeclaredJ/lambda give3.340204Ma versus3.339reported; sharedJ could explain rounded0.015/0.016error difference but original convention remains unverified. Allnine-step sensitivity has excess scatter. See [audit](research/NOMLAKI-ISOCHRON-CHECK.md). 28 drafts/327 sources; no target-bed date or independent review established.

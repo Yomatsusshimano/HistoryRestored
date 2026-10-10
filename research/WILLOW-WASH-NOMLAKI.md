@@ -29,3 +29,6 @@ These are disclosed technical uncertainties in an ancient regional chronology. T
 
 
 Follow-up: [direct Nomlaki dating](NOMLAKI-DIRECT-DATING.md) adds a separate Dry Creek plagioclase analysis; it does not resolve the original Willow Wash layer selection or transfer an age to the southern target.
+
+
+Follow-up: [chemical crosswalk](NOMLAKI-CHEMICAL-CROSSWALK.md) identifies a later Danville assignment for the light-coloured FLV119fraction and a lower-Nomlaki CaO prose-table discrepancy; neither supplies a whole-bed age transfer.

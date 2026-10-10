@@ -1703,3 +1703,10 @@ Previous goal turn made progress:5801116published Willow Wash and12files byte-ve
 S327five-step inverse-ratio fit closely reproduces source intercept/scatter/error. DeclaredJ/lambda give3.340204Ma versus3.339reported; sharedJ could explain rounded0.015/0.016error difference but original convention remains unverified. Allnine-step sensitivity has excess scatter. See [audit](research/NOMLAKI-ISOCHRON-CHECK.md). 28 drafts/327 sources; no target-bed date or independent review established.
 
 Previous goal turn made progress:9058d70published direct-dating audit and13files were publicly byte-verified; current clean checkout revalidated. Original reduced JSON inputs retained. Three-start and profile-objective numerical checks passed for each variant. No source calibration was tuned; derived impliedJ diagnostic remains distinct from a measurement. Original main scan/reduction software, shared gas-error covariance and target correlations remain unverified. No outreach, independent scientific review or goal completion.
+
+
+### 2026-10-09 — Fraction-specific ash crosswalk and CaO discrepancy
+
+S327lists FLV119light-coloured glass inDanville group, without classifying the full bimodal sample. S325printed lower-Nomlaki CaO values reverse the prose ordering for two named samples. Original values and scope retained. See [audit](research/NOMLAKI-CHEMICAL-CROSSWALK.md). 28 drafts/327 sources; no new age transfer or independent review.
+
+Previous goal turn made progress:6325229published inverse-ratio check and11files byte-verified; current clean checkout revalidated. Three further original workbooks acquired withMD5matches. SelectedS2/S4rows/header claims only; S3remains unaudited. Large S2used-range output was bounded to18columns on reread. OriginalTableA1rendered and fiveCaOrows visually compared with inspected prose. No normalization, inferred errors, whole-sample reassignment, direct regional date, outreach or goal completion.

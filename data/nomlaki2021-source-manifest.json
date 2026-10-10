@@ -20,6 +20,20 @@
       "bytes": 38396,
       "md5": "fbab392f4a92dd81ca2adc06dfe22821",
       "sha256": "18144d096092ebfd3de69e852c986acc0c19121f579cf0775f59c442414cf9fb"
+    },
+    {
+      "name": "217-16-SuppTab2.xlsx",
+      "url": "https://ndownloader.figshare.com/files/29107473",
+      "bytes": 400538,
+      "md5": "891f142689cce354219fcd3c5b474150",
+      "sha256": "a51bacb6e16cc5cd8dad96190dc63acf0929424cd2f16cc10fa7a246a0847f5a"
+    },
+    {
+      "name": "217-16-SuppTab4.xlsx",
+      "url": "https://ndownloader.figshare.com/files/29107479",
+      "bytes": 73859,
+      "md5": "dc04784013d67419011a75664eaf1184",
+      "sha256": "59bdf244aa6802cc580ef0ee94aec5dfa764ddcd537ee9356a109c08a43d711c"
     }
   ],
   "main_access": "AUTHOR_UPLOADED_TEXT_PORTION",
@@ -28,5 +42,6 @@
     22,
     23,
     24
-  ]
+  ],
+  "chemical_workbook_inspection": "Selected TableS2/S4 header/group/sample cells, no full database or layout verification"
 }

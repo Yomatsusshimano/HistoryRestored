@@ -1,0 +1,236 @@
+{
+  "source_ids": [
+    "S325",
+    "S327"
+  ],
+  "S325_locator": "TableA1printed350/PDF16; prose printed351/PDF17",
+  "S325_transcription_scope": "Five lower-Nomlaki sample labels/n/CaO; no entire table, normalization or shard-level data reproduction",
+  "lower_nomlaki_CaO": [
+    {
+      "sample": "Topock#1",
+      "n_shards": 19,
+      "CaO_wt_percent": 0.938
+    },
+    {
+      "sample": "CWAJB02-1",
+      "n_shards": 19,
+      "CaO_wt_percent": 0.914
+    },
+    {
+      "sample": "jf-01-07",
+      "n_shards": 15,
+      "CaO_wt_percent": 0.904
+    },
+    {
+      "sample": "CAES#1-1143",
+      "n_shards": 15,
+      "CaO_wt_percent": 0.923
+    },
+    {
+      "sample": "JRK-DV-39",
+      "n_shards": 22,
+      "CaO_wt_percent": 0.956
+    }
+  ],
+  "printed_value_comparisons": [
+    {
+      "subject": "Topock#1",
+      "comparison": "CWAJB02-1",
+      "printed_subject_higher": true
+    },
+    {
+      "subject": "Topock#1",
+      "comparison": "jf-01-07",
+      "printed_subject_higher": true
+    },
+    {
+      "subject": "Topock#1",
+      "comparison": "CAES#1-1143",
+      "printed_subject_higher": true
+    },
+    {
+      "subject": "JRK-DV-39",
+      "comparison": "CWAJB02-1",
+      "printed_subject_higher": true
+    },
+    {
+      "subject": "JRK-DV-39",
+      "comparison": "jf-01-07",
+      "printed_subject_higher": true
+    },
+    {
+      "subject": "JRK-DV-39",
+      "comparison": "CAES#1-1143",
+      "printed_subject_higher": true
+    }
+  ],
+  "S327_tableS4": {
+    "header_rows": [
+      [
+        "TableS4.  Chemical composition of volcanic glass measured via Electron Microprobe (EMA) of tephra layers discussed in Sarna-Wojcicki and others, this volume, arranged in groups in stratigraphic order from youngest at top (stratigraphic number 32)  ",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "to oldest at bottom (stratigraphic number 1). There are 34 tephra layers in total (some numbers are duplicated, followed by a letter, e.g. 18 and 18A). The groups represent those samples considered to be the same tephra layer within each sample ",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "group, based on chemical similarity as well as other stratigraphic or numerical age evidence. The averages and standard deviations of these groups serve as guides for assignment or exclusion of new or other samples into a particular group.",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "group_heading_row": 311,
+    "group_raw_cells": [
+      22,
+      null,
+      "Tuff of Danville, ~4.8 Ma (4.37 Ma)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "sample_row": 316,
+    "sample_raw_cells": [
+      null,
+      2199,
+      "FLV-119-WW LT. COL. GLS. T183-",
+      "1989-01-25T00:00:00",
+      76.88,
+      12.96,
+      1.07,
+      0.16,
+      0.05,
+      0.89,
+      0.19,
+      3.4,
+      4.41,
+      100.01,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "S327_tableS2": {
+    "group_heading_row": 325,
+    "group_raw_cells": [
+      22,
+      null,
+      "Tuff of Danville, Den Hartog #3-26-89-6, Etchegoin Fm., ~4.8 Ma (4.37 Ma)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "sample_row": 329,
+    "sample_raw_cells": [
+      null,
+      2199,
+      "FLV-119-WW LT. COL. GLS. T183-",
+      "1989-01-25T00:00:00",
+      76.88,
+      12.96,
+      1.07,
+      0.16,
+      0.05,
+      0.89,
+      0.19,
+      3.4,
+      4.41,
+      100.01,
+      "--",
+      "--",
+      null,
+      null
+    ]
+  },
+  "sample_coordinates": null,
+  "fraction_only": true,
+  "independent_dating_or_correlation_authentication": false,
+  "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+}
