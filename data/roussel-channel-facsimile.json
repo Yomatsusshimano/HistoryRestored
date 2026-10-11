@@ -1,0 +1,66 @@
+{
+  "source_id": "S359",
+  "status": "SOURCED_DRAFT",
+  "accessed_date": "2026-10-11",
+  "retrievals": [
+    {
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-44_001.jpg?itok=8Kmjq6kK",
+      "sha256": "2d6ff526d63f4d9d420b9b79e4f56b35f0a9c1bc62947030fc9ad0e8a9f8989e",
+      "bytes": 810124,
+      "plate": "XXVI",
+      "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320295550/manifest",
+      "actual_width_px": 1508,
+      "actual_height_px": 2160,
+      "visually_inspected": true,
+      "public_mirror": false
+    },
+    {
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-45_001.jpg?itok=dDhn-Y6w",
+      "sha256": "e1b73b8d19ebc0a4e4516669bee5efce8b38ec8e633c996b0e60ef38d50f9638",
+      "bytes": 785881,
+      "plate": "XXVI bis",
+      "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320295560/manifest",
+      "actual_width_px": 1500,
+      "actual_height_px": 2160,
+      "visually_inspected": true,
+      "public_mirror": false
+    }
+  ],
+  "institution": "Paris Musées, Musée Carnavalet",
+  "work": "Atlas des anciens plans de Paris",
+  "object_titles": "Paris en1731, Fac-similé du plan deRoussel, platesXXVI/XXVIbis",
+  "catalogued_reproduction_century": 19,
+  "exact_reproduction_date": null,
+  "catalogued_creators": [
+    "Paul Dujardin",
+    "Charles Chardon",
+    "Imprimerie Nationale"
+  ],
+  "reported_map_year_in_S17": 1730,
+  "depicted_or_title_year": 1731,
+  "exact_early_edition_authenticated": false,
+  "object_format": "Heliogravure facsimile",
+  "western_observation": {
+    "elongated_island_depicted": true,
+    "separating_channel_depicted": true,
+    "nearby_label": "Chaillot",
+    "island_name_association": [
+      "Maquerelle",
+      "Cygnes"
+    ],
+    "complete_archaic_label_transcribed": false,
+    "small_bridge_labels_authenticated": false,
+    "metric_channel_width": null,
+    "modern_coordinates": null,
+    "foundation_shaft_join": false,
+    "fill_date": null
+  },
+  "failed_target": {
+    "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7711270h/manifest.json",
+    "result": "HTTP403Forbidden",
+    "access_bypassed": false,
+    "original_impression_inspected": false
+  },
+  "source_dependence": "Two companion facsimile sheets, not two independent early map witnesses; original edition and fidelity untested.",
+  "limits": "Qualitative depictedchannel agrees with participant explanation; no directterrainage, infillingdate/rate/mechanism, quantitativegeoregistration or specimenjoin. Actual1500pixelwidth despite4kURLpath; missinglicensefield not interpreted as permission."
+}

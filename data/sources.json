@@ -5944,6 +5944,32 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S359",
+      "title": "Paris en1731, Fac-similé du plan deRoussel, platesXXVI/XXVIbis, nineteenth-century heliogravure objects",
+      "url": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/paris-en-1731-fac-simile-du-plan-de-roussel-pl-xxvi-bis",
+      "creator": "Paul Dujardin; Charles Chardon; Imprimerie Nationale, per Paris Musées / Musée Carnavalet catalog",
+      "publication_date": null,
+      "source_type": "Institutional scans of nineteenth-century cartographic facsimiles",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Two complete delivered sheets and westernisland/channelcrop visually inspected; catalog/manifestobjectcentury and reproductiontitle checked.",
+      "limitations": "Exactreproductiondate and originaleditionunverified; title1731 differs fromS17citation1730 without authenticatedcause. DirectGallicamanifest403, originalimpressionuninspected. Delivered1500pixelwidth; smalllabels/metricwidth unverified. Companionfacsimilesnotindependentwitnesses; nofoundationregistration orburialdate.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-44_001.jpg?itok=8Kmjq6kK",
+          "sha256": "2d6ff526d63f4d9d420b9b79e4f56b35f0a9c1bc62947030fc9ad0e8a9f8989e",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-45_001.jpg?itok=dDhn-Y6w",
+          "sha256": "e1b73b8d19ebc0a4e4516669bee5efce8b38ec8e633c996b0e60ef38d50f9638",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

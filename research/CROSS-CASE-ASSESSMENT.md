@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Depicted channel and reproduction-date limits
+
+S359museumfacsimilesinspected: westernsheet visibly depicts island/separatingchannel nearChaillot. Reproductionobject19thcentury/title1731 differs fromS17citation1730; exactedition/date andfoundationregistration unverified. Gallicatarget403; no bypass.28drafts/359sources; all twenty objectives active. See [map audit](ROUSSEL-CHANNEL-FACSIMILE.md).
+
 ### 2026-10-11 — Located piers and original figure-reference mismatch
 
 ExpandedS358plateIinspection: planfigure6confirms river-sidepiers1/4 versusinland2/3. PlateIIprintedfigure5reference mismatches upperstructuraldiagram; causeunknown. Numberedprofile/log and modernregistration stillmissing.28drafts/358sources; all twenty objectives active. See [plan audit](EIFFEL-FOUNDATION-PLAN-I.md).
