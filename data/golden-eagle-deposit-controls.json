@@ -119,7 +119,7 @@
   ],
   "limits": [
     "Selected prose and plates inspected; full report not reviewed",
-    "Sections14/16 inspected; Section9 omitted in both digital editions; Plan1 and artifact reference chapters not audited",
+    "Sections10/14/15/16 and Plan1 selected features inspected; Section9 omitted; artifact reference chapters and full spatial/elevation transcription not audited",
     "Natural silt, street fill, refuse and demolition processes cannot be pooled",
     "Temporary benchmark is not a verified vertical datum",
     "No Reddit media join, global event date or independent sediment validation",
@@ -162,6 +162,61 @@
       "datum_tie_to_recognized_vertical_reference": null,
       "observation": "Layer70 at south edge beside intrusive feature;90 below later pit fills84/85;81/83 above redwood; separate intrusive boundary",
       "intrusive_feature_date": null
+    },
+    {
+      "section": 15,
+      "locator": "Printed99/PDF131",
+      "status": "SCAN_INSPECTED",
+      "context": "AreaIX Features16/27 north and south sections"
+    },
+    {
+      "section": 10,
+      "locator": "Printed92/PDF124",
+      "status": "SCAN_INSPECTED",
+      "context": "Contractor-exposed north section south of TrenchE",
+      "full_layer_elevation_transcription": false
+    }
+  ],
+  "plan_control": {
+    "locator": "Printed78/PDF110 Plan1",
+    "status": "SCAN_INSPECTED",
+    "feature_groups": [
+      {
+        "area": "VII",
+        "features": [
+          8,
+          14
+        ]
+      },
+      {
+        "area": "IX",
+        "features": [
+          16,
+          27
+        ]
+      }
+    ],
+    "independently_georeferenced": false,
+    "vertical_reference_authenticated": false
+  },
+  "reported_date_bounds": [
+    {
+      "context": "Layer56 sealing Feature16 and overlying upper Feature8 fill",
+      "locator": "Printed73/PDF105",
+      "bound_type": "TERMINUS_POST_QUEM",
+      "year": 1864,
+      "basis": "Whole bottle reported by author",
+      "underlying_artifact_date_basis_audited": false,
+      "independent_sediment_date": null
+    },
+    {
+      "context": "Layer134 cut by WallG construction trench",
+      "locator": "Printed74/PDF106",
+      "bound_type": "TERMINUS_ANTE_QUEM",
+      "year": 1857,
+      "basis": "Reported WallG construction date",
+      "underlying_document_date_basis_audited": false,
+      "independent_sediment_date": null
     }
   ]
 }

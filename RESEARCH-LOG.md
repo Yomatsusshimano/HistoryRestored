@@ -2211,3 +2211,8 @@ R008 adds two indexed discussions, a selected-page municipal record and an1871gu
 ### 2026-10-11 — Golden Eagle section and digital-edition controls
 
 [Section audit](research/GOLDEN-EAGLE-SECTION-CONTROLS.md): Sections14/16 visually inspected; Section9 omitted from both compressed and larger downloads. Section16 local13ft0in datum not tied to a recognized reference. Relative pit/fill relationships preserved, no independent sediment age, Plan1 crosswalk or Reddit parcel join. Same31core drafts/460sources; all twenty objectives active.
+
+
+### 2026-10-11 — Golden Eagle drains and date-bound dependencies
+
+[Drain chronology](research/GOLDEN-EAGLE-DRAIN-CHRONOLOGY.md): Plan1, Plate5, idealized Figure2, Sections10/15 and printed73-74 inspected. Earlier/later drain phases distinguished; Layer56 reported1864TPQ and Layer134 reported1857TAQ retained with unaudited bottle/wall-date bases. Fire and flood attributions conditional. Same31core drafts/460sources; no independent deposit age or Reddit parcel join. All twenty objectives active.
