@@ -1,0 +1,120 @@
+{
+  "source_id": "S366",
+  "status": "SOURCED_DRAFT",
+  "images": [
+    {
+      "pid": "PA86",
+      "page_url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA86",
+      "image_url": "https://books.google.com/books/content?id=QSMKAAAAIAAJ&pg=PA86&img=1&zoom=3&hl=en&sig=ACfU3U3eUaAdzy2rn8MUOwXgkYEQKrM1vg",
+      "bytes": 39215,
+      "sha256": "f9bfd83fbca232a6fa3e2f836cb1000a179b63f9f9e720d9318c26e14f94a909"
+    },
+    {
+      "pid": "PP13",
+      "page_url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PP13",
+      "image_url": "https://books.google.com/books/content?id=QSMKAAAAIAAJ&pg=PP13&img=1&zoom=3&hl=en&sig=ACfU3U0Q0bsjRcWhwUzwQobHDIAhpeNnNA",
+      "bytes": 28549,
+      "sha256": "8c7595a3093b288a7954a365ac5b3def047f786d14f2168b9156803e2bb2bbd7"
+    },
+    {
+      "pid": "PA87",
+      "page_url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA87",
+      "image_url": "https://books.google.com/books/content?id=QSMKAAAAIAAJ&pg=PA87&img=1&zoom=3&hl=en&sig=ACfU3U3-2UjaUAn8Q40Q4tx8HwhQ9uPq6A",
+      "bytes": 45206,
+      "sha256": "686301849674ddb6061ecd0f73cf6db5676889cc2398e484f4985cf308c8794f"
+    },
+    {
+      "pid": "PA88",
+      "page_url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA88",
+      "image_url": "https://books.google.com/books/content?id=QSMKAAAAIAAJ&pg=PA88&img=1&zoom=3&hl=en&sig=ACfU3U0g7IsXIru_AVq9e9cykBKo22GPWw",
+      "bytes": 38802,
+      "sha256": "b1397b8bf7b63a04f06f325f68776c1f30bfb9c07ecce64dc5c425184db640d7"
+    },
+    {
+      "pid": "PA1",
+      "page_url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA1",
+      "image_url": "https://books.google.com/books/content?id=QSMKAAAAIAAJ&pg=PA1&img=1&zoom=3&hl=en&sig=ACfU3U222K8eDAEwk88iJf28N5-7k0dPcw",
+      "bytes": 41992,
+      "sha256": "9ed4031d7e5eb1637cc72e58efba41963ffbad6f562549f686116b8a5f7ede53"
+    },
+    {
+      "pid": "PA2",
+      "page_url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA2",
+      "image_url": "https://books.google.com/books/content?id=QSMKAAAAIAAJ&pg=PA2&img=1&zoom=3&hl=en&sig=ACfU3U0hJW8Y8vDgKtxuPqqS1k9NoYrTdw",
+      "bytes": 50229,
+      "sha256": "1f28ad6862d3d16f42ed4a78d11ffeb9ace4f0325000f9f1adb74273343f818a"
+    }
+  ],
+  "inspection": {
+    "complete_preface_printed_pages": [
+      1,
+      2
+    ],
+    "selected_inventory_printed_pages": [
+      86,
+      87,
+      88
+    ],
+    "title_pid": "PP13",
+    "title_limit": "Left edge clipped; author and1899imprint visible",
+    "remaining_pages_uninspected": true
+  },
+  "historical_locator": "Carton35, Orsay entry printed87–88",
+  "current_locator_candidate": "D1Z88 alphabetical range; exact concordance unverified",
+  "current_item_numbers": null,
+  "targets": [
+    {
+      "description": "Sale to École Militaire, analysisD",
+      "dates": [
+        "1773-09-26",
+        "1773-09-30"
+      ],
+      "original_acquired": false
+    },
+    {
+      "description": "Offal-cooking land concession, analysisE",
+      "date": "1775-02-24",
+      "original_acquired": false
+    },
+    {
+      "description": "Perrier land sale in already-filled part, analysisF; new steam pump",
+      "date": "1786-07-14",
+      "original_acquired": false,
+      "parcel_identified": false
+    },
+    {
+      "description": "Channel-filling authorization",
+      "date": "1773-06-20",
+      "original_acquired": false
+    },
+    {
+      "description": "Napoleon letter, quay completion heading",
+      "date": "1813-03-26",
+      "original_acquired": false,
+      "letter_orders_or_certifies_completion": null,
+      "quay_section": null
+    }
+  ],
+  "preface": {
+    "complete_inventory": false,
+    "originals_and_copies": true,
+    "pre_year_IX_acts_analyzed": true,
+    "later_acts_selected_if_absent_from_named_compilation": true,
+    "asterisk_meaning": "Act already printed in named official compilation; not copy/original status",
+    "reported_revolutionary_register_loss": "Many underlying registers destroyed in archive fire; copies by Lazare survive",
+    "specific_target_original_or_copy": null
+  },
+  "dictionary_independence": false,
+  "actual_fill_completion": null,
+  "sediment_date": null,
+  "foundation_parcel_join": false,
+  "pdf_delivery": "HTTP429; no PDF acquired",
+  "other_access_limits": [
+    "IA advanced search timeout",
+    "IA revised query502",
+    "IA creator/year timeout",
+    "Kwize web cache miss/native403",
+    "First Google HTML decoding assumption failed; declared charset used"
+  ],
+  "public_image_mirror": false
+}

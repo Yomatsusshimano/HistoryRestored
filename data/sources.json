@@ -6144,6 +6144,58 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S366",
+      "title": "Lucien Lazard1899 Lazare-Montassier inventory: preface and Orsay island-work targets",
+      "url": "https://books.google.com/books?id=QSMKAAAAIAAJ",
+      "creator": "Lucien Lazard; Préfecture de la Seine; Google Books/Stanford scan delivery",
+      "publication_date": "1899",
+      "source_type": "Original archival inventory, selected descriptions of earlier documents",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Complete preface printed1–2, selected inventory86–88, and left-clipped titlePP13 visually inspected on public page images.",
+      "limitations": "Remaining pages and underlying documents uninspected; PDF429. Selective inventory includes originals/copies; exact target status and current-item concordance unknown.1786already-filled parcel and1813quay-completion heading are descriptions, not execution proof. Shared Lazare dictionary lineage; no sediment age or foundation join.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA86",
+          "sha256": "f9bfd83fbca232a6fa3e2f836cb1000a179b63f9f9e720d9318c26e14f94a909",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in acquisition ledger"
+        },
+        {
+          "url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PP13",
+          "sha256": "8c7595a3093b288a7954a365ac5b3def047f786d14f2168b9156803e2bb2bbd7",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in acquisition ledger"
+        },
+        {
+          "url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA87",
+          "sha256": "686301849674ddb6061ecd0f73cf6db5676889cc2398e484f4985cf308c8794f",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in acquisition ledger"
+        },
+        {
+          "url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA88",
+          "sha256": "b1397b8bf7b63a04f06f325f68776c1f30bfb9c07ecce64dc5c425184db640d7",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in acquisition ledger"
+        },
+        {
+          "url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA1",
+          "sha256": "9ed4031d7e5eb1637cc72e58efba41963ffbad6f562549f686116b8a5f7ede53",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in acquisition ledger"
+        },
+        {
+          "url": "https://books.google.com/books?id=QSMKAAAAIAAJ&pg=PA2",
+          "sha256": "1f28ad6862d3d16f42ed4a78d11ffeb9ace4f0325000f9f1adb74273343f818a",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in acquisition ledger"
+        }
+      ]
     }
   ]
 }

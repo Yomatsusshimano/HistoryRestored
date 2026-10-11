@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Original inventory and dated works targets
+
+S366original1899inventory preface andpp86–88inspected:1786sale in already-filled island part and1813March26quay-completion letter are precise retrieval leads. Underlying documents/current identifiers/copy status unverified; selective inventory shares dictionary lineage.28drafts/366sources; all twenty objectives active. See [inventory audit](CYGNES-LAZARD-1899-INVENTORY.md).
+
 ### 2026-10-11 — Retained island account and alphabetical-boundary control
 
 Original1855p304retains island history under a separate street entry and reports broad early-nineteenth-century filling.1844p170Cygne-to-D boundary lacks equivalent entry there. Orsay omission is not whole-volume historical removal; exact works sequence and editorial intent remain unknown.28drafts/365sources; all twenty objectives active. See [expanded comparison](ORSAY-EDITION-COMPARISON.md).
