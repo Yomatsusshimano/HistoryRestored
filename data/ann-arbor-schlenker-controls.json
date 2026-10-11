@@ -7,7 +7,8 @@
     "S416",
     "S417",
     "S418",
-    "S419"
+    "S419",
+    "S420"
   ],
   "retrievals": [
     {
@@ -57,6 +58,18 @@
       "sha256": "b91fba0fdbeb1f494c941dafe908ae7f2e25626cba5d93caa5d280b5613ea99e",
       "retrieved_date": "2026-10-11",
       "hash_scope": "Complete 2735103-byte image delivery, 1800 by 1439 pixels; visually inspected"
+    },
+    {
+      "url": "https://localwiki.org/ann-arbor/Schlenker_Hardware/_files/Schlenker-Hardware.jpg/_info/",
+      "sha256": "5d3f2c1b3c3169ff6bf290ae1fd2e2ee50a050295c0bd7920d27b723151e7ddf",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Saved decoded UTF-8 HTML, upload-history note inspected; not raw transport bytes; 15180 bytes"
+    },
+    {
+      "url": "https://localwiki.org/media/cache/05/57/055737b47372427bb49e96b639b811ae.jpg",
+      "sha256": "76ae44c210f091aeb39577848848eb00715bcea804389f19a62dc0bf8ba9a907",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 250 by 187 pixel display derivative, visually inspected; original JPEG retrieval returned HTTP521; 19855 bytes"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -149,5 +162,73 @@
         "reddit_image_match_authenticated": false
       }
     ]
+  },
+  "attributed_earlier_photo": {
+    "source_id": "S420",
+    "display_url": "https://localwiki.org/media/cache/05/57/055737b47372427bb49e96b639b811ae.jpg",
+    "uploader": "vielmetti",
+    "attributed_photographer": "Clan Crawford Jr.",
+    "attributed_capture_year": 1980,
+    "verified_capture_date": null,
+    "upload_history_date": "2009-12-07",
+    "upload_history_timezone": null,
+    "original_jpeg_acquired": false,
+    "original_negative_or_accession": null,
+    "display_dimensions_pixels": [
+      250,
+      187
+    ],
+    "observation": "Color oblique front/side view of signed Schlenker hardware store; panel-covered front, upper side arches and smaller lower side openings visible.",
+    "measured_opening_height": null,
+    "physical_deposit_date": null,
+    "reddit_image_match_authenticated": false
+  },
+  "archive_lookup": {
+    "url": "https://publicaccess24.ewashtenaw.org/PublicAccessServer/city-cq.html?CQID=274",
+    "field": "A2 HDC Location",
+    "queries": [
+      {
+        "query": "213",
+        "outcome": "Seven visible address records; no exact213WLiberty result"
+      },
+      {
+        "query": "LIBERTY",
+        "outcome": "No documents found under this un-wildcarded query; not evidence of absence"
+      },
+      {
+        "query": "*W LIBERTY*",
+        "outcome": "West Liberty street records and architecture-survey entry found"
+      }
+    ],
+    "survey_row": "A2 HDC Arch Survey - W LIBERTY - 1/21/2022",
+    "survey_document_acquired": false,
+    "limit": "Viewer/row/new-window actions produced no visible document; registered download wait timed out. Index date not adopted as original record date.",
+    "separate_survey_deliveries": [
+      {
+        "url": "https://media-001-us.cdn.govstack.com/a2gov-002-us/media/ljtlsgzu/downtown.pdf",
+        "sha256": "d82dc578c8b4542d78a9bdad129e88828428fafe8ec3fd4edce1204052b30ebb",
+        "bytes": 9862964,
+        "retrieved_date": "2026-10-11",
+        "inspection": "47 pages; PDF1–45 contact-sheet navigation only, not full-resolution review",
+        "schlenker_claim_adopted": false
+      },
+      {
+        "url": "https://media-001-us.cdn.govstack.com/a2gov-002-us/media/0upj2svw/downtown2.pdf",
+        "sha256": "7dffe69a636166c253ce9af72d19e2718f405b64cfd734b067a840adcc100dc8",
+        "bytes": 7996920,
+        "retrieved_date": "2026-10-11",
+        "inspection": "39 pages; PDF1 visually inspected, no target property measurement adopted",
+        "schlenker_claim_adopted": false
+      },
+      {
+        "url": "https://media-001-us.cdn.govstack.com/a2gov-002-us/media/3x0iy3yx/liberty-to-mosley-survey-sheets-katie-done.pdf",
+        "sha256": "6762c8e9d477194b672d6bc50b68df84ec1679af5fa6dd372053056722bc88ad",
+        "bytes": 3890148,
+        "retrieved_date": "2026-10-11",
+        "inspection": "164 pages; PDF1/2 visually inspected; selected sheets headed April2009, not assigned a2011document date",
+        "schlenker_claim_adopted": false
+      }
+    ],
+    "instructions_url": "https://media-001-us.cdn.govstack.com/a2gov-002-us/media/rszbfljz/onbase-records-search-instructions-for-hdc-docs.pdf"
   }
 }

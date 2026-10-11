@@ -7518,6 +7518,34 @@
           "hash_scope": "Complete 2735103-byte image delivery, 1800 by 1439 pixels; visually inspected"
         }
       ]
+    },
+    {
+      "id": "S420",
+      "title": "Schlenker-Hardware.jpg: LocalWiki upload-history attribution and displayed derivative",
+      "url": "https://localwiki.org/ann-arbor/Schlenker_Hardware/_files/Schlenker-Hardware.jpg/_info/",
+      "creator": "LocalWiki contributor vielmetti; photograph attributed to Clan Crawford Jr.",
+      "publication_date": null,
+      "source_type": "Original uploader attribution; historical photograph display derivative",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Upload-history note dated December7,2009 at1:38a.m., timezone unspecified; associated page and 250-by-187-pixel display derivative inspected.",
+      "limitations": "1980 capture year and photographer are uploader attributions, not verified negative metadata. Original JPEG download returnedHTTP521. Small derivative limits opening/brick measurements; no survey scale, camera calibration, soil profile, original Reddit image match or independent scientific review.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://localwiki.org/ann-arbor/Schlenker_Hardware/_files/Schlenker-Hardware.jpg/_info/",
+          "sha256": "5d3f2c1b3c3169ff6bf290ae1fd2e2ee50a050295c0bd7920d27b723151e7ddf",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved decoded UTF-8 HTML, upload-history note inspected; not raw transport bytes; 15180 bytes"
+        },
+        {
+          "url": "https://localwiki.org/media/cache/05/57/055737b47372427bb49e96b639b811ae.jpg",
+          "sha256": "76ae44c210f091aeb39577848848eb00715bcea804389f19a62dc0bf8ba9a907",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 250 by 187 pixel display derivative, visually inspected; original JPEG retrieval returned HTTP521; 19855 bytes"
+        }
+      ]
     }
   ]
 }

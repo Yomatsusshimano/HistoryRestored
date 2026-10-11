@@ -2051,3 +2051,8 @@ Previousa80f714publication was progress; checkout clean. Targeted collection/rev
 ### 2026-10-11 — Ann Arbor restoration images and spatial controls
 
 [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): S419 project portfolio and four linked photographs acquired and inspected. Old block/addition distinction now a required spatial control; capture dates and original plans remain unknown. Website timestamps not used as scene dates. Source-area discrepancy retained.31drafts/419sources; all twenty objectives active, no independent archive review.
+
+
+### 2026-10-11 — Earlier Ann Arbor side-view target
+
+[Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): S420 uploader's1980/Clan Crawford Jr. attribution and small photo derivative acquired. Original JPEG failed; capture date stays unverified. City wildcard search resolved prior empty lookup but survey viewer/download failed. Separate survey deliveries navigated without adopting a Schlenker chronology.31drafts/420sources; all twenty objectives active, no independent archive review.

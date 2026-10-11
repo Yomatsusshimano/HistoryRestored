@@ -1,6 +1,6 @@
 # Ann Arbor: a candidate building and documented renovation
 
-Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S419. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
+Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S420. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
 
 The [Reddit discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) names two different properties: a Starbucks on West Liberty and a Schlenker building farther along the street. The selected indexed comment proposes a debris flow from the northeast. Full thread and original photographs remain unavailable. Naming a nearby building does not authenticate either pictured parcel.
 
@@ -37,3 +37,13 @@ Four linked photographs were acquired, hashed and visually inspected. Historic01
 Capture dates and original negative identifiers remain unknown. Page metadata gives publication 2016-02-06 and modification 2021-06-18; upload paths contain 2016/02. Those dates do not date the pictured scenes. The files are linked rather than republished. A separate indexed 1980 attribution on [LocalWiki](https://localwiki.org/ann-arbor/Schlenker_Hardware/_files/Schlenker-Hardware.jpg/_info/) remains an unauthenticated lead, not a date assigned to these files.
 
 The addition must be distinguished from the older block before interpreting relative floor heights. Floodplain classification alone cannot establish an ancient depositional event. No sediment measurements or original Reddit-image match were obtained. Dated photographs, permits/as-built sections and historical flood maps remain necessary. The city's archives-by-site lookup opened only a dynamic shell through the checked web route; no property packet was inspected.
+
+## Earlier side photograph: attribution recovered
+
+The [LocalWiki file history](https://localwiki.org/ann-arbor/Schlenker_Hardware/_files/Schlenker-Hardware.jpg/_info/), S420, was acquired directly. A December 7, 2009 upload note attributes the picture to Clan Crawford Jr. in 1980. Its displayed [250-by-187-pixel derivative](https://localwiki.org/media/cache/05/57/055737b47372427bb49e96b639b811ae.jpg) was acquired and visually inspected; the original JPEG link returned HTTP521.
+
+The image shows the signed hardware store obliquely, with a panel-covered front, upper side arches and smaller lower side openings. Its size prevents reliable brick, sill-height or floor-level measurement. It supplies a traceable earlier side-view target; it does not authenticate the date, establish the openings' original function or explain their present condition. The date remains attributed, and no original negative identifier or Reddit-image match is established. This is a different view from S419's photographs; similarity of architecture does not authenticate capture dates.
+
+The city lookup now works through browser navigation. Its documented wildcard query `*W LIBERTY*` locates street records and an architecture-survey entry labelled January21,2022. The un-wildcarded empty result is not a records-absence finding. The survey viewer/download did not deliver a document through the checked UI, so neither its contents nor its date are adopted. Separately, three linked city survey PDFs were acquired:47-page Downtown Part1,39-page Part2 and164-page Liberty–Mosley forms. Part1 contact sheets were used only for navigation, Part2 PDF1 and Liberty–Mosley PDF1/2 were visually inspected; no Schlenker-specific measurement or chronology was extracted. These different deliveries are not authenticated copies of the lookup survey.
+
+Next retrieve the photographer's original caption/negative record, original construction and alteration sections, and a parcel-specific soil/elevation survey. The earlier side view can then test which openings and grade relationships actually changed. All twenty objectives remain active.

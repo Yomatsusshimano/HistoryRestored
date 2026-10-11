@@ -120,7 +120,7 @@
       "place": "Ann Arbor,Michigan",
       "source_id": "S378",
       "claim": "Alleged first floor built below ground",
-      "status": "CONSTRUCTION_AND_RESTORATION_IMAGES_INSPECTED_DATES_AND_DEPOSIT_JOIN_OPEN",
+      "status": "EARLIER_SIDE_PHOTO_ACQUIRED_CAPTURE_ATTRIBUTION_AND_DEPOSIT_JOIN_OPEN",
       "building_address": null,
       "unresolved": [
         "Full thread access",
@@ -137,7 +137,8 @@
         "S416",
         "S417",
         "S418",
-        "S419"
+        "S419",
+        "S420"
       ],
       "photo_to_parcel_authenticated": false
     },
