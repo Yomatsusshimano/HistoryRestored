@@ -7201,15 +7201,15 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "PDF36/printed email1 visually inspected: represented April10,2019 7:29AM proposal for flowable fill vault repairs, agenda request and revisable program.",
-      "limitations": "Original mailbox provenance not independently authenticated. Signature alan not expanded. Named attachment not inspected here. Proposal not approval, parcel-specific placement, actual volume or original vault date. Unrelated correspondence/contact details not republished.",
+      "inspected": "PDF36 email and PDF37–40 adjacent estimate, engineering form and prepared resolution visually inspected. Proposed sidewalk-repair flowable fill: 200 cy at $95, $19,000. Section19-00000-00-gm; local/regional approval and resolution certification fields blank in copy.",
+      "limitations": "Third-party packet, original mailbox provenance unverified. Adjacent forms are candidate attachment association; named MIME file not separately extracted or byte-matched. Consultant signature present but handwritten date uncertain. No certified adoption, actual placement, parcel allocation, quantity delivered or original vault date established. Print dates not work dates. Unrelated correspondence/contact details not republished.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
           "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-City-Hall-part-2.pdf",
           "sha256": "274f3751236a20ae12505e89a9c2f6fe5bdb3bbeadf554306917b5b0d19e26cb",
           "retrieved_date": "2026-10-11",
-          "hash_scope": "193-page packet; PDF36 visually inspected, text navigation for vault terms; complete delivered 23572642 bytes"
+          "hash_scope": "193-page packet; expanded selected visual inspection PDF36–40; complete delivered 23572642 bytes"
         }
       ]
     }

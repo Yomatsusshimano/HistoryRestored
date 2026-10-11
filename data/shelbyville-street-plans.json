@@ -138,7 +138,14 @@
     "approved_resolution": null,
     "parcel_specific_execution": null,
     "placement_date": null,
-    "actual_volume": null
+    "actual_volume": null,
+    "packet_adjacent_candidate_pages_inspected": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "attachment_association": "Candidate adjacent forms, not separately extracted/byte-matched MIME attachment"
   },
   "limits": [
     "Proposed contract and email not execution or original construction evidence",

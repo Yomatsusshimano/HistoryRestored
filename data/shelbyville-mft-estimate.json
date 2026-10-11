@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "source_id": "S405",
+  "retrieval": {
+    "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-City-Hall-part-2.pdf",
+    "sha256": "274f3751236a20ae12505e89a9c2f6fe5bdb3bbeadf554306917b5b0d19e26cb",
+    "retrieved_date": "2026-10-11",
+    "hash_scope": "193-page packet; expanded selected visual inspection PDF36–40; complete delivered 23572642 bytes"
+  },
+  "new_visual_pages": [
+    37,
+    38,
+    39,
+    40
+  ],
+  "text_extraction": "Blank text on four new pages; rendered originals inspected",
+  "section": "19-00000-00-gm",
+  "maintenance_period": {
+    "begin": "2019-01-01",
+    "end": "2019-12-31"
+  },
+  "attachment_association": {
+    "named_file": "doc20190410072826.pdf",
+    "basis": "Four adjacent forms match estimate/engineering/resolution types in covering email",
+    "status": "CANDIDATE_ATTACHMENT_ASSOCIATION",
+    "separate_MIME_file_extraction": false,
+    "original_file_byte_match": null
+  },
+  "estimate": {
+    "pages": [
+      37,
+      38
+    ],
+    "form": "BLR14222",
+    "sidewalk_item": {
+      "number": 6,
+      "description": "sidewalk repair",
+      "material": "Flowable Fill",
+      "unit_literal": "cy",
+      "estimated_quantity": 200,
+      "estimated_unit_cost_USD": 95.0,
+      "estimated_line_cost_USD": 19000.0,
+      "inspection_required_literal": "No",
+      "arithmetic_check": "200 × 95 = 19000; estimate consistency only",
+      "actual_quantity": null,
+      "parcel_allocation": null,
+      "placement_date": null
+    },
+    "maintenance_operations_USD": 141602.8,
+    "maintenance_engineering_USD": 7317.05,
+    "overall_estimated_USD": 148919.85,
+    "total_arithmetic_check": "141602.80 + 7317.05 = 148919.85; estimate consistency only",
+    "approval_fields": "Local submission and regional-engineer approval blank in inspected copy",
+    "page1_print_date": "2019-04-10",
+    "page2_print_date": "2019-04-09"
+  },
+  "engineering_form": {
+    "page": 39,
+    "form": "BLR05220",
+    "printed_consultant_name": "Alan Spesard",
+    "consultant_signature_present": true,
+    "handwritten_date_candidate": "4-19-19",
+    "normalized_signature_date": null,
+    "date_limit": "Reading and relationship to April10 covering email require confirmation",
+    "local_agency_signature": "Blank",
+    "regional_approval": "Blank",
+    "print_date": "2019-04-09"
+  },
+  "resolution": {
+    "page": 40,
+    "form": "BLR14220",
+    "proposed_appropriation_USD": 149000.0,
+    "resolution_number": null,
+    "adoption_date": null,
+    "clerk_signature": null,
+    "regional_approval": null,
+    "print_date": "2019-04-09",
+    "status": "Prepared form; no certified adoption evidenced in copy"
+  },
+  "limits": [
+    "No original mailbox authentication",
+    "Candidate association not original attachment identity",
+    "Estimate not quantity placed, parcel allocation or natural deposition",
+    "Blank approval fields not proof that no approval exists elsewhere",
+    "Print date not adoption, work or geological event date",
+    "Consultant signature not local/regional approval",
+    "Inspection-required cell not proof of absent field inspection",
+    "No program quantity divided by parcel area as burial thickness"
+  ],
+  "next_tests": [
+    "Approved or revised estimate and certified resolution for section19-00000-00-gm",
+    "Final maintenance expenditure statement",
+    "Invoices, material delivery/placement tickets and parcel-specific logs",
+    "Resolve handwritten consulting date and original attachment identity"
+  ]
+}

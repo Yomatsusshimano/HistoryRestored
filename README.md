@@ -196,3 +196,5 @@ Historical grade follow-up: [Shelbyville benchmark and sidewalk-repair controls]
 Modern control follow-up: [Shelbyville NGS identities and recovery limits](research/SHELBYVILLE-MARK-RECOVERY.md).
 
 Street-work follow-up: [Shelbyville original plans and datum limits](research/SHELBYVILLE-STREET-PLANS.md).
+
+Repair-estimate follow-up: [Shelbyville planned fill quantities and approval limits](research/SHELBYVILLE-MFT-ESTIMATE.md).

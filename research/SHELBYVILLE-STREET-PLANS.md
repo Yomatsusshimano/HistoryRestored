@@ -42,3 +42,7 @@ The email names an attachment containing estimates, a resolution and an engineer
 ## Remaining test
 
 Recover the survey's assumed-datum origin and field level book, then establish stable ties to historical marks and the target frontage. Obtain the municipal vault-work contract, approval, placement diary, material tickets and final/as-built records. Original construction and dated sediment contexts remain separate questions. These plans make those tests more specific; they do not establish a catastrophe, inherited construction or chronology fabrication. All twenty objectives remain active.
+
+## Expanded packet inspection
+
+[PDF37–40 follow-up](SHELBYVILLE-MFT-ESTIMATE.md) now inspects adjacent forms matching the email description. Proposed 200cy flowable fill is an estimate, not actual placement; approval/certification fields are blank. Association to the named MIME attachment remains unverified. This supersedes the earlier inspection boundary without inventing execution.

@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Estimated fill quantity and unsigned approval controls
+
+Expanded S405 to four adjacent 2019 MFT forms: proposed 200 cy flowable fill at $95/cy, $19,000 sidewalk-repair estimate. Approval/certification blank in copy; no actual placement or parcel allocation established. Same 405 sources, 30 drafts; no independent review. See [estimate controls](SHELBYVILLE-MFT-ESTIMATE.md).
+
 ### 2026-10-11 — Original street design and proposed vault repair
 
 Recovered original IDOT Main Street design: assumed datum, distinct hydrant benchmarks and Sit-N-Sip frontage labels. Selected provisions distinguish water-meter boxes from brick sidewalk vaults; reproduced 2019 email proposes flowable filling. No datum tie, actual placement or natural deposition date established. 30 drafts / 405 sources; no independent review. See [street plans](SHELBYVILLE-STREET-PLANS.md).
