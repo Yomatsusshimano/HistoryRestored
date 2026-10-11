@@ -18,7 +18,8 @@
     "S427",
     "S428",
     "S429",
-    "S430"
+    "S430",
+    "S431"
   ],
   "retrievals": [
     {
@@ -187,6 +188,14 @@
       "bytes": 7297603,
       "pages": 11,
       "hash_scope": "Complete delivery; PDF1 and11, printed307/317, visually inspected; printed317 overlaps July8 delivery and is not an independent witness"
+    },
+    {
+      "url": "https://aadl.org/files/documents/pdf/aa_argus_democrat/aa_argus_democrat_19020711.pdf",
+      "sha256": "c353dfdb8e9632ff7c7c107a2af413a04cb66f0c23f5265f09c2ee3f26757172",
+      "bytes": 8317121,
+      "pages": 8,
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete newspaper issue; PDF1/4 and selected rainfall and mud-report crops visually inspected. Other pages not fully reviewed."
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -211,7 +220,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Retrieve1902 submitted Allen creek map/culvert plans, event-day rainfall or newspaper accounts, completed repairs and cellar-address records. Join those locations independently to1898 Schlenker property and surviving fabric; measure natural strata before attributing window closures or unifying this flood with other events.",
+  "next_test": "Identify the Fluff Rug business address in contemporary directories and map its parcel; retrieve original Observatory log or daily newspaper copy to resolve rainfall date; acquire culvert plans and completed repairs. Authenticate Reddit images and historical construction phases before joining any event to blocked openings.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -593,7 +602,8 @@
   "allen_creek_1902_control": {
     "source_ids": [
       "S429",
-      "S430"
+      "S430",
+      "S431"
     ],
     "flood_date": null,
     "reported_by_date": "1902-07-08",
@@ -622,6 +632,33 @@
     "sediment_age": null,
     "original_schlenker_building_match_verified": false,
     "original_reddit_image_match_verified": false,
-    "relation_of_july_and_august_floods": "Plausible shared local flood response; exact event identity and dates not independently authenticated"
+    "relation_of_july_and_august_floods": "Plausible shared local flood response; exact event identity and dates not independently authenticated",
+    "newspaper_event_control": {
+      "source_id": "S431",
+      "publication_date": "1902-07-11",
+      "reported_event_date_inferred": "1902-07-07",
+      "date_basis": "Friday issue describes storm Monday afternoon; numeric date inferred from calendar, not a printed instrument date",
+      "locator": "PDF1",
+      "reported_clock_interval": "3:30–5 Monday afternoon",
+      "duration_discrepancy": "Headline over two hours; body interval one and a half hours; unresolved",
+      "rainfall": {
+        "reported_inches": 2.45,
+        "attribution": "University Observatory",
+        "date_wording": "Yesterday Afternoon",
+        "event_date": null,
+        "original_instrument_record_verified": false
+      },
+      "mud_report": {
+        "locator": "PDF4, Aftermath of the Flood",
+        "business": "Ann Arbor Fluff Rug Co.",
+        "address": null,
+        "reported_water_depth_inches_lower_bound_exclusive": 14,
+        "water_depth_measured_by_researcher": false,
+        "observation": "Newspaper reports floodwater carried mud onto stored carpets and mud remained after water receded",
+        "sediment_thickness": null,
+        "sampled_deposit": false
+      },
+      "schlenker_property_match_verified": false
+    }
   }
 }

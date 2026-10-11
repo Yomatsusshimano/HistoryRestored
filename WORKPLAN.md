@@ -1270,3 +1270,8 @@ S427 March1904 council scan PDF1/6 reports1903 Liberty paving Ashley-to-State; S
 ### 2026-10-11 — Allen creek1902 flood-response control
 
 S429 August1902 council PDF1/2 and S430 July8 PDF1/2 visually inspected; overlapping July7 PDF1/11 retained as one record lineage. [Flood controls](research/ALLEN-CREEK-1902-FLOOD-CONTROL.md) distinguish reported rainfall/culvert destruction and cellar-water assistance from measured sediment, exact event date and completed work. Liberty/First repair target recovered; Schlenker parcel and closure causation remain unverified.31drafts/430sources; all twenty objectives active, no independent scientific review.
+
+
+### 2026-10-11 — Reddit R005: contemporary July1902 mud report
+
+S431 July11 Argus-Democrat PDF1/4 visually inspected. Monday storm provisionally dated July7 by issue/calendar context; rainfall box date and duration discrepancies retained. Ann Arbor Fluff Rug Co. reportedly had over14inches water and mud on carpets; no mud thickness, sampled deposit or verified parcel join. [Flood control](research/ALLEN-CREEK-1902-FLOOD-CONTROL.md) and structured controls updated. Next test contemporary business address and original weather log.31drafts/431sources; all twenty objectives active, no independent scientific review.

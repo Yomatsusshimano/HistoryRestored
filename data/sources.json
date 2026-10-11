@@ -7826,6 +7826,30 @@
           "hash_scope": "Complete delivery; PDF1 and11, printed307/317, visually inspected; printed317 overlaps July8 delivery and is not an independent witness"
         }
       ]
+    },
+    {
+      "id": "S431",
+      "title": "Ann Arbor Argus-Democrat July 11, 1902: rain storm and flood aftermath, including mud on carpets",
+      "url": "https://aadl.org/files/documents/pdf/aa_argus_democrat/aa_argus_democrat_19020711.pdf",
+      "creator": "Ann Arbor Argus-Democrat; Ann Arbor District Library scan",
+      "publication_date": "1902-07-11",
+      "source_type": "Contemporary newspaper issue in digitized scan",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 masthead, rain-storm article and University Observatory rainfall box; PDF4 Aftermath of the Flood and Ann Arbor Fluff Rug Co. paragraph visually inspected.",
+      "limitations": "Monday storm date inferred as July7 from Friday issue date. Headline says over two hours while body gives3:30–5; exact duration unresolved. Rainfall box says yesterday afternoon and reports2.45inches, so its event date and original instrument record remain unauthenticated. Rug business reports over14inches water and mud-covered carpets, not measured sediment thickness. Business address, Schlenker parcel match and original Reddit image match unverified. Reportage is not sampled physical evidence; no independent scientific review.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://aadl.org/files/documents/pdf/aa_argus_democrat/aa_argus_democrat_19020711.pdf",
+          "sha256": "c353dfdb8e9632ff7c7c107a2af413a04cb66f0c23f5265f09c2ee3f26757172",
+          "bytes": 8317121,
+          "pages": 8,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete newspaper issue; PDF1/4 and selected rainfall and mud-report crops visually inspected. Other pages not fully reviewed."
+        }
+      ]
     }
   ]
 }
