@@ -8373,6 +8373,88 @@
           "access_note": "Public URL obtained from preprint PDF14 hyperlink; ordinary download succeeded. No DOCX renderer/Word executable located in command discovery."
         }
       ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S451",
+      "title": "Sacramento, CA street level was RAISED 10 feet following flood in 1862",
+      "url": "https://www.reddit.com/r/Tartaria/comments/193zt3d/",
+      "creator": "Reddit discussion participants",
+      "publication_date": "2024-01-11",
+      "source_type": "Reddit discovery discussion",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Selected indexed post and discussion text; direct opening failed.",
+      "limitations": "Original media, complete comments and measurement not authenticated; allegations are leads, not physical evidence."
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S452",
+      "title": "The demolition of the buildings on J St revealed the massive underbelly and pillars used to raise the road",
+      "url": "https://www.reddit.com/r/Sacramento/comments/i6auum/",
+      "creator": "Reddit discussion participants",
+      "publication_date": "2020-08-09",
+      "source_type": "Reddit local discovery discussion",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Selected indexed discussion, candidate J/11th southwest-corner location and survey retrieval suggestion; direct opening failed.",
+      "limitations": "Original photograph, capture date and parcel match unverified; explanatory comments not independently authenticated."
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S453",
+      "title": "Raised Streets and Hollow Sidewalks District: December2010 district record",
+      "url": "https://sacramento.granicus.com/MetaViewer.php?clip_id=2745&meta_id=369761&view_id=30",
+      "creator": "Heather Lavezzo Downey",
+      "publication_date": "2010-12",
+      "source_type": "Municipal-hosted retrospective district assessment",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF1/12/16/21 visually inspected; PDF2/3/20 and other selected passages text searched. Complete22-page file acquired.",
+      "limitations": "Retrospective assessment, not original construction logs. Newspaper citation dates disagree; original ordinance uninspected. Horizontal spacing is not deposit thickness. No Reddit-photo parcel join.",
+      "retrievals": [
+        {
+          "url": "https://sacramento.granicus.com/MetaViewer.php?clip_id=2745&meta_id=369761&view_id=30",
+          "bytes": 746337,
+          "pages": 22,
+          "sha256": "a868fd8bbb0b4391d83ae73cbab9cf0890667b79c07576ba39d616022721216c",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete PDF; selected pages inspected."
+        }
+      ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S454",
+      "title": "Bancroft's Tourist's Guide, Yosemite: Sacramento grade account",
+      "url": "https://www.gutenberg.org/cache/epub/42210/pg42210-images.html",
+      "creator": "A. L. Bancroft & Company",
+      "publication_date": "1871",
+      "source_type": "Historical guide accessed through modern transcription and embedded title image",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Transcribed preface and Sacramento pp235-236; embedded title-page JPEG visually inspected for publisher/year.",
+      "limitations": "Passage-page original scan unacquired; transcription fidelity not independently verified. Broad area/depth wording is not surveyed geometry or a sediment measurement; possible historical source dependencies.",
+      "retrievals": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/42210/pg42210-images.html",
+          "bytes": 535161,
+          "sha256": "72fc6c0ba09b7cdd80187ebb5131422bfefb1d0ab2bf09a6c6c297f6ba3cc074",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete HTML; selected portions read."
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/42210/images/title_page.jpg",
+          "bytes": 19992,
+          "sha256": "961af6264cd9066fc094c2dbe5029cd3cf6a2b79188642075074f711bc92a7a2",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete embedded title image; visually inspected."
+        }
+      ]
     }
   ]
 }

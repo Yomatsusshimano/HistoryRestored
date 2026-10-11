@@ -9,7 +9,9 @@
     "site:reddit.com mud flood Swan",
     "site:reddit.com mud flood Adelaide tunnels",
     "site:reddit.com mud flood buried buildings excavation evidence Sacramento",
-    "site:reddit.com mud flood buried buildings primary evidence"
+    "site:reddit.com mud flood buried buildings primary evidence",
+    "site:reddit.com mud flood Sacramento raising streets",
+    "site:reddit.com mud flood Galveston grade raising"
   ],
   "outreach_performed": false,
   "leads": [
@@ -249,6 +251,28 @@
         "Original building survey records",
         "Direct photograph inspection",
         "Per-building deposit thickness and sediment provenance"
+      ]
+    },
+    {
+      "id": "R008",
+      "place": "Sacramento, California",
+      "source_id": "S451",
+      "claim": "Underground buildings and doubt about deliberate post-flood street raising",
+      "status": "EARLIER_DOCUMENTARY_ACCOUNT_AND_RETROSPECTIVE_RECORD_PARTIALLY_INSPECTED",
+      "followup_source_ids": [
+        "S452",
+        "S453",
+        "S454"
+      ],
+      "building_address": null,
+      "deposit_date": null,
+      "unresolved": [
+        "Original Reddit media and demolition parcel match",
+        "Original guide passage scan",
+        "February13/18 newspaper citation discrepancy",
+        "Original ordinance, contracts, quantities and parcel execution",
+        "Stratigraphic separation of natural sediment and engineered fill",
+        "Original grade and elevation datum"
       ]
     }
   ],

@@ -100,3 +100,8 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### 2026-10-11 — Preprint methods follow-up
 
 [Versioned budget audit](MELAMCHI-PREPRINT-BUDGET-AUDIT.md) recovers the2023supplement and preserves discrepancies without transferring them to the uninspected final uncertainty workbook.31drafts/450sources; no independent archive review.
+
+
+### 2026-10-11 — Reddit Sacramento grade lead
+
+R008 adds two indexed discussions, a selected-page municipal record and an1871guide transcription/title image. [Sacramento controls](SACRAMENTO-REDDIT-GRADE-CONTROLS.md) preserve original-media, source-dependency and parcel-stratigraphy gaps; newspaper-date discrepancy retained. Eight Reddit leads;31core drafts/454sources, no independent archive review. All twenty objectives active.

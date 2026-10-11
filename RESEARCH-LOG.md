@@ -2181,3 +2181,8 @@ Four S448 KML files acquired/hash-checked; ring/holes parsed and exact-window ma
 ### 2026-10-11 — Versioned Melamchi budget and uncertainty inconsistencies
 
 [Preprint audit](research/MELAMCHI-PREPRINT-BUDGET-AUDIT.md) adds S449/S450: selected PDF pages inspected and supplement source cells read. Prose/figure/numeric table sums differ; signed absolute-deviation labels inconsistent. No numerical correction or final-version error threshold adopted.31drafts/450sources; no independent archive review; all twenty objectives active.
+
+
+### 2026-10-11 — Reddit Sacramento grade lead
+
+R008 adds two indexed discussions, a selected-page municipal record and an1871guide transcription/title image. [Sacramento controls](research/SACRAMENTO-REDDIT-GRADE-CONTROLS.md) preserve original-media, source-dependency and parcel-stratigraphy gaps; newspaper-date discrepancy retained. Eight Reddit leads;31core drafts/454sources, no independent archive review. All twenty objectives active.
