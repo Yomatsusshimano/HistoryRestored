@@ -13,3 +13,8 @@ The [1963 ListVIII publisher extract](https://www.cambridge.org/core/journals/ra
 The1958 original was not acquired from the checked Science/JSTOR routes. An institution-hosted Negi scan linked by a secondary lead article timed out; its edition and contents remain unverified. No access control was bypassed. Only the ListVIII extract, not its full PDF, was inspected.
 
 Retrieve ListIII's introduction and exact Roopkund entry, then establish laboratory ID, material, submission/collection context, preparation and error convention. Recover any accession crosswalk before comparing it with2019 bones or2023 skull numbers. Until then, the legacy result neither contradicts nor confirms a particular modern sample. The [37-sample comparison](ROOPKUND-DATING-AUDIT.md) is unchanged: bone ages test mortality hypotheses, not the age of later redistribution or a mud layer. All twenty objectives remain active.
+
+
+### Retrieval update
+
+The previously inaccessible Negi document was recovered at another institution-hosted URL. [Edition and dating audit](ROOPKUND-NEGI-RETRIEVAL.md) supplies more precise targets while retaining the missing original sample entry.

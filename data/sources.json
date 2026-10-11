@@ -7367,6 +7367,28 @@
       "access": "FULL_TEXT_PORTION",
       "inspected": "Publisher Extract and Information: previous-list error enlargement; ListVIII counting standard deviations, half-life5568 and epoch1950; Radiocarbon5:228–253, DOI10.1017/S0033822200036870.",
       "limitations": "Full PDF not acquired. General retrospective methods statement is not an inspected1958 Roopkund entry or exact error-confidence definition."
+    },
+    {
+      "id": "S414",
+      "title": "Rupkund Human Remains: A Mystery Yet Unresolved",
+      "url": "https://ignca.gov.in/wp-content/uploads/2016/07/NKBose007b.pdf",
+      "creator": "R.S. Negi; institution-hosted PDF",
+      "publication_date": null,
+      "source_type": "Retrospective account with historical laboratory citations",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1/2/4/8: title, later-edition context, wooden versus skeletal date reports and bibliographic targets.",
+      "limitations": "Undated edition; original laboratory entries and specimen joins unavailable. Author account is not an original1958sample certificate. General historical quotations not independently authenticated.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://ignca.gov.in/wp-content/uploads/2016/07/NKBose007b.pdf",
+          "sha256": "d173c0fd166b82fce0ee415ff03cbc50f8f4cdc90764856a35b4dfb3fec9dfeb",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered 327592 bytes; 8 pages; PDF1/2/4/8 visually inspected, other pages text navigation only"
+        }
+      ]
     }
   ]
 }

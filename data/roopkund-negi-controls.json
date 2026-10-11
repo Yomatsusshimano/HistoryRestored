@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C031",
+  "lead_id": "R006",
+  "source_id": "S414",
+  "retrievals": [
+    {
+      "url": "https://ignca.gov.in/wp-content/uploads/2016/07/NKBose007b.pdf",
+      "sha256": "d173c0fd166b82fce0ee415ff03cbc50f8f4cdc90764856a35b4dfb3fec9dfeb",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete delivered 327592 bytes; 8 pages; PDF1/2/4/8 visually inspected, other pages text navigation only"
+    }
+  ],
+  "publication_date": null,
+  "contemporaneous_1956_report": false,
+  "reported_wooden_dates": [
+    {
+      "locator": "PDF4",
+      "age_literal": 470,
+      "error_literal": 120,
+      "sample_id": null
+    },
+    {
+      "locator": "PDF4",
+      "age_literal": 500,
+      "error_literal": 60,
+      "sample_id": null
+    }
+  ],
+  "arithmetic_control": {
+    "literal_symmetric_intervals": [
+      [
+        350,
+        590
+      ],
+      [
+        440,
+        560
+      ]
+    ],
+    "source_stated_overlap": [
+      500,
+      590
+    ],
+    "calculated_overlap": [
+      440,
+      560
+    ],
+    "reference_epoch": null,
+    "confidence": null,
+    "calendar_bounds": null,
+    "event_date": null
+  },
+  "retrieval_targets": [
+    "Science128:1122,1958 via Sax1991; original entry unacquired",
+    "Department of Anthropology1959mimeograph; original unacquired"
+  ],
+  "sample_join_verified": false
+}
