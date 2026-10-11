@@ -6477,7 +6477,7 @@
       "access": "SEARCH_EXCERPT",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "Search excerpt title and selected comments; full discussion retrieval failed cachemiss.",
+      "inspected": "Search excerpt title and selected comments; full discussion retrieval failed cachemiss. Additional indexed2020comment names West Liberty Starbucks and separate Schlenker building; original media unacquired.",
       "limitations": "Image/building unidentified; commenter explanations not checked against site records.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     },
@@ -7403,6 +7403,52 @@
       "inspected": "Publisher abstract and article metadata read. Separately, indexed PDF reference18 supplies1959report number17434:1–50; SEARCH_EXCERPT only for that reference.",
       "limitations": "Full PDF/methods not acquired. Number17434 not authenticated as accession. Title age is not a sample-level assay; no specimen crosswalk. Abstract contamination conclusion not independently accepted. Publisher DOI field and indexed PDF citation suffix differ; bibliographic match requires original.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S416",
+      "title": "Ann Arbor Historic District Commission1999Awards",
+      "url": "https://www.a2gov.org/media/l5gpckmi/1999-awards.pdf",
+      "creator": "Ann Arbor Historic District Commission",
+      "publication_date": null,
+      "publication_year": 1999,
+      "source_type": "Municipal recognition of reported renovation",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "5-page delivery; PDF4 visually inspected: Schlenker façade entry",
+      "limitations": "Construction date retrospective; no original permits, elevations, soil profile or photo-to-Reddit join.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.a2gov.org/media/l5gpckmi/1999-awards.pdf",
+          "sha256": "eaa4300aabe95cbc08171705d79b000f32350a8381250cbd08e4c704a94b7e23",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "5-page delivery; PDF4 visually inspected: Schlenker façade entry; complete delivered 40512 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S417",
+      "title": "Ann Arbor DDA Development and Tax Increment Financing Plan2003amendment",
+      "url": "https://www.a2dda.org/wp-content/uploads/2020/01/RENEWAL_PLAN_2003-33-FINAL-091503-1.pdf",
+      "creator": "Ann Arbor Downtown Development Authority",
+      "publication_date": null,
+      "publication_year": 2003,
+      "source_type": "Original institutional plan and development inventory",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "77-page delivery; PDF1/33 visually inspected: adoption cover and TableA4 Schlenker row",
+      "limitations": "Area figure is square feet of development, not sediment volume/depth. Project scopes and construction records not independently audited.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.a2dda.org/wp-content/uploads/2020/01/RENEWAL_PLAN_2003-33-FINAL-091503-1.pdf",
+          "sha256": "ee4f9c9fa8c036afcc401ab8702438eb1e7cf19e6b366f89a23f39b02cf18a77",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "77-page delivery; PDF1/33 visually inspected: adoption cover and TableA4 Schlenker row; complete delivered 2816668 bytes"
+        }
+      ]
     }
   ]
 }

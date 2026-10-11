@@ -12,8 +12,8 @@ Reddit supplies locations, allegations and retrieval targets. A commenter’s ex
 | R002: Moscow Polytechnic Museum | Same discussion, selected comment naming the renovation | Original basement plans, excavation sequence and renovation design | 2018 project guide acquired; it describes deliberate excavation and basement conversion |
 | R003: Logan, Utah renovation | [CulturalLayer discussion](https://www.reddit.com/r/CulturalLayer/comments/rl4nhl/) | Building/address, dated pre-renovation plans, contractor photographs, sediment descriptions and worker’s actual words | Open. Thread describes a worker interpreting buried windows; video and exact building identity not authenticated |
 | R004: Shelbyville, Illinois storefront | [Original discussion](https://www.reddit.com/r/interestingasfuck/comments/gxsuj1/) | Address, original photograph, claimed 11-foot measurement, shop function and grade history | Candidate Sit n Sip at 216 E Main; contemporary vault-repair correspondence found. Image/parcel match, measured depth and original function unresolved; [follow-up](SHELBYVILLE-STOREFRONT-IDENTITY.md) |
-| R005: Ann Arbor, Michigan lower floor | [CulturalLayer discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) | Building identity, plans, original grade and excavation context | Open. Search-excerpt access only; direct discussion retrieval failed |
-| R006: Roopkund skeletal assemblage | [CulturalLayer discussion](https://www.reddit.com/r/CulturalLayer/comments/jvopfv/) | Specimen-specific dates, injuries, depositional association and original excavation history | Open. Search-excerpt access only; no study or specimen record adopted in this batch |
+| R005: Ann Arbor, Michigan lower floor | [CulturalLayer discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) | Building identity, plans, original grade and excavation context | Candidate Schlenker parcel213–215 W.Liberty and1998alteration records found; original image/Starbucks match remains open; [follow-up](ANN-ARBOR-SCHLENKER-CONTROLS.md) |
+| R006: Roopkund skeletal assemblage | [CulturalLayer discussion](https://www.reddit.com/r/CulturalLayer/comments/jvopfv/) | Specimen-specific dates, injuries, depositional association and original excavation history | Published specimen-date and collection follow-ups below; original Reddit media and deposit date remain open |
 
 ## R001: a retrievable excavation, with a building-identity control
 
@@ -65,3 +65,8 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### 2026-10-11 — Historical report lookup target
 
 [1959report retrieval target](ROOPKUND-1959-REPORT-TARGET.md): published2013abstract checked; indexed reference supplies candidate number17434, still unauthenticated. Parliamentary/full-PDF retrieval failures retained; no sample age added.31drafts/415sources; all twenty objectives active.
+
+
+### 2026-10-11 — Ann Arbor candidate parcel
+
+[Schlenker controls](ANN-ARBOR-SCHLENKER-CONTROLS.md): municipal façade and DDA alteration records visually inspected; candidate parcel separated from Starbucks image. Source area is not deposit depth. No photo/soil/date join established. Roopkund library-number search found no authenticated catalog; remains open.31drafts/417sources; all twenty objectives active.

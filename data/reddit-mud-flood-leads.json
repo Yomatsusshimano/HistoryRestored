@@ -120,13 +120,24 @@
       "place": "Ann Arbor,Michigan",
       "source_id": "S378",
       "claim": "Alleged first floor built below ground",
-      "status": "OPEN",
+      "status": "CANDIDATE_PARCEL_AND_RENOVATION_RECORDS_INSPECTED",
       "building_address": null,
       "unresolved": [
         "Full thread access",
         "Original image",
-        "Building and design records"
-      ]
+        "Building and design records",
+        "Original1998permit/plan and historic ground elevations",
+        "Starbucks property remains separately unidentified",
+        "Original construction record and address crosswalk",
+        "In-place dated sediment profile"
+      ],
+      "candidate_building": "Schlenker hardware building, separate from Starbucks property",
+      "candidate_address": "213–215 W. Liberty Street, Ann Arbor, Michigan",
+      "followup_source_ids": [
+        "S416",
+        "S417"
+      ],
+      "photo_to_parcel_authenticated": false
     },
     {
       "id": "R006",

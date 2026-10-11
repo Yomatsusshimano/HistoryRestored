@@ -221,3 +221,8 @@ Roopkund collection follow-up: [numbered specimens and public-review limits](res
 ### 2026-10-11 — Historical report lookup target
 
 [1959report retrieval target](research/ROOPKUND-1959-REPORT-TARGET.md): published2013abstract checked; indexed reference supplies candidate number17434, still unauthenticated. Parliamentary/full-PDF retrieval failures retained; no sample age added.31drafts/415sources; all twenty objectives active.
+
+
+### 2026-10-11 — Ann Arbor candidate parcel
+
+[Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): municipal façade and DDA alteration records visually inspected; candidate parcel separated from Starbucks image. Source area is not deposit depth. No photo/soil/date join established. Roopkund library-number search found no authenticated catalog; remains open.31drafts/417sources; all twenty objectives active.
