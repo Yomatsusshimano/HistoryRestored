@@ -2216,3 +2216,8 @@ R008 adds two indexed discussions, a selected-page municipal record and an1871gu
 ### 2026-10-11 — Golden Eagle drains and date-bound dependencies
 
 [Drain chronology](research/GOLDEN-EAGLE-DRAIN-CHRONOLOGY.md): Plan1, Plate5, idealized Figure2, Sections10/15 and printed73-74 inspected. Earlier/later drain phases distinguished; Layer56 reported1864TPQ and Layer134 reported1857TAQ retained with unaudited bottle/wall-date bases. Fire and flood attributions conditional. Same31core drafts/460sources; no independent deposit age or Reddit parcel join. All twenty objectives active.
+
+
+### 2026-10-11 — Golden Eagle bottle-date constraint challenged
+
+[Bottle audit](research/GOLDEN-EAGLE-BOTTLE-DATE-AUDIT.md): glassware table/prose/plate identify complete D.S.&Co.AreaIX candidate dated1861-1864, but no Layer56 accession join. Partnership end year does not alone justify1864TPQ; reported assertion retained, accepted independent bound null. Hostetter Feature15 bottle not substituted. WallG1857 basis unresolved; third unit conflict1ft/90cm retained. Same31core drafts/460sources; all twenty objectives active.

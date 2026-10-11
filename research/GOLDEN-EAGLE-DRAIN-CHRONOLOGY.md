@@ -28,3 +28,5 @@ On printed74 the report also infers removal of3-4ft of soil to explain subsoil h
 The resulting testable local sequence is earlier drain/pit activity, a presumed flood-silt horizon, later recutting/lining, sealing and refuse disposal. The1861-62 identification remains conditional pending independent sediment characterization and age controls. It supports investigating multiple phases rather than pooling all buried material into one episode. No Reddit photograph join, global event, inherited civilization or deliberate chronology rewriting is demonstrated.
 
 Next evidence targets: identify the Layer56 bottle and its manufacture-date basis; authenticate WallG's1857 date and the WallJ/photo match; obtain missing Section9; compare sediment samples with independent dates.31core drafts /460sources, eight Reddit leads. All twenty objectives remain active.
+
+Follow-up: [bottle-date audit](GOLDEN-EAGLE-BOTTLE-DATE-AUDIT.md) identifies an AreaIX candidate dated1861-1864, but no Layer56 accession join. The reported1864TPQ remains unresolved; no independent date adopted.

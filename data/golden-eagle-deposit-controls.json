@@ -115,6 +115,14 @@
       "literal_meters": 5.2,
       "calculated_meters_from_feet": 4.572,
       "accepted_corrected_field_measurement": null
+    },
+    {
+      "context": "WallA foundation trench depth below subsoil",
+      "locator": "Printed62/PDF94",
+      "literal_feet": 1,
+      "literal_centimeters": 90,
+      "calculated_centimeters_from_feet": 30.48,
+      "accepted_corrected_field_measurement": null
     }
   ],
   "limits": [
@@ -207,7 +215,9 @@
       "year": 1864,
       "basis": "Whole bottle reported by author",
       "underlying_artifact_date_basis_audited": false,
-      "independent_sediment_date": null
+      "independent_sediment_date": null,
+      "accepted_independent_bound": null,
+      "followup": "Candidate D.S.&Co.AreaIX bottle dated1861-1864; Layer56 artifact join unverified; partnership end does not alone justify1864TPQ"
     },
     {
       "context": "Layer134 cut by WallG construction trench",
@@ -218,5 +228,20 @@
       "underlying_document_date_basis_audited": false,
       "independent_sediment_date": null
     }
-  ]
+  ],
+  "bottle_candidate": {
+    "embossing": "D.S.&Co., San Francisco",
+    "provenance_in_table": "AreaIX",
+    "table_locator": "Printed10-4/PDF390",
+    "description_locator": "Printed10-16/PDF402",
+    "plate_locator": "Plate10.9f; PDF418-419",
+    "reported_year_interval": [
+      1861,
+      1864
+    ],
+    "reference": "Markota and Markota1972:24",
+    "reference_inspected": false,
+    "layer56_join_authenticated": false,
+    "accession_id": null
+  }
 }
