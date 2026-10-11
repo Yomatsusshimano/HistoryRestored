@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Quay correspondence and prospective foundations
+
+S367complete printed26March1813letter19759inspected: funds, prospective Archives foundations and requested Concorde–Iéna ownership/site plans, not channel-completion certification. Same-date Lazare item and underlying minute remain unverified.28drafts/367sources; all twenty objectives active. See [correspondence audit](CYGNES-NAPOLEON-1813-LETTER.md).
+
 ### 2026-10-11 — Original inventory and dated works targets
 
 S366original1899inventory preface andpp86–88inspected:1786sale in already-filled island part and1813March26quay-completion letter are precise retrieval leads. Underlying documents/current identifiers/copy status unverified; selective inventory shares dictionary lineage.28drafts/366sources; all twenty objectives active. See [inventory audit](CYGNES-LAZARD-1899-INVENTORY.md).

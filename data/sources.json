@@ -6196,6 +6196,46 @@
           "hash_scope": "Advertised page image; actual image URL retained in acquisition ledger"
         }
       ]
+    },
+    {
+      "id": "S367",
+      "title": "1868 Napoleon correspondence volume25: complete printed letter19759 of26March1813",
+      "url": "https://books.google.com/books?id=xyRj3Fr1T4gC",
+      "creator": "NapoleonI attributed letter; edition published by order of NapoleonIII; Henri Plon/J.Dumaine; Google Books scan delivery",
+      "publication_date": "1868",
+      "source_type": "Historical edited correspondence, printed transcription attributed to archival minute",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original1868titlePP9 and printed121–123visually inspected; complete letter19759begins121ends122, following letter marks boundary.",
+      "limitations": "Underlying minute/signed document, exact Lazare item and requested plans uninspected; rest of volume uninspected. Same-date candidate match not authenticated. Funding/planning and prospective Archives foundations do not certify channel filling, payment or exact tower-parcel join.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://books.google.com/books?id=xyRj3Fr1T4gC&pg=PA121",
+          "sha256": "279803ef84f55ee4e91dc124e4831372f04831a9d9cc95004d046e80d2fbc5f4",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in ledger"
+        },
+        {
+          "url": "https://books.google.com/books?id=xyRj3Fr1T4gC&pg=PA122",
+          "sha256": "65a6630810d7083e2506d8c3972dfaf0bd37292169c0e9d7e177c1f31accf4cf",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in ledger"
+        },
+        {
+          "url": "https://books.google.com/books?id=xyRj3Fr1T4gC&pg=PA123",
+          "sha256": "04d72f490b669ca110aa9d78235cdf30025a048bb3acf0086778cd15de576e6f",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in ledger"
+        },
+        {
+          "url": "https://books.google.com/books?id=xyRj3Fr1T4gC&pg=PP9",
+          "sha256": "94689fd7c464fd25c2cf4255d1c0b3c29f5a3600581da7e23923ff7c32da3278",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised page image; actual image URL retained in ledger"
+        }
+      ]
     }
   ]
 }

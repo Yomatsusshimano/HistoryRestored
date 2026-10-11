@@ -1,0 +1,106 @@
+{
+  "source_id": "S367",
+  "status": "SOURCED_DRAFT",
+  "images": [
+    {
+      "pid": "PA121",
+      "page_url": "https://books.google.com/books?id=xyRj3Fr1T4gC&pg=PA121",
+      "image_url": "https://books.google.com/books/content?id=xyRj3Fr1T4gC&pg=PA121&img=1&zoom=3&hl=en&sig=ACfU3U0S5DuTQq3G6264ObeqflAg5vDJnQ",
+      "bytes": 51928,
+      "sha256": "279803ef84f55ee4e91dc124e4831372f04831a9d9cc95004d046e80d2fbc5f4"
+    },
+    {
+      "pid": "PA122",
+      "page_url": "https://books.google.com/books?id=xyRj3Fr1T4gC&pg=PA122",
+      "image_url": "https://books.google.com/books/content?id=xyRj3Fr1T4gC&pg=PA122&img=1&zoom=3&hl=en&sig=ACfU3U1mTpmETihlvRvubybq58S_FVBQyw",
+      "bytes": 54019,
+      "sha256": "65a6630810d7083e2506d8c3972dfaf0bd37292169c0e9d7e177c1f31accf4cf"
+    },
+    {
+      "pid": "PA123",
+      "page_url": "https://books.google.com/books?id=xyRj3Fr1T4gC&pg=PA123",
+      "image_url": "https://books.google.com/books/content?id=xyRj3Fr1T4gC&pg=PA123&img=1&zoom=3&hl=en&sig=ACfU3U0hbJ_IfVvNkzk7_qlZrYbgw0ttmA",
+      "bytes": 60048,
+      "sha256": "04d72f490b669ca110aa9d78235cdf30025a048bb3acf0086778cd15de576e6f"
+    },
+    {
+      "pid": "PP9",
+      "page_url": "https://books.google.com/books?id=xyRj3Fr1T4gC&pg=PP9",
+      "image_url": "https://books.google.com/books/content?id=xyRj3Fr1T4gC&pg=PP9&img=1&zoom=3&hl=en&sig=ACfU3U1rPmisgWs1r2XKB96Hjd1LYMQ2gQ",
+      "bytes": 29175,
+      "sha256": "94689fd7c464fd25c2cf4255d1c0b3c29f5a3600581da7e23923ff7c32da3278"
+    }
+  ],
+  "edition": {
+    "volume": 25,
+    "publication_year": 1868,
+    "title_pid": "PP9",
+    "publishers": [
+      "Henri Plon",
+      "J. Dumaine"
+    ],
+    "published_by_order_of": "NapoleonIII"
+  },
+  "letter": {
+    "number": 19759,
+    "date": "1813-03-26",
+    "place": "Paris",
+    "recipient": "Montalivet, minister of the Interior",
+    "complete_printed_pages": [
+      121,
+      122
+    ],
+    "printed_provenance": "Taken from minute, Archives de l’Empire",
+    "underlying_manuscript_inspected": false,
+    "current_archival_identifier": null
+  },
+  "adjacent_control_printed_page": 123,
+  "reported_funds": [
+    {
+      "francs": 500000,
+      "role": "Suppressed Ménagerie fund, joined to annual quai des Invalides fund",
+      "payment_authenticated": false
+    },
+    {
+      "francs": 200000,
+      "role": "Annual quai des Invalides fund",
+      "payment_authenticated": false
+    },
+    {
+      "francs": 240000,
+      "role": "Separate right-bank quai des Champs-Élysées fund",
+      "payment_authenticated": false
+    }
+  ],
+  "requested_plans": {
+    "span": [
+      "Concorde bridge",
+      "Iéna bridge"
+    ],
+    "state_and_municipal_property": true,
+    "land_to_purchase_for_archives": true,
+    "archives_design_and_site_project": true,
+    "plans_acquired": false
+  },
+  "archive_foundations": "Prospective start that year, not certified execution",
+  "island_named": false,
+  "quai_orsay_named": false,
+  "channel_filling_certified": false,
+  "lazard1899_candidate_match": {
+    "shared_date": true,
+    "related_subject": true,
+    "same_document_authenticated": false
+  },
+  "actual_channel_completion": null,
+  "foundation_parcel_join": false,
+  "full_volume_inspected": false,
+  "pdf_acquired": false,
+  "access_limits": [
+    "Napoleonica native403 and web inaccessible",
+    "IA volume query502",
+    "BnF catalog timeout and Gallica web cache miss",
+    "Navigation index has no1813month links",
+    "Google search extraction decoded with declared legacy charset after UTF8failure"
+  ],
+  "public_image_mirror": false
+}

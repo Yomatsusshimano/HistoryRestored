@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [1813 quay correspondence](research/CYGNES-NAPOLEON-1813-LETTER.md): printed funding and plan requests, prospective foundations and unknown archival match.
+
 - [1899 island-work inventory](research/CYGNES-LAZARD-1899-INVENTORY.md): dated sale and correspondence targets, selective cataloging and originals/copies.
 
 - [1844/1855 quay edition comparison](research/ORSAY-EDITION-COMPARISON.md): retained island history elsewhere, changed date wording and unknown works sequence.
