@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Participant notice and editorial inference separated
+
+S352 complete original1890notice separates Eiffel-supplied quotation from editorial repayment inference; original lift date26May corrects extracted20May. S353 selected lecture-summary page inspected, full lecture unacquired. Financial scopes remain unjoined.28 drafts /353 sources; all twenty objectives active. See [notice audit](EIFFEL-1890-OPERATION-NOTICE.md).
+
 ### 2026-10-11 — Near-contemporary financial arithmetic conflicts
 
 S351 original1890article p89 confirms eleven cost entries sum7,514,094.69francs, while printed capital and market operands conflict internally. Receipt periods/scopes and administration source remain unjoined; no fraud or repayment inference.28 drafts /351 sources; all twenty objectives active. See [original report audit](EIFFEL-1890-STATISTICAL-REPORT.md).

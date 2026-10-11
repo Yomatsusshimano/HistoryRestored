@@ -1224,6 +1224,16 @@
           "source_id": "S351",
           "locator": "Original printed89 / PDF12",
           "statement": "Near-contemporary statistical article reports cost7,514,094.69 with eleven summing entries, but capital and valuation operands conflict internally and with later statutory figures. Underlying administration document, accounting scope and payment evidence remain unacquired."
+        },
+        {
+          "source_id": "S352",
+          "locator": "Printed374–375",
+          "statement": "Journal explicitly attributes quoted operating notice to Eiffel. Visitor categories sum; financial subtraction reproduces editorial profit, but repayment paragraph is outside quotation and no payment records supplied. Original lift date26May differs from extracted20May."
+        },
+        {
+          "source_id": "S353",
+          "locator": "Printed30, section5",
+          "statement": "De Foville lecture summary supplies prospective claims; not full lecture or financial ledger. S352 dates this journal summary January1889, without resolving S351 different-journal citation."
         }
       ],
       "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",
@@ -1235,7 +1245,7 @@
         "Repair/reassembly if fabric and earlier records support it"
       ],
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
-      "next_test": "Retrieve payment warrants/receipts and acceptance reports for the three contractual milestones; acquire annexed estimate, drawings and commission reports. Continue original supplier-letter, delivery and batch-testing retrieval. Authorization, contractual obligation and fulfillment remain separate. Retain the 5 November 1886 commission minutes, installed lift specifications/tests and ANMT/Huntington version comparisons as open targets. Retrieve full dated subscriber list and earliest statutes, transfer and paid-capital accounts from B-0066514/1 company dossier 2277. Compare original December31 act and March constituent records; verify rights contribution, subsequent share sales and banking receipts before treating nominal capital as construction cash. Retrieve Couder board report, first operating accounts and capital-repayment resolutions/coupon records; reconcile company-funded construction additions separately. Trace S351 administration-supplied cost document and cited de Foville lecture; join accounting periods and original capital/payment records before interpreting numerical differences.",
+      "next_test": "Retrieve payment warrants/receipts and acceptance reports for the three contractual milestones; acquire annexed estimate, drawings and commission reports. Continue original supplier-letter, delivery and batch-testing retrieval. Authorization, contractual obligation and fulfillment remain separate. Retain the 5 November 1886 commission minutes, installed lift specifications/tests and ANMT/Huntington version comparisons as open targets. Retrieve full dated subscriber list and earliest statutes, transfer and paid-capital accounts from B-0066514/1 company dossier 2277. Compare original December31 act and March constituent records; verify rights contribution, subsequent share sales and banking receipts before treating nominal capital as construction cash. Retrieve Couder board report, first operating accounts and capital-repayment resolutions/coupon records; reconcile company-funded construction additions separately. Trace S351 administration-supplied cost document and cited de Foville lecture; join accounting periods and original capital/payment records before interpreting numerical differences. Retrieve S352 incoming Eiffel notice and original company accounts; distinguish quoted statements from T.L.editorial repayment inference and authenticate lift commissioning date.",
       "chronology": {
         "reported": "1900 monograph; progress sheet through 8 January 1888; photographic mount inscription 10 February 1888; inspection report 4 January 1889.",
         "dated_object": "Documents and photograph inscription; not independent component manufacture dates.",

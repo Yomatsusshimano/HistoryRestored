@@ -1,0 +1,82 @@
+{
+  "source_ids": [
+    "S352",
+    "S353"
+  ],
+  "accessed_date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "retrievals": [
+    {
+      "source_id": "S352",
+      "url": "https://www.numdam.org/article/JSFS_1890__31__374_0.pdf",
+      "sha256": "8a97f228586b5ecf52211e8e2585f77078932d0fa8a38b3eb4e8d9a599b3c573",
+      "byte_length": 280649,
+      "visually_inspected_pdf_pages": [
+        1,
+        2,
+        3
+      ],
+      "public_mirror": false
+    },
+    {
+      "source_id": "S353",
+      "url": "https://www.numdam.org/item/JSFS_1889__30__28_0.pdf",
+      "sha256": "ce93e3f2530bafa8433ab731bce5e779ef0114a64b1b03030f05d2f4521499f5",
+      "byte_length": 330245,
+      "visually_inspected_pdf_pages": [
+        1,
+        4
+      ],
+      "public_mirror": false
+    }
+  ],
+  "S352": {
+    "creator_initials": "T. L.",
+    "creator_full_name": null,
+    "publication_year": 1890,
+    "exact_publication_date": null,
+    "source_attribution": "Opening says quoted notice supplied by Eiffel; original incoming notice unacquired",
+    "quotation_end": "Printed375 after statement of at least250operating agents; following profit and repayment paragraph outside quotation",
+    "visitor_categories": [
+      680348,
+      699630,
+      573144
+    ],
+    "reported_visitor_total": 1953122,
+    "visitor_sum": 1953122,
+    "period_end_label": "6 November, described as exhibition closure; date not independently authenticated",
+    "reported_receipts_francs": "6509900",
+    "reported_expenses_francs": "1036857",
+    "editorial_profit_francs": "5473043",
+    "calculated_difference_francs": "5473043",
+    "editorial_excess_over_cost_francs": "473043",
+    "implied_cost_baseline_francs": "5000000",
+    "baseline_scope_authenticated": false,
+    "editorial_repayment_assertion": "Full reimbursement and transformation to enjoyment shares; no payment records supplied",
+    "first_lift": {
+      "pier": "East",
+      "system": "Roux-Combaluzier and Lepape",
+      "date_scan": "26 May",
+      "date_extraction": "20 May",
+      "year_context": 1889,
+      "commissioning_record_acquired": false
+    },
+    "original_incoming_notice_acquired": false,
+    "payment_records_acquired": false
+  },
+  "S353": {
+    "publication_year_from_inspected_wrapper": 1889,
+    "month_from_S352_retrospective_reference": "January1889",
+    "inspected_section": "Printed30 section5, La Tour Eiffel",
+    "access_limit": "Only wrapper and selected original page inspected; not complete lecture",
+    "role": "Praise and prospective construction/use summary; no financial breakdown",
+    "full_lecture_acquired": false
+  },
+  "comparison": {
+    "S17_receipt_summary_minus_S352_francs": "13947.40",
+    "S352_receipts_minus_S351_francs": "50315.80",
+    "periods_and_categories_joined": false,
+    "independent_transactions_validated": false,
+    "S351_Journal_des_economistes_citation_resolved": false
+  }
+}

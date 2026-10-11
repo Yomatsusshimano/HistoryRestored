@@ -5722,6 +5722,48 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S352",
+      "title": "L’exploitation de la Tour Eiffel pendant l’Exposition, JSFS31(1890), pp374–375",
+      "url": "https://www.numdam.org/article/JSFS_1890__31__374_0.pdf",
+      "creator": "T. L.; quoted notice attributed to Eiffel; Société de statistique de Paris",
+      "source_type": "Historical journal, original scanned pages",
+      "access": "SCAN_INSPECTED",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Complete two original pages and digital wrapper visually inspected. Quotation boundary, visitor totals, editorial financial inference and26Maylift opening checked on scan.",
+      "limitations": "Participant notice dependence. Original incoming notice, transactions and commissioning records unacquired. Editorial repayment inference is outside quotation; implicit5million baseline not total-cost authentication.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.numdam.org/article/JSFS_1890__31__374_0.pdf",
+          "sha256": "8a97f228586b5ecf52211e8e2585f77078932d0fa8a38b3eb4e8d9a599b3c573",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "id": "S353",
+      "title": "Variétés, JSFS30(1889), pp28–30: section5 La Tour Eiffel, p30",
+      "url": "https://www.numdam.org/item/JSFS_1889__30__28_0.pdf",
+      "creator": "JSFS editorial summary; lecture attributed to A. de Foville",
+      "source_type": "Historical journal, original scanned pages",
+      "access": "SCAN_INSPECTED",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Digital wrapper and original printed30 visually inspected; only tower section audited. January1889designation from S352 retrospective statement.",
+      "limitations": "Not complete lecture or invoice record. Other original pages uninspected. S351 cites a different journal; that citation remains unresolved.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.numdam.org/item/JSFS_1889__30__28_0.pdf",
+          "sha256": "ce93e3f2530bafa8433ab731bce5e779ef0114a64b1b03030f05d2f4521499f5",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }
