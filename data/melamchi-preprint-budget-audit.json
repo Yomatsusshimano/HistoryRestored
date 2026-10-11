@@ -1,0 +1,109 @@
+{
+  "status": "VERSIONED_TRANSCRIPTION_AND_ARITHMETIC_NOT_VALIDATED_BUDGET",
+  "source_ids": [
+    "S449",
+    "S450"
+  ],
+  "version": "2023 preprint v1; not final2024publication",
+  "reported_totals": {
+    "prose_PDF6": {
+      "erosion_million_m3": 83.24,
+      "deposition_million_m3": 23.24
+    },
+    "figure4_PDF14": {
+      "erosion_million_m3": 83.54,
+      "deposition_million_m3": 22.73
+    }
+  },
+  "tableS4_numeric_entries": {
+    "erosion": [
+      {
+        "segment": "Tributary 1 (Melamchi Khola)",
+        "volume_m3": 394051,
+        "literal_cell": "394,051(297.9%)(29.4%)"
+      },
+      {
+        "segment": "Tributary 2 (Pemdang Khola)",
+        "volume_m3": 7448770,
+        "literal_cell": "7,448,770(49.9%)(4.8%)"
+      },
+      {
+        "segment": "Tributary 3",
+        "volume_m3": 1582369,
+        "literal_cell": "1,582,369(119.7%)(.5%)"
+      },
+      {
+        "segment": "Tributary 4(Namsang Khola)",
+        "volume_m3": 667403,
+        "literal_cell": "667,403(198.7%)(29.5%)"
+      },
+      {
+        "segment": "Bremthang incised valley fills",
+        "volume_m3": 50271285,
+        "literal_cell": "50,271,285(19.4%)(3.6%)"
+      },
+      {
+        "segment": "Melamchigaon Terrace failure",
+        "volume_m3": 6229236,
+        "literal_cell": "6,229,236(16.4%)(3.7%)"
+      },
+      {
+        "segment": "Melamchi Khola (middle reach)",
+        "volume_m3": 11797596,
+        "literal_cell": "11,797,596(32.5%)(8.7%)"
+      },
+      {
+        "segment": "Melamchi Khola (lower reach)",
+        "volume_m3": 5342429,
+        "literal_cell": "5,342,429(43.9%)(14.1%)"
+      }
+    ],
+    "deposition": [
+      {
+        "segment": "Bremthang floodplain",
+        "volume_m3": 5753690,
+        "literal_cell": "5,753,690(52.8%)(9.0%)"
+      },
+      {
+        "segment": "Melamchi Khola (lower reach)",
+        "volume_m3": 17079946,
+        "literal_cell": "17,079,946(36.5%)(11.7%)"
+      }
+    ]
+  },
+  "tableS4_numeric_sums": {
+    "erosion_m3": 83733139,
+    "deposition_m3": 22833636,
+    "omitted_negligible_entries_quantified": false,
+    "interpretation": "Numeric entries only; not a corrected total. Unquantified negligible entries and budget scope unresolved."
+  },
+  "signed_absolute_deviation_examples": [
+    {
+      "row": "Whole Melamchi catchment",
+      "mean_absolute_deviation_literal": "-0.11",
+      "median_absolute_deviation_literal": "0.003"
+    },
+    {
+      "row": "A4",
+      "mean_absolute_deviation_literal": "-11.2",
+      "median_absolute_deviation_literal": "-0.477"
+    },
+    {
+      "row": "A7",
+      "mean_absolute_deviation_literal": "-4.04",
+      "median_absolute_deviation_literal": "-0.887"
+    }
+  ],
+  "signed_cells_locator": "S450 word/document.xml second w:tbl, S2 original heading/data cells",
+  "statistics_reinterpreted": false,
+  "error_threshold_adopted": false,
+  "final_uncertainty_workbook_acquired": false,
+  "method_text_inspection": {
+    "active_channel_definition": "Margins manually mapped by absence of vegetation",
+    "uncertainty_reference": "Standard deviation of surrounding stable areas at approximately350m radius",
+    "area_error_assumed": "No area error assumed",
+    "trimmed_variant": "Statistics restricted to10th–90th quantile values; lower uncertainty label",
+    "probabilistic_coverage_verified": false,
+    "formula_rendered_and_verified": false
+  }
+}

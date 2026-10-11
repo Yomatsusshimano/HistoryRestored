@@ -95,3 +95,8 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### 2026-10-11 — Selected mapping-file acquisition
 
 [Author-mapped channel comparison](MELAMCHI-CHANNEL-COMPARISON.md) acquires four KML files and processes them in the same window. Earlier missing-mask statements are historical snapshots; remaining masks/uncertainty/independent stable controls still missing. Outside selected channels is not a validated stable control. Same448sources/31case drafts.
+
+
+### 2026-10-11 — Preprint methods follow-up
+
+[Versioned budget audit](MELAMCHI-PREPRINT-BUDGET-AUDIT.md) recovers the2023supplement and preserves discrepancies without transferring them to the uninspected final uncertainty workbook.31drafts/450sources; no independent archive review.

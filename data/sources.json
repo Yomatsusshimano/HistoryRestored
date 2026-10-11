@@ -8324,6 +8324,55 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "creator": "Chan-Mao Chen and coauthors",
+      "publication_date": "2023-04-06",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S449",
+      "title": "The 2021 Melamchi Flood: A massive erosional cascade in the Himalayan Mountains of central Nepal, preprint v1",
+      "url": "https://doi.org/10.21203/rs.3.rs-2766739/v1",
+      "source_type": "Author preprint, version1",
+      "access": "SCAN_INSPECTED",
+      "inspected": "PDF1 cover/version/date; PDF5/6 reported volumes and upper-bound wording; PDF14 Figure4 totals and supplementary-file link visually inspected. Other pages text searched only.",
+      "limitations": "Not final published version. Prose/figure totals disagree; budgets not independently reproduced. Supplement link followed through embedded PDF annotation. Author uncertainty labels are not calibrated confidence statements.",
+      "retrievals": [
+        {
+          "url": "https://assets-eu.researchsquare.com/files/rs-2766739/v1/8b833cba-d532-4273-ad67-23659e9adf56.pdf?c=1733386411",
+          "bytes": 2064898,
+          "pages": 14,
+          "sha256": "45e5e47b79a13efb26dc6e81009be2a8412ce7c14e63beb36cf334be50feb58d",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivery; selected PDF1/5/6/14 visually inspected.",
+          "access_note": "Landing page403; original publicly indexed PDF downloaded normally. Embedded font extraction contains null characters; rendered pages inspected."
+        }
+      ]
+    },
+    {
+      "creator": "Chan-Mao Chen and coauthors",
+      "publication_date": "2023-04-06",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S450",
+      "title": "Melamchi preprint v1 methods and supplementary materials0402, attached DOCX",
+      "url": "https://assets-eu.researchsquare.com/files/rs-2766739/v1/ec0dbd724577f3d974cba019.docx",
+      "source_type": "Author-attached methods and data tables, preprint version1",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "OOXML paragraphs for mapping, registration and error-estimation methods; original table2/S2 headers and selected rows; table4/S4 numeric volumes. Text/cell extraction, not rendered page inspection.",
+      "limitations": "Document formulas use OMML and are not interpreted from flattened text. Figures/layout not visually inspected; no source document edited. Signed values under absolute-deviation labels require clarification. Methods belong to2023version; final2024uncertainty workbook remains unacquired. Independent stable masks/residuals unverified.",
+      "retrievals": [
+        {
+          "url": "https://assets-eu.researchsquare.com/files/rs-2766739/v1/ec0dbd724577f3d974cba019.docx",
+          "bytes": 5240076,
+          "sha256": "ab40d847d123af3f360d33df64021777c7e2fd273fe35cae7e5be7f3bf46a92f",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete DOCX; selected source text/table cells inspected.",
+          "access_note": "Public URL obtained from preprint PDF14 hyperlink; ordinary download succeeded. No DOCX renderer/Word executable located in command discovery."
+        }
+      ]
     }
   ]
 }

@@ -36,3 +36,8 @@ python analysis/melamchi_channel_comparison.py --before Melamchi_DSM_P05_202101.
 ```
 
 The next discriminator is an independently justified stable-ground selection and the original uncertainty workbook, followed by classification of channels and deposits across the full comparison footprint. Preserve date mismatches, unmapped areas and registration limitations. A worldwide or historical reconstruction still needs separately dated, physically connected sites; this modern local comparison cannot supply those links.31case drafts/448sources; all twenty objectives remain active.
+
+
+### 2026-10-11 — Preprint methods follow-up
+
+[Versioned budget audit](MELAMCHI-PREPRINT-BUDGET-AUDIT.md) recovers the2023supplement and preserves discrepancies without transferring them to the uninspected final uncertainty workbook.31drafts/450sources; no independent archive review.
