@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Full printed 1812 institutional program](research/ARCHIVES-DUVERGIER-1812-PROGRAM.md): eight articles, separate project funds, edition and wording controls.
+
 - [Two Jean1815palace maps](research/JEAN-1815-PALACE-MAPS.md): candidate editions, intended spatial placement and project-symbol controls.
 
 - [Bordier1855palace works report](research/ARCHIVES-BORDIER-1855.md): approximate above-ground height, intended corner, abandonment discrepancy and printed program controls.

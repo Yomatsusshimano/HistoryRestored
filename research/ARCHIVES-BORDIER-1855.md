@@ -29,3 +29,5 @@ Two textual controls matter. The downloaded OCR misreads the decree heading as *
 Next retrieve the named 1815 Jean map and original administrative works records. Test the proposed corner against the undated terrain plan and later excavations, and locate records that distinguish ceremony, commencement, interruption, final abandonment and demolition. Actual executed dimensions, reused materials, foundation association and sediment dates remain unknown. All twenty objectives remain active.
 
 Follow-up: [two original Jean1815maps](JEAN-1815-PALACE-MAPS.md) now inspected as candidates. Both fit the abbreviated publisher/year/address reference; exact edition and survey/execution status remain unverified.
+
+Follow-up: [Duvergier’s inspected 1836 second edition](ARCHIVES-DUVERGIER-1812-PROGRAM.md) prints an eight-article, three-title item dated 21 March 1812. University and fine-arts provisions have separate funding roles; the signed original and Moniteur reference remain uninspected.

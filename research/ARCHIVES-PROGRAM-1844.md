@@ -35,3 +35,5 @@ The program's successive-quarter requirement gives a specific staged-constructio
 Next obtain the complete decree and its administrative context, identify the Dessalles brochure from bibliographic and original-page controls, and retrieve palace execution drawings, contractor accounts and acceptance records. Compare the dated physical footprint with the [undated site plan](ARCHIVES-PALAIS-SITE-PLAN.md), then with later excavation locations. The actual palace work extent, foundation association and deposit chronology remain unknown. No common catastrophe or deliberate rewriting mechanism follows; all twenty objectives remain active.
 
 Follow-up: [Bordier’s original1855passages](ARCHIVES-BORDIER-1855.md) report above-ground work, a narrower intended location and early1816completeabandonment. Original execution records and textual lineage remain unverified.
+
+Follow-up: [Duvergier’s inspected 1836 second edition](ARCHIVES-DUVERGIER-1812-PROGRAM.md) prints an eight-article, three-title item dated 21 March 1812. University and fine-arts provisions have separate funding roles; the signed original and Moniteur reference remain uninspected.

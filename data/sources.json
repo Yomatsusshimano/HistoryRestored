@@ -6372,6 +6372,58 @@
         }
       ],
       "rights": "Commons Public Domain Mark; source Bibliothèque nationale de France, département Cartes et plans; image linked and hashed, not mirrored in repository"
+    },
+    {
+      "id": "S374",
+      "title": "Duvergier second-edition tome XVIII (1836): eight-article Archives, university and fine-arts decree dated21March1812",
+      "url": "https://books.google.com/books?id=2aAxAAAAIAAJ&pg=PA127",
+      "creator": "J. B. Duvergier; A. Guyot et Scribe publishers",
+      "publication_date": "1836",
+      "source_type": "Historical legal collection reproducing an1812decree",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original Google Books page images PP7/PP9 and printed126–129 visually inspected. Complete printed21March1812item on127–128: three titles/eight articles, boundaries checked. PP9title prints secondedition1836.",
+      "limitations": "Printed1836reproduction, not signed1812original or authenticatedexecutionrecord. Mon.no87reference unacquired. Routing1838citation not exactcopy match; cause unknown. Lesplans/Lespalais variant does not establish copying or intent. CNAM same-date extract not authenticated as sameinstrument. Remainingvolume uninspected.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PP7&img=1&zoom=3&hl=en&sig=ACfU3U0P4Ttdf5_Plgg85Ljqb1sh2pwndg",
+          "sha256": "6d2a5612050820edd80eb005313fd691dedac0d181ae9b366175b6261c3059c7",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered original-page image PP7; 14002 bytes"
+        },
+        {
+          "url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PP9&img=1&zoom=3&hl=en&sig=ACfU3U3hNxz2p6Y1cjUx-TUZQgeCibzdUA",
+          "sha256": "16a21bc4c7ad93e3cc58b755aca5bba7cb7c08cb5a9a29099f730f9764efd6a9",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered original-page image PP9; 33549 bytes"
+        },
+        {
+          "url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PA126&img=1&zoom=3&hl=en&sig=ACfU3U3nP7-CyhwkiGX72FhHAO1pzscdPg",
+          "sha256": "deb4364935c8e328e6832568cd8384888c0d15963fcd687c565dcfdd27bf52b5",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered original-page image PA126; 84004 bytes"
+        },
+        {
+          "url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PA127&img=1&zoom=3&hl=en&sig=ACfU3U2fNI-Gx51_xzEQxLvZpKbNtTORWg",
+          "sha256": "a238c13a50c6c10c26b6921df8e7e0238b2f10617c0519917241d1e08f140294",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered original-page image PA127; 85904 bytes"
+        },
+        {
+          "url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PA128&img=1&zoom=3&hl=en&sig=ACfU3U0kagLBc5e2iFNkxxFXeygJuFoBWg",
+          "sha256": "b8e872875692637028a6e4f221197f7cbf4e14ef5faf24768f9c11eb936de45a",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered original-page image PA128; 100886 bytes"
+        },
+        {
+          "url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PA129&img=1&zoom=3&hl=en&sig=ACfU3U0vYaVZ7iFY3htcCNRrqH8gTnwYNA",
+          "sha256": "3e41af4819c1fa37964eaceb516a1a340f5e6e4f7a81bc22f2598da62b72f4a2",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered original-page image PA129; 94170 bytes"
+        }
+      ]
     }
   ]
 }

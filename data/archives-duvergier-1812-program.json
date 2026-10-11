@@ -1,0 +1,149 @@
+{
+  "source_id": "S374",
+  "case_id": "C006",
+  "status": "SOURCED_DRAFT",
+  "retrievals": [
+    {
+      "page": "PP7",
+      "page_url": "https://books.google.com/books?id=2aAxAAAAIAAJ&pg=PP7",
+      "image_url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PP7&img=1&zoom=3&hl=en&sig=ACfU3U0P4Ttdf5_Plgg85Ljqb1sh2pwndg",
+      "bytes": 14002,
+      "sha256": "6d2a5612050820edd80eb005313fd691dedac0d181ae9b366175b6261c3059c7"
+    },
+    {
+      "page": "PP9",
+      "page_url": "https://books.google.com/books?id=2aAxAAAAIAAJ&pg=PP9",
+      "image_url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PP9&img=1&zoom=3&hl=en&sig=ACfU3U3hNxz2p6Y1cjUx-TUZQgeCibzdUA",
+      "bytes": 33549,
+      "sha256": "16a21bc4c7ad93e3cc58b755aca5bba7cb7c08cb5a9a29099f730f9764efd6a9"
+    },
+    {
+      "page": "PA126",
+      "page_url": "https://books.google.com/books?id=2aAxAAAAIAAJ&pg=PA126",
+      "image_url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PA126&img=1&zoom=3&hl=en&sig=ACfU3U3nP7-CyhwkiGX72FhHAO1pzscdPg",
+      "bytes": 84004,
+      "sha256": "deb4364935c8e328e6832568cd8384888c0d15963fcd687c565dcfdd27bf52b5"
+    },
+    {
+      "page": "PA127",
+      "page_url": "https://books.google.com/books?id=2aAxAAAAIAAJ&pg=PA127",
+      "image_url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PA127&img=1&zoom=3&hl=en&sig=ACfU3U2fNI-Gx51_xzEQxLvZpKbNtTORWg",
+      "bytes": 85904,
+      "sha256": "a238c13a50c6c10c26b6921df8e7e0238b2f10617c0519917241d1e08f140294"
+    },
+    {
+      "page": "PA128",
+      "page_url": "https://books.google.com/books?id=2aAxAAAAIAAJ&pg=PA128",
+      "image_url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PA128&img=1&zoom=3&hl=en&sig=ACfU3U0kagLBc5e2iFNkxxFXeygJuFoBWg",
+      "bytes": 100886,
+      "sha256": "b8e872875692637028a6e4f221197f7cbf4e14ef5faf24768f9c11eb936de45a"
+    },
+    {
+      "page": "PA129",
+      "page_url": "https://books.google.com/books?id=2aAxAAAAIAAJ&pg=PA129",
+      "image_url": "https://books.google.com/books/content?id=2aAxAAAAIAAJ&pg=PA129&img=1&zoom=3&hl=en&sig=ACfU3U0vYaVZ7iFY3htcCNRrqH8gTnwYNA",
+      "bytes": 94170,
+      "sha256": "3e41af4819c1fa37964eaceb516a1a340f5e6e4f7a81bc22f2598da62b72f4a2"
+    }
+  ],
+  "edition": {
+    "volume": 18,
+    "edition": "Second",
+    "printed_publication_year": 1836,
+    "publisher": "A. Guyot et Scribe",
+    "city": "Paris",
+    "title_locator": "PP9",
+    "routing_citation_year": 1838,
+    "routing_citation_exact_copy_match": false,
+    "year_difference_explanation": null
+  },
+  "inspection": {
+    "pages": [
+      "PP7",
+      "PP9",
+      "PA126",
+      "PA127",
+      "PA128",
+      "PA129"
+    ],
+    "original_images_visually_inspected": true,
+    "printed_item_pages": [
+      127,
+      128
+    ],
+    "complete_printed_item_inspected": true,
+    "entire_volume_inspected": false,
+    "signed_original_inspected": false
+  },
+  "printed_item": {
+    "heading_date": "1812-03-21",
+    "source_reference_literal": "Mon. no 87",
+    "cited_newspaper_inspected": false,
+    "cited_newspaper_issue_date": null,
+    "articles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "titles": [
+      {
+        "title": "Archives impériales",
+        "articles": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "title": "Palais de l’Université impériale, etc.",
+        "articles": [
+          5,
+          6
+        ]
+      },
+      {
+        "title": "École des Beaux-Arts",
+        "articles": [
+          7,
+          8
+        ]
+      }
+    ],
+    "end_boundary": "Followed by separate same-date Paris cotton-warehouse decree",
+    "archive_article2_literal": "Les plans",
+    "S371_article2_literal": "Les palais",
+    "variant_cause": null
+  },
+  "allocation_roles": {
+    "archives_initial_francs": 200000,
+    "archives_prior_decree_day_in_month": 6,
+    "university": "Available University funds",
+    "fine_arts": "Available previous-year budget credits",
+    "actual_payments_authenticated": false
+  },
+  "physical_limits": {
+    "archives_intended_accommodation_m3": 100000,
+    "excavated_sediment_volume_m3": null,
+    "surveyed_parcel": null,
+    "completed_dimensions": null,
+    "eiffel_pier_join": false,
+    "height_or_sediment_measured": false
+  },
+  "same_date_record_control": {
+    "CNAM_Bibl145_original_inspected": false,
+    "Saint_Martin_or_Louvre_transfer_in_printed_item": false,
+    "same_instrument_authenticated": false
+  },
+  "limits": [
+    "1836 printed reproduction, not signed1812original",
+    "Moniteur reference not acquired",
+    "1838 routing citation differs from inspected title; another printing versus citation error unknown",
+    "Selected pages only; no execution accounts, cadastral registration or physical deposit dates"
+  ]
+}

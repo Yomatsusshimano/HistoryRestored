@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Complete printed program and separate institutional funds
+
+S374 original 1836 second-edition title and pages 126–129 inspected. The 21 March 1812 item has eight articles across Archives, University and fine-arts titles, with distinct funding roles. Moniteur no87 is an unacquired lead; 1838 routing citation differs from inspected title. No signed original, execution record or pier association. 28 drafts / 374 sources; all twenty objectives active. See [legal program audit](research/ARCHIVES-DUVERGIER-1812-PROGRAM.md).
+
 ### 2026-10-11 — Two map candidates and planning-symbol limits
 
 S372/S373originalJean1815maps inspected: Archivesfour-court diagrams besideChamp-de-Mars andavenueBourdonnaye, withproposedpalace controls. Two matchingpublicationcandidates preventuniqueBordiereditionjoin; sharedpublisher notindependent survey. Noexecutedfootprint orpierregistration.28drafts/373sources; all twenty objectives active. See [map comparison](research/JEAN-1815-PALACE-MAPS.md).
