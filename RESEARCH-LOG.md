@@ -2041,3 +2041,8 @@ Previousa80f714publication was progress; checkout clean. Targeted collection/rev
 ### 2026-10-11 — Ann Arbor candidate parcel
 
 [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): municipal façade and DDA alteration records visually inspected; candidate parcel separated from Starbucks image. Source area is not deposit depth. No photo/soil/date join established. Roopkund library-number search found no authenticated catalog; remains open.31drafts/417sources; all twenty objectives active.
+
+
+### 2026-10-11 — Ann Arbor contemporary construction account
+
+[Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): S418 original1906 volume acquired; title, preface and printed136 visually inspected. Recent brick construction at213–215West Liberty is reported separately from business activity since1885. Exact completion year, modern fabric, Reddit photograph and deposit joins remain open. Participant-derived, selective biography limits retained. University retrieval inaccessible; ordinary alternate scan acquired, not another witness.31drafts/418sources; all twenty objectives active, no independent archive review.

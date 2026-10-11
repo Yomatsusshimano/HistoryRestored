@@ -5,7 +5,8 @@
   "source_ids": [
     "S378",
     "S416",
-    "S417"
+    "S417",
+    "S418"
   ],
   "retrievals": [
     {
@@ -19,6 +20,12 @@
       "sha256": "ee4f9c9fa8c036afcc401ab8702438eb1e7cf19e6b366f89a23f39b02cf18a77",
       "retrieved_date": "2026-10-11",
       "hash_scope": "77-page delivery; PDF1/33 visually inspected: adoption cover and TableA4 Schlenker row; complete delivered 2816668 bytes"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Past_and_present_of_Washtenaw_County%2C_Michigan_%28IA_pastpresentofwas01beak%29.pdf",
+      "sha256": "26f2165efb4973be42bca01fed2823ecc5fa394fc3c5ad4300a8ea01d8ac5dac",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 51969516-byte delivery, 832 PDF pages; PDF5/7/140 visually inspected; other pages not reviewed"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -28,7 +35,8 @@
     "value": 1906,
     "source_id": "S416",
     "locator": "PDF4",
-    "contemporary_document_verified": false
+    "contemporary_document_verified": false,
+    "qualification": "S418 supports recent completion in a 1906 publication, not the exact 1906 year reported by S416."
   },
   "alteration": {
     "source_id": "S417",
@@ -42,5 +50,24 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Retrieve permits, historical side elevations and survey; authenticate parcel before causal model."
+  "next_test": "Retrieve original construction and 1998 alteration records, dated side elevations and survey; authenticate parcel and fabric before causal model.",
+  "contemporary_construction_account": {
+    "source_id": "S418",
+    "locator": "printed136/PDF140",
+    "publication_year": 1906,
+    "preface_month": "1906-02",
+    "candidate_address_literal": "Nos. 213-215 Liberty street west",
+    "reported_business_since_year": 1885,
+    "reported_new_brick_building_recently_completed": true,
+    "exact_completion_date": null,
+    "construction_permit_inspected": false,
+    "modern_surviving_fabric_authenticated": false
+  },
+  "biographical_source_controls": {
+    "locator": "printed3/PDF7",
+    "participant_accounts_reported": true,
+    "selective_inclusion_reported": true,
+    "exact_entry_informant": null,
+    "independent_construction_record": false
+  }
 }

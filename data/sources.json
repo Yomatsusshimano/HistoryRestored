@@ -7449,6 +7449,29 @@
           "hash_scope": "77-page delivery; PDF1/33 visually inspected: adoption cover and TableA4 Schlenker row; complete delivered 2816668 bytes"
         }
       ]
+    },
+    {
+      "id": "S418",
+      "title": "Past and Present of Washtenaw County, Michigan (1906), Christian Schlenker biography",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Past_and_present_of_Washtenaw_County%2C_Michigan_%28IA_pastpresentofwas01beak%29.pdf",
+      "creator": "Samuel W. Beakes (historical section); biographical compilers; The S.J. Clarke Publishing Co.",
+      "publication_date": null,
+      "publication_year": 1906,
+      "source_type": "Contemporary published biography; original printed volume delivered as scan",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF5 title (printed1); PDF7 preface (printed3); PDF140 Christian Schlenker entry (printed136).",
+      "limitations": "Biography reports recent construction without exact completion date, permits or original plans. Preface describes participant-derived biographies and selective inclusion. No original Reddit image match, surviving-fabric authentication, sediment profile or deposit date. Wikimedia/Internet Archive delivery is not an independent witness to the printed text.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Past_and_present_of_Washtenaw_County%2C_Michigan_%28IA_pastpresentofwas01beak%29.pdf",
+          "sha256": "26f2165efb4973be42bca01fed2823ecc5fa394fc3c5ad4300a8ea01d8ac5dac",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 51969516-byte delivery, 832 PDF pages; PDF5/7/140 visually inspected; other pages not reviewed"
+        }
+      ]
     }
   ]
 }

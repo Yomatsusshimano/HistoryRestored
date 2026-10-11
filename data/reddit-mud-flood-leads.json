@@ -120,7 +120,7 @@
       "place": "Ann Arbor,Michigan",
       "source_id": "S378",
       "claim": "Alleged first floor built below ground",
-      "status": "CANDIDATE_PARCEL_AND_RENOVATION_RECORDS_INSPECTED",
+      "status": "CONTEMPORARY_CONSTRUCTION_ACCOUNT_INSPECTED_PHOTO_AND_DEPOSIT_JOIN_OPEN",
       "building_address": null,
       "unresolved": [
         "Full thread access",
@@ -135,7 +135,8 @@
       "candidate_address": "213–215 W. Liberty Street, Ann Arbor, Michigan",
       "followup_source_ids": [
         "S416",
-        "S417"
+        "S417",
+        "S418"
       ],
       "photo_to_parcel_authenticated": false
     },
