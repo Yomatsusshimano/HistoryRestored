@@ -1,0 +1,47 @@
+{
+  "status": "SOURCE_TRANSCRIPTION_DRAFT",
+  "source_id": "S442",
+  "property": "415 West Washington",
+  "units": "feet",
+  "vertical_datum": null,
+  "benchmark": null,
+  "boring_coordinates": null,
+  "relation_to_1992_logs": "Different borings; not corrected MW-1/2/3 replacements",
+  "logs": [
+    {
+      "boring_id": "TB-1",
+      "locator": "PDF425/Figure1",
+      "drilling_date": "1995-04-06",
+      "reported_surface_elevation_ft": 798.2,
+      "reported_total_depth_ft": 30.0,
+      "selected_interval": {
+        "top_depth_ft": 8.0,
+        "bottom_depth_ft": 10.0,
+        "material": "Loose brown fibrous peat",
+        "source_fill_label": true,
+        "emplacement_age": null,
+        "organic_material_age": null
+      }
+    },
+    {
+      "boring_id": "TB-2",
+      "locator": "PDF426/Figure2",
+      "drilling_date": "1995-04-07",
+      "reported_surface_elevation_ft": 798.1,
+      "reported_total_depth_ft": 20.0,
+      "selected_interval": {
+        "top_depth_ft": 6.0,
+        "bottom_depth_ft": 8.0,
+        "material": "Black peat",
+        "source_fill_label": false,
+        "natural_origin_verified": false,
+        "emplacement_age": null,
+        "organic_material_age": null
+      }
+    }
+  ],
+  "scope": "Selected peat intervals only, not complete profile or independent validation",
+  "sample_ids_for_dating": null,
+  "physical_samples_acquired": false,
+  "event_correlation_verified": false
+}

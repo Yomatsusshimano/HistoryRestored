@@ -2146,3 +2146,8 @@ S4402012FIS selectedscans inspected: reports county custody/use of1925Dodgeplans
 ### 2026-10-11 — Washington construction sequence and older-origin limits
 
 S4412013architecturalassessment selectedrenderedpages inspected:1924/1925annotatedphoto reproductions showyard/excavation thensteel-framedaddition; completedexteriorcaption1925–1926. Olderbuildingbuilderunresolved; below-gradepartsnotcored. Photodate-range,record-range andpanoramadate discrepanciespreserved. Partialfabricreuse isreportinterpretation,notlostcivilizationproof. [Buildingsequence](research/WEST-WASHINGTON-BUILDING-SEQUENCE.md).Countywebmaplandingpageaccess yieldednomappedoriginal1925plan; notproofunavailability.31drafts/441sources; alltwentyobjectivesactive.
+
+
+### 2026-10-11 — Later peat logs challenge an undisturbed-layer assumption
+
+S442NTH1996plan cover and1995TB-1/TB-2 logs visually inspected: TB-1 labels8–10ft fibrouspeat asfill; TB-2 describes6–8ft blackpeat withoutfillqualifier. Neither authenticatesnaturalorigin/age. Elevations reported butdatum/positionsunverified; selecteddatasetretainsnullages. NavigationPDF350–429 didnotlocatecorrected1992MWs; holdremains. [Peatcontrols](research/WEST-WASHINGTON-1995-PEAT-CONTROLS.md).31drafts/442sources; physicalmodel/dating and alltwentyobjectivesremainactive.

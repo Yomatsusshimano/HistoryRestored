@@ -8139,6 +8139,31 @@
           "access_note": "Webreaderfailed;normalpublicdownloadworked.Pypdfobjectoffsetwarningsandgarbledembeddedfonttext;selectedrenderedpageslegible."
         }
       ]
+    },
+    {
+      "id": "S442",
+      "title": "NTH March29,1996 corrective action plan: April1995 TB-1/TB-2 logs and contrasting peat labels",
+      "url": "https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf",
+      "creator": "NTH Consultants, Ltd.; drilling contractor Geo-Tek, Inc.; reproduced in2013assessment",
+      "publication_date": "1996-03-29",
+      "source_type": "Environmental corrective action plan reproducing individual1995test-boring logs",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF371cover names415WestWashington/date; PDF425/Figure1TB-1 April6,1995, elevation798.2ft, peat labelledfill; PDF426/Figure2TB-2 April7,1995,elevation798.1ft, peat withoutfillqualifier. Selected logs visually inspected; otherborings onlynavigation.",
+      "limitations": "LaterTB-series borings are not replacements for earlierMW-1/2/3logs. Verticaldatum/benchmark and preciseboringcoordinates notverified; elevations reported butnotjoinedtoNAVD88or1992wells. Peatfilldesignation isinvestigatorinterpretation,notproofsourceorage. No radiocarbon/sampleacquisition or1902layercorrelation. Sharedsite/retrieval, differentconsultant; independenceofmeasurements requiresoriginalfieldrecordreview. Selectedlogdepths notgeneralregionalmudthickness. No currentcontaminationsafetyconclusion. Factory/Schlenkerparcelsunmatched; noindependentscientificreview.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf",
+          "bytes": 65500138,
+          "sha256": "a78c7f660fcbc4375441b4e116cbaf22dc95c1b25662cf2730ba95d92058fccd",
+          "pages": 793,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Same793-page packet. PDF371 cover andPDF425/426 individual1995TB-1/TB-2 logs visually inspected at2400pixel render. PDF350–429 contact sheets navigation only. CorrectedMW-1/2/3 not located in selected navigation.",
+          "access_note": "Web reader rejected file size; normal public HTTPS download succeeded. Renderer font warnings occurred; selected pages visually checked."
+        }
+      ]
     }
   ]
 }

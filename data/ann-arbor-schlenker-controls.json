@@ -29,7 +29,8 @@
     "S438",
     "S439",
     "S440",
-    "S441"
+    "S441",
+    "S442"
   ],
   "retrievals": [
     {
@@ -979,5 +980,14 @@
     "deposit_thickness": null,
     "creek_construction_date_verified": false,
     "schlenker_property_join": false
+  },
+  "west_washington_1995_peat_control": {
+    "source_id": "S442",
+    "dataset": "data/west-washington-1995-peat-controls.json",
+    "contrasting_fill_labels": true,
+    "common_datum_verified": false,
+    "corrected_1992_logs_replaced": false,
+    "event_age": null,
+    "physical_event_correlation_verified": false
   }
 }
