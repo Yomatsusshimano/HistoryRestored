@@ -1,5 +1,5 @@
 {
-  "status": "METADATA_AUDIT_RASTER_ANALYSIS_NOT_EXECUTED",
+  "status": "P05_P06_ACQUIRED_EXPLORATORY_WINDOW_EXECUTED_NOT_VALIDATED_DEPOSITION",
   "source_ids": [
     "S446",
     "S447",
@@ -128,10 +128,12 @@
       273,
       266
     ],
-    "raster_files_acquired": false,
-    "overlap_pixels_verified": false,
+    "raster_files_acquired": true,
+    "overlap_pixels_verified": true,
     "deposit_volume_m3": null,
-    "change_uncertainty_m": null
+    "change_uncertainty_m": null,
+    "overlap_scope": "Selected1000x1000 window only; full common footprint not exhaustively inspected.",
+    "result": "analysis/melamchi-raster-inspection-result.json"
   },
   "uncertainty_workbook_target": "S446 Supplementary Table3: Uncertainty analyses of DSM difference and result summary",
   "uncertainty_workbook_acquired": false,

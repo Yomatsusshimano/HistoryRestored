@@ -85,3 +85,8 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### 2026-10-11 — Elevation input follow-up
 
 [DSM acquisition and alignment audit](MELAMCHI-DSM-INPUTS.md) identifies public inputs and preserves limits on event timing and absolute displacement. Metadata inspection is not raster reproduction.31drafts/448sources; no independent archive review.
+
+
+### 2026-10-11 — Actual raster acquisition and execution
+
+[Executed local surface comparison](MELAMCHI-RASTER-INSPECTION.md): earlier non-acquisition statements above are historical snapshots. P05/P06 acquired; selected window processed. Masks, uncertainty workbook and vertical confirmation remain missing; no validated deposit thickness/volume. Same448sources,31case drafts.

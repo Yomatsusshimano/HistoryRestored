@@ -8243,8 +8243,8 @@
       "publication_date": "2024-10-25",
       "source_type": "Author-deposited DSM catalog and technical metadata report",
       "access": "SCAN_INSPECTED",
-      "inspected": "Catalog raster listing and horizontal CRS; metadata PDF1 methods, PDF3/Table1 acquisition dates, PDF4/Table2 processing parameters visually inspected. PDF2 not inspected.",
-      "limitations": "Raster pixels and original stereo images not acquired. Independent vertical datum, stable-area mask, registration residuals and uncertainty estimates unverified. PDF/catalog share authors and dataset; not independent observations.",
+      "inspected": "Catalog raster listing and horizontal CRS; metadata PDF1 methods, PDF3/Table1 acquisition dates, PDF4/Table2 processing parameters visually inspected. PDF2 not inspected. Follow-up: actual P05/P06 GeoTIFF headers, matching grid, valid pixels and exploratory 1km window analyzed; generated three-panel figure visually inspected.",
+      "limitations": "Raster acquisition is now complete for P05/P06 only. Independent vertical datum, band height units, stable-area masks, registration residuals, uncertainty workbook and original stereo images remain unverified/unacquired. Fixed exploratory window is not a classified event deposit. Shared-author dataset is not independent scientific replication.",
       "retrievals": [
         {
           "url": "https://opentopography.s3.sdsc.edu/dataspace/OTDS.102024.32645.1/docs/MetaData.pdf",
@@ -8254,6 +8254,22 @@
           "retrieved_date": "2026-10-11",
           "hash_scope": "Complete delivery, selected PDF1/3/4 inspected.",
           "access_note": "Public download succeeded; pypdf object-offset warnings occurred; selected rendered pages readable."
+        },
+        {
+          "url": "https://opentopography.s3.sdsc.edu/dataspace/OTDS.102024.32645.1/raster/Melamchi_DSM_P05_202101.tif",
+          "bytes": 993048869,
+          "sha256": "bbb13b33545b6cca7f4674816b01ca8833bd354802a9388628eef32efe911c1e",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete GeoTIFF; headers and selected 1000x1000 window inspected, not every pixel.",
+          "access_note": "Ordinary public download; no original stereo image acquisition or independent datum verification."
+        },
+        {
+          "url": "https://opentopography.s3.sdsc.edu/dataspace/OTDS.102024.32645.1/raster/Melamchi_DSM_P06_202110.tif",
+          "bytes": 619843277,
+          "sha256": "6f6d3c12eae0d7d7d0dbfc77e229087ce70fb37c902e366ee7c28208f953e723",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete GeoTIFF; headers and selected 1000x1000 window inspected, not every pixel.",
+          "access_note": "Ordinary public download; no original stereo image acquisition or independent datum verification."
         }
       ]
     },

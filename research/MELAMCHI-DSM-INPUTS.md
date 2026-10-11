@@ -19,3 +19,8 @@ The interval comparison also spans processes before and after June. Assigning al
 The ledger identifies public P05/P06 file URLs and transcribes all twelve pair dates. Next acquire and hash the actual rasters, masks and uncertainty workbook; inspect spatial overlap and valid pixels; verify vertical reference and transformations; evaluate residuals on independent stable controls. Only then calculate masked erosion/deposition with uncertainty propagation and compare source and sink volumes. A computation without these controls remains exploratory.
 
 No raster pixels, new sediment budget, hydraulic reconstruction, field validation or independent replication was completed this turn. The metadata narrows the next acquisition and prevents testing absolute upheaval with data that remove overall offsets. This dataset is a local modern control; it does not date the historical Reddit buildings.31core case drafts/448sources; all twenty objectives remain active.
+
+
+### 2026-10-11 — Actual raster acquisition and execution
+
+[Executed local surface comparison](MELAMCHI-RASTER-INSPECTION.md): earlier non-acquisition statements above are historical snapshots. P05/P06 acquired; selected window processed. Masks, uncertainty workbook and vertical confirmation remain missing; no validated deposit thickness/volume. Same448sources,31case drafts.

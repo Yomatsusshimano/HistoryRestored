@@ -2166,3 +2166,8 @@ S445 selected report pages visually inspected; source unit/date inconsistencies 
 ### 2026-10-11 — Melamchi DSM dates and registration limits
 
 S447 metadata PDF1/3/4 inspected; all twelve stereo-pair dates transcribed and candidate raster URLs identified. [DSM input audit](research/MELAMCHI-DSM-INPUTS.md) distinguishes interval surface change from exact event attribution and stable-terrain registration from absolute uplift control. S446 article indexed targets/S448 mapping catalog inspected at stated limits; rasters/workbooks not acquired.31drafts/448sources; no independent archive review; all twenty objectives active.
+
+
+### 2026-10-11 — Executed Melamchi raster comparison
+
+P05/P06 complete rasters acquired and hashed; exact-grid1km window processed without resampling.998141paired valid pixels; generated figure visually inspected. [Raster inspection](research/MELAMCHI-RASTER-INSPECTION.md) preserves unset band-height units, unverified vertical datum, missing masks/errors and interval-attribution limits. Same31drafts/448sources; no deposit volume or independent archive review; all twenty objectives active.

@@ -1,0 +1,138 @@
+{
+  "status": "EXPLORATORY_SURFACE_CHANGE_NOT_VALIDATED_EVENT_DEPOSITION",
+  "software": {
+    "rasterio": "1.5.2",
+    "gdal": "3.12.2",
+    "numpy": "2.5.4"
+  },
+  "source_ids": [
+    "S447",
+    "S444"
+  ],
+  "before_sha256": "bbb13b33545b6cca7f4674816b01ca8833bd354802a9388628eef32efe911c1e",
+  "after_sha256": "6f6d3c12eae0d7d7d0dbfc77e229087ce70fb37c902e366ee7c28208f953e723",
+  "uncertainty_m": null,
+  "deposit_volume_m3": null,
+  "selection": "1 km square centered on S444 Figure2 caption coordinates; retrospective exploratory selection",
+  "center_wgs84": {
+    "longitude": 85.575513,
+    "latitude": 27.83068
+  },
+  "scientific_limits": [
+    "No independently validated stable control or river/deposit mask",
+    "Surface changes include buildings/vegetation and other interval processes",
+    "No uncertainty threshold; change signs are not significant deposition/erosion",
+    "Registration removes overall translation/rotation components"
+  ],
+  "before": {
+    "width": 12996,
+    "height": 31633,
+    "count": 1,
+    "dtypes": [
+      "float32"
+    ],
+    "crs": "EPSG:32645",
+    "crs_wkt": "PROJCS[\"WGS 84 / UTM zone 45N\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",87],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"32645\"]]",
+    "transform": [
+      1.0,
+      0.0,
+      351614.5,
+      0.0,
+      -1.0,
+      3097422.5
+    ],
+    "bounds": [
+      351614.5,
+      3065789.5,
+      364610.5,
+      3097422.5
+    ],
+    "nodata": -32768.0,
+    "units": [
+      null
+    ],
+    "scales": [
+      1.0
+    ],
+    "offsets": [
+      0.0
+    ],
+    "tags": {
+      "AREA_OR_POINT": "Area"
+    }
+  },
+  "after": {
+    "width": 18240,
+    "height": 16507,
+    "count": 1,
+    "dtypes": [
+      "float32"
+    ],
+    "crs": "EPSG:32645",
+    "crs_wkt": "PROJCS[\"WGS 84 / UTM zone 45N\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",87],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"32645\"]]",
+    "transform": [
+      1.0,
+      0.0,
+      346344.5,
+      0.0,
+      -1.0,
+      3082335.5
+    ],
+    "bounds": [
+      346344.5,
+      3065828.5,
+      364584.5,
+      3082335.5
+    ],
+    "nodata": -32768.0,
+    "units": [
+      null
+    ],
+    "scales": [
+      1.0
+    ],
+    "offsets": [
+      0.0
+    ],
+    "tags": {
+      "AREA_OR_POINT": "Area"
+    }
+  },
+  "grid_offset_pixels": [
+    -5270.0,
+    15087.0
+  ],
+  "window": {
+    "bounds_projected": [
+      359213.5,
+      3078760.5,
+      360213.5,
+      3079760.5
+    ],
+    "shape": [
+      1000,
+      1000
+    ],
+    "paired_valid_pixels": 998141,
+    "total_pixels": 1000000,
+    "resampling": false,
+    "change_definition": "after minus before surface elevation; coordinate units from source, no independent vertical datum confirmation",
+    "change_quantiles": {
+      "p05": -4.1279296875,
+      "p25": -0.02734375,
+      "p50": 1.2197265625,
+      "p75": 3.16015625,
+      "p95": 7.48046875
+    },
+    "minimum": -25.375,
+    "maximum": 22.9443359375,
+    "before_valid_range": [
+      746.01953125,
+      947.1318359375
+    ],
+    "after_valid_range": [
+      754.00390625,
+      945.6220703125
+    ]
+  }
+}
