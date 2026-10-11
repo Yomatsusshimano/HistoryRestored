@@ -110,3 +110,5 @@ Builder supply follow-up: [Pompey industrial survey](research/EIFFEL-POMPEY-META
 Supply-account follow-up: [weight reconciliation and printed cost discrepancy](research/EIFFEL-SUPPLY-RECONCILIATION.md); original batch acceptance and dispatch records remain unacquired.
 
 Material follow-up: [reported iron tests and named factory acceptance](research/EIFFEL-MATERIAL-TESTS.md), with means, specifications and batch-record limits kept separate.
+
+Supplier retrieval update: [Orsay ARO19811268 correspondence](research/EIFFEL-SUPPLIER-CORRESPONDENCE.md), an exact contract/order target with original contents still uninspected.

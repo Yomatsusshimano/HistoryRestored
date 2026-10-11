@@ -25,3 +25,5 @@ The [personnel roster](https://www.e-rara.ch/zut/content/zoom/8975936) lists **H
 Their names give specific targets for correspondence, test-book signatures and acceptance reports. A decisive record would connect a dated test, inspector, batch/stock identifier, order, dispatch and workshop use. The retrospective participant account remains dependent evidence even when it contains detailed measurements and personnel.
 
 The4200-test-bar lead remains separate: a[1980exhibition catalog](https://www.persee.fr/authority/221247) has been identified through bibliographic search, but its contents and underlying records are unacquired. Neither these five mean rows nor the six roster names validate that count. The builders objective and broader catastrophe/attribution hypotheses remain open.
+
+Supplier retrieval update: [Orsay ARO19811268 correspondence](EIFFEL-SUPPLIER-CORRESPONDENCE.md), an exact contract/order target with original contents still uninspected.

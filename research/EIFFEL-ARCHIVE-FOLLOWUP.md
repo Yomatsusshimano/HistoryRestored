@@ -19,3 +19,5 @@ This establishes a checkable recruitment trail earlier than the 1900 monograph, 
 For supplier evidence, [Geindre collection 227 J](https://archives.meurthe-et-moselle.fr/sites/default/files/Contenu/Guide/227_J.pdf) is a lead rather than a recovered ledger. Its finding aid describes 1995 exhibition panels in entries 1–4, later notes including personnel and copied letters in entry 5, and collected documents/correspondence spanning 1871–1999 in entry 6. Underlying documents were not inspected. No original 1887 dispatch book was recovered; absence from these selected descriptions is not proof that none survives elsewhere.
 
 Next: trace the tower-plan transfer to a current item-level inventory, recover supplier orders/dispatches, and compare the recruitment letter with appointment records. The full investigation remains active.
+
+Supplier retrieval update: [Orsay ARO19811268 correspondence](EIFFEL-SUPPLIER-CORRESPONDENCE.md), an exact contract/order target with original contents still uninspected.

@@ -1,0 +1,39 @@
+{
+  "source_id": "S341",
+  "accessed_date": "2026-10-11",
+  "access": "CATALOG_METADATA",
+  "holding": "musee d Orsay",
+  "inventory_number": "ARO 1981 1268",
+  "record_identifier": "104566",
+  "url": "https://www.musee-orsay.fr/fr/oeuvres/lettres-echangees-entre-gustave-eiffel-et-la-societe-dupont-et-fould-propos-du-marche-et-de-commandes-pour-le-fer-entrant-dans-la-construction-de-la-tour-104566",
+  "catalog_date_text": "entre1886et1887 [aout-septembre1886,27avril1887]",
+  "exact_document_date_authenticated": false,
+  "catalog_dimensions_cm": {
+    "height": 31,
+    "width": 23
+  },
+  "catalog_acquisition_year": 1981,
+  "catalog_donation_committee_date": "1981-06-25",
+  "catalog_provenance": "Granet family collection, descendants of Gustave Eiffel, until1981; accepted by State as gift for musee d Orsay and assigned there in1981.",
+  "bibliographic_routes": [
+    {
+      "creator": "Genevieve Lacambre; Philippe Thiebaut",
+      "title": "Catalogue sommaire illustre des nouvelles acquisitions du Musee d Orsay1980-1983",
+      "publication_year": 1983,
+      "page": 136,
+      "entry_number": 576,
+      "contents_inspected": false
+    },
+    {
+      "creator": "Amelie Granet",
+      "title": "Musee d Orsay. Catalogue sommaire illustre du fonds Eiffel",
+      "publication_year": 1989,
+      "page": 66,
+      "contents_inspected": false
+    }
+  ],
+  "catalog_last_modification": "2026-06-30",
+  "original_letter_images_acquired": 0,
+  "original_text_transcribed": false,
+  "access_note": "Museum item-level text read through web tool; separate normal shell fetch of artist index returned security block. No direct HTML preservation, letter images, bypass or outreach. Catalog-date roles remain distinct."
+}

@@ -1154,6 +1154,11 @@
           "source_id": "S17",
           "locator": "Printed101/canvas8976048 and unnumbered personnel roster/canvas8975936",
           "statement": "Five reported mean iron-test rows distinguish plate rolling direction and200mm elongation gauge length. Six names appear under factory acceptance. No counts, batch certificates or precise duties supplied here; rivet requirements use separate100mm gauge length."
+        },
+        {
+          "source_id": "S341",
+          "locator": "Item104566; date/inventory, provenance and sources sections",
+          "statement": "Orsay catalog identifies ARO19811268as Eiffel-Dupont/Fould correspondence on tower iron contract/orders, with August-September1886and27April1887dates and1983/1989catalog page references. Original letters uninspected; no quantity or fulfillment established."
         }
       ],
       "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",
@@ -1165,7 +1170,7 @@
         "Repair/reassembly if fabric and earlier records support it"
       ],
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
-      "next_test": "Search acceptance books/signatures for Holfeld, Adam, Budin, Dupieux, Leclerc and Lefebvre; connect dated specimen/batch IDs with Fould-Dupont orders/dispatches and Levallois part registers. Roster credit alone does not establish inspections.",
+      "next_test": "Inspect Orsay ARO19811268and1989fonds catalogp66; extract sheet-level dates, quantities, specifications and batch references, then join orders to factory acceptance/dispatch and Levallois use. Roster names remain signature-search targets.",
       "chronology": {
         "reported": "1900 monograph; progress sheet through 8 January 1888; photographic mount inscription 10 February 1888; inspection report 4 January 1889.",
         "dated_object": "Documents and photograph inscription; not independent component manufacture dates.",

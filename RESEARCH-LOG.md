@@ -1818,3 +1818,9 @@ Previous turn progress7fe1c46published ten byte-verified files. Current checkout
 S17 five mean test rows retain form, rolling direction and200mm gauge length; several OCR readings corrected from original images. Rivet100mm requirements remain separate. Six factory-acceptance names provide archival targets, not batch validation or restored erased identities.28drafts/340sources; all twenty objectives active. See [material audit](research/EIFFEL-MATERIAL-TESTS.md).
 
 Previous goal turn progressd20c3a0published14byte-verified files. Current checkout clean. Manifest-declared2000pixel deliveries acquired, complete images and selected crops visually inspected. Angle8%,flat390x15,strength36.9contrast OCR14/300/30.0. Role spellingHolfeldchecked; earlier OCRHoleeldnot adopted. Sample counts/batch identifiers remainnull. Search-only1980catalog route not misrepresented as inspected original. No new sourcecount, independent lab reproduction, outreach or completion.
+
+### 2026-10-11 — Exact original supplier-correspondence target
+
+S341 Orsay catalog identifies ARO19811268, item104566, contract/order correspondence dated1886–1887, with specific dates and1983/1989catalog page references. Original sheets unacquired; orders do not establish delivery or new manufacture.28drafts/341sources; all twenty objectives active. See [retrieval route](research/EIFFEL-SUPPLIER-CORRESPONDENCE.md).
+
+Previous turn progress1b406b3published11byte-verified files. Current checkout clean. Supplier search located holding-institution index; followed observed item link and read full catalog text via web. Generic1268registrytoken matched unrelated workbook rows, not a duplicate supplier source; exact104566/AROentry new. Shell artist-index request blocked, no original HTML/images preserved and no bypass. Catalog/custody/date role distinctions retained. No original order content, acceptance linkage, outreach or completion.

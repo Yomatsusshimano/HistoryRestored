@@ -5380,6 +5380,20 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S341",
+      "title": "Musee d Orsay ARO19811268: Eiffel-Dupont/Fould tower iron contract and order correspondence",
+      "url": "https://www.musee-orsay.fr/fr/oeuvres/lettres-echangees-entre-gustave-eiffel-et-la-societe-dupont-et-fould-propos-du-marche-et-de-commandes-pour-le-fer-entrant-dans-la-construction-de-la-tour-104566",
+      "creator": "Musee d Orsay catalog; historical correspondence attributed to Gustave Eiffel and Societe Dupont et Fould",
+      "source_type": "Holding institution item-level catalog metadata",
+      "access": "CATALOG_METADATA",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Item104566 title/date/inventory/dimensions, holding/provenance/acquisition, two bibliographic references and modification field read through web tool. August-September1886and27April1887 catalog dates; ARO19811268.",
+      "limitations": "No manuscript image/text, document count, batch identifier, order quantity, receipt or payment inspected. Family provenance and dates remain catalog assertions. Bibliographic pages unacquired. Web index/item are same catalog family, not independent witnesses. Separate shell index fetch security-blocked.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }

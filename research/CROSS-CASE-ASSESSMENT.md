@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Exact original supplier-correspondence target
+
+S341 Orsay catalog identifies ARO19811268, item104566, contract/order correspondence dated1886–1887, with specific dates and1983/1989catalog page references. Original sheets unacquired; orders do not establish delivery or new manufacture.28drafts/341sources; all twenty objectives active. See [retrieval route](EIFFEL-SUPPLIER-CORRESPONDENCE.md).
+
 ### 2026-10-11 — Material-test means and named factory acceptance
 
 S17 five mean test rows retain form, rolling direction and200mm gauge length; several OCR readings corrected from original images. Rivet100mm requirements remain separate. Six factory-acceptance names provide archival targets, not batch validation or restored erased identities.28drafts/340sources; all twenty objectives active. See [material audit](EIFFEL-MATERIAL-TESTS.md).
