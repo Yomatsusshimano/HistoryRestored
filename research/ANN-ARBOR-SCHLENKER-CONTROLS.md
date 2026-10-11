@@ -105,3 +105,16 @@ A separate [1904 Liberty Street grade control](LIBERTY-1904-GRADE-CONTROL.md), S
 ## Local1902 flood response: separate event control
 
 [Allen's Creek1902 controls](ALLEN-CREEK-1902-FLOOD-CONTROL.md), S429/S430, document July8 council reporting of rainfall damage and requests for cellar-water removal, followed by August4 Liberty/First culvert repair recommendations. No exact flood day, mud profile, completed repairs or Schlenker parcel match is established. This adds a local flooding candidate while preserving separate grading, drainage and redevelopment chronologies.
+
+
+## Address control: rug factory and hardware store are separate leads
+
+The [1902 city directory](https://aadl.org/sites/default/files/docfiles/directory-1902-aa-glen_v_mills.pdf), S432, PDF90/printed86, lists the Ann Arbor Fluff Rug Factory, Schlemmer Bros., at **409–421 Huron W**. PDF296/printed292 instead gives **409–429 Huron W** for the same proprietors. Both entries were visually inspected; the discrepancy is printed, not merely an OCR substitution. Retain both ranges until a parcel/map crosswalk resolves them. The volume's title confirms1902 (PDF5), but its exact compilation date and event-day occupancy are unknown.
+
+A [June24,1898 advertisement](https://aadl.org/files/documents/pdf/aa_democrat/aa_democrat_18980624.pdf), S433, PDF2, lists the office and factory at **409–411 W. Huron Street** and names Geo. P. and Henry J. Schlemmer. S418, the [1906 Beakes volume](https://upload.wikimedia.org/wikipedia/commons/b/bf/Past_and_present_of_Washtenaw_County%2C_Michigan_%28IA_pastpresentofwas01beak%29.pdf), PDF381/printed377, reports a move from East Huron to409–421WestHuron without dating the move. These are commercial and biographical reports, not surveyed boundaries or independently verified occupancy. Their shared business informants may limit independence. Differing ranges do not by themselves prove expansion.
+
+This gives the1902 newspaper's mud report a plausible **West Huron business-location target**. It remains distinct from the **213–215 West Liberty** Schlenker building candidate and from the original Reddit images, which are still unmatched. Do not transfer the rug business's reported water depth, floor level or mud to another address.
+
+S432 PDF297/printed293 separately lists **Christian Schlenker's hardware business at116LibertyW** and **residence at213same**. That distinction narrows the building-history test: a residence address in1902 is not proof the later brick hardware store already existed. Compare original maps and construction records with S418's1906 account of a recently completed store. No original residence fabric, replacement date or shared foundation is established by this entry.
+
+Next acquire contemporary parcel/fire-insurance maps, resolve the West Huron ranges and July1902 occupancy, and examine site-specific engineering or sediment records. Continue comparing the116/213WestLiberty phases separately. No deposit thickness, original Reddit building identity or common catastrophe chronology is established.

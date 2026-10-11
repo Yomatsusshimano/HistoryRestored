@@ -2101,3 +2101,8 @@ S429 August1902 council PDF1/2 and S430 July8 PDF1/2 visually inspected; overlap
 ### 2026-10-11 — Reddit R005: contemporary July1902 mud report
 
 S431 July11 Argus-Democrat PDF1/4 visually inspected. Monday storm provisionally dated July7 by issue/calendar context; rainfall box date and duration discrepancies retained. Ann Arbor Fluff Rug Co. reportedly had over14inches water and mud on carpets; no mud thickness, sampled deposit or verified parcel join. [Flood control](research/ALLEN-CREEK-1902-FLOOD-CONTROL.md) and structured controls updated. Next test contemporary business address and original weather log.31drafts/431sources; all twenty objectives active, no independent scientific review.
+
+
+### 2026-10-11 — R005 property separation and1902 address control
+
+S432 directory title and printed86/292/293 visually inspected; S433 June24,1898 advertisement inspected; S418 printed377 additional biography review. Rug factory target409–421WestHuron, conflicting409–429directory entry retained, earlier409–411advertisement; exact flood-day occupancy/parcel boundaries unknown. Schlenker directory distinguishes116WestLiberty hardware from213residence, not proof of surviving store fabric. [Address controls](research/ALLEN-CREEK-1902-FLOOD-CONTROL.md) prevent transferring reported mud/water between properties. Next acquire maps/parcel and construction records.31drafts/433sources; all twenty objectives active, no independent scientific review.

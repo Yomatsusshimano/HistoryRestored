@@ -19,7 +19,9 @@
     "S428",
     "S429",
     "S430",
-    "S431"
+    "S431",
+    "S432",
+    "S433"
   ],
   "retrievals": [
     {
@@ -196,6 +198,22 @@
       "pages": 8,
       "retrieved_date": "2026-10-11",
       "hash_scope": "Complete newspaper issue; PDF1/4 and selected rainfall and mud-report crops visually inspected. Other pages not fully reviewed."
+    },
+    {
+      "url": "https://aadl.org/sites/default/files/docfiles/directory-1902-aa-glen_v_mills.pdf",
+      "bytes": 52547898,
+      "sha256": "c026c384f1cef6664568fa858c4c4688bfced9e1365eda7fe68c2b66eed6843d",
+      "pages": 390,
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete delivery; PDF5 title and PDF90/296/297, printed86/292/293, visually inspected. Remaining pages not fully reviewed."
+    },
+    {
+      "url": "https://aadl.org/files/documents/pdf/aa_democrat/aa_democrat_18980624.pdf",
+      "bytes": 8261567,
+      "sha256": "d09d3cadcfe0f19d556ba63924919890ad25d6e254f2be1d848dad4db6648373",
+      "pages": 8,
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete delivery; PDF2 date header and rug-business advertisement visually inspected. Remaining pages not fully reviewed."
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -220,7 +238,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Identify the Fluff Rug business address in contemporary directories and map its parcel; retrieve original Observatory log or daily newspaper copy to resolve rainfall date; acquire culvert plans and completed repairs. Authenticate Reddit images and historical construction phases before joining any event to blocked openings.",
+  "next_test": "Map409–421/409–429WestHuron using contemporary parcel and fire-insurance maps, resolve address ranges and event-day occupancy, and search site-specific sediment/engineering records. Compare Schlenker116business/213residence with later brick-store construction using maps/permits; retain separate properties and construction phases.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -660,5 +678,35 @@
       },
       "schlenker_property_match_verified": false
     }
+  },
+  "fluff_rug_address_control": {
+    "source_ids": [
+      "S431",
+      "S432",
+      "S433",
+      "S418"
+    ],
+    "flood_report_locator": "S431 PDF4",
+    "candidate_1902_address": "409–421 W. Huron Street",
+    "directory_alternate_range": "409–429 W. Huron Street",
+    "discrepancy_resolved": false,
+    "earlier_advertised_address": "409–411 W. Huron Street",
+    "earlier_advertisement_date": "1898-06-24",
+    "biography_1906_address": "409–421 W. Huron Street",
+    "biography_locator": "S418 PDF381/printed377",
+    "exact_flood_day_occupancy_verified": false,
+    "parcel_boundary": null,
+    "modern_address_crosswalk_verified": false,
+    "sediment_thickness": null,
+    "distinction": "West Huron rug business is a separate address lead from West Liberty Schlenker candidate; do not transfer water depth or mud report between them"
+  },
+  "schlenker_1902_directory_control": {
+    "source_id": "S432",
+    "locator": "PDF297/printed293",
+    "listed_business_address": "116 W. Liberty Street",
+    "listed_residence_address": "213 W. Liberty Street",
+    "compilation_date": null,
+    "residence_fabric_match_verified": false,
+    "interpretation": "Separates business location and residence in1902; does not establish construction date or identity of surviving store. Compare original permits, maps and later1906 new-building account."
   }
 }

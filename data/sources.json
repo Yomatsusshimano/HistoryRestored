@@ -7461,8 +7461,8 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "PDF5 title (printed1); PDF7 preface (printed3); PDF140 Christian Schlenker entry (printed136).",
-      "limitations": "Biography reports recent construction without exact completion date, permits or original plans. Preface describes participant-derived biographies and selective inclusion. No original Reddit image match, surviving-fabric authentication, sediment profile or deposit date. Wikimedia/Internet Archive delivery is not an independent witness to the printed text.",
+      "inspected": "PDF5 title (printed1); PDF7 preface (printed3); PDF140 Christian Schlenker entry (printed136). Additional selected review: PDF381/printed377 Henry J. Schlemmer biography visually inspected, reporting Fluff Rug company moved from East Huron to409–421WestHuron; move date unstated.",
+      "limitations": "Biography reports recent construction without exact completion date, permits or original plans. Preface describes participant-derived biographies and selective inclusion. No original Reddit image match, surviving-fabric authentication, sediment profile or deposit date. Wikimedia/Internet Archive delivery is not an independent witness to the printed text. Schlemmer biography is a retrospective business narrative with unauthenticated informant and promotional superlatives; location cannot prove July1902 occupancy, machinery invention or original foundry history.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
@@ -7848,6 +7848,55 @@
           "pages": 8,
           "retrieved_date": "2026-10-11",
           "hash_scope": "Complete newspaper issue; PDF1/4 and selected rainfall and mud-report crops visually inspected. Other pages not fully reviewed."
+        }
+      ]
+    },
+    {
+      "id": "S432",
+      "title": "Glen V. Mills' Ann Arbor City Directory1902: Fluff Rug factory and Schlenker business/residence addresses",
+      "url": "https://aadl.org/sites/default/files/docfiles/directory-1902-aa-glen_v_mills.pdf",
+      "creator": "Glen V. Mills Directory Co.; Ann Arbor District Library scan",
+      "publication_date": null,
+      "publication_year": 1902,
+      "source_type": "Contemporary commercial city directory, digitized scan",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF5 title1902; PDF90/printed86 Fluff Rug factory409–421HuronW; PDF296/printed292 Schlemmer Bros entry409–429HuronW; PDF297/printed293 Christian Schlenker hardware116LibertyW and residence213same, visually inspected.",
+      "limitations": "Year on title does not establish compilation day or July7 occupancy. Factory address ranges disagree within same volume:409–421 and409–429; preserve discrepancy. Listed address is not surveyed parcel boundary or flood deposit location. Schlenker residence213 is not proof surviving brick store already existed. Directory reports are not permits, sampled sediment or independently verified occupancy.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://aadl.org/sites/default/files/docfiles/directory-1902-aa-glen_v_mills.pdf",
+          "bytes": 52547898,
+          "sha256": "c026c384f1cef6664568fa858c4c4688bfced9e1365eda7fe68c2b66eed6843d",
+          "pages": 390,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivery; PDF5 title and PDF90/296/297, printed86/292/293, visually inspected. Remaining pages not fully reviewed."
+        }
+      ]
+    },
+    {
+      "id": "S433",
+      "title": "Ann Arbor Democrat June24,1898: Fluff Rug factory advertisement with West Huron address",
+      "url": "https://aadl.org/files/documents/pdf/aa_democrat/aa_democrat_18980624.pdf",
+      "creator": "Ann Arbor Democrat; advertisers Geo. P. and Henry J. Schlemmer; Ann Arbor District Library scan",
+      "publication_date": "1898-06-24",
+      "source_type": "Contemporary commercial advertisement in newspaper scan",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF2 date header and advertisement for Ann Arbor Fluff Rug Factory and Steam Carpet Cleaners, office/factory409–411W.HuronStreet, visually inspected.",
+      "limitations": "Advertiser-supplied1898 address does not independently verify1902 occupancy, building fabric or parcel boundary. Narrower advertised range is not automatically expansion evidence. Whole issue not reviewed. Library node page502; normal public issue download succeeded.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://aadl.org/files/documents/pdf/aa_democrat/aa_democrat_18980624.pdf",
+          "bytes": 8261567,
+          "sha256": "d09d3cadcfe0f19d556ba63924919890ad25d6e254f2be1d848dad4db6648373",
+          "pages": 8,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivery; PDF2 date header and rug-business advertisement visually inspected. Remaining pages not fully reviewed."
         }
       ]
     }
