@@ -1345,3 +1345,8 @@ S447 metadata PDF1/3/4 inspected; all twelve stereo-pair dates transcribed and c
 ### 2026-10-11 — Executed Melamchi raster comparison
 
 P05/P06 complete rasters acquired and hashed; exact-grid1km window processed without resampling.998141paired valid pixels; generated figure visually inspected. [Raster inspection](research/MELAMCHI-RASTER-INSPECTION.md) preserves unset band-height units, unverified vertical datum, missing masks/errors and interval-attribution limits. Same31drafts/448sources; no deposit volume or independent archive review; all twenty objectives active.
+
+
+### 2026-10-11 — Author channel masks and unsuitable outside-area control
+
+Four S448 KML files acquired/hash-checked; ring/holes parsed and exact-window masks compared. [Channel comparison](research/MELAMCHI-CHANNEL-COMPARISON.md) records stronger raw mapped-channel changes and a prominent unmasked channel-shaped corridor: outside-mask median/spread cannot serve as independently verified bias/error controls. January epoch/exclusion masks and uncertainty workbook remain unresolved. Same31drafts/448sources; no sediment volume or independent archive review; all twenty objectives active.

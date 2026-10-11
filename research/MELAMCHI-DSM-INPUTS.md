@@ -24,3 +24,8 @@ No raster pixels, new sediment budget, hydraulic reconstruction, field validatio
 ### 2026-10-11 — Actual raster acquisition and execution
 
 [Executed local surface comparison](MELAMCHI-RASTER-INSPECTION.md): earlier non-acquisition statements above are historical snapshots. P05/P06 acquired; selected window processed. Masks, uncertainty workbook and vertical confirmation remain missing; no validated deposit thickness/volume. Same448sources,31case drafts.
+
+
+### 2026-10-11 — Selected mapping-file acquisition
+
+[Author-mapped channel comparison](MELAMCHI-CHANNEL-COMPARISON.md) acquires four KML files and processes them in the same window. Earlier missing-mask statements are historical snapshots; remaining masks/uncertainty/independent stable controls still missing. Outside selected channels is not a validated stable control. Same448sources/31case drafts.

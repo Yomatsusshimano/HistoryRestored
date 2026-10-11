@@ -143,7 +143,9 @@
     "current_citation_year": 2026,
     "horizontal_crs": "EPSG:4326",
     "mapped_event_interval": "November2020–October2021",
-    "actual_polygon_files_acquired": false
+    "actual_polygon_files_acquired": true,
+    "acquired_scope": "Four files only: two channel epochs and October2021 cloud/shadow; remaining12catalog files unacquired.",
+    "masked_comparison_result": "analysis/melamchi-channel-comparison-result.json"
   },
   "scientific_limits": [
     "Pixel spacing is not measured vertical accuracy",

@@ -8282,10 +8282,48 @@
       "url": "https://www.hydroshare.org/resource/b6da096000284d5882d13b085b7669ac/",
       "creator": "Chan-Mao Chen, A. Joshua West and project coauthors",
       "publication_date": "2024-10-07",
-      "source_type": "Author-deposited mapping catalog",
-      "access": "CATALOG_METADATA",
-      "inspected": "Abstract, mapped epochs, coordinate-system and publication/update fields; current citation year2026.",
-      "limitations": "Actual KML/polygon files not downloaded. Catalog masks are described but not independently audited. Mapping intervals cover months or years, not exact event times.2026citation year/metadata update must not replace2024publication or imagery acquisition dates. Shared project with S446/S447."
+      "source_type": "Author-deposited mapping catalog and selected KML vector files",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Abstract, mapped epochs, coordinate-system and publication/update fields; current citation year2026. Follow-up: public files API listing and four KML files acquired; polygon rings/holes parsed, projected and rasterized in prior1km window; overlay visually inspected. Other12catalog files unacquired.",
+      "limitations": "Selected four files only: November2020/October2021 Melamchi channel and October2021 cloud/shadow masks. Before-channel date precedes January2021 DSM; no January cloud/shadow mask acquired. Outside-channel area includes an unmasked channel-shaped corridor and is not stable control. Maps and DSMs share authors/imagery; not independent corroboration. Checksum match authenticates delivery against catalog, not mapping accuracy.",
+      "retrievals": [
+        {
+          "file_name": "Melamchi_Khola_River_Channel_Nov2020.kml",
+          "url": "https://www.hydroshare.org/resource/b6da096000284d5882d13b085b7669ac/data/contents/Melamchi_Khola_River_Channel_Nov2020.kml",
+          "bytes": 2398911,
+          "sha256": "8ff10971de9a7adedaabe14ea91f21e2d2591de346644faa7b295450c27dc136",
+          "catalog_md5": "01ff447b4424f87a066d958ee5888953",
+          "catalog_checksum_matched": true,
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "file_name": "Melamchi_Khola_River_Channel_Oct2021.kml",
+          "url": "https://www.hydroshare.org/resource/b6da096000284d5882d13b085b7669ac/data/contents/Melamchi_Khola_River_Channel_Oct2021.kml",
+          "bytes": 5094210,
+          "sha256": "9be925ee2133bec943e97fbb146eda793fbcbda6a49415cef371406e562347be",
+          "catalog_md5": "de5f7a583cb8779004a44aeb32c19299",
+          "catalog_checksum_matched": true,
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "file_name": "Obscured_Areas_Cloud_Oct2021.kml",
+          "url": "https://www.hydroshare.org/resource/b6da096000284d5882d13b085b7669ac/data/contents/Obscured_Areas_Cloud_Oct2021.kml",
+          "bytes": 369391,
+          "sha256": "aed19b55164d32a2205efc04ddb0508ad443f43f11291f533b8dbaca64681794",
+          "catalog_md5": "15f8d88da8b88ec772ced07fd52cf7a3",
+          "catalog_checksum_matched": true,
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "file_name": "Obscured_Areas_Shadow_Oct2021.kml",
+          "url": "https://www.hydroshare.org/resource/b6da096000284d5882d13b085b7669ac/data/contents/Obscured_Areas_Shadow_Oct2021.kml",
+          "bytes": 659764,
+          "sha256": "09f881f36f84cac5e0e852654dec56a6dcf9dbba2bd15ef599283551088ebe1e",
+          "catalog_md5": "2fa90154aa07e87897ef1041ade825fe",
+          "catalog_checksum_matched": true,
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

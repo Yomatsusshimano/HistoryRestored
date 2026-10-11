@@ -1,0 +1,95 @@
+{
+  "status": "AUTHOR_MASKED_RAW_SURFACE_COMPARISON_NOT_VALIDATED_SEDIMENT",
+  "source_ids": [
+    "S447",
+    "S448"
+  ],
+  "window_bounds": [
+    359213.5,
+    3078760.5,
+    360213.5,
+    3079760.5
+  ],
+  "shape": [
+    1000,
+    1000
+  ],
+  "paired_valid_pixels": 998141,
+  "excluded_valid_pixels": 0,
+  "usable_pixels": 998141,
+  "rasterization": "Polygon interiors/holes respected; pixel-center rule, all_touched=False; KML altitude ignored",
+  "masks": {
+    "before_channel": {
+      "filename": "Melamchi_Khola_River_Channel_Nov2020.kml",
+      "sha256": "8ff10971de9a7adedaabe14ea91f21e2d2591de346644faa7b295450c27dc136",
+      "polygon_count": 54,
+      "window_pixels": 35962
+    },
+    "after_channel": {
+      "filename": "Melamchi_Khola_River_Channel_Oct2021.kml",
+      "sha256": "9be925ee2133bec943e97fbb146eda793fbcbda6a49415cef371406e562347be",
+      "polygon_count": 34,
+      "window_pixels": 115875
+    },
+    "after_cloud": {
+      "filename": "Obscured_Areas_Cloud_Oct2021.kml",
+      "sha256": "aed19b55164d32a2205efc04ddb0508ad443f43f11291f533b8dbaca64681794",
+      "polygon_count": 131,
+      "window_pixels": 0
+    },
+    "after_shadow": {
+      "filename": "Obscured_Areas_Shadow_Oct2021.kml",
+      "sha256": "09f881f36f84cac5e0e852654dec56a6dcf9dbba2bd15ef599283551088ebe1e",
+      "polygon_count": 217,
+      "window_pixels": 0
+    }
+  },
+  "groups": {
+    "before_channel": {
+      "pixels": 35962,
+      "median": 7.236328125,
+      "p05": 1.5899414062500004,
+      "p95": 9.3681640625
+    },
+    "after_channel": {
+      "pixels": 115850,
+      "median": 5.1005859375,
+      "p05": 0.4154785156250007,
+      "p95": 8.76171875
+    },
+    "both_channel_epochs": {
+      "pixels": 34794,
+      "median": 7.28515625,
+      "p05": 1.538720703125,
+      "p95": 9.390625
+    },
+    "after_channel_only": {
+      "pixels": 81056,
+      "median": 4.24755859375,
+      "p05": 0.28125,
+      "p95": 7.6279296875
+    },
+    "before_channel_only": {
+      "pixels": 1168,
+      "median": 6.14697265625,
+      "p05": 3.65859375,
+      "p95": 7.575048828124999
+    },
+    "outside_both_channels": {
+      "pixels": 881123,
+      "median": 0.9912109375,
+      "p05": -4.5,
+      "p95": 6.8720703125
+    }
+  },
+  "uncertainty_m": null,
+  "deposit_volume_m3": null,
+  "scientific_limits": [
+    "November2020 channel map does not exactly match January2021 DSM epoch",
+    "October2021 masks only; January2021 cloud/shadow mask not acquired",
+    "Outside-channel category is not independently verified stable ground",
+    "Mapped channel extent is not a deposit classification",
+    "Same-author maps/DSMs are dependent, not independent corroboration",
+    "No estimated or corrected vertical error; raw signs lack significance test"
+  ]
+}

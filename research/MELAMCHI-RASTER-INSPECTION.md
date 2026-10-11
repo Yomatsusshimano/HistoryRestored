@@ -39,3 +39,8 @@ python analysis/melamchi_raster_inspection.py --before Melamchi_DSM_P05_202101.t
 The current calculation is intentionally limited to a1km exploratory window. Stable controls, original masks, uncertainty workbook, height-unit/datum confirmation and registration transformations remain missing. No deposit volume was computed. Before quantitative interpretation, compare independent stable areas, classify the relevant surfaces and propagate spatially correlated error. January-to-October changes need separate evidence to attribute them specifically to June; aligned differences cannot recover removed overall translation/rotation.
 
 This advances the local physical comparison from catalog metadata to acquired, hashed and processed observations. It does not connect the historical Reddit buildings to one event, reconstruct a global catastrophe, validate rewritten chronology or establish independent convergence.31case drafts/448sources; all twenty objectives remain active.
+
+
+### 2026-10-11 — Selected mapping-file acquisition
+
+[Author-mapped channel comparison](MELAMCHI-CHANNEL-COMPARISON.md) acquires four KML files and processes them in the same window. Earlier missing-mask statements are historical snapshots; remaining masks/uncertainty/independent stable controls still missing. Outside selected channels is not a validated stable control. Same448sources/31case drafts.
