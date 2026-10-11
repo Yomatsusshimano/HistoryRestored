@@ -1,0 +1,56 @@
+{
+  "source_ids": [
+    "S348",
+    "S349"
+  ],
+  "accessed_date": "2026-10-11",
+  "feature_url": "https://www.economie.gouv.fr/saef/document-du-mois/la-dame-de-fer",
+  "image": {
+    "url": "https://www.economie.gouv.fr/files/styles/image_contenu_article_espace/public/files/directions_services/saef/illustrations/doc_du_mois/B66514_redim.jpg?itok=XhecRg75",
+    "sha256": "716eb43178ba8068583bfb8148673694c77932eeddbb6fb5b8319cca5568a983",
+    "byte_length": 30348,
+    "width_pixels": 550,
+    "height_pixels": 320,
+    "visually_inspected": true,
+    "scope": "Upper excerpt only; fourth numbered row cut off",
+    "heading_read": [
+      "Societe anonyme de la Tour-Eiffel",
+      "Premiers Souscripteurs"
+    ],
+    "date": null,
+    "subscriber_count": null,
+    "subscription_total": null,
+    "paid_capital_total": null,
+    "rows_transcribed": false,
+    "public_mirror": false,
+    "acquisition": "Ordinary browser media download; direct shell HTTPS was blocked by browser check"
+  },
+  "inventory": {
+    "url": "https://www.economie.gouv.fr/saef/compagnie-des-agents-change-service-des-emissions-et-linformation-financiere",
+    "reference": "B-0066514/1",
+    "company_number": "2277",
+    "company": "Societe de la Tour Eiffel",
+    "coverage_years": [
+      1889,
+      1969
+    ],
+    "notice_date": "2012-11",
+    "notice_author": "Agnes D'Angio Barros",
+    "underlying_folder_acquired": false,
+    "coverage_is_sheet_date": false,
+    "includes_other_company": true
+  },
+  "ownership_comparison": {
+    "modern_feature": "Ownership returns to City in 1910",
+    "S347_article_11": "City ownership after exhibition; Eiffel enjoyment for twenty years from 1 January 1890",
+    "assessment": "Summary conflates ownership with operating enjoyment relative to inspected clause; later amendments and actual handover unknown"
+  },
+  "dependence": "Same archive feature and inventory; no independent payment verification",
+  "next_tests": [
+    "Full dated subscriber sheet",
+    "Earliest statutes and transfer agreement in dossier 2277",
+    "Paid-capital certificates and cash accounts",
+    "State payment warrants, receipts and milestone acceptance reports"
+  ],
+  "status": "SOURCED_DRAFT"
+}

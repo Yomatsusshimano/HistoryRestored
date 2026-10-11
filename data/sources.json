@@ -5601,6 +5601,42 @@
           "public_mirror_in_this_repository": true
         }
       ]
+    },
+    {
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S348",
+      "title": "SAEF La dame de fer: subscriber-list image excerpt, B-0066514",
+      "url": "https://www.economie.gouv.fr/saef/document-du-mois/la-dame-de-fer",
+      "creator": "Service des archives economiques et financieres; historical list creator unverified",
+      "source_type": "Institutional document feature with original image excerpt",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Feature text read; displayed 550x320 subscriber-list excerpt acquired through browser and visually inspected. Heading and partial row structure only; monetary rows not transcribed.",
+      "limitations": "Not full sheet; date, totals and complete subscribers unknown. Modern ownership summary differs from S347 article11 distinction. Majority shareholding and profitability unverified; no payments or full company records.",
+      "retrievals": [
+        {
+          "url": "https://www.economie.gouv.fr/files/styles/image_contenu_article_espace/public/files/directions_services/saef/illustrations/doc_du_mois/B66514_redim.jpg?itok=XhecRg75",
+          "sha256": "716eb43178ba8068583bfb8148673694c77932eeddbb6fb5b8319cca5568a983",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S349",
+      "title": "SAEF emissions inventory: B-0066514/1, Tour Eiffel company dossier 2277",
+      "url": "https://www.economie.gouv.fr/saef/compagnie-des-agents-change-service-des-emissions-et-linformation-financiere",
+      "creator": "Agnes D'Angio Barros; Service des archives economiques et financieres",
+      "source_type": "Official archival inventory, notice November 2012",
+      "access": "CATALOG_METADATA",
+      "inspected": "Service description, notice date/author and exact B-0066514/1 entry inspected via web and ordinary browser. Tower company2277 coverage1889-1969; other company shares reference.",
+      "limitations": "Underlying folder unacquired. Coverage is not individual document date; general dossier contents do not establish survival of particular receipts/accounts. Same archive as S348, not independent financing validation."
     }
   ]
 }
