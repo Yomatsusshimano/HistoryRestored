@@ -27,7 +27,21 @@
       9,
       500
     ],
-    "other_pages_uninspected": true
+    "other_pages_uninspected": true,
+    "alphabetical_boundary": [
+      {
+        "printed_page": 169,
+        "pdf_page": 174
+      },
+      {
+        "printed_page": 170,
+        "pdf_page": 175
+      },
+      {
+        "printed_page": 171,
+        "pdf_page": 176
+      }
+    ]
   },
   "locator_correction": "Scandata leaf values initially treated as zero-based; rendered pages revealed offset. Actual printed labels checked directly, final locators corrected.",
   "comparisons": [
@@ -69,5 +83,21 @@
     "First IA advanced-search request502"
   ],
   "successful_delivery": "Public alternate IA item/server, normal TLS; no certificate bypass",
-  "public_pdf_mirror": false
+  "public_pdf_mirror": false,
+  "1855_island_entry": {
+    "printed_page": 304,
+    "pdf_page": 322,
+    "heading": "CYGNES (RUE DE L’ILE-DES-)",
+    "history_retained": true,
+    "reported_fill_period": "Beginning of nineteenth century; broad wording, no exact year",
+    "exact_1780_sentence_present": false,
+    "reported_street_extensions": [
+      "rue de l’Université",
+      "quai d’Orsay"
+    ],
+    "original_execution_proof": false
+  },
+  "1844_boundary_result": "Cygne entry on printed170 followed directly by D entries; no equivalent island-street entry at inspected alphabetical boundary, not whole-book absence.",
+  "editorial_transfer_demonstrated": false,
+  "whole_1855_island_history_removal": false
 }

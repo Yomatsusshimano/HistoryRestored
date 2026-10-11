@@ -8,7 +8,7 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
-- [1844/1855 quay edition comparison](research/ORSAY-EDITION-COMPARISON.md): original1780attachment sentence, bounded omission and unknown cause.
+- [1844/1855 quay edition comparison](research/ORSAY-EDITION-COMPARISON.md): retained island history elsewhere, changed date wording and unknown works sequence.
 
 - [Original 1855 quay account](research/ORSAY-LAZARE-1855.md): construction orders, unknown completion and the Lazare archive lineage.
 

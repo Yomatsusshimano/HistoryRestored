@@ -29,6 +29,11 @@
       "pdf_page": 626,
       "printed_page": 608,
       "role": "Orsay entry continuation and end"
+    },
+    {
+      "pdf_page": 322,
+      "printed_page": 304,
+      "role": "Complete separate island-street entry and adjacent entries"
     }
   ],
   "reported_decrees": [
@@ -60,7 +65,8 @@
     "underlying_volume_inspected": false
   },
   "source_independence_verified": false,
-  "1844_transcription": "Different edition, retrieval lead only; no scan comparison yet",
+  "1844_transcription": "Original1844Orsay entry and alphabetical boundary now inspected; see orsay-edition-comparison.json. Earlier retrieval-only status superseded.",
   "tls": "Default download redirected to expired certificate; advertised alternate server succeeded with normal validation",
-  "public_pdf_mirror": false
+  "public_pdf_mirror": false,
+  "island_history_elsewhere": "Separate1855p304entry retains island history and broad beginning-of-nineteenth-century filling wording; no exact completion year or execution proof."
 }

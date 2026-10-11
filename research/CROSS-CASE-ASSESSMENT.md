@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Retained island account and alphabetical-boundary control
+
+Original1855p304retains island history under a separate street entry and reports broad early-nineteenth-century filling.1844p170Cygne-to-D boundary lacks equivalent entry there. Orsay omission is not whole-volume historical removal; exact works sequence and editorial intent remain unknown.28drafts/365sources; all twenty objectives active. See [expanded comparison](ORSAY-EDITION-COMPARISON.md).
+
 ### 2026-10-11 — Original attachment sentence and bounded edition omission
 
 Original 1844 Orsay entry confirms1780attachment wording omitted from the1855entry; shared1808/1812extracts remain. Omission reason and attachment extent unknown. 28 drafts /365 sources; all twenty objectives active. See [edition comparison](ORSAY-EDITION-COMPARISON.md).
