@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Recovered nomination and survey leads
+
+Recovered the original district nomination through National Archives: selected31-site list, survey maps and May1976 Main Street photos inspected. No individual212/216 construction date or quantitative grade/deposit evidence established; earlier1973/1974 survey cards are next targets. 30 drafts / 394 sources, no independent review. See [nomination controls](SHELBYVILLE-NOMINATION-CONTROLS.md).
+
 ### 2026-10-11 — County parcel identity controls
 
 County GIS links 212 and 216 E Main to separate adjoining modern parcels in Original Town Block 4; recorded 212 width agrees with the engineer estimate. Historic footprint/fabric registration, photo and grade/deposit dates remain open. NPS links deliver placeholders rather than nomination. 30 drafts / 392 sources; no independent review. See [parcel controls](SHELBYVILLE-PARCEL-CONTROLS.md).

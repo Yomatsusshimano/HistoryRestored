@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "outreach_performed": false,
+  "retrievals": [
+    {
+      "source_id": "S393",
+      "url": "https://dnrhistoric.illinois.gov/content/dam/soi/en/web/dnrhistoric/preserve/siteassets/pages/hargis/accessing-national-register-documentation-outside-of-hargis.pdf",
+      "sha256": "d729e5ad5af26588ca13be818e4631ae6cddef3eb1a36d25d01291648e82a001",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "One-page guide, rendered and visually inspected; complete delivered 114988 bytes"
+    },
+    {
+      "source_id": "S394",
+      "url": "https://catalog.archives.gov/medialz/electronic-records/rg-079/NPS_IL/76000729.pdf",
+      "sha256": "85b99bf239cc272f4b5ca081ccde1ff0e2e5de5d4f913fdc42b57f8e5414d8be",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "94-page packet; selected inspection only; complete delivered 105152123 bytes"
+    }
+  ],
+  "catalog": {
+    "url": "https://catalog.archives.gov/id/28894113",
+    "NAID": "28894113",
+    "register_number": "76000729",
+    "state": "Illinois",
+    "title": "Illinois SP Shelbyville Historic District",
+    "browser_detail_inspected": true,
+    "login_used": false
+  },
+  "inspection": {
+    "delivered_page_count": 94,
+    "visual_pdf_pages": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      18,
+      19,
+      20,
+      21,
+      59,
+      61,
+      63
+    ],
+    "all_pages_text_extracted_for_navigation": true,
+    "complete_visual_packet_review": false,
+    "owner_list_transcribed_or_published": false,
+    "render_diagnostics": "Poppler reported unavailable Symbol/ArialUnicode display fonts; adopted page content visually checked, no numeric OCR adopted for map coordinates."
+  },
+  "administrative_dates": {
+    "prepared": "1976-05-27",
+    "received": "1976-06-28",
+    "entered": "1976-12-22",
+    "scope": "Nomination metadata and stamps, not full packet publication, construction or deposits"
+  },
+  "selected_inventory": {
+    "pdf_pages": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "entry_range": [
+      1,
+      31
+    ],
+    "coverage": "Selected sites and structures of special significance",
+    "212_216_E_Main_individually_identified": false,
+    "absence_in_entire_archive_established": false,
+    "construction_attribution_leads": [
+      {
+        "entry": 8,
+        "pdf_page": 8,
+        "resource": "Shelby County Courthouse",
+        "reported_year": 1880,
+        "reported_architect": "O.H.Placey",
+        "original_contracts_verified": false
+      },
+      {
+        "entry": 10,
+        "pdf_page": 9,
+        "resource": "Conn Brothers contracting firm",
+        "reported_established_year": 1865,
+        "reported_work": "Courthouse and other buildings",
+        "original_business_project_records_verified": false
+      },
+      {
+        "entry": 25,
+        "pdf_page": 11,
+        "resource": "318 West Main",
+        "reported_year": 1858,
+        "reported_contractor": "Haydon Bros. Contractors",
+        "original_building_records_verified": false
+      },
+      {
+        "entry": 28,
+        "pdf_page": 12,
+        "resource": "154 North Broadway library",
+        "reported_year": 1904,
+        "reported_architects": "Patton & Miller",
+        "original_building_records_verified": false
+      }
+    ]
+  },
+  "bibliography": {
+    "locator": "PDF5",
+    "reported_sources": [
+      "History of Shelby & Moultrie Cos., Illinois; Brink, McDonough & Co.; Philadelphia 1881",
+      "Portrait and Biographical Record of Shelby & Moultrie Cos., Illinois; Chicago 1891",
+      "Miriam Serron, A Brief History of Shelbyville; unpublished"
+    ],
+    "claim_specific_document_chain_verified": false
+  },
+  "prior_survey_leads": {
+    "locator": "PDF1",
+    "Illinois_Historic_Structures_Survey": "1973-10",
+    "Illinois_Historic_Landmarks_Survey": "1974-07",
+    "parcel_specific_cards_acquired": false
+  },
+  "maps": {
+    "pdf_pages": [
+      14,
+      15,
+      59,
+      61,
+      63
+    ],
+    "controls": [
+      "District boundary",
+      "Selected significant-site points",
+      "Building-stock categories",
+      "Photographic view directions"
+    ],
+    "modern_parcel_overlay_completed": false,
+    "212_216_age_category_adopted": null,
+    "grade_or_deposit_measurements": null
+  },
+  "photos": {
+    "front_pdf_pages": [
+      18,
+      20
+    ],
+    "caption_pdf_pages": [
+      19,
+      21
+    ],
+    "view_labels": [
+      "1a",
+      "1b"
+    ],
+    "reported_creator": "R.Wagner",
+    "reported_date": "1976-05",
+    "reported_view": "East from 121 West Main",
+    "exact_212_216_facade_match_adopted": false,
+    "vault_visible": false,
+    "quantitative_grade_difference": null
+  },
+  "source_dependencies": [
+    "NARA hosts the NPS nomination packet, not an independent historical witness",
+    "Nomination historical assertions rely on listed histories and surveys; claim-specific original records untraced",
+    "Photo attribution/date from caption backs; deposit chronology not shown",
+    "S392 placeholder results retained as earlier access scope, not a general digitization absence claim"
+  ],
+  "retrieval_failure": {
+    "url": "https://hpa.illinois.gov/PDFs/200704.pdf",
+    "result": "Native host resolution failed; no file acquired; subsequent dependent pypdf read failed because file absent. Used National Archives route instead."
+  }
+}

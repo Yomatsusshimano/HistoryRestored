@@ -186,3 +186,5 @@ Historic site controls: [Shelbyville paired address and original 1886 map](resea
 Map sequence: [Shelbyville1886/1893/1933original block comparison](research/SHELBYVILLE-MAP-SEQUENCE.md).
 
 County records: [Shelbyville modern parcel controls](research/SHELBYVILLE-PARCEL-CONTROLS.md).
+
+Historic district record: [recovered Shelbyville nomination controls](research/SHELBYVILLE-NOMINATION-CONTROLS.md).

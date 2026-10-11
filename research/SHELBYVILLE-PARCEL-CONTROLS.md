@@ -32,3 +32,7 @@ A separately encountered state PDF URL failed with a closed transport connection
 ## Remaining test
 
 Use original deeds, historical plans, a dated address crosswalk and controlled map registration to link specific footprints and surviving masonry. Obtain dated street-grade profiles or ordinances before adopting the engineer report's uncited historical grade-buildup account. Obtain the original Reddit photograph and remediation completion records. Any proposed natural mud layer needs an inspected section, sample identity and dating evidence. Current parcel records provide none of those measurements.
+
+## Nomination recovered, 2026-10-11
+
+The [National Archives follow-up](SHELBYVILLE-NOMINATION-CONTROLS.md) recovers the nomination and selected maps/photos. Earlier NPS placeholder results above remain an access-specific finding. The selected31-site narrative does not individually identify212/216; their construction chronology still needs original parcel-specific records.

@@ -66,7 +66,7 @@
       "place": "Shelbyville,Illinois,as identified by poster",
       "source_id": "S377",
       "claim": "Storefront11feet below current shops",
-      "status": "MODERN_COUNTY_PARCELS_LINKED_HISTORIC_FABRIC_OPEN",
+      "status": "NOMINATION_RECOVERED_PARCEL_BUILDING_HISTORY_OPEN",
       "building_address": null,
       "reported_depth_ft": 11,
       "depth_authenticated": false,
@@ -80,7 +80,7 @@
         "Historic numbering/direction crosswalk",
         "Relative-height units and datum",
         "Original deeds/certified surveys and historic footprint registration",
-        "Historic district nomination/building inventory"
+        "Parcel-specific 1973/1974 survey cards and construction records"
       ],
       "case_id": "C030",
       "followup_source_ids": [
@@ -94,7 +94,9 @@
         "S389",
         "S390",
         "S391",
-        "S392"
+        "S392",
+        "S393",
+        "S394"
       ],
       "candidate_business": "Sit n Sip",
       "candidate_address": "216 E Main Street, Shelbyville, Illinois",
