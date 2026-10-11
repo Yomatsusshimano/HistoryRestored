@@ -6,7 +6,7 @@ The [1855 Lazare dictionary](https://archive.org/details/dictionnaireadmi00laza)
 
 The entry quotes successive quay orders. Its 11March1808 extract calls for construction between the Concorde and École-Militaire bridges, with completion directed within six years. Its 10February1812 extract orders a planted promenade between Concorde and Iéna, specifying a combined width of55metres. Neither inspected extract certifies completed channel filling. Authorization, a target duration and a promenade specification are distinct from execution and acceptance.
 
-This is an original pre-tower publication reproducing earlier instruments, not the original decrees or attached plans. It does not independently authenticate the [1970 study’s reported1812completion](CYGNES-PARTIAL-FILL-ARCHIVAL-LEADS.md). The online1844Orsay transcription is a different edition and must be checked separately before its island/1780 wording is adopted.
+This is an original pre-tower publication reproducing earlier instruments, not the original decrees or attached plans. It does not independently authenticate the [1970 study’s reported1812completion](CYGNES-PARTIAL-FILL-ARCHIVAL-LEADS.md). The1844edition has now been checked separately: its original1780attachment sentence is absent from this1855entry. See the [bounded edition comparison](ORSAY-EDITION-COMPARISON.md); attachment extent and completion remain unverified.
 
 ## The archive reference has a source lineage
 

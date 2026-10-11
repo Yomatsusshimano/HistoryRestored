@@ -6123,6 +6123,27 @@
       "inspected": "Web-extracted PDFtitle/presentation pp1/3 and D1Z88 inventory entry PDFp9.",
       "limitations": "Native URL download404; screenshot cache misses; no PDF scan inspection claimed. Underlying volume and exact1773item unacquired. Collection mixes originals/copies; item status and independence from dictionary unverified.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S365",
+      "title": "Felix and Louis Lazare1844 dictionary: original title and complete Orsay entry",
+      "url": "https://archive.org/details/dictionnaireadm00lazagoog",
+      "creator": "Felix Lazare and Louis Lazare; Google digitization; Internet Archive delivery",
+      "publication_date": "1844",
+      "source_type": "Original historical dictionary, retrospective account and decree extracts",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Dated title PDF10 and complete Orsay entry printed509–510/PDF498–499 visually inspected; extra half-title/reverse/next-entry navigation surfaces checked.",
+      "limitations": "Other pages uninspected; bounded comparison not full collation.1780attachment reported, extent/execution unverified.1855omission scoped to Orsay entry only; cause unknown. Shared authorship/text lineage, no independent decree authentication or foundation registration.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://ia800402.us.archive.org/13/items/dictionnaireadm00lazagoog/dictionnaireadm00lazagoog.pdf",
+          "sha256": "b2b2f1cab7b7aad114a6c905631c05848c867777c09590b3111dbd7cf404bd96",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

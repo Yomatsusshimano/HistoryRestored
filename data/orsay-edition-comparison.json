@@ -1,0 +1,73 @@
+{
+  "source_ids": [
+    "S365",
+    "S363"
+  ],
+  "status": "SOURCED_DRAFT",
+  "retrieval": {
+    "url": "https://ia800402.us.archive.org/13/items/dictionnaireadm00lazagoog/dictionnaireadm00lazagoog.pdf",
+    "bytes": 80854997,
+    "sha256": "b2b2f1cab7b7aad114a6c905631c05848c867777c09590b3111dbd7cf404bd96",
+    "pdf_pages": 696
+  },
+  "1844_inspection": {
+    "dated_title_pdf_page": 10,
+    "complete_orsay_entry": [
+      {
+        "printed_page": 509,
+        "pdf_page": 498
+      },
+      {
+        "printed_page": 510,
+        "pdf_page": 499
+      }
+    ],
+    "extra_navigation_surfaces": [
+      8,
+      9,
+      500
+    ],
+    "other_pages_uninspected": true
+  },
+  "locator_correction": "Scandata leaf values initially treated as zero-based; rendered pages revealed offset. Actual printed labels checked directly, final locators corrected.",
+  "comparisons": [
+    {
+      "feature": "Island paragraph including1780attachment",
+      "1844": "Present, printed510",
+      "1855": "Absent from complete Orsay entry607–608",
+      "absence_scope": "Selected entry only, not whole volume"
+    },
+    {
+      "feature": "1808construction deadline",
+      "1844": "Six years",
+      "1855": "Six years"
+    },
+    {
+      "feature": "1812promenade combined width",
+      "1844_m": 55,
+      "1855_m": 55
+    },
+    {
+      "feature": "Quay length",
+      "1844_m": 3423,
+      "1855_m": 3500,
+      "survey_definitions_joined": false
+    }
+  ],
+  "reported_attachment_year": 1780,
+  "actual_channel_completion": null,
+  "extent_of_attachment": null,
+  "reason_for_omission": null,
+  "earlier_statement_invalidated": false,
+  "original_execution_accounts_acquired": false,
+  "foundation_registration": false,
+  "edition_independence": false,
+  "full_collation": false,
+  "access_failures": [
+    "Gallica403",
+    "Public thumbnail expired certificate",
+    "First IA advanced-search request502"
+  ],
+  "successful_delivery": "Public alternate IA item/server, normal TLS; no certificate bypass",
+  "public_pdf_mirror": false
+}

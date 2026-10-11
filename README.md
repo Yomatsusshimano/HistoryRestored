@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [1844/1855 quay edition comparison](research/ORSAY-EDITION-COMPARISON.md): original1780attachment sentence, bounded omission and unknown cause.
+
 - [Original 1855 quay account](research/ORSAY-LAZARE-1855.md): construction orders, unknown completion and the Lazare archive lineage.
 
 - [Partial channel filling and archival leads](research/CYGNES-PARTIAL-FILL-ARCHIVAL-LEADS.md): selected study pages, reported1812completion, citation roles and masked-map limits.

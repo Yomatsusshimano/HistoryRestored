@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Original attachment sentence and bounded edition omission
+
+Original 1844 Orsay entry confirms1780attachment wording omitted from the1855entry; shared1808/1812extracts remain. Omission reason and attachment extent unknown. 28 drafts /365 sources; all twenty objectives active. See [edition comparison](ORSAY-EDITION-COMPARISON.md).
+
 ### 2026-10-11 — Original quay orders and shared documentary lineage
 
 Original 1855 Orsay entry separates 1808 construction target and 1812 promenade order from completion. D1Z88 finding-aid text identifies Lazare documentation with originals/copies; exact item unacquired. 28 drafts / 364 sources; all twenty objectives active. See [quay audit](ORSAY-LAZARE-1855.md).
