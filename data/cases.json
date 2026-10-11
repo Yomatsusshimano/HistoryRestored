@@ -3732,6 +3732,11 @@
           "source_id": "S414",
           "locator": "PDF1/2/4/8",
           "statement": "Recovered retrospective edition separates wooden and skeletal age reports and provides original-record targets; its wooden overlap arithmetic is inconsistent with literal symmetric intervals."
+        },
+        {
+          "source_id": "S415",
+          "locator": "Publisher abstract/metadata; indexed PDF reference18 separately",
+          "statement": "Original2013DNA abstract found; indexed reference adds unverified1959report lookup number17434:1–50. No new sample-level age or specimen join adopted."
         }
       ],
       "physical_evidence": "Published bone dating measurements only; no specimen access, site visit, original excavation logs or measured sediment profile inspected.",
@@ -3745,7 +3750,7 @@
         "Dating biases requiring specimen-specific testing"
       ],
       "counterevidence": "All37 outer intervals need at least937years of permissive span; A alone125years. Contemporary subgroup overlap does not establish a shared cause. No dated mud layer, global link or rewriting mechanism.",
-      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match. Recover accession IDs, original trauma images/descriptions and authenticated skull-to-sampled-bone associations before transferring ages or ancestry labels. Retrieve VII/VIII/XII accession/reconstruction records and explicit sampling crosswalk; do not infer prior reviewer identity or decision. Retrieve1958ListIII introduction and exact Roopkund sample entry before normalizing its age or uncertainty. Inspect1958p1122 and1959government mimeograph; keep wood ages separate from bone/deposit chronology.",
+      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match. Recover accession IDs, original trauma images/descriptions and authenticated skull-to-sampled-bone associations before transferring ages or ancestry labels. Retrieve VII/VIII/XII accession/reconstruction records and explicit sampling crosswalk; do not infer prior reviewer identity or decision. Retrieve1958ListIII introduction and exact Roopkund sample entry before normalizing its age or uncertainty. Inspect1958p1122 and1959government mimeograph; keep wood ages separate from bone/deposit chronology. Authenticate candidate1959library number17434 and recover2013fullmethods before incorporating its age or ancestry claim.",
       "chronology": {
         "reported": "Published 2019 calibrated CE envelopes for37bone samples",
         "dated_object": "Bone collagen, not sediment deposition",

@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-11",
+  "case_id": "C031",
+  "lead_id": "R006",
+  "status": "SOURCED_DRAFT",
+  "source_id": "S415",
+  "target_title": "Anthropological Investigation in Rupkund",
+  "reported_year": 1959,
+  "candidate_number_literal": "17434",
+  "candidate_page_range_literal": "1–50",
+  "number_type": null,
+  "number_authenticated": false,
+  "original_acquired": false,
+  "locator": "Indexed2013PDF reference18, SEARCH_EXCERPT; not inspected scan",
+  "sample_id": null,
+  "new_radiocarbon_measurement": null,
+  "join_to_2019_samples": null,
+  "parliamentary_targets": [
+    {
+      "date": "1956-07-31",
+      "question": "542",
+      "url": "https://eparlib.sansad.in/bitstream/123456789/1084265/1/01_XIII_31-07-1956_p41_p42_s542.pdf",
+      "access": "NOT_ACCESSED",
+      "attempt": "Native download terminal timeout; web PDF/catalog retrieval failed"
+    },
+    {
+      "date": "1956-08-27",
+      "question": "1474",
+      "url": "https://eparlib.sansad.in/bitstream/123456789/1084016/1/01_XIII_27-08-1956_p24_p25_s1474.pdf",
+      "access": "SEARCH_EXCERPT"
+    },
+    {
+      "date": "1958-04-18",
+      "question": "1748",
+      "url": "https://eparlib.sansad.in/bitstream/123456789/1905/1/lsd_02_04_18-04-1958.pdf",
+      "access": "SEARCH_EXCERPT"
+    }
+  ]
+}

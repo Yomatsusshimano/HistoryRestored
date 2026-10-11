@@ -7389,6 +7389,20 @@
           "hash_scope": "Complete delivered 327592 bytes; 8 pages; PDF1/2/4/8 visually inspected, other pages text navigation only"
         }
       ]
+    },
+    {
+      "id": "S415",
+      "title": "Amplification and Sequencing of Mitochondrial DNA (HVR-I) extracted from1200years old human bone specimen",
+      "url": "https://ijpsr.com/bft-article/amplification-and-sequencing-of-mitochondrial-dna-hvr-i-extracted-from-1200-years-old-human-bone-specimen/",
+      "creator": "Rajeev Kumar Pandey, Deepankar Pratap Singh, Abid Ali, G. Sudhakar and V.R. Rao",
+      "publication_date": "2013-09-01",
+      "source_type": "Original research abstract; additional indexed reference lead",
+      "access": "ABSTRACT",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Publisher abstract and article metadata read. Separately, indexed PDF reference18 supplies1959report number17434:1–50; SEARCH_EXCERPT only for that reference.",
+      "limitations": "Full PDF/methods not acquired. Number17434 not authenticated as accession. Title age is not a sample-level assay; no specimen crosswalk. Abstract contamination conclusion not independently accepted. Publisher DOI field and indexed PDF citation suffix differ; bibliographic match requires original.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
