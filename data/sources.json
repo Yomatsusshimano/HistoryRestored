@@ -7727,8 +7727,8 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "PDF1/printed209 session date and motion to print annual reports in minutes; PDF6/printed217 report date, Ashley-to-State paving segment and summary year1903 visually inspected.",
-      "limitations": "Reported paving segment is not an authenticated match to September1904 sidewalk complaint or Schlenker parcel. No grade increment, affected cellar-window address, natural sediment thickness or independently measured construction completion. Pavement area is not sediment volume. Engineering reporting and council record share municipal lineage.",
+      "inspected": "PDF1/printed209 session date and motion to print annual reports in minutes; PDF6/printed217 report date, Ashley-to-State paving segment and summary year1903 visually inspected. Additional PDF4/5 printed215/216 visually inspected: culvert and street-work entries, including August creek labor atA.A.FluffRugFactory13.55. PDF2 printed210 visually inspected; PDF3 begins mid-crosswalk list, so delivered pagination is discontinuous. StreetCommissioner signature onPDF6/printed217 previously inspected.",
+      "limitations": "Reported paving segment is not an authenticated match to September1904 sidewalk complaint or Schlenker parcel. No grade increment, affected cellar-window address, natural sediment thickness or independently measured construction completion. Pavement area is not sediment volume. Engineering reporting and council record share municipal lineage. Additional street-work account records expense, not dimensions or independently checked execution. Factory entry gives no street address, work specification, day, or explicit year on selected sheet; Augustyear remainsnull pending report heading. Do not assign it toJuly1902flood cleanup. Missing intermediate printed pages in delivery limit report context; cause of omissions unknown.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
@@ -7737,7 +7737,7 @@
           "retrieved_date": "2026-10-11",
           "bytes": 8564667,
           "pages": 18,
-          "hash_scope": "Complete delivery; PDF1/6, printed209/217, visually inspected; other pages not fully reviewed",
+          "hash_scope": "Complete18-page delivery; PDF1/2/4/5/6 printed209/210/215/216/217 visually inspected across sessions. Other pages not fully reviewed; delivered printed pagination discontinuous.",
           "access_note": "Web-reader502; normal direct public HTTPS download succeeded"
         }
       ]
@@ -8064,6 +8064,30 @@
           "sha256": "bff24202b230ef179f0ad9c00436eae9411d7c528686bf8d6ddf115e5de2dd61",
           "retrieved_date": "2026-10-11",
           "hash_scope": "Saved response; PowerShell JSON snapshots may be reserialized. Images visually inspected; no public mirror."
+        }
+      ]
+    },
+    {
+      "id": "S439",
+      "title": "February1983 Allen's Creek stormwater management plan: branch-specific construction years and named engineers",
+      "url": "https://a2docs.org/file/223/Stormwater_Management_Plan.pdf",
+      "creator": "McNamee, Porter and Seeley, Consulting Engineers; City of Ann Arbor",
+      "publication_date": "1983-02",
+      "source_type": "Engineering drainage study with retrospective construction history",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 cover/date; PDF11/printed2 location map; PDF12/printed3 prior-report dependencies; PDF17/18 printed8/9 branch construction dates and engineers visually inspected. Other pages not fully reviewed.",
+      "limitations": "Original1920s plans/contracts/as-built records not inspected. Dates are1983report statements, not independently authenticated completion dates. Main/branch chronology does not reconcile1908–1916map inference,1926modern account or1929report. Report hydraulic dimensions are not natural sediment thicknesses; no dated natural deposit or parcel-specific event correlation. Delivery hosted by a2docs; original custody not independently established. Source relies on earlier engineering studies; no independent scientific review.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://a2docs.org/file/223/Stormwater_Management_Plan.pdf",
+          "bytes": 5066010,
+          "sha256": "520567d9f3534bad9f9974edce33f420efbe8efeeb83e4fd9306a4df482fa4f2",
+          "pages": 96,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete96-page delivery; selectedPDF1,11,12,17,18 visually inspected. Extracted text unavailable with pypdf; no absence inferred from empty extraction."
         }
       ]
     }

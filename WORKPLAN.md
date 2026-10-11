@@ -1305,3 +1305,8 @@ S4371994investigationPDF321 correction notice visually inspected: earlierMW-1/2/
 ### 2026-10-11 — Reddit R005: municipal construction-photo lead
 
 S438 city GIS collection and three catalog601Washington construction images visually inspected; workers/forms/excavation visible, individual capture dates and original accessions unresolved. Modern1922–1926 attribution adds a third drainage chronology account without resolving1908–1916/1929 conflict. Shared historic/1984–1985 service and modern sign attachment demonstrate heterogeneous catalog scope. Properties remain separate; no natural mud thickness or event age established. [Photo control](research/ALLEN-CREEK-CONSTRUCTION-PHOTOS.md). Next original captions and segment-specific construction records.31 sourced drafts/438 sources; all twenty objectives active.
+
+
+### 2026-10-11 — Drain-specific construction leads and factory creek expense
+
+S439February1983engineering plan selectedscans inspected: reports1925main,1927Murray-Washington/Eberwhite,1928WestPark-Miller, namingDodge/Menefeeplans. Retrospective dates do not resolve existing conflict; next original segment-specificplans/contracts. ExpandedS427PDF5inspection records13.55Augustfactorycreeklabor, year/address/specification unresolved; discontinuous scan pagination limits report context. No1902cleanup attribution or natural layer adopted. [Construction stages](research/ALLEN-CREEK-CONSTRUCTION-STAGES.md).31drafts/439sources; all twenty objectives remain active.

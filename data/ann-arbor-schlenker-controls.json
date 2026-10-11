@@ -26,7 +26,8 @@
     "S435",
     "S436",
     "S437",
-    "S438"
+    "S438",
+    "S439"
   ],
   "retrievals": [
     {
@@ -252,7 +253,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Recover original photo accessions/captions and contemporary contracts or as-built records for precise creek segment and year. Compare corrected MW-1/2/3 logs before soil correlations. Original Reddit image/property match and parcel-specific sediment evidence remain unresolved.",
+  "next_test": "Locate Russell A. Dodge1925main-drain and Menefee/Dodge1927–1928branch plans and contemporary contracts/completion records; compare precise segments. Recover missing report context for factory creek-expense year. CorrectedMW-1/2/3, originalReddit image join and parcel-specific sediment evidence still needed.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -814,7 +815,8 @@
     "source_ids": [
       "S434",
       "S437",
-      "S438"
+      "S438",
+      "S439"
     ],
     "earlier_report_statement": {
       "source_id": "S437",
@@ -842,6 +844,34 @@
       ],
       "scope": "City landing page and map description, not individually verified capture dates",
       "date_conflict_resolved": false
+    },
+    "branch_specific_1983_account": {
+      "source_id": "S439",
+      "locator": "PDF17/18 printed8/9",
+      "reported_stages": [
+        {
+          "drain": "Allen Creek",
+          "year": 1925,
+          "engineer": "Russell A. Dodge"
+        },
+        {
+          "drain": "Murray-Washington",
+          "year": 1927,
+          "engineer": "Menefee and Dodge"
+        },
+        {
+          "drain": "Eberwhite",
+          "year": 1927,
+          "engineer": "Menefee and Dodge"
+        },
+        {
+          "drain": "West Park-Miller",
+          "year": 1928,
+          "engineer": "Menefee and Dodge"
+        }
+      ],
+      "original_plans_inspected": false,
+      "completion_verified": false
     }
   },
   "historic_construction_photo_control": {
@@ -860,5 +890,17 @@
     "property_join_to_415_washington": false,
     "property_join_to_schlenker": false,
     "independent_witness_count": null
+  },
+  "factory_creek_expense_control": {
+    "source_id": "S427",
+    "locator": "PDF5/printed216, StreetWork/August",
+    "reported_amount_dollars": 13.55,
+    "description": "Labor on creek, A. A. Fluff Rug Factory",
+    "month": "August",
+    "year": null,
+    "property_address": null,
+    "work_dimensions": null,
+    "relation_to_july_1902_flood": null,
+    "execution_independently_verified": false
   }
 }
