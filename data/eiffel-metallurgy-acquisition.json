@@ -1,0 +1,51 @@
+{
+  "source_id": "S340",
+  "accessed_date": "2026-10-11",
+  "holding": "CNAM-BIB 8 Xae 353 (5)",
+  "images": [
+    {
+      "view": "0001",
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE353.5/0001",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE353.5/0001.T.0.842.1316.gif",
+      "bytes": 1965,
+      "sha256": "f318bf5a9c2f6a10fd71b85c84b5b519f6e035ff64c26a92fd815f3e0b552b19"
+    },
+    {
+      "view": "0108",
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE353.5/0108",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE353.5/0108.T.105.842.1316.gif",
+      "bytes": 52122,
+      "sha256": "ae35e8de966fc9e020d67c3f0cf7adfd8fb19e9eba8c05a63adfdda204348b0f"
+    },
+    {
+      "view": "0109",
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE353.5/0109",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE353.5/0109.T.106.842.1316.gif",
+      "bytes": 81659,
+      "sha256": "debeabf4526daff77077c4fd94b84586b777c0711ba5b1c0a1f45e6a2faebe9a"
+    },
+    {
+      "view": "0110",
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE353.5/0110",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE353.5/0110.T.107.842.1316.gif",
+      "bytes": 69805,
+      "sha256": "9d82c43d19f9b12b0b6030d64de96c56963a6ea4201fa743c9de7644ab9480c5"
+    },
+    {
+      "view": "0130",
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE353.5/0130",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE353.5/0130.T.127.842.1316.gif",
+      "bytes": 46009,
+      "sha256": "b5f821561bcb107f1596186b72149dd7045b3b1d5d263dd1b6323491917068a4"
+    },
+    {
+      "view": "0002",
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE353.5/0002",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE353.5/0002.V.0.842.1316.gif",
+      "bytes": 41266,
+      "sha256": "e6686a3ca55b234f72627fc74404a0979cda28626748032bd4c557bed65ead0d"
+    }
+  ],
+  "inspection": "Title vue2 and printed105,106,107,127 visually inspected; vue1 blank. Remaining volume not inspected.",
+  "redistribution": "Linked, not mirrored; no archive image reuse permission asserted."
+}

@@ -104,3 +104,5 @@ Historical-map follow-up: [Babcock editions and datum audit](research/BABCOCK-QU
 2026-10-11 original-record follow-up: [Sanpoil outlet inference and foldout controls](research/SANPOIL-OUTLET-INFERENCE.md). Early-incision argument is conditional on sediment response and known-section completeness; original plates preserve basal and recovery qualifications.
 
 2026-10-11 follow-up: [conditional steady-discharge intersection](research/GRAND-COULEE-THRESHOLD-INTERSECTION.md). Published threshold envelopes distinguish terrain scenarios under explicit assumptions; no hydraulic reproduction or contemporaneous-field validation.
+
+Builder supply follow-up: [Pompey industrial survey](research/EIFFEL-POMPEY-METALLURGY.md), separating rated pig-iron capacity from finished tower-part deliveries.

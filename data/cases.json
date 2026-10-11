@@ -1139,6 +1139,11 @@
           "source_id": "S151",
           "locator": "F/12/3871; lower-center date caption and lower-right legend",
           "statement": "Progress sheet dated through 8 January 1888 distinguishes assembled but unriveted iron from assembled and riveted iron. Comparison with S150 supports a progressive-assembly account without establishing material manufacture dates."
+        },
+        {
+          "source_id": "S340",
+          "locator": "Printed105-107 and127, CNAM vues108-110 and130; title vue2",
+          "statement": "The 1893 survey names Hallopeau and Campredon, describes compilation from exhibition material, lists a Tower metal-weight row of 7 347 230 and reports two Pompey Fould-Dupont blast furnaces capable of 110 tonnes each per 24 hours. These are reported quantities/capacities, not a supplier delivery series."
         }
       ],
       "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",
@@ -1150,7 +1155,7 @@
         "Repair/reassembly if fabric and earlier records support it"
       ],
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
-      "next_test": "Cross-identify members in F/12/3871 and F/12/3896 with intervening progress sheets, photographs and part registers; recover supplier receipts to test new manufacture versus reuse.",
+      "next_test": "Locate original Fould-Dupont order, acceptance-test and dispatch series, then join batch identifiers to Levallois part registers/site receipts. Distinguish pig-iron capacity, finished rolled stock and assembled component weights before productivity comparisons.",
       "chronology": {
         "reported": "1900 monograph; progress sheet through 8 January 1888; photographic mount inscription 10 February 1888; inspection report 4 January 1889.",
         "dated_object": "Documents and photograph inscription; not independent component manufacture dates.",
@@ -1166,7 +1171,7 @@
         "Fabric dates",
         "Independent quantity and labor-productivity audit"
       ],
-      "dependence": "Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration. Koechlin recruitment correspondence is another company record, not independent supplier corroboration. S150 is an administrative inspection involving an Eiffel representative; it is a distinct document, not wholly independent project evidence."
+      "dependence": "Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration. Koechlin recruitment correspondence is another company record, not independent supplier corroboration. S150 is an administrative inspection involving an Eiffel representative; it is a distinct document, not wholly independent project evidence. S340 is a separate 1893 publication, but its authors explicitly used industrial exhibits and supplied notes/brochures; independence from supplier or project reports is unproven."
     },
     {
       "id": "C007",

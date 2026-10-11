@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Original industrial survey and capacity scope
+
+S340 selected1893scans identify Hallopeau/Campredon, two Pompey blast furnaces rated110tonnes each per24hours, and a separate tower weight row. Pig-iron capacity does not measure finished-part output; industry-supplied brochure dependence and unmatched tonnage scopes retained. Supplier acceptance/dispatch records remain unacquired.28drafts/340sources; all twenty objectives active. See [Pompey audit](EIFFEL-POMPEY-METALLURGY.md).
+
 ### 2026-10-11 — Conditional steady-discharge intersection
 
 Executed four-scenario common-steady-discharge envelope diagnostic: present terrain lacks overlap, reconstructed cataract overlaps; table/caption upper variants retained. Counts23/21/23/19reproduced, no hydraulic run/coevality validated. Current package still directed to authenticatedGlobus; supplement unacquired.28drafts/339sources; all twenty objectives active. See [threshold audit](GRAND-COULEE-THRESHOLD-INTERSECTION.md).
