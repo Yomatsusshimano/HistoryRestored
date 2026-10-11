@@ -293,8 +293,8 @@
       "publication_date": "1900",
       "source_type": "participant technical monograph",
       "access": "SCAN_INSPECTED",
-      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only. Third part, chapter II, section 1, pp.100-101 (chapter PDF pages 17-18; canvases 8976047-8976048), visually inspected fabrication, personnel and quantity paragraphs. Fifth part chapterI section1, unnumbered opening canvas8976157 and printed211 canvas8976158: weight categories, selected money entries, supplier/representative and rivet specifications visually checked with higher-resolution crops. Adjacent chapter boundary viewed. Printed101 five mean strength/elongation rows and roster factory-acceptance heading/six names now checked on2000pixel images/crops; specimen direction and gauge lengths retained. Chapter V formation opening/canvas8976173 (manifest[250]) and printed227/canvas8976174 visually inspected: valuation, reproduced statutory capital and reported4March1889constitution. Printed228-231/canvases8976175-8976178 visually inspected: receipt summary, board scope bridge, souvenir margin and expense subtraction. Six limited decimal arithmetic checks executed.",
-      "limitations": "Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts. Weight subtotals and table costs reproduce; adjacent prose money total differs by32395.18francs, cause unresolved. No batch acceptance-test series or independent dispatch authentication. Sample counts, batches, test dates, calibration and dispersion absent from selected table. Rivet requirements are not observed acceptance results. Reproduced statutes and financial narrative are not original notarial act or cash receipts. Company constitution date differs from S350; nominal capital is not total construction cash. Original Couder report, ticket/cash journals and capital repayment records unacquired. All weekly/expense rows not transcribed; receipt-minus-expense remainder is not authenticated profit.",
+      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only. Third part, chapter II, section 1, pp.100-101 (chapter PDF pages 17-18; canvases 8976047-8976048), visually inspected fabrication, personnel and quantity paragraphs. Fifth part chapterI section1, unnumbered opening canvas8976157 and printed211 canvas8976158: weight categories, selected money entries, supplier/representative and rivet specifications visually checked with higher-resolution crops. Adjacent chapter boundary viewed. Printed101 five mean strength/elongation rows and roster factory-acceptance heading/six names now checked on2000pixel images/crops; specimen direction and gauge lengths retained. Chapter V formation opening/canvas8976173 (manifest[250]) and printed227/canvas8976174 visually inspected: valuation, reproduced statutory capital and reported4March1889constitution. Printed228-231/canvases8976175-8976178 visually inspected: receipt summary, board scope bridge, souvenir margin and expense subtraction. Six limited decimal arithmetic checks executed. Unnumbered foundation opening/canvas8976032 and printed86–89/canvases8976033–8976036 visually inspected: localized debris, ordinary sounding uncertainty, compressed-air shafts, selected elevations and construction backfill. Three limited decimal checks executed.",
+      "limitations": "Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts. Weight subtotals and table costs reproduce; adjacent prose money total differs by32395.18francs, cause unresolved. No batch acceptance-test series or independent dispatch authentication. Sample counts, batches, test dates, calibration and dispersion absent from selected table. Rivet requirements are not observed acceptance results. Reproduced statutes and financial narrative are not original notarial act or cash receipts. Company constitution date differs from S350; nominal capital is not total construction cash. Original Couder report, ticket/cash journals and capital repayment records unacquired. All weekly/expense rows not transcribed; receipt-minus-expense remainder is not authenticated profit. Foundation chapter incomplete; maps/plateII/original field logs unacquired in this audit. Selected sequential layer thicknesses differ from elevation interval by0.89m; datum/observation dates and numbered borehole/object joins remain missing.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
@@ -394,6 +394,36 @@
           "sha256": "c53aab735c02f81944adc2c262a9036a38c1bdf5555e11b356e850f643668f08",
           "public_mirror_in_this_repository": false,
           "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976032/full/2000,/0/default.jpg",
+          "sha256": "caa2b1d9e98b5a4ed0a54cf9979bdfbd1a7ba13a357f8a4be58092f7defaafde",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976033/full/2000,/0/default.jpg",
+          "sha256": "d0b2a7d2f535e3d35464269b0b473eabe156df8bb4d2c702d3c0b0f3e70334fb",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976034/full/2000,/0/default.jpg",
+          "sha256": "8cb813c0c3ca3076362edc59166681349ffd45514f832936d4f6f9de7f6a98dd",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976035/full/2000,/0/default.jpg",
+          "sha256": "c1567def69328519e5c6b86bf1c3e73e7569e4318b1941c73dbab8a383494118",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976036/full/2000,/0/default.jpg",
+          "sha256": "4515bf377e1856a500a4f0d949991335005cd562dcf1f26114d0ee51350b3131",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
         }
       ]
     },

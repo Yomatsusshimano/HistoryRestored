@@ -1,0 +1,152 @@
+{
+  "source_id": "S17",
+  "status": "SOURCED_DRAFT",
+  "accessed_date": "2026-10-11",
+  "independent_review": false,
+  "retrievals": [
+    {
+      "canvas": "8976032",
+      "manifest_index": 108,
+      "manifest_label": "[109]",
+      "url": "https://www.e-rara.ch/i3f/v20/8976032/full/2000,/0/default.jpg",
+      "sha256": "caa2b1d9e98b5a4ed0a54cf9979bdfbd1a7ba13a357f8a4be58092f7defaafde",
+      "bytes": 359456,
+      "visually_inspected": true,
+      "public_mirror": false
+    },
+    {
+      "canvas": "8976033",
+      "manifest_index": 109,
+      "manifest_label": "86",
+      "url": "https://www.e-rara.ch/i3f/v20/8976033/full/2000,/0/default.jpg",
+      "sha256": "d0b2a7d2f535e3d35464269b0b473eabe156df8bb4d2c702d3c0b0f3e70334fb",
+      "bytes": 468723,
+      "visually_inspected": true,
+      "public_mirror": false
+    },
+    {
+      "canvas": "8976034",
+      "manifest_index": 110,
+      "manifest_label": "87",
+      "url": "https://www.e-rara.ch/i3f/v20/8976034/full/2000,/0/default.jpg",
+      "sha256": "8cb813c0c3ca3076362edc59166681349ffd45514f832936d4f6f9de7f6a98dd",
+      "bytes": 466364,
+      "visually_inspected": true,
+      "public_mirror": false
+    },
+    {
+      "canvas": "8976035",
+      "manifest_index": 111,
+      "manifest_label": "88",
+      "url": "https://www.e-rara.ch/i3f/v20/8976035/full/2000,/0/default.jpg",
+      "sha256": "c1567def69328519e5c6b86bf1c3e73e7569e4318b1941c73dbab8a383494118",
+      "bytes": 443496,
+      "visually_inspected": true,
+      "public_mirror": false
+    },
+    {
+      "canvas": "8976036",
+      "manifest_index": 112,
+      "manifest_label": "89",
+      "url": "https://www.e-rara.ch/i3f/v20/8976036/full/2000,/0/default.jpg",
+      "sha256": "4515bf377e1856a500a4f0d949991335005cd562dcf1f26114d0ee51350b3131",
+      "bytes": 431889,
+      "visually_inspected": true,
+      "public_mirror": false
+    }
+  ],
+  "scope": "Unnumbered foundation chapter opening then printed86–89; not complete chapter",
+  "reported_debris": {
+    "pier_ids": [
+      1,
+      4
+    ],
+    "distance_behind_then_quay_m_approx": 120,
+    "materials": [
+      "wood",
+      "pottery fragments",
+      "domestic animal bones",
+      "stacked-block masonry"
+    ],
+    "host_description": "Mud or variably sandy clay",
+    "masonry_function": "Author proposes former quay wall; not authenticated",
+    "object_ids": null,
+    "find_depths": null,
+    "deposition_date": null
+  },
+  "pier1": {
+    "shaft_position": "Outside pier",
+    "surface_cote": "34.53",
+    "fill_thickness_m": "7.43",
+    "further_shaft_descent_m": "7.07",
+    "total_shaft_descent_m": "14.50",
+    "additional_auger_m": "1.40",
+    "clay_cote": "18.63",
+    "reported_sandy_clay_and_fine_sand_thickness_m": "5.99",
+    "reported_lower_interval_thickness_m": "3.37",
+    "observation_date": null,
+    "modern_coordinates": null,
+    "modern_vertical_datum": null,
+    "complete_log_reconciled": false
+  },
+  "pier4": {
+    "shaft_position": "Within four caissons after general excavation",
+    "starting_platform_cote": "28",
+    "reported_earlier_surface_cote": "34.60",
+    "later_section5_ground_cote": "33.92",
+    "different_surface_readings_resolved": false,
+    "penetration_into_clay_m": "1.75",
+    "fill_thickness_m": null
+  },
+  "selected_arithmetic_checks": [
+    {
+      "expression": "7.43 + 7.07",
+      "result": "14.50",
+      "printed_comparator": "14.50",
+      "meaning": "Reported descent sums"
+    },
+    {
+      "expression": "34.53 - 14.50 - 1.40",
+      "result": "18.63",
+      "printed_comparator": "18.63",
+      "meaning": "Reported surface/shaft/auger reaches clay cote"
+    },
+    {
+      "expression": "(7.43 + 5.99 + 3.37) - (34.53 - 18.63)",
+      "result": "0.89",
+      "printed_comparator": null,
+      "meaning": "Conditional sequential-layer interpretation exceeds surface-to-clay difference; not a correction"
+    }
+  ],
+  "construction_fill": {
+    "pier2_backfill_m3_reported": "4170",
+    "pier3_excavation_spoil_use": "Raise central depression or backfill around masonry",
+    "independent_cart_or_disposal_records_acquired": false
+  },
+  "ordinary_soundings": {
+    "reported_operators": [
+      "Paulin",
+      "Arrault"
+    ],
+    "author_explicitly_reports_uncertainty": true,
+    "original_logs_acquired": false
+  },
+  "historical_map_leads": [
+    {
+      "reported_author": "Roussel",
+      "reported_year": 1730,
+      "exact_map_inspected": false
+    },
+    {
+      "reported_author": "Berniquet",
+      "reported_year": 1789,
+      "exact_map_inspected": false
+    }
+  ],
+  "joins": {
+    "S357_numbered_boreholes_joined": false,
+    "S355_buried_objects_joined": false,
+    "plateII_inspected_in_this_audit": false
+  },
+  "limits": "Retrospective interested participant. No specimen dates, complete original field logs, calibrated map registration or common catastrophe horizon. Sequential layer interpretation mismatches by0.89m; preserve printed readings."
+}

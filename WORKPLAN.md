@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Located debris, sounding uncertainty and construction backfill
+
+S17selected foundation surfaces localize reported debris to river-side piers, acknowledge ordinary-sounding uncertainty and describe construction backfill. Selected shaft arithmetic reconciles; sequential layer interpretation differs by0.89m. Original logs, map editions, datum and object/profile joins missing.28 drafts /357 sources; all twenty objectives active. See [foundation context](research/EIFFEL-FOUNDATION-CONTEXT.md).
+
 ### 2026-10-11 — Original section and scale controls
 
 S357originalprofile/sewerplatesinspected: approximate50msectionoffset, numberedEiffelsoundings and5xnominalverticalexaggeration. Sewerplate is crosssections, not routemap. Issue dates, logs, datum and priorpit/objectjoins remain missing.28 drafts /357 sources; all twenty objectives active. See [profile controls](research/CHAMP-DE-MARS-PROFILE-CONTROLS.md).
