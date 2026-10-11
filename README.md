@@ -200,3 +200,5 @@ Street-work follow-up: [Shelbyville original plans and datum limits](research/SH
 Repair-estimate follow-up: [Shelbyville planned fill quantities and approval limits](research/SHELBYVILLE-MFT-ESTIMATE.md).
 
 Contemporary reporting follow-up: [Shelbyville reported vault filling and historical-grade limits](research/SHELBYVILLE-REPORTED-VAULT-FILLING.md).
+
+Reddit skeletal-assemblage follow-up: [Roopkund sample dates and deposition limits](research/ROOPKUND-DATING-AUDIT.md).

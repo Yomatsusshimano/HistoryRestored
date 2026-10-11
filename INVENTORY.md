@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-30 sourced drafts; 0 independent scientific reviews.
+31 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -37,6 +37,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C028 | Hispaniolan cave microfauna: pooled bone ages versus deposition |
 | C029 | Swan Tavern site and Redlands Club lower-window claim |
 | C030 | Shelbyville storefront and Sit n Sip vault identity lead |
+| C031 | Roopkund skeletal assemblage: mortality dates and deposition limits |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -1334,3 +1335,34 @@ Place: Shelbyville, Illinois; candidate Sit n Sip at 216 E Main Street. Status: 
 **Chronology:** {"reported": "Sit n Sip vault messages February 2020; separate 222 Main fill planning June 2020; packet forwarding July 2020", "dated_object": "Correspondence headers, not deposit or vault construction", "method": "Inspection of third-party scan", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
 **Missing:** Original image and authenticated parcel match; Measured depth and datum; Original floor function and construction date; Adopted resolution and authenticated original consultant file; Execution diary and actual fill quantities; Deposit profile, sample identity and age; Historic numbering/direction crosswalk; Relative-height units and datum; Original deeds/certified surveys and historic footprint registration; Parcel-specific 1973/1974 survey cards and construction records
+
+## C031: Roopkund skeletal assemblage: mortality dates and deposition limits
+
+Place: Roopkund Lake, Himalayas, India; provisional Reddit site association. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- High-altitude lake skeletal remains nominated as a catastrophe lead; exact media/site association remains provisional. [S379](https://www.reddit.com/r/CulturalLayer/comments/jvopfv/). Locator: Selected indexed discussion excerpt; full thread inaccessible. Access: SEARCH_EXCERPT. Limit: Roopkund identification remains a lead from described context; original linked content, specimen dates and casualty counts unverified.
+- Original study reports dated bone powder, temporal heterogeneity and disturbed context; no unique death mechanism established. [S407](https://www.nature.com/articles/s41467-019-11357-9). Locator: Results dating section; AMS methods; discussion. Access: FULL_TEXT_PORTION. Limit: Selected sections, not independent laboratory replication. Native HTML download not verified article copy; no content hash claimed. Bone ages and deposit chronology distinct.
+- Published calibration figure is multimodal; earlier five-sample table has distinct identifiers and is not joined to current genetic set. [S408](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM1_ESM.pdf). Locator: PDF2/5/6. Access: SCAN_INSPECTED. Limit: Other34pages not visually inspected. Earlier identifiers not joined to genetic sample set; trauma analysis not inspected or assigned to dated individuals.
+- 37 dated rows: 23 A, 13 B, one C. Published outer intervals fail common 0/1/10/100-year mortality windows for all rows and A alone; B/C envelope overlap not proof of simultaneity. [S409](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM8_ESM.xlsx). Locator: Sheet1 rows5–41, A:T; missing dating rows42–49. Access: FULL_TEXT_PORTION. Limit: Published data, not lab certificates or recalibration. ± convention not explicit in header; 2σ outer bounds may bridge gaps. I3401 undated; laboratory IDs and deposit units unestablished.
+
+**Physical evidence:** Published bone dating measurements only; no specimen access, site visit, original excavation logs or measured sediment profile inspected.
+
+**Surviving documents:** Selected original article HTML, selected supplement pages and published date workbook; sample ledger preserves rows, materials and missing fields.
+
+**Source interpretation:** Authors interpret multiple mortality/deposition episodes and discuss possible origins; causal and identity accounts remain incomplete.
+
+**Investigation inference:** Retrospective outer-bound arithmetic challenges simultaneous mortality within selected durations. It cannot date later common redistribution, authenticate the Reddit media or assign a natural mud layer. Mortality interpretation assumes bone-collagen dates approximate death; tissue turnover and systematic offsets not modeled.
+
+**Counterevidence:** All37 outer intervals need at least937years of permissive span; A alone125years. Contemporary subgroup overlap does not establish a shared cause. No dated mud layer, global link or rewriting mechanism.
+
+**Next test:** Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match.
+
+**Dependence:** Article, supplement and workbook share one study lineage; not three independent confirmations. Published peer review is not independent review of this archive. Bone age and contextual interpretation distinct.
+
+**Alternatives:** Multiple local deaths across centuries; Catastrophic mortality in one subgroup; Later redistribution of older remains; Dating biases requiring specimen-specific testing
+
+**Chronology:** {"reported": "Published 2019 calibrated CE envelopes for37bone samples", "dated_object": "Bone collagen, not sediment deposition", "method": "AMS with published OxCal/IntCal13 calibration", "raw_date": null, "uncertainty": null, "timescale": "CE; raw radiocarbon BP kept separately", "event_association": "SIMULTANEOUS_MORTALITY_CHALLENGED_IN_TESTED_DURATIONS; DEPOSITION_UNTESTED"}
+
+**Missing:** Original Reddit media and site authentication; Laboratory identifiers and certificates; Full recalibration and reservoir audit; Specimen-to-trauma joins; In-place deposit units and independent ages; Original collection and travel records

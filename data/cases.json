@@ -3668,6 +3668,67 @@
         "Parcel-specific 1973/1974 survey cards and construction records"
       ],
       "dependence": "Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct. S385 and S386 repeat the same February emails; not independent witness replication. Consultant structural observations do not independently authenticate its historical background narrative. Listing reposts share MLSdescription; map story/relativeheight symbols are not independentchronometers. Three Sanborn editions sharepublisherlineage; independently surveyed height/footprintcontrols notestablished. County GIS instructions, embedded experience and hosted layer form one delivery chain, not three independent parcel witnesses. Approximate width agreement does not prove identical fabric. NPS placeholder is an access limit only. NARA packet is a delivery of NPS nomination material; copied attributions are not independent construction witnesses. Hosted survey catalog, form and related images are a delivery chain; duplicated photos not independent replication. No broad archival absence inferred from query. USGS regional survey entries share a leveling network; individual elevations are not independent catastrophe dates. Current announcement date metadata does not independently authenticate its original version. NGS API, hosted catalog and full sheets share delivery lineage; recovery histories do not supply independent event dating. Official contract catalog, advertised directories and plan scan form a delivery chain. Third-party email reproduction not independently authenticated; planned repair not execution evidence. Adjacent forms extend S405 inspection, not independent additional sources; arithmetic consistency is not provenance or execution confirmation. Third-party press clipping is one newspaper delivery; reported work and retrospective grade narrative are not independently replicated measurements."
+    },
+    {
+      "id": "C031",
+      "title": "Roopkund skeletal assemblage: mortality dates and deposition limits",
+      "category": "skeletal assemblages and chronology",
+      "place": "Roopkund Lake, Himalayas, India; provisional Reddit site association",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S379",
+          "locator": "Selected indexed discussion excerpt; full thread inaccessible",
+          "statement": "High-altitude lake skeletal remains nominated as a catastrophe lead; exact media/site association remains provisional."
+        },
+        {
+          "source_id": "S407",
+          "locator": "Results dating section; AMS methods; discussion",
+          "statement": "Original study reports dated bone powder, temporal heterogeneity and disturbed context; no unique death mechanism established."
+        },
+        {
+          "source_id": "S408",
+          "locator": "PDF2/5/6",
+          "statement": "Published calibration figure is multimodal; earlier five-sample table has distinct identifiers and is not joined to current genetic set."
+        },
+        {
+          "source_id": "S409",
+          "locator": "Sheet1 rows5–41, A:T; missing dating rows42–49",
+          "statement": "37 dated rows: 23 A, 13 B, one C. Published outer intervals fail common 0/1/10/100-year mortality windows for all rows and A alone; B/C envelope overlap not proof of simultaneity."
+        }
+      ],
+      "physical_evidence": "Published bone dating measurements only; no specimen access, site visit, original excavation logs or measured sediment profile inspected.",
+      "surviving_documents": "Selected original article HTML, selected supplement pages and published date workbook; sample ledger preserves rows, materials and missing fields.",
+      "source_interpretation": "Authors interpret multiple mortality/deposition episodes and discuss possible origins; causal and identity accounts remain incomplete.",
+      "investigation_inference": "Retrospective outer-bound arithmetic challenges simultaneous mortality within selected durations. It cannot date later common redistribution, authenticate the Reddit media or assign a natural mud layer. Mortality interpretation assumes bone-collagen dates approximate death; tissue turnover and systematic offsets not modeled.",
+      "competing_explanations": [
+        "Multiple local deaths across centuries",
+        "Catastrophic mortality in one subgroup",
+        "Later redistribution of older remains",
+        "Dating biases requiring specimen-specific testing"
+      ],
+      "counterevidence": "All37 outer intervals need at least937years of permissive span; A alone125years. Contemporary subgroup overlap does not establish a shared cause. No dated mud layer, global link or rewriting mechanism.",
+      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match.",
+      "chronology": {
+        "reported": "Published 2019 calibrated CE envelopes for37bone samples",
+        "dated_object": "Bone collagen, not sediment deposition",
+        "method": "AMS with published OxCal/IntCal13 calibration",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE; raw radiocarbon BP kept separately",
+        "event_association": "SIMULTANEOUS_MORTALITY_CHALLENGED_IN_TESTED_DURATIONS; DEPOSITION_UNTESTED"
+      },
+      "missing": [
+        "Original Reddit media and site authentication",
+        "Laboratory identifiers and certificates",
+        "Full recalibration and reservoir audit",
+        "Specimen-to-trauma joins",
+        "In-place deposit units and independent ages",
+        "Original collection and travel records"
+      ],
+      "dependence": "Article, supplement and workbook share one study lineage; not three independent confirmations. Published peer review is not independent review of this archive. Bone age and contextual interpretation distinct."
     }
   ]
 }

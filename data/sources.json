@@ -7234,6 +7234,64 @@
           "hash_scope": "Four-page packet; PDF1 clipping visually inspected, PDF2–4 checked for continuation only; complete delivered 577008 bytes"
         }
       ]
+    },
+    {
+      "id": "S407",
+      "title": "Ancient DNA from the skeletons of Roopkund Lake reveals Mediterranean migrants in India",
+      "url": "https://www.nature.com/articles/s41467-019-11357-9",
+      "creator": "Éadaoin Harney and colleagues",
+      "publication_date": "2019-08-20",
+      "source_type": "Original research",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Rendered HTML results, AMS methods and discussion inspected.",
+      "limitations": "Selected sections, not independent laboratory replication. Native HTML download not verified article copy; no content hash claimed. Bone ages and deposit chronology distinct.",
+      "review_status": "ARCHIVE_ANALYSIS_NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S408",
+      "title": "Roopkund2019 Supplementary Information: calibration figure and earlier dating table",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM1_ESM.pdf",
+      "creator": "Éadaoin Harney and colleagues",
+      "publication_date": "2019-08-20",
+      "source_type": "Original research supplement",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF2/5/6 visually inspected: calibration distributions, edited report provenance and separate prior five-sample dating table.",
+      "limitations": "Other34pages not visually inspected. Earlier identifiers not joined to genetic sample set; trauma analysis not inspected or assigned to dated individuals.",
+      "review_status": "ARCHIVE_ANALYSIS_NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM1_ESM.pdf",
+          "sha256": "156aef8a1350d9b326a303d61a227aecc5a6ad5a5d88d9774c83716099aa1985",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "37-page supplement; PDF2/5/6 visually inspected; complete delivered 2602158 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S409",
+      "title": "Roopkund2019 Supplementary Data4: isotopic measurements and radiocarbon dates",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM8_ESM.xlsx",
+      "creator": "Éadaoin Harney and colleagues",
+      "publication_date": "2019-08-20",
+      "source_type": "Original research supplement",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Sheet1 headers and rows5–49 read; 37 dated rows transcribed with A:T locators; eight missing dating rows retained.",
+      "limitations": "Published data, not lab certificates or recalibration. ± convention not explicit in header; 2σ outer bounds may bridge gaps. I3401 undated; laboratory IDs and deposit units unestablished.",
+      "review_status": "ARCHIVE_ANALYSIS_NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM8_ESM.xlsx",
+          "sha256": "01e00646501915bc1a6ff6aafb7a8594f101f1feea4b6747a7f70ba6a68201e4",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Unchanged workbook; Sheet1 headers and rows5–49 read; complete delivered 19336 bytes"
+        }
+      ]
     }
   ]
 }

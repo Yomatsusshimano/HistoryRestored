@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Roopkund mortality and deposition distinction
+
+Roopkund published sample dates transcribed: 37dated rows, eight missing dating rows. Permissive outer-bound comparison requires937years across all dated individuals and125years within A; common0/1/10/100year mortality windows fail. Later redistribution remains undated. 31drafts/409sources; no independent archive review. See [sample audit](research/ROOPKUND-DATING-AUDIT.md).
+
 ### 2026-10-11 — Reported vault filling and historical-grade limits
 
 S406 adds contemporary press reporting of downtown vault filling, with unacquired continuation and parcel completion/quantity limits. The historical grade assertion remains unverified. 30 drafts / 406 sources; no independent review. See [press-report controls](research/SHELBYVILLE-REPORTED-VAULT-FILLING.md).
