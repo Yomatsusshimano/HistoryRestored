@@ -6016,6 +6016,27 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S361",
+      "title": "Gazette des tribunaux,15April1859,no9997: former Île desCygnes State/Citypropertydispute",
+      "url": "https://data.decalog.net/enap1/Liens/Gazette/18590415.pdf",
+      "creator": "Gazette des tribunaux; unsigned selected litigation report; ENAP digital delivery",
+      "publication_date": "1859-04-15",
+      "source_type": "Contemporary legal newspaper; retrospective report of earlier land instruments",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "OriginalPDFpage1masthead andcompleteislandarticlecolumns2–3 visuallyinspected; selectedhighresolutioncropschecked.",
+      "limitations": "Other3PDFpagesuninspected. Notoriginal1773letters/saleacts orcertifiedjudgment. Introductionfilled1773 versuslaterauthorization/channeltobefilled retained; actualcompletionunknown. Exactjudgmentdate, originalcase/worksrecords andfoundationparcel/objectjoinsunverified.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://data.decalog.net/enap1/Liens/Gazette/18590415.pdf",
+          "sha256": "463ad94d0e2184cc28b46b77c0abc431591065fd9560b134c865c3d0dd15be3f",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

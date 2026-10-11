@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Pre-tower legal report and authorization/completion distinction
+
+S361original1859legalreportinspected:1773channel-filling/street/saleauthorization and competingState/Citytitleclaims predate towerworks. Openingfilled1773 versuslaterauthorized/tobefilled tensionretained; originals/execution/parceljoinsmissing.28drafts/361sources; all twenty objectives active. See [property dispute](research/CYGNES-1859-PROPERTY-DISPUTE.md).
+
 ### 2026-10-11 — Map completion label and unverified ditch classification
 
 S360facsimiletitlesheet/C/Dinspected: VERNIQUET andcompletion1791 differfromS17Berniquet1789reference; exacteditionjoinopen. Westerntract/narrowfeature visible, but residualditchclassificationnotconfirmed. Other3sheets overviewonly.28drafts/360sources; all twenty objectives active. See [map controls](research/VERNIQUET-CHANNEL-CONTROLS.md).
