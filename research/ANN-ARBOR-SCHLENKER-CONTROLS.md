@@ -1,6 +1,6 @@
 # Ann Arbor: a candidate building and documented renovation
 
-Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S423. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
+Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S424. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
 
 The [Reddit discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) names two different properties: a Starbucks on West Liberty and a Schlenker building farther along the street. The selected indexed comment proposes a debris flow from the northeast. Full thread and original photographs remain unavailable. Naming a nearby building does not authenticate either pictured parcel.
 
@@ -69,3 +69,11 @@ The account supplies a specific local flooding explanation and distinguishes the
 The city's [August 17, 1998 council minutes](https://a2gov.legistar.com/ViewReport.ashx?Extra=WithText&GID=55&GUID=4A2EA926-AEFE-42E2-95A0-280A77209702&ID=264956&M=R&N=Master&Title=Legislation+Details+%28With+Text%29), S423, item 34-98, record first-reading approval of a proposed zoning change at 213–215 West Liberty, from C2B to C2A. PDF 1/11 were visually inspected. The reported 0.52 acre is site area, separate from the floor areas in S417/S419. This action neither proves final enactment nor dates construction completion. Do not replace S417's reported 1998 project year with this meeting date, or infer that work necessarily followed it.
 
 The acquired 27-page Legistar delivery is a generated report printed October 11, 2026, bearing file number 07-0753 and the 1998 meeting date. It is not an inspected original signed minute-book scan. Its PDF 11 embeds the older page 21 label; retain both locators. Report generation and database numbering are separate from the historical action. The minutes furnish a precise search target for the corresponding zoning/site-plan packet; earlier alteration and drainage plans remain unacquired. A public API title query returned HTTP 500, which establishes no record absence.
+
+## Approved demolition and addition scope recovered
+
+The municipal legislation search for Schlenker, All Years/All Types, with file-number and text fields selected, returned two visible council records. The [September 21, 1998 minutes](https://a2gov.legistar.com/ViewReport.ashx?M=R&N=Master&GID=55&ID=264961&GUID=16A5B719-868B-4301-8DF2-7C0DA475D5D2&Extra=WithText&Title=Legislation+Details+(With+Text)), S424, PDF 16/17 (embedded historic page 19), record second-reading adoption of ordinance 34-98 and approval of resolution R-423-9-98. PDF 1/16/17 were visually inspected.
+
+The approved proposal describes a **15,644-square-foot addition and demolition of 9,590 square feet at the rear**. It cites a July 21, 1998 Planning Commission recommendation and makes approval conditional on lot combination, necessary State permits and a sidewalk access easement before City permits. These are approval records; executed work, completion date and physical footprints remain unverified. Drawings were not acquired.
+
+The simple area difference is 6,054 square feet, not S417's 3,000; differing measurement scopes remain unresolved. None is sediment volume. This strengthens the need to distinguish retained fabric, demolished rear fabric and additions when comparing images. It does not explain changes already captioned April 1995 in S421. Obtain the July 21 packet and approved drawings, then execution records and earlier alterations. The limited search establishes no absence of other records.

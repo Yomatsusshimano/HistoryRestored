@@ -1245,3 +1245,8 @@ S422 newsletter pages1–3 visually inspected; reported drainage episode and add
 ### 2026-10-11 — Ann Arbor zoning chronology control
 
 S423 council report PDF1/11 visually inspected: August17,1998 first-reading action at213–215West Liberty distinguished from final enactment, construction completion and report generation. [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md) retain permit/plan gaps and failedAPI lookup without absence claims.31drafts/423sources; no independent archive review, all twenty objectives active.
+
+
+### 2026-10-11 — Ann Arbor approved demolition/addition scope
+
+S424 council report PDF1/16/17 visually inspected: September21,1998 approval describes15,644sqft addition/9,590sqft rear demolition, with permit prerequisites. [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md) distinguish approval from execution, retain area discrepancy and pre1995opening chronology, and target July21Planning packet.31drafts/424sources; all twenty objectives active, no independent archive review.

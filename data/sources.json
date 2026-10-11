@@ -7633,6 +7633,30 @@
           "hash_scope": "Complete 144480-byte, 27-page Legistar report delivery; PDF1/11 visually inspected; generated report, not an original signed minute-book scan"
         }
       ]
+    },
+    {
+      "id": "S424",
+      "title": "Ann Arbor council minutes, September21,1998: Schlenker redevelopment site-plan approval",
+      "url": "https://a2gov.legistar.com/ViewReport.ashx?M=R&N=Master&GID=55&ID=264961&GUID=16A5B719-868B-4301-8DF2-7C0DA475D5D2&Extra=WithText&Title=Legislation+Details+(With+Text)",
+      "creator": "City of Ann Arbor City Council; Legistar report",
+      "publication_date": null,
+      "record_event_date": "1998-09-21",
+      "report_print_date": "2026-10-11",
+      "source_type": "Municipal council record in a generated legislative report",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 title/date and PDF16/17 ordinance34-98 second-reading adoption and resolutionR-423-9-98 approval visually inspected; embedded historic page19 label.",
+      "limitations": "Approved scope is not proof of executed demolition/construction. Original signed minutes, engineering drawings, permits and completion inspection uninspected. No lower-opening closure date, measured grade or sediment. Same municipal record lineage as S423; not independent evidence.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://a2gov.legistar.com/ViewReport.ashx?M=R&N=Master&GID=55&ID=264961&GUID=16A5B719-868B-4301-8DF2-7C0DA475D5D2&Extra=WithText&Title=Legislation+Details+(With+Text)",
+          "sha256": "c54af3c349ae9702e1e2d00a3673f5d7ca4919aee187940b23cd5bdae0f4c9b3",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 163395-byte, 49-page generated Legistar report; PDF1/16/17 visually inspected; not original signed minutes or plan drawings"
+        }
+      ]
     }
   ]
 }

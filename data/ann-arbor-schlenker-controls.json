@@ -11,7 +11,8 @@
     "S420",
     "S421",
     "S422",
-    "S423"
+    "S423",
+    "S424"
   ],
   "retrievals": [
     {
@@ -109,6 +110,12 @@
       "sha256": "2d549d365e74ecd057a95ea4a522048d9cd8843fbbc8968d2cb599d593ccfa1a",
       "retrieved_date": "2026-10-11",
       "hash_scope": "Complete 144480-byte, 27-page Legistar report delivery; PDF1/11 visually inspected; generated report, not an original signed minute-book scan"
+    },
+    {
+      "url": "https://a2gov.legistar.com/ViewReport.ashx?M=R&N=Master&GID=55&ID=264961&GUID=16A5B719-868B-4301-8DF2-7C0DA475D5D2&Extra=WithText&Title=Legislation+Details+(With+Text)",
+      "sha256": "c54af3c349ae9702e1e2d00a3673f5d7ca4919aee187940b23cd5bdae0f4c9b3",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 163395-byte, 49-page generated Legistar report; PDF1/16/17 visually inspected; not original signed minutes or plan drawings"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -133,7 +140,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Authenticate original photo dates/parcel join; retrieve alteration permits before April1995 and original side-elevation sections. Test infill versus grade change using measured profiles, not photograph height impressions.",
+  "next_test": "Retrieve July21,1998 Planning Commission packet and approved R-423-9-98 drawings, with demolition footprint, elevations and drainage; obtain execution/completion records and preApril1995 alterations. Join surviving fabric to authenticated photographs before assigning deposit causes.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -339,11 +346,54 @@
     "final_enactment_verified": false,
     "construction_completion_date": null,
     "area_role": "Zoning site area, not floor area or sediment volume",
-    "original_signed_minutes_verified": false
+    "original_signed_minutes_verified": false,
+    "second_reading_adoption": {
+      "source_id": "S424",
+      "date": "1998-09-21",
+      "council_adoption_reported": true,
+      "legal_effective_date": null
+    }
   },
   "record_search_limits": {
     "date": "2026-10-11",
     "result": "Council zoning entry acquired; earlier alteration permits and drainage plans not acquired in these searches. Public API title query returned HTTP500; no archival-absence inference.",
-    "absence_claim": false
+    "absence_claim": false,
+    "municipal_legislation_ui": {
+      "url": "https://a2gov.legistar.com/Legislation.aspx",
+      "query": "Schlenker",
+      "date_filter": "All Years",
+      "type_filter": "All Types",
+      "selected_options": [
+        "file number",
+        "text"
+      ],
+      "visible_result_count": 2,
+      "detail_ids": [
+        264961,
+        264956
+      ],
+      "scope": "Only this spelling and selected indexed fields; no absence claim about drawings, misspellings, other databases or unindexed records"
+    }
+  },
+  "redevelopment_siteplan_control": {
+    "source_id": "S424",
+    "approval_date": "1998-09-21",
+    "resolution": "R-423-9-98",
+    "locator": "PDF16/17; embedded historic page19 label",
+    "planning_commission_recommendation_date": "1998-07-21",
+    "approved_addition_square_feet": 15644,
+    "approved_rear_demolition_square_feet": 9590,
+    "arithmetic_area_difference_square_feet": 6054,
+    "area_scope_reconciled": false,
+    "reported_prepermit_conditions": [
+      "Combine two site lots",
+      "Obtain necessary State permits",
+      "Provide access easement for Liberty Street sidewalk crossing site"
+    ],
+    "execution_verified": false,
+    "plan_drawings_acquired": false,
+    "original_floor_elevations": null,
+    "sediment_volume": null,
+    "earlier_closed_openings_explained": false
   }
 }
