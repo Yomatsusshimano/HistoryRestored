@@ -1,0 +1,154 @@
+{
+  "case_id": "C006",
+  "status": "SOURCED_DRAFT",
+  "maps": [
+    {
+      "source_id": "S372",
+      "institutional_reference": "GE C-6981",
+      "gallica_ark": "btv1b53085143s",
+      "catalog_url": "https://catalogue.bnf.fr/ark:/12148/cb407088375",
+      "commons_description": "https://commons.wikimedia.org/wiki/File:Plan_de_la_ville_de_Paris_et_de_ses_environs,_divis%C3%A9_en_douze_mairies_et_quarante-huit_quartiers..._-_btv1b53085143s.jpg",
+      "retrieval": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Plan_de_la_ville_de_Paris_et_de_ses_environs%2C_divis%C3%A9_en_douze_mairies_et_quarante-huit_quartiers..._-_btv1b53085143s.jpg",
+        "bytes": 60490275,
+        "dimensions_px": [
+          17082,
+          12150
+        ],
+        "sha256": "c574deb463e8eced2c9fe4e9258b799879ecac228130542814289650ba2db7ce"
+      },
+      "printed_publication_year": 1815,
+      "printed_publisher": "Jean",
+      "printed_address": "Rue Saint-Jean-de-Beauvais no10",
+      "full_image_inspection": "Reduced-resolution overview only",
+      "original_resolution_details": {
+        "title": [
+          1400,
+          100,
+          4000,
+          3000
+        ],
+        "champ": [
+          1500,
+          6500,
+          5300,
+          10100
+        ],
+        "scale": [
+          2700,
+          10400,
+          5000,
+          10900
+        ],
+        "palace": [
+          3150,
+          7650,
+          4650,
+          8900
+        ],
+        "quay": [
+          4200,
+          6600,
+          6500,
+          8100
+        ],
+        "project": [
+          1700,
+          7200,
+          3100,
+          8550
+        ]
+      },
+      "crop_coordinate_system": "Original image pixels;left,top,right,bottom",
+      "cartographic_observations": {
+        "archives_complex": "Quadrangular withfour open courts beside river end ofChamp-de-Mars",
+        "avenue_label": "Bourdonnaye",
+        "opposite_palace_label": "projeté",
+        "barracks_on_other_flank": true,
+        "selected_bank_depiction": "Continuous mainland riverfront, no separate island channel drawn in selected area"
+      },
+      "scale": {
+        "S373_label": null,
+        "physical_dimensions_measured": false
+      },
+      "mapmaker": null,
+      "survey_date": null,
+      "exact_match_to_Bordier_reference": null,
+      "complete_building_verified": false,
+      "modern_registration": false
+    },
+    {
+      "source_id": "S373",
+      "institutional_reference": "GE C-6980",
+      "gallica_ark": "btv1b53085142b",
+      "catalog_url": "https://catalogue.bnf.fr/ark:/12148/cb40708838h",
+      "commons_description": "https://commons.wikimedia.org/wiki/File:Plan_routier_de_la_ville_et_fauxbourgs_de_Paris,_divis%C3%A9_en_12_municipalit%C3%A9s_-_btv1b53085142b.jpg",
+      "retrieval": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Plan_routier_de_la_ville_et_fauxbourgs_de_Paris%2C_divis%C3%A9_en_12_municipalit%C3%A9s_-_btv1b53085142b.jpg",
+        "bytes": 20677802,
+        "dimensions_px": [
+          10153,
+          6951
+        ],
+        "sha256": "a83a9f3a2c092e1831f7841c157e71dd8badfac1c793d9008b15aaf30ca0a3fc"
+      },
+      "printed_publication_year": 1815,
+      "printed_publisher": "Jean",
+      "printed_address": "Rue Saint-Jean-de-Beauvais no10",
+      "full_image_inspection": "Reduced-resolution overview only",
+      "original_resolution_details": {
+        "title": [
+          8150,
+          150,
+          10050,
+          1450
+        ],
+        "champ": [
+          400,
+          3900,
+          2400,
+          5800
+        ],
+        "key": [
+          8200,
+          5500,
+          10050,
+          6770
+        ]
+      },
+      "crop_coordinate_system": "Original image pixels;left,top,right,bottom",
+      "cartographic_observations": {
+        "archives_complex": "Quadrangular withfour open courts beside river end ofChamp-de-Mars",
+        "avenue_label": "Bourdonnaye",
+        "opposite_palace_label": "projeté",
+        "barracks_on_other_flank": true,
+        "selected_bank_depiction": "Continuous mainland riverfront, no separate island channel drawn in selected area"
+      },
+      "scale": {
+        "S373_label": "200 toises",
+        "physical_dimensions_measured": false
+      },
+      "mapmaker": null,
+      "survey_date": null,
+      "exact_match_to_Bordier_reference": null,
+      "complete_building_verified": false,
+      "modern_registration": false
+    }
+  ],
+  "source_independence_established": false,
+  "spatial_comparison": "Broadplacement consistent withS371intendedcorner; noexactparcelregistration",
+  "executed_footprint_authenticated": false,
+  "sediment_date": null,
+  "full_legend_transcription": false,
+  "retrieval_limits": [
+    "DirectGallicaIIIFsecurityblock; no bypass",
+    "Commonscopies openly acquired withnormalTLS",
+    "S373catalog initiallymissingcheck-character producedemptycontent; corrected identifier fromCommons andreadinstitutionalnotice"
+  ],
+  "next_targets": [
+    "IdentifyBordierexactedition",
+    "Originalsurveyedparcelplan",
+    "Datedconstructionexecutionrecords",
+    "Registerstablecontrolpointswithuncertainty"
+  ]
+}

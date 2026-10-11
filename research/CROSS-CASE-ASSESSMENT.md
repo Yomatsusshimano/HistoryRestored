@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Two map candidates and planning-symbol limits
+
+S372/S373originalJean1815maps inspected: Archivesfour-court diagrams besideChamp-de-Mars andavenueBourdonnaye, withproposedpalace controls. Two matchingpublicationcandidates preventuniqueBordiereditionjoin; sharedpublisher notindependent survey. Noexecutedfootprint orpierregistration.28drafts/373sources; all twenty objectives active. See [map comparison](JEAN-1815-PALACE-MAPS.md).
+
 ### 2026-10-11 — Reported executed height and unresolved abandonment stages
 
 Original Bordier1855selected scans report approximately2m above-ground palace work and early1816completeabandonment; intendedOrsay/Bourdonnaiscorner and1815Jeanmap provide spatial lead. Printedprogram variant andOCRdate correction preserved. Noauthenticatedworksquantities orpierjoin.28drafts/371sources; all twenty objectives active. See [works report audit](ARCHIVES-BORDIER-1855.md).

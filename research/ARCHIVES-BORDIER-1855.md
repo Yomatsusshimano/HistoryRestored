@@ -27,3 +27,5 @@ Section IV on pp392–393 is headed **21 March 1812** and repeats the broad loca
 Two textual controls matter. The downloaded OCR misreads the decree heading as **1813**; the original printed scan reads **1812**. On p393 article 2 visibly prints **Les palais**, whereas the [1844 quotation](ARCHIVES-PROGRAM-1844.md) reads **Les plans**. Preserve that variant without deciding its author, correctness or motive. Agreement on the other specifications does not establish independent textual lineage.
 
 Next retrieve the named 1815 Jean map and original administrative works records. Test the proposed corner against the undated terrain plan and later excavations, and locate records that distinguish ceremony, commencement, interruption, final abandonment and demolition. Actual executed dimensions, reused materials, foundation association and sediment dates remain unknown. All twenty objectives remain active.
+
+Follow-up: [two original Jean1815maps](JEAN-1815-PALACE-MAPS.md) now inspected as candidates. Both fit the abbreviated publisher/year/address reference; exact edition and survey/execution status remain unverified.

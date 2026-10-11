@@ -6326,6 +6326,52 @@
           "hash_scope": "Complete429page delivered PDF;13102843bytes"
         }
       ]
+    },
+    {
+      "id": "S372",
+      "title": "Jean1815 Plan de la ville de Paris et de ses environs, divided into twelve mairies andforty-eight quartiers",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb407088375",
+      "creator": "Jean, printed publisher; mapmaker unverified",
+      "publication_date": "1815",
+      "source_type": "Historical printed city map containing project information",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "BnFcatalog andCommonsdescription; complete reduced-resolution overview; selected original-resolution details: title, champ, scale, palace, quay, project. Original1815publisher/address checked.",
+      "limitations": "Selected details only; remaining annotations nottranscribed. IntendedArchivesdiagram notcertifiedexecution. ExactBordieredition, surveydate, plateancestry, dimensions, modernregistration andtowerpierjoin unverified. SharedJeanpublisher/local schemes notindependentsurveys. DirectGallicaIIIFblocked; publicCommonscopy inspected.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Plan_de_la_ville_de_Paris_et_de_ses_environs%2C_divis%C3%A9_en_douze_mairies_et_quarante-huit_quartiers..._-_btv1b53085143s.jpg",
+          "sha256": "c574deb463e8eced2c9fe4e9258b799879ecac228130542814289650ba2db7ce",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete unchangedCommonsJPEG attributed toBnF;60490275bytes"
+        }
+      ],
+      "rights": "Commons Public Domain Mark; source Bibliothèque nationale de France, département Cartes et plans; image linked and hashed, not mirrored in repository"
+    },
+    {
+      "id": "S373",
+      "title": "Jean1815 Plan routier de la ville et fauxbourgs de Paris, divided into twelve municipalités",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb40708838h",
+      "creator": "Jean, printed publisher; mapmaker unverified",
+      "publication_date": "1815",
+      "source_type": "Historical printed city map containing project information",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "BnFcatalog andCommonsdescription; complete reduced-resolution overview; selected original-resolution details: title, champ, key. Original1815publisher/address checked.",
+      "limitations": "Selected details only; remaining annotations nottranscribed. IntendedArchivesdiagram notcertifiedexecution. ExactBordieredition, surveydate, plateancestry, dimensions, modernregistration andtowerpierjoin unverified. SharedJeanpublisher/local schemes notindependentsurveys. DirectGallicaIIIFblocked; publicCommonscopy inspected.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Plan_routier_de_la_ville_et_fauxbourgs_de_Paris%2C_divis%C3%A9_en_12_municipalit%C3%A9s_-_btv1b53085142b.jpg",
+          "sha256": "a83a9f3a2c092e1831f7841c157e71dd8badfac1c793d9008b15aaf30ca0a3fc",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete unchangedCommonsJPEG attributed toBnF;20677802bytes"
+        }
+      ],
+      "rights": "Commons Public Domain Mark; source Bibliothèque nationale de France, département Cartes et plans; image linked and hashed, not mirrored in repository"
     }
   ]
 }
