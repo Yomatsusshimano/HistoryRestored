@@ -2674,10 +2674,10 @@
       "url": "https://pubs.usgs.gov/bul/1661/report.pdf",
       "source_type": "original stratigraphic report",
       "access": "SCAN_INSPECTED",
-      "inspected": "Printed pp.11,14,16 / PDF pp.19,22,24 visually inspected, including Figure 9 and Figures 11-12. Selected surrounding stratigraphy text read via extraction.",
-      "limitations": "Partial inspection of 48-page PDF. Full bed correlations, foldout plates, raw counts and cited regional chronology not independently audited. Annuality argument is conditional; reported counts include interpretive and estimated components.",
+      "inspected": "Printed pp.11,14,16 / PDF pp.19,22,24 visually inspected, including Figure 9 and Figures 11-12. Selected surrounding stratigraphy text read via extraction. Follow-up: printedp37/PDF45 original outlet-age argument visually inspected; original foldout plates2/3 acquired, overview inspected and Plate3lower borehole2/legend examined at higher resolution. Generalized composite, probable basal bedrock/questioned buttress unconformity, altitude-control and partial-recovery cautions checked. No full bed-by-bed plate audit. Printedp6/PDF14 visually inspected for465m outlet and separately interpreted lake levels.",
+      "limitations": "Partial report and selected foldout inspection. Early outlet age is an inference from predicted flood-bed response to lake level, not a direct bedrock-excavation date. Known-section completeness, flood forcing, basal hiatus and bed correlations remain uncertain. Altitudes use local control estimates; partial core recovery can leave exact material altitude unknown. No independent field/core verification or hydraulic reproduction; earlier varve counts retain interpretive/estimated components.",
       "local_copy": null,
-      "accessed_date": "2026-10-08",
+      "accessed_date": "2026-10-11",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
@@ -2685,6 +2685,20 @@
           "sha256": "4c11a6ae2618f743b0e1f759868521dc1db2a30256c7606595aece6cc10089f5",
           "retrieved_date": "2026-10-08",
           "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://pubs.usgs.gov/bul/1661/plate-2.pdf",
+          "sha256": "d5bfece57d94ddb938f19e73ed7ead86aa787b575d358741c3dc2a0c7453d1af",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": true,
+          "locator": "Original foldout plate2; selected portions inspected"
+        },
+        {
+          "url": "https://pubs.usgs.gov/bul/1661/plate-3.pdf",
+          "sha256": "2fe4a3eec6eda642e6c9e28b92aa6e7effdc74f0c6110c85c1bdadf9bed515e3",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": true,
+          "locator": "Original foldout plate3; selected portions inspected"
         }
       ]
     },

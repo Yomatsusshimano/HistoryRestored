@@ -100,3 +100,5 @@ Latest divide follow-up: [modern terrain and original control labels](research/L
 Historical-map follow-up: [Babcock editions and datum audit](research/BABCOCK-QUAD-DATUM.md). Candidate maps identify a contour-interval/source-match gap; original field edition and a justified vertical comparison remain unresolved.
 
 2026-10-11 follow-up: [field-control meaning and outlet-history alternatives](research/MISSOULA-CONTROL-SEMANTICS.md). General noncrossing rules do not authenticate row45field evidence. Keep rock excavation, ice blockage and event timing distinct; the source explicitly retains a routing/stratigraphy conflict.
+
+2026-10-11 original-record follow-up: [Sanpoil outlet inference and foldout controls](research/SANPOIL-OUTLET-INFERENCE.md). Early-incision argument is conditional on sediment response and known-section completeness; original plates preserve basal and recovery qualifications.

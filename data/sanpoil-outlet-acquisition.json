@@ -1,0 +1,28 @@
+{
+  "source_id": "S163",
+  "acquired_date": "2026-10-11",
+  "files": [
+    {
+      "path": "sources/originals/missoula/sanpoil-1986/plate-2.pdf",
+      "bytes": 6243543,
+      "sha256": "d5bfece57d94ddb938f19e73ed7ead86aa787b575d358741c3dc2a0c7453d1af",
+      "url": "https://pubs.usgs.gov/bul/1661/plate-2.pdf",
+      "source_id": "S163"
+    },
+    {
+      "path": "sources/originals/missoula/sanpoil-1986/plate-3.pdf",
+      "bytes": 5004950,
+      "sha256": "2fe4a3eec6eda642e6c9e28b92aa6e7effdc74f0c6110c85c1bdadf9bed515e3",
+      "url": "https://pubs.usgs.gov/bul/1661/plate-3.pdf",
+      "source_id": "S163"
+    }
+  ],
+  "report_pdf": {
+    "url": "https://pubs.usgs.gov/bul/1661/report.pdf",
+    "sha256": "4c11a6ae2618f743b0e1f759868521dc1db2a30256c7606595aece6cc10089f5",
+    "bytes": 48742138,
+    "redistributed": false
+  },
+  "inspection": "Originalp37 and selected Plate2B/Plate3borehole2lowerpart/legend; not full bed correlation audit",
+  "attribution": "Brian F.Atwater (1986), USGS Bulletin1661, DOI10.3133/b1661. Original U.S.Geological Survey foldout PDFs unchanged."
+}

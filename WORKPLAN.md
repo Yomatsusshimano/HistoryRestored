@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Original outlet-age inference and foldout controls
+
+Original S163p37bases early incision on expected lake-level effects and thick/coarse lowest known beds, not direct excavation dating. Plates2/3now preserved; probable basal bedrock, questioned unconformity and partial-recovery/elevation cautions retained.465m historical outlet and later approximate470m remain distinct.28drafts/339sources; all twenty objectives active. See [original-evidence audit](research/SANPOIL-OUTLET-INFERENCE.md).
+
 ### 2026-10-11 — Control meaning and unresolved outlet history
 
 Expanded original S27methods distinguish geomorphic upper bounds from direct stage measurements; row45specific field evidence remains unacquired. S29p268explicitly retains incision-versus-routing conflict, with rock/ice outlet alternatives requiring separate tests. Source count28drafts/339sources unchanged; all twenty objectives active. See [control/outlet audit](research/MISSOULA-CONTROL-SEMANTICS.md).

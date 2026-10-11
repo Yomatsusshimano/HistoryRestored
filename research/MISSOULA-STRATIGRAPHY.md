@@ -37,3 +37,5 @@ Figure 9 (p.14) compares F-8, F-9 and V-9 across four localities, including late
 Retain the reported repeated-deposition interpretation while testing its timescale separately. Independent seasonal indicators, additional chronological controls, and the paleomagnetic record are next discriminators; repeating the same varve-derived chronology cannot independently validate annuality.
 
 The [magnetic-evidence audit](SANPOIL-MAGNETIC-EVIDENCE.md) adds Steele's reported multi-section declination trend while separating later magnetic-property measurements from inherited duration estimates. Full numerical reproduction remains pending.
+
+2026-10-11 original-record follow-up: [Sanpoil outlet inference and foldout controls](SANPOIL-OUTLET-INFERENCE.md). Early-incision argument is conditional on sediment response and known-section completeness; original plates preserve basal and recovery qualifications.

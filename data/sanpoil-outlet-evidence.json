@@ -1,0 +1,58 @@
+{
+  "source_id": "S163",
+  "case_id": "C008",
+  "record_date": "2026-10-11",
+  "independent_review": false,
+  "observations": [
+    {
+      "locator": "Reportp37; plates2B/3",
+      "role": "REPORTED_OBSERVATION",
+      "statement": "Lowest known flood beds in borehole2 at approximately395-405m are described as thick/coarse and potentially deeply erosive.",
+      "flood_id": null,
+      "observation_date": null
+    },
+    {
+      "locator": "Plate3 borehole2base and legend",
+      "role": "SOURCE_QUALIFIER",
+      "statement": "Probable bedrock designation and question mark on basal buttress unconformity; completeness below known sequence not established."
+    },
+    {
+      "locator": "Plate3legend",
+      "role": "SOURCE_METHOD",
+      "statement": "Old Manila Creek Road altitude estimated466.5m from1:2400map with1.5m contour interval, prepared from1978aerialphotographs. Partial recovery may leave exact recovered-material altitude unknown.",
+      "vertical_datum": null,
+      "statistical_elevation_uncertainty_m": null
+    }
+  ],
+  "reasoning": {
+    "prediction": "High lake with rock/ice-blocked outlet should yield thinner/finer/more conformable beds than low lake with open outlet.",
+    "source_inference": "Deeply cut outlet likely preceded deposition of known Manila Creek section; broader pre-last-glacial conclusion conditional on section chronology/completeness.",
+    "direct_excavation_date": null,
+    "alternative_controls_not_quantified": [
+      "Flood hydrograph and sediment load",
+      "Density-current routing and local bathymetry",
+      "Erosion and preservation of earlier beds",
+      "Core recovery and section correlation"
+    ]
+  },
+  "height_roles": [
+    {
+      "value_m": 465,
+      "locator": "Reportp6",
+      "role": "Present outlet altitude used in1986interpretation",
+      "vertical_datum": null
+    },
+    {
+      "value_m": 470,
+      "locator": "S29p268",
+      "role": "Later approximate outlet altitude; distinct source",
+      "vertical_datum": null
+    }
+  ],
+  "prohibited_inferences": [
+    "No measured5m uplift from465/470source values",
+    "No direct bedrock excavation age",
+    "No universal absence of earlier flooding",
+    "No executed sediment/hydraulic model"
+  ]
+}
