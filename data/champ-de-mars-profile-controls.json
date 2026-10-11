@@ -1,0 +1,69 @@
+{
+  "source_id": "S357",
+  "status": "SOURCED_DRAFT",
+  "accessed_date": "2026-10-11",
+  "publication_date": null,
+  "bound_volume_years_from_catalog": [
+    1886,
+    1887
+  ],
+  "plate_issue_dates_authenticated": false,
+  "retrievals": [
+    {
+      "view": 104,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE16.1/0104",
+      "image_url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0104.P.0.2409.1568.gif",
+      "sha256": "f45c23779942aa59a5207152f5195875c8e5b991354c2f84b7fe4f2035e28d17",
+      "byte_length": 369377,
+      "visually_inspected": true,
+      "public_mirror": false
+    },
+    {
+      "view": 142,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE16.1/0142",
+      "image_url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0142.P.0.1568.1205.gif",
+      "sha256": "835b7a988cf85637908f5e3b629f7cc24abb1f8668fbf9dcea47f50c6a3201b2",
+      "byte_length": 63670,
+      "visually_inspected": true,
+      "public_mirror": false
+    }
+  ],
+  "profile": {
+    "view": 104,
+    "title": "Coupe longitudinale du Champ de Mars et du square",
+    "heading_location": "Approximately50m upstream of Champ-de-Mars axis",
+    "offset_m_approx": 50,
+    "reported_soundings_attribution": "M. Eiffel, for study of300mtower foundations",
+    "selected_borehole_ids_visually_checked": [
+      20,
+      22,
+      24
+    ],
+    "all_ids_transcribed": false,
+    "horizontal_scale_label": "0,0011 par Mètre",
+    "vertical_scale_label": "0,0055 par Mètre",
+    "nominal_vertical_exaggeration": "5",
+    "scan_distortion_calibrated": false,
+    "complete_elevation_transcription": false,
+    "layer_contacts_digitized": false,
+    "coordinates": null,
+    "section_endpoints": null,
+    "vertical_datum": null,
+    "original_numbered_logs_acquired": false,
+    "S356_general_pits_joined": false,
+    "S355_fragment_pits_joined": false,
+    "event_horizon_authenticated": false,
+    "event_date": null
+  },
+  "sewer_plate": {
+    "view": 142,
+    "title": "Nivellement général & réseau d’égouts",
+    "observed_format": "Two dimensioned sewer cross sections with construction note",
+    "route_map": false,
+    "as_built_authentication": false,
+    "tender_reference": "Bottom directs reader to official adjudication clauses and conditions",
+    "S355_200m_relocation_joined": false
+  },
+  "adjacent_page_inspection": "View141printed7x8surveyed; view143blank. Neither authenticates profile/view104issue date. No source date inferred from adjacency.",
+  "interpretation_limits": "Compiler-correlated boundaries not continuous sampling; nominal scale ratio not calibrated pixel-to-ground registration. No deposit age inferred."
+}

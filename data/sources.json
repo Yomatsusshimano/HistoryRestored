@@ -5852,6 +5852,32 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S357",
+      "title": "Bulletin officiel de l’exposition universelle de1889, selected longitudinal profile and sewer-section plates, bound1886–1887volume",
+      "url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE16.1/0104",
+      "creator": "Bulletin officiel; profile attributes foundation soundings to M. Eiffel; Cnum/Cnam institutional digitization",
+      "source_type": "Contemporary engineering plates, selected original scans",
+      "access": "SCAN_INSPECTED",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original views104and142visually inspected, profile heading/central labels magnified. Printed50moffset and unequal scales checked. Sewerplate format is crosssections, not route map.",
+      "limitations": "Exactissue/investigationdatesunverified. Numberedlogs, coordinates, endpoints, datum, calibratedscan and full elevations unacquired/untranscribed. No exactjoin toS355objects orS356pits. Sewer specification not asbuilt confirmation. Same Eiffel/administration reporting context not independentfieldvalidation.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0104.P.0.2409.1568.gif",
+          "sha256": "f45c23779942aa59a5207152f5195875c8e5b991354c2f84b7fe4f2035e28d17",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0142.P.0.1568.1205.gif",
+          "sha256": "835b7a988cf85637908f5e3b629f7cc24abb1f8668fbf9dcea47f50c6a3201b2",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Original profile controls](research/CHAMP-DE-MARS-PROFILE-CONTROLS.md): borehole identifiers, section offset and unequal drawing scales.
+
 - [Picard groundwork audit](research/CHAMP-DE-MARS-PICARD-GROUNDWORK.md): earlier exhibition debris, quarrying, grading and missing pit controls.
 
 - [1887 exhibition excavation](research/CHAMP-DE-MARS-EXCAVATION-1887.md): reported buried remains, sewer works and unresolved site/stratigraphy.
