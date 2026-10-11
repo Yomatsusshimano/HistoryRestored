@@ -178,3 +178,5 @@ Material follow-up: [reported iron tests and named factory acceptance](research/
 Supplier retrieval update: [Orsay ARO19811268 correspondence](research/EIFFEL-SUPPLIER-CORRESPONDENCE.md), an exact contract/order target with original contents still uninspected.
 
 Reddit site follow-up: [Shelbyville identity and vault repair records](research/SHELBYVILLE-STOREFRONT-IDENTITY.md).
+
+Vault follow-up: [recovered Shelbyville engineer report](research/SHELBYVILLE-VAULT-ENGINEER-REPORT.md).

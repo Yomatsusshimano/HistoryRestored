@@ -33,3 +33,7 @@ PDF1's Main Street panel describes a photograph looking west in the 1860s and fo
 Obtain the original photograph and its capture date, then match its facade and excavation to a specific parcel. Retrieve the Sit n Sip engineer's evaluation, council resolution and streetscape site records. Compare dated basement/vault plans, rear and front access elevations, historic street grades and soil profiles. Keep designed basement access, later deliberate filling, demolition debris, subsidence and natural deposition as separate testable explanations until the same fabric and deposit are linked to dated evidence.
 
 The Reddit image link failed retrieval; a native thread request returned a small access shell rather than the photograph or comments. No access restriction was bypassed. No commenter or third party was contacted. No original image, sediment sample, deposit age, measured thickness or execution diary was acquired. All twenty original objectives remain active.
+
+## Follow-up on 2026-10-11
+
+The report uninspected in the initial batch above has now been recovered in S386 and visually inspected in full as a seven-page scan. It identifies 212 E Main, leaving the 216-address relationship unresolved. Recommendations remain distinct from execution. See [recovered engineer report](SHELBYVILLE-VAULT-ENGINEER-REPORT.md).

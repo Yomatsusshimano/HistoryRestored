@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Recovered Shelbyville structural report
+
+Recovered the complete seven-page Civil Design report dated 12 February 2020: built sidewalk vault, damage assessment and recommended staged filling. Report identifies 212 E Main; Sit n Sip record identifies 216. Address/photo join and original grade chronology remain open. 30 drafts / 386 sources; no independent review. See [engineer-report audit](research/SHELBYVILLE-VAULT-ENGINEER-REPORT.md).
+
 ### 2026-10-11 — Shelbyville identity and vault records
 
 Reddit Shelbyville follow-up yielded a candidate business at 216 E Main and February 2020 vault-repair correspondence. Separate 222 Main flowable-fill planning is not execution evidence or the same parcel. Original image, measured depth and deposit age remain unverified. 30 drafts / 385 sources; no independent review. See [Shelbyville controls](research/SHELBYVILLE-STOREFRONT-IDENTITY.md).

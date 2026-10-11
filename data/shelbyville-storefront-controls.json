@@ -55,9 +55,11 @@
         69
       ],
       "reported_condition": "Partial vault-wall collapse and engineer repair recommendation",
-      "engineer_report_inspected": false,
+      "engineer_report_inspected": true,
       "resolution_or_vote_inspected": false,
-      "historic_construction_date": null
+      "historic_construction_date": null,
+      "engineer_report_address": "212 E Main Street",
+      "report_to_business_address_join_authenticated": false
     },
     "222_Main_St": {
       "source_id": "S385",
@@ -129,5 +131,6 @@
     "S385 third-party scan; original city export and authenticity not independently established",
     "Engineer attachment, adopted resolution and execution diaries not inspected",
     "Historic brochure source photographs and fire records not acquired"
-  ]
+  ],
+  "followup_engineer_source_id": "S386"
 }

@@ -36,3 +36,7 @@ Project 17/PDF22 describes removing existing basement walls, reinforcing pillars
 ## Next work
 
 Prioritize exact building identification for Logan and Shelbyville, while obtaining Swan Tavern feature records and the original Holsinger photograph. Compare designed basement access, deliberate grade changes, demolition fill, subsidence and natural deposition on the same parcel and layer. Retain source dependencies and uncertainty in every comparison. No common event date or global reconstruction follows from this lead batch; all twenty objectives remain active.
+
+### R004 follow-up, 2026-10-11
+
+[Recovered engineer report](SHELBYVILLE-VAULT-ENGINEER-REPORT.md) documents constructed sidewalk vault and recommended filling. Its 212 E Main address differs from the 216 business record; original photograph and historic grade dates remain open.

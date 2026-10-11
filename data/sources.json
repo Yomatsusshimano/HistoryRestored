@@ -6618,6 +6618,28 @@
           "hash_scope": "Complete delivered PDF; 96 pages / 2910720 bytes"
         }
       ]
+    },
+    {
+      "id": "S386",
+      "title": "Shelbyville clerk correspondence packet: Civil Design vault report dated 12 February 2020",
+      "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-City-Clerk-part-6.pdf",
+      "creator": "Civil Design, Inc.; Tyler Ziegler, P.E., S.E.; Shelbyville correspondence, public copy hosted by Edgar County Watchdogs",
+      "publication_date": null,
+      "source_type": "Public copy of contemporary engineering report and correspondence",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF9 and PDF11–17 visually inspected: attachment header and complete seven-page report including photos. PDF10 text only; PDF18–19 boundary inspection only, unrelated contents not adopted. Whole packet searched for navigation, not read.",
+      "limitations": "Third-party scan, not original consultant file/email export. Report dated 2020-02-12, fieldwork 2020-02-11; packet publication unknown. Report 212 E Main differs from S384 216 E Main; join unresolved. Background grade-history account lacks dated documentary/survey support. Approximate plan dimensions not burial depth; 18-inch fill lifts are recommendations, not deposit or execution evidence. Dark photos limit detail; exact Reddit image absent.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-City-Clerk-part-6.pdf",
+          "sha256": "c9516f0a4639bf26997a5bae58c721c45ce12e90532eebec349970bafc21c46a",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered PDF; 137 pages / 8389329 bytes"
+        }
+      ]
     }
   ]
 }

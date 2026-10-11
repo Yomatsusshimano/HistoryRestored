@@ -66,7 +66,7 @@
       "place": "Shelbyville,Illinois,as identified by poster",
       "source_id": "S377",
       "claim": "Storefront11feet below current shops",
-      "status": "CANDIDATE_IDENTITY_AND_VAULT_RECORDS",
+      "status": "ENGINEER_REPORT_INSPECTED_ADDRESS_JOIN_OPEN",
       "building_address": null,
       "reported_depth_ft": 11,
       "depth_authenticated": false,
@@ -74,16 +74,18 @@
         "Original image and authenticated parcel match",
         "Measured depth and datum",
         "Original floor function and construction date",
-        "Engineer attachment and adopted resolution",
+        "Adopted resolution and authenticated original consultant file",
         "Execution diary and actual fill quantities",
-        "Deposit profile, sample identity and age"
+        "Deposit profile, sample identity and age",
+        "212/216 address relationship"
       ],
       "case_id": "C030",
       "followup_source_ids": [
         "S382",
         "S383",
         "S384",
-        "S385"
+        "S385",
+        "S386"
       ],
       "candidate_business": "Sit n Sip",
       "candidate_address": "216 E Main Street, Shelbyville, Illinois",

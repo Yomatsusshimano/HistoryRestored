@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "source_id": "S386",
+  "retrieval": {
+    "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-City-Clerk-part-6.pdf",
+    "bytes": 8389329,
+    "pages": 137,
+    "sha256": "c9516f0a4639bf26997a5bae58c721c45ce12e90532eebec349970bafc21c46a"
+  },
+  "inspection": {
+    "visually_inspected_pdf_pages": [
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "text_only_pdf_pages": [
+      10
+    ],
+    "boundary_only_pdf_pages": [
+      18,
+      19
+    ],
+    "entire_packet_read": false,
+    "report_printed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "report_complete_scanned_sequence_inspected": true,
+    "embedded_attachment_names": []
+  },
+  "document": {
+    "title": "Structural Vault Investigation Report – 212 E. Main St., Shelbyville, IL 62565",
+    "creator": "Civil Design, Inc.",
+    "signer": "Tyler Ziegler, P.E., S.E.",
+    "date": "2020-02-12",
+    "reported_field_inspection": "2020-02-11",
+    "email_attachment_header_date": "2020-02-13",
+    "email_attachment_name": "Shelbyville Vault Investigation.pdf",
+    "packet_publication_date": null,
+    "original_email_export_authenticated": false,
+    "separate_consultant_file_acquired": false
+  },
+  "identity": {
+    "report_address": "212 E Main Street",
+    "S384_business_address": "216 E Main Street",
+    "address_relationship_authenticated": false,
+    "exact_Reddit_image_match": false
+  },
+  "source_reported_geometry": {
+    "locator": "Printed1–2/PDF11–12",
+    "plan_length_ft_approx": 28,
+    "plan_width_ft_approx": 12,
+    "beam_spacing_ft_approx": 4,
+    "sidewalk_thickness_inches_approx": 4,
+    "measured_height": null,
+    "burial_depth": null,
+    "vertical_datum": null,
+    "basis": "Approximate report description; report states design information unavailable"
+  },
+  "source_condition": {
+    "locator": "Printed2/PDF12",
+    "bay_count": 7,
+    "apparently_intact_arch_bays": [
+      1,
+      2,
+      7
+    ],
+    "collapsed_or_lost_arch_bays": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "doorway_header": "Reported sagging",
+    "street_wall": "Reported partial collapse"
+  },
+  "historic_background": {
+    "locator": "Printed1/PDF11",
+    "claim": "Original nearby property-front grade at basement base, later buildup to basement top through individual vault construction",
+    "historic_citations_supplied": false,
+    "dated_grade_records_inspected": false,
+    "historic_elevation_survey_inspected": false,
+    "event_date": null
+  },
+  "recommendations": {
+    "locator": "Printed3/PDF13",
+    "doorway": "Brace, pour footer, block and seal",
+    "fill": "Flowable fill in recommended maximum 18-inch lifts; roadway void treatment",
+    "maximum_lift_inches": 18,
+    "completion_diary_inspected": false,
+    "actual_fill_volume": null,
+    "executed_date": null
+  },
+  "limits": [
+    "Third-party public copy, not separately authenticated original file",
+    "Dark/degraded photographs limit independent detail reading",
+    "Contemporary engineering condition assessment not documentary verification of historic grade account",
+    "Plan dimensions and recommended lift thickness not burial depth or natural sediment thickness",
+    "212/216 identifier mismatch and original Reddit image unresolved",
+    "222 Main June planning remains separate; no execution assumed"
+  ]
+}
