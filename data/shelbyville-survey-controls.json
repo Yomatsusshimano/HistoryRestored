@@ -1,0 +1,1264 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "outreach_performed": false,
+  "provenance": [
+    "Official HARGIS page links app d62706e883184d41b9707e4a457533f0",
+    "App advertises web map76ebf2b4f4874d23aa047e8f985f4add",
+    "Web map advertises Surveyed Properties layer",
+    "Schema has PDF relationship1/table1 and Photo relationship0/table2; hasAttachments false",
+    "Related-table URLs used directly, no auth or write calls"
+  ],
+  "retrievals": [
+    {
+      "url": "https://maps.dnr.illinois.gov/portal/sharing/rest/content/items/d62706e883184d41b9707e4a457533f0/data?f=json",
+      "sha256": "c8d29fc4bb8b9ff59169ffb7d25b0c2b11ea381d876694c372fa5814a7a580ec",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Public application configuration; map item selected; complete delivered 420128 bytes"
+    },
+    {
+      "url": "https://maps.dnr.illinois.gov/portal/sharing/rest/content/items/76ebf2b4f4874d23aa047e8f985f4add/data?f=json",
+      "sha256": "c44d877413d39847d043c1181a524241b1fdbac29ed6962603c6bb094f6b66d0",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Public web map; layer and selected popup relationship definitions; complete delivered 56923 bytes"
+    },
+    {
+      "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0?f=pjson",
+      "sha256": "6300de89744a1f39687b59bf89ffd06f3d8a1372991ff9ed4add0df2ddf76c79",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Layer fields, relationships and capabilities inspected; complete delivered 55410 bytes"
+    },
+    {
+      "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/query",
+      "sha256": "f486a44ac9c838d39125c7be573b4653ba03cd2d4bc6ec72157d0acafa71a4ef",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "POST response; exact parameters in ledger; complete delivered 23311 bytes"
+    },
+    {
+      "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/query",
+      "sha256": "ef3093b1efe5c089b3840ade5580d802ec808bc86f1a5eba6b4364fc54e10c8b",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "POST response; exact parameters in ledger; complete delivered 3648 bytes"
+    },
+    {
+      "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/queryRelatedRecords",
+      "sha256": "5a9b1622fe36c6f97cc77b3aa045f134d02d175b5041b935a845c07f43030b1f",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "POST response; exact parameters in ledger; complete delivered 960 bytes"
+    },
+    {
+      "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/queryRelatedRecords",
+      "sha256": "1acab353b3dd00aa018673320a9aa5e8949cb19e95167be7f2bc7beb55800573",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "POST response; exact parameters in ledger; complete delivered 1985 bytes"
+    }
+  ],
+  "queries": [
+    {
+      "file": "hargis-shelby-main-detail.json",
+      "endpoint": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/query",
+      "parameters": {
+        "f": "json",
+        "where": "UPPER(City) = 'SHELBYVILLE' AND UPPER(StreetName) LIKE '%MAIN%'",
+        "outFields": "OBJECTID,REFNUM,SignificantName,StreetNumber,StreetPrefix,StreetName,StreetSuffix,StreetType,City,County,BeginYear,EndYear,YearModifier,SurveyType,SurveyDate,PhotoNegative,Notes,HistoricInformationSource,Architect,Builder",
+        "returnGeometry": "true",
+        "outSR": "4326"
+      },
+      "count": 37
+    },
+    {
+      "file": "hargis-shelby-target-query.json",
+      "endpoint": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/query",
+      "parameters": {
+        "f": "json",
+        "where": "UPPER(City) = 'SHELBYVILLE' AND UPPER(StreetName) LIKE '%MAIN%' AND (StreetNumber = '212' OR StreetNumber = '216' OR StreetNumber = '220')",
+        "outFields": "OBJECTID,REFNUM,SignificantName,StreetNumber,StreetPrefix,StreetName,StreetSuffix,StreetType,City,County,BeginYear,EndYear,YearModifier,SurveyType,SurveyDate,PhotoNegative,Notes,HistoricInformationSource,Architect,Builder",
+        "returnGeometry": "true",
+        "outSR": "4326"
+      },
+      "count": 1
+    },
+    {
+      "file": "hargis-shelby-related-pdf.json",
+      "endpoint": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/queryRelatedRecords",
+      "parameters": {
+        "f": "json",
+        "objectIds": "78355,78442,78498,78500",
+        "relationshipId": "1",
+        "outFields": "*",
+        "returnGeometry": "false"
+      }
+    },
+    {
+      "file": "hargis-shelby-related-photo.json",
+      "endpoint": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/queryRelatedRecords",
+      "parameters": {
+        "f": "json",
+        "objectIds": "78355,78442,78498,78500",
+        "relationshipId": "0",
+        "outFields": "*",
+        "returnGeometry": "false"
+      }
+    }
+  ],
+  "records": [
+    {
+      "attributes": {
+        "OBJECTID": 9974,
+        "REFNUM": "302012",
+        "SignificantName": "Tallman House Site",
+        "StreetNumber": null,
+        "StreetPrefix": null,
+        "StreetName": "Main",
+        "StreetSuffix": null,
+        "StreetType": null,
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": -3786825600000,
+        "EndYear": -3786825600000,
+        "YearModifier": "Circa",
+        "SurveyType": "SHPO Landmarks",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": null,
+        "Builder": null
+      },
+      "geometry": {
+        "x": -88.79040292104415,
+        "y": 39.40666436335776
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10192,
+        "REFNUM": "302032",
+        "SignificantName": "First Free Public School Site",
+        "StreetNumber": null,
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": null,
+        "StreetType": null,
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": null,
+        "SurveyType": "SHPO Landmarks",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": null,
+        "Builder": null
+      },
+      "geometry": {
+        "x": -88.8156303163546,
+        "y": 39.40572959000806
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10204,
+        "REFNUM": "302050",
+        "SignificantName": "Eighth Judicial Circuit Court House (Shelby) Marker",
+        "StreetNumber": null,
+        "StreetPrefix": null,
+        "StreetName": "Main",
+        "StreetSuffix": null,
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": null,
+        "SurveyType": "SHPO Landmarks",
+        "SurveyDate": "Mar-74",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": null,
+        "Builder": null
+      },
+      "geometry": {
+        "x": -88.7909328399252,
+        "y": 39.40669241369427
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10205,
+        "REFNUM": "302051",
+        "SignificantName": "Lincoln Markers",
+        "StreetNumber": null,
+        "StreetPrefix": null,
+        "StreetName": "Main",
+        "StreetSuffix": null,
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": null,
+        "SurveyType": "SHPO Landmarks",
+        "SurveyDate": "Mar-74",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": null,
+        "Builder": null
+      },
+      "geometry": {
+        "x": -88.79057688429049,
+        "y": 39.40670406471781
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 56496,
+        "REFNUM": "302039",
+        "SignificantName": "Luck, Mrs. Peter, Home",
+        "StreetNumber": "326",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "<Null>",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "Circa",
+        "SurveyType": "SHPO Landmarks",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.7969655157416,
+        "y": 39.40660526070029
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 56509,
+        "REFNUM": "302015",
+        "SignificantName": "Western Auto Supply & Waggoners Shoe Store",
+        "StreetNumber": "141",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "<Null>",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Landmarks",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79284698001408,
+        "y": 39.40695904229281
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78338,
+        "REFNUM": "109297",
+        "SignificantName": "Shelby County Courthouse",
+        "StreetNumber": "301",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "Circa",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "Placey, Otis H.",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79072443077928,
+        "y": 39.4069693509037
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78339,
+        "REFNUM": "109299",
+        "SignificantName": "<Null>",
+        "StreetNumber": "105",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "Circa",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79349129665161,
+        "y": 39.40692408934417
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78340,
+        "REFNUM": "109300",
+        "SignificantName": "Civil War Monument",
+        "StreetNumber": "300",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "Circa",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.7903127822919,
+        "y": 39.40664433324645
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78341,
+        "REFNUM": "109301",
+        "SignificantName": "Conn, S.W.,House",
+        "StreetNumber": "302",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "Circa",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "Conn, S.W."
+      },
+      "geometry": {
+        "x": -88.79614165462482,
+        "y": 39.406412499801775
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78353,
+        "REFNUM": "109373",
+        "SignificantName": "Homrighous, Ervin, House",
+        "StreetNumber": "318",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "Circa",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "Haydon Bros. Contractors"
+      },
+      "geometry": {
+        "x": -88.79682662362224,
+        "y": 39.4064097761747
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78355,
+        "REFNUM": "109381",
+        "SignificantName": "Lantz Bros. Building",
+        "StreetNumber": "222",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "Circa",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79155080178892,
+        "y": 39.406528421132094
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78442,
+        "REFNUM": "109298",
+        "SignificantName": "<Null>",
+        "StreetNumber": "218",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79168217141608,
+        "y": 39.40664363776598
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78490,
+        "REFNUM": "109370",
+        "SignificantName": "<Null>",
+        "StreetNumber": "806",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.80261181267953,
+        "y": 39.40631971179106
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78491,
+        "REFNUM": "109371",
+        "SignificantName": "<Null>",
+        "StreetNumber": "710",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.80135670722579,
+        "y": 39.40634770812677
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78492,
+        "REFNUM": "109372",
+        "SignificantName": "<Null>",
+        "StreetNumber": "412",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79820481084629,
+        "y": 39.406589658190086
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78493,
+        "REFNUM": "109374",
+        "SignificantName": "<Null>",
+        "StreetNumber": "311",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79693189988532,
+        "y": 39.40684982520196
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78494,
+        "REFNUM": "109375",
+        "SignificantName": "<Null>",
+        "StreetNumber": "308",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79644457731844,
+        "y": 39.40643496278047
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78495,
+        "REFNUM": "109376",
+        "SignificantName": "Dove, T. F., House",
+        "StreetNumber": "305",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79651439797559,
+        "y": 39.40692681295116
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78496,
+        "REFNUM": "109377",
+        "SignificantName": "First Methodist Church",
+        "StreetNumber": "201",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79496853481382,
+        "y": 39.40673230521941
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78497,
+        "REFNUM": "109378",
+        "SignificantName": "First National Bank",
+        "StreetNumber": "152",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.7925408727928,
+        "y": 39.406438776828715
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78498,
+        "REFNUM": "109380",
+        "SignificantName": "<Null>",
+        "StreetNumber": "211",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79183571685432,
+        "y": 39.40675970794165
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78499,
+        "REFNUM": "109379",
+        "SignificantName": "<Null>",
+        "StreetNumber": "201",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.7920299469918,
+        "y": 39.406761568105765
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78500,
+        "REFNUM": "109382",
+        "SignificantName": "<Null>",
+        "StreetNumber": "232",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79130062008397,
+        "y": 39.40664012080042
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78607,
+        "REFNUM": "109510",
+        "SignificantName": "<Null>",
+        "StreetNumber": "816",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.80317214402449,
+        "y": 39.40626942108466
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78609,
+        "REFNUM": "109511",
+        "SignificantName": "<Null>",
+        "StreetNumber": "811",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.80282085783266,
+        "y": 39.40678000385666
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78610,
+        "REFNUM": "109512",
+        "SignificantName": "<Null>",
+        "StreetNumber": "702",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.80093828274624,
+        "y": 39.40637398517812
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78611,
+        "REFNUM": "109514",
+        "SignificantName": "<Null>",
+        "StreetNumber": "503",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79903240536134,
+        "y": 39.40683607874404
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78612,
+        "REFNUM": "109513",
+        "SignificantName": "<Null>",
+        "StreetNumber": "610",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.80021475715851,
+        "y": 39.40623186978771
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78613,
+        "REFNUM": "109515",
+        "SignificantName": "Main Street Grade School",
+        "StreetNumber": "229",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79552270820756,
+        "y": 39.40673119606138
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78614,
+        "REFNUM": "109516",
+        "SignificantName": "<Null>",
+        "StreetNumber": "221",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79544496081634,
+        "y": 39.406731352231944
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78615,
+        "REFNUM": "109517",
+        "SignificantName": "<Null>",
+        "StreetNumber": "109",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79352581800966,
+        "y": 39.40675364574965
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78616,
+        "REFNUM": "109518",
+        "SignificantName": "<Null>",
+        "StreetNumber": "118",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.7932126823696,
+        "y": 39.40646094689118
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78617,
+        "REFNUM": "109519",
+        "SignificantName": "<Null>",
+        "StreetNumber": "128",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79323803731849,
+        "y": 39.40664081281043
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78618,
+        "REFNUM": "109520",
+        "SignificantName": "<Null>",
+        "StreetNumber": "132",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79290154637938,
+        "y": 39.40638806628079
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78622,
+        "REFNUM": "109521",
+        "SignificantName": "<Null>",
+        "StreetNumber": "155",
+        "StreetPrefix": "E.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79248965894014,
+        "y": 39.40691675490036
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78663,
+        "REFNUM": "109570",
+        "SignificantName": "<Null>",
+        "StreetNumber": "220",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79538177870914,
+        "y": 39.40661688675108
+      }
+    }
+  ],
+  "exact_number_query_records": [
+    {
+      "attributes": {
+        "OBJECTID": 78663,
+        "REFNUM": "109570",
+        "SignificantName": "<Null>",
+        "StreetNumber": "220",
+        "StreetPrefix": "W.",
+        "StreetName": "Main",
+        "StreetSuffix": "<Null>",
+        "StreetType": "St.",
+        "City": "Shelbyville",
+        "County": "Shelby",
+        "BeginYear": null,
+        "EndYear": null,
+        "YearModifier": "<Null>",
+        "SurveyType": "SHPO Structures",
+        "SurveyDate": "1971-1975",
+        "PhotoNegative": null,
+        "Notes": null,
+        "HistoricInformationSource": null,
+        "Architect": "<Null>",
+        "Builder": "<Null>"
+      },
+      "geometry": {
+        "x": -88.79538177870914,
+        "y": 39.40661688675108
+      }
+    }
+  ],
+  "scope_limits": [
+    "Delivered37-record Main query is not complete archival census",
+    "No returned212/216 number; absence does not mean original cards/buildings absent",
+    "220 record is W.Main, not E.Main",
+    "Current GIS points not certified parcel survey",
+    "Null year fields not proof of no construction date in linked documents",
+    "SurveyDate1971-1975 not an individually authenticated photo date"
+  ],
+  "Lantz_form": {
+    "source_id": "S396",
+    "retrieval": {
+      "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/6895eee79ce849ab8230606703f270be/data",
+      "sha256": "b6d04dc979d9455436e94bf7b640d9f776f5f02779aa8e55f36624714c045ad3",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Three-page scan visually inspected; complete delivered 115335 bytes"
+    },
+    "pages_visually_inspected": [
+      1,
+      2,
+      3
+    ],
+    "reference": "109381",
+    "inventory_notation": "SH-H-35",
+    "address": "222 E Main",
+    "reported_building_year": 1893,
+    "reported_business_origin_year": 1855,
+    "preparer": "Beulah Knecht",
+    "preparation_date": null,
+    "clipped_text": "Right edge of part of commercial-functions statement on PDF2; no reconstruction",
+    "bibliography_limit": "Printed bibliography is a completion example, not a claim-specific building citation",
+    "historical_construction_documents_verified": false,
+    "modern_212_vault_association": false,
+    "1893_map_being_built_consistency": "Candidate chronology consistency only; no registered parcel/fabric join"
+  },
+  "photos": [
+    {
+      "reference": "109298",
+      "catalog_filename": "Shelby_15658.jpg",
+      "dimensions": [
+        333,
+        500
+      ],
+      "capture_date": null,
+      "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/f69bfc6ed08f4e2cbe1425ed53e63620/data",
+      "sha256": "3169386f9e7f68217661d18f5061013edb9ccc8401473b82e44571683d2e8a43",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete delivered JPEG, visually inspected; complete delivered 83595 bytes"
+    },
+    {
+      "reference": "109381",
+      "catalog_filename": "Shelby_15657.jpg",
+      "dimensions": [
+        333,
+        500
+      ],
+      "capture_date": null,
+      "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/0bf4836ce13949eaae35d6740b2a935b/data",
+      "sha256": "8749ce4df06d3d7a4bbefb5b3069f27b41a0ffdb36bd0391d3b333b4d8351c0a",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete delivered JPEG, visually inspected; complete delivered 75933 bytes"
+    },
+    {
+      "reference": "109381",
+      "catalog_filename": "Shelby_22422.jpg",
+      "dimensions": [
+        773,
+        471
+      ],
+      "capture_date": null,
+      "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/cc4c766df12c4dafb0fd85f5413c26ef/data",
+      "sha256": "5d1483e2b1658ae48bc1b65dee5c3c8304aed61e24fe5989410ffd0e066cf159",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete delivered JPEG, visually inspected; complete delivered 121132 bytes"
+    }
+  ],
+  "unacquired_photo_refs": [
+    "109380",
+    "109382"
+  ],
+  "photo_limits": [
+    "Capture dates and authors unknown in inspected records",
+    "Related-table attribution not certified address survey",
+    "No exact match to Reddit photo or 2020 vault facade adopted",
+    "No vault exposure, deposit or vertical datum measured"
+  ],
+  "prior_source_recheck": {
+    "source_id": "S386",
+    "locator": "PDF11/printed1 facade and subject address",
+    "scope": "Re-rendered and visually checked; no new construction or photo-match claim"
+  }
+}

@@ -6874,6 +6874,120 @@
           "hash_scope": "94-page packet; selected inspection only; complete delivered 105152123 bytes"
         }
       ]
+    },
+    {
+      "id": "S395",
+      "title": "HARGIS Shelbyville Main Street: selected survey records and relationships",
+      "url": "https://dnrhistoric.illinois.gov/preserve/hargis.html",
+      "creator": "Illinois State Historic Preservation Office; public hosted survey layer",
+      "publication_date": null,
+      "source_type": "Current institutional survey catalog and public query records",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Official page, public application/map provenance, actual layer fields and relationships, 37 Main Street records, exact-number query and related-table links inspected.",
+      "limitations": "Original cards for 212/216 remain unacquired. This is not a complete archival census or certified parcel mapping. No 212/216 record returned; no general absence claim. Selected neighbours have blank year fields; the survey range does not authenticate photo dates.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://maps.dnr.illinois.gov/portal/sharing/rest/content/items/d62706e883184d41b9707e4a457533f0/data?f=json",
+          "sha256": "c8d29fc4bb8b9ff59169ffb7d25b0c2b11ea381d876694c372fa5814a7a580ec",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Public application configuration; map item selected; complete delivered 420128 bytes"
+        },
+        {
+          "url": "https://maps.dnr.illinois.gov/portal/sharing/rest/content/items/76ebf2b4f4874d23aa047e8f985f4add/data?f=json",
+          "sha256": "c44d877413d39847d043c1181a524241b1fdbac29ed6962603c6bb094f6b66d0",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Public web map; layer and selected popup relationship definitions; complete delivered 56923 bytes"
+        },
+        {
+          "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0?f=pjson",
+          "sha256": "6300de89744a1f39687b59bf89ffd06f3d8a1372991ff9ed4add0df2ddf76c79",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Layer fields, relationships and capabilities inspected; complete delivered 55410 bytes"
+        },
+        {
+          "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/query",
+          "sha256": "f486a44ac9c838d39125c7be573b4653ba03cd2d4bc6ec72157d0acafa71a4ef",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "POST response; exact parameters in ledger; complete delivered 23311 bytes"
+        },
+        {
+          "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/query",
+          "sha256": "ef3093b1efe5c089b3840ade5580d802ec808bc86f1a5eba6b4364fc54e10c8b",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "POST response; exact parameters in ledger; complete delivered 3648 bytes"
+        },
+        {
+          "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/queryRelatedRecords",
+          "sha256": "5a9b1622fe36c6f97cc77b3aa045f134d02d175b5041b935a845c07f43030b1f",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "POST response; exact parameters in ledger; complete delivered 960 bytes"
+        },
+        {
+          "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0/queryRelatedRecords",
+          "sha256": "1acab353b3dd00aa018673320a9aa5e8949cb19e95167be7f2bc7beb55800573",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "POST response; exact parameters in ledger; complete delivered 1985 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S396",
+      "title": "Lantz Brothers Building, 222 E Main: original survey form",
+      "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/6895eee79ce849ab8230606703f270be/data",
+      "creator": "Beulah Knecht; Illinois Historic Sites Survey Inventory; hosted by IDNR",
+      "publication_date": null,
+      "source_type": "Original three-page survey scan",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "All three pages rendered and visually inspected: identity/address on page 1, reported dates/preparer on page 2, degraded photograph on page 3.",
+      "limitations": "Preparation date blank. Reported 1893 construction and 1855 business origin are not backed by original construction documents here and do not date the 212 vault. Part of the statement is clipped; no reconstruction. Bibliography is a generic example. Original-site/unaltered checkboxes are not independent proof of unchanged fabric.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/6895eee79ce849ab8230606703f270be/data",
+          "sha256": "b6d04dc979d9455436e94bf7b640d9f776f5f02779aa8e55f36624714c045ad3",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Three-page scan visually inspected; complete delivered 115335 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S397",
+      "title": "HARGIS linked photographs: 218 and 222 E Main",
+      "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/Properties_EDIT_v13_View-Surveyed/FeatureServer/0",
+      "creator": "Photographers unidentified in inspected records; IDNR HARGIS photo catalog",
+      "publication_date": null,
+      "source_type": "Three original linked survey-image deliveries",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Visually inspected Shelby_15658.jpg linked to 109298/218 E Main and Shelby_15657.jpg and Shelby_22422.jpg linked to 109381/222 E Main.",
+      "limitations": "Capture dates and photographers unknown. Related-table attribution is not certified parcel registration. No exact match to the 212 vault or Reddit facade adopted. Images share catalog lineage; a PDF photo reproduction and its JPEG are not independent historical witnesses.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/f69bfc6ed08f4e2cbe1425ed53e63620/data",
+          "sha256": "3169386f9e7f68217661d18f5061013edb9ccc8401473b82e44571683d2e8a43",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered JPEG, visually inspected; complete delivered 83595 bytes"
+        },
+        {
+          "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/0bf4836ce13949eaae35d6740b2a935b/data",
+          "sha256": "8749ce4df06d3d7a4bbefb5b3069f27b41a0ffdb36bd0391d3b333b4d8351c0a",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered JPEG, visually inspected; complete delivered 75933 bytes"
+        },
+        {
+          "url": "https://idnr.maps.arcgis.com/sharing/rest/content/items/cc4c766df12c4dafb0fd85f5413c26ef/data",
+          "sha256": "5d1483e2b1658ae48bc1b65dee5c3c8304aed61e24fe5989410ffd0e066cf159",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered JPEG, visually inspected; complete delivered 121132 bytes"
+        }
+      ]
     }
   ]
 }

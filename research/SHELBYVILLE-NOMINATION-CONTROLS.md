@@ -36,3 +36,7 @@ PDF pages 18/20 show Main Street views; pages 19/21 are their caption backs. The
 ## What changes next
 
 The missing nomination is recovered, and its bibliography and earlier survey dates now identify specific record families to pursue. PDF page 1 names the Illinois Historic Structures Survey (October 1973) and Historic Landmarks Survey (July 1974). Parcel-specific survey cards, original deeds and dated photographs are better next targets than treating this selected district narrative as a complete building inventory. Original grade profiles, the Reddit photograph and a dated physical deposit remain missing. All twenty objectives remain active.
+
+## Survey follow-up, 2026-10-11
+
+[Public HARGIS relationships](SHELBYVILLE-SURVEY-CONTROLS.md) deliver an original form for neighbouring 222 E Main and photographs linked to 218/222 E Main. Target 212/216 cards remain unacquired. The reported 1893 building date and 1855 business origin are separate claims for 222. Photo dates remain unknown.

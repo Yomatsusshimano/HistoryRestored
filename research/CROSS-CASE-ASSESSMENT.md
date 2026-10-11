@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Original neighbouring survey and facade controls
+
+Recovered the 222 E Main Lantz survey and three facade photographs linked to 218/222 E Main. The survey reports an 1893 building date and an 1855 business origin; neither dates the 212 vault. Photo capture dates remain unknown. The HARGIS Main Street query returned no 212/216 record, which does not establish archival absence. 30 drafts / 397 sources; no independent review. See [survey controls](SHELBYVILLE-SURVEY-CONTROLS.md).
+
 ### 2026-10-11 — Recovered nomination and survey leads
 
 Recovered the original district nomination through National Archives: selected31-site list, survey maps and May1976 Main Street photos inspected. No individual212/216 construction date or quantitative grade/deposit evidence established; earlier1973/1974 survey cards are next targets. 30 drafts / 394 sources, no independent review. See [nomination controls](SHELBYVILLE-NOMINATION-CONTROLS.md).

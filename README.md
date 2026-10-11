@@ -188,3 +188,5 @@ Map sequence: [Shelbyville1886/1893/1933original block comparison](research/SHEL
 County records: [Shelbyville modern parcel controls](research/SHELBYVILLE-PARCEL-CONTROLS.md).
 
 Historic district record: [recovered Shelbyville nomination controls](research/SHELBYVILLE-NOMINATION-CONTROLS.md).
+
+State survey follow-up: [Shelbyville neighbour records and facade controls](research/SHELBYVILLE-SURVEY-CONTROLS.md).
