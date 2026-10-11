@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Original1890 statistical report](research/EIFFEL-1890-STATISTICAL-REPORT.md): printed arithmetic conflicts and limits on financial corroboration.
+
 - [Operating-receipt audit](research/EIFFEL-OPERATING-RECEIPTS.md): reconciled receipt scopes, expense subtraction and limits on repayment claims.
 
 - [Company capital audit](research/EIFFEL-COMPANY-CAPITAL.md): operating-rights contribution, cash subscriptions and unresolved incorporation dates.

@@ -1,0 +1,116 @@
+{
+  "source_id": "S351",
+  "status": "SOURCED_DRAFT",
+  "accessed_date": "2026-10-11",
+  "retrieval": {
+    "url": "https://www.numdam.org/item/JSFS_1890__31__79_0.pdf",
+    "sha256": "9a0a191e98404a6c65d93980b2b1bd3763aafd8c7f8d05bb4fdf56304c9ac150",
+    "byte_length": 2087548,
+    "pdf_pages": 19,
+    "visually_inspected_pdf_pages": [
+      1,
+      2,
+      11,
+      12
+    ],
+    "visually_inspected_original_printed_pages": [
+      79,
+      88,
+      89
+    ],
+    "public_mirror": false
+  },
+  "publication_year": 1890,
+  "exact_publication_date": null,
+  "communication_day_month_reported": "19 November",
+  "communication_year": null,
+  "cost_rows": [
+    {
+      "label": "Terrassements et maçonneries",
+      "francs": "592425.54",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Construction métallique",
+      "francs": "5398307.25",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Charpentes en bois",
+      "francs": "193760.51",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Couverture, plomberie, zinc",
+      "francs": "236682.74",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Carrelage et parquetage",
+      "francs": "78591.04",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Menuiserie",
+      "francs": "34345.86",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Vitrerie",
+      "francs": "182242.67",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Ornementation en staff",
+      "francs": "256141.50",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Peinture",
+      "francs": "158547.40",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Imprévu et régie; sommes à valoir",
+      "francs": "190227.66",
+      "locator": "Printed89 / PDF12"
+    },
+    {
+      "label": "Frais agence",
+      "francs": "192822.52",
+      "locator": "Printed89 / PDF12"
+    }
+  ],
+  "reported": {
+    "cost_francs": "7514094.69",
+    "initial_estimate_francs": "7233384",
+    "increase_francs": "280716",
+    "nominal_capital_francs": "5500000",
+    "capital_shares": 10100,
+    "share_face_francs": "500",
+    "founder_titles": 10100,
+    "combined_titles": 20200,
+    "approximate_market_quote_francs": "400",
+    "combined_market_value_francs": "8200000",
+    "founder_value_francs": "4400000",
+    "gross_receipts_francs": "6459584.20",
+    "receipts_period_label": "15 May–5 November"
+  },
+  "calculations": {
+    "cost_row_sum": "7514094.69",
+    "cost_row_sum_matches_print": true,
+    "estimate_increase_calculated": "280710.69",
+    "printed_increase_excess": "5.31",
+    "capital_calculated": 5050000,
+    "printed_capital_excess": 450000,
+    "combined_market_value_at_400": 8080000,
+    "printed_combined_value_excess": 120000,
+    "founder_value_at_400": 4040000,
+    "printed_founder_value_excess": 360000,
+    "S17_receipt_summary_minus_S351": "64263.20"
+  },
+  "underlying_administration_document_acquired": false,
+  "de_foville_cited_original_acquired": false,
+  "payment_records_acquired": false,
+  "comparison_limits": "Cost and receipt scopes not joined; administration/company disclosure dependence unresolved; no inference of fraud, missing money or actual repayment."
+}

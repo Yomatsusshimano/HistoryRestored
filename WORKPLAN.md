@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Near-contemporary financial arithmetic conflicts
+
+S351 original1890article p89 confirms eleven cost entries sum7,514,094.69francs, while printed capital and market operands conflict internally. Receipt periods/scopes and administration source remain unjoined; no fraud or repayment inference.28 drafts /351 sources; all twenty objectives active. See [original report audit](research/EIFFEL-1890-STATISTICAL-REPORT.md).
+
 ### 2026-10-11 — Operating receipt scope reconciled
 
 Expanded S17 original pp228-231: six operating-receipt categories reconcile to6,523,847.40francs; board difference explained by cash subscriptions and exhibition share. Expense subtraction reproduced; no original transactions, all-row expense audit or authenticated profit/repayment.28 drafts /350 sources; all twenty objectives active. See [receipt audit](research/EIFFEL-OPERATING-RECEIPTS.md).

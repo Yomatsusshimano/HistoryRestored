@@ -5701,6 +5701,27 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S351",
+      "title": "Ce que la France a gagné à l’exposition de 1889, Journal de la société statistique de Paris31(1890), pp79–96",
+      "url": "https://www.numdam.org/item/JSFS_1890__31__79_0.pdf",
+      "creator": "Alfred Neymarck; Société de statistique de Paris; digitization NUMDAM",
+      "source_type": "Near-contemporary statistical article, selected original scans",
+      "access": "SCAN_INSPECTED",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Digital wrapper and original printed79,88,89 visually inspected. Eleven tower cost rows and capital/market operands checked on original p89. Hosted publication year1890; exact publication and communication year unknown.",
+      "limitations": "Other pages not visually audited. Administration-supplied cost document and de Foville January publication unacquired. Internal arithmetic conflicts retained; accounting scope and disclosure dependence unjoined. No banking/payment or repayment validation.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.numdam.org/item/JSFS_1890__31__79_0.pdf",
+          "sha256": "9a0a191e98404a6c65d93980b2b1bd3763aafd8c7f8d05bb4fdf56304c9ac150",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }
