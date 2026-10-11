@@ -28,7 +28,8 @@
     "S437",
     "S438",
     "S439",
-    "S440"
+    "S440",
+    "S441"
   ],
   "retrievals": [
     {
@@ -937,5 +938,46 @@
     "terrain_source_crosswalk_complete": false,
     "sediment_transport_model": false,
     "catastrophe_model": false
+  },
+  "west_washington_building_sequence_control": {
+    "source_id": "S441",
+    "property": "415 West Washington",
+    "locators": [
+      "PDF14",
+      "PDF15",
+      "PDF16",
+      "PDF32"
+    ],
+    "reproduced_photo_dates": [
+      {
+        "locator": "PDF15 upper",
+        "caption_date": "1924-10-28",
+        "visible_annotation": "10-28-24",
+        "authentication_status": "REPRODUCTION_ONLY"
+      },
+      {
+        "locator": "PDF15 lower",
+        "caption_date": "1925-01-10",
+        "visible_annotation": "1/10/25",
+        "authentication_status": "REPRODUCTION_ONLY"
+      },
+      {
+        "locator": "PDF16 upper",
+        "caption_interval": [
+          1925,
+          1926
+        ],
+        "visible_annotation": null,
+        "authentication_status": "CAPTION_ONLY"
+      }
+    ],
+    "new_construction_visible": true,
+    "retained_fabric_interpretation": "Report describes partial olderwall/machineshop reuse duringadditions",
+    "older_builders_identified": false,
+    "original_photo_accessions": null,
+    "foundation_coring_performed": false,
+    "deposit_thickness": null,
+    "creek_construction_date_verified": false,
+    "schlenker_property_join": false
   }
 }

@@ -2141,3 +2141,8 @@ S439February1983engineering plan selectedscans inspected: reports1925main,1927Mu
 ### 2026-10-11 — Reported original-plan custody and model provenance
 
 S4402012FIS selectedscans inspected: reports county custody/use of1925Dodgeplans and1993repairplans. Originaldrawings stillunretrieved. Equivalent hydraulicchannel and railroaddiversion separated fromobservedstrata; reach-specific terrain/surveycrosswalk unresolved. NAVD88countyaverageoffset isreferenceconversion,notupheaval; cannotfillmissingwellelevations. [Model input gates](research/ALLEN-CREEK-HYDRAULIC-INPUTS.md).31drafts/440sources; physicalmodel,chronology and independentreviewgates remainopen; alltwentyobjectivesactive.
+
+
+### 2026-10-11 — Washington construction sequence and older-origin limits
+
+S4412013architecturalassessment selectedrenderedpages inspected:1924/1925annotatedphoto reproductions showyard/excavation thensteel-framedaddition; completedexteriorcaption1925–1926. Olderbuildingbuilderunresolved; below-gradepartsnotcored. Photodate-range,record-range andpanoramadate discrepanciespreserved. Partialfabricreuse isreportinterpretation,notlostcivilizationproof. [Buildingsequence](research/WEST-WASHINGTON-BUILDING-SEQUENCE.md).Countywebmaplandingpageaccess yieldednomappedoriginal1925plan; notproofunavailability.31drafts/441sources; alltwentyobjectivesactive.

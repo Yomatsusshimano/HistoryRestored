@@ -8114,6 +8114,31 @@
           "hash_scope": "Complete78-page delivery; selectedPDF1,27,28,31 visually inspected. Font warnings occurred; selected rendered text legible."
         }
       ]
+    },
+    {
+      "id": "S441",
+      "title": "415WestWashington August29,2013historic structure assessment: reproduced construction sequence and unresolved earlier builders",
+      "url": "https://annarborchronicle.com/wp-content/uploads/2014/04/14-095-AskinsRueter-final-report415-W-Washigton.pdf",
+      "creator": "Rueter Associates Architects; reproduced photographs attributed to Washtenaw County Road Commission archives",
+      "publication_date": "2013-08-29",
+      "source_type": "Architectural assessment with historical photo reproductions and retrospective phase interpretation",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1cover,date;PDF14reportedphoto/minuteaccessandolderbuildingoriginlimits;PDF15constructionphotos with10-28-24 and1/10/25 annotations;PDF16completedbuilding andearliermachineshop;PDF32phaseinterpretationandnon-destructivelimits visually inspected. PDF numbers alignprintednumbers for14/15/16/32.",
+      "limitations": "Originalnegatives/accessions/annotationdates not authenticated. Reportinterprets construction andretainedfabric,notindependentlabor/materialaudit. PDF14openingphoto-rangeOctober10,1925 conflicts withPDF15captionOctober28,1924;PDF32mentionsrecordsfrom1924 whereasPDF14minutesaccessstarts1926,possiblydifferentrecordtypes,unresolved. PanoramaPDF14June1940vsPDF32mid1940s attributionconflict. Below-gradefoundationsnotdestructivelyinvestigated. Originaloldergarage/machineshopbuilders unresolved,notprooflostcivilization. WashingtonsiteisnotSchlenker/WestHuronfactory/601Washington. Nosedimentprofile,date,gradechange,creekenclosurecompletionorchronologybreakverified. Copyrightedreport/imageslinkedandhashed,notpubliclymirrored.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://annarborchronicle.com/wp-content/uploads/2014/04/14-095-AskinsRueter-final-report415-W-Washigton.pdf",
+          "bytes": 36167431,
+          "sha256": "93f6ea6b5f58fdb04302d379d7d277251f820ce8474893ce85e7d0faa1796710",
+          "pages": 102,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete102-page delivery; selectedPDF1/14/15/16/32 visually inspected. Otherpagespartiallytextsearched,notfullyreviewed.",
+          "access_note": "Webreaderfailed;normalpublicdownloadworked.Pypdfobjectoffsetwarningsandgarbledembeddedfonttext;selectedrenderedpageslegible."
+        }
+      ]
     }
   ]
 }
