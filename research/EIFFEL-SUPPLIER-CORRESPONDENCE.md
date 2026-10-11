@@ -13,3 +13,5 @@ This advances the supplier investigation beyond generic searches and the later G
 The next inspection should preserve each sheet and reverse, distinguish sender/recipient/docket dates, and extract stock dimensions, quantity units, price, specification, delivery schedule, signatures and batch references. Those fields must then be joined to acceptance/dispatch and workshop-use records. Blank fields remain unknown.
 
 Museum catalog text was accessed through the web tool. A separate normal shell request for the artist index returned a security block; no bypass was attempted. The accessed item text supplies no manuscript images, and zero original-letter images were acquired. This bounded access result does not prove that digitization is absent or consultation impossible. No museum contact, purchase, physical inspection or goal completion is claimed.
+
+Supplier-side follow-up: the [42 J fonds route](POMPEY-42J-ARCHIVAL-ROUTE.md) identifies an 1889 factory booklet and plan indices; no original supplier item has yet been inspected.

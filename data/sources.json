@@ -5394,6 +5394,28 @@
       "inspected": "Item104566 title/date/inventory/dimensions, holding/provenance/acquisition, two bibliographic references and modification field read through web tool. August-September1886and27April1887 catalog dates; ARO19811268.",
       "limitations": "No manuscript image/text, document count, batch identifier, order quantity, receipt or payment inspected. Family provenance and dates remain catalog assertions. Bibliographic pages unacquired. Web index/item are same catalog family, not independent witnesses. Separate shell index fetch security-blocked.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S342",
+      "title": "Acieries de Pompey 42 J (1817-1982): provisional methodological finding aid, December 2011",
+      "url": "https://archives.meurthe-et-moselle.fr/sites/default/files/Contenu/Guide/042_J%20_Pompey_rep-methodique_v-publ.pdf",
+      "creator": "Archives departementales de Meurthe-et-Moselle",
+      "source_type": "Holding institution archival finding aid",
+      "publication_date": "2011-12",
+      "access": "SCAN_INSPECTED",
+      "local_copy": null,
+      "accessed_date": "2026-10-11",
+      "inspected": "75-page PDF acquired. Title and printed pages 5, 6, 22 and 30 visually inspected; full text extracted for navigation. Custody history and selected booklet/order/plan-register entries checked.",
+      "limitations": "Finding aid only; zero underlying archival items inspected. Group dates not individual volume dates; plan numbers not years. Reported destruction and approximate descriptions do not identify intent. Approximate-description warning concerns items1148-1490. No order quantity, manufacture date, test certificate or dispatch authenticated.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://archives.meurthe-et-moselle.fr/sites/default/files/Contenu/Guide/042_J%20_Pompey_rep-methodique_v-publ.pdf",
+          "sha256": "35b7546f425b55c237cf65d6d25aab67f52cb6f3c5741c18c77d141ab01e8f2d",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }

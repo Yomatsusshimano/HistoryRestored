@@ -1,0 +1,83 @@
+{
+  "source_id": "S342",
+  "source_url": "https://archives.meurthe-et-moselle.fr/sites/default/files/Contenu/Guide/042_J%20_Pompey_rep-methodique_v-publ.pdf",
+  "accessed_date": "2026-10-11",
+  "sha256": "35b7546f425b55c237cf65d6d25aab67f52cb6f3c5741c18c77d141ab01e8f2d",
+  "byte_length": 278627,
+  "pdf_pages": 75,
+  "visually_inspected_pdf_pages": [
+    1,
+    5,
+    6,
+    22,
+    30
+  ],
+  "underlying_items_inspected": 0,
+  "public_mirror": false,
+  "targets": [
+    {
+      "reference": "42 J 51",
+      "page": 30,
+      "reported_year": 1889,
+      "reported_pages": 32,
+      "description": "Les Forges de Pompey Fould-Dupont, historique",
+      "original_acquired": false
+    },
+    {
+      "reference": "42 J 275*",
+      "page": 30,
+      "reported_group_years": [
+        1871,
+        1955
+      ],
+      "classification": "A0 1 to Z 1",
+      "original_acquired": false
+    },
+    {
+      "reference": "42 J 276-279",
+      "page": 30,
+      "reported_group_years": [
+        1871,
+        1967
+      ],
+      "individual_volume_years": null,
+      "plan_number_ranges": [
+        [
+          1,
+          19886
+        ],
+        [
+          19887,
+          34941
+        ],
+        [
+          34942,
+          51246
+        ],
+        [
+          51247,
+          57166
+        ]
+      ],
+      "original_acquired": false
+    },
+    {
+      "reference": "42 J 332*",
+      "page": 22,
+      "reported_years": [
+        1894,
+        1915
+      ],
+      "description": "Order index, books1-15",
+      "covers_original_tower_order_period": false,
+      "original_acquired": false
+    }
+  ],
+  "limits": [
+    "Finding-aid metadata only",
+    "Plan numbers are not years",
+    "Group date coverage does not date individual volumes",
+    "No batch, quantity, dispatch or newly manufactured material authenticated",
+    "Archive loss does not establish motive"
+  ]
+}

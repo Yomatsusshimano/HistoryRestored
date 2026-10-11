@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Pompey supplier fonds and preservation limits
+
+S342 official 42 J finding aid identifies an 1889 factory booklet and plan-register targets spanning construction. The order index begins in 1894; it cannot establish the original tower order. Disordered transfers, selection and destruction constrain absence arguments. Five PDF pages visually inspected; underlying items unacquired. 28 drafts / 342 sources; all twenty objectives remain active. See [archival route](research/POMPEY-42J-ARCHIVAL-ROUTE.md).
+
 ### 2026-10-11 — Exact original supplier-correspondence target
 
 S341 Orsay catalog identifies ARO19811268, item104566, contract/order correspondence dated1886–1887, with specific dates and1983/1989catalog page references. Original sheets unacquired; orders do not establish delivery or new manufacture.28drafts/341sources; all twenty objectives active. See [retrieval route](research/EIFFEL-SUPPLIER-CORRESPONDENCE.md).
