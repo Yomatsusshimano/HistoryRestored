@@ -8090,6 +8090,30 @@
           "hash_scope": "Complete96-page delivery; selectedPDF1,11,12,17,18 visually inspected. Extracted text unavailable with pypdf; no absence inferred from empty extraction."
         }
       ]
+    },
+    {
+      "id": "S440",
+      "title": "Washtenaw County2012Flood Insurance Study:1925plan custody, Allen Creek hydraulic representation and vertical datum",
+      "url": "https://www.a2gov.org/media/lutb3224/flood-insurance-study-washtenaw-co-4-3-2012-vol-1.pdf",
+      "creator": "Federal Emergency Management Agency; contributing engineering studies and surveys",
+      "publication_date": "2012-04-03",
+      "source_type": "Countywide flood-insurance engineering study, volume1 of2, study26161CV001A",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 effective date/title/study number; PDF27/28 printed22/23 survey inputs, reported county custody of1925Dodgeplans, hydraulic model representation/diversion; PDF31 printed26 verticaldatum visually inspected.",
+      "limitations": "Original1925plans not retrieved; report of custody/use is not direct authentication or construction-completion proof. This2012edition is a historical research source, not current flood-risk guidance. Terrain/model descriptions on printed22/23 include different resolutions and survey months without a fully established reach-to-dataset crosswalk. Model files/input geometry not acquired or independently rerun. Modern drainage cannot reconstruct1902without period geometry. No natural sediment layer/date/parcel match. Countyaverage datum conversion is not authenticated conversion for every historic benchmark; missing well elevations cannot be filled using it. Same engineering lineage as earlier studies; no independent scientific review.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.a2gov.org/media/lutb3224/flood-insurance-study-washtenaw-co-4-3-2012-vol-1.pdf",
+          "bytes": 2278708,
+          "sha256": "b206f6eca757246758e67a21e55c1447dcdf6bb60e578c4a3ff11690400f3b35",
+          "pages": 78,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete78-page delivery; selectedPDF1,27,28,31 visually inspected. Font warnings occurred; selected rendered text legible."
+        }
+      ]
     }
   ]
 }

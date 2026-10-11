@@ -2136,3 +2136,8 @@ S438 city GIS collection and three catalog601Washington construction images visu
 ### 2026-10-11 — Drain-specific construction leads and factory creek expense
 
 S439February1983engineering plan selectedscans inspected: reports1925main,1927Murray-Washington/Eberwhite,1928WestPark-Miller, namingDodge/Menefeeplans. Retrospective dates do not resolve existing conflict; next original segment-specificplans/contracts. ExpandedS427PDF5inspection records13.55Augustfactorycreeklabor, year/address/specification unresolved; discontinuous scan pagination limits report context. No1902cleanup attribution or natural layer adopted. [Construction stages](research/ALLEN-CREEK-CONSTRUCTION-STAGES.md).31drafts/439sources; all twenty objectives remain active.
+
+
+### 2026-10-11 — Reported original-plan custody and model provenance
+
+S4402012FIS selectedscans inspected: reports county custody/use of1925Dodgeplans and1993repairplans. Originaldrawings stillunretrieved. Equivalent hydraulicchannel and railroaddiversion separated fromobservedstrata; reach-specific terrain/surveycrosswalk unresolved. NAVD88countyaverageoffset isreferenceconversion,notupheaval; cannotfillmissingwellelevations. [Model input gates](research/ALLEN-CREEK-HYDRAULIC-INPUTS.md).31drafts/440sources; physicalmodel,chronology and independentreviewgates remainopen; alltwentyobjectivesactive.

@@ -27,7 +27,8 @@
     "S436",
     "S437",
     "S438",
-    "S439"
+    "S439",
+    "S440"
   ],
   "retrievals": [
     {
@@ -253,7 +254,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Locate Russell A. Dodge1925main-drain and Menefee/Dodge1927–1928branch plans and contemporary contracts/completion records; compare precise segments. Recover missing report context for factory creek-expense year. CorrectedMW-1/2/3, originalReddit image join and parcel-specific sediment evidence still needed.",
+  "next_test": "Retrieve county-held1925Dodgeplans and1993existing-condition/repairplans; recover model input geometry and map river stations to surveyed coordinates. Establish reach-specific terrain source, vertical datum and period topography before any sediment model. CorrectedMW-1/2/3, originalReddit image join and parcel-specific dated strata remain needed.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -816,7 +817,8 @@
       "S434",
       "S437",
       "S438",
-      "S439"
+      "S439",
+      "S440"
     ],
     "earlier_report_statement": {
       "source_id": "S437",
@@ -872,6 +874,15 @@
       ],
       "original_plans_inspected": false,
       "completion_verified": false
+    },
+    "reported_plan_custody": {
+      "source_id": "S440",
+      "locator": "PDF27/printed22",
+      "plan_preparer": "R.A. Dodge",
+      "plan_year": 1925,
+      "reported_custodian": "Washtenaw County Drain Commissioner",
+      "original_plans_retrieved": false,
+      "construction_completion_verified": false
     }
   },
   "historic_construction_photo_control": {
@@ -902,5 +913,29 @@
     "work_dimensions": null,
     "relation_to_july_1902_flood": null,
     "execution_independently_verified": false
+  },
+  "hydraulic_model_input_control": {
+    "source_id": "S440",
+    "locators": [
+      "PDF27/28 printed22/23",
+      "PDF31 printed26"
+    ],
+    "study_effective_date": "2012-04-03",
+    "modern_flood_risk_use": "NOT_CURRENT_GUIDANCE",
+    "model_input_files_acquired": false,
+    "independent_model_run": false,
+    "modeled_diversion_station_interval": [
+      3184,
+      4288
+    ],
+    "station_coordinates": null,
+    "reported_diversion_route": "WestHuronStreet along railroad embankment to nearCatherineAvenue",
+    "vertical_datum": "NAVD88",
+    "reported_county_average_ngvd29_to_navd88_offset_feet": -0.4,
+    "historic_benchmark_datum_verified": false,
+    "soil_log_elevations_available": false,
+    "terrain_source_crosswalk_complete": false,
+    "sediment_transport_model": false,
+    "catastrophe_model": false
   }
 }
