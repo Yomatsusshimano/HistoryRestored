@@ -2106,3 +2106,8 @@ S431 July11 Argus-Democrat PDF1/4 visually inspected. Monday storm provisionally
 ### 2026-10-11 — R005 property separation and1902 address control
 
 S432 directory title and printed86/292/293 visually inspected; S433 June24,1898 advertisement inspected; S418 printed377 additional biography review. Rug factory target409–421WestHuron, conflicting409–429directory entry retained, earlier409–411advertisement; exact flood-day occupancy/parcel boundaries unknown. Schlenker directory distinguishes116WestLiberty hardware from213residence, not proof of surviving store fabric. [Address controls](research/ALLEN-CREEK-1902-FLOOD-CONTROL.md) prevent transferring reported mud/water between properties. Next acquire maps/parcel and construction records.31drafts/433sources; all twenty objectives active, no independent scientific review.
+
+
+### 2026-10-11 — R005 historical creek/factory map control
+
+S4342013assessment acquired793pages; covers, printed8/28 and1899/1908/1916Sanborn reproductions visually inspected. Factory mapped beside creek before/after1902; same surface channel omitted1916. Report's underground-rerouting interval is interpretation pending execution records.415WestWashington soil context not transferred to factory or Schlenker parcel; no measured mud thickness adopted. [Map controls](research/ALLEN-CREEK-1902-FLOOD-CONTROL.md) published with dependencies and selected-review limits. Next original maps, storm-sewer as-built records and located soil sections.31drafts/434sources; all twenty objectives active, no independent scientific review.

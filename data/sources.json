@@ -7899,6 +7899,31 @@
           "hash_scope": "Complete delivery; PDF2 date header and rug-business advertisement visually inspected. Remaining pages not fully reviewed."
         }
       ]
+    },
+    {
+      "id": "S434",
+      "title": "415 W. Washington2013 Phase I environmental assessment: reproduced Sanborn maps locate Fluff Rug factory and creek",
+      "url": "https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf",
+      "creator": "Tetra Tech for City of Ann Arbor; Environmental Data Resources Sanborn map reproductions",
+      "publication_date": "2013-04-22",
+      "source_type": "Environmental assessment with historical fire-insurance map reproductions",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1/2 report covers; PDF13/printed8 historical map interpretation; PDF33/printed28 physical-setting interpretation; PDF92 Aug1899 Volume1Sheet3, PDF93 Dec1908 Volume1Sheet6, PDF94 June1916 Volume1Sheet10, visually inspected.",
+      "limitations": "793-page compilation only selectively reviewed. Reproduced maps are derivative copies of historical sheets, not independent witnesses or surveyed floor/soil profiles. Maps place named rug factory on south WestHuron beside depicted creek in1899/1908;1916 lacks same surface-channel depiction. Report infers underground rerouting1908–1916; construction/execution date not authenticated. Report subject415WestWashington differs from rug factory; urban-land classification/embankment descriptions cannot be transferred to factory deposit depth. No sampled1902sediment, ground-level change, exact flood-day occupancy, Schlenker fabric match or original Reddit image match established. Restricted/commercial reproduction packet linked and hashed rather than publicly mirrored.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf",
+          "bytes": 65500138,
+          "sha256": "a78c7f660fcbc4375441b4e116cbaf22dc95c1b25662cf2730ba95d92058fccd",
+          "pages": 793,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivery; PDF1/2 covers, PDF13/printed8, PDF33/printed28 and PDF92/93/94 map reproductions visually inspected. Other pages not fully reviewed.",
+          "access_note": "Web reader rejected file size; normal public HTTPS download succeeded. Renderer font warnings occurred; selected pages visually checked."
+        }
+      ]
     }
   ]
 }
