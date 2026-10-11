@@ -5785,6 +5785,27 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S355",
+      "title": "Le Moniteur de l’exposition de1889, issue108,23January1887,p479: two unsigned construction notes",
+      "url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE14.3/0035",
+      "creator": "Le Moniteur de l’exposition de1889; unsigned editorial notes; digitization Cnum/Cnam",
+      "source_type": "Near-contemporary construction periodical, original page scan",
+      "access": "SCAN_INSPECTED",
+      "publication_date": "1887-01-23",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original p479runningheader and two separate middle-column construction notes visually inspected. Whole page surveyed; other articles not audited. Institutional page/view35andGIF acquired normalHTTPS.",
+      "limitations": "Report rather than inspected physical remains. Second note names exhibition works, not tower foundations; unknown pits/depths/objects/date of burial.200msewerlength and Wednesdaystart not independently verified. Other issue pages uninspected.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://cnum.cnam.fr/GIFS/FOLXAE14.3/0035.T.479.1429.1977.gif",
+          "sha256": "6a0c4fe08feefd3d6300199d112db06ce40d854c3fe41588f574a0e9ed148d07",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "source_id": "S355",
+  "status": "SOURCED_DRAFT",
+  "accessed_date": "2026-10-11",
+  "publication_date": "1887-01-23",
+  "issue": 108,
+  "printed_page": 479,
+  "digital_view": 35,
+  "retrieval": {
+    "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE14.3/0035",
+    "image_url": "https://cnum.cnam.fr/GIFS/FOLXAE14.3/0035.T.479.1429.1977.gif",
+    "sha256": "6a0c4fe08feefd3d6300199d112db06ce40d854c3fe41588f574a0e9ed148d07",
+    "byte_length": 268146,
+    "visually_inspected": true,
+    "public_mirror": false
+  },
+  "notes": [
+    {
+      "locator": "Middle column, first unsigned construction note below submission form",
+      "location_scope": "Tower site explicitly named",
+      "reported_sewer_length_m": 200,
+      "length_precision": "Printed integer, not authenticated measurement",
+      "work_assigned_to": "M. Manoury",
+      "commissioned_by": "M. Eiffel",
+      "reported_start_label": "Wednesday morning",
+      "exact_start_date": null,
+      "tower_earthworks": "Reported as about to begin",
+      "actual_work_log_acquired": false
+    },
+    {
+      "locator": "Middle column, separate unsigned note after divider",
+      "location_scope": "Exhibition works and unspecified foundation pits",
+      "tower_pit_identity_established": false,
+      "reported_surface_condition": "Strongly frozen ground",
+      "reported_pit_condition": "Very irregular",
+      "reported_objects": [
+        "Concrete blocks",
+        "Cut-stone blocks",
+        "Retaining walls",
+        "Old Portland-cement conduits"
+      ],
+      "objects_explicitly_called_old": [
+        "Portland-cement conduits"
+      ],
+      "depth_m": null,
+      "coordinates": null,
+      "elevation_m": null,
+      "stratigraphic_unit": null,
+      "material_manufacture_date": null,
+      "deposition_date": null,
+      "retained_specimens_inspected": false
+    }
+  ],
+  "date_error_control": "Earlier search context near9Januaryheader not used; original p479header23January1887 controls publication date",
+  "interpretation_limits": "Documentary report of subsurface remains; neither catastrophe nor ordinary burial mechanism established. No original field plans or surviving archaeological assembly."
+}

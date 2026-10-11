@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [1887 exhibition excavation](research/CHAMP-DE-MARS-EXCAVATION-1887.md): reported buried remains, sewer works and unresolved site/stratigraphy.
+
 - [Full de Foville lecture](research/EIFFEL-DE-FOVILLE-LECTURE.md): original issue date, unfinished construction and summary differences.
 
 - [1890 operating notice](research/EIFFEL-1890-OPERATION-NOTICE.md): participant quotation, editorial repayment inference and original lift-date reading.

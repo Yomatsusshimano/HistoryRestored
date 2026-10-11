@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Buried remains and excavation scope
+
+S355original23January1887p479separates tower sewer relocation from reported concrete/stone/walls/oldconduits in general exhibition pits. Unknown depth, pitidentity and burial date retained; no catastrophe or ordinary burial mechanism established.28 drafts /355 sources; all twenty objectives active. See [excavation audit](CHAMP-DE-MARS-EXCAVATION-1887.md).
+
 ### 2026-10-11 — Full lecture and original issue date
 
 S354full fourteen-page lecture visually inspected:20November1888lecture/15December1888issue, prospective5millioncost and Eiffel-facilitated access. Original15,000m²base differs from summary10,000; S351Januarycitation and institutionalmirror authentication unresolved.28 drafts /354 sources; all twenty objectives active. See [full lecture audit](EIFFEL-DE-FOVILLE-LECTURE.md).
