@@ -40,3 +40,8 @@ Natural flood sediment may underlie later engineered fill. Their relative contri
 Next retrieve the City Auditor books and assessments behind the named reaches, contractor quantities and material sources, then join them to original grade surveys and the identified demolition parcel. This addresses physical feasibility and attribution without assuming either a global catastrophe or that every buried opening has the same cause.
 
 31core sourced drafts/457sources. No independent archive review or common event reconstruction; all twenty objectives remain active.
+
+
+### 2026-10-11 — Sacramento construction-record routes and material controls
+
+[Record-route audit](SACRAMENTO-CONSTRUCTION-RECORD-ROUTES.md) adds S458-S460: selected official guide, original Golden Eagle report pages and Assessor catalog distinguish property rolls from street-work records. Four specific Street Assessment Roll page targets recovered; originals/Auditor crosswalk remain uninspected. S453PDF17 separates farm/riverbed fill dirt from Folsom paving gravel; underlying transport references unacquired. Golden Eagle block and Reddit parcel remain separate.31core drafts/460sources, eight Reddit leads; no independent archive review or global reconstruction. All twenty objectives active.

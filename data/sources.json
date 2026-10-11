@@ -8413,8 +8413,8 @@
       "publication_date": "2010-12",
       "source_type": "Municipal-hosted retrospective district assessment",
       "access": "SCAN_INSPECTED",
-      "inspected": "PDF1/12/16/21 visually inspected; PDF2/3/20 and other selected passages text searched. Complete22-page file acquired.",
-      "limitations": "Retrospective assessment, not original construction logs. Newspaper citation dates disagree; original ordinance uninspected. Horizontal spacing is not deposit thickness. No Reddit-photo parcel join.",
+      "inspected": "PDF1/12/16/17/21 visually inspected; PDF2/3/20 and other selected passages text searched. Complete22-page file acquired. PDF17 material-source/transport prose and footnotes71-72 inspected.",
+      "limitations": "Retrospective assessment, not original construction logs. Newspaper citation dates disagree; original ordinance uninspected. Horizontal spacing is not deposit thickness. No Reddit-photo parcel join. Material-source and transport claims cite uninspected Lagomarsino thesis; paving gravel and street-fill dirt are distinct.",
       "retrievals": [
         {
           "url": "https://sacramento.granicus.com/MetaViewer.php?clip_id=2745&meta_id=369761&view_id=30",
@@ -8497,6 +8497,67 @@
       "access": "SCAN_INSPECTED",
       "inspected": "Archive volume32/number4918 metadata; viewer page1 HIGH GRADE heading/table, eight volume/cost rows, two paving-cost rows and totals visually inspected at magnification. Selected article prose read as OCR only.",
       "limitations": "Original auditor books, issue masthead, quantities method and individual execution dates uninspected. Numeric volume rows differ from printed total by5. OCR confuses K/X,1863/1563 and2,487/2,457. Only selected high-grade table transcribed; other scopes not reconciled. No Reddit parcel/strata join or independent geological validation."
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S458",
+      "title": "Center for Sacramento History researcher resources: property research",
+      "url": "https://www.centerforsacramentohistory.org/content/dam/cityofsacramento/csh/forms/Researcher%20resources%202026%20new.pdf",
+      "creator": "Center for Sacramento History",
+      "publication_date": null,
+      "source_type": "Official archival researcher guide",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Complete6-page PDF acquired; PDF2 visually inspected for property rolls, map books and permit coverage; selected PDF3 text searched.",
+      "limitations": "Filename says2026; exact publication date unverified. Guide describes holdings, not original construction execution or sediment measurements. Map books and original rolls uninspected.",
+      "retrievals": [
+        {
+          "bytes": 178097,
+          "pages": 6,
+          "sha256": "d9f0f616eac3242ebb63d8697f372fc423095f3adde663280e346408e206b6c3",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete PDF; selected page inspection"
+        }
+      ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S459",
+      "title": "Historical Archaeology at the Golden Eagle Site",
+      "url": "https://asc.sonoma.edu/historical-archaeology-golden-eagle-site",
+      "creator": "Mary Praetzellis, Adrian Praetzellis and Marley R. Brown III, editors; Anthropological Studies Center, Sonoma State University",
+      "publication_date": "1980-07",
+      "source_type": "Archaeological excavation report and historical record citations",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Complete compressed528-page PDF acquired through university download link. PDF3 title, PDF5/printedi preface and PDF32-33/printed16-17 citations visually inspected; PDF1-8 contact sheet and PDF12/29 inspected for orientation.",
+      "limitations": "Cover also labels August2010; relation to1980report unresolved. Selected pages only, feature stratigraphy/dating basis not audited. Street Assessment Roll originals, Auditor crosswalk and source independence unverified. Golden Eagle J/K/6/7 block is not authenticated Reddit J/11th parcel.",
+      "retrievals": [
+        {
+          "url": "https://asc.sonoma.edu/sites/default/files/goldeneagle_fullreport-compressed.pdf",
+          "bytes": 33482972,
+          "pages": 528,
+          "sha256": "6a197edd04cdae027356e4635f6dbb11c0a5f60432190d3ce8b4146502d013b4",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete PDF; selected pages visually inspected"
+        }
+      ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S460",
+      "title": "Sacramento City Assessor records, CTY0005: collection finding aid",
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/c85q52wp/",
+      "creator": "Kim Hayden; Center for Sacramento History",
+      "publication_date": null,
+      "source_type": "Institutional archival collection description",
+      "access": "CATALOG_METADATA",
+      "inspected": "Collection summary, property-valuation scope, identifier CTY0005 and arrangement, including special assessments1868-1925. Guide reports2019processing and2025encoding/indexing; originals not inspected.",
+      "limitations": "Finding aid is not construction execution evidence. Special-assessment scope cannot be assigned to1863-1866Auditor entries without record identity. Printable-guide retrieval failed; no complete series-level original inspection."
     }
   ]
 }

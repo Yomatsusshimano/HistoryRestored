@@ -41,3 +41,8 @@ Eight Reddit leads; core archive remains31sourced drafts. Source count454. No co
 ### 2026-10-11 — Sacramento reported execution quantities
 
 [S457quantity audit](SACRAMENTO-1867-FILL-QUANTITIES.md) visually inspects the contemporary high-grade table: eight fill rows sum127242cubic yards versus127247printed; costs reconcile after original-image OCR correction. Original Auditor books/measurement basis and Reddit parcel/strata joins remain open.31core drafts/457sources, no independent archive review; all twenty objectives active.
+
+
+### 2026-10-11 — Sacramento construction-record routes and material controls
+
+[Record-route audit](SACRAMENTO-CONSTRUCTION-RECORD-ROUTES.md) adds S458-S460: selected official guide, original Golden Eagle report pages and Assessor catalog distinguish property rolls from street-work records. Four specific Street Assessment Roll page targets recovered; originals/Auditor crosswalk remain uninspected. S453PDF17 separates farm/riverbed fill dirt from Folsom paving gravel; underlying transport references unacquired. Golden Eagle block and Reddit parcel remain separate.31core drafts/460sources, eight Reddit leads; no independent archive review or global reconstruction. All twenty objectives active.
