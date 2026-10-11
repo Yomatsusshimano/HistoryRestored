@@ -3493,6 +3493,72 @@
         "Historicrestrictioninstrument"
       ],
       "dependence": "Reddit onlyroutes retrieval; report historical sourcesandphotoreproductions not independentauthentication. Sameprojectcounts/summary/soilobservations mustnot be treated as globalreplication."
+    },
+    {
+      "id": "C030",
+      "title": "Shelbyville storefront and Sit n Sip vault identity lead",
+      "category": "buried buildings and repair records",
+      "place": "Shelbyville, Illinois; candidate Sit n Sip at 216 E Main Street",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S377",
+          "locator": "Thread title and selected locality replies",
+          "statement": "Storefront allegedly 11 feet below shops in Shelbyville; no measured depth or original image authenticated."
+        },
+        {
+          "source_id": "S382",
+          "locator": "Title and selected comment beginning Shelbyville native here",
+          "statement": "Title alleges 4–5 metres burial; commenter names Sit n Sip and attributes exposure to sidewalk renovation, with rear lower access. Claims unverified."
+        },
+        {
+          "source_id": "S384",
+          "locator": "PDF1, release header, opening paragraph and Sit n Sip address line",
+          "statement": "Lists Sit n Sip at 216 E Main Street; release header 21 July 2023, reported operation 9 October 2019. Address does not authenticate Reddit image."
+        },
+        {
+          "source_id": "S385",
+          "locator": "PDF68–69, February 11–13 messages; separate PDF6 June 5/8 messages",
+          "statement": "Sit n Sip messages report partial vault-wall collapse and engineer repair recommendation. Separate 222 Main messages discuss planned flowable filling and daily diary records, not execution or 216 E Main."
+        },
+        {
+          "source_id": "S383",
+          "locator": "PDF1 Main Street panel; PDF2 entry D, 200 E Main",
+          "statement": "Brochure describes streetscape fires and fewer upper stories; 200 E Main third-floor loss attributed to 1927 fire. Source history not authenticated for 216 address."
+        }
+      ],
+      "physical_evidence": "No original excavation image, site visit, deposit profile or independent measurement. Inspected scans record reported structural condition, addresses and historical photograph reproductions.",
+      "surviving_documents": "Two Reddit discussions, two-page CityWalk brochure, ILCC address report and selected pages of a 96-page public municipal correspondence copy.",
+      "source_interpretation": "Reddit commenters propose buried city, designed lower access, street changes, flooding or fire. Correspondence reports damaged vault and repair planning, not historic burial cause.",
+      "investigation_inference": "Reddit yielded independently documentable business and a contemporary vault-record target. Exact image/parcel link and original grade history remain unresolved. See research/SHELBYVILLE-STOREFRONT-IDENTITY.md.",
+      "competing_explanations": [
+        "Designed basement or sidewalk vault access",
+        "Deliberate local grading or later filling",
+        "Demolition and rebuilding",
+        "Natural deposition or subsidence if demonstrated"
+      ],
+      "counterevidence": "Contemporary repair planning provides a specific local excavation context. Upper-floor fire loss does not demonstrate lower-floor burial. Different Reddit depths are unmeasured claims rather than replication.",
+      "next_test": "Authenticate original photo and parcel; acquire engineer evaluation, adopted council resolution, streetscape diary and historic grade/vault plans; link same fabric and deposit to dated evidence.",
+      "chronology": {
+        "reported": "Sit n Sip vault messages February 2020; separate 222 Main fill planning June 2020; packet forwarding July 2020",
+        "dated_object": "Correspondence headers, not deposit or vault construction",
+        "method": "Inspection of third-party scan",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "Original image and authenticated parcel match",
+        "Measured depth and datum",
+        "Original floor function and construction date",
+        "Engineer attachment and adopted resolution",
+        "Execution diary and actual fill quantities",
+        "Deposit profile, sample identity and age"
+      ],
+      "dependence": "Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct."
     }
   ]
 }

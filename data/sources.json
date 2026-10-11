@@ -6538,6 +6538,86 @@
           "hash_scope": "Complete delivered PDF;27pages/2643411bytes"
         }
       ]
+    },
+    {
+      "id": "S382",
+      "title": "Reddit Shelbyville discussion: candidate Sit n Sip identity and local-history links",
+      "url": "https://www.reddit.com/r/AlternativeHistory/comments/15evx9c/a_puzzle_for_scientists_was_found_in_shelbyville/",
+      "creator": "Public Reddit discussion participants",
+      "publication_date": null,
+      "source_type": "Public discussion lead",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Rendered title and selected comment identifying Sit n Sip, renovation, rear access and linking CityWalk brochure; selected surrounding alternative explanations.",
+      "limitations": "Commenter credentials and local observations unverified. Original image retrieval failed; no depth, parcel or historical floor-function authentication. Not a complete thread survey.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S383",
+      "title": "Shelbyville CityWalk Historic Downtown brochure",
+      "url": "https://www.shelbyvilleillinois.net/wp-content/uploads/2013/05/HDnew.pdf",
+      "creator": "CityWalk Shelbyville; photographs credited to Donna Lupton, SCHGS",
+      "publication_date": null,
+      "source_type": "Local historical tour brochure",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Both original PDF pages visually inspected; Main Street panel and entry D at 200 E Main, photo credits and tour map.",
+      "limitations": "Publication date unknown; URL directory not dating evidence. Later historical captions not authenticated original photos/fire records. No demonstrated applicability of third-floor loss to 216 E Main or proof of street raising.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.shelbyvilleillinois.net/wp-content/uploads/2013/05/HDnew.pdf",
+          "sha256": "586996f2fa215a306e55ef8c95f26e6ffcf8e1d6045bf058286a9f6cd21a56c3",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered PDF; 2 pages / 2758475 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S384",
+      "title": "Illinois Liquor Control Commission report: Sit n Sip business-address control",
+      "url": "https://ilcc.illinois.gov/content/dam/soi/en/web/ilcc/news/uc-press-releases/fy-2019/2019-10-09%20Shelby%20County.pdf",
+      "creator": "Illinois Liquor Control Commission",
+      "publication_date": "2023-07-21",
+      "source_type": "Administrative report",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original PDF1 visually inspected: release header, operation date and Sit n Sip address line.",
+      "limitations": "Address control only, not photo-to-parcel identification or deposit evidence. Release header 2023-07-21 and reported operation 2019-10-09 have distinct roles; unrelated compliance findings not used.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://ilcc.illinois.gov/content/dam/soi/en/web/ilcc/news/uc-press-releases/fy-2019/2019-10-09%20Shelby%20County.pdf",
+          "sha256": "31c95bccdfe3cb7e56afd8153e02f8bb2ba0d2be56cdcb1de881496280c12774",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered PDF; 1 pages / 243348 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S385",
+      "title": "Shelbyville municipal correspondence scan: Sit n Sip vault and separate 222 Main fill planning",
+      "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-Mayor-part-1.pdf",
+      "creator": "Shelbyville municipal, highway and project correspondents; public copy hosted by Edgar County Watchdogs",
+      "publication_date": null,
+      "source_type": "Third-party copy of contemporary correspondence",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original PDF6/68/69 visually inspected; PDF7/70 extracted text only; rest searched for navigation, not comprehensively inspected.",
+      "limitations": "96-page third-party scan, not authenticated original email export. February reported collapse/repair recommendation not acquired engineer attachment, adopted resolution or historic vault date. June 222 Main planned pours not 216 E Main or completion diary; quantities unknown. Existing highlights not separate evidence.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-Mayor-part-1.pdf",
+          "sha256": "e90440582d9df3fa6e17dbe6cd47f0a108d254e126239c6fc8822f6911b6b86b",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered PDF; 96 pages / 2910720 bytes"
+        }
+      ]
     }
   ]
 }

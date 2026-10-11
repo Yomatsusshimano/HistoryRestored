@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "lead_id": "R004",
+  "case_id": "C030",
+  "outreach_performed": false,
+  "identity": {
+    "Reddit_comment_candidate_business": "Sit n Sip",
+    "independent_business_address": "216 E Main Street, Shelbyville, Illinois",
+    "address_source_id": "S384",
+    "photo_to_parcel_authenticated": false,
+    "original_photo_acquired": false,
+    "coordinates": null
+  },
+  "depth_claims": [
+    {
+      "source_id": "S377",
+      "value": 11,
+      "unit": "feet",
+      "measurement_authenticated": false
+    },
+    {
+      "source_id": "S382",
+      "range": [
+        4,
+        5
+      ],
+      "unit": "metres",
+      "measurement_authenticated": false
+    }
+  ],
+  "deposit_date": null,
+  "measured_deposit_thickness": null,
+  "date_roles": {
+    "S384_release_header": "2023-07-21",
+    "S384_reported_operation": "2019-10-09",
+    "S383_publication": null,
+    "S385_packet_publication": null,
+    "S385_forwarding_headers": "2020-07-23",
+    "S385_Sit_n_Sip_messages": [
+      "2020-02-11",
+      "2020-02-12",
+      "2020-02-13"
+    ],
+    "S385_222_Main_messages": [
+      "2020-06-05",
+      "2020-06-08"
+    ]
+  },
+  "vault_records": {
+    "Sit_n_Sip": {
+      "source_id": "S385",
+      "pdf_pages": [
+        68,
+        69
+      ],
+      "reported_condition": "Partial vault-wall collapse and engineer repair recommendation",
+      "engineer_report_inspected": false,
+      "resolution_or_vote_inspected": false,
+      "historic_construction_date": null
+    },
+    "222_Main_St": {
+      "source_id": "S385",
+      "pdf_pages": [
+        6
+      ],
+      "additional_text_only_pages": [
+        7
+      ],
+      "record_role": "Planned flowable-fill pours and requested daily diary; not completion evidence",
+      "completion_diary_inspected": false,
+      "measured_fill_volume": null,
+      "same_as_216_address": false
+    }
+  },
+  "brochure_controls": {
+    "source_id": "S383",
+    "Main_Street_panel_pdf_page": 1,
+    "200_E_Main_fire_entry_pdf_page": 2,
+    "reported_fire_year": 1927,
+    "reported_loss": "Third floor at 200 E Main",
+    "applicable_to_216_verified": false
+  },
+  "retrievals": [
+    {
+      "source_id": "S383",
+      "url": "https://www.shelbyvilleillinois.net/wp-content/uploads/2013/05/HDnew.pdf",
+      "bytes": 2758475,
+      "pages": 2,
+      "sha256": "586996f2fa215a306e55ef8c95f26e6ffcf8e1d6045bf058286a9f6cd21a56c3",
+      "visually_inspected_pdf_pages": [
+        1,
+        2
+      ],
+      "additional_text_only_pdf_pages": []
+    },
+    {
+      "source_id": "S384",
+      "url": "https://ilcc.illinois.gov/content/dam/soi/en/web/ilcc/news/uc-press-releases/fy-2019/2019-10-09%20Shelby%20County.pdf",
+      "bytes": 243348,
+      "pages": 1,
+      "sha256": "31c95bccdfe3cb7e56afd8153e02f8bb2ba0d2be56cdcb1de881496280c12774",
+      "visually_inspected_pdf_pages": [
+        1
+      ],
+      "additional_text_only_pdf_pages": []
+    },
+    {
+      "source_id": "S385",
+      "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-Mayor-part-1.pdf",
+      "bytes": 2910720,
+      "pages": 96,
+      "sha256": "e90440582d9df3fa6e17dbe6cd47f0a108d254e126239c6fc8822f6911b6b86b",
+      "visually_inspected_pdf_pages": [
+        6,
+        68,
+        69
+      ],
+      "additional_text_only_pdf_pages": [
+        7,
+        70
+      ]
+    }
+  ],
+  "access_limits": [
+    "Selected rendered Reddit text only; no full comment census or credentials verification",
+    "Reddit image link failed; native thread delivered access shell",
+    "Street View link uninspected",
+    "S385 third-party scan; original city export and authenticity not independently established",
+    "Engineer attachment, adopted resolution and execution diaries not inspected",
+    "Historic brochure source photographs and fire records not acquired"
+  ]
+}

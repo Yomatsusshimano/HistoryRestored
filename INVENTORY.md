@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-29 sourced drafts; 0 independent scientific reviews.
+30 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -36,6 +36,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C027 | Gascoigne telescopic sights: a documented attribution dispute |
 | C028 | Hispaniolan cave microfauna: pooled bone ages versus deposition |
 | C029 | Swan Tavern site and Redlands Club lower-window claim |
+| C030 | Shelbyville storefront and Sit n Sip vault identity lead |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -1280,3 +1281,35 @@ Place: Swan Tavern archaeological site44AB0739 and Redlands Club,Charlottesville
 **Chronology:** {"reported": "Former tavern replaced bybrickresidence by1837; reproducedphoto1916; fieldwork18January\u201328April2023", "dated_object": "Report chronology andphotoattribution,not sedimentage", "method": "Contractorreport historicalanalysis", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
 
 **Missing:** ExactRedditphoto andaddress authentication; Originalbuildingplan; Originaltax/newspaperrecords; Independentprofiledates; Window/profileassociation; Artifactcountscope reconciliation; Historicrestrictioninstrument
+
+## C030: Shelbyville storefront and Sit n Sip vault identity lead
+
+Place: Shelbyville, Illinois; candidate Sit n Sip at 216 E Main Street. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Storefront allegedly 11 feet below shops in Shelbyville; no measured depth or original image authenticated. [S377](https://www.reddit.com/r/interestingasfuck/comments/gxsuj1/). Locator: Thread title and selected locality replies. Access: FULL_TEXT_PORTION. Limit: No original image inspected, authenticated depth/datum, parcel, building plan or entrance function; other-city analogies not site evidence.
+- Title alleges 4–5 metres burial; commenter names Sit n Sip and attributes exposure to sidewalk renovation, with rear lower access. Claims unverified. [S382](https://www.reddit.com/r/AlternativeHistory/comments/15evx9c/a_puzzle_for_scientists_was_found_in_shelbyville/). Locator: Title and selected comment beginning Shelbyville native here. Access: FULL_TEXT_PORTION. Limit: Commenter credentials and local observations unverified. Original image retrieval failed; no depth, parcel or historical floor-function authentication. Not a complete thread survey.
+- Lists Sit n Sip at 216 E Main Street; release header 21 July 2023, reported operation 9 October 2019. Address does not authenticate Reddit image. [S384](https://ilcc.illinois.gov/content/dam/soi/en/web/ilcc/news/uc-press-releases/fy-2019/2019-10-09%20Shelby%20County.pdf). Locator: PDF1, release header, opening paragraph and Sit n Sip address line. Access: SCAN_INSPECTED. Limit: Address control only, not photo-to-parcel identification or deposit evidence. Release header 2023-07-21 and reported operation 2019-10-09 have distinct roles; unrelated compliance findings not used.
+- Sit n Sip messages report partial vault-wall collapse and engineer repair recommendation. Separate 222 Main messages discuss planned flowable filling and daily diary records, not execution or 216 E Main. [S385](https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-Mayor-part-1.pdf). Locator: PDF68–69, February 11–13 messages; separate PDF6 June 5/8 messages. Access: SCAN_INSPECTED. Limit: 96-page third-party scan, not authenticated original email export. February reported collapse/repair recommendation not acquired engineer attachment, adopted resolution or historic vault date. June 222 Main planned pours not 216 E Main or completion diary; quantities unknown. Existing highlights not separate evidence.
+- Brochure describes streetscape fires and fewer upper stories; 200 E Main third-floor loss attributed to 1927 fire. Source history not authenticated for 216 address. [S383](https://www.shelbyvilleillinois.net/wp-content/uploads/2013/05/HDnew.pdf). Locator: PDF1 Main Street panel; PDF2 entry D, 200 E Main. Access: SCAN_INSPECTED. Limit: Publication date unknown; URL directory not dating evidence. Later historical captions not authenticated original photos/fire records. No demonstrated applicability of third-floor loss to 216 E Main or proof of street raising.
+
+**Physical evidence:** No original excavation image, site visit, deposit profile or independent measurement. Inspected scans record reported structural condition, addresses and historical photograph reproductions.
+
+**Surviving documents:** Two Reddit discussions, two-page CityWalk brochure, ILCC address report and selected pages of a 96-page public municipal correspondence copy.
+
+**Source interpretation:** Reddit commenters propose buried city, designed lower access, street changes, flooding or fire. Correspondence reports damaged vault and repair planning, not historic burial cause.
+
+**Investigation inference:** Reddit yielded independently documentable business and a contemporary vault-record target. Exact image/parcel link and original grade history remain unresolved. See research/SHELBYVILLE-STOREFRONT-IDENTITY.md.
+
+**Counterevidence:** Contemporary repair planning provides a specific local excavation context. Upper-floor fire loss does not demonstrate lower-floor burial. Different Reddit depths are unmeasured claims rather than replication.
+
+**Next test:** Authenticate original photo and parcel; acquire engineer evaluation, adopted council resolution, streetscape diary and historic grade/vault plans; link same fabric and deposit to dated evidence.
+
+**Dependence:** Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct.
+
+**Alternatives:** Designed basement or sidewalk vault access; Deliberate local grading or later filling; Demolition and rebuilding; Natural deposition or subsidence if demonstrated
+
+**Chronology:** {"reported": "Sit n Sip vault messages February 2020; separate 222 Main fill planning June 2020; packet forwarding July 2020", "dated_object": "Correspondence headers, not deposit or vault construction", "method": "Inspection of third-party scan", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
+
+**Missing:** Original image and authenticated parcel match; Measured depth and datum; Original floor function and construction date; Engineer attachment and adopted resolution; Execution diary and actual fill quantities; Deposit profile, sample identity and age

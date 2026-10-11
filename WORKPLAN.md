@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Shelbyville identity and vault records
+
+Reddit Shelbyville follow-up yielded a candidate business at 216 E Main and February 2020 vault-repair correspondence. Separate 222 Main flowable-fill planning is not execution evidence or the same parcel. Original image, measured depth and deposit age remain unverified. 30 drafts / 385 sources; no independent review. See [Shelbyville controls](research/SHELBYVILLE-STOREFRONT-IDENTITY.md).
+
 ### 2026-10-11 — Reddit leads and first original-record checks
 
 Reddit discovery batch records six specific leads, with Logan and Shelbyville open. Selected Swan Tavern report pages distinguish successive buildings and local variable fill; current public report narrows access allegation. Moscow project guide describes deliberate basement exposure, without exact-image authentication. 29 drafts / 381 sources; no common event or independent review. See [Reddit leads](research/REDDIT-MUD-FLOOD-LEADS.md).

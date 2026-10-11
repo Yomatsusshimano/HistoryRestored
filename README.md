@@ -176,3 +176,5 @@ Supply-account follow-up: [weight reconciliation and printed cost discrepancy](r
 Material follow-up: [reported iron tests and named factory acceptance](research/EIFFEL-MATERIAL-TESTS.md), with means, specifications and batch-record limits kept separate.
 
 Supplier retrieval update: [Orsay ARO19811268 correspondence](research/EIFFEL-SUPPLIER-CORRESPONDENCE.md), an exact contract/order target with original contents still uninspected.
+
+Reddit site follow-up: [Shelbyville identity and vault repair records](research/SHELBYVILLE-STOREFRONT-IDENTITY.md).
