@@ -2116,3 +2116,8 @@ S4342013assessment acquired793pages; covers, printed8/28 and1899/1908/1916Sanbor
 ### 2026-10-11 — Original1990soil report: heterogeneous fill control
 
 S435originalENCOTEC report recovered within S434AppendixG; PDF132 and156–163 visually inspected. Washington geological section reports upper5–10feet heterogeneous material suggesting fill, source unknown; internal NorthMain/MunicipalGarage wording retained pending W-series logs/site plan. No sample-specific mud thickness or1902dating adopted; separate from Huronfactory/Libertybuilding. [Soil control](research/ALLEN-CREEK-1902-FLOOD-CONTROL.md) published. Next AppendixXI logs and location plan.31drafts/435sources; all twenty objectives active, no independent scientific review.
+
+
+### 2026-10-11 — Individual1992WestWashington well logs
+
+S436 cover,plan andMW-1/2/3 logs visually inspected; [profile comparison](research/WEST-WASHINGTON-1992-SOIL-LOGS.md) and structured intervals published. Fill/cinders/wood and peat contrasts retained; ages/common elevations/1989logs unresolved. Separate Washington,Huron,Liberty parcels. Next originalW-series logs,datum,emplacement records and archived peat provenance.31drafts/436sources; all twenty objectives active, no independent scientific review.

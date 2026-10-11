@@ -7950,6 +7950,32 @@
           "access_note": "Web reader rejected file size; normal public HTTPS download succeeded. Renderer font warnings occurred; selected pages visually checked."
         }
       ]
+    },
+    {
+      "id": "S436",
+      "title": "Traverse Group April17,1992 tank-release report:415WestWashington MW-1/2/3 soil logs and plan",
+      "url": "https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf",
+      "creator": "The Traverse Group, Inc.; City of Ann Arbor client; reproduced in2013assessment",
+      "publication_date": "1992-04-17",
+      "record_event_date": "1992-03-27",
+      "source_type": "Environmental investigation with individual monitoring-well logs and location plan",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF245 report cover; PDF267Figure3/A-3 datedApril16,1992 monitoring-well positions around former tank excavation; PDF290MW-2/C-2, PDF291MW-3/C-3, PDF292MW-1/C-1 datedMarch27,1992 installation, visually inspected.",
+      "limitations": "One2013delivery reproduces original1992documents, not independent confirmation. Logs report depth below local grade, with surface/casing elevationN/A; no surveyed common elevation or coordinates adopted. Cinders/wood and fill labels do not date emplacement or exclude natural layers. Peat atMW-1/2 is undated; no samples acquired or radiocarbon result. Wells beside former tank excavation atWashington are not rug-factory/Schlenker parcels and not missing1989W-series logs. Log sheet scale extends below described interval and must not be treated as proof of bore depth. No1902deposit correlation or regional burial thickness.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf",
+          "bytes": 65500138,
+          "sha256": "a78c7f660fcbc4375441b4e116cbaf22dc95c1b25662cf2730ba95d92058fccd",
+          "pages": 793,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Same793-page packet as S434/S435; PDF245 cover, PDF267/printedA-3 site plan and PDF290/291/292 logsC-2/C-3/C-1 visually inspected. Other pages selectively navigated, not fully reviewed.",
+          "access_note": "Web reader rejected file size; normal public HTTPS download succeeded. Renderer font warnings occurred; selected pages visually checked."
+        }
+      ]
     }
   ]
 }

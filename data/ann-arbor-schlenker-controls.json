@@ -23,7 +23,8 @@
     "S432",
     "S433",
     "S434",
-    "S435"
+    "S435",
+    "S436"
   ],
   "retrievals": [
     {
@@ -249,7 +250,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Locate original W-series boring logs in1990AppendixXI and site plan to resolve report property wording and characterize each interval. Distinguish fill interpretation from natural flood deposits; obtain dating/material evidence before event attribution. Keep Washington,Huron andLiberty properties separate; continue drainage construction records.",
+  "next_test": "Locate missing1989W-series logs and survey datum; compare individual1992fill/peat contacts with later located borings. Seek emplacement records or archived peat/material samples with stratigraphic provenance before dating or correlating layers. Do not transfer Washington profiles toHuronfactory orLibertybuilding.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -786,5 +787,23 @@
     "mud_thickness": null,
     "factory_property_match_verified": false,
     "schlenker_property_match_verified": false
+  },
+  "west_washington_1992_logs_control": {
+    "source_id": "S436",
+    "dataset": "data/west-washington-1992-soil-logs.json",
+    "well_ids": [
+      "MW-1",
+      "MW-2",
+      "MW-3"
+    ],
+    "peat_logged_in": [
+      "MW-1",
+      "MW-2"
+    ],
+    "fill_age": null,
+    "peat_age": null,
+    "common_elevation_verified": false,
+    "relation_to_1989_logs": "Different investigation; original1989W-series logs still not located",
+    "physical_event_correlation_verified": false
   }
 }

@@ -54,3 +54,8 @@ S435 is the original ENCOTEC assessment reproduced in [S434AppendixG](https://ww
 The section heading names WestWashington, but its opening wording refers to NorthMainStreetMunicipalGarage; the geological paragraph returns to WashingtonStreet and mentions W-2. Retain this internal inconsistency. Inspect individual W-series logs (referenced AppendixXI) and a location plan before assigning depths to points. PDF156–163/printed24–31 were visually inspected; other-property chemistry is not transferred into this case. No current contamination/safety conclusion is made.
 
 These observations provide a useful disturbed-ground comparison. They neither establish nor exclude an older natural flood layer beneath or within fill. The source and age of the heterogeneous material remain unknown; no1902date, rug-factory parcel join, Schlenker opening cause or regional burial thickness is adopted. Next inspect logs, coordinates, contacts, material descriptions and dated inclusions. The three properties remain separate.
+
+
+## Individual1992logs recovered
+
+[WestWashington1992soil logs](WEST-WASHINGTON-1992-SOIL-LOGS.md), S436, record sand/cinder/wood fill and peat in two of three mapped wells. They provide located descriptive layers while retaining unknown ages, missing common elevations and separate parcels. They do not substitute for unlocated1989W-series logs or establish1902mud.
