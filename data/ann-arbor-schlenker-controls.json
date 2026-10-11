@@ -16,7 +16,9 @@
     "S425",
     "S426",
     "S427",
-    "S428"
+    "S428",
+    "S429",
+    "S430"
   ],
   "retrievals": [
     {
@@ -160,6 +162,31 @@
       "pages": 16,
       "hash_scope": "Complete delivery; PDF1 masthead and PDF8 printed8 council column visually inspected; PDF16 similar article text located by extraction only",
       "parser_note": "Text parser recovered despite PDF object-offset warnings; selected claims verified visually in rendered scan"
+    },
+    {
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19020804.pdf",
+      "sha256": "cbb1d9385f9e1cbbdcdd11ae58c081699cd8c0cffa2dc3225ae75c54cdccb4aa",
+      "retrieved_date": "2026-10-11",
+      "bytes": 3040890,
+      "pages": 5,
+      "hash_scope": "Complete delivery; PDF1/2, printed325/326, visually inspected; remaining pages not fully reviewed",
+      "access_note": "Web reader502; normal direct public HTTPS download succeeded"
+    },
+    {
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19020708.pdf",
+      "sha256": "16364893b343b12c058409cd90b55f8ca57444e7a58980c3fdae52c465a9b15c",
+      "retrieved_date": "2026-10-11",
+      "bytes": 683269,
+      "pages": 2,
+      "hash_scope": "Complete two-page delivery; PDF1/2, printed317/318, visually inspected"
+    },
+    {
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19020707.pdf",
+      "sha256": "3b6c9acafed7919a5133fc3c6bc0f8c292181542bf9df9b2f20928fd1fc1b791",
+      "retrieved_date": "2026-10-11",
+      "bytes": 7297603,
+      "pages": 11,
+      "hash_scope": "Complete delivery; PDF1 and11, printed307/317, visually inspected; printed317 overlaps July8 delivery and is not an independent witness"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -184,7 +211,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Locate1904 sidewalk-grade segment/affected-owner claims and compare with1903 Ashley-to-State paving without assuming a project join. Retrieve1898 council original and culvert plans/property boundaries;1902 Liberty/First culvert minutes are an uninspected search target. Preserve unknown grades, execution and original Reddit parcel identity.",
+  "next_test": "Retrieve1902 submitted Allen creek map/culvert plans, event-day rainfall or newspaper accounts, completed repairs and cellar-address records. Join those locations independently to1898 Schlenker property and surviving fabric; measure natural strata before attributing window closures or unifying this flood with other events.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -562,5 +589,39 @@
       "surviving_building_match_verified": false,
       "independence": "Newspaper report of municipal action, not an independent engineering measurement"
     }
+  },
+  "allen_creek_1902_control": {
+    "source_ids": [
+      "S429",
+      "S430"
+    ],
+    "flood_date": null,
+    "reported_by_date": "1902-07-08",
+    "date_role": "Council report bounds recent damage; not exact event or sediment date",
+    "reported_waterway": "Allen's Creek",
+    "reported_destroyed_culvert_count": 7,
+    "independent_culvert_count_verified": false,
+    "cellar_water_assistance": {
+      "source_id": "S430",
+      "locator": "July8 PDF2/printed318",
+      "action": "Adopted request for fire commissioners to provide siphons/help removing water from flooded-district cellars",
+      "affected_addresses": null,
+      "execution_verified": false
+    },
+    "liberty_first_recommendation": {
+      "source_id": "S429",
+      "locator": "PDF2/printed326",
+      "date": "1902-08-04",
+      "action": "Repair culvert at Liberty/First and remove two-foot tile across First feeding culvert",
+      "reported_tile_size_feet": 2,
+      "measurement_verified": false,
+      "execution_verified": false,
+      "identified_as_one_of_destroyed_seven": false
+    },
+    "mud_depth": null,
+    "sediment_age": null,
+    "original_schlenker_building_match_verified": false,
+    "original_reddit_image_match_verified": false,
+    "relation_of_july_and_august_floods": "Plausible shared local flood response; exact event identity and dates not independently authenticated"
   }
 }

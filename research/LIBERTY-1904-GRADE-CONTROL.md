@@ -1,6 +1,6 @@
 # Liberty Street: a 1904 sidewalk-grade control
 
-Research draft, 2026-10-11 (America/New_York). S426–S428; follow-up to Reddit lead R005. No independent scientific review.
+Research draft, 2026-10-11 (America/New_York). S426–S430; follow-up to Reddit lead R005. No independent scientific review.
 
 The [Ann Arbor council proceedings scan](https://aadl.org/sites/default/files/docfiles/Minutes_19040912.pdf), PDF1/2 (printed83/84), was visually inspected. The session heading dates the meeting September12,1904. PDF2 records adoption of a resolution to reimburse property owners on Liberty Street's south side damaged by sidewalk-grade elevation and to build cement protection around cellar windows at risk of water entry.
 
@@ -19,3 +19,7 @@ The [August 19, 1898 Ann Arbor Democrat](https://aadl.org/files/documents/pdf/aa
 The complete18-page S427 and16-page S428 deliveries are hashed in the structured controls. Similar article text on S428 PDF16 was found by extraction only and is not counted as another witness; the complete packet's duplication has not been audited. PDF object-offset warnings did not prevent rendering the selected newspaper portions. S427 web-reader502 was followed by a normal successful public download.
 
 These records refine local public-works search targets. They supply no measured sidewalk rise, natural depositional layer, original Schlenker opening date or authentic Reddit-image match. Next retrieve the corresponding original council/engineering records and historical parcel boundaries; compare projects only after their locations and construction phases agree.
+
+## Local1902 flood response: separate event control
+
+[Allen's Creek1902 controls](ALLEN-CREEK-1902-FLOOD-CONTROL.md), S429/S430, document July8 council reporting of rainfall damage and requests for cellar-water removal, followed by August4 Liberty/First culvert repair recommendations. No exact flood day, mud profile, completed repairs or Schlenker parcel match is established. This adds a local flooding candidate while preserving separate grading, drainage and redevelopment chronologies.

@@ -1,6 +1,6 @@
 # Ann Arbor: a candidate building and documented renovation
 
-Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S428. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
+Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S430. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
 
 The [Reddit discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) names two different properties: a Starbucks on West Liberty and a Schlenker building farther along the street. The selected indexed comment proposes a debris flow from the northeast. Full thread and original photographs remain unavailable. Naming a nearby building does not authenticate either pictured parcel.
 
@@ -101,3 +101,7 @@ A separate [1904 Liberty Street grade control](LIBERTY-1904-GRADE-CONTROL.md), S
 ## Earlier public works: project identity remains open
 
 [Liberty controls](LIBERTY-1904-GRADE-CONTROL.md) now include S427's1903 Ashley-to-State paving report and S428's1898 newspaper report of a First Street culvert extension at unidentified Schlenker property. The paving, sidewalk complaint, culvert and surviving building are separate records requiring geographic and fabric joins. No common project, grade increment or natural deposit is inferred. Original1898 council records, affected-property claims and engineering plans are the next discriminating targets.
+
+## Local1902 flood response: separate event control
+
+[Allen's Creek1902 controls](ALLEN-CREEK-1902-FLOOD-CONTROL.md), S429/S430, document July8 council reporting of rainfall damage and requests for cellar-water removal, followed by August4 Liberty/First culvert repair recommendations. No exact flood day, mud profile, completed repairs or Schlenker parcel match is established. This adds a local flooding candidate while preserving separate grading, drainage and redevelopment chronologies.

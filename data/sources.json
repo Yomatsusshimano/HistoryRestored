@@ -7767,6 +7767,65 @@
           "parser_note": "Text parser recovered despite PDF object-offset warnings; selected claims verified visually in rendered scan"
         }
       ]
+    },
+    {
+      "id": "S429",
+      "title": "Ann Arbor August4,1902 proceedings: Liberty/First culvert repair recommendation after reported floods",
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19020804.pdf",
+      "creator": "Ann Arbor Common Council; Board of Public Works; City Engineer E. W. Groves; library-hosted scan",
+      "publication_date": null,
+      "record_event_date": "1902-08-04",
+      "source_type": "Printed municipal proceedings with public-works report",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1/printed325 session heading; PDF2/printed326 Board of Public Works report, Liberty/First repair and tile-removal recommendations, engineer estimates and received/filed wording visually inspected.",
+      "limitations": "Report discusses recent flood destruction but does not separately prove Liberty/First culvert was one of the destroyed culverts. Repair/removal recommendations are not completed work. Two-foot tile wording is a reported size, not a new measurement. Adjacent culvert estimates and Oxford excavation cannot be assigned to Liberty sediment. Submitted map/plans were not inspected; no Schlenker parcel identity or opening closure date.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19020804.pdf",
+          "sha256": "cbb1d9385f9e1cbbdcdd11ae58c081699cd8c0cffa2dc3225ae75c54cdccb4aa",
+          "retrieved_date": "2026-10-11",
+          "bytes": 3040890,
+          "pages": 5,
+          "hash_scope": "Complete delivery; PDF1/2, printed325/326, visually inspected; remaining pages not fully reviewed",
+          "access_note": "Web reader502; normal direct public HTTPS download succeeded"
+        }
+      ]
+    },
+    {
+      "id": "S430",
+      "title": "Ann Arbor July8,1902 adjourned proceedings: rainfall, culvert destruction and flooded-cellar assistance",
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19020708.pdf",
+      "creator": "Ann Arbor Common Council; City Clerk Jas. E. Harkins; library-hosted scan",
+      "publication_date": null,
+      "record_event_date": "1902-07-08",
+      "source_type": "Printed municipal flood-response resolutions in digitized scans",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "July8 PDF1/2 printed317/318: rainfall/Allen creek damage recital, adopted special-election call and cellar-drainage assistance resolution visually inspected. July7 packet PDF1/11 supplies prior session and overlapping printed317.",
+      "limitations": "Council reports recent flooding before/on July8, not an exact rainfall/flood day, instrument record or dated sediment unit. Seven culverts is a reported count, not independently mapped inspection. Election call is not election result or disbursement. Cellar aid request is not verified completion. Affected cellar addresses/depths and Schlenker identity unknown. Two overlapping scan deliveries and related August municipal proceedings do not supply independent physical confirmation.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19020708.pdf",
+          "sha256": "16364893b343b12c058409cd90b55f8ca57444e7a58980c3fdae52c465a9b15c",
+          "retrieved_date": "2026-10-11",
+          "bytes": 683269,
+          "pages": 2,
+          "hash_scope": "Complete two-page delivery; PDF1/2, printed317/318, visually inspected"
+        },
+        {
+          "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19020707.pdf",
+          "sha256": "3b6c9acafed7919a5133fc3c6bc0f8c292181542bf9df9b2f20928fd1fc1b791",
+          "retrieved_date": "2026-10-11",
+          "bytes": 7297603,
+          "pages": 11,
+          "hash_scope": "Complete delivery; PDF1 and11, printed307/317, visually inspected; printed317 overlaps July8 delivery and is not an independent witness"
+        }
+      ]
     }
   ]
 }

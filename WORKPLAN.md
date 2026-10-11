@@ -1265,3 +1265,8 @@ S426 council scan PDF1/2 visually confirms September12,1904 resolution concernin
 ### 2026-10-11 — Earlier Liberty paving and First Street drainage controls
 
 S427 March1904 council scan PDF1/6 reports1903 Liberty paving Ashley-to-State; S428 August1898 newspaper PDF1/8 reports adopted First Street culvert-extension recommendation at unidentified Schlenker property. [Public-works controls](research/LIBERTY-1904-GRADE-CONTROL.md) retain unverified project/parcel joins, execution and grade measurements. Deliveries hashed and selected scans inspected;31drafts/428sources, no independent scientific review, all twenty objectives active.
+
+
+### 2026-10-11 — Allen creek1902 flood-response control
+
+S429 August1902 council PDF1/2 and S430 July8 PDF1/2 visually inspected; overlapping July7 PDF1/11 retained as one record lineage. [Flood controls](research/ALLEN-CREEK-1902-FLOOD-CONTROL.md) distinguish reported rainfall/culvert destruction and cellar-water assistance from measured sediment, exact event date and completed work. Liberty/First repair target recovered; Schlenker parcel and closure causation remain unverified.31drafts/430sources; all twenty objectives active, no independent scientific review.
