@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Corporate rights and cash distinguished
+
+Original S17 formation pages and S350 yearbook pp2001-2002 inspected. Nominal5,100,000-franc capital separates5,000,000-franc operating-rights consideration from100,000-franc cash subscriptions; actual receipts/share sales unverified. March2versus4constitution dates retained.28 drafts /350 sources; all twenty objectives active. See [capital audit](EIFFEL-COMPANY-CAPITAL.md).
+
 ### 2026-10-11 — Subscriber excerpt and exact financial dossier
 
 S348 partial subscriber image inspected; S349 identifies B-0066514/1 company dossier 2277, 1889-1969 coverage. No complete list, capital total, payment receipts or first-year accounts acquired. Modern ownership summary differs from the original agreement distinction. 28 drafts / 349 sources; all twenty objectives active. See [financing route](EIFFEL-SAEF-FINANCING.md).

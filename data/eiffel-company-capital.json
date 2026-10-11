@@ -1,0 +1,76 @@
+{
+  "source_ids": [
+    "S17",
+    "S350"
+  ],
+  "accessed_date": "2026-10-11",
+  "images": [
+    {
+      "source_id": "S17",
+      "url": "https://www.e-rara.ch/i3f/v20/8976173/full/2000,/0/default.jpg",
+      "locator": "Chapter V opening before printed227; manifest label[250]",
+      "sha256": "10f354a4be4990e40cbe72a35ec24471d62a8fddb5599463924ddf157560b937",
+      "byte_length": 401875,
+      "visually_inspected": true,
+      "public_mirror_in_this_repository": false
+    },
+    {
+      "source_id": "S17",
+      "url": "https://www.e-rara.ch/i3f/v20/8976174/full/2000,/0/default.jpg",
+      "locator": "Printed227",
+      "sha256": "0e69b6ac64fa2c034f7a23ef4bb3a5945a0ef1b041fd43cd7d7c91130aaf11e8",
+      "byte_length": 357672,
+      "visually_inspected": true,
+      "public_mirror_in_this_repository": false
+    },
+    {
+      "source_id": "S350",
+      "url": "https://images.eurhisfirm.eu/Annuaires/CAC/1908/1908_T_2001.jpg",
+      "locator": "Printed2001",
+      "sha256": "8edab1614fcb0e138920cdfd42be06a02d17def1c54a5fa3ce7eaef8b8e32477",
+      "byte_length": 4014298,
+      "visually_inspected": true,
+      "public_mirror_in_this_repository": false
+    },
+    {
+      "source_id": "S350",
+      "url": "https://images.eurhisfirm.eu/Annuaires/CAC/1908/1908_T_2002.jpg",
+      "locator": "Printed2002; next numbered image confirms continuation",
+      "sha256": "a69f687c424de2be584544b77df35fdd9c38f2438d9b9e9f05b0e8541c7bf367",
+      "byte_length": 4271810,
+      "visually_inspected": true,
+      "public_mirror_in_this_repository": false
+    }
+  ],
+  "nominal_capital_francs": 5100000,
+  "total_shares": 10200,
+  "share_face_value_francs": 500,
+  "rights_contribution_shares": 10000,
+  "rights_contribution_value_francs": 5000000,
+  "cash_subscription_shares": 200,
+  "cash_subscription_nominal_francs": 100000,
+  "cash_initial_francs": 25000,
+  "cash_remaining_francs": 75000,
+  "remaining_payment_dates_reported": [
+    "1889-05-09",
+    "1889-05-28"
+  ],
+  "receipts_acquired": false,
+  "subsequent_share_sales_acquired": false,
+  "total_construction_cash_raised": null,
+  "date_comparison": {
+    "initiating_date_both": "1888-12-31",
+    "definitive_constitution_S17": "1889-03-04",
+    "definitive_constitution_S350": "1889-03-02",
+    "original_notarial_act_acquired": false
+  },
+  "S17_context": {
+    "valuation_francs": 6500000,
+    "state_contribution_anticipated_francs": 1500000,
+    "complement_francs": 5000000,
+    "original_statutes_acquired": false
+  },
+  "ownership": "S350 states City ownership after exhibition, separate from operating rights through1909; consistent withS347 article11",
+  "dependence": "Participant narrative and later issuer yearbook may depend on company disclosures; not independent receipt validation",
+  "status": "SOURCED_DRAFT"
+}

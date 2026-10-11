@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Company capital audit](research/EIFFEL-COMPANY-CAPITAL.md): operating-rights contribution, cash subscriptions and unresolved incorporation dates.
+
 - [Subscriber-list and financial dossier route](research/EIFFEL-SAEF-FINANCING.md): partial original image, exact company reference and limits on financing claims.
 
 - [Original 1887 construction agreement](research/EIFFEL-CONVENTION-1887.md): milestone payments, ownership and operating rights, with an attributed public scan.
