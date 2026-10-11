@@ -13,7 +13,8 @@
     "S422",
     "S423",
     "S424",
-    "S425"
+    "S425",
+    "S426"
   ],
   "retrievals": [
     {
@@ -124,11 +125,21 @@
       "retrieved_date": "2026-10-11",
       "bytes": 28048376,
       "pages": 16,
-      "hash_scope": "Complete image-only PDF; PDF2/3 city letter and PDF5/13 grading/utility drawings visually inspected; all-page thumbnails used only for navigation",
+      "hash_scope": "Complete image-only PDF; PDF2/3/5/10/13/15 visually inspected; other-page thumbnails used only for navigation",
       "query_field": "A2 BUILD Location",
       "query": "*213*",
       "selected_index_record": "SCHLENKER HARDWARE; 9292A23.5; 9/21/1998; 213 W LIBERTY / 215 W LIBERTY",
       "acquisition": "Whole indexed result row download; modal PDF viewer did not display a document; stable direct file URL not captured"
+    },
+    {
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19040912.pdf",
+      "sha256": "fee95061beed0e1b73c3f4a0b83619137e275b562be72d601e7463869923d002",
+      "retrieved_date": "2026-10-11",
+      "bytes": 4117402,
+      "pages": 7,
+      "hash_scope": "Complete delivered scan; PDF1/2 (printed83/84) visually inspected",
+      "access_note": "Web reader returned502; direct public HTTPS download succeeded normally",
+      "ocr_correction": "PDF2 OCR/search excerpt reads SEPT13; rendered header and PDF1 session heading read September12"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -153,7 +164,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Audit drawing dates/revisions, legend, datum and corresponding architectural elevations; acquire issued permits, as-built/occupancy records and preApril1995 alteration documents. Authenticate original Reddit parcel before comparing measured floor/grade and any in-place sediment.",
+  "next_test": "Locate1904 Liberty grade plans, affected parcels, reimbursement claims and completed work records; independently link Schlenker and original Reddit parcel. Obtain preApril1995 alterations and architectural/as-built elevations. Audit remaining drawing dates, route joins and datum before any floor/grade or sediment comparison.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -425,7 +436,9 @@
       2,
       3,
       5,
-      13
+      10,
+      13,
+      15
     ],
     "letter_date": "1998-10-05",
     "letter_file_numbers": [
@@ -451,6 +464,55 @@
     "as_built_verified": false,
     "sediment_thickness": null,
     "lower_opening_closure_date": null,
-    "construction_completion_date": null
+    "construction_completion_date": null,
+    "revision_letter": {
+      "locator": "PDF10",
+      "date": "1999-06-02",
+      "author": "Andrew Hauptman; SmithGroup/ArchitectsFour",
+      "addressee": "Jeff Kahan; City Planning Department",
+      "reported_conversation_date": "1999-05-12",
+      "reported_changes": [
+        "Added water line for new sprinkler system",
+        "Removed one parking space and added two bike parking loops; letter attributes removal to intrusion of a site wall"
+      ],
+      "status": "Enclosed updated proposed site-plan drawings; not construction completion",
+      "municipal_received_stamp": "1999-06-02",
+      "handwritten_approval_identity_authenticated": false
+    },
+    "storm_sewer_profiles": {
+      "locator": "PDF15; sheet C500",
+      "title": "Storm sewer profiles",
+      "issued_for": "Bidding",
+      "issued_date": "1999-01-29",
+      "inspected_crops": [
+        "Issuance/date block",
+        "Lower sewer profile"
+      ],
+      "qualitative_labels": [
+        "Existing grade",
+        "Proposed grade",
+        "Flood proof wall",
+        "Proposed wall; see architectural plan for detail",
+        "Trench drain"
+      ],
+      "interpretation": "Engineering profile distinguishes existing and proposed grades; not a logged natural sediment section",
+      "all_profile_routes_matched": false,
+      "actual_grade_change_verified": false
+    }
+  },
+  "earlier_liberty_grade_control": {
+    "source_id": "S426",
+    "locator": "PDF2/printed84",
+    "council_date": "1904-09-12",
+    "street": "Liberty Street",
+    "side": "South",
+    "east_west_segment": null,
+    "affected_addresses": null,
+    "resolution": "Reimburse owners damaged by sidewalk-grade elevation and build cement protection around cellar windows at risk of water entry",
+    "grade_increment": null,
+    "grading_date": null,
+    "protective_wall_execution_verified": false,
+    "schlenker_parcel_join_verified": false,
+    "original_reddit_image_join_verified": false
   }
 }

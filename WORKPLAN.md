@@ -1255,3 +1255,8 @@ S424 council report PDF1/16/17 visually inspected: September21,1998 approval des
 ### 2026-10-11 — Schlenker municipal drawing packet
 
 S425: acquired and hashed16-page image-only project packet through city large-format lookup; PDF2/3 approval letter and PDF5/13 grading/utility drawings visually inspected. [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md) distinguish retained front/removed rear/proposed parking and drainage from executed work. Index/sheet/event dates remain separate; datum, original floor levels and pre1995 opening closures unverified.31drafts/425sources; no independent scientific review, all twenty objectives active.
+
+
+### 2026-10-11 — Liberty1904 grade control and Schlenker1999 revisions
+
+S426 council scan PDF1/2 visually confirms September12,1904 resolution concerning raised Liberty south-side sidewalks and cellar-window protection; affected parcels, amounts and execution remain unverified. [Grade control](research/LIBERTY-1904-GRADE-CONTROL.md) preserves these limits and OCR correction. S425 additional PDF10/15 inspections establish June1999 revision correspondence and January1999 bidding sewer profiles, distinct from archive index1998 and natural stratigraphy.31drafts/426sources; all twenty objectives active, no independent scientific review.

@@ -7670,8 +7670,8 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "PDF2/3 October5,1998 approval letter; PDF5 retained/removed building labels and drainage plan; PDF13 sheet C300 grading/utility/soil erosion control plan. Other pages navigated by thumbnails only.",
-      "limitations": "Index date is not every sheet date or construction completion. Packet includes proposed work; as-built survey, issued permits and occupancy records unverified. Selected elevation labels are not original construction levels or sediment thickness. Drawing dates, revisions, datum and all sheet content not fully audited. No original Reddit-image match or pre1995 opening-closure date. Municipal record lineage overlaps S423/S424; packet not independent confirmation of their council action.",
+      "inspected": "PDF2/3 October5,1998 approval letter; PDF5 retained/removed building labels and drainage plan; PDF10 June2,1999 revision letter; PDF13 sheet C300 grading/utility/soil erosion control plan; PDF15 C500 storm sewer profiles with issuance/date and lower-profile crops visually inspected. Other pages navigated by thumbnails only.",
+      "limitations": "Index date is not every sheet date or construction completion. Packet includes proposed work; as-built survey, issued permits and occupancy records unverified. Selected elevation labels are not original construction levels or sediment thickness. Drawing dates, revisions, datum and all sheet content not fully audited. No original Reddit-image match or pre1995 opening-closure date. Municipal record lineage overlaps S423/S424; packet not independent confirmation of their council action. PDF10 letter and PDF15 bidding date establish mixed document dates within this index record; not completed works.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
@@ -7680,11 +7680,38 @@
           "retrieved_date": "2026-10-11",
           "bytes": 28048376,
           "pages": 16,
-          "hash_scope": "Complete image-only PDF; PDF2/3 city letter and PDF5/13 grading/utility drawings visually inspected; all-page thumbnails used only for navigation",
+          "hash_scope": "Complete image-only PDF; PDF2/3/5/10/13/15 visually inspected; other-page thumbnails used only for navigation",
           "query_field": "A2 BUILD Location",
           "query": "*213*",
           "selected_index_record": "SCHLENKER HARDWARE; 9292A23.5; 9/21/1998; 213 W LIBERTY / 215 W LIBERTY",
           "acquisition": "Whole indexed result row download; modal PDF viewer did not display a document; stable direct file URL not captured"
+        }
+      ]
+    },
+    {
+      "id": "S426",
+      "title": "Ann Arbor council proceedings, September12,1904: Liberty sidewalk grade and cellar-window protection",
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19040912.pdf",
+      "creator": "Ann Arbor Common Council; scan hosted by Ann Arbor District Library",
+      "publication_date": null,
+      "record_event_date": "1904-09-12",
+      "source_type": "Printed municipal proceedings in a digitized scan",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 printed83 session date and separate Ashley paving proposal; PDF2 printed84 Liberty south-side sidewalk-grade reimbursement and cellar-window protection resolution.",
+      "limitations": "Resolution provides no addresses, East/West segment, grade increment, original grade section or completed protective-wall record. Schlenker appears in a vote list, not a parcel identification. No authenticated link to surviving Schlenker fabric or original Reddit image. Meeting date is not exact grading date or original publication date. Paving/excavation estimates on PDF1 concern South Ashley and cannot be assigned to Liberty.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19040912.pdf",
+          "sha256": "fee95061beed0e1b73c3f4a0b83619137e275b562be72d601e7463869923d002",
+          "retrieved_date": "2026-10-11",
+          "bytes": 4117402,
+          "pages": 7,
+          "hash_scope": "Complete delivered scan; PDF1/2 (printed83/84) visually inspected",
+          "access_note": "Web reader returned502; direct public HTTPS download succeeded normally",
+          "ocr_correction": "PDF2 OCR/search excerpt reads SEPT13; rendered header and PDF1 session heading read September12"
         }
       ]
     }

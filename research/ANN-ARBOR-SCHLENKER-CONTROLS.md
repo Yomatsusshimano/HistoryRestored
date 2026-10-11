@@ -1,6 +1,6 @@
 # Ann Arbor: a candidate building and documented renovation
 
-Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S425. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
+Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S426. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
 
 The [Reddit discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) names two different properties: a Starbucks on West Liberty and a Schlenker building farther along the street. The selected indexed comment proposes a debris flow from the northeast. Full thread and original photographs remain unavailable. Naming a nearby building does not authenticate either pictured parcel.
 
@@ -89,3 +89,11 @@ PDF5 was visually inspected at full-sheet and footprint-crop scales. Its central
 The archive index date, letter date and individual sheet dates are separate. This packet's sheet dates/revisions and elevation datum have not all been audited. Printed elevation labels are not adopted as original 1906 floor levels, measured mud thickness or the date of a deposit. All-page thumbnails served only as navigation; selected PDF2/3/5/13 are the inspected portions.
 
 The acquired plan makes the building comparison more specific, but does not date lower-opening closures already suggested by the April 1995 photograph. Original Reddit images remain unmatched. Next inspect architectural elevations and revision histories, then issued permits, as-built/occupancy records and earlier alterations. No dated natural sediment layer, debris-flow reconstruction or catastrophe date is established. All twenty objectives remain active.
+
+## Revised plans and a separate earlier grading lead
+
+Further inspection of S425 found **June 2, 1999 correspondence on PDF10**, from Andrew Hauptman to city planner Jeff Kahan, enclosing updated proposed site-plan sets. It reports a new sprinkler water line and replacement of one parking space with two bicycle loops, attributing the space removal to a site wall. The received stamp also reads June2,1999. The handwritten approval identity was not authenticated. These are reported plan revisions, not proof of execution or completion.
+
+PDF15, **C500 Storm Sewer Profiles**, has an issuance block reading **Bidding, January29,1999**. Its profiles label existing versus proposed grade, drainage and a flood-proof wall; a wall note refers to architectural plans. Full-sheet and selected issuance/lower-profile crops were inspected. This is an engineering profile, not a measured natural soil stratigraphy. Profile routes and datum remain unverified; no grade difference is adopted as mud thickness. The1999 documents demonstrate why the packet's September1998 index cannot date all its contents.
+
+A separate [1904 Liberty Street grade control](LIBERTY-1904-GRADE-CONTROL.md), S426, documents a council resolution concerning raised sidewalks and protection around cellar windows. Addresses and the affected segment are unspecified. It is a retrieval target for a competing local mechanism, not an explanation assigned to this building. No original Reddit-image match or dated natural deposit is established.
