@@ -25,7 +25,8 @@
     "S434",
     "S435",
     "S436",
-    "S437"
+    "S437",
+    "S438"
   ],
   "retrievals": [
     {
@@ -251,7 +252,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Locate correctedMW-1/2/3A-1–A-3 and establish error scope before layer correlation or peat dating targets. Compare original1929drain-construction records with earlier map editions; retain chronology conflict. Original1989W-series logs and parcel-specific factory evidence remain needed.",
+  "next_test": "Recover original photo accessions/captions and contemporary contracts or as-built records for precise creek segment and year. Compare corrected MW-1/2/3 logs before soil correlations. Original Reddit image/property match and parcel-specific sediment evidence remain unresolved.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -812,7 +813,8 @@
   "creek_enclosure_date_conflict": {
     "source_ids": [
       "S434",
-      "S437"
+      "S437",
+      "S438"
     ],
     "earlier_report_statement": {
       "source_id": "S437",
@@ -831,6 +833,32 @@
     },
     "resolved": false,
     "possible_explanations": "Different work stages, map depiction or reporting error; no explanation adopted",
-    "construction_record_verified": false
+    "construction_record_verified": false,
+    "modern_collection_attribution": {
+      "source_id": "S438",
+      "interval": [
+        1922,
+        1926
+      ],
+      "scope": "City landing page and map description, not individually verified capture dates",
+      "date_conflict_resolved": false
+    }
+  },
+  "historic_construction_photo_control": {
+    "source_id": "S438",
+    "catalog_location": "601 W Washington St",
+    "feature_object_id": 5,
+    "visually_inspected_attachment_ids": [
+      42,
+      43,
+      49
+    ],
+    "individual_capture_dates": null,
+    "original_archive_accessions": null,
+    "construction_activity_visible": true,
+    "soil_profile_verified": false,
+    "property_join_to_415_washington": false,
+    "property_join_to_schlenker": false,
+    "independent_witness_count": null
   }
 }

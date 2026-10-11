@@ -1300,3 +1300,8 @@ S436 cover,plan andMW-1/2/3 logs visually inspected; [profile comparison](resear
 ### 2026-10-11 — Adverse source-version finding and drainage date conflict
 
 S4371994investigationPDF321 correction notice visually inspected: earlierMW-1/2/3 logs had unspecified error; corrected sheets not located. Existing transcriptions preserved and derivedprofileuse placed on hold. PDF328 states1929creekenclosure, conflicting with S4341908–1916mapinference; no reconciliation assumed. [Correction record](research/WEST-WASHINGTON-1992-SOIL-LOGS.md). Next replacementA-1–A-3 and originalconstructionrecords.31drafts/437sources; all twenty objectives active, no independent scientific review.
+
+
+### 2026-10-11 — Reddit R005: municipal construction-photo lead
+
+S438 city GIS collection and three catalog601Washington construction images visually inspected; workers/forms/excavation visible, individual capture dates and original accessions unresolved. Modern1922–1926 attribution adds a third drainage chronology account without resolving1908–1916/1929 conflict. Shared historic/1984–1985 service and modern sign attachment demonstrate heterogeneous catalog scope. Properties remain separate; no natural mud thickness or event age established. [Photo control](research/ALLEN-CREEK-CONSTRUCTION-PHOTOS.md). Next original captions and segment-specific construction records.31 sourced drafts/438 sources; all twenty objectives active.

@@ -8001,6 +8001,71 @@
           "access_note": "Web reader rejected file size; normal public HTTPS download succeeded. Renderer font warnings occurred; selected pages visually checked."
         }
       ]
+    },
+    {
+      "id": "S438",
+      "title": "City of Ann Arbor historic Allen Creek map: construction photo attachments and modern date attribution",
+      "url": "https://www.a2gov.org/systems-planning/water-resources/stormwater/historic-allen-creek/",
+      "creator": "City of Ann Arbor; original photographers and archive accession numbers unresolved",
+      "publication_date": null,
+      "source_type": "Modern municipal GIS catalog with historical photograph reproductions and interpretive sign photograph",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "City landing page; public app/webmap JSON; photo layer attributes and attachment lists for objects5,7,11. Visually inspected object5 attachments42,43,49 (Drain15,16,12, catalog601W.Washington), object7 attachment22 (modern interpretive sign, catalog314W.Liberty).",
+      "limitations": "1922–1926 is a modern collection-level attribution, not authenticated capture dates for inspected images. Feature Notes null; no individual historical dates or original accession metadata inspected. Both historic and1984–1985 map layers use the same service; layer title alone cannot date an attachment. Construction scenes are mutually related, not three independent witnesses. Catalog601Washington differs from415Washington soil site and213–215LibertySchlenker candidate; no property join or natural sediment thickness. Sign includes other periods and locations, demonstrating collection heterogeneity. Earlier1908–1916 versus1929 chronology conflict remains unresolved. No contemporary contract/as-built verified.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.arcgis.com/sharing/rest/content/items/fd15b447829449ef8fe1ecdc107083d8/data?f=json",
+          "bytes": 10724,
+          "sha256": "b565f055bf44f98f99effb8530f34170696536ad8b4c7128d416e34787ccbbf1",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved response; PowerShell JSON snapshots may be reserialized. Images visually inspected; no public mirror."
+        },
+        {
+          "url": "https://www.arcgis.com/sharing/rest/content/items/20969a03bf9e496789b60420c2f616d0/data?f=json",
+          "bytes": 248460,
+          "sha256": "ba38e110f83e516c37c4ba30ec37793380d733cb5dad1f978f2ef344fd9f91f5",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved response; PowerShell JSON snapshots may be reserialized. Images visually inspected; no public mirror."
+        },
+        {
+          "url": "https://services2.arcgis.com/cenCPuKxOZuq6BCE/arcgis/rest/services/HistoricAllenCreek_PhotoPoints/FeatureServer/1/query?where=1%3D1&outFields=*&returnGeometry=false&f=json",
+          "bytes": 5262,
+          "sha256": "12be0db71adb323fde5c02077e4804ce88571a25643d0e8d39c3676b44e5362e",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved response; PowerShell JSON snapshots may be reserialized. Images visually inspected; no public mirror."
+        },
+        {
+          "url": "https://services2.arcgis.com/cenCPuKxOZuq6BCE/arcgis/rest/services/HistoricAllenCreek_PhotoPoints/FeatureServer/1/5/attachments/42",
+          "bytes": 1644338,
+          "sha256": "4d3b571aed421c726bcb9aa9ecb1b78d5f4b0ab0a5397efb3800cb123a039412",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved response; PowerShell JSON snapshots may be reserialized. Images visually inspected; no public mirror."
+        },
+        {
+          "url": "https://services2.arcgis.com/cenCPuKxOZuq6BCE/arcgis/rest/services/HistoricAllenCreek_PhotoPoints/FeatureServer/1/5/attachments/43",
+          "bytes": 3440478,
+          "sha256": "780ac605cf31cab3950cff28e29c350a22ba7d8b0689222254c2c2cc88f31f68",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved response; PowerShell JSON snapshots may be reserialized. Images visually inspected; no public mirror."
+        },
+        {
+          "url": "https://services2.arcgis.com/cenCPuKxOZuq6BCE/arcgis/rest/services/HistoricAllenCreek_PhotoPoints/FeatureServer/1/5/attachments/49",
+          "bytes": 1472128,
+          "sha256": "767f44a0f7b851c088b2a98b0cc19f19f9c717090a4b3c9042a3b02edb2f14f3",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved response; PowerShell JSON snapshots may be reserialized. Images visually inspected; no public mirror."
+        },
+        {
+          "url": "https://services2.arcgis.com/cenCPuKxOZuq6BCE/arcgis/rest/services/HistoricAllenCreek_PhotoPoints/FeatureServer/1/7/attachments/22",
+          "bytes": 3139783,
+          "sha256": "bff24202b230ef179f0ad9c00436eae9411d7c528686bf8d6ddf115e5de2dd61",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved response; PowerShell JSON snapshots may be reserialized. Images visually inspected; no public mirror."
+        }
+      ]
     }
   ]
 }
