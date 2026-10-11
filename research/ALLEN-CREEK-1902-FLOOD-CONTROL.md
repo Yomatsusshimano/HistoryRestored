@@ -1,5 +1,7 @@
 # Allen's Creek: a documented 1902 flood-response control
 
+**Source correction:** The1994report identifies an error in earlierMW-1/2/3logs. Derived profile use is on hold pending replacement-sheet comparison. Creek enclosure dates also conflict; see the correction section below.
+
 Research draft, 2026-10-11 (America/New_York). S429–S431; follow-up to Reddit lead R005. No independent scientific review.
 
 The [July 8, 1902 council proceedings](https://aadl.org/sites/default/files/docfiles/Minutes_19020708.pdf), S430, PDF1/2 (printed317/318), were visually inspected. A resolution's recital attributes destruction of seven culverts, loss of embankments and impassable streets to recent rainfall increasing Allen's Creek waters. Council adopted a call for a July16 special election to seek $25,000 for repairs. That is an election call, not an inspected result or completed expenditure. Council also adopted a request for the fire commissioners to supply siphons and help removing water from cellars in the flooded district. Addresses, depths and completed aid remain unknown.
@@ -59,3 +61,14 @@ These observations provide a useful disturbed-ground comparison. They neither es
 ## Individual1992logs recovered
 
 [WestWashington1992soil logs](WEST-WASHINGTON-1992-SOIL-LOGS.md), S436, record sand/cinder/wood fill and peat in two of three mapped wells. They provide located descriptive layers while retaining unknown ages, missing common elevations and separate parcels. They do not substitute for unlocated1989W-series logs or establish1902mud.
+
+
+## Correction notice recovered — earlier profiles on hold
+
+S437, the April15,1994 investigation in the [same public packet](https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf), PDF321/printed6, expressly says the previously submitted MW-1/2/3 logs contained an error and that corrected logs are inAppendixA. The inspected text does not identify the error's scope. **Hold derived profile correlations and peat dating targets until comparing replacement sheets.** Earlier transcriptions remain preserved as source-version evidence. Do not silently replace them or assume their soil contacts survived the correction.
+
+PDF347–349 are labelledA-4–A-6 and concernMW-4/5/6. They are not the correctedMW-1/2/3 logs. Selected navigation has not locatedA-1–A-3; that is a retrieval limit, not proof those records do not exist.
+
+PDF328/printed13 gives a generalized soil sequence with upper mixed material including cinders and brick debris, underlying silty sand and peat, and proposes former marsh/swamp accumulation. This interpretation has no inspected physical age determination. It also states creek enclosure occurred in**1929**, conflicting with S434's**1908–1916**map-based interval. Different work stages could explain this, but construction records are required; no reconciliation is adopted. A map omission alone is insufficient to date completed enclosure.
+
+This adverse finding changes the next step: resolve source versions and drainage chronology before using profiles to test a catastrophe model. No original1989logs, factory profile, Schlenker cause or common event date is established.

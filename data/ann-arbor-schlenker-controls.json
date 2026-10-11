@@ -24,7 +24,8 @@
     "S433",
     "S434",
     "S435",
-    "S436"
+    "S436",
+    "S437"
   ],
   "retrievals": [
     {
@@ -250,7 +251,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Locate missing1989W-series logs and survey datum; compare individual1992fill/peat contacts with later located borings. Seek emplacement records or archived peat/material samples with stratigraphic provenance before dating or correlating layers. Do not transfer Washington profiles toHuronfactory orLibertybuilding.",
+  "next_test": "Locate correctedMW-1/2/3A-1–A-3 and establish error scope before layer correlation or peat dating targets. Compare original1929drain-construction records with earlier map editions; retain chronology conflict. Original1989W-series logs and parcel-specific factory evidence remain needed.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -804,6 +805,32 @@
     "peat_age": null,
     "common_elevation_verified": false,
     "relation_to_1989_logs": "Different investigation; original1989W-series logs still not located",
-    "physical_event_correlation_verified": false
+    "physical_event_correlation_verified": false,
+    "correction_notice_source": "S437",
+    "derived_profile_use": "ON_HOLD_PENDING_CORRECTED_LOG_COMPARISON"
+  },
+  "creek_enclosure_date_conflict": {
+    "source_ids": [
+      "S434",
+      "S437"
+    ],
+    "earlier_report_statement": {
+      "source_id": "S437",
+      "locator": "PDF328/printed13",
+      "year": 1929,
+      "statement": "Creek enclosed in underground cement conduits as storm-sewer system"
+    },
+    "later_report_inference": {
+      "source_id": "S434",
+      "locator": "PDF33/printed28",
+      "interval": [
+        1908,
+        1916
+      ],
+      "basis": "Sanborn map comparison"
+    },
+    "resolved": false,
+    "possible_explanations": "Different work stages, map depiction or reporting error; no explanation adopted",
+    "construction_record_verified": false
   }
 }

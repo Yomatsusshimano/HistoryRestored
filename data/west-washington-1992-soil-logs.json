@@ -69,7 +69,8 @@
         ]
       ],
       "sampling_method_as_printed": "SS",
-      "lower_unbounded_description": "Brown, medium sand below10ft3in"
+      "lower_unbounded_description": "Brown, medium sand below10ft3in",
+      "version_status": "EARLIER_LOG_FLAGGED_BY_1994_CORRECTION_NOTICE"
     },
     {
       "source_id": "S436",
@@ -115,7 +116,8 @@
         ]
       ],
       "sampling_method_as_printed": "SS",
-      "lower_unbounded_description": "Medium sand, brown, wet below9ft"
+      "lower_unbounded_description": "Medium sand, brown, wet below9ft",
+      "version_status": "EARLIER_LOG_FLAGGED_BY_1994_CORRECTION_NOTICE"
     },
     {
       "source_id": "S436",
@@ -143,12 +145,22 @@
         ]
       ],
       "sampling_method_as_printed": "SS",
-      "lower_unbounded_description": "Medium brown sand, wet below8ft"
+      "lower_unbounded_description": "Medium brown sand, wet below8ft",
+      "version_status": "EARLIER_LOG_FLAGGED_BY_1994_CORRECTION_NOTICE"
     }
   ],
   "missing_1989_logs_resolved": false,
   "correlation_with_1902_flood_verified": false,
   "factory_parcel_match_verified": false,
   "schlenker_parcel_match_verified": false,
-  "independent_scientific_review": false
+  "independent_scientific_review": false,
+  "correction_notice": {
+    "source_id": "S437",
+    "locator": "PDF321/printed6",
+    "notice": "Earlier MW-1/2/3 logs had an error; report says corrected logs included inAppendixA",
+    "scope_of_error": null,
+    "replacement_sheets_located": false,
+    "derived_profile_use": "ON_HOLD_PENDING_CORRECTED_LOG_COMPARISON",
+    "preservation": "Earlier transcriptions retained as source-version evidence, not endorsed corrected profiles"
+  }
 }

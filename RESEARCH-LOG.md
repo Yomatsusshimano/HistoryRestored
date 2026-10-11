@@ -2121,3 +2121,8 @@ S435originalENCOTEC report recovered within S434AppendixG; PDF132 and156–163 v
 ### 2026-10-11 — Individual1992WestWashington well logs
 
 S436 cover,plan andMW-1/2/3 logs visually inspected; [profile comparison](research/WEST-WASHINGTON-1992-SOIL-LOGS.md) and structured intervals published. Fill/cinders/wood and peat contrasts retained; ages/common elevations/1989logs unresolved. Separate Washington,Huron,Liberty parcels. Next originalW-series logs,datum,emplacement records and archived peat provenance.31drafts/436sources; all twenty objectives active, no independent scientific review.
+
+
+### 2026-10-11 — Adverse source-version finding and drainage date conflict
+
+S4371994investigationPDF321 correction notice visually inspected: earlierMW-1/2/3 logs had unspecified error; corrected sheets not located. Existing transcriptions preserved and derivedprofileuse placed on hold. PDF328 states1929creekenclosure, conflicting with S4341908–1916mapinference; no reconciliation assumed. [Correction record](research/WEST-WASHINGTON-1992-SOIL-LOGS.md). Next replacementA-1–A-3 and originalconstructionrecords.31drafts/437sources; all twenty objectives active, no independent scientific review.
