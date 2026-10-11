@@ -5,7 +5,8 @@
     1024,
     1025,
     1026,
-    1027
+    1027,
+    1030
   ],
   "retrievals": [
     {
@@ -38,6 +39,27 @@
       "image_url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1027_0000_710.jpg",
       "image_sha256": "84afc2e05bb7bd3febd20625342648a1da8e3bae3903fd1525e0ea961f911d5d",
       "image_bytes": 296354
+    },
+    {
+      "page": 1028,
+      "html_url": "https://www.persee.fr/doc/page/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1028_0000",
+      "image_url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1028_0000_710.jpg",
+      "image_sha256": "82d31d565bd664e109217517e5cbfb444be4f7182fcdc1796f9da63a63947b8a",
+      "image_bytes": 18859
+    },
+    {
+      "page": 1029,
+      "html_url": "https://www.persee.fr/doc/page/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1029_0000",
+      "image_url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1029_0000_710.jpg",
+      "image_sha256": "b8819708918fe941bdf26b0ba9396af1fad925d4be68494dd3f79b899d94e41b",
+      "image_bytes": 4671
+    },
+    {
+      "page": 1030,
+      "html_url": "https://www.persee.fr/doc/page/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1030_0000",
+      "image_url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1030_0000_710.jpg",
+      "image_sha256": "4b47dca81c401bab5e5190c95213d7f23724540945116bc95f2ffb064bea4a11",
+      "image_bytes": 265550
     }
   ],
   "archival_references": [
@@ -53,6 +75,13 @@
       "page": 1025,
       "footnote": 2,
       "association": "1773 sale to Ecole Militaire",
+      "original_acquired": false
+    },
+    {
+      "printed": "A.S., D1 Z, vol. 88",
+      "page": 1030,
+      "footnote": 1,
+      "association": "Continuation of authorization land-use provisions",
       "original_acquired": false
     }
   ],
@@ -70,5 +99,23 @@
   "completion_date": null,
   "foundation_parcel_join": false,
   "full_article_inspected": false,
-  "public_image_mirror": false
+  "public_image_mirror": false,
+  "delivery_limits": {
+    "1028": "Large white mask; no underlying map claims",
+    "1029": "Blank public image; no underlying content claims"
+  },
+  "reported_final_filling": {
+    "year": 1812,
+    "source_page": 1030,
+    "basis": "Zunz associates completion with second quai d Orsay section",
+    "works_record_acquired": false,
+    "separate_footnote_at_completion_sentence": false
+  },
+  "dictionary_lead": {
+    "printed": "Dictionnaire Lazare, ed. 1855",
+    "page": 1030,
+    "footnote": 2,
+    "association": "Sentence about resumed quay works and1704 council act",
+    "original_acquired": false
+  }
 }

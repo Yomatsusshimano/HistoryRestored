@@ -6048,8 +6048,8 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "Original article pages1024–1027 visually inspected through advertised public page images; article spans1024–1065.",
-      "limitations": "Remaining article uninspected. Original1773 instruments unacquired. Q1 1281 footnote belongs to sale; no separate citation beside authorization quotation on inspected page. Natural filling is author inference; no dated sediment, execution completion or foundation parcel join. Maps reproduced/derived, not independently authenticated surveys.",
+      "inspected": "Original pp1024–1027 and1030 visually inspected;1028 masked and1029 blank public deliveries checked only for access limits. Article spans1024–1065.",
+      "limitations": "Other pages uninspected;1028mask/1029blank not interpreted. Original instruments and execution accounts unacquired. E2013 grant/Q1 1281 sale/D1 Z vol88 land-use continuation references separated. 1812 final filling is author claim; no separate footnote at completion sentence. Lazare1855 footnote follows resumed-quay/1704-act sentence. No dated sediment or foundation parcel join.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
@@ -6070,6 +6070,21 @@
         {
           "url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1027_0000_710.jpg",
           "sha256": "84afc2e05bb7bd3febd20625342648a1da8e3bae3903fd1525e0ea961f911d5d",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1028_0000_710.jpg",
+          "sha256": "82d31d565bd664e109217517e5cbfb444be4f7182fcdc1796f9da63a63947b8a",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1029_0000_710.jpg",
+          "sha256": "b8819708918fe941bdf26b0ba9396af1fad925d4be68494dd3f79b899d94e41b",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1030_0000_710.jpg",
+          "sha256": "4b47dca81c401bab5e5190c95213d7f23724540945116bc95f2ffb064bea4a11",
           "retrieved_date": "2026-10-11"
         }
       ]

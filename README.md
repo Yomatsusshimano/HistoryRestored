@@ -8,7 +8,7 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
-- [Partial channel filling and archival leads](research/CYGNES-PARTIAL-FILL-ARCHIVAL-LEADS.md): selected original study pages, correctly associated footnotes and unknown completion.
+- [Partial channel filling and archival leads](research/CYGNES-PARTIAL-FILL-ARCHIVAL-LEADS.md): selected study pages, reported1812completion, citation roles and masked-map limits.
 
 - [1859 island property dispute](research/CYGNES-1859-PROPERTY-DISPUTE.md): pre-tower legal reporting, channel authorization and missing execution records.
 
