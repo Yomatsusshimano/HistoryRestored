@@ -25,3 +25,5 @@ The source line beneath letter19759 says it was taken from a **minute in the Arc
 This result narrows the meaning one might otherwise attach to the inventory’s completion heading: a same-date published candidate concerns allocations and plans rather than certification. It does not invalidate a different uninspected letter, prove the channel remained open in1813, or establish that the1970account’s1812filling date is wrong. Channel filling and archive-building foundations are different operations.
 
 Next inspect the Lazare item and trace the cited minute, obtain the requested ownership/site plans and actual works accounts, and register their parcels to the tower plan. The actual filling date, amount, deposit provenance and exact object joins remain unknown. No catastrophe or historical-rewriting mechanism follows; all twenty objectives remain active.
+
+Follow-up: an [undated museum-held Archives site plan](ARCHIVES-PALAIS-SITE-PLAN.md) supplies a candidate spatial lead. Its connection to this request and execution of the depicted buildings remain unverified.

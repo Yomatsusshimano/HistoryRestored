@@ -6236,6 +6236,28 @@
           "hash_scope": "Advertised page image; actual image URL retained in ledger"
         }
       ]
+    },
+    {
+      "id": "S368",
+      "title": "Anonymous Archives palace terrain plan, undated Musée Carnavalet drawing",
+      "url": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/palais-general-des-terrains-destines-a-la-construction-du-palais-des",
+      "creator": "Anonymous drawing; Musée Carnavalet / Paris Musées catalog and image delivery",
+      "publication_date": null,
+      "source_type": "Museum-held manuscript planning drawing and institutional catalog",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Complete single image visually surveyed; six original-resolution detail crops inspected for title, intended building footprint, marsh/street, scale, river frontage and western parcels. Catalog HTML and IIIF metadata inspected.",
+      "limitations": "No catalog creation date or authenticated inventory number; full annotation transcription, existing/proposed classification and georegistration incomplete. Same plan requested in1813unverified. Intended palace footprint is not completed construction; marsh label not dated sediment; no exact channel completion or tower-foundation association.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cardtop000193_001.jpg?itok=kTud4XUS",
+          "sha256": "2b6150369288b6c32af4b740eff5c156a5a32b2c4938c92fb1f3b501a94802d7",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Institutional advertised JPEG; actual2611x2160image,617102bytes"
+        }
+      ]
     }
   ]
 }

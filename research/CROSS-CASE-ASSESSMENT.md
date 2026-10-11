@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Intended Archives buildings and undated spatial lead
+
+S368 undated anonymous Archives terrain plan inspected: intended palace/commercial footprint, marsh and street/frontage labels. Original Plan général differs from catalog Palais général; date,1813request match, execution and tower-parcel join unknown.28 drafts/368sources; all twenty objectives active. See [plan audit](ARCHIVES-PALAIS-SITE-PLAN.md).
+
 ### 2026-10-11 — Quay correspondence and prospective foundations
 
 S367complete printed26March1813letter19759inspected: funds, prospective Archives foundations and requested Concorde–Iéna ownership/site plans, not channel-completion certification. Same-date Lazare item and underlying minute remain unverified.28drafts/367sources; all twenty objectives active. See [correspondence audit](CYGNES-NAPOLEON-1813-LETTER.md).

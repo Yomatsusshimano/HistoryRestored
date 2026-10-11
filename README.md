@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Undated Archives site plan](research/ARCHIVES-PALAIS-SITE-PLAN.md): intended buildings, depicted terrain and unverified1813request match.
+
 - [1813 quay correspondence](research/CYGNES-NAPOLEON-1813-LETTER.md): printed funding and plan requests, prospective foundations and unknown archival match.
 
 - [1899 island-work inventory](research/CYGNES-LAZARD-1899-INVENTORY.md): dated sale and correspondence targets, selective cataloging and originals/copies.

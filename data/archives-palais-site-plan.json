@@ -1,0 +1,92 @@
+{
+  "source_id": "S368",
+  "case_id": "C006",
+  "status": "SOURCED_DRAFT",
+  "catalog_url": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/palais-general-des-terrains-destines-a-la-construction-du-palais-des",
+  "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320293875/manifest",
+  "catalog_title": "Palais général des terrains destinés à la construction / du Palais des Archives.",
+  "original_title_reading": "Plan général des terrains destinés à la construction du Palais des Archives.",
+  "title_difference_cause": null,
+  "creator_catalog": "Anonyme",
+  "creation_date": null,
+  "authenticated_inventory_number": null,
+  "canvas_delivery_label": "AZE_CARDTOP000193_001",
+  "image": {
+    "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cardtop000193_001.jpg?itok=kTud4XUS",
+    "bytes": 617102,
+    "sha256": "2b6150369288b6c32af4b740eff5c156a5a32b2c4938c92fb1f3b501a94802d7",
+    "dimensions": [
+      2611,
+      2160
+    ]
+  },
+  "inspection": {
+    "full_image_visual_survey": true,
+    "complete_transcription": false,
+    "selected_original_resolution_details": [
+      "central intended building footprint",
+      "original title",
+      "street extension and marsh labels",
+      "graduated scale",
+      "river frontage",
+      "western parcels"
+    ]
+  },
+  "observations": [
+    {
+      "feature": "Pink footprint",
+      "reading": "Emplacement of Archives palace and commercial buildings",
+      "role": "Intended construction; execution unverified"
+    },
+    {
+      "feature": "Upper shaded tract",
+      "reading": "Marais",
+      "role": "Depicted marsh; no dated sediment measurement"
+    },
+    {
+      "feature": "Street-side strip",
+      "reading": "Path in prolongation of rue de l’Université",
+      "role": "Depicted extension; execution status unknown"
+    },
+    {
+      "feature": "Scale",
+      "reading": "Mètres",
+      "role": "Graduated scale visible; exact ticks and distances not measured"
+    },
+    {
+      "feature": "River frontage",
+      "reading": "Water/shore edge/quay and port labels",
+      "role": "Survey/design geometry unclassified"
+    },
+    {
+      "feature": "Western parcels",
+      "reading": "Divisions and faint ownership text",
+      "role": "Full transcription and title authentication incomplete"
+    }
+  ],
+  "existing_proposed_legend_authenticated": false,
+  "smaller_structure_execution_authenticated": false,
+  "catalog_dimensions_cm": {
+    "work_height": 65.9,
+    "work_width": 78.1,
+    "mount_height": 65.8,
+    "mount_width": 51
+  },
+  "physical_measurement_performed": false,
+  "catalog_series_title_dates_object": false,
+  "napoleon_1813_plan_match": {
+    "related_subject": true,
+    "same_requested_plan_authenticated": false
+  },
+  "channel_filling_completion": null,
+  "foundation_parcel_join": false,
+  "georegistration_performed": false,
+  "elevations_recovered": false,
+  "sediment_measurements_recovered": false,
+  "catalog_rights_label": "CC0 Paris Musées / Musée Carnavalet - Histoire de Paris",
+  "public_image_mirror": false,
+  "access_limits": [
+    "Web catalog fetch cache miss; saved native HTTPS catalog and IIIF delivery inspected",
+    "Faint text and folded sheet limit selected readings; no speculative ownership transcription"
+  ]
+}
