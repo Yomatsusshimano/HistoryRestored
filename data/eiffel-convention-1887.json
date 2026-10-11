@@ -1,0 +1,166 @@
+{
+  "source_id": "S347",
+  "archive_reference": "F/12/3770",
+  "document_date_read": "1887-01-08",
+  "retrieved_date": "2026-10-11",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Convention_sign%C3%A9e_sur_les_modalit%C3%A9s_de_construction_et_d%E2%80%99exploitation_de_la_Tour_de_300_m%C3%A8tres_-_F-12-3770.pdf",
+  "catalog_url": "https://commons.wikimedia.org/wiki/File:Convention_sign%C3%A9e_sur_les_modalit%C3%A9s_de_construction_et_d%E2%80%99exploitation_de_la_Tour_de_300_m%C3%A8tres_-_F-12-3770.pdf",
+  "sha256": "a6c12774a48e4461e294a184f32e717a76e63a504dc96519df041eef7ca3f56e",
+  "sha1": "5e0fa5c7c306900d323c0d848c9eef6bb215b44a",
+  "byte_length": 1130005,
+  "license": "CC BY 4.0",
+  "attribution": "Archives nationales (France), via Wikimedia Commons",
+  "public_copy": "sources/originals/eiffel/convention-1887/F-12-3770.pdf",
+  "digital_pages": 9,
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "manuscript_pages": [
+        1
+      ],
+      "visually_inspected": true
+    },
+    {
+      "pdf_page": 2,
+      "manuscript_pages": [
+        2,
+        3
+      ],
+      "visually_inspected": true
+    },
+    {
+      "pdf_page": 3,
+      "manuscript_pages": [
+        4,
+        5
+      ],
+      "visually_inspected": true
+    },
+    {
+      "pdf_page": 4,
+      "manuscript_pages": [
+        6,
+        7
+      ],
+      "visually_inspected": true
+    },
+    {
+      "pdf_page": 5,
+      "manuscript_pages": [
+        8,
+        9
+      ],
+      "visually_inspected": true
+    },
+    {
+      "pdf_page": 6,
+      "manuscript_pages": [
+        10,
+        11
+      ],
+      "visually_inspected": true
+    },
+    {
+      "pdf_page": 7,
+      "manuscript_pages": [
+        12,
+        13
+      ],
+      "visually_inspected": true
+    },
+    {
+      "pdf_page": 8,
+      "manuscript_pages": [
+        14,
+        15
+      ],
+      "visually_inspected": true
+    },
+    {
+      "pdf_page": 9,
+      "manuscript_pages": [
+        16
+      ],
+      "visually_inspected": true
+    }
+  ],
+  "transcription_scope": "All nine digital surfaces visually surveyed; targeted clause paraphrases, not a diplomatic transcription of every clause. PDF pages 5 and 6 additionally inspected at enlarged rendering.",
+  "article_7": {
+    "pdf_pages": [
+      5,
+      6
+    ],
+    "manuscript_pages": [
+      8,
+      9,
+      10
+    ],
+    "state_contribution_francs": 1500000,
+    "installments": [
+      {
+        "amount_francs": 500000,
+        "trigger": "Metal frame reaches first-floor level"
+      },
+      {
+        "amount_francs": 500000,
+        "trigger": "Metal frame reaches second floor"
+      },
+      {
+        "amount_francs": 500000,
+        "trigger": "Work completed and provisionally accepted for operation"
+      }
+    ],
+    "operating_period": "Exhibition year and twenty years from 1 January 1890",
+    "exhibition_operation": "For Eiffel profit and at his risk",
+    "payment_receipts_acquired": false
+  },
+  "article_11": {
+    "pdf_page": 6,
+    "manuscript_page": 11,
+    "city_ownership_trigger": "After exhibition and return of Champ-de-Mars park",
+    "eiffel_operating_rights": "Twenty years from 1 January 1890; then enjoyment returns to City",
+    "handover_condition": "Good condition for use and maintenance; no special refurbishment demand"
+  },
+  "article_16": {
+    "pdf_page": 8,
+    "manuscript_page": 15,
+    "security_francs": 100000,
+    "refund_condition": "Complete completion and definitive acceptance",
+    "exception_francs": 10000,
+    "exception": "Retained until expiration of contract"
+  },
+  "article_17": {
+    "pdf_pages": [
+      8,
+      9
+    ],
+    "manuscript_pages": [
+      15,
+      16
+    ],
+    "worker_relief_retention_percent": 1,
+    "base_francs": 1500000,
+    "retention_francs": 15000,
+    "accident_responsibility": "Eiffel responsibility remains beyond retained sum"
+  },
+  "closing": {
+    "pdf_page": 9,
+    "manuscript_page": 16,
+    "date": "1887-01-08",
+    "originals_stated": 3,
+    "visible_signatures": [
+      "G. Eiffel",
+      "Poubelle",
+      "E. Lockroy"
+    ],
+    "signature_authentication": false
+  },
+  "annexes": "Drawings, estimate, reports and municipal deliberations are referenced; not visibly reproduced as separate annexes in this nine-page PDF. No claim of complete archival dossier.",
+  "next_tests": [
+    "Dated payment warrants and receipts for each installment",
+    "Construction milestone acceptance reports",
+    "Annexed estimate, drawings and commission reports",
+    "Supplier dispatch and batch acceptance records"
+  ],
+  "scientific_status": "SOURCED_DRAFT; no independent review, payment validation, component dating or hypothesis confirmation"
+}

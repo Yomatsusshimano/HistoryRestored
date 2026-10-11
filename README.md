@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Original 1887 construction agreement](research/EIFFEL-CONVENTION-1887.md): milestone payments, ownership and operating rights, with an attributed public scan.
+
 - [November 1886 tower bulletin](research/EIFFEL-NOVEMBER-1886-BULLETIN.md): dated proposal, reported subsidy vote and source-dependence limits.
 
 - [Tower booklet version controls](research/EIFFEL-TURGAN-VERSION-CONTROLS.md): original page continuity, later-year volume contents and a28-page1886catalog target.

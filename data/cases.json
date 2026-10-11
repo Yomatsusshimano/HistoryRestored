@@ -1189,6 +1189,11 @@
           "source_id": "S346",
           "locator": "Masthead/vue1; printed11-13/vues11-13",
           "statement": "Original20November1886issue places tower article in nonofficial section and declares newspaper dependence. Reports5November1500000francsubsidy vote, projected7000000kg tower and lift proposals. Underlying minutes, actual payment/weight and installed mechanisms uninspected."
+        },
+        {
+          "source_id": "S347",
+          "locator": "F/12/3770; article 7 manuscript p8/PDF5; article11 manuscript p11/PDF6; closing manuscript p16/PDF9",
+          "statement": "Agreement dated 8 January 1887 specifies three 500,000-franc construction milestone installments, City ownership after the exhibition and Eiffel operating rights for twenty years from 1 January 1890. Date and signature marks inspected; actual payments and fulfillment unverified."
         }
       ],
       "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",
@@ -1200,7 +1205,7 @@
         "Repair/reassembly if fabric and earlier records support it"
       ],
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
-      "next_test": "Retrieve5November1886control/finance commission minutes and executed financing agreement; distinguish authorization,payment and total project cost. Compare proposed lift with installed specifications/tests; retain ANMT/Huntington version and Pompey batch retrieval targets.",
+      "next_test": "Retrieve payment warrants/receipts and acceptance reports for the three contractual milestones; acquire annexed estimate, drawings and commission reports. Continue original supplier-letter, delivery and batch-testing retrieval. Authorization, contractual obligation and fulfillment remain separate. Retain the 5 November 1886 commission minutes, installed lift specifications/tests and ANMT/Huntington version comparisons as open targets.",
       "chronology": {
         "reported": "1900 monograph; progress sheet through 8 January 1888; photographic mount inscription 10 February 1888; inspection report 4 January 1889.",
         "dated_object": "Documents and photograph inscription; not independent component manufacture dates.",
@@ -1216,7 +1221,7 @@
         "Fabric dates",
         "Independent quantity and labor-productivity audit"
       ],
-      "dependence": "Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration. Koechlin recruitment correspondence is another company record, not independent supplier corroboration. S150 is an administrative inspection involving an Eiffel representative; it is a distinct document, not wholly independent project evidence. S340 is a separate 1893 publication, but its authors explicitly used industrial exhibits and supplied notes/brochures; independence from supplier or project reports is unproven."
+      "dependence": "Roster and budget belong to the same participant account; internal arithmetic agreement is not independent corroboration. Koechlin recruitment correspondence is another company record, not independent supplier corroboration. S150 is an administrative inspection involving an Eiffel representative; it is a distinct document, not wholly independent project evidence. S340 is a separate 1893 publication, but its authors explicitly used industrial exhibits and supplied notes/brochures; independence from supplier or project reports is unproven. S347 is a distinct administrative contract between the State, City and Eiffel, with project-participant involvement; it does not independently establish fulfillment or new component manufacture."
     },
     {
       "id": "C007",

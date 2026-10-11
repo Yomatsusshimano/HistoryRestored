@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Original construction agreement and payment conditions
+
+S347 institutional scan of the 8 January 1887 agreement inspected: three milestone installments total 1,500,000 francs; City ownership and Eiffel operating rights are separate. Security and worker-relief retention have distinct roles. No receipts, acceptance reports or component manufacture dates established. 28 drafts / 347 sources; all twenty objectives remain active. See [agreement audit](EIFFEL-CONVENTION-1887.md).
+
 ### 2026-10-11 — Dated 1886 proposal and financing roles
 
 S346 original20November1886masthead and pp11–13 inspected. Nonofficial tower article declares newspaper dependence and reports1500000-franc subsidy vote, projected weight and lift concepts. Authorization differs from payment; estimates differ from delivered material and installed equipment.28 drafts /346 sources; all twenty objectives active. See [audit](EIFFEL-NOVEMBER-1886-BULLETIN.md).

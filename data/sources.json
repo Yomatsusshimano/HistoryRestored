@@ -5579,6 +5579,28 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S347",
+      "title": "Convention relative a la Tour Eiffel, 8 January 1887, F/12/3770",
+      "url": "https://commons.wikimedia.org/wiki/File:Convention_sign%C3%A9e_sur_les_modalit%C3%A9s_de_construction_et_d%E2%80%99exploitation_de_la_Tour_de_300_m%C3%A8tres_-_F-12-3770.pdf",
+      "creator": "Edouard Lockroy for the State, Eugene Poubelle for Paris, and Eiffel; scan supplied by Archives nationales (France)",
+      "source_type": "Handwritten construction and operating agreement, institutional scan",
+      "access": "SCAN_INSPECTED",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": "sources/originals/eiffel/convention-1887/F-12-3770.pdf",
+      "inspected": "All nine PDF surfaces visually surveyed; manuscript pages 1-16, including two-page spreads. Targeted articles 7, 11, 16, 17 and closing date/signatures; PDF pages 5-6 additionally enlarged. Date read 8 January 1887 is agreement date, not publication/upload date.",
+      "limitations": "No forensic signature or physical authentication. Annexes referenced but not separately reproduced here. No payment warrants, receipts, milestone acceptance reports, invoices or metal manufacture dating. Overview inspection is not full diplomatic transcription. Contract obligations are not evidence of fulfillment.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Convention_sign%C3%A9e_sur_les_modalit%C3%A9s_de_construction_et_d%E2%80%99exploitation_de_la_Tour_de_300_m%C3%A8tres_-_F-12-3770.pdf",
+          "sha256": "a6c12774a48e4461e294a184f32e717a76e63a504dc96519df041eef7ca3f56e",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": true
+        }
+      ]
     }
   ]
 }
