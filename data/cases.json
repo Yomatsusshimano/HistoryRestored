@@ -3532,12 +3532,22 @@
           "source_id": "S386",
           "locator": "Printed1–7/PDF11–17; attachment header PDF9",
           "statement": "12 February 2020 Civil Design report for 212 E Main describes structural inspection on 11 February, brick arches/steel beams beneath sidewalk, partial collapse and recommended doorway sealing/flowable fill. Approximate 28-by-12-foot plan dimensions not burial depth. Background grade-buildup assertion lacks historic dates/citations; 212/216 and Reddit-photo joins unresolved."
+        },
+        {
+          "source_id": "S387",
+          "locator": "Address/description, MLS11718228, listing date and year-built field",
+          "statement": "Attributed listing associates Sit n Sip with two adjoining buildings at212&216 Main and separate lower/street access. Candidate address bridge only, not parcel authentication; unsupported1701year-built field not adopted."
+        },
+        {
+          "source_id": "S388",
+          "locator": "March1886sheet1 key and Morgan–Washington Main frontage; sheets1–2 overviews",
+          "statement": "Original map distinguishes actual from arbitrary street numbers and marks relative heights. Frontage carries W.Main label; modern E.Main crosswalk, exactbuildingjoin and heightunits/datum unresolved. No gradechange quantified."
         }
       ],
       "physical_evidence": "No original excavation image, site visit, deposit profile or independent measurement. Inspected scans record reported structural condition, addresses and historical photograph reproductions. Follow-up S386 complete report scan and photographs inspected: consultant-reported vault and damaged arches/doorway. No authenticated original Reddit image or independent survey.",
-      "surviving_documents": "Two Reddit discussions, two-page CityWalk brochure, ILCC address report and selected pages of a 96-page public municipal correspondence copy. S386 now supplies the previously sought engineer report as seven scanned pages in a public clerk packet.",
+      "surviving_documents": "Two Reddit discussions, two-page CityWalk brochure, ILCC address report and selected pages of a 96-page public municipal correspondence copy. S386 now supplies the previously sought engineer report as seven scanned pages in a public clerk packet. S387 attributed listing and S388 original March1886 two-sheet map now inspected within recorded extent.",
       "source_interpretation": "Reddit commenters propose buried city, designed lower access, street changes, flooding or fire. Correspondence reports damaged vault and repair planning, not historic burial cause. Civil Design describes a constructed sidewalk vault and asserts earlier grade buildup in uncited background; observed condition and historical assertion remain separate.",
-      "investigation_inference": "Recovered engineer report narrows local structural and repair context. Its 212 E Main address differs from documented business address 216; original photo join and historic grade chronology unresolved. See research/SHELBYVILLE-VAULT-ENGINEER-REPORT.md.",
+      "investigation_inference": "Paired-address commercial description offers plausible212/216bridge; map key and street labels require verified numbering/datum crosswalk before historical grade comparison. No original photo, dated deposit or measured grade change. See research/SHELBYVILLE-ADDRESS-MAP-CONTROLS.md.",
       "competing_explanations": [
         "Designed basement or sidewalk vault access",
         "Deliberate local grading or later filling",
@@ -3545,7 +3555,7 @@
         "Natural deposition or subsidence if demonstrated"
       ],
       "counterevidence": "Contemporary repair planning provides a specific local excavation context. Upper-floor fire loss does not demonstrate lower-floor burial. Different Reddit depths are unmeasured claims rather than replication. A documented engineered sidewalk-support vault and staged remediation provide a concrete local process; the historical buildup account still lacks original grade evidence.",
-      "next_test": "Reconcile 212/216 identifiers and original photograph; acquire adopted resolution, execution diary, original consultant file and historic grade/vault records; investigate same-layer sediment dates without substituting horizontal dimensions or fill instructions.",
+      "next_test": "Authenticate212/216relationship with parcel/deed records, then modern-to-historic map crosswalk and samebuildingfabric. Inspect later maps and dated grade ordinances/profiles; acquire original photograph and completion diary; test same-layer dates.",
       "chronology": {
         "reported": "Sit n Sip vault messages February 2020; separate 222 Main fill planning June 2020; packet forwarding July 2020",
         "dated_object": "Correspondence headers, not deposit or vault construction",
@@ -3562,9 +3572,11 @@
         "Adopted resolution and authenticated original consultant file",
         "Execution diary and actual fill quantities",
         "Deposit profile, sample identity and age",
-        "212/216 address relationship"
+        "Independent parcel authentication of212/216 paired-address listing",
+        "Historic numbering/direction crosswalk",
+        "Relative-height units and datum"
       ],
-      "dependence": "Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct. S385 and S386 repeat the same February emails; not independent witness replication. Consultant structural observations do not independently authenticate its historical background narrative."
+      "dependence": "Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct. S385 and S386 repeat the same February emails; not independent witness replication. Consultant structural observations do not independently authenticate its historical background narrative. Listing reposts share MLSdescription; map story/relativeheight symbols are not independentchronometers."
     }
   ]
 }

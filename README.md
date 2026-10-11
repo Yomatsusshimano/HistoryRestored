@@ -180,3 +180,5 @@ Supplier retrieval update: [Orsay ARO19811268 correspondence](research/EIFFEL-SU
 Reddit site follow-up: [Shelbyville identity and vault repair records](research/SHELBYVILLE-STOREFRONT-IDENTITY.md).
 
 Vault follow-up: [recovered Shelbyville engineer report](research/SHELBYVILLE-VAULT-ENGINEER-REPORT.md).
+
+Historic site controls: [Shelbyville paired address and original 1886 map](research/SHELBYVILLE-ADDRESS-MAP-CONTROLS.md).

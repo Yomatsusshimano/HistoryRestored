@@ -132,5 +132,10 @@
     "Engineer attachment, adopted resolution and execution diaries not inspected",
     "Historic brochure source photographs and fire records not acquired"
   ],
-  "followup_engineer_source_id": "S386"
+  "followup_engineer_source_id": "S386",
+  "paired_address_followup": {
+    "source_id": "S387",
+    "status": "Commercial description lead; independent parcel authentication pending"
+  },
+  "map_followup_source_id": "S388"
 }

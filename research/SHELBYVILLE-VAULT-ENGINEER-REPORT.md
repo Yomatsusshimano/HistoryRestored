@@ -29,3 +29,7 @@ Those recommendations provide a specific local reason for opening the sidewalk, 
 ## Revised next test
 
 First reconcile the 212/216 identifiers using original parcel, business and building records and match the Reddit image to the facade. Then recover dated street-grade decisions, basement/vault plans and execution records. A natural-deposition account needs an in-place sediment profile and age association, not a conversion of vault width or repair lift thickness into a catastrophe measurement. A deliberate-grade-change account needs dated evidence too. This finding narrows the site's structural context while leaving original grade history and event association open. All twenty original objectives remain active.
+
+## Subsequent address/map follow-up, 2026-10-11
+
+An attributed commercial listing reports paired212/216buildings, offering a candidate address bridge while parcel authentication remains open. The original1886map has numbering/direction and relative-height controls requiring verification. See [address/map audit](SHELBYVILLE-ADDRESS-MAP-CONTROLS.md).

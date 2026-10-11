@@ -111,5 +111,10 @@
     "Plan dimensions and recommended lift thickness not burial depth or natural sediment thickness",
     "212/216 identifier mismatch and original Reddit image unresolved",
     "222 Main June planning remains separate; no execution assumed"
-  ]
+  ],
+  "paired_address_followup": {
+    "source_id": "S387",
+    "status": "Commercial description lead; independent parcel authentication pending"
+  },
+  "map_followup_source_id": "S388"
 }

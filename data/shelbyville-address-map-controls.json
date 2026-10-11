@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "outreach_performed": false,
+  "listing": {
+    "source_id": "S387",
+    "MLS": "11718228",
+    "reported_listing_date": "2023-02-10",
+    "address_literal": "212 & 216 Main Street, Shelbyville, IL 62565",
+    "reported_business": "Sit n Sip",
+    "reported_buildings": 2,
+    "description": "Adjoined buildings; each separate basement, ground-level and street-level entrance",
+    "original_MLS_record_inspected": false,
+    "parcel_survey_or_deed_inspected": false,
+    "photos_inspected": false,
+    "year_built_field_literal": 1701,
+    "year_built_authenticated": false,
+    "platform_map_coordinates_adopted": false,
+    "address_relationship_status": "COMMERCIAL_DESCRIPTION_LEAD_NOT_PARCEL_AUTHENTICATION",
+    "original_Reddit_photo_match": false
+  },
+  "map": {
+    "source_id": "S388",
+    "item_date": "1886-03",
+    "printed_date": "MCH.1886",
+    "state": "Illinois",
+    "sheet_count": 2,
+    "retrievals": [
+      {
+        "sheet": 1,
+        "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531886/02153_1886-0001.jp2",
+        "bytes": 7635128,
+        "sha256": "8d77165aca158e24ada3ca2dfa98f8e54b07f6f4a9e562e52a9208b4c6ef8bad",
+        "image_dimensions": [
+          6450,
+          7650
+        ],
+        "scope": "Complete delivered JP2; overview surveyed, selected sheet1 crops inspected"
+      },
+      {
+        "sheet": 2,
+        "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531886/02153_1886-0002.jp2",
+        "bytes": 7387824,
+        "sha256": "d51058d1eb1338cf92a3399a4b6ec038413c1941abc45e57df561d60eb1a162c",
+        "image_dimensions": [
+          6450,
+          7650
+        ],
+        "scope": "Complete delivered JP2; overview surveyed, selected sheet1 crops inspected"
+      }
+    ],
+    "complete_sheet_overviews_surveyed": [
+      1,
+      2
+    ],
+    "full_resolution_detail_crops": [
+      {
+        "sheet": 1,
+        "name": "Main Street frontage between Morgan and Washington",
+        "pixel_box": [
+          600,
+          1800,
+          2650,
+          3500
+        ]
+      },
+      {
+        "sheet": 1,
+        "name": "Printed key",
+        "pixel_box": [
+          1520,
+          400,
+          2530,
+          1700
+        ]
+      }
+    ],
+    "exhaustive_transcription": false,
+    "street_segment_label_literal": "W. MAIN",
+    "modern_report_street_label": "E Main",
+    "address_crosswalk_authenticated": false,
+    "current_building_to_1886_footprint_authenticated": false,
+    "key_controls": [
+      "Actual versus arbitrary consecutive street numbers",
+      "Story and window conventions",
+      "Material colors",
+      "Circled relative heights"
+    ],
+    "relative_height_units_authenticated": false,
+    "relative_height_datum": null,
+    "relative_height_values_adopted": [],
+    "measured_grade_change": null
+  },
+  "access_limits": [
+    "Original broker-page web response loading shell only",
+    "LOC web retrieval errors; normal native HTTPS item JSON and advertised images acquired",
+    "Listing is attributed participant description on platform; shared MLS reposts not independent",
+    "Original Reddit image, historic grade instrument, dated deposit and parcel join absent"
+  ]
+}

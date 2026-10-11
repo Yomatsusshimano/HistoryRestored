@@ -6640,6 +6640,48 @@
           "hash_scope": "Complete delivered PDF; 137 pages / 8389329 bytes"
         }
       ]
+    },
+    {
+      "id": "S387",
+      "title": "Sit n Sip paired-address commercial listing: 212 & 216 Main Street, MLS11718228",
+      "url": "https://www.realty.com/commercial-listings/342317688/212-216-Main-Street-Shelbyville-IL-62565",
+      "creator": "Listing attributed to Matt Forcum / Shelby Realty Services; distributed by Realty.com",
+      "publication_date": null,
+      "source_type": "Attributed commercial property description",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Rendered address, property description, listing attribution/identifier/date, displayed year-built field and selected platform context.",
+      "limitations": "Listing date 2023-02-10 is reported, not page-publication date. Description not authenticated deed, survey or original MLS submission. No photos inspected. Year Built1701 unsupported and not adopted as chronology. Platform location information not used; duplicates share lineage.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S388",
+      "title": "Sanborn Fire Insurance Map of Shelbyville, Shelby County, Illinois, March1886: original two-sheet controls",
+      "url": "https://www.loc.gov/item/sanborn02153_001/",
+      "creator": "Sanborn Map & Publishing Company; Library of Congress digital collection",
+      "publication_date": "1886-03",
+      "source_type": "Contemporary fire insurance map",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Institutional item JSON; both original sheets surveyed in reduced overview, full-resolution sheet1 key and Morgan–Washington Main Street frontage crops inspected.",
+      "limitations": "Not exhaustive transcription or authenticated modern parcel/fabric crosswalk. Printed W.Main differs from modern E.Main; history unresolved. Circled relative heights present but units/datum unverified, no values adopted. Map symbols/footprints not deposit ages or proof of unchanged vault/grade.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531886/02153_1886-0001.jp2",
+          "sha256": "8d77165aca158e24ada3ca2dfa98f8e54b07f6f4a9e562e52a9208b4c6ef8bad",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet1 JP2; 7635128 bytes, 6450x7650 pixels"
+        },
+        {
+          "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531886/02153_1886-0002.jp2",
+          "sha256": "d51058d1eb1338cf92a3399a4b6ec038413c1941abc45e57df561d60eb1a162c",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet2 JP2; 7387824 bytes, 6450x7650 pixels"
+        }
+      ]
     }
   ]
 }

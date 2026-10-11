@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Paired address and original map controls
+
+Sit n Sip listing reports two adjoining buildings at212&216Main, a plausible address bridge pending parcel authentication. Original March1886map recovered; key distinguishes arbitrary numbers and relative heights, with W.Main/modern E.Main crosswalk unresolved. No gradechange or eventdate quantified. 30 drafts / 388 sources; no independent review. See [address/map controls](research/SHELBYVILLE-ADDRESS-MAP-CONTROLS.md).
+
 ### 2026-10-11 — Recovered Shelbyville structural report
 
 Recovered the complete seven-page Civil Design report dated 12 February 2020: built sidewalk vault, damage assessment and recommended staged filling. Report identifies 212 E Main; Sit n Sip record identifies 216. Address/photo join and original grade chronology remain open. 30 drafts / 386 sources; no independent review. See [engineer-report audit](research/SHELBYVILLE-VAULT-ENGINEER-REPORT.md).
