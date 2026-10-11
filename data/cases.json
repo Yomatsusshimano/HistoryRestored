@@ -3437,6 +3437,62 @@
         "Independent review"
       ],
       "dependence": "Three pooled assays share study, lab and calibration. S316 cites S36; repeated earliest-rat result is not an independent assay. Locality coordinates are not individual findspots. S317andS36measure tissues under the same eight museum identifiers; accession agreement is not independent physical identity authentication. Tip/base enamel subsamples and averages are not independent animals or new radiocarbon dates."
+    },
+    {
+      "id": "C029",
+      "title": "Swan Tavern site and Redlands Club lower-window claim",
+      "category": "buried buildings and archaeological context",
+      "place": "Swan Tavern archaeological site44AB0739 and Redlands Club,Charlottesville,Virginia",
+      "coordinates": null,
+      "status": "SOURCED_DRAFT",
+      "reviewers": [],
+      "claims": [
+        {
+          "source_id": "S375",
+          "locator": "Selected SwanTavern comment mentioning1916photo and2023excavation",
+          "statement": "Comment alleges low windows and restricted access after excavation; exact image and restriction instrument unverified."
+        },
+        {
+          "source_id": "S380",
+          "locator": "Printed44–45/PDF74–75; Figure3/printed2/PDF32; Figure44/printed59/PDF89",
+          "statement": "Report distinguishes former wooden tavern from later surviving brickRedlandsClub, built by1837 in historical analysis; reproduces1916photo withUVAnegativeX04618lead. Original records/photo andexactRedditjoin unverified."
+        },
+        {
+          "source_id": "S380",
+          "locator": "Printediii/iv/PDF7–8; printedi/PDF5; printed74/76/PDF104/106",
+          "statement": "Source reports2023excavation,32757allphaseartifacts versus32470acknowledgementcount; localnortheastprofile hasburiedAhorizon~1.3ft andsterileclay~2.1ft withbrick/coal/clinker/siltyclayfill andvariable site soils. No depositdate orwindowjoin; machine-removalproveniencelimits retained."
+        }
+      ],
+      "physical_evidence": "Report photographs of extant building, reproduced1916image, excavatedfoundation and soilprofile inspected. No sitevisit, independentmeasurement, sampleanalysis ororiginalphoto acquisition.",
+      "surviving_documents": "Public336page2024contractorreport, selected10pages visuallyinspected; Redditdiscoverycomment. Report supplies tax/deed/newspaper andHolsingerphoto targets notacquired separately.",
+      "source_interpretation": "Archaeological occupation remains andmixedurbanfill; earlierwoodentavern replaced bylaterbrickresidence.",
+      "investigation_inference": "Buildingidentity andpublicreport availability narrow theRedditclaim. A localburiedsoilhorizon is a testable deposit target, but notdate, universal layer orcause. See research/REDDIT-MUD-FLOOD-LEADS.md.",
+      "competing_explanations": [
+        "Designed basement/window arrangement",
+        "Local grading,demolition and urbanfill",
+        "Natural deposition orsubsidence if independently demonstrated"
+      ],
+      "counterevidence": "The public report challenges the broad inaccessible-findings allegation. Its building-replacement analysis prevents treating the 1773 parcel history as the age of surviving brick fabric. No uniform dated catastrophe layer was established by this selected-page audit.",
+      "next_test": "Acquire exactRedditimage andUVAnegativeX04618; inspect originaltax/newspaper records, featurecatalog/DAACS anddetailedprofiledates; match windows tooriginaldesign andground elevations. Obtain actualrestrictioninstrument beforeinferring concealment.",
+      "chronology": {
+        "reported": "Former tavern replaced bybrickresidence by1837; reproducedphoto1916; fieldwork18January–28April2023",
+        "dated_object": "Report chronology andphotoattribution,not sedimentage",
+        "method": "Contractorreport historicalanalysis",
+        "raw_date": null,
+        "uncertainty": null,
+        "timescale": "CE",
+        "event_association": "UNTESTED"
+      },
+      "missing": [
+        "ExactRedditphoto andaddress authentication",
+        "Originalbuildingplan",
+        "Originaltax/newspaperrecords",
+        "Independentprofiledates",
+        "Window/profileassociation",
+        "Artifactcountscope reconciliation",
+        "Historicrestrictioninstrument"
+      ],
+      "dependence": "Reddit onlyroutes retrieval; report historical sourcesandphotoreproductions not independentauthentication. Sameprojectcounts/summary/soilobservations mustnot be treated as globalreplication."
     }
   ]
 }

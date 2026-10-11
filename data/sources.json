@@ -6424,6 +6424,120 @@
           "hash_scope": "Complete delivered original-page image PA129; 94170 bytes"
         }
       ]
+    },
+    {
+      "id": "S375",
+      "title": "Reddit architecture discussion: selected Swan Tavern and Moscow Polytechnic leads",
+      "url": "https://www.reddit.com/r/architecture/comments/sfrim1/the_mud_flood_conspiracy_buried_buildings/",
+      "creator": "Public Reddit discussion participants",
+      "publication_date": null,
+      "source_type": "Public discussion lead",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Selected rendered discussion text and dated search excerpt; Swan comment alleging1916image/2023dig/restriction and selected Moscow renovation comment.",
+      "limitations": "Comments are discovery claims, not authenticated field records; linked images/videos not inspected; no complete comments census or author credentials verified.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S376",
+      "title": "Reddit CulturalLayer Logan renovation and worker-interpretation lead",
+      "url": "https://www.reddit.com/r/CulturalLayer/comments/rl4nhl/",
+      "creator": "Public Reddit discussion participants",
+      "publication_date": null,
+      "source_type": "Public discussion lead",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Rendered title and selected comments describing earlier renovation episode, buried windows and worker interpretation.",
+      "limitations": "Video, actual worker wording, building identity/address, sediment quantities and dates unverified.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S377",
+      "title": "Reddit Shelbyville storefront lead and poster locality identification",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/gxsuj1/",
+      "creator": "Public Reddit discussion participants",
+      "publication_date": null,
+      "source_type": "Public discussion lead",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Rendered title and selected locality replies identify centralIllinois/Shelbyville; title reports11feet below shops.",
+      "limitations": "No original image inspected, authenticated depth/datum, parcel, building plan or entrance function; other-city analogies not site evidence.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S378",
+      "title": "Reddit CulturalLayer Ann Arbor alleged underground first-floor lead",
+      "url": "https://www.reddit.com/r/CulturalLayer/comments/excnvf/",
+      "creator": "Public Reddit discussion participants",
+      "publication_date": null,
+      "source_type": "Public discussion lead",
+      "access": "SEARCH_EXCERPT",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Search excerpt title and selected comments; full discussion retrieval failed cachemiss.",
+      "limitations": "Image/building unidentified; commenter explanations not checked against site records.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S379",
+      "title": "Reddit CulturalLayer high-altitude lake skeletal-assemblage lead",
+      "url": "https://www.reddit.com/r/CulturalLayer/comments/jvopfv/",
+      "creator": "Public Reddit discussion participants",
+      "publication_date": null,
+      "source_type": "Public discussion lead",
+      "access": "SEARCH_EXCERPT",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Search excerpt title and selected comments; full discussion retrieval failed cachemiss.",
+      "limitations": "Roopkund identification remains a lead from described context; original linked content, specimen dates and casualty counts unverified.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S380",
+      "title": "Swan Tavern archaeological site44AB0739: Rivanna report,August2024",
+      "url": "https://weblink.charlottesville.org/public/0/edoc/808165/Swan%20Tavern%20%2844AB0739%29%20Archaeological%20Report%20Vol.%201.pdf",
+      "creator": "Benjamin P. Ford,Nick Bon-Harper,Craig Kelley,Susan Palazzo; Rivanna Archaeological Services for Albemarle County",
+      "publication_date": "2024-08",
+      "source_type": "Archaeological contractor report",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original PDF3/5/7/8/32/74/75/89/104/106 visually inspected: title,counts,summary,photos,building replacement,soilprofile and removal methods.",
+      "limitations": "Selected pages only; report historical interpretation not original tax/newspaper authentication. No dated event deposit or window/profile join.32757/32470count scopes unreconciled; machine-removal provenience limits. Public report does not resolve any prior temporary restrictions or first public date; DAACS uninspected.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://weblink.charlottesville.org/public/0/edoc/808165/Swan%20Tavern%20%2844AB0739%29%20Archaeological%20Report%20Vol.%201.pdf",
+          "sha256": "a613117efffd05f66b6ac77c9bd6ae7025448f1eb7ee7d6fd8c9b205a0c060c9",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered PDF;336pages/67655403bytes"
+        }
+      ]
+    },
+    {
+      "id": "S381",
+      "title": "Fondation Cartier2018Freeing Architecture guide: Polytechnic Museum project17",
+      "url": "https://www.voir-et-dire.net/IMG/pdf/guide_exposition_jyunia_yshigami_.pdf",
+      "creator": "Fondation Cartier pour l’art contemporain; project credited toJunya Ishigami and collaborators",
+      "publication_date": "2018",
+      "source_type": "Architectural exhibition project presentation",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original delivered PDF1/2/22/26 visually inspected: cover,introduction,project17text/diagram,credits.",
+      "limitations": "Third-party mirror of publisher-branded guide; exactpublisherfile unverified. Participant-related project presentation not excavationlog, originalbasementdesign or sedimentdating. ExactRedditimage association unverified; remainingguide uninspected.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.voir-et-dire.net/IMG/pdf/guide_exposition_jyunia_yshigami_.pdf",
+          "sha256": "d8a939a820eb1d5495e63de009298bb4201810541bd7d29ed76d3f08430dfd37",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered PDF;27pages/2643411bytes"
+        }
+      ]
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 Research draft edition: 2026-10-08 (America/New_York).
 
-28 sourced drafts; 0 independent scientific reviews.
+29 sourced drafts; 0 independent scientific reviews.
 Selection is purposive. Catalog leads, source-access limits and adverse evidence remain visible.
 
 | ID | Case |
@@ -35,6 +35,7 @@ Selection is purposive. Catalog leads, source-access limits and adverse evidence
 | C026 | 1715 London-Paris eclipse observations and chronology diagnostics |
 | C027 | Gascoigne telescopic sights: a documented attribution dispute |
 | C028 | Hispaniolan cave microfauna: pooled bone ages versus deposition |
+| C029 | Swan Tavern site and Redlands Club lower-window claim |
 
 ## C001: Seattle Pioneer Square areaways
 
@@ -1249,3 +1250,33 @@ Place: Pozimán Cadena, Jaragua National Park, Dominican Republic. Status: SOURC
 **Chronology:** {"reported": "Three radiocarbon results, rounded table variants and separate95.4% calendar envelopes", "dated_object": "Pooled bone collagen", "method": "AMS radiocarbon, OxCal4.4/IntCal20 as reported", "raw_date": null, "uncertainty": null, "timescale": "RadiocarbonBP and calibratedCE kept separate", "event_association": "UNTESTED"}
 
 **Missing:** Individual contribution weights and specimen museum identifiers; Original laboratory certificates, blanks and replicate assays; Supplement and visual figure inspection; Specimen-specific deposition ages; Independent review
+
+## C029: Swan Tavern site and Redlands Club lower-window claim
+
+Place: Swan Tavern archaeological site44AB0739 and Redlands Club,Charlottesville,Virginia. Status: SOURCED_DRAFT.
+
+**Sourced statements**
+
+- Comment alleges low windows and restricted access after excavation; exact image and restriction instrument unverified. [S375](https://www.reddit.com/r/architecture/comments/sfrim1/the_mud_flood_conspiracy_buried_buildings/). Locator: Selected SwanTavern comment mentioning1916photo and2023excavation. Access: FULL_TEXT_PORTION. Limit: Comments are discovery claims, not authenticated field records; linked images/videos not inspected; no complete comments census or author credentials verified.
+- Report distinguishes former wooden tavern from later surviving brickRedlandsClub, built by1837 in historical analysis; reproduces1916photo withUVAnegativeX04618lead. Original records/photo andexactRedditjoin unverified. [S380](https://weblink.charlottesville.org/public/0/edoc/808165/Swan%20Tavern%20%2844AB0739%29%20Archaeological%20Report%20Vol.%201.pdf). Locator: Printed44–45/PDF74–75; Figure3/printed2/PDF32; Figure44/printed59/PDF89. Access: SCAN_INSPECTED. Limit: Selected pages only; report historical interpretation not original tax/newspaper authentication. No dated event deposit or window/profile join.32757/32470count scopes unreconciled; machine-removal provenience limits. Public report does not resolve any prior temporary restrictions or first public date; DAACS uninspected.
+- Source reports2023excavation,32757allphaseartifacts versus32470acknowledgementcount; localnortheastprofile hasburiedAhorizon~1.3ft andsterileclay~2.1ft withbrick/coal/clinker/siltyclayfill andvariable site soils. No depositdate orwindowjoin; machine-removalproveniencelimits retained. [S380](https://weblink.charlottesville.org/public/0/edoc/808165/Swan%20Tavern%20%2844AB0739%29%20Archaeological%20Report%20Vol.%201.pdf). Locator: Printediii/iv/PDF7–8; printedi/PDF5; printed74/76/PDF104/106. Access: SCAN_INSPECTED. Limit: Selected pages only; report historical interpretation not original tax/newspaper authentication. No dated event deposit or window/profile join.32757/32470count scopes unreconciled; machine-removal provenience limits. Public report does not resolve any prior temporary restrictions or first public date; DAACS uninspected.
+
+**Physical evidence:** Report photographs of extant building, reproduced1916image, excavatedfoundation and soilprofile inspected. No sitevisit, independentmeasurement, sampleanalysis ororiginalphoto acquisition.
+
+**Surviving documents:** Public336page2024contractorreport, selected10pages visuallyinspected; Redditdiscoverycomment. Report supplies tax/deed/newspaper andHolsingerphoto targets notacquired separately.
+
+**Source interpretation:** Archaeological occupation remains andmixedurbanfill; earlierwoodentavern replaced bylaterbrickresidence.
+
+**Investigation inference:** Buildingidentity andpublicreport availability narrow theRedditclaim. A localburiedsoilhorizon is a testable deposit target, but notdate, universal layer orcause. See research/REDDIT-MUD-FLOOD-LEADS.md.
+
+**Counterevidence:** The public report challenges the broad inaccessible-findings allegation. Its building-replacement analysis prevents treating the 1773 parcel history as the age of surviving brick fabric. No uniform dated catastrophe layer was established by this selected-page audit.
+
+**Next test:** Acquire exactRedditimage andUVAnegativeX04618; inspect originaltax/newspaper records, featurecatalog/DAACS anddetailedprofiledates; match windows tooriginaldesign andground elevations. Obtain actualrestrictioninstrument beforeinferring concealment.
+
+**Dependence:** Reddit onlyroutes retrieval; report historical sourcesandphotoreproductions not independentauthentication. Sameprojectcounts/summary/soilobservations mustnot be treated as globalreplication.
+
+**Alternatives:** Designed basement/window arrangement; Local grading,demolition and urbanfill; Natural deposition orsubsidence if independently demonstrated
+
+**Chronology:** {"reported": "Former tavern replaced bybrickresidence by1837; reproducedphoto1916; fieldwork18January\u201328April2023", "dated_object": "Report chronology andphotoattribution,not sedimentage", "method": "Contractorreport historicalanalysis", "raw_date": null, "uncertainty": null, "timescale": "CE", "event_association": "UNTESTED"}
+
+**Missing:** ExactRedditphoto andaddress authentication; Originalbuildingplan; Originaltax/newspaperrecords; Independentprofiledates; Window/profileassociation; Artifactcountscope reconciliation; Historicrestrictioninstrument

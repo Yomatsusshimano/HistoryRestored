@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "selection": "Purposive exploratory search; not prevalence estimate or comprehensive Reddit survey",
+  "searches": [
+    "site:reddit.com mud flood evidence buried buildings",
+    "site:reddit.com mudflood old photos excavation",
+    "site:reddit.com mud flood Seattle Sacramento Chicago",
+    "site:reddit.com mud flood Swan",
+    "site:reddit.com mud flood Adelaide tunnels"
+  ],
+  "outreach_performed": false,
+  "leads": [
+    {
+      "id": "R001",
+      "place": "Swan Tavern site, Charlottesville, Virginia",
+      "source_id": "S375",
+      "claim": "Low windows,1916photo,2023excavation and alleged gagorder",
+      "status": "PRIMARY_REPORT_PARTIALLY_INSPECTED",
+      "followup_source_ids": [
+        "S380"
+      ],
+      "building_identity": "Report distinguishes wooden tavern from later brick Redlands Club",
+      "unresolved": [
+        "Exact Reddit image match",
+        "Original tax/newspaper records",
+        "Original photograph",
+        "Window-to-soil-profile association",
+        "Historical access restriction instrument"
+      ]
+    },
+    {
+      "id": "R002",
+      "place": "Moscow Polytechnic Museum",
+      "source_id": "S375",
+      "claim": "Excavation of lower building fabric",
+      "status": "PROJECT_PRESENTATION_PARTIALLY_INSPECTED",
+      "followup_source_ids": [
+        "S381"
+      ],
+      "unresolved": [
+        "Exact circulating photo match",
+        "Original historical basement plan",
+        "Excavation logs and sediments",
+        "Publisher exact-file authentication"
+      ]
+    },
+    {
+      "id": "R003",
+      "place": "Logan,Utah",
+      "source_id": "S376",
+      "claim": "Worker interprets formerly buried windows during renovation",
+      "status": "OPEN",
+      "building_address": null,
+      "deposit_date": null,
+      "unresolved": [
+        "Video acquisition",
+        "Address",
+        "Original drawings",
+        "Contractor records",
+        "Soil measurements and dates"
+      ]
+    },
+    {
+      "id": "R004",
+      "place": "Shelbyville,Illinois,as identified by poster",
+      "source_id": "S377",
+      "claim": "Storefront11feet below current shops",
+      "status": "OPEN",
+      "building_address": null,
+      "reported_depth_ft": 11,
+      "depth_authenticated": false,
+      "unresolved": [
+        "Original photograph",
+        "Parcel",
+        "Measurement datum",
+        "Entrance function",
+        "Historic grade records"
+      ]
+    },
+    {
+      "id": "R005",
+      "place": "Ann Arbor,Michigan",
+      "source_id": "S378",
+      "claim": "Alleged first floor built below ground",
+      "status": "OPEN",
+      "building_address": null,
+      "unresolved": [
+        "Full thread access",
+        "Original image",
+        "Building and design records"
+      ]
+    },
+    {
+      "id": "R006",
+      "place": "Roopkund,Himalayas,as interpreted from lake description",
+      "source_id": "S379",
+      "claim": "High-altitude skeletal assemblage suggested as catastrophe casualties",
+      "status": "OPEN",
+      "specimen_ids": null,
+      "unresolved": [
+        "Site identification from original linked content",
+        "Sample dates",
+        "Depositional sequence",
+        "Mortality causes"
+      ]
+    }
+  ],
+  "primary_retrievals": [
+    {
+      "name": "swan-tavern-2024",
+      "pages": 336,
+      "bytes": 67655403,
+      "sha256": "a613117efffd05f66b6ac77c9bd6ae7025448f1eb7ee7d6fd8c9b205a0c060c9",
+      "url": "https://weblink.charlottesville.org/public/0/edoc/808165/Swan%20Tavern%20%2844AB0739%29%20Archaeological%20Report%20Vol.%201.pdf"
+    },
+    {
+      "name": "ishigami-exhibition-guide",
+      "pages": 27,
+      "bytes": 2643411,
+      "sha256": "d8a939a820eb1d5495e63de009298bb4201810541bd7d29ed76d3f08430dfd37",
+      "url": "https://www.voir-et-dire.net/IMG/pdf/guide_exposition_jyunia_yshigami_.pdf"
+    }
+  ],
+  "S380_inspection": {
+    "pdf_pages": [
+      3,
+      5,
+      7,
+      8,
+      32,
+      74,
+      75,
+      89,
+      104,
+      106
+    ],
+    "printed_locators": [
+      "title",
+      "i",
+      "iii",
+      "iv",
+      "2",
+      "44",
+      "45",
+      "59",
+      "74",
+      "76"
+    ],
+    "entire_report_inspected": false,
+    "fieldwork_reported": [
+      "2023-01-18",
+      "2023-04-28"
+    ],
+    "artifact_counts": [
+      {
+        "locator": "iii/PDF7",
+        "count": 32757,
+        "scope": "All investigation phases"
+      },
+      {
+        "locator": "i/PDF5",
+        "count": 32470,
+        "scope": "Acknowledgements laboratory cataloging description"
+      }
+    ],
+    "count_scope_reconciled": false,
+    "soil_profile": {
+      "locator": "76/PDF106",
+      "place": "Northeast corner ParkStreet parkinglot",
+      "buried_A_horizon_depth_ft_approx": 1.3,
+      "sterile_red_clay_depth_ft_approx": 2.1,
+      "deposit_date": null,
+      "window_association_authenticated": false
+    },
+    "photo_lead": {
+      "locator": "59/PDF89,Figure44",
+      "photographer": "Rufus Holsinger",
+      "reported_date": "1916-11-23",
+      "collection": "Holsinger Studio Collection,Mss9862",
+      "negative": "X04618",
+      "original_acquired": false,
+      "exact_Reddit_photo_match": false
+    },
+    "gag_order_instrument_acquired": false,
+    "first_publication_date_authenticated": false,
+    "DAACS_records_acquired": false
+  },
+  "S381_inspection": {
+    "pdf_pages": [
+      1,
+      2,
+      22,
+      26
+    ],
+    "project_number": 17,
+    "project_period_literal": "2012–",
+    "edition_year_from_exhibition": 2018,
+    "third_party_mirror": true,
+    "publisher_exact_file_authenticated": false,
+    "project_prose_and_diagram_inspected": true,
+    "historical_basement_plan_or_soil_log_inspected": false
+  },
+  "access_limits": [
+    "S375/S376/S377 selected rendered text only; no full-comment census",
+    "S378/S379 search excerpts only; direct retrieval failed",
+    "Videos and original Reddit images not authenticated",
+    "Technical presentation and later report not independent validation of global catastrophe"
+  ]
+}

@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Reddit leads and first original-record checks
+
+Reddit discovery batch records six specific leads, with Logan and Shelbyville open. Selected Swan Tavern report pages distinguish successive buildings and local variable fill; current public report narrows access allegation. Moscow project guide describes deliberate basement exposure, without exact-image authentication. 29 drafts / 381 sources; no common event or independent review. See [Reddit leads](REDDIT-MUD-FLOOD-LEADS.md).
+
 ### 2026-10-11 — Complete printed program and separate institutional funds
 
 S374 original 1836 second-edition title and pages 126–129 inspected. The 21 March 1812 item has eight articles across Archives, University and fine-arts titles, with distinct funding roles. Moniteur no87 is an unacquired lead; 1838 routing citation differs from inspected title. No signed original, execution record or pier association. 28 drafts / 374 sources; all twenty objectives active. See [legal program audit](ARCHIVES-DUVERGIER-1812-PROGRAM.md).
