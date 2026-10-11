@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "outreach_performed": false,
+  "query": {
+    "url": "https://geodesy.noaa.gov/api/nde/bounds?minlat=39.400&maxlat=39.415&minlon=-88.805&maxlon=-88.780",
+    "parameters": {
+      "minlat": 39.4,
+      "maxlat": 39.415,
+      "minlon": -88.805,
+      "maxlon": -88.78
+    },
+    "result_count": 2,
+    "documented_maximum": 500,
+    "scope": "Chosen downtown vicinity; catalog query not a complete archival census or sediment footprint"
+  },
+  "service_query": {
+    "url": "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/NGS_Datasheets_Feature_Service_View/FeatureServer/1/query",
+    "parameters": {
+      "f": "json",
+      "where": "PID IN ('KB0462','KB1266')",
+      "outFields": "PID,NAME,DATA_SRCE",
+      "returnGeometry": "false"
+    }
+  },
+  "retrievals": [
+    {
+      "url": "https://geodesy.noaa.gov/api/nde/bounds?minlat=39.400&maxlat=39.415&minlon=-88.805&maxlon=-88.780",
+      "sha256": "3a295bab05e1105fab3215d5faaaa2b6d2b3bcd2ecd5c800a38668f2f650a3ed",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete bounded API result; all two records inspected; complete delivered 2739 bytes"
+    },
+    {
+      "url": "https://geodesy.noaa.gov/api/nde/meta",
+      "sha256": "8bc08de90a5cde1ec5160deba7b42904138a4a40975a62f987a293242a39f00e",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Response field meanings inspected; complete delivered 3560 bytes"
+    },
+    {
+      "url": "https://www.arcgis.com/sharing/rest/content/items/115c4a38412a470d933d4e44404142da?f=json",
+      "sha256": "b62574208f54c884dc65c7a1becad0c4c44ff86902d36c170f67ab82119447d7",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Advertised item identifies service URL; complete delivered 6129 bytes"
+    },
+    {
+      "url": "https://www.arcgis.com/sharing/rest/content/items/115c4a38412a470d933d4e44404142da/data?f=json",
+      "sha256": "eda637c69bbff035814701f868b7491108e73bdfb982e4b7239402ebae793a96",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Popup fields and passive-mark link definition inspected; complete delivered 21745 bytes"
+    },
+    {
+      "url": "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/NGS_Datasheets_Feature_Service_View/FeatureServer/1?f=pjson",
+      "sha256": "2d16fc7624123a8bfafcdd4ed170e7b6d2a414690cb58622e9e158b5790d26d3",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Actual layer schema inspected; complete delivered 55445 bytes"
+    },
+    {
+      "url": "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/NGS_Datasheets_Feature_Service_View/FeatureServer/1/query",
+      "sha256": "d304c1323ffbe92497a7d36b2de7bd80b701b15ec0db67ff169098e9101b382a",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "POST response; exact parameters in ledger; complete delivered 881 bytes"
+    },
+    {
+      "url": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KB0462",
+      "sha256": "9cc8e66deac11a4f0829459d3ea80490326c9ae3890ae77ad8e8f166b6cb9726",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Full HTML datasheet read; retrieval-complete marker inspected; complete delivered 5000 bytes"
+    },
+    {
+      "url": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KB1266",
+      "sha256": "141ce60b5b9714aa7a80276eda70cb1431a34debc2cb4863249dfc18886c0aca",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Full HTML datasheet read; retrieval-complete marker inspected; complete delivered 4322 bytes"
+    }
+  ],
+  "api_records": [
+    {
+      "pid": "KB0462",
+      "corsId": " ",
+      "name": "A 88",
+      "stCounty": "IL,SHELBY",
+      "quad": "SHELBYVILLE (2018)",
+      "lat": "39.4008333333",
+      "latDms": "N392403.00000",
+      "lon": "-88.7897222222",
+      "lonDms": "W0884723.00000",
+      "ellipHeight": " ",
+      "posDatum": "NAD 83(1986)",
+      "epoch": " ",
+      "posSource": "SCALED",
+      "posOrder": " ",
+      "orthoHt": "182.553",
+      "vertDatum": "NAVD 88",
+      "vertSource": "ADJUSTED",
+      "vertOrder": "2",
+      "vertClass": "0",
+      "vertEpoch": " ",
+      "geoidHt": "-32.273",
+      "geoidModel": "GEOID18",
+      "dynamicHt": "182.447",
+      "modeledGravity": "980043.0",
+      "monumentType": "DB = BENCH MARK DISK",
+      "stamping": "A 88 1935",
+      "setting": "7 = SET IN TOP OF CONCRETE MONUMENT",
+      "stability": "C",
+      "pacsSacs": " ",
+      "condition": "MARK NOT FOUND",
+      "lastRecovered": "20041118",
+      "lastRecoveredBy": "ILDT",
+      "netAccHz": " ",
+      "netAccEh": " ",
+      "netAccN": " ",
+      "netAccE": " ",
+      "netAccU": " ",
+      "netCorrNE": " ",
+      "htMod": " ",
+      "satUse": " ",
+      "x": " ",
+      "y": " ",
+      "z": " ",
+      "spcZone": "IL E",
+      "spcNorthing": "303580.",
+      "spcEasting": "260690.",
+      "spcConvergence": " ",
+      "spcCombinedFactor": " ",
+      "utmZone": " ",
+      "utmNorthing": " ",
+      "utmEasting": " ",
+      "utmConvergence": " ",
+      "utmCombinedFactor": " "
+    },
+    {
+      "pid": "KB1266",
+      "corsId": " ",
+      "name": "SHELBYVILLE MUN TANK",
+      "stCounty": "IL,SHELBY",
+      "quad": "SHELBYVILLE (2018)",
+      "lat": "39.4069089528",
+      "latDms": "N392424.87223",
+      "lon": "-88.7895908472",
+      "lonDms": "W0884722.52705",
+      "ellipHeight": " ",
+      "posDatum": "NAD 83(1997)",
+      "epoch": " ",
+      "posSource": "ADJUSTED",
+      "posOrder": "3",
+      "orthoHt": " ",
+      "vertDatum": " ",
+      "vertSource": " ",
+      "vertOrder": " ",
+      "vertClass": " ",
+      "vertEpoch": " ",
+      "geoidHt": "-32.272",
+      "geoidModel": "GEOID18",
+      "dynamicHt": " ",
+      "modeledGravity": " ",
+      "monumentType": "53 = ELEVATED TANK",
+      "stamping": " ",
+      "setting": " ",
+      "stability": " ",
+      "pacsSacs": " ",
+      "condition": "GOOD",
+      "lastRecovered": "19940618",
+      "lastRecoveredBy": "USPSQD",
+      "netAccHz": " ",
+      "netAccEh": " ",
+      "netAccN": " ",
+      "netAccE": " ",
+      "netAccU": " ",
+      "netCorrNE": " ",
+      "htMod": " ",
+      "satUse": " ",
+      "x": " ",
+      "y": " ",
+      "z": " ",
+      "spcZone": "IL E",
+      "spcNorthing": "304251.013",
+      "spcEasting": "260704.333",
+      "spcConvergence": "-0 17 22.7",
+      "spcCombinedFactor": " ",
+      "utmZone": "16",
+      "utmNorthing": "4363461.103",
+      "utmEasting": "345922.774",
+      "utmConvergence": "-1 08 10.7",
+      "utmCombinedFactor": "0.99989230"
+    }
+  ],
+  "advertised_links": [
+    {
+      "attributes": {
+        "PID": "KB0462",
+        "NAME": "A 88",
+        "DATA_SRCE": "http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KB0462"
+      }
+    },
+    {
+      "attributes": {
+        "PID": "KB1266",
+        "NAME": "SHELBYVILLE MUN TANK",
+        "DATA_SRCE": "http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KB1266"
+      }
+    }
+  ],
+  "KB0462": {
+    "source_id": "S401",
+    "identity": "A 88 1935, concrete post at railway station/old water tower pillars; not courthouse tablet",
+    "published_NAVD88_height_m": 182.553,
+    "published_NAVD88_height_ft": 598.93,
+    "method": "Differential leveling; adjusted June 1991",
+    "superseded_NGVD29_height_m": 182.636,
+    "superseded_NGVD29_height_ft": 599.2,
+    "superseded_date_literal": "??/??/92",
+    "horizontal_position_source": "SCALED",
+    "estimated_horizontal_accuracy": "±6 arcseconds; datasheet also reports ±180 m for scaled State Plane coordinates",
+    "stability": "C; type commonly subject to surface motion",
+    "history": [
+      {
+        "date": "1935",
+        "condition": "MONUMENTED",
+        "agency": "CGS"
+      },
+      {
+        "date": "1973",
+        "condition": "MARK NOT FOUND",
+        "agency": "ILDT"
+      },
+      {
+        "date": "1979",
+        "condition": "MARK NOT FOUND",
+        "agency": "USGS"
+      },
+      {
+        "date": "2004-11-18",
+        "condition": "MARK NOT FOUND",
+        "agency": "ILDT"
+      }
+    ],
+    "present_recovery": null,
+    "derived_displacement": null
+  },
+  "KB1266": {
+    "source_id": "S402",
+    "station_point": "Vent atop municipal tank",
+    "first_observed_year": 1974,
+    "recovery_date": "1994-06-18",
+    "reported_condition": "GOOD",
+    "agency": "USPSQD",
+    "position_datum": "NAD 83(1997)",
+    "horizontal_adjustment": "October 1999",
+    "orthometric_height": null,
+    "API_geoid_height_m": -32.272,
+    "geoid_model": "GEOID18",
+    "approximate_structure_height_ft": 125,
+    "present_condition": null,
+    "inferred_ground_or_vent_elevation": null
+  },
+  "dependence": "API, service and datasheets share institutional delivery lineage",
+  "limits": [
+    "No courthouse match returned in chosen bounds; no general archival absence inferred",
+    "Neither record is the 1907 courthouse tablet",
+    "Last recovery dates are historical reports, not present field inspection",
+    "Different datum heights not paired uplift observations",
+    "Geoid height and approximate structure height do not supply missing orthometric height",
+    "No target street/vault/soil offset, sediment thickness or event date acquired"
+  ],
+  "next_tests": [
+    "Find USGS/state courthouse mark recovery records",
+    "Verify same tablet and supporting fabric in place",
+    "Obtain datum tie and target offsets",
+    "Acquire street design/as-built profiles and dated sediment contexts"
+  ]
+}

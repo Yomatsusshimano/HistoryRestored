@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Nearby NGS station identities and recovery limits
+
+Full NGS sheets identify two different nearby stations: A 88 railway disk has historical not-found reports, and the tank vent has no published orthometric height. The 1907 courthouse tablet remains unmatched; no uplift or vault burial depth derived. 30 drafts / 402 sources; no independent review. See [mark recovery](SHELBYVILLE-MARK-RECOVERY.md).
+
 ### 2026-10-11 — Historical benchmark and planned sidewalk repairs
 
 Recovered a 1907 courthouse benchmark reported at 650.23 feet and an announced sidewalk void repair scope. No modern mark recovery, target grade offset, measured burial thickness or event date established. 30 drafts / 399 sources; no independent review. See [elevation controls](SHELBYVILLE-ELEVATION-CONTROLS.md).

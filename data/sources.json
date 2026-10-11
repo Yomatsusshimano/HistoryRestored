@@ -7032,6 +7032,102 @@
           "hash_scope": "Complete HTML; article and date metadata inspected; complete delivered 1119700 bytes"
         }
       ]
+    },
+    {
+      "id": "S400",
+      "title": "NGS Shelbyville vicinity: bounded API records and advertised datasheet links",
+      "url": "https://geodesy.noaa.gov/web_services/data-explorer.shtml",
+      "creator": "NOAA National Geodetic Survey; recovery agencies attributed in record",
+      "publication_date": null,
+      "source_type": "Official API documentation, metadata and catalog query",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Two records returned in chosen downtown bounds; actual API metadata and service DATA_SRCE fields inspected.",
+      "limitations": "Bounded published controls query is not a complete archival census. No courthouse match, not proof of global absence. API/service/datasheets are a delivery chain.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://geodesy.noaa.gov/api/nde/bounds?minlat=39.400&maxlat=39.415&minlon=-88.805&maxlon=-88.780",
+          "sha256": "3a295bab05e1105fab3215d5faaaa2b6d2b3bcd2ecd5c800a38668f2f650a3ed",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete bounded API result; all two records inspected; complete delivered 2739 bytes"
+        },
+        {
+          "url": "https://geodesy.noaa.gov/api/nde/meta",
+          "sha256": "8bc08de90a5cde1ec5160deba7b42904138a4a40975a62f987a293242a39f00e",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Response field meanings inspected; complete delivered 3560 bytes"
+        },
+        {
+          "url": "https://www.arcgis.com/sharing/rest/content/items/115c4a38412a470d933d4e44404142da?f=json",
+          "sha256": "b62574208f54c884dc65c7a1becad0c4c44ff86902d36c170f67ab82119447d7",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised item identifies service URL; complete delivered 6129 bytes"
+        },
+        {
+          "url": "https://www.arcgis.com/sharing/rest/content/items/115c4a38412a470d933d4e44404142da/data?f=json",
+          "sha256": "eda637c69bbff035814701f868b7491108e73bdfb982e4b7239402ebae793a96",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Popup fields and passive-mark link definition inspected; complete delivered 21745 bytes"
+        },
+        {
+          "url": "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/NGS_Datasheets_Feature_Service_View/FeatureServer/1?f=pjson",
+          "sha256": "2d16fc7624123a8bfafcdd4ed170e7b6d2a414690cb58622e9e158b5790d26d3",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Actual layer schema inspected; complete delivered 55445 bytes"
+        },
+        {
+          "url": "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/NGS_Datasheets_Feature_Service_View/FeatureServer/1/query",
+          "sha256": "d304c1323ffbe92497a7d36b2de7bd80b701b15ec0db67ff169098e9101b382a",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "POST response; exact parameters in ledger; complete delivered 881 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S401",
+      "title": "NGS datasheet KB0462: A 88 1935",
+      "url": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KB0462",
+      "creator": "NOAA National Geodetic Survey; recovery agencies attributed in record",
+      "publication_date": null,
+      "source_type": "Official full survey-control and recovery datasheet",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Complete sheet read: railway/concrete-post identity, NAVD88 and superseded NGVD29 values, method/adjustment, scaled position, stability and 1935/1973/1979/2004 history.",
+      "limitations": "Separate station from courthouse. Mark-not-found reports do not establish destruction or deposition. Different datum values are not paired field displacement observations. Present in-place recovery missing.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KB0462",
+          "sha256": "9cc8e66deac11a4f0829459d3ea80490326c9ae3890ae77ad8e8f166b6cb9726",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Full HTML datasheet read; retrieval-complete marker inspected; complete delivered 5000 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S402",
+      "title": "NGS datasheet KB1266: Shelbyville municipal tank",
+      "url": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KB1266",
+      "creator": "NOAA National Geodetic Survey; recovery agencies attributed in record",
+      "publication_date": null,
+      "source_type": "Official full survey-control and recovery datasheet",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Complete sheet read: vent station, 1974 first observation, 1994 good recovery, adjusted horizontal position and no published orthometric height.",
+      "limitations": "Geoid height is not ground or vent elevation; approximate structure height does not supply survey height. 1994 report is not current condition. Not the courthouse tablet.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KB1266",
+          "sha256": "141ce60b5b9714aa7a80276eda70cb1431a34debc2cb4863249dfc18886c0aca",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Full HTML datasheet read; retrieval-complete marker inspected; complete delivered 4322 bytes"
+        }
+      ]
     }
   ]
 }

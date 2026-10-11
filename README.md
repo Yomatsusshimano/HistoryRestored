@@ -192,3 +192,5 @@ Historic district record: [recovered Shelbyville nomination controls](research/S
 State survey follow-up: [Shelbyville neighbour records and facade controls](research/SHELBYVILLE-SURVEY-CONTROLS.md).
 
 Historical grade follow-up: [Shelbyville benchmark and sidewalk-repair controls](research/SHELBYVILLE-ELEVATION-CONTROLS.md).
+
+Modern control follow-up: [Shelbyville NGS identities and recovery limits](research/SHELBYVILLE-MARK-RECOVERY.md).

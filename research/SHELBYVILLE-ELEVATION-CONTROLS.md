@@ -32,3 +32,7 @@ A [Shelbyville Works project announcement](https://shelbyvilleillinois.net/gover
 Neither the courthouse height nor the Morris Bridge water reading elsewhere on page 68 measures burial at the vault. They refer to different places and surfaces. No subtraction between them is used as a downtown flood depth. Horizontal modern parcel coordinates are not elevations. No sediment volume, flow path, event date or vertical displacement is inferred from this batch.
 
 The next documentary test is benchmark recovery and the actual design/as-built street profile. A paired measurement could test change since 1907; it would not by itself resolve an earlier event or demonstrate a global chronology break. All twenty objectives remain active.
+
+## Recovery follow-up
+
+[Full NGS sheets](SHELBYVILLE-MARK-RECOVERY.md) identify separate nearby railway and tank stations. Neither matches the courthouse tablet or provides a paired target elevation test.
