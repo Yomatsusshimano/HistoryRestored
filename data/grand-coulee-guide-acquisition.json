@@ -1,0 +1,18 @@
+{
+  "source_id": "S29",
+  "acquired_date": "2026-10-11",
+  "original_publication_year": 2021,
+  "source_url": "https://par.nsf.gov/servlets/purl/10635924",
+  "path": "sources/originals/missoula/grand-coulee-guide/waitt-et-al-2021.pdf",
+  "sha256": "61bf11abb20dc10cada6dd9349a4632bcee77165394bc942a7fad3a60d5ce9c1",
+  "bytes": 9326342,
+  "pdf_pages": 56,
+  "inspected_pdf_pages": [
+    1,
+    19,
+    24
+  ],
+  "license": "CC-BY, version not specified on inspected first page",
+  "attribution": "Waitt, R.B., Atwater, B.F., Lehnigk, K., Larsen, I.J., Bjornstad, B.N., Hanson, M.A., and OConnor, J.E. (2021), Geological Society of America Field Guide62,245-300; DOI10.1130/2021.0062(07). Unchanged original PDF.",
+  "limitations": "Selected pages only; hosting/indexing date not publication or field observation date. File matches previously registered S29 hash; not a new independent source."
+}

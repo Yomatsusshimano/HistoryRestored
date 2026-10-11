@@ -507,10 +507,10 @@
       "publication_date": "2021",
       "source_type": "original hydraulic modeling study",
       "access": "SCAN_INSPECTED",
-      "inspected": "Relevant methods, scenario definitions and discussion; Table 1 printed p. 5 and scenario-label paragraph p. 11 visually inspected. Author PDF has preliminary profile sheet; printed pagination 1-18. Table 1 continuation printed p. 6 and Figure 10 p. 16 visually inspected; four final table controls extracted with blank model fields retained. Follow-up 2026-10-09: both Table 1 scans re-inspected and complete 47-row numerical/reference/shading transcription recovered; independent PDF-extraction checks and retrospective diagnostic audit executed. See research/MISSOULA-COMPLETE-CONTROLS.md.",
+      "inspected": "Relevant methods, scenario definitions and discussion; Table 1 printed p. 5 and scenario-label paragraph p. 11 visually inspected. Author PDF has preliminary profile sheet; printed pagination 1-18. Table 1 continuation printed p. 6 and Figure 10 p. 16 visually inspected; four final table controls extracted with blank model fields retained. Follow-up 2026-10-09: both Table 1 scans re-inspected and complete 47-row numerical/reference/shading transcription recovered; independent PDF-extraction checks and retrospective diagnostic audit executed. See research/MISSOULA-COMPLETE-CONTROLS.md. Follow-up2026-10-11: printedpp7-8 (PDF8-9) field-evidence/methods scans visually inspected. General preserved-loess upper-bound rule is not authenticated point-specific documentation for row45.",
       "limitations": "Complete Table 1 transcription, but no raw field audit, actual model input retrieval, stage-output comparison or simulation rerun. Original eleven-row selection is preserved as historical extraction. See research/MISSOULA-COMPLETE-CONTROLS.md and research/MISSOULA-MODEL-AUDIT.md.",
       "local_copy": null,
-      "accessed_date": "2026-10-09",
+      "accessed_date": "2026-10-11",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
@@ -544,17 +544,17 @@
       "publication_date": "2021",
       "source_type": "geological field guide with stratigraphic synthesis",
       "access": "SCAN_INSPECTED",
-      "inspected": "Relevant text printed pp. 273-277; Figure 17B-H p. 273 and Table 1/chronology p. 277 visually checked. PDF pages are printed page minus 244.",
-      "limitations": "Earlier logs, original assays, charcoal collection context and varve annuality not independently reanalyzed; partial guide inspection. Does not resolve Long site 11.",
-      "local_copy": null,
-      "accessed_date": "2026-10-08",
+      "inspected": "Relevant text printed pp. 273-277; Figure 17B-H p. 273 and Table 1/chronology p. 277 visually checked. PDF pages are printed page minus 244. Follow-up: printedpp245,263,268 (PDF1,19,24) visually inspected for license, separate Frenchman Springs stop and unresolved incision/routing conflict. Text portionspp257-258 inspected for model context only; not a complete guide review.",
+      "limitations": "Earlier logs, original assays, charcoal collection context and varve annuality not independently reanalyzed; partial guide inspection. Does not resolve Long site 11. Original Babcock control annotations remain unacquired; Frenchman Springs stop is a different site. Shared authors/cited S27 simulations are not independent hydraulic validation. A proposed hybrid history is not a demonstrated reconstruction.",
+      "local_copy": "sources/originals/missoula/grand-coulee-guide/waitt-et-al-2021.pdf",
+      "accessed_date": "2026-10-11",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
-      "license": "First page states copyright 2021 the authors and CC-BY; linked rather than republished.",
+      "license": "Original first page explicitly states copyright2021 authors, CC-BY. Unchanged original PDF redistributed with full author/DOI/source attribution; no particular license version inferred.",
       "retrievals": [
         {
           "url": "https://par.nsf.gov/servlets/purl/10635924",
           "sha256": "61bf11abb20dc10cada6dd9349a4632bcee77165394bc942a7fad3a60d5ce9c1",
-          "public_mirror_in_this_repository": false
+          "public_mirror_in_this_repository": true
         }
       ]
     },

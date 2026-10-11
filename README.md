@@ -98,3 +98,5 @@ Latest physical-model input audit: [complete Missoula controls](research/MISSOUL
 Latest divide follow-up: [modern terrain and original control labels](research/LYNCH-BABCOCK-TERRAIN.md). Related [published discovery-credit correction](research/MISSOULA-CREDIT-CORRECTION.md).
 
 Historical-map follow-up: [Babcock editions and datum audit](research/BABCOCK-QUAD-DATUM.md). Candidate maps identify a contour-interval/source-match gap; original field edition and a justified vertical comparison remain unresolved.
+
+2026-10-11 follow-up: [field-control meaning and outlet-history alternatives](research/MISSOULA-CONTROL-SEMANTICS.md). General noncrossing rules do not authenticate row45field evidence. Keep rock excavation, ice blockage and event timing distinct; the source explicitly retains a routing/stratigraphy conflict.

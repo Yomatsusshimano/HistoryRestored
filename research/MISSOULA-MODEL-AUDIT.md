@@ -67,3 +67,5 @@ Attempts to retrieve the underlying Wenatchee table and a separate USGS Willamet
 ### Complete-table follow-up, 2026-10-09
 
 The [complete control audit](MISSOULA-COMPLETE-CONTROLS.md) now transcribes all47Table1rows rather than the eleven-row selection above. Legacy values remain unchanged. Additional unit, terrain and nearby-bound diagnostics are reported without correcting original records or claiming hydraulic reproduction. This supersedes partial-table coverage as a current limitation; original field provenance and actual model inputs remain unresolved.
+
+2026-10-11 follow-up: [field-control meaning and outlet-history alternatives](MISSOULA-CONTROL-SEMANTICS.md). General noncrossing rules do not authenticate row45field evidence. Keep rock excavation, ice blockage and event timing distinct; the source explicitly retains a routing/stratigraphy conflict.

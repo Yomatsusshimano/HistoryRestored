@@ -30,3 +30,5 @@ Recover the flood authors' actual quad edition/annotations and identify the obse
 Data available from U.S. Geological Survey, National Geospatial Program. The two historical sheets share a survey lineage and do not count as two independent discoveries or prospective prediction successes.
 
 Reproduce from the repository root with `python analysis/babcock_page_locations.py`, then `python analysis/plot_babcock_controls.py`. Requires pypdf, pyproj, Pillow, matplotlib and Poppler `pdftoppm` on PATH (or the `PDFTOPPM` environment variable). The location script checks acquired-source hashes before calculation; the figure script renders its crops from the pinned original maps.
+
+2026-10-11 follow-up: [field-control meaning and outlet-history alternatives](MISSOULA-CONTROL-SEMANTICS.md). General noncrossing rules do not authenticate row45field evidence. Keep rock excavation, ice blockage and event timing distinct; the source explicitly retains a routing/stratigraphy conflict.

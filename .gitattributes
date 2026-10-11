@@ -17,3 +17,4 @@ sources/originals/missoula/lynch-terrain/** -text whitespace=cr-at-eol
 sources/originals/missoula/babcock-quads/** -text whitespace=cr-at-eol
 sources/originals/missoula/babcock-quads/*.pdf binary
 sources/originals/missoula/babcock-quads/*.tif binary
+sources/originals/missoula/grand-coulee-guide/*.pdf binary
