@@ -8217,6 +8217,59 @@
           "access_note": "Web reader rejected octet-stream; ordinary public download succeeded."
         }
       ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S446",
+      "title": "Erosional cascade during the 2021 Melamchi flood: indexed data-availability and supplement targets",
+      "url": "https://www.nature.com/articles/s41561-024-01596-x",
+      "creator": "Chan-Mao Chen and coauthors",
+      "publication_date": "2024-12-04",
+      "source_type": "Original research article discovery record",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Indexed data-availability statement and supplementary/source-data titles; publication metadata. Direct article retrieval failed.",
+      "limitations": "Full article, supplementary uncertainty workbook and source-data workbook not acquired. Search rendering is not a full-text scientific review. Issue year2025 differs from online publication2024. No article sediment-volume result adopted."
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S447",
+      "title": "Landscape Evolution of the Melamchi Valley, Nepal (2014–2024): OpenTopography dataset and processing report",
+      "url": "https://portal.opentopography.org/dataspace/dataset?opentopoID=OTDS.102024.32645.1",
+      "creator": "Chan-Mao Chen; metadata personnel also A. Joshua West and James Hollingsworth",
+      "publication_date": "2024-10-25",
+      "source_type": "Author-deposited DSM catalog and technical metadata report",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Catalog raster listing and horizontal CRS; metadata PDF1 methods, PDF3/Table1 acquisition dates, PDF4/Table2 processing parameters visually inspected. PDF2 not inspected.",
+      "limitations": "Raster pixels and original stereo images not acquired. Independent vertical datum, stable-area mask, registration residuals and uncertainty estimates unverified. PDF/catalog share authors and dataset; not independent observations.",
+      "retrievals": [
+        {
+          "url": "https://opentopography.s3.sdsc.edu/dataspace/OTDS.102024.32645.1/docs/MetaData.pdf",
+          "bytes": 11345938,
+          "pages": 4,
+          "sha256": "36e1100c61a195f40107a822fbc317ad9102abd92982f9c72f6435a6f540cb2b",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivery, selected PDF1/3/4 inspected.",
+          "access_note": "Public download succeeded; pypdf object-offset warnings occurred; selected rendered pages readable."
+        }
+      ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S448",
+      "title": "Nepal-FRES: 2021 Melamchi Flood Data: HydroShare mapping catalog",
+      "url": "https://www.hydroshare.org/resource/b6da096000284d5882d13b085b7669ac/",
+      "creator": "Chan-Mao Chen, A. Joshua West and project coauthors",
+      "publication_date": "2024-10-07",
+      "source_type": "Author-deposited mapping catalog",
+      "access": "CATALOG_METADATA",
+      "inspected": "Abstract, mapped epochs, coordinate-system and publication/update fields; current citation year2026.",
+      "limitations": "Actual KML/polygon files not downloaded. Catalog masks are described but not independently audited. Mapping intervals cover months or years, not exact event times.2026citation year/metadata update must not replace2024publication or imagery acquisition dates. Shared project with S446/S447."
     }
   ]
 }

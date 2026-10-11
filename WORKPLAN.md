@@ -1335,3 +1335,8 @@ R007 adds a modern local burial comparison with explicit media and measurement l
 ### 2026-10-11 — Melamchi source photographs and sediment-budget limits
 
 S445 selected report pages visually inspected; source unit/date inconsistencies retained and conditional arithmetic distinguished from measurement. [Sediment controls](research/MELAMCHI-SEDIMENT-CONTROLS.md).31drafts/445sources; quantitative model remains unvalidated, no independent archive review; all twenty objectives active.
+
+
+### 2026-10-11 — Melamchi DSM dates and registration limits
+
+S447 metadata PDF1/3/4 inspected; all twelve stereo-pair dates transcribed and candidate raster URLs identified. [DSM input audit](research/MELAMCHI-DSM-INPUTS.md) distinguishes interval surface change from exact event attribution and stable-terrain registration from absolute uplift control. S446 article indexed targets/S448 mapping catalog inspected at stated limits; rasters/workbooks not acquired.31drafts/448sources; no independent archive review; all twenty objectives active.

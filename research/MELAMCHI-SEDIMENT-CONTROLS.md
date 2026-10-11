@@ -17,3 +17,8 @@ Different grain sizes do not by themselves rule out one flood: transport and dep
 Next retrieval should prioritize the original elevation surfaces and deposit mapping, including acquisition dates, datum, resolution, registration error, vegetation/building effects and uncertainty propagation. The present report cannot yet calibrate a quantitative sediment-budget model. Its source photographs support a local comparison; they are not direct measurements or proof of an ancient global event.
 
 The complete21-page PDF is hashed in the source ledger but remains outside the public repository. Only selected pages were inspected.31 core case drafts/445sources; all twenty objectives remain active.
+
+
+### 2026-10-11 — Elevation input follow-up
+
+[DSM acquisition and alignment audit](MELAMCHI-DSM-INPUTS.md) identifies public inputs and preserves limits on event timing and absolute displacement. Metadata inspection is not raster reproduction.31drafts/448sources; no independent archive review.

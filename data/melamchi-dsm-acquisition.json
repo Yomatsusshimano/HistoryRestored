@@ -1,0 +1,153 @@
+{
+  "status": "METADATA_AUDIT_RASTER_ANALYSIS_NOT_EXECUTED",
+  "source_ids": [
+    "S446",
+    "S447",
+    "S448"
+  ],
+  "imagery_date_locator": "S447 metadata PDF3/Table1; date-only transcription; original acquisition times not assigned a timezone",
+  "stereo_pairs": [
+    {
+      "pair": 1,
+      "acquisition_dates": [
+        "2014-11-09",
+        "2014-11-01"
+      ],
+      "same_day": false
+    },
+    {
+      "pair": 2,
+      "acquisition_dates": [
+        "2014-12-05",
+        "2014-11-29"
+      ],
+      "same_day": false
+    },
+    {
+      "pair": 3,
+      "acquisition_dates": [
+        "2020-11-13",
+        "2020-11-19"
+      ],
+      "same_day": false
+    },
+    {
+      "pair": 4,
+      "acquisition_dates": [
+        "2020-11-13",
+        "2020-11-19"
+      ],
+      "same_day": false
+    },
+    {
+      "pair": 5,
+      "acquisition_dates": [
+        "2021-01-11",
+        "2021-01-18"
+      ],
+      "same_day": false
+    },
+    {
+      "pair": 6,
+      "acquisition_dates": [
+        "2021-10-11",
+        "2021-10-11"
+      ],
+      "same_day": true
+    },
+    {
+      "pair": 7,
+      "acquisition_dates": [
+        "2021-10-12",
+        "2021-10-12"
+      ],
+      "same_day": true
+    },
+    {
+      "pair": 8,
+      "acquisition_dates": [
+        "2023-12-19",
+        "2023-12-19"
+      ],
+      "same_day": true
+    },
+    {
+      "pair": 9,
+      "acquisition_dates": [
+        "2023-12-26",
+        "2023-12-26"
+      ],
+      "same_day": true
+    },
+    {
+      "pair": 10,
+      "acquisition_dates": [
+        "2023-12-26",
+        "2023-12-26"
+      ],
+      "same_day": true
+    },
+    {
+      "pair": 11,
+      "acquisition_dates": [
+        "2023-12-26",
+        "2023-12-26"
+      ],
+      "same_day": true
+    },
+    {
+      "pair": 12,
+      "acquisition_dates": [
+        "2024-01-09",
+        "2024-01-09"
+      ],
+      "same_day": true
+    }
+  ],
+  "spatial_resolution_m": 1,
+  "horizontal_crs": "EPSG:32645",
+  "vertical_crs_verified": null,
+  "reference_surface_reported": "ALOS World3D 30m Ellipsoidal",
+  "software_reported": "NASA Ames Stereo Pipeline3.3.0",
+  "registration": {
+    "method": "Point-to-Plane ICP",
+    "iterations": 10,
+    "stable_terrain_selection": "Excluded visible erosion/deposition, clouds, shadows, ice and distorted slopes",
+    "transform_verified": false,
+    "residual_statistics_acquired": false
+  },
+  "candidate_comparison": {
+    "before": "https://opentopography.s3.sdsc.edu/dataspace/OTDS.102024.32645.1/raster/Melamchi_DSM_P05_202101.tif",
+    "after": "https://opentopography.s3.sdsc.edu/dataspace/OTDS.102024.32645.1/raster/Melamchi_DSM_P06_202110.tif",
+    "before_dates": [
+      "2021-01-11",
+      "2021-01-18"
+    ],
+    "after_date": "2021-10-11",
+    "elapsed_days_from_each_before_image": [
+      273,
+      266
+    ],
+    "raster_files_acquired": false,
+    "overlap_pixels_verified": false,
+    "deposit_volume_m3": null,
+    "change_uncertainty_m": null
+  },
+  "uncertainty_workbook_target": "S446 Supplementary Table3: Uncertainty analyses of DSM difference and result summary",
+  "uncertainty_workbook_acquired": false,
+  "mapping_catalog": {
+    "publication_date": "2024-10-07",
+    "metadata_update_date": "2026-03-16",
+    "current_citation_year": 2026,
+    "horizontal_crs": "EPSG:4326",
+    "mapped_event_interval": "November2020–October2021",
+    "actual_polygon_files_acquired": false
+  },
+  "scientific_limits": [
+    "Pixel spacing is not measured vertical accuracy",
+    "Rigid stable-terrain registration removes common translation/rotation components",
+    "Interval change does not uniquely attribute every pixel to the June flood",
+    "DSM surface includes vegetation/buildings rather than guaranteed bare earth",
+    "Catalogs and article from same research program are not independent replications"
+  ]
+}

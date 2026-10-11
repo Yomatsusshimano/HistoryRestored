@@ -80,3 +80,8 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### 2026-10-11 — Report photograph follow-up
 
 [Selected ICIMOD photographs and sediment controls](MELAMCHI-SEDIMENT-CONTROLS.md) now inspected separately from the still-unviewed S444 figure and unmatched Reddit media. Earlier access statements above are historical snapshots.31drafts/445sources; no independent archive review.
+
+
+### 2026-10-11 — Elevation input follow-up
+
+[DSM acquisition and alignment audit](MELAMCHI-DSM-INPUTS.md) identifies public inputs and preserves limits on event timing and absolute displacement. Metadata inspection is not raster reproduction.31drafts/448sources; no independent archive review.
