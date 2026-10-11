@@ -21,3 +21,8 @@ These letters establish earlier published discussion of the grade project at the
 The next necessary work is original ordinances and execution records tied to a named parcel: dates, grade surveys, retaining-wall construction, fill source/quantity, and logged strata. Only that association can distinguish natural flood deposits from later engineered fill at the Reddit photograph's site. The photograph itself remains unmatched. Regional floods and later construction may coexist; neither supplies a worldwide event date or a rewriting mechanism.
 
 Core archive31sourced drafts/456sources. No independent archive review; all twenty objectives remain active.
+
+
+### 2026-10-11 — Sacramento reported execution quantities
+
+[S457quantity audit](SACRAMENTO-1867-FILL-QUANTITIES.md) visually inspects the contemporary high-grade table: eight fill rows sum127242cubic yards versus127247printed; costs reconcile after original-image OCR correction. Original Auditor books/measurement basis and Reddit parcel/strata joins remain open.31core drafts/457sources, no independent archive review; all twenty objectives active.

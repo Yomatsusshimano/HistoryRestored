@@ -1365,3 +1365,8 @@ R008 adds two indexed discussions, a selected-page municipal record and an1871gu
 ### 2026-10-11 — Contemporary Sacramento letter recovered
 
 [1863letter controls](research/SACRAMENTO-1863-HIGH-GRADE-LETTERS.md): S455scan selected portions inspected, matching S453quoted passage to18February; bibliography discrepancy retained. S456selectedOCR separates prospective advocacy from execution and neighboring article contamination.31core drafts/456sources; original media, parcel strata and execution records remain open. All twenty objectives active.
+
+
+### 2026-10-11 — Sacramento reported execution quantities
+
+[S457quantity audit](research/SACRAMENTO-1867-FILL-QUANTITIES.md) visually inspects the contemporary high-grade table: eight fill rows sum127242cubic yards versus127247printed; costs reconcile after original-image OCR correction. Original Auditor books/measurement basis and Reddit parcel/strata joins remain open.31core drafts/457sources, no independent archive review; all twenty objectives active.

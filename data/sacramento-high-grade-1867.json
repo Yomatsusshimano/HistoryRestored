@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "source_id": "S457",
+  "locator": "STREET IMPROVEMENTS, HIGH GRADE table; original image viewer page1",
+  "publication_date": "1867-01-01",
+  "reported_work_interval": "Since1863 through reporting date; individual execution dates unresolved",
+  "quantity_unit": "cubic yards as printed; historical measurement convention unverified",
+  "cost_unit": "dollars as printed; no inflation conversion",
+  "rows": [
+    {
+      "reach": "I street, Front to Sixth",
+      "reported_volume_cubic_yards": 8253,
+      "reported_cost_dollars": 2717,
+      "work_type": "street fill"
+    },
+    {
+      "reach": "Front street, I to P",
+      "reported_volume_cubic_yards": 43200,
+      "reported_cost_dollars": 19515,
+      "work_type": "street fill"
+    },
+    {
+      "reach": "Second street, I to L",
+      "reported_volume_cubic_yards": 19259,
+      "reported_cost_dollars": 10316,
+      "work_type": "street fill"
+    },
+    {
+      "reach": "Third street, J to K",
+      "reported_volume_cubic_yards": 4904,
+      "reported_cost_dollars": 2487,
+      "work_type": "street fill"
+    },
+    {
+      "reach": "Fourth street, I to K",
+      "reported_volume_cubic_yards": 11896,
+      "reported_cost_dollars": 4752,
+      "work_type": "street fill"
+    },
+    {
+      "reach": "J street, Front to Fourth",
+      "reported_volume_cubic_yards": 15041,
+      "reported_cost_dollars": 7502,
+      "work_type": "street fill"
+    },
+    {
+      "reach": "K street, Front to Fourth",
+      "reported_volume_cubic_yards": 17246,
+      "reported_cost_dollars": 10012,
+      "work_type": "street fill"
+    },
+    {
+      "reach": "L street, Front to Second",
+      "reported_volume_cubic_yards": 7443,
+      "reported_cost_dollars": 5311,
+      "work_type": "street fill"
+    },
+    {
+      "reach": "Paving J street, Front to Third",
+      "reported_volume_cubic_yards": null,
+      "reported_cost_dollars": 11575,
+      "work_type": "paving; quantity unreported"
+    },
+    {
+      "reach": "Paving Front street, I to K",
+      "reported_volume_cubic_yards": null,
+      "reported_cost_dollars": 10850,
+      "work_type": "paving; quantity unreported"
+    }
+  ],
+  "printed_total_volume_cubic_yards": 127247,
+  "sum_of_numeric_volume_rows_cubic_yards": 127242,
+  "printed_minus_numeric_sum_cubic_yards": 5,
+  "corrected_volume_cubic_yards": null,
+  "printed_total_cost_dollars": 85037,
+  "sum_of_cost_rows_dollars": 85037,
+  "original_auditor_books_inspected": false,
+  "reddit_parcel_match_authenticated": false,
+  "sediment_thickness": null,
+  "limitations": [
+    "Newspaper says figures copied from City Auditor books; those originals unacquired",
+    "Reported execution, not independent surveyed verification",
+    "High-grade table only; low-grade and annual-assessment scopes not combined",
+    "Paving quantity blanks are unknown, not zero",
+    "Source/transport/compaction/measurement basis and exact execution dates unknown",
+    "Reported reaches not georeferenced; no soil or Reddit media join"
+  ]
+}

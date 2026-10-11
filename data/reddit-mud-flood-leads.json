@@ -258,13 +258,14 @@
       "place": "Sacramento, California",
       "source_id": "S451",
       "claim": "Underground buildings and doubt about deliberate post-flood street raising",
-      "status": "CONTEMPORARY_LETTER_MATCH_INSPECTED_EXECUTION_AND_STRATA_OPEN",
+      "status": "CONTEMPORARY_REPORTED_WORK_QUANTITIES_INSPECTED_PARCEL_AND_STRATA_OPEN",
       "followup_source_ids": [
         "S452",
         "S453",
         "S454",
         "S455",
-        "S456"
+        "S456",
+        "S457"
       ],
       "building_address": null,
       "deposit_date": null,
@@ -274,7 +275,8 @@
         "Original February13 item and opposing Bee letter; February18 quoted-passage match now inspected",
         "Original ordinance, contracts, quantities and parcel execution",
         "Stratigraphic separation of natural sediment and engineered fill",
-        "Original grade and elevation datum"
+        "Original grade and elevation datum",
+        "Original Auditor books and high-grade volume-total discrepancy"
       ]
     }
   ],

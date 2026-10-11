@@ -36,3 +36,8 @@ Eight Reddit leads; core archive remains31sourced drafts. Source count454. No co
 ### Follow-up: original-letter match
 
 [Contemporary letter controls](SACRAMENTO-1863-HIGH-GRADE-LETTERS.md) now verify selected original-image portions matching the18February quoted passage. Earlier non-acquisition statements above are historical snapshots; parcel execution and soil chronology remain unverified.
+
+
+### 2026-10-11 — Sacramento reported execution quantities
+
+[S457quantity audit](SACRAMENTO-1867-FILL-QUANTITIES.md) visually inspects the contemporary high-grade table: eight fill rows sum127242cubic yards versus127247printed; costs reconcile after original-image OCR correction. Original Auditor books/measurement basis and Reddit parcel/strata joins remain open.31core drafts/457sources, no independent archive review; all twenty objectives active.
