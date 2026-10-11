@@ -35,3 +35,7 @@ The p86 footnote reports an approximately 200 m sewer diversion by Manoury and G
 ## Next discriminating evidence
 
 Acquire plate II's foundation sections and their location controls, original Paulin/Arrault logs, and the two specifically cited map editions. Test whether the channel position and numbered investigations agree before connecting buried objects or dating deposition. Preserve the layer arithmetic discrepancy and the participant's uncertainty. No inherited tower, common catastrophic horizon or worldwide historical rewrite follows from these pages. All twenty objectives remain active.
+
+### Subsequent plate inspection
+
+[S358plateII](EIFFEL-FOUNDATION-PLATE-II.md) now supplies ten internally consistent pier1depth/elevation pairs and more detailed layer subdivisions. This narrows the earlier limitation to the prose grouped intervals: the0.89mmismatch remains, without invented correction. PlateII is acquired; plateIlocation controls, logs and exact joins remain open.

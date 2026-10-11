@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Foundation plate II](research/EIFFEL-FOUNDATION-PLATE-II.md): detailed shaft readings, consistent drawn elevations and unresolved prose grouping.
+
 - [Foundation context](research/EIFFEL-FOUNDATION-CONTEXT.md): localized debris, uncertain soundings, construction backfill and a layer/elevation mismatch.
 
 - [Original profile controls](research/CHAMP-DE-MARS-PROFILE-CONTROLS.md): borehole identifiers, section offset and unequal drawing scales.

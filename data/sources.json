@@ -5908,6 +5908,32 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S358",
+      "title": "La tour de trois cents mètres, Planches (1900), plateII: soil and foundation excavation sections",
+      "url": "https://www.e-rara.ch/zut/content/titleinfo/8976346",
+      "creator": "Gustave Eiffel; ETH-Bibliothek Zürich, Rar9704; e-rara institutional digitization",
+      "source_type": "Participant technical atlas, selected original plate",
+      "publication_date": "1900",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PlateII/canvas8976363 full4000pixel image and detail crops visually inspected;6000pixel pier1crop for ten selected depth/elevation pairs. Geological sections nominal4xverticalscale ratio.",
+      "limitations": "Same participant work asS17, not independent field corroboration. Other atlas plates not inspected. Original logs, exact section registration, datum, dates and S357borehole/object joins missing. Prose0.89mgrouped mismatch unresolved. Pier4not completely transcribed.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976363/full/4000,/0/default.jpg",
+          "sha256": "47100d51bbed51f97ff891bce95b2d5250143d5761479642733158395c48d8bb",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976363/full/6000,/0/default.jpg",
+          "sha256": "38d85393c3889bbb0ba3032d5a57869003db7de31e69f02f5fe37aa13fe4a692",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

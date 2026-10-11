@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Original foundation plate and bounded reconciliation
+
+S358originalplateIIinspected: ten selectedpier1depth/elevationpairs reconcile; geological sections nominal4xverticalexaggeration. Prose0.89mgroupedintervalmismatch preserved; sameparticipant dependency, original logs/locationplan and numbered joins open.28drafts/358sources; all twenty objectives active. See [plate audit](EIFFEL-FOUNDATION-PLATE-II.md).
+
 ### 2026-10-11 — Located debris, sounding uncertainty and construction backfill
 
 S17selected foundation surfaces localize reported debris to river-side piers, acknowledge ordinary-sounding uncertainty and describe construction backfill. Selected shaft arithmetic reconciles; sequential layer interpretation differs by0.89m. Original logs, map editions, datum and object/profile joins missing.28 drafts /357 sources; all twenty objectives active. See [foundation context](EIFFEL-FOUNDATION-CONTEXT.md).
