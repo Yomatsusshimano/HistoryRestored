@@ -7128,6 +7128,90 @@
           "hash_scope": "Full HTML datasheet read; retrieval-complete marker inspected; complete delivered 4322 bytes"
         }
       ]
+    },
+    {
+      "id": "S403",
+      "title": "IDOT contract 95864: Shelbyville Main Street proposed plans and survey controls",
+      "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/PLANS/PL-95864-150.pdf",
+      "creator": "Illinois Department of Transportation; S. Alan Spesard/Shelby Engineering cover; The Upchurch Group selected internal sheets",
+      "publication_date": null,
+      "source_type": "Original proposed street-work plan scan and official contract catalog",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Detailed visual inspection of sheets 1, 2, 6, 18, 19, 20, 23, 30, 31; 44-sheet thumbnail navigation only. Assumed datum, four hydrant marks and Sit-N-Sip frontage labels inspected.",
+      "limitations": "No as-built or actual execution evidence. Assumed datum not tied to 1907 courthouse mark. Floor labels, sewer profiles and grading design not original soil surfaces. No certified target parcel join or burial depth. Dates refer to distinct preparation/approval/letting roles.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://webapps1.dot.illinois.gov/WCTB/LbContractDetail/Index/68d7f804-00a5-4e39-a8d0-12a1df42d84d?contractId=371f2289-dd3e-402a-b359-f6772e689bb0&page=2",
+          "sha256": "7f61009dbda6e94a65dd862e0b9f655fe98ad18cbe61d7d0e704c4579a03178e",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Contract identifiers, advertised link and letting date inspected; complete delivered 91109 bytes"
+        },
+        {
+          "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/",
+          "sha256": "cb96167639b2b97b62616fcd8a3d127c7e4466896a79871f357a4c159096b0f7",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised PDF and PLANS links inspected; complete delivered 470 bytes"
+        },
+        {
+          "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/PLANS/",
+          "sha256": "d1e103c7d5b08f353d81e1d1a86ece28e5cc677b2fcd6772a271e077f605bd1b",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Advertised plan PDF link inspected; complete delivered 404 bytes"
+        },
+        {
+          "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/PLANS/PL-95864-150.pdf",
+          "sha256": "58214b1294286af64ef5337c474a76bb1e7bce02e0003eaac0b5bcc314afd094",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "44-sheet scan; selected detailed inspection; complete delivered 5771385 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S404",
+      "title": "IDOT contract 95864: special provisions, meter vault and sidewalk scope",
+      "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/95864-150.pdf",
+      "creator": "Illinois Department of Transportation",
+      "publication_date": null,
+      "source_type": "Original contract provisions; selected scan page",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF20/printed10 visually inspected: water service boxes distinguished from brick sidewalk vault; minimum five-inch sidewalk, four-inch bed and existing business entrance grade rule with exceptions.",
+      "limitations": "Only selected page visually inspected. Specifications not completion or natural sediment measurement. Generic vault terms not automatically the target vault.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/95864-150.pdf",
+          "sha256": "448c6a6397f1c4d34e15172cb90cd3f1617910f882083183ff5778dee291982d",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "92-page packet; PDF20 visually inspected, selected text navigation; complete delivered 2429169 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S405",
+      "title": "Shelbyville City Hall correspondence: proposed 2019 MFT vault repairs",
+      "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-City-Hall-part-2.pdf",
+      "creator": "Reproduced Shelby County Highway email; third-party host Edgar County Watchdogs",
+      "publication_date": null,
+      "source_type": "Reproduced municipal email in third-party-hosted scan",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF36/printed email1 visually inspected: represented April10,2019 7:29AM proposal for flowable fill vault repairs, agenda request and revisable program.",
+      "limitations": "Original mailbox provenance not independently authenticated. Signature alan not expanded. Named attachment not inspected here. Proposal not approval, parcel-specific placement, actual volume or original vault date. Unrelated correspondence/contact details not republished.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-City-Hall-part-2.pdf",
+          "sha256": "274f3751236a20ae12505e89a9c2f6fe5bdb3bbeadf554306917b5b0d19e26cb",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "193-page packet; PDF36 visually inspected, text navigation for vault terms; complete delivered 23572642 bytes"
+        }
+      ]
     }
   ]
 }

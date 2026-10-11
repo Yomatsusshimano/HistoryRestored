@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Original street design and proposed vault repair
+
+Recovered original IDOT Main Street design: assumed datum, distinct hydrant benchmarks and Sit-N-Sip frontage labels. Selected provisions distinguish water-meter boxes from brick sidewalk vaults; reproduced 2019 email proposes flowable filling. No datum tie, actual placement or natural deposition date established. 30 drafts / 405 sources; no independent review. See [street plans](SHELBYVILLE-STREET-PLANS.md).
+
 ### 2026-10-11 — Nearby NGS station identities and recovery limits
 
 Full NGS sheets identify two different nearby stations: A 88 railway disk has historical not-found reports, and the tank vent has no published orthometric height. The 1907 courthouse tablet remains unmatched; no uplift or vault burial depth derived. 30 drafts / 402 sources; no independent review. See [mark recovery](SHELBYVILLE-MARK-RECOVERY.md).

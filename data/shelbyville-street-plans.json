@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "outreach_performed": false,
+  "retrievals": [
+    {
+      "url": "https://webapps1.dot.illinois.gov/WCTB/LbContractDetail/Index/68d7f804-00a5-4e39-a8d0-12a1df42d84d?contractId=371f2289-dd3e-402a-b359-f6772e689bb0&page=2",
+      "sha256": "7f61009dbda6e94a65dd862e0b9f655fe98ad18cbe61d7d0e704c4579a03178e",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Contract identifiers, advertised link and letting date inspected; complete delivered 91109 bytes"
+    },
+    {
+      "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/",
+      "sha256": "cb96167639b2b97b62616fcd8a3d127c7e4466896a79871f357a4c159096b0f7",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Advertised PDF and PLANS links inspected; complete delivered 470 bytes"
+    },
+    {
+      "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/PLANS/",
+      "sha256": "d1e103c7d5b08f353d81e1d1a86ece28e5cc677b2fcd6772a271e077f605bd1b",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Advertised plan PDF link inspected; complete delivered 404 bytes"
+    },
+    {
+      "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/PLANS/PL-95864-150.pdf",
+      "sha256": "58214b1294286af64ef5337c474a76bb1e7bce02e0003eaac0b5bcc314afd094",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "44-sheet scan; selected detailed inspection; complete delivered 5771385 bytes"
+    },
+    {
+      "url": "https://apps.dot.illinois.gov/eplan/desenv/011720/150-95864/95864-150.pdf",
+      "sha256": "448c6a6397f1c4d34e15172cb90cd3f1617910f882083183ff5778dee291982d",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "92-page packet; PDF20 visually inspected, selected text navigation; complete delivered 2429169 bytes"
+    },
+    {
+      "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2020/08/To-City-Hall-part-2.pdf",
+      "sha256": "274f3751236a20ae12505e89a9c2f6fe5bdb3bbeadf554306917b5b0d19e26cb",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "193-page packet; PDF36 visually inspected, text navigation for vault terms; complete delivered 23572642 bytes"
+    }
+  ],
+  "plan": {
+    "source_id": "S403",
+    "contract": "95864",
+    "section": "13-00055-00-SW",
+    "project": "TU34(077)",
+    "letting_date": "2020-01-17",
+    "cover_preparer": "S. Alan Spesard; Shelby Engineering",
+    "cover_preparation_date": "2019-09-14",
+    "state_approval_entries_date": "2019-11-18",
+    "selected_internal_sheet_date": "2019-09-06",
+    "selected_internal_title_block": "The Upchurch Group",
+    "begin_station": "1050+71.69",
+    "end_station": "1058+34.00",
+    "stated_length_ft": 762.31,
+    "detailed_visual_sheets": [
+      1,
+      2,
+      6,
+      18,
+      19,
+      20,
+      23,
+      30,
+      31
+    ],
+    "thumbnail_navigation": "44-sheet contact sheet; not detailed inspection of every page",
+    "text_extraction_limit": "Most sheets yielded blank text; no text-search absence claim",
+    "datum": "Assumed datum explicitly stated on sheet 2",
+    "benchmark_sheet": 6,
+    "benchmarks": [
+      {
+        "mark": "A",
+        "point": "M in Mueller on hydrant, NW West Washington/Main",
+        "listed_elevation": 648.39
+      },
+      {
+        "mark": "B",
+        "point": "M in Mueller on hydrant, NW Morgan/Main",
+        "listed_elevation": 644.14
+      },
+      {
+        "mark": "C",
+        "point": "Northmost rimbolt on hydrant, SE Broadway/Main",
+        "listed_elevation": 653.1
+      },
+      {
+        "mark": "D",
+        "point": "Northmost rimbolt on hydrant, NE Walnut/Main",
+        "listed_elevation": 646.48
+      }
+    ],
+    "elevation_units": "Preserved plan numerals; plan dimensional scale in feet",
+    "USGS_datum_tie": null,
+    "courthouse_tie_sketch": "Bottom step corner is a baseline landmark, not identified as recovered 1907 tablet",
+    "frontage_sheets": [
+      20,
+      23
+    ],
+    "frontage_identity": "Two SIT-N-SIP labels, south Main east of Morgan and west of alley; no certified modern parcel registration adopted",
+    "vault_floor_elevation": null,
+    "undisturbed_soil_surface_elevation": null,
+    "derived_burial_depth": null,
+    "as_built_verification": null
+  },
+  "provisions": {
+    "source_id": "S404",
+    "visual_pages": [
+      20
+    ],
+    "printed_page": 10,
+    "meter_vault_meaning": "Water service boxes; not identified as building sidewalk brick vault",
+    "sidewalk_minimum_concrete_thickness_in": 5,
+    "specified_fine_aggregate_bed_in": 4,
+    "door_wall_grade_rule": "Match existing business-wall/door elevation, with specified step/ramp exceptions",
+    "actual_local_execution": null,
+    "natural_deposit_measurement": null
+  },
+  "email": {
+    "source_id": "S405",
+    "visual_pages": [
+      36
+    ],
+    "printed_email_page": 1,
+    "represented_date": "2019-04-10",
+    "represented_time": "07:29",
+    "timezone_specified": false,
+    "represented_sender": "Shelby County Highway",
+    "signature_literal": "alan",
+    "subject": "Motor Fuel Tax Program MFT - 2019",
+    "scope": "Proposed flowable fill repair of concrete vaults under Main Street sidewalks; asks agenda placement; program revisable",
+    "attachment_name": "doc20190410072826.pdf",
+    "attachment_inspected": false,
+    "original_mailbox_authentication": null,
+    "approved_resolution": null,
+    "parcel_specific_execution": null,
+    "placement_date": null,
+    "actual_volume": null
+  },
+  "limits": [
+    "Proposed contract and email not execution or original construction evidence",
+    "Assumed datum not tied to historical or modern national datum",
+    "Hydrant marks not courthouse aluminum tablet",
+    "Baseline landmark not a vertical recovery",
+    "No natural deposit horizon or event age",
+    "API/catalog/plan links form delivery provenance, not independent witnesses",
+    "Original packets and unrelated correspondence not publicly mirrored"
+  ],
+  "next_tests": [
+    "Find assumed-datum origin and field level book",
+    "Establish stable historical-mark and target offsets",
+    "Find separate municipal vault-fill contract, approval, diaries and material tickets",
+    "Acquire final/as-built records",
+    "Acquire original building history and dated undisturbed sediment contexts"
+  ]
+}

@@ -194,3 +194,5 @@ State survey follow-up: [Shelbyville neighbour records and facade controls](rese
 Historical grade follow-up: [Shelbyville benchmark and sidewalk-repair controls](research/SHELBYVILLE-ELEVATION-CONTROLS.md).
 
 Modern control follow-up: [Shelbyville NGS identities and recovery limits](research/SHELBYVILLE-MARK-RECOVERY.md).
+
+Street-work follow-up: [Shelbyville original plans and datum limits](research/SHELBYVILLE-STREET-PLANS.md).
