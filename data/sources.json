@@ -2037,10 +2037,10 @@
       "source_type": "Original research article",
       "url": "https://doi.org/10.1029/2021JF006135",
       "access": "FULL_TEXT_PORTION",
-      "inspected": "HTML section 3.1, Table 1 and data availability statement. Section 4 column measurements and cohesion assumptions.",
-      "limitations": "Model outputs not reproduced; figure graphics and supplement not inspected.",
+      "inspected": "HTML section 3.1, Table 1 and data availability statement. Section 4 column measurements and cohesion assumptions. Follow-up: HTML Table1four common-roughness steady scenarios and Figure3/4caption text; methods defining steady versus lake-draining conditions. Table/caption upper-threshold variants retained separately; graphics/supplement/raw outputs uninspected.",
+      "limitations": "Published threshold-envelope arithmetic only; no hydraulic output reproduction or coevality validation. Table/caption maximum values differ, possibly due to threshold convention, unverified. Original graphics and supplement uninspected; normal supplement download hit security challenge. See research/GRAND-COULEE-THRESHOLD-INTERSECTION.md.",
       "local_copy": null,
-      "accessed_date": "2026-10-08",
+      "accessed_date": "2026-10-11",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     },
     {
@@ -2066,10 +2066,10 @@
       "source_type": "Repository metadata",
       "url": "https://scholarworks.umass.edu/server/api/core/items/f7ace593-37f4-4f14-ac2b-818abd0976dc",
       "access": "CATALOG_METADATA",
-      "inspected": "Item metadata and complete one-page ORIGINAL bundle inventory, two bitstreams.",
+      "inspected": "Item metadata and complete one-page ORIGINAL bundle inventory, two bitstreams. Current item metadata rechecked2026-10-11: same designated Globus route and explicit sign-in requirement; no authenticated listing.",
       "limitations": "Full dataset directed to authenticated Globus; no authenticated listing or hydraulic execution.",
       "local_copy": null,
-      "accessed_date": "2026-10-08",
+      "accessed_date": "2026-10-11",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     },
     {

@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Conditional steady-discharge intersection
+
+Executed four-scenario common-steady-discharge envelope diagnostic: present terrain lacks overlap, reconstructed cataract overlaps; table/caption upper variants retained. Counts23/21/23/19reproduced, no hydraulic run/coevality validated. Current package still directed to authenticatedGlobus; supplement unacquired.28drafts/339sources; all twenty objectives active. See [threshold audit](GRAND-COULEE-THRESHOLD-INTERSECTION.md).
+
 ### 2026-10-11 — Original outlet-age inference and foldout controls
 
 Original S163p37bases early incision on expected lake-level effects and thick/coarse lowest known beds, not direct excavation dating. Plates2/3now preserved; probable basal bedrock, questioned unconformity and partial-recovery/elevation cautions retained.465m historical outlet and later approximate470m remain distinct.28drafts/339sources; all twenty objectives active. See [original-evidence audit](SANPOIL-OUTLET-INFERENCE.md).

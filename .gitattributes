@@ -19,3 +19,4 @@ sources/originals/missoula/babcock-quads/*.pdf binary
 sources/originals/missoula/babcock-quads/*.tif binary
 sources/originals/missoula/grand-coulee-guide/*.pdf binary
 sources/originals/missoula/sanpoil-1986/*.pdf binary
+data/grand-coulee-thresholds.json -text whitespace=cr-at-eol

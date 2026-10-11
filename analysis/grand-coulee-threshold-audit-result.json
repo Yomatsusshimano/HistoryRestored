@@ -1,0 +1,93 @@
+{
+  "input_sha256": "0bd2cff8cea7ff694e28beda05dbe351676095685f0e8bf3a421c119cf524d0e",
+  "units": "million cubic metres per second",
+  "results": [
+    {
+      "scenario": "cataract-open",
+      "upper_value_source": "table",
+      "lower_envelope": 2.6,
+      "upper_envelope": 7.0,
+      "envelope_overlaps": true,
+      "gap_if_disjoint": 0,
+      "tested_discharge_count": 23,
+      "simulated_points_inside_inclusive_envelope": [
+        2.6,
+        2.7,
+        3.0,
+        3.5,
+        4.0,
+        5.0,
+        6.0,
+        7.0
+      ]
+    },
+    {
+      "scenario": "cataract-open",
+      "upper_value_source": "caption",
+      "lower_envelope": 2.6,
+      "upper_envelope": 7.5,
+      "envelope_overlaps": true,
+      "gap_if_disjoint": 0,
+      "tested_discharge_count": 23,
+      "simulated_points_inside_inclusive_envelope": [
+        2.6,
+        2.7,
+        3.0,
+        3.5,
+        4.0,
+        5.0,
+        6.0,
+        7.0,
+        7.5
+      ]
+    },
+    {
+      "scenario": "cataract-closed",
+      "upper_value_source": "table",
+      "lower_envelope": 2.6,
+      "upper_envelope": 5.0,
+      "envelope_overlaps": true,
+      "gap_if_disjoint": 0,
+      "tested_discharge_count": 21,
+      "simulated_points_inside_inclusive_envelope": [
+        2.6,
+        2.7,
+        3.0,
+        3.5,
+        4.0,
+        5.0
+      ]
+    },
+    {
+      "scenario": "present-open",
+      "upper_value_source": "table",
+      "lower_envelope": 17,
+      "upper_envelope": 7.5,
+      "envelope_overlaps": false,
+      "gap_if_disjoint": 9.5,
+      "tested_discharge_count": 23,
+      "simulated_points_inside_inclusive_envelope": []
+    },
+    {
+      "scenario": "present-open",
+      "upper_value_source": "caption",
+      "lower_envelope": 17,
+      "upper_envelope": 8.0,
+      "envelope_overlaps": false,
+      "gap_if_disjoint": 9.0,
+      "tested_discharge_count": 23,
+      "simulated_points_inside_inclusive_envelope": []
+    },
+    {
+      "scenario": "present-closed",
+      "upper_value_source": "table",
+      "lower_envelope": 14,
+      "upper_envelope": 7.5,
+      "envelope_overlaps": false,
+      "gap_if_disjoint": 6.5,
+      "tested_discharge_count": 19,
+      "simulated_points_inside_inclusive_envelope": []
+    }
+  ],
+  "caveat": "Conditional envelope arithmetic on reported modeled thresholds. Boundary equality is unresolved; inclusive values are a permissive screen. No raw stage comparison, hydraulic run, coevality validation or confidence interval."
+}

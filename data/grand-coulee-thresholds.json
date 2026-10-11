@@ -1,0 +1,154 @@
+{
+  "source_id": "S125",
+  "case_id": "C008",
+  "inspected_date": "2026-10-11",
+  "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JF006135",
+  "access": "FULL_TEXT_PORTION",
+  "units": "million cubic metres per second",
+  "manning_n": 0.065,
+  "semantics": "Reported modeled inundation thresholds. Treating max entries as upper envelopes is a conditional diagnostic; last non-inundating versus first inundating threshold distinction is unverified.",
+  "scenarios": [
+    {
+      "id": "cataract-open",
+      "terrain": "Reconstructed cataract",
+      "foster": "open",
+      "east_rim_lower": 2.6,
+      "hartline_lower": 2.4,
+      "lenore_lower": 1.9,
+      "lenore_upper_table": 7.0,
+      "lenore_upper_caption": 7.5,
+      "caption_locator": "Figure3caption, text only",
+      "discharge_sequences": [
+        [
+          1.4,
+          2.7,
+          0.1
+        ],
+        [
+          3,
+          4,
+          0.5
+        ],
+        [
+          5,
+          7,
+          1
+        ],
+        [
+          7.5,
+          8,
+          0.5
+        ],
+        [
+          9,
+          9,
+          1
+        ]
+      ],
+      "reported_runs": 23
+    },
+    {
+      "id": "cataract-closed",
+      "terrain": "Reconstructed cataract",
+      "foster": "closed",
+      "east_rim_lower": 2.6,
+      "hartline_lower": 1.9,
+      "lenore_lower": 1.6,
+      "lenore_upper_table": 5.0,
+      "lenore_upper_caption": null,
+      "discharge_sequences": [
+        [
+          1.4,
+          2.7,
+          0.1
+        ],
+        [
+          3,
+          4,
+          0.5
+        ],
+        [
+          5,
+          5.5,
+          0.5
+        ],
+        [
+          6,
+          7,
+          1
+        ]
+      ],
+      "reported_runs": 21
+    },
+    {
+      "id": "present-open",
+      "terrain": "Present-day",
+      "foster": "open",
+      "east_rim_lower": 17,
+      "hartline_lower": 6.5,
+      "lenore_lower": 5.5,
+      "lenore_upper_table": 7.5,
+      "lenore_upper_caption": 8.0,
+      "caption_locator": "Figure4caption, text only",
+      "discharge_sequences": [
+        [
+          2.6,
+          2.6,
+          1
+        ],
+        [
+          5,
+          9,
+          0.5
+        ],
+        [
+          10,
+          20,
+          1
+        ],
+        [
+          25,
+          30,
+          5
+        ]
+      ],
+      "reported_runs": 23
+    },
+    {
+      "id": "present-closed",
+      "terrain": "Present-day",
+      "foster": "closed",
+      "east_rim_lower": 14,
+      "hartline_lower": 6.5,
+      "lenore_lower": 5.5,
+      "lenore_upper_table": 7.5,
+      "lenore_upper_caption": null,
+      "discharge_sequences": [
+        [
+          4,
+          8,
+          0.5
+        ],
+        [
+          9,
+          15,
+          1
+        ],
+        [
+          20,
+          30,
+          5
+        ]
+      ],
+      "reported_runs": 19
+    }
+  ],
+  "excluded": "Table1ice-occupied scenario has only east-rim value0.45; no invented Lenore/Hartline upper bounds. Roughness0.04 and alternative topographies excluded from common-n diagnostic.",
+  "missing": [
+    "Raw stage/discharge outputs",
+    "Exact point-specific threshold semantics",
+    "Authenticated coevality of indicators",
+    "Complete input/configuration package"
+  ],
+  "hydraulic_model_executed": false
+}
