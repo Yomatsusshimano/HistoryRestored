@@ -5970,6 +5970,52 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S360",
+      "title": "Paris de1789à1798, Fac-similé du plan deP.Verniquet, selected nineteenth-century atlas sheets",
+      "url": "https://www.parismuseescollections.paris.fr/en/node/640055",
+      "creator": "Verniquet in reproduced title; Paul Dujardin, Charles Chardon, Imprimerie Nationale per Paris Musées / Musée Carnavalet reproduction metadata",
+      "publication_date": null,
+      "source_type": "Institutional scans of nineteenth-century cartographic facsimiles",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Sixsheetsacquired/overview surveyed; fulltitlesheet andC/Dinspected withselectedcrops. OriginalreproducedtitleVERNIQUET/Parachevéen1791checked.",
+      "limitations": "ExactearlyeditionandEiffel1789Berniquetreferencejoinunknown. Reproduction19thcentury/exactyearnull. B/E/Foverviewonly; narrowfeatureclassificationasditchunverified. Noquantitativegeoregistration,fillingdate/rate orshaftjoin. SamefacsimileatlastraditionasS359, companion sheets not independentwitnesses.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-56_001.jpg?itok=a5hy9h1T",
+          "sha256": "d810953e02d02302f7e3fd522d7e0df2cceebe789b680141d453d44d15488282",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-57_001.jpg?itok=mvYugsSz",
+          "sha256": "316fabd458b4d65540ca97b1c2a7f8622eb3b0d96b0dbc1c293dd6a30de8547b",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-58_001.jpg?itok=xHcOtnUS",
+          "sha256": "959b84b12559fa9809ed704a9aa570bca2e30ff64fafccb32796be6c24cc0a5a",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-59_001.jpg?itok=s7GxPJHH",
+          "sha256": "b7ab90c53527c392a421a36634882df805ea9aba5666b849847e53df5d66afa7",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-60_001.jpg?itok=O5jPE7_b",
+          "sha256": "c165bf85a47346e1233275d68d12240182cc76885aebc1396991bf246aef5bb8",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-61_001.jpg?itok=kMBTWooP",
+          "sha256": "7a2bbedc1b91fa0b85cba1a40e82a6c34397635359e3ea76faf0fd8833fe60e2",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

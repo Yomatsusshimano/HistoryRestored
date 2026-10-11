@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Verniquet map controls](research/VERNIQUET-CHANNEL-CONTROLS.md): completion label, edition uncertainty and unresolved ditch classification.
+
 - [Roussel channel facsimile](research/ROUSSEL-CHANNEL-FACSIMILE.md): depicted island/channel, reproduction dates and unresolved original edition.
 
 - [Foundation location plan](research/EIFFEL-FOUNDATION-PLAN-I.md): relative pier positions and a printed figure-reference mismatch.

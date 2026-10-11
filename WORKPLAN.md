@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Map completion label and unverified ditch classification
+
+S360facsimiletitlesheet/C/Dinspected: VERNIQUET andcompletion1791 differfromS17Berniquet1789reference; exacteditionjoinopen. Westerntract/narrowfeature visible, but residualditchclassificationnotconfirmed. Other3sheets overviewonly.28drafts/360sources; all twenty objectives active. See [map controls](research/VERNIQUET-CHANNEL-CONTROLS.md).
+
 ### 2026-10-11 — Depicted channel and reproduction-date limits
 
 S359museumfacsimilesinspected: westernsheet visibly depicts island/separatingchannel nearChaillot. Reproductionobject19thcentury/title1731 differs fromS17citation1730; exactedition/date andfoundationregistration unverified. Gallicatarget403; no bypass.28drafts/359sources; all twenty objectives active. See [map audit](research/ROUSSEL-CHANNEL-FACSIMILE.md).

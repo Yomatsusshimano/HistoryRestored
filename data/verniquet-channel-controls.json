@@ -1,0 +1,107 @@
+{
+  "source_id": "S360",
+  "status": "SOURCED_DRAFT",
+  "accessed_date": "2026-10-11",
+  "retrievals": [
+    {
+      "sheet": "base",
+      "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320295754/manifest",
+      "title": "Paris de 1789 à 1798 / Fac-similé du plan de P. Verniquet / Pl. XXXI.",
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-56_001.jpg?itok=a5hy9h1T",
+      "sha256": "d810953e02d02302f7e3fd522d7e0df2cceebe789b680141d453d44d15488282",
+      "bytes": 586709,
+      "width": 1490,
+      "height": 2160,
+      "inspection": "Full delivered image and selected crop inspected",
+      "public_mirror": false
+    },
+    {
+      "sheet": "B",
+      "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320295768/manifest",
+      "title": "Paris de 1789 à 1798 / Fac-similé du plan de P. Verniquet / Pl. XXXI B.",
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-57_001.jpg?itok=mvYugsSz",
+      "sha256": "316fabd458b4d65540ca97b1c2a7f8622eb3b0d96b0dbc1c293dd6a30de8547b",
+      "bytes": 540764,
+      "width": 1488,
+      "height": 2160,
+      "inspection": "Thumbnail overview only; detailed readings unauthenticated",
+      "public_mirror": false
+    },
+    {
+      "sheet": "C",
+      "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320295782/manifest",
+      "title": "Paris de 1789 à 1798 / Fac-similé du plan de P. Verniquet / Pl. XXXI C.",
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-58_001.jpg?itok=xHcOtnUS",
+      "sha256": "959b84b12559fa9809ed704a9aa570bca2e30ff64fafccb32796be6c24cc0a5a",
+      "bytes": 468891,
+      "width": 1498,
+      "height": 2160,
+      "inspection": "Full delivered image and selected crop inspected",
+      "public_mirror": false
+    },
+    {
+      "sheet": "D",
+      "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320295788/manifest",
+      "title": "Paris de 1789 à 1798 / Fac-similé du plan de P. Verniquet / Pl. XXXI D.",
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-59_001.jpg?itok=s7GxPJHH",
+      "sha256": "b7ab90c53527c392a421a36634882df805ea9aba5666b849847e53df5d66afa7",
+      "bytes": 524964,
+      "width": 1516,
+      "height": 2160,
+      "inspection": "Full delivered image and selected crop inspected",
+      "public_mirror": false
+    },
+    {
+      "sheet": "E",
+      "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320295798/manifest",
+      "title": "Paris de 1789 à 1798. Fac-similé du plan de P. Verniquet / Pl. XXXI E.",
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-60_001.jpg?itok=O5jPE7_b",
+      "sha256": "c165bf85a47346e1233275d68d12240182cc76885aebc1396991bf246aef5bb8",
+      "bytes": 523614,
+      "width": 1476,
+      "height": 2160,
+      "inspection": "Thumbnail overview only; detailed readings unauthenticated",
+      "public_mirror": false
+    },
+    {
+      "sheet": "F",
+      "manifest_url": "https://apicollections.parismusees.paris.fr/iiif/320295816/manifest",
+      "title": "Paris de 1789 à 1798 / Fac-similé du plan de P. Verniquet / Pl. XXXI F.",
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargtop031279-61_001.jpg?itok=kMBTWooP",
+      "sha256": "7a2bbedc1b91fa0b85cba1a40e82a6c34397635359e3ea76faf0fd8833fe60e2",
+      "bytes": 601591,
+      "width": 1482,
+      "height": 2160,
+      "inspection": "Thumbnail overview only; detailed readings unauthenticated",
+      "public_mirror": false
+    }
+  ],
+  "catalog_title": "Paris de1789à1798, Fac-similé du plan deP.Verniquet",
+  "catalogued_object_century": 19,
+  "exact_reproduction_date": null,
+  "observed_title_name": "VERNIQUET",
+  "observed_title_completion_label": "Parachevé en1791",
+  "S17_citation": {
+    "name": "Berniquet",
+    "year": 1789,
+    "exact_edition_join_authenticated": false
+  },
+  "western_sheet_observation": {
+    "sheet": "C",
+    "river_and_elongated_left_bank_tract_depicted": true,
+    "narrow_separating_feature_depicted": true,
+    "exact_label_transcription": null,
+    "ditch_vs_open_channel_authenticated": false,
+    "width_m": null,
+    "water_depth_m": null,
+    "filling_date": null,
+    "complete_outline_digitized": false
+  },
+  "registration": {
+    "Roussel_comparison_georeferenced": false,
+    "modern_coordinates": null,
+    "foundation_shafts_placed": false
+  },
+  "dependence": "Companion reproduction sheets from same atlas tradition asS359; exact original impressions/epochs/fidelity untested.",
+  "limits": "Three fullimages inspected, others overviewonly. Completion1791 not facsimileproduction date. ExactEiffeledition and channelclassification unresolved; noinfillingrate orcommonburialdate."
+}
