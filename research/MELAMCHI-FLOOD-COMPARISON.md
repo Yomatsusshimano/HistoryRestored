@@ -25,3 +25,8 @@ These are retrieval criteria, not completed measurements or a prospective prereg
 Searches were purposive, not a representative sample. Reddit was used for discovery; no messages were sent. Publisher HTML was inspected only in the named sections. The linked figure page failed in the web reader; an ordinary image download returned non-image content and could not be viewed. No access bypass was attempted. A separate ICIMOD catalog and a later Nature article appeared in discovery, but their reports were not added as inspected evidence here.
 
 This adds a seventh lead and two source records, leaving **31 core case drafts /444 sources**. It does not promote a case, supply independent scientific review, or complete the twenty-objective investigation.
+
+
+### 2026-10-11 — Report photograph follow-up
+
+[Selected ICIMOD photographs and sediment controls](MELAMCHI-SEDIMENT-CONTROLS.md) now inspected separately from the still-unviewed S444 figure and unmatched Reddit media. Earlier access statements above are historical snapshots.31drafts/445sources; no independent archive review.

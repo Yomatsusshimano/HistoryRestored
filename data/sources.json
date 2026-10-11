@@ -8192,6 +8192,31 @@
       "access": "FULL_TEXT_PORTION",
       "inspected": "Publisher-rendered HTML sections2,2.1,3.1.1 and Figure2 caption. Issue year2023 differs from online publication2022.",
       "limitations": "Figure image retrieval failed; caption only inspected. Raw building records, original photographs, sediment ages and model reproduction not acquired. Field observations and authors causal interpretations remain distinct; no independent archive review."
+    },
+    {
+      "id": "S445",
+      "title": "The Melamchi flood disaster: Cascading hazard and the need for multihazard risk management",
+      "url": "https://lib.icimod.org/records/j06m8-z1k87",
+      "creator": "ICIMOD Disaster Task Force; Sudan Bikash Maharjan, Jakob Friedrich Steiner and coauthors",
+      "publication_date": "2021",
+      "source_type": "Rapid remote-sensing assessment with photographs and limited field inspection",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1/2/3/13/14/18 visually inspected; printed page numbers match. Other pages text searched only.",
+      "limitations": "Selected pages only; raw terrain data and original photo files not acquired. Source date wording and dimensional inconsistency retained in linked ledger. Causal assessment is preliminary. No independent scientific archive review; no Reddit media authentication.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://lib.icimod.org/records/j06m8-z1k87/files/HimalDoc2021_MelamchiFloods_Report.pdf?download=1",
+          "bytes": 1373122,
+          "pages": 21,
+          "sha256": "73844b8959b2021890504682a734ab414a7caaf151bf46a4ab3b8d8186fcbed1",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivery; selected pages visually inspected.",
+          "access_note": "Web reader rejected octet-stream; ordinary public download succeeded."
+        }
+      ]
     }
   ]
 }

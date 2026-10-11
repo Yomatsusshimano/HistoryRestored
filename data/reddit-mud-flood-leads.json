@@ -234,7 +234,8 @@
       "claim": "Sediment burial of ground floors following a modern flood",
       "status": "PRIMARY_FIELD_STUDY_TEXT_PORTION_INSPECTED",
       "followup_source_ids": [
-        "S444"
+        "S444",
+        "S445"
       ],
       "exact_Reddit_media_match": false,
       "deposit_age_measurement": null,

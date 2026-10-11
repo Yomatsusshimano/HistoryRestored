@@ -1,0 +1,47 @@
+{
+  "status": "SOURCE_TRANSCRIPTION_NOT_VALIDATED_SEDIMENT_BUDGET",
+  "source_id": "S445",
+  "locator": "PDF13/printed13, section2.6",
+  "deposition_reach_literal": "near Ribarma village to Haldebesi near Dolalghat",
+  "reported_width_m": {
+    "minimum": 20,
+    "maximum": 385,
+    "average": 163
+  },
+  "reported_area_km2": 6.5,
+  "reported_volume_literal": "1.3 x 10^7 m",
+  "reported_volume_dimension": "length unit printed in volume sentence; unresolved",
+  "corrected_volume_m3": null,
+  "reported_comparison_area_km2": 43,
+  "reported_comparison_height_m": 0.3,
+  "data_inputs_reported": [
+    "Post-event PlanetScope satellite image",
+    "5 m resolution ALOS DEM"
+  ],
+  "raw_inputs_acquired": false,
+  "uncertainty_quantified": false,
+  "datum_and_vertical_registration_verified": false,
+  "local_building_deposit_thickness_m": null,
+  "arithmetic_if_volume_meant_m3": {
+    "assumption": "Conditional dimensional interpretation, not an authenticated correction",
+    "area_average_m": 2.0,
+    "comparison_height_m": 0.3023255813953488,
+    "interpretation": "Ratios only; neither measures any individual building layer or establishes accuracy of source volume."
+  },
+  "event_wording": [
+    {
+      "locator": "PDF2",
+      "literal": "15 June and the following days"
+    },
+    {
+      "locator": "PDF3",
+      "literal": "On 16 June, the Melamchi Bazaar was hit"
+    }
+  ],
+  "exact_event_timing_reconciled": false,
+  "image_inspection": {
+    "locator": "PDF14, Figure13",
+    "original_files_acquired": false,
+    "exact_Reddit_match": false
+  }
+}

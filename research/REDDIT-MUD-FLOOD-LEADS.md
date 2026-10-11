@@ -75,3 +75,8 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### R007 follow-up, 2026-10-11
 
 [Melamchi comparison](MELAMCHI-FLOOD-COMPARISON.md) adds a documented modern local flood to the alternatives under investigation. Selected field-study text inspected; original Reddit media and study image remain unmatched/unviewed. Seven leads;31core drafts/444sources; no independent archive review.
+
+
+### 2026-10-11 — Report photograph follow-up
+
+[Selected ICIMOD photographs and sediment controls](MELAMCHI-SEDIMENT-CONTROLS.md) now inspected separately from the still-unviewed S444 figure and unmatched Reddit media. Earlier access statements above are historical snapshots.31drafts/445sources; no independent archive review.

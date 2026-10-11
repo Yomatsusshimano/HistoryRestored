@@ -1330,3 +1330,8 @@ S442NTH1996plan cover and1995TB-1/TB-2 logs visually inspected: TB-1 labels8–1
 ### 2026-10-11 — Reddit modern-flood comparison
 
 R007 adds a modern local burial comparison with explicit media and measurement limits. [Melamchi controls](research/MELAMCHI-FLOOD-COMPARISON.md).31 core drafts/444sources; no independent archive review; all twenty objectives remain active.
+
+
+### 2026-10-11 — Melamchi source photographs and sediment-budget limits
+
+S445 selected report pages visually inspected; source unit/date inconsistencies retained and conditional arithmetic distinguished from measurement. [Sediment controls](research/MELAMCHI-SEDIMENT-CONTROLS.md).31drafts/445sources; quantitative model remains unvalidated, no independent archive review; all twenty objectives active.
