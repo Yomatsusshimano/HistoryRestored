@@ -48,3 +48,5 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 [Roopkund sample audit](ROOPKUND-DATING-AUDIT.md) now tests simultaneous mortality with published bone ages; the Reddit media match and later deposit chronology remain open.
 
 [Roopkund trauma controls](ROOPKUND-TRAUMA-CONTROLS.md) keep possible near-death injuries, later damage and proposed causes separate; specimen-to-date joins remain open.
+
+[Roopkund collection follow-up](ROOPKUND-COLLECTION-AND-REVIEW.md) recovers another numbered pathology series without assuming specimen overlap.

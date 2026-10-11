@@ -7292,6 +7292,51 @@
           "hash_scope": "Unchanged workbook; Sheet1 headers and rows5–49 read; complete delivered 19336 bytes"
         }
       ]
+    },
+    {
+      "id": "S410",
+      "title": "Roopkund2019 public peer-review file",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM2_ESM.pdf",
+      "creator": "Nature Communications, unnamed reviewers and study authors",
+      "publication_date": null,
+      "source_type": "Original published editorial/review correspondence",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Both PDF pages visually inspected; editorial scope note, repeated favorable comment, n/a entry and author acknowledgement.",
+      "limitations": "Earlier other-journal review omitted by explicit scope note; no detailed original objections/replies supplied. Reviewer identity and prior journal/decision not inferred. Not independent review of this archive.",
+      "review_status": "ARCHIVE_ANALYSIS_NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM2_ESM.pdf",
+          "sha256": "3f018a603024ffb12b3d5dcb38a28f9cc286a34d0e1f1cb94673e1031df5d2d6",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Both pages visually inspected; complete delivered 104136 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S411",
+      "title": "Roopkund Human Skeletal Remains: A Short Note on the Signs of Nutritional Stress and Anemia on the Cranial and Orbital Surface",
+      "url": "https://www.heritageuniversityofkerala.com/Publications/P1/42_Barthwal%20and%20Walimbe_PPJ_20230131.pdf",
+      "creator": "Alka Barthwal and S.R. Walimbe; University of Kerala chapter publisher",
+      "publication_date": null,
+      "publication_year": 2023,
+      "source_type": "Original skeletal-pathology chapter; selected pages",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1/4/5/11/12 visually inspected: title/year, surface collection, fragment reconstruction, and selected Table4 rows1–11. Other pages text navigation only.",
+      "limitations": "Original specimens, laboratory/collection files and complete diagnostic audit not acquired. Roman-number entries not joined to2019 R/I IDs or trauma cases. Calendar dates absent for selected pathology specimens; collection dates not death dates. Exact publication day unknown.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.heritageuniversityofkerala.com/Publications/P1/42_Barthwal%20and%20Walimbe_PPJ_20230131.pdf",
+          "sha256": "00fdda859422f148c6100c34aaccec8f3f4e39100058acb5e6ba6c6bffa83b5d",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "16-page chapter; PDF1/4/5/11/12 visually inspected; other pages text navigation only; complete delivered 5216176 bytes"
+        }
+      ]
     }
   ]
 }

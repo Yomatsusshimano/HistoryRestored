@@ -204,3 +204,5 @@ Contemporary reporting follow-up: [Shelbyville reported vault filling and histor
 Reddit skeletal-assemblage follow-up: [Roopkund sample dates and deposition limits](research/ROOPKUND-DATING-AUDIT.md).
 
 Roopkund cause follow-up: [injury timing and missing specimen joins](research/ROOPKUND-TRAUMA-CONTROLS.md).
+
+Roopkund collection follow-up: [numbered specimens and public-review limits](research/ROOPKUND-COLLECTION-AND-REVIEW.md).

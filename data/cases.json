@@ -3702,12 +3702,22 @@
           "source_id": "S408",
           "locator": "PDF7/9/11/12; report lines88–96,150–153,211–236",
           "statement": "Supplement distinguishes interpreted later cranial cracks from three possible near-death compression-fracture cases. Hail remains a hypothesis; no catalog-to-dated-sample join supplied in inspected passage. Morphology/genetic association expressly tentative."
+        },
+        {
+          "source_id": "S410",
+          "locator": "PDF1 editorial note and reviews; PDF2 repetition/acknowledgement",
+          "statement": "Two-page public file excludes earlier other-journal review and does not supply detailed prior objections or replies. No archive independent review established."
+        },
+        {
+          "source_id": "S411",
+          "locator": "PDF4–5/printed808–809; Table4/PDF11–12/printed815–816",
+          "statement": "Reported2004–2007surface collection and fragment reconstruction; Roman-number pathology entries include healed VII and proposed possible fatal injuries VIII/XII. No join to2019dated bones established."
         }
       ],
       "physical_evidence": "Published bone dating measurements only; no specimen access, site visit, original excavation logs or measured sediment profile inspected.",
-      "surviving_documents": "Selected original article HTML, selected supplement pages and published date workbook; sample ledger preserves rows, materials and missing fields. Expanded original supplement visual inspection and trauma/association ledger recorded.",
+      "surviving_documents": "Selected original article HTML, selected supplement pages and published date workbook; sample ledger preserves rows, materials and missing fields. Expanded original supplement visual inspection and trauma/association ledger recorded. Original2023pathology chapter selected pages and both2019public review pages inspected.",
       "source_interpretation": "Authors interpret multiple mortality/deposition episodes and discuss possible origins; causal and identity accounts remain incomplete.",
-      "investigation_inference": "Retrospective outer-bound arithmetic challenges simultaneous mortality within selected durations. It cannot date later common redistribution, authenticate the Reddit media or assign a natural mud layer. Mortality interpretation assumes bone-collagen dates approximate death; tissue turnover and systematic offsets not modeled. Trauma timing cannot be assigned to a dated genetic individual without element associations; hail and later landslide damage remain causal hypotheses requiring separate tests.",
+      "investigation_inference": "Retrospective outer-bound arithmetic challenges simultaneous mortality within selected durations. It cannot date later common redistribution, authenticate the Reddit media or assign a natural mud layer. Mortality interpretation assumes bone-collagen dates approximate death; tissue turnover and systematic offsets not modeled. Trauma timing cannot be assigned to a dated genetic individual without element associations; hail and later landslide damage remain causal hypotheses requiring separate tests. Roman specimen labels now narrow collection retrieval but do not authenticate skull-to-dated-bone joins. Limited public review does not establish resolution of specific methodological objections.",
       "competing_explanations": [
         "Multiple local deaths across centuries",
         "Catastrophic mortality in one subgroup",
@@ -3715,7 +3725,7 @@
         "Dating biases requiring specimen-specific testing"
       ],
       "counterevidence": "All37 outer intervals need at least937years of permissive span; A alone125years. Contemporary subgroup overlap does not establish a shared cause. No dated mud layer, global link or rewriting mechanism.",
-      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match. Recover accession IDs, original trauma images/descriptions and authenticated skull-to-sampled-bone associations before transferring ages or ancestry labels.",
+      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match. Recover accession IDs, original trauma images/descriptions and authenticated skull-to-sampled-bone associations before transferring ages or ancestry labels. Retrieve VII/VIII/XII accession/reconstruction records and explicit sampling crosswalk; do not infer prior reviewer identity or decision.",
       "chronology": {
         "reported": "Published 2019 calibrated CE envelopes for37bone samples",
         "dated_object": "Bone collagen, not sediment deposition",
@@ -3733,7 +3743,7 @@
         "In-place deposit units and independent ages",
         "Original collection and travel records"
       ],
-      "dependence": "Article, supplement and workbook share one study lineage; not three independent confirmations. Published peer review is not independent review of this archive. Bone age and contextual interpretation distinct."
+      "dependence": "Article, supplement and workbook share one study lineage; not three independent confirmations. Published peer review is not independent review of this archive. Bone age and contextual interpretation distinct. Shared author between skeletal reports is not specimen identity; publicreview is correspondence about original study, not review of archive conclusions."
     }
   ]
 }

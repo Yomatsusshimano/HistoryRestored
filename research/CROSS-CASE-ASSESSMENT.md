@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Roopkund numbered collection and public-review limits
+
+Recovered2023numbered pathology observations and reported surface-collection/reconstruction history; VII/VIII/XII remain unjoined to2019dated samples. Public2019review omits earlier detailed review, preventing inference about specific objection resolution.31drafts/411sources; no independent archive review. See [collection controls](ROOPKUND-COLLECTION-AND-REVIEW.md).
+
 ### 2026-10-11 — Roopkund injury timing and association controls
 
 Expanded S408 trauma inspection distinguishes possible near-death injuries from interpreted later damage. Hail remains a hypothesis; catalog-to-dated-sample joins are unestablished. Same31drafts/409sources; no independent archive review. See [trauma controls](ROOPKUND-TRAUMA-CONTROLS.md).

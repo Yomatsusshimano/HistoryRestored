@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C031",
+  "lead_id": "R006",
+  "retrievals": [
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM2_ESM.pdf",
+      "sha256": "3f018a603024ffb12b3d5dcb38a28f9cc286a34d0e1f1cb94673e1031df5d2d6",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Both pages visually inspected; complete delivered 104136 bytes"
+    },
+    {
+      "url": "https://www.heritageuniversityofkerala.com/Publications/P1/42_Barthwal%20and%20Walimbe_PPJ_20230131.pdf",
+      "sha256": "00fdda859422f148c6100c34aaccec8f3f4e39100058acb5e6ba6c6bffa83b5d",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "16-page chapter; PDF1/4/5/11/12 visually inspected; other pages text navigation only; complete delivered 5216176 bytes"
+    }
+  ],
+  "collection_report": {
+    "source_id": "S411",
+    "reported_cranial_samples": 27,
+    "collection_years": [
+      2004,
+      2007
+    ],
+    "method": "Surface collection; mixed material sorted and reconstructed with adhesive",
+    "field_association_verified": false,
+    "reconstruction_verified": false,
+    "genetic_or_date_crosswalk": null
+  },
+  "selected_entries": [
+    {
+      "source_id": "S411",
+      "locator": "Table4/PDF12/printed816, row6",
+      "specimen_literal": "VII",
+      "trauma_literal": "Completely healed fracture",
+      "calendar_date": null,
+      "dated_sample_id": null
+    },
+    {
+      "source_id": "S411",
+      "locator": "Table4/PDF12/printed816, row7",
+      "specimen_literal": "VIII",
+      "role": "Author proposes possible fatal injury; not independently diagnosed",
+      "calendar_date": null,
+      "dated_sample_id": null
+    },
+    {
+      "source_id": "S411",
+      "locator": "Table4/PDF12/printed816, row11",
+      "specimen_literal": "XII",
+      "role": "Author proposes possible fatal injury; not independently diagnosed",
+      "calendar_date": null,
+      "dated_sample_id": null
+    }
+  ],
+  "review_file": {
+    "source_id": "S410",
+    "pages": 2,
+    "both_visually_inspected": true,
+    "prior_other_journal_review_included": false,
+    "detailed_previous_questions_available": false,
+    "specific_reservoir_or_trauma_objection_resolution": null,
+    "archive_independent_review": false
+  },
+  "limits": [
+    "Roman numbers are source labels, not authenticated museum accessions",
+    "No conversion of anatomical life stage to calendar age",
+    "Author-sharing does not authenticate specimen overlap",
+    "Absent earlier review is not absent criticism",
+    "No sediment unit or redistribution date established"
+  ]
+}
