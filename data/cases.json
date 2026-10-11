@@ -1149,6 +1149,11 @@
           "source_id": "S17",
           "locator": "Fifth part chapterI section1; canvas8976157 and printed211/canvas8976158",
           "statement": "Detailed weight categories reconcile gross workshop6360067kg to total tower metal7341214kg. Fifteen monetary entries sum3000676.56francs matching table, whereas adjacent prose gives3033071.74francs. Supplier batches/invoices remain uninspected."
+        },
+        {
+          "source_id": "S17",
+          "locator": "Printed101/canvas8976048 and unnumbered personnel roster/canvas8975936",
+          "statement": "Five reported mean iron-test rows distinguish plate rolling direction and200mm elongation gauge length. Six names appear under factory acceptance. No counts, batch certificates or precise duties supplied here; rivet requirements use separate100mm gauge length."
         }
       ],
       "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",
@@ -1160,7 +1165,7 @@
         "Repair/reassembly if fabric and earlier records support it"
       ],
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
-      "next_test": "Locate original Fould-Dupont order, acceptance-test and dispatch series, then join batch identifiers to Levallois part registers/site receipts. Distinguish pig-iron capacity, finished rolled stock and assembled component weights before productivity comparisons.",
+      "next_test": "Search acceptance books/signatures for Holfeld, Adam, Budin, Dupieux, Leclerc and Lefebvre; connect dated specimen/batch IDs with Fould-Dupont orders/dispatches and Levallois part registers. Roster credit alone does not establish inspections.",
       "chronology": {
         "reported": "1900 monograph; progress sheet through 8 January 1888; photographic mount inscription 10 February 1888; inspection report 4 January 1889.",
         "dated_object": "Documents and photograph inscription; not independent component manufacture dates.",

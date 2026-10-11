@@ -60,3 +60,5 @@ This evidence makes a construction account more specific: it names a supplier, s
 Supply follow-up: [1893 Pompey industrial survey](EIFFEL-POMPEY-METALLURGY.md) identifies rated blast-furnace capacity, its industrial information sources and unmatched weight scopes; acceptance/dispatch records remain unacquired.
 
 Supply-account follow-up: [weight reconciliation and printed cost discrepancy](EIFFEL-SUPPLY-RECONCILIATION.md); original batch acceptance and dispatch records remain unacquired.
+
+Material follow-up: [reported iron tests and named factory acceptance](EIFFEL-MATERIAL-TESTS.md), with means, specifications and batch-record limits kept separate.

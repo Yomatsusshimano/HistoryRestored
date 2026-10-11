@@ -293,8 +293,8 @@
       "publication_date": "1900",
       "source_type": "participant technical monograph",
       "access": "SCAN_INSPECTED",
-      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only. Third part, chapter II, section 1, pp.100-101 (chapter PDF pages 17-18; canvases 8976047-8976048), visually inspected fabrication, personnel and quantity paragraphs. Fifth part chapterI section1, unnumbered opening canvas8976157 and printed211 canvas8976158: weight categories, selected money entries, supplier/representative and rivet specifications visually checked with higher-resolution crops. Adjacent chapter boundary viewed.",
-      "limitations": "Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts. Weight subtotals and table costs reproduce; adjacent prose money total differs by32395.18francs, cause unresolved. No batch acceptance-test series or independent dispatch authentication.",
+      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only. Third part, chapter II, section 1, pp.100-101 (chapter PDF pages 17-18; canvases 8976047-8976048), visually inspected fabrication, personnel and quantity paragraphs. Fifth part chapterI section1, unnumbered opening canvas8976157 and printed211 canvas8976158: weight categories, selected money entries, supplier/representative and rivet specifications visually checked with higher-resolution crops. Adjacent chapter boundary viewed. Printed101 five mean strength/elongation rows and roster factory-acceptance heading/six names now checked on2000pixel images/crops; specimen direction and gauge lengths retained.",
+      "limitations": "Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts. Weight subtotals and table costs reproduce; adjacent prose money total differs by32395.18francs, cause unresolved. No batch acceptance-test series or independent dispatch authentication. Sample counts, batches, test dates, calibration and dispersion absent from selected table. Rivet requirements are not observed acceptance results.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
@@ -344,6 +344,18 @@
         {
           "url": "https://www.e-rara.ch/i3f/v20/8976158/full/2000,/0/default.jpg",
           "sha256": "70b3b743bf11b1ff998ceebdd4a5aad5a29b8686cc476532c2eb27e871aa224a",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976048/full/2000,/0/default.jpg",
+          "sha256": "47532fab66226b7a86acf6a0cf17e194df8916fcd92baa7ea90f9360a39b923a",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8975936/full/2000,/0/default.jpg",
+          "sha256": "d6560c7e047d76c3a8af39bf5a3ef69d2bea2379e6bae2194588d07642ecc15a",
           "retrieved_date": "2026-10-11",
           "public_mirror_in_this_repository": false
         }

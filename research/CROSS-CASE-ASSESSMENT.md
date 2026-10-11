@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Material-test means and named factory acceptance
+
+S17 five mean test rows retain form, rolling direction and200mm gauge length; several OCR readings corrected from original images. Rivet100mm requirements remain separate. Six factory-acceptance names provide archival targets, not batch validation or restored erased identities.28drafts/340sources; all twenty objectives active. See [material audit](EIFFEL-MATERIAL-TESTS.md).
+
 ### 2026-10-11 — Supply weight reconciliation and printed cost discrepancy
 
 Expanded S17 selected original pages: six weight checks reconcile to7,341,214kg; fifteen cost entries reproduce table3,000,676.56francs, differing from adjacent prose by32,395.18francs. Cause unknown; no invoices, batch tests or new-manufacture validation.28drafts/340sources; all twenty objectives active. See [supply audit](EIFFEL-SUPPLY-RECONCILIATION.md).

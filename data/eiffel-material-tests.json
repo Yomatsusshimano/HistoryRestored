@@ -1,0 +1,73 @@
+{
+  "source_id": "S17",
+  "status": "REPORTED_MEANS_NOT_BATCH_CERTIFICATES",
+  "locator": "Printed101/canvas8976048; unnumbered personnel roster/canvas8975936",
+  "gauge_length_mm": 200,
+  "reported_results": [
+    {
+      "designation": "Corniere100x100x12",
+      "breaking_load_per_mm2_printed_kg": "35.0",
+      "elongation_percent": "8.00"
+    },
+    {
+      "designation": "Plat100x20",
+      "breaking_load_per_mm2_printed_kg": "35.3",
+      "elongation_percent": "15.00"
+    },
+    {
+      "designation": "Plat390x15",
+      "breaking_load_per_mm2_printed_kg": "36.9",
+      "elongation_percent": "12.00"
+    },
+    {
+      "designation": "Tole, sens du laminage",
+      "breaking_load_per_mm2_printed_kg": "32.3",
+      "elongation_percent": "7.25"
+    },
+    {
+      "designation": "Meme tole, en travers",
+      "breaking_load_per_mm2_printed_kg": "27.0",
+      "elongation_percent": "3.5"
+    }
+  ],
+  "sample_counts": null,
+  "batch_identifiers": null,
+  "test_dates": null,
+  "machine_calibration": null,
+  "dispersion": null,
+  "factory_acceptance_roster": [
+    "Holfeld",
+    "Adam",
+    "Budin",
+    "Dupieux",
+    "Leclerc",
+    "Lefebvre"
+  ],
+  "role_limit": "Roster heading names service des receptions aux usines; exact person responsibilities, identities and supplier batches not authenticated.",
+  "unit_limit": "Retain historical printed kg per square millimetre; no silent modern force-unit conversion.",
+  "ocr_differences": [
+    {
+      "field": "angle elongation percent",
+      "cached_ocr": "14.00",
+      "scan": "8.00"
+    },
+    {
+      "field": "wide flat designation",
+      "cached_ocr": "300x15",
+      "scan": "390x15"
+    },
+    {
+      "field": "wide flat breaking load",
+      "cached_ocr": "30.0",
+      "scan": "36.9"
+    }
+  ],
+  "separate_rivet_specification": {
+    "locator": "Fifth part chapterI section1 opening/canvas8976157 and printed211/canvas8976158",
+    "breaking_load_per_mm2_printed_kg": "36",
+    "minimum_elongation_percent": "12",
+    "gauge_length_mm": 100,
+    "bending_requirement": "Bend45degrees and straighten cold without cracks/breakage; reported requirement, not observed test series."
+  },
+  "limits": "Means, specifications and personnel credit are distinct source claims. No independent laboratory reproduction, batch acceptance series or new manufacture date."
+}
