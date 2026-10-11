@@ -1,0 +1,90 @@
+{
+  "case_id": "C006",
+  "status": "SOURCED_DRAFT",
+  "images": [
+    {
+      "source_id": "S369",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Affiche_annonçant_la_pose_première_pierre_du_palais_des_Archives_de_l%27Empire_sur_l%27Ile_des_Cygnes-_Archives_antionales-AB-Vb-1-4.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Affiche_annon%C3%A7ant_la_pose_premi%C3%A8re_pierre_du_palais_des_Archives_de_l%27Empire_sur_l%27Ile_des_Cygnes-_Archives_antionales-AB-Vb-1-4.jpg",
+      "archival_reference_in_institutional_metadata": "AB/Vb/1/4",
+      "sha256": "d6d75184998a8a33e213c84888acb7413a5422047b85700a09e3f65401887604",
+      "bytes": 344397,
+      "dimensions": [
+        945,
+        1225
+      ],
+      "local_copy": "sources/originals/Archives-AB-Vb-1-4-firststone.jpg",
+      "inspected": "Complete delivered image visually inspected; S369body detail also inspected",
+      "retrieved_date": "2026-10-11",
+      "rights_label": "Public Domain Mark",
+      "attribution": "Archives nationales (France), Atelier de photographie des Archives nationales",
+      "image_modified": false,
+      "original_archival_folder_inspected": false
+    },
+    {
+      "source_id": "S370",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Projet_pour_le_Palais_des_Archives_de_l%27Empire-Archives-nationales-AE-II-3809.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Projet_pour_le_Palais_des_Archives_de_l%27Empire-Archives-nationales-AE-II-3809.jpg",
+      "archival_reference_in_institutional_metadata": "AE/II/3809",
+      "sha256": "641a14307f7b575fd48f8839255eb5a6ae0d3684b9a90163da49e8cab3e23491",
+      "bytes": 475797,
+      "dimensions": [
+        1263,
+        841
+      ],
+      "local_copy": "sources/originals/Archives-AE-II-3809-project.jpg",
+      "inspected": "Complete delivered image visually inspected; S369body detail also inspected",
+      "retrieved_date": "2026-10-11",
+      "rights_label": "Public Domain Mark",
+      "attribution": "Archives nationales (France), Atelier de photographie des Archives nationales",
+      "image_modified": false,
+      "original_archival_folder_inspected": false
+    }
+  ],
+  "notice": {
+    "reported_ceremony_date": "1812-08-15",
+    "printed_date": "XV août M. D. CCC. XII",
+    "exact_printing_date": null,
+    "wording_role": "Completed-action ceremony report/commemoration, not future schedule",
+    "reported_stone_layer": "Jean-Pierre Bachasson de Montalivet",
+    "selected_presence_roles": [
+      {
+        "name": "Louis Bruyère",
+        "role": "Director of public works of Paris"
+      },
+      {
+        "name": "Pierre-Claude-François Daunou",
+        "role": "Keeper of imperial archives"
+      },
+      {
+        "name": "Jacques Cellérier",
+        "role": "Architect"
+      }
+    ],
+    "napoleon_named_as_stone_layer": false,
+    "island_explicit_in_body": false,
+    "island_association": "Institutional delivery description",
+    "imprint": "Mame printing house"
+  },
+  "design": {
+    "catalog_year": 1812,
+    "catalog_attribution": "Jacques Cellerier",
+    "year_authenticated_from_visible_inscription": false,
+    "drawing_type": "Project perspective; not completed-building photograph",
+    "quadrangular_palace_depicted": true,
+    "match_to_S368_authenticated": false,
+    "measured_dimensions": null
+  },
+  "actual_foundation_extent": null,
+  "ceremony_to_1813_foundation_stage_join": false,
+  "exact_site_coordinates": null,
+  "repository_coordinates_are_site_coordinates": false,
+  "tower_parcel_join": false,
+  "access_limits": [
+    "Old unhyphenated Archives catalog hostname DNS failure",
+    "Python urllib certificate verification failures for current official/Commons pages; no verification disabled",
+    "Normal PowerShell HTTPS succeeded for Commons descriptions/images; old official catalog route returned404",
+    "Web individual file pages cache miss; Commons contribution category accessible"
+  ],
+  "source_dependencies": "Distinct notice and design records; shared institutional delivery is not independent confirmation of completed works"
+}

@@ -6258,6 +6258,52 @@
           "hash_scope": "Institutional advertised JPEG; actual2611x2160image,617102bytes"
         }
       ]
+    },
+    {
+      "id": "S369",
+      "title": "Archives palace first-stone notice: printed15August1812ceremony claim",
+      "url": "https://commons.wikimedia.org/wiki/File:Affiche_annonçant_la_pose_première_pierre_du_palais_des_Archives_de_l%27Empire_sur_l%27Ile_des_Cygnes-_Archives_antionales-AB-Vb-1-4.jpg",
+      "creator": "Mame printing-house imprint; Archives nationales institutional image delivery",
+      "publication_date": null,
+      "source_type": "Historical printed ceremony notice",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": "sources/originals/Archives-AB-Vb-1-4-firststone.jpg",
+      "inspected": "Complete delivered image visually inspected; S369body detail also inspected; institutional delivery description and photographic metadata inspected.",
+      "limitations": "Ceremony date is printed; exact printing date unknown. Montalivet named stone-layer, Bruyère among present. Island association in metadata, not explicit printed body. No works extent, construction accounts or tower coordinates.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Affiche_annon%C3%A7ant_la_pose_premi%C3%A8re_pierre_du_palais_des_Archives_de_l%27Empire_sur_l%27Ile_des_Cygnes-_Archives_antionales-AB-Vb-1-4.jpg",
+          "sha256": "d6d75184998a8a33e213c84888acb7413a5422047b85700a09e3f65401887604",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Unchanged institution-supplied JPEG preserved locally"
+        }
+      ],
+      "rights": "Commons Public Domain Mark; credit Archives nationales (France), photographic workshop"
+    },
+    {
+      "id": "S370",
+      "title": "Archives palace project perspective, cataloged1812and attributed toJacquesCellerier",
+      "url": "https://commons.wikimedia.org/wiki/File:Projet_pour_le_Palais_des_Archives_de_l%27Empire-Archives-nationales-AE-II-3809.jpg",
+      "creator": "Jacques Cellerier attributed project; Archives nationales institutional image delivery",
+      "publication_date": "1812",
+      "source_type": "Historical architectural project image",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": "sources/originals/Archives-AE-II-3809-project.jpg",
+      "inspected": "Complete delivered image visually inspected; S369body detail also inspected; institutional delivery description and photographic metadata inspected.",
+      "limitations": "Year1812and Cellerier attribution from institutional description/metadata, not independently read signature/date. Project is not proof of completed building, surveyed dimensions or identity with S368site-plan footprint.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Projet_pour_le_Palais_des_Archives_de_l%27Empire-Archives-nationales-AE-II-3809.jpg",
+          "sha256": "641a14307f7b575fd48f8839255eb5a6ae0d3684b9a90163da49e8cab3e23491",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Unchanged institution-supplied JPEG preserved locally"
+        }
+      ],
+      "rights": "Commons Public Domain Mark; credit Archives nationales (France), photographic workshop"
     }
   ]
 }

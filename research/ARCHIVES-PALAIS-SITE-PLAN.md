@@ -34,3 +34,5 @@ Its value is a specific spatial lead: the proposed palace footprint and surround
 Obtain the object's dating and provenance record; transcribe the faint parcel annotations with uncertainties; authenticate the plan's connection, if any, to the 1813 requests. Register stable landmarks against dated maps and the tower plan with explicit error estimates before associating structures or deposits. Actual palace works accounts, execution drawings and excavation locations must supply the construction-to-remains connection.
 
 The catalog labels the delivery CC0 with Paris Musées / Musée Carnavalet attribution. This release links the institutional image and retains its checksum; it does not mirror the image. No catastrophe date, completed palace, exact channel-filling date, inherited tower or rewriting mechanism is established. All twenty objectives remain active.
+
+Follow-up: the [1812first-stone notice and separate palace design](ARCHIVES-FIRST-STONE-1812.md) provide exact institutional references. Neither authenticates this plan/request relationship or executed foundation extent.

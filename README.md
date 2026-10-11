@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [1812ceremony and palace design](research/ARCHIVES-FIRST-STONE-1812.md): named stone-layer, preserved institutional images and unknown execution extent.
+
 - [Undated Archives site plan](research/ARCHIVES-PALAIS-SITE-PLAN.md): intended buildings, depicted terrain and unverified1813request match.
 
 - [1813 quay correspondence](research/CYGNES-NAPOLEON-1813-LETTER.md): printed funding and plan requests, prospective foundations and unknown archival match.

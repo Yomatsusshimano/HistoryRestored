@@ -9,3 +9,7 @@ Historical US government patent document; mirror-host terms and any added conten
 ## Arctic hyena article (S24)
 
 [Tseng, Zazula and Werdelin (2019), First Fossils of Hyenas from North of the Arctic Circle](originals/Tseng-2019-arctic-hyenas.pdf), Open Quaternary 5:6, [DOI 10.5334/oq.64](https://doi.org/10.5334/oq.64). Downloaded 2026-10-08; unchanged PDF. Page 7 states copyright the authors and [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Original attribution and license notices remain intact. Figure 2 credits third-party components with their own licenses, including CC BY-SA and CC BY-NC; no blanket relicensing or separate reuse permission for those components is asserted here. Retrieval URL and SHA-256 are recorded in S24.
+
+## Archives palace notice and project (S369–S370)
+
+Unchanged [AB/Vb/1/4notice](originals/Archives-AB-Vb-1-4-firststone.jpg) and [AE/II/3809project](originals/Archives-AE-II-3809-project.jpg), acquired2026-10-11. Archives nationales (France), photographic workshop; supplied toCommons throughWikimédiaFrance cooperation and labeledPublicDomainMark. Full image deliveries inspected; hashes, references, rights and access limits in [ledger](../data/archives-firststone-1812.json). Ceremony report and project depiction do not establish executed construction.

@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — First-stone roles and project-image boundaries
+
+S369/S370 institution-supplied notice and design images inspected/preserved:15August1812ceremony reported withMontalivet asstone-layer; separateCellerier1812project not completed-building proof. Actual works extent,1813stage relationship and tower-parcel join unknown.28drafts/370sources; all twenty objectives active. See [ceremony/design audit](research/ARCHIVES-FIRST-STONE-1812.md).
+
 ### 2026-10-11 — Intended Archives buildings and undated spatial lead
 
 S368 undated anonymous Archives terrain plan inspected: intended palace/commercial footprint, marsh and street/frontage labels. Original Plan général differs from catalog Palais général; date,1813request match, execution and tower-parcel join unknown.28 drafts/368sources; all twenty objectives active. See [plan audit](research/ARCHIVES-PALAIS-SITE-PLAN.md).

@@ -27,3 +27,5 @@ This result narrows the meaning one might otherwise attach to the inventory’s 
 Next inspect the Lazare item and trace the cited minute, obtain the requested ownership/site plans and actual works accounts, and register their parcels to the tower plan. The actual filling date, amount, deposit provenance and exact object joins remain unknown. No catastrophe or historical-rewriting mechanism follows; all twenty objectives remain active.
 
 Follow-up: an [undated museum-held Archives site plan](ARCHIVES-PALAIS-SITE-PLAN.md) supplies a candidate spatial lead. Its connection to this request and execution of the depicted buildings remain unverified.
+
+Follow-up: the [1812first-stone notice and separate palace design](ARCHIVES-FIRST-STONE-1812.md) provide exact institutional references. Neither authenticates this plan/request relationship or executed foundation extent.
