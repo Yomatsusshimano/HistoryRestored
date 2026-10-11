@@ -20,3 +20,5 @@ The1844alphabetical sequence onp170 proceeds from **CYGNE (RUE DU)** directly to
 This is a bounded edition comparison, not an exhaustive textual collation. The length difference cannot be interpreted as land movement without checking endpoints and survey definitions. The changed placement and date wording do not identify an editor’s reason, invalidate the earlier statement, or demonstrate deliberate concealment.
 
 Keep1780attachment, the1859report’s1773wording, and Zunz’s1812completion claim as different reported propositions. They may describe different stages, but that reconciliation is unverified. The two editions share authorship and textual lineage; repeated decree extracts are not independent legal authentication. Original acts, works records, maps and exact foundation registration remain the discriminating evidence. All twenty objectives remain active.
+
+Additional inspection: originalprinted27–31/PDF42–46now checked for the [complete Archives entry and distinct construction sites](ARCHIVES-PROGRAM-1844.md); other undocumentedpages remainuninspected.

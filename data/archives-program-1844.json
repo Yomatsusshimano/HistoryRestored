@@ -1,0 +1,121 @@
+{
+  "source_id": "S365",
+  "case_id": "C006",
+  "status": "SOURCED_DRAFT",
+  "retrieval": {
+    "url": "https://ia800402.us.archive.org/13/items/dictionnaireadm00lazagoog/dictionnaireadm00lazagoog.pdf",
+    "bytes": 80854997,
+    "sha256": "b2b2f1cab7b7aad114a6c905631c05848c867777c09590b3111dbd7cf404bd96",
+    "pdf_pages": 696
+  },
+  "additional_inspection": [
+    {
+      "printed_page": 27,
+      "pdf_page": 42,
+      "role": "Complete Archives entry"
+    },
+    {
+      "printed_page": 28,
+      "pdf_page": 43,
+      "role": "Complete Archives entry"
+    },
+    {
+      "printed_page": 29,
+      "pdf_page": 44,
+      "role": "Complete Archives entry"
+    },
+    {
+      "printed_page": 30,
+      "pdf_page": 45,
+      "role": "Complete Archives entry"
+    },
+    {
+      "printed_page": 31,
+      "pdf_page": 46,
+      "role": "Adjacent alphabetical boundary control"
+    }
+  ],
+  "entry_boundary": {
+    "start": "Printed27left lower column",
+    "end": "Printed30left column before ARCIS"
+  },
+  "quoted_decree": {
+    "reported_date": "1812-03-21",
+    "reported_place": "Élysée",
+    "locator": "Printed29left column",
+    "complete_original_inspected": false,
+    "abbreviation_visible": true,
+    "signature_is_printed_attribution": true,
+    "site": "Left-bank quay between Iéna and Concorde",
+    "intended_accommodation_m3": 100000,
+    "completed_building_volume_m3": null,
+    "excavation_volume_m3": null,
+    "successive_quarters_required": true,
+    "gardens_reserved_for_possible_doubling": true,
+    "specified_materials": [
+      "stone",
+      "iron"
+    ],
+    "wood_excluded_in_specification": true,
+    "plan_deadline": "Before1May1812",
+    "reported_initial_allocation_francs": 200000,
+    "allocation_reference": "Decree of6March1812as reported in extract",
+    "payment_authenticated": false
+  },
+  "abandonment_report": {
+    "exact_date": null,
+    "actual_foundation_extent": null,
+    "completed_quarters": null,
+    "archives_remained_at": "Hôtel de Soubise"
+  },
+  "soubise_later_works": {
+    "locator": "Printed30left column closing passage",
+    "reported_start": "1838-09",
+    "named_architects": [
+      "Charles Lelong",
+      "Adolphe Gréterin"
+    ],
+    "reported_spent_francs": 1000000,
+    "reported_spending_years": [
+      1838,
+      1839,
+      1840,
+      1841
+    ],
+    "reported_needed_francs": 800000,
+    "needed_scope": [
+      "finish new construction",
+      "storage fittings",
+      "restore old buildings",
+      "acquire adjoining house"
+    ],
+    "reported_new_construction_area_m2": 1000,
+    "specified_or_reported_materials": [
+      "dressed-stone walls",
+      "stone vaults",
+      "iron roof structure",
+      "zinc roof covering"
+    ],
+    "prospective_completion_year": 1845,
+    "acceptance_certificate_inspected": false,
+    "same_site_as_palace": false,
+    "original_transactions_inspected": false
+  },
+  "dependency": {
+    "declaration_locator": "Printed28left column beginning second part",
+    "named_partial_source": "Brochure by M.Dessalles, archives employee",
+    "exact_brochure_title": null,
+    "brochure_publication_date": null,
+    "every_clause_attributed_to_brochure": false,
+    "wikimedia_transcription_independent": false
+  },
+  "ceremony_and_1813_stage_sequence_reconciled": false,
+  "foundation_parcel_join": false,
+  "dated_sediment_recovered": false,
+  "access_limits": [
+    "Local scanned PDF had no searchable extracted text for target; saved OCR used only to navigate",
+    "Scandata suggested pages42–46; printed27–31labels and full entry boundaries checked visually",
+    "FranceArchives imperial-series inventory returnedJS/cookie page; no manuscript or complete decree acquired",
+    "Secondary bibliographic candidates found for Dessalles; no original pamphlet authenticated"
+  ]
+}

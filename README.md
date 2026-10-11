@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Palace program and separate Soubise works](research/ARCHIVES-PROGRAM-1844.md): staged requirements, allocation roles and named source dependency.
+
 - [1812ceremony and palace design](research/ARCHIVES-FIRST-STONE-1812.md): named stone-layer, preserved institutional images and unknown execution extent.
 
 - [Undated Archives site plan](research/ARCHIVES-PALAIS-SITE-PLAN.md): intended buildings, depicted terrain and unverified1813request match.

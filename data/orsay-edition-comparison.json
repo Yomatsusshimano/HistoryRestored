@@ -41,7 +41,29 @@
         "printed_page": 171,
         "pdf_page": 176
       }
-    ]
+    ],
+    "archives_entry": [
+      {
+        "printed_page": 27,
+        "pdf_page": 42
+      },
+      {
+        "printed_page": 28,
+        "pdf_page": 43
+      },
+      {
+        "printed_page": 29,
+        "pdf_page": 44
+      },
+      {
+        "printed_page": 30,
+        "pdf_page": 45
+      }
+    ],
+    "archives_adjacent_control": {
+      "printed_page": 31,
+      "pdf_page": 46
+    }
   },
   "locator_correction": "Scandata leaf values initially treated as zero-based; rendered pages revealed offset. Actual printed labels checked directly, final locators corrected.",
   "comparisons": [

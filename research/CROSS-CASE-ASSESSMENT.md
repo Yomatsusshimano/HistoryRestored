@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Staged palace program and separate Soubise works
+
+Expanded S365completeArchivesentry27–30inspected: abbreviated1812stagedprogram andinitialallocation distinguished from1838Soubiseworks/spending. NamedDessallespartialdependency remains untraced; actualpalaceexecution andtower-parceljoin missing.28drafts/370sources; all twenty objectives active. See [program/site audit](ARCHIVES-PROGRAM-1844.md).
+
 ### 2026-10-11 — First-stone roles and project-image boundaries
 
 S369/S370 institution-supplied notice and design images inspected/preserved:15August1812ceremony reported withMontalivet asstone-layer; separateCellerier1812project not completed-building proof. Actual works extent,1813stage relationship and tower-parcel join unknown.28drafts/370sources; all twenty objectives active. See [ceremony/design audit](ARCHIVES-FIRST-STONE-1812.md).
