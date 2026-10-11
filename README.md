@@ -190,3 +190,5 @@ County records: [Shelbyville modern parcel controls](research/SHELBYVILLE-PARCEL
 Historic district record: [recovered Shelbyville nomination controls](research/SHELBYVILLE-NOMINATION-CONTROLS.md).
 
 State survey follow-up: [Shelbyville neighbour records and facade controls](research/SHELBYVILLE-SURVEY-CONTROLS.md).
+
+Historical grade follow-up: [Shelbyville benchmark and sidewalk-repair controls](research/SHELBYVILLE-ELEVATION-CONTROLS.md).

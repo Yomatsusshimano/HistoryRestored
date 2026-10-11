@@ -6988,6 +6988,50 @@
           "hash_scope": "Complete delivered JPEG, visually inspected; complete delivered 121132 bytes"
         }
       ]
+    },
+    {
+      "id": "S398",
+      "title": "Results of spirit leveling in Illinois, 1896 to 1908, inclusive: Shelbyville benchmark",
+      "url": "https://pubs.usgs.gov/bul/0421/report.pdf",
+      "creator": "S. S. Gannett and D. H. Baldwin, compilers; United States Geological Survey; regional work P. E. Fletcher",
+      "publication_date": "1910",
+      "source_type": "Original government leveling report, selected scan pages",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Title and printed/PDF pages 5, 6, 67, 68 visually inspected; packet text used for navigation. Courthouse tablet elevation 650.23 feet; regional work 1907.",
+      "limitations": "Historical datum and report-wide finality caveat retained. No individual observation day, recovered mark identity, modern height, target offset, actual closure or sediment thickness acquired. Closure criterion is not measured point uncertainty.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://pubs.usgs.gov/bul/0421/report.pdf",
+          "sha256": "84ff65dbb9fc58a78cdf290de73a7ef498dbc1211b61e5955a3679e5dc0d41ab",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "74-page PDF; selected visual inspection only; complete delivered 5166893 bytes"
+        }
+      ]
+    },
+    {
+      "id": "S399",
+      "title": "Shelbyville Works: announced Main Street streetscape phases 5 and 6",
+      "url": "https://shelbyvilleillinois.net/governor-quinn-awards-shelbyville-illinois-1million-in-funding-for-downtown-streetscape-improvements/",
+      "creator": "Shelbyville Works; article account shelby12; city engineer Alan Spesard named",
+      "publication_date": "2013-01-30",
+      "source_type": "Local project announcement with presented dates and scope",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Article scope and displayed/schema dates inspected: planned sidewalk void repair and curb/gutter adjustment, Washington to Broadway divided at Morgan.",
+      "limitations": "Current page presents 2013 publication and 2017 modification dates; original timestamped version not acquired. Announcement is not as-built execution evidence or historical vault/grade/deposit dating.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://shelbyvilleillinois.net/governor-quinn-awards-shelbyville-illinois-1million-in-funding-for-downtown-streetscape-improvements/",
+          "sha256": "a01bcc9bed6aaf7169f7e0fa1278c03939518135279e1cd04db6f920bf90c31e",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete HTML; article and date metadata inspected; complete delivered 1119700 bytes"
+        }
+      ]
     }
   ]
 }

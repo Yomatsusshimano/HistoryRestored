@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Historical benchmark and planned sidewalk repairs
+
+Recovered a 1907 courthouse benchmark reported at 650.23 feet and an announced sidewalk void repair scope. No modern mark recovery, target grade offset, measured burial thickness or event date established. 30 drafts / 399 sources; no independent review. See [elevation controls](research/SHELBYVILLE-ELEVATION-CONTROLS.md).
+
 ### 2026-10-11 — Original neighbouring survey and facade controls
 
 Recovered the 222 E Main Lantz survey and three facade photographs linked to 218/222 E Main. The survey reports an 1893 building date and an 1855 business origin; neither dates the 212 vault. Photo capture dates remain unknown. The HARGIS Main Street query returned no 212/216 record, which does not establish archival absence. 30 drafts / 397 sources; no independent review. See [survey controls](research/SHELBYVILLE-SURVEY-CONTROLS.md).

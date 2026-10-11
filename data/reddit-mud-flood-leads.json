@@ -66,7 +66,7 @@
       "place": "Shelbyville,Illinois,as identified by poster",
       "source_id": "S377",
       "claim": "Storefront11feet below current shops",
-      "status": "NEIGHBOUR_SURVEY_RECOVERED_TARGET_HISTORY_OPEN",
+      "status": "HISTORICAL_BENCHMARK_RECOVERED_TARGET_GRADE_OPEN",
       "building_address": null,
       "reported_depth_ft": 11,
       "depth_authenticated": false,
@@ -99,7 +99,9 @@
         "S394",
         "S395",
         "S396",
-        "S397"
+        "S397",
+        "S398",
+        "S399"
       ],
       "candidate_business": "Sit n Sip",
       "candidate_address": "216 E Main Street, Shelbyville, Illinois",

@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "outreach_performed": false,
+  "retrievals": [
+    {
+      "url": "https://pubs.usgs.gov/bul/0421/report.pdf",
+      "sha256": "84ff65dbb9fc58a78cdf290de73a7ef498dbc1211b61e5955a3679e5dc0d41ab",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "74-page PDF; selected visual inspection only; complete delivered 5166893 bytes"
+    },
+    {
+      "url": "https://shelbyvilleillinois.net/governor-quinn-awards-shelbyville-illinois-1million-in-funding-for-downtown-streetscape-improvements/",
+      "sha256": "a01bcc9bed6aaf7169f7e0fa1278c03939518135279e1cd04db6f920bf90c31e",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete HTML; article and date metadata inspected; complete delivered 1119700 bytes"
+    }
+  ],
+  "benchmark": {
+    "source_id": "S398",
+    "locator": "Printed/PDF page 68, Shelbyville Quadrangle, courthouse entry",
+    "location_description": "South front of courthouse, east end of second step",
+    "mark_type": "Unstamped aluminum tablet",
+    "reported_elevation": 650.23,
+    "unit": "feet as reported",
+    "datum_description": "Common mean-sea-level datum on precise-level network adjusted in 1907, with report-wide finality caveat (page 5)",
+    "regional_survey_year": 1907,
+    "individual_observation_date": null,
+    "surveyor": "P. E. Fletcher; regional attribution on page 67",
+    "recovery_identity": null,
+    "modern_elevation": null,
+    "datum_transformation": null,
+    "target_pavement_offset": null,
+    "target_vault_floor_offset": null,
+    "target_soil_surface_offset": null,
+    "derived_burial_depth": null,
+    "inferred_upheaval": null
+  },
+  "methods": {
+    "visual_pages": [
+      1,
+      5,
+      6,
+      67,
+      68
+    ],
+    "text_only_navigation": "Search of packet text for Shelbyville; not full visual inspection",
+    "leveling_class": "PRIMARY",
+    "reported_primary_closure_limit": "0.05 sqrt(D) feet; D is circuit length in miles",
+    "circuit_length": null,
+    "actual_closure": null,
+    "point_uncertainty": null,
+    "warning": "Closure criterion is not a measured point uncertainty; stamped field elevations may differ from adjusted values; this tablet is unstamped"
+  },
+  "project_announcement": {
+    "source_id": "S399",
+    "presented_publication_date": "2013-01-30",
+    "schema_datePublished": "2013-01-30T21:49:29+00:00",
+    "schema_dateModified": "2017-01-29T20:35:06+00:00",
+    "independently_timestamped_original_version": null,
+    "scope": "Planned sidewalk void repair and curb/gutter adjustment along Main Street, Washington to Broadway, divided at Morgan",
+    "named_engineer": "Alan Spesard",
+    "grade_measurements": null,
+    "as_built_records": null,
+    "vault_construction_date": null
+  },
+  "limits": [
+    "Historical courthouse mark is not target street grade or a sediment surface",
+    "No modern recovery or paired measurements; no vertical change derived",
+    "No assumed modern datum conversion",
+    "Separate Morris Bridge water entry not used as vault burial depth",
+    "Announcement is planned work, not execution evidence",
+    "No target sediment log or depositional date acquired"
+  ],
+  "next_tests": [
+    "Recover benchmark identity and stable supporting fabric",
+    "Obtain modern survey and historically documented datum tie",
+    "Acquire historical and modern target offsets, design and as-built street profiles",
+    "Acquire undisturbed target sediment boundaries, provenance and contextual dates"
+  ]
+}
