@@ -58,3 +58,5 @@ The source also describes checking neighboring pieces in successive flat assembl
 This evidence makes a construction account more specific: it names a supplier, separates activities and provides quantities. It does not independently prove every piece was newly manufactured, establish total labor productivity, or exclude reuse. The next discriminating evidence is the supplier order/dispatch trail linked to Levallois part registers and site receipts, followed by payroll and dated construction images. A claim of inheritance must explain that evidence if recovered; a claim of documented new fabrication must withstand the same checks.
 
 Supply follow-up: [1893 Pompey industrial survey](EIFFEL-POMPEY-METALLURGY.md) identifies rated blast-furnace capacity, its industrial information sources and unmatched weight scopes; acceptance/dispatch records remain unacquired.
+
+Supply-account follow-up: [weight reconciliation and printed cost discrepancy](EIFFEL-SUPPLY-RECONCILIATION.md); original batch acceptance and dispatch records remain unacquired.

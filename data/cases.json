@@ -1144,6 +1144,11 @@
           "source_id": "S340",
           "locator": "Printed105-107 and127, CNAM vues108-110 and130; title vue2",
           "statement": "The 1893 survey names Hallopeau and Campredon, describes compilation from exhibition material, lists a Tower metal-weight row of 7 347 230 and reports two Pompey Fould-Dupont blast furnaces capable of 110 tonnes each per 24 hours. These are reported quantities/capacities, not a supplier delivery series."
+        },
+        {
+          "source_id": "S17",
+          "locator": "Fifth part chapterI section1; canvas8976157 and printed211/canvas8976158",
+          "statement": "Detailed weight categories reconcile gross workshop6360067kg to total tower metal7341214kg. Fifteen monetary entries sum3000676.56francs matching table, whereas adjacent prose gives3033071.74francs. Supplier batches/invoices remain uninspected."
         }
       ],
       "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",

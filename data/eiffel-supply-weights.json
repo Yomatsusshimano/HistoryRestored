@@ -1,0 +1,57 @@
+{
+  "source_id": "S17",
+  "locator": "Fifth part chapterI section1; unnumbered opening page canvas8976157 and printed211 canvas8976158",
+  "unit": "kg",
+  "workshop_gross": 6360067,
+  "otis_deduction_excluding_rivets": 54723,
+  "printed_workshop_net": 6305344,
+  "direct_site_items": [
+    207227,
+    6353,
+    5718,
+    51721,
+    25512,
+    74144,
+    2519
+  ],
+  "printed_direct_site_total": 373194,
+  "printed_workshop_and_direct_total": 6678538,
+  "other_supplier_groups": [
+    108678,
+    84827,
+    22973,
+    15897,
+    889
+  ],
+  "printed_superstructure_total": 6911802,
+  "infrastructure_items": [
+    165628,
+    164492,
+    42831,
+    56461
+  ],
+  "printed_infrastructure_total": 429412,
+  "printed_tower_metal_total": 7341214,
+  "money_unit": "franc",
+  "workshop_rate_per_100kg": "40",
+  "money_items": [
+    "2671415.20",
+    "186032.18",
+    "30105.60",
+    "19639.10",
+    "4138.08",
+    "2224.80",
+    "8043.75",
+    "53810.25",
+    "2042.00",
+    "2636.40",
+    "6301.80",
+    "4038.00",
+    "6037.80",
+    "3500.40",
+    "711.20"
+  ],
+  "printed_money_total_table": "3000676.56",
+  "printed_money_total_prose": "3033071.74",
+  "limits": "Selected table arithmetic, not original invoices or acceptance/dispatch registers. Otis infrastructure entry includes a different stated scope from the deduction. Source money inconsistency retained."
+}

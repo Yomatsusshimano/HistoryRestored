@@ -1,0 +1,22 @@
+{
+  "scope": "Selected printed-account arithmetic only",
+  "workshop_net_kg": 6305344,
+  "direct_site_kg": 373194,
+  "combined_kg": 6678538,
+  "superstructure_kg": 6911802,
+  "infrastructure_kg": 429412,
+  "tower_metal_kg": 7341214,
+  "weight_checks": {
+    "workshop_net": true,
+    "direct_site": true,
+    "combined": true,
+    "superstructure": true,
+    "infrastructure": true,
+    "tower": true
+  },
+  "computed_workshop_cost_francs": "2671415.20",
+  "computed_money_total_francs": "3000676.56",
+  "money_minus_table_francs": "0.00",
+  "money_minus_prose_francs": "-32395.18",
+  "limits": "Selected table arithmetic, not original invoices or acceptance/dispatch registers. Otis infrastructure entry includes a different stated scope from the deduction. Source money inconsistency retained."
+}

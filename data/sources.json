@@ -293,8 +293,8 @@
       "publication_date": "1900",
       "source_type": "participant technical monograph",
       "access": "SCAN_INSPECTED",
-      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only. Third part, chapter II, section 1, pp.100-101 (chapter PDF pages 17-18; canvases 8976047-8976048), visually inspected fabrication, personnel and quantity paragraphs.",
-      "limitations": "Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts.",
+      "inspected": "Unnumbered personnel roster, canvas 8975936; printed page 225, canvas 8976172. Both image pages visually inspected; OCR used for navigation only. Third part, chapter II, section 1, pp.100-101 (chapter PDF pages 17-18; canvases 8976047-8976048), visually inspected fabrication, personnel and quantity paragraphs. Fifth part chapterI section1, unnumbered opening canvas8976157 and printed211 canvas8976158: weight categories, selected money entries, supplier/representative and rivet specifications visually checked with higher-resolution crops. Adjacent chapter boundary viewed.",
+      "limitations": "Retrospective participant account, not independent audit. Original invoices, payroll, fabric and complete construction sequence uninspected. Modern operator summary searched but not used to corroborate amounts. Weight subtotals and table costs reproduce; adjacent prose money total differs by32395.18francs, cause unresolved. No batch acceptance-test series or independent dispatch authentication.",
       "local_copy": null,
       "accessed_date": "2026-10-08",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
@@ -315,6 +315,36 @@
           "url": "https://www.e-rara.ch/download/pdf/9073009.pdf",
           "sha256": "d29ccc1945d3bc133323ff6290b9cf8ec7c69ec3c153bb865238dd47b150b1b5",
           "retrieved_date": "2026-10-08",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/download/webcache/1000/8976157",
+          "sha256": "9dc8ca04df78b40cabf5a4c5c03227cf5f5b1ce9853b49ca802f1e76cc518f47",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/download/webcache/1000/8976158",
+          "sha256": "a5a6067d31c248964f4fad0e6eef7182ec56bdaff404d8b64b9d1f68005eabe6",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/download/webcache/1000/8976159",
+          "sha256": "6e172d29a800624da9d135174c23e291f0194540b586777da9aaf34ad9307474",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976157/full/2000,/0/default.jpg",
+          "sha256": "cd210574279f8d7f273ae9564ed5cd6f74e4434cde92e3157ddeb25680258eb1",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976158/full/2000,/0/default.jpg",
+          "sha256": "70b3b743bf11b1ff998ceebdd4a5aad5a29b8686cc476532c2eb27e871aa224a",
+          "retrieved_date": "2026-10-11",
           "public_mirror_in_this_repository": false
         }
       ]

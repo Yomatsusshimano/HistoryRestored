@@ -106,3 +106,5 @@ Historical-map follow-up: [Babcock editions and datum audit](research/BABCOCK-QU
 2026-10-11 follow-up: [conditional steady-discharge intersection](research/GRAND-COULEE-THRESHOLD-INTERSECTION.md). Published threshold envelopes distinguish terrain scenarios under explicit assumptions; no hydraulic reproduction or contemporaneous-field validation.
 
 Builder supply follow-up: [Pompey industrial survey](research/EIFFEL-POMPEY-METALLURGY.md), separating rated pig-iron capacity from finished tower-part deliveries.
+
+Supply-account follow-up: [weight reconciliation and printed cost discrepancy](research/EIFFEL-SUPPLY-RECONCILIATION.md); original batch acceptance and dispatch records remain unacquired.

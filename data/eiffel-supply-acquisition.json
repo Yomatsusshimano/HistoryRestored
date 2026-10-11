@@ -1,0 +1,40 @@
+{
+  "source_id": "S17",
+  "accessed_date": "2026-10-11",
+  "images": [
+    {
+      "canvas": "https://www.e-rara.ch/i3f/v20/8975922/canvas/8976157",
+      "catalog_label": "[234]",
+      "url": "https://www.e-rara.ch/download/webcache/1000/8976157",
+      "bytes": 89486,
+      "sha256": "9dc8ca04df78b40cabf5a4c5c03227cf5f5b1ce9853b49ca802f1e76cc518f47"
+    },
+    {
+      "canvas": "https://www.e-rara.ch/i3f/v20/8975922/canvas/8976158",
+      "catalog_label": "211",
+      "url": "https://www.e-rara.ch/download/webcache/1000/8976158",
+      "bytes": 88922,
+      "sha256": "a5a6067d31c248964f4fad0e6eef7182ec56bdaff404d8b64b9d1f68005eabe6"
+    },
+    {
+      "canvas": "https://www.e-rara.ch/i3f/v20/8975922/canvas/8976159",
+      "catalog_label": "[236]",
+      "url": "https://www.e-rara.ch/download/webcache/1000/8976159",
+      "bytes": 124227,
+      "sha256": "6e172d29a800624da9d135174c23e291f0194540b586777da9aaf34ad9307474"
+    },
+    {
+      "canvas": "https://www.e-rara.ch/i3f/v20/8975922/canvas/8976157",
+      "url": "https://www.e-rara.ch/i3f/v20/8976157/full/2000,/0/default.jpg",
+      "bytes": 301358,
+      "sha256": "cd210574279f8d7f273ae9564ed5cd6f74e4434cde92e3157ddeb25680258eb1"
+    },
+    {
+      "canvas": "https://www.e-rara.ch/i3f/v20/8975922/canvas/8976158",
+      "url": "https://www.e-rara.ch/i3f/v20/8976158/full/2000,/0/default.jpg",
+      "bytes": 313036,
+      "sha256": "70b3b743bf11b1ff998ceebdd4a5aad5a29b8686cc476532c2eb27e871aa224a"
+    }
+  ],
+  "inspection": "Full 1000px openings and selected 2000px weights/cost crops inspected. Adjacent platform chapter boundary viewed, no detailed platform audit. Public images linked not mirrored."
+}

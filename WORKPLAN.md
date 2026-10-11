@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Supply weight reconciliation and printed cost discrepancy
+
+Expanded S17 selected original pages: six weight checks reconcile to7,341,214kg; fifteen cost entries reproduce table3,000,676.56francs, differing from adjacent prose by32,395.18francs. Cause unknown; no invoices, batch tests or new-manufacture validation.28drafts/340sources; all twenty objectives active. See [supply audit](research/EIFFEL-SUPPLY-RECONCILIATION.md).
+
 ### 2026-10-11 — Original industrial survey and capacity scope
 
 S340 selected1893scans identify Hallopeau/Campredon, two Pompey blast furnaces rated110tonnes each per24hours, and a separate tower weight row. Pig-iron capacity does not measure finished-part output; industry-supplied brochure dependence and unmatched tonnage scopes retained. Supplier acceptance/dispatch records remain unacquired.28drafts/340sources; all twenty objectives active. See [Pompey audit](research/EIFFEL-POMPEY-METALLURGY.md).

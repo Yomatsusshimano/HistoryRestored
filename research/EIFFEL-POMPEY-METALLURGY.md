@@ -25,3 +25,5 @@ The survey supplies a concrete upstream industrial facility to investigate. It n
 An inaccessible local-history page was a search lead for a claim of4200acceptance-test bars. Its normal HTTPS request failed certificate-name validation, and the web fetch failed. The original source of that count was not recovered; it is **not an accepted measurement or a claim attributed to S340**. No certificate bypass was used.
 
 The next evidence needed is the original Fould-Dupont order/test/dispatch sequence, with batch identifiers joined to Levallois part registers and site receipts. A preserved batch-level acceptance series could test newly rolled material much more directly than rated furnace capacity. No labor sufficiency, component manufacture date, inherited structure, common catastrophe, independent review or completion is established here.
+
+Supply-account follow-up: [weight reconciliation and printed cost discrepancy](EIFFEL-SUPPLY-RECONCILIATION.md); original batch acceptance and dispatch records remain unacquired.
