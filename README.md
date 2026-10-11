@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Full de Foville lecture](research/EIFFEL-DE-FOVILLE-LECTURE.md): original issue date, unfinished construction and summary differences.
+
 - [1890 operating notice](research/EIFFEL-1890-OPERATION-NOTICE.md): participant quotation, editorial repayment inference and original lift-date reading.
 
 - [Original1890 statistical report](research/EIFFEL-1890-STATISTICAL-REPORT.md): printed arithmetic conflicts and limits on financial corroboration.

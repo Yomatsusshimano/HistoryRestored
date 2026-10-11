@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Full lecture and original issue date
+
+S354full fourteen-page lecture visually inspected:20November1888lecture/15December1888issue, prospective5millioncost and Eiffel-facilitated access. Original15,000m²base differs from summary10,000; S351Januarycitation and institutionalmirror authentication unresolved.28 drafts /354 sources; all twenty objectives active. See [full lecture audit](EIFFEL-DE-FOVILLE-LECTURE.md).
+
 ### 2026-10-11 — Participant notice and editorial inference separated
 
 S352 complete original1890notice separates Eiffel-supplied quotation from editorial repayment inference; original lift date26May corrects extracted20May. S353 selected lecture-summary page inspected, full lecture unacquired. Financial scopes remain unjoined.28 drafts /353 sources; all twenty objectives active. See [notice audit](EIFFEL-1890-OPERATION-NOTICE.md).

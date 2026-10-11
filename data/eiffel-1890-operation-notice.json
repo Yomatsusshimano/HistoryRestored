@@ -70,7 +70,9 @@
     "inspected_section": "Printed30 section5, La Tour Eiffel",
     "access_limit": "Only wrapper and selected original page inspected; not complete lecture",
     "role": "Praise and prospective construction/use summary; no financial breakdown",
-    "full_lecture_acquired": false
+    "full_lecture_acquired": true,
+    "full_lecture_source_id": "S354",
+    "exact_summary_to_edition_relationship_authenticated": false
   },
   "comparison": {
     "S17_receipt_summary_minus_S352_francs": "13947.40",

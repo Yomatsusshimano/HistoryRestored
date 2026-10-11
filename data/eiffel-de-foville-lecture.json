@@ -1,0 +1,112 @@
+{
+  "source_id": "S354",
+  "accessed_date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "retrieval": {
+    "url": "http://davidmhart.com/liberty/FrenchPolEc/JDE/04QuatriemeSerie1878-1889/JDE-1888-T44-OctDec.pdf",
+    "sha256": "d45f2a641fb8fa48c08416fe25e3425855e060c41b170c11633dcb7b19f9b971",
+    "byte_length": 22363644,
+    "pdf_pages": 487,
+    "transport": "Public HTTP mirror after HTTPS certificate mismatch/chain failure; TLS validation not disabled",
+    "institutional_watermark": "Gallica / Bibliothèque nationale de France",
+    "institutional_ark": null,
+    "institutional_bytes_verified": false,
+    "public_mirror_in_repository": false
+  },
+  "visual_inspection": {
+    "title_pdf_page": 1,
+    "contents_pdf_page": 486,
+    "contents_printed_page": 487,
+    "article_pdf_pages": [
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357
+    ],
+    "article_printed_pages": [
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358
+    ],
+    "other_visually_surveyed_pdf_pages": [
+      483,
+      485,
+      487
+    ],
+    "rest_of_volume_audited": false,
+    "diplomatic_transcription_complete": false
+  },
+  "dates": {
+    "lecture": "1888-11-20",
+    "issue_footer": "1888-12-15",
+    "contents_issue": "December1888",
+    "S351_January_citation_resolved": false,
+    "January_reprint_excluded": false
+  },
+  "attribution": {
+    "author": "A. de Foville",
+    "p345": "Eiffel facilitated site access and lent model",
+    "p352": "Author reports staircase climb three days before lecture; original diary unacquired",
+    "independent_manufacturing_validation": false
+  },
+  "reported_figures": [
+    {
+      "locator": "p348",
+      "kind": "Rounded iron-weight estimates",
+      "tonnes": [
+        3000,
+        1000,
+        2000,
+        500
+      ],
+      "sum_tonnes": 6500,
+      "delivered_weight": false
+    },
+    {
+      "locator": "p351",
+      "kind": "Prospective cost allocation",
+      "estimated_cost_francs": 5000000,
+      "subsidy_francs": 1500000,
+      "enterprise_remainder_francs": 3500000,
+      "actual_receipts_validated": false
+    },
+    {
+      "locator": "p352",
+      "kind": "Illustrative cross section and base area",
+      "bundle_area_upper_m2": 3,
+      "base_area_m2": 15000,
+      "S353_summary_base_area_m2": 10000,
+      "definitions_joined": false
+    }
+  ],
+  "agreement_comparison": {
+    "p351_treaty_year": 1886,
+    "S347_agreement_date": "1887-01-08",
+    "p351_concession_expiration": "November1909",
+    "ownership_summary": "City ownership at concession expiry",
+    "original_contract_comparison": "S347 separates ownership after exhibition from20yearoperating enjoyment beginning1January1890",
+    "antecedent_agreement_and_revisions_joined": false
+  },
+  "financial_limits": "No S351 eleven-row breakdown or original banking records; estimate cannot authenticate S352 profit or repayments."
+}
