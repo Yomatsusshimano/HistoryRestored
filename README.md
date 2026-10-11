@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Operating-receipt audit](research/EIFFEL-OPERATING-RECEIPTS.md): reconciled receipt scopes, expense subtraction and limits on repayment claims.
+
 - [Company capital audit](research/EIFFEL-COMPANY-CAPITAL.md): operating-rights contribution, cash subscriptions and unresolved incorporation dates.
 
 - [Subscriber-list and financial dossier route](research/EIFFEL-SAEF-FINANCING.md): partial original image, exact company reference and limits on financing claims.

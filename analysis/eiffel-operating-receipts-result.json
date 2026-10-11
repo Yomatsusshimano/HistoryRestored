@@ -1,0 +1,51 @@
+{
+  "source_id": "S17",
+  "checks": [
+    {
+      "name": "receipt_summary",
+      "calculated_francs": "6523847.40",
+      "reported_francs": "6523847.40",
+      "matches": true
+    },
+    {
+      "name": "ticket_after_exhibition_share",
+      "calculated_francs": "5919884.00",
+      "reported_francs": "5919884.00",
+      "matches": true
+    },
+    {
+      "name": "souvenir_margin",
+      "calculated_francs": "21441.20",
+      "reported_francs": "21441.20",
+      "matches": true
+    },
+    {
+      "name": "board_scope_bridge",
+      "calculated_francs": "6687893.40",
+      "reported_francs": "6687893.40",
+      "matches": true
+    },
+    {
+      "name": "expense_deductions",
+      "calculated_francs": "9552.20",
+      "reported_francs": "9552.20",
+      "matches": true
+    },
+    {
+      "name": "expense_after_deductions",
+      "calculated_francs": "442976.81",
+      "reported_francs": "442976.81",
+      "matches": true
+    }
+  ],
+  "receipt_minus_listed_expenses_francs": "6080870.59",
+  "status": "SOURCE_SUMMARY_ARITHMETIC_ONLY",
+  "not_validated": [
+    "Original transactions",
+    "Net profit",
+    "All constituent expense rows",
+    "Capital repayment",
+    "Construction financing",
+    "Scientific hypothesis"
+  ]
+}

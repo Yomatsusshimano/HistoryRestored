@@ -1,0 +1,91 @@
+{
+  "source_id": "S17",
+  "accessed_date": "2026-10-11",
+  "images": [
+    {
+      "printed_page": 228,
+      "canvas": "8976175",
+      "url": "https://www.e-rara.ch/i3f/v20/8976175/full/2000,/0/default.jpg",
+      "sha256": "02ea7f080abe1825dcf1762cff6a024e5bf88d5ede135c5a3036b4b404474eae",
+      "byte_length": 343872,
+      "visually_inspected": true,
+      "public_mirror_in_this_repository": false
+    },
+    {
+      "printed_page": 229,
+      "canvas": "8976176",
+      "url": "https://www.e-rara.ch/i3f/v20/8976176/full/2000,/0/default.jpg",
+      "sha256": "1a57e30d8a6f3e7189edc97697c10b5646f12f068f99224ba68991b2ce723f0b",
+      "byte_length": 359774,
+      "visually_inspected": true,
+      "public_mirror_in_this_repository": false
+    },
+    {
+      "printed_page": 230,
+      "canvas": "8976177",
+      "url": "https://www.e-rara.ch/i3f/v20/8976177/full/2000,/0/default.jpg",
+      "sha256": "6486503f4fb66bf8ea304a98512ab85ff579e931ec8fcb3f17c1b7e8b05f264d",
+      "byte_length": 355498,
+      "visually_inspected": true,
+      "public_mirror_in_this_repository": false
+    },
+    {
+      "printed_page": 231,
+      "canvas": "8976178",
+      "url": "https://www.e-rara.ch/i3f/v20/8976178/full/2000,/0/default.jpg",
+      "sha256": "c53aab735c02f81944adc2c262a9036a38c1bdf5555e11b356e850f643668f08",
+      "byte_length": 305889,
+      "visually_inspected": true,
+      "public_mirror_in_this_repository": false
+    }
+  ],
+  "receipt_summary": [
+    {
+      "category": "Tickets after exhibition share",
+      "francs": "5919884.00"
+    },
+    {
+      "category": "Restaurants and bars",
+      "francs": "457686.90"
+    },
+    {
+      "category": "Other concessions",
+      "francs": "104427.65"
+    },
+    {
+      "category": "Direct souvenir margin",
+      "francs": "21441.20"
+    },
+    {
+      "category": "Automatic distributors",
+      "francs": "9848.35"
+    },
+    {
+      "category": "Interest on invested funds",
+      "francs": "10559.30"
+    }
+  ],
+  "reported_receipt_total": "6523847.40",
+  "ticket_gross": "5983930.00",
+  "exhibition_share": "64046.00",
+  "ticket_net": "5919884.00",
+  "souvenir_sales": "63572.15",
+  "souvenir_purchase_cost": "42130.95",
+  "souvenir_margin": "21441.20",
+  "cash_share_payments": "100000.00",
+  "reported_board_total": "6687893.40",
+  "expense_subtotal": "452529.01",
+  "expense_deductions": [
+    "7248.00",
+    "2304.20"
+  ],
+  "reported_expense_deductions": "9552.20",
+  "expense_net": "442976.81",
+  "original_board_report_acquired": false,
+  "cash_journals_acquired": false,
+  "weekly_table_fully_transcribed": false,
+  "all_expense_rows_summed": false,
+  "capital_repayments_validated": false,
+  "dependence": "Eiffel participant account reproduces Couder/board figures; source arithmetic is not independent accounting corroboration",
+  "status": "SOURCED_DRAFT"
+}

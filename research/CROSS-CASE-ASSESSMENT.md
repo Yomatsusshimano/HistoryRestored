@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Operating receipt scope reconciled
+
+Expanded S17 original pp228-231: six operating-receipt categories reconcile to6,523,847.40francs; board difference explained by cash subscriptions and exhibition share. Expense subtraction reproduced; no original transactions, all-row expense audit or authenticated profit/repayment.28 drafts /350 sources; all twenty objectives active. See [receipt audit](EIFFEL-OPERATING-RECEIPTS.md).
+
 ### 2026-10-11 — Corporate rights and cash distinguished
 
 Original S17 formation pages and S350 yearbook pp2001-2002 inspected. Nominal5,100,000-franc capital separates5,000,000-franc operating-rights consideration from100,000-franc cash subscriptions; actual receipts/share sales unverified. March2versus4constitution dates retained.28 drafts /350 sources; all twenty objectives active. See [capital audit](EIFFEL-COMPANY-CAPITAL.md).
