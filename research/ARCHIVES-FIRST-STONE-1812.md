@@ -33,3 +33,5 @@ Commons identifies both deliveries as Archives nationales contributions through 
 Next inspect AB/Vb/1/4 and the associated decree, ceremony minutes, construction accounts and execution drawings; obtain AE/II/3809's full provenance and version relationships. Match actual works and dated parcels to later excavations before assigning buried masonry. No authenticated works quantities, exact tower-parcel connection, common deposit or historical-rewriting mechanism has been established. All twenty objectives remain active.
 
 Follow-up: the [1844quotedpalaceprogram](ARCHIVES-PROGRAM-1844.md) specifies successive usable quarters. This is a staged-design requirement, not proof of the executed stage behind either the ceremony or1813letter.
+
+Follow-up: [Bordier’s original1855passages](ARCHIVES-BORDIER-1855.md) report above-ground work, a narrower intended location and early1816completeabandonment. Original execution records and textual lineage remain unverified.

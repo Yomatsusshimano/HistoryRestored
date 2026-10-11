@@ -6304,6 +6304,28 @@
         }
       ],
       "rights": "Commons Public Domain Mark; credit Archives nationales (France), photographic workshop"
+    },
+    {
+      "id": "S371",
+      "title": "Henri Bordier1855Archives guide: palace works report, location and printed program",
+      "url": "https://archive.org/details/lesarchivesdela00bordgoog",
+      "creator": "Henri Bordier; Dumoulin and Robet publishers",
+      "publication_date": "1855",
+      "source_type": "Historical archive guide and printed supporting-document extracts",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original titlePDF9; printed27–29/PDF41–43 and391–395/PDF403–407 visually inspected. Complete palace passage/speech27–28 and complete printed sectionIV392–393 with adjacent item boundaries. Following29plan isSoubise.",
+      "limitations": "Later reported approximately2m above-ground progress and early1816abandonment, not original measured execution record. Exact parcel, measurement date/datum and foundation depth unknown. Printed four-article item not authenticated full multi-project decree; Lespalais/Lesplans variant and OCR1813/original1812 discrepancy retained. Remaining volume uninspected; source lineage and original speech/plaque unverified.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://ia601607.us.archive.org/19/items/lesarchivesdela00bordgoog/lesarchivesdela00bordgoog.pdf",
+          "sha256": "d04d9641ea4e205695485b9c416e351dcece135ea9c2927ed49608df1094e6c1",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete429page delivered PDF;13102843bytes"
+        }
+      ]
     }
   ]
 }

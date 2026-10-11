@@ -1,0 +1,135 @@
+{
+  "source_id": "S371",
+  "case_id": "C006",
+  "status": "SOURCED_DRAFT",
+  "retrieval": {
+    "url": "https://ia601607.us.archive.org/19/items/lesarchivesdela00bordgoog/lesarchivesdela00bordgoog.pdf",
+    "bytes": 13102843,
+    "sha256": "d04d9641ea4e205695485b9c416e351dcece135ea9c2927ed49608df1094e6c1",
+    "pdf_pages": 429
+  },
+  "inspection": [
+    {
+      "pdf_page": 9,
+      "printed_page": null,
+      "role": "Full title; Henri Bordier, Dumoulin/Robet,1855"
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": 27,
+      "role": "Palace passage/speech"
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 28,
+      "role": "Palace passage/speech"
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": 29,
+      "role": "Adjacent Soubise plan"
+    },
+    {
+      "pdf_page": 403,
+      "printed_page": 391,
+      "role": "Adjacent supporting-document control"
+    },
+    {
+      "pdf_page": 404,
+      "printed_page": 392,
+      "role": "Palace program and adjacent item boundaries"
+    },
+    {
+      "pdf_page": 405,
+      "printed_page": 393,
+      "role": "Palace program and adjacent item boundaries"
+    },
+    {
+      "pdf_page": 406,
+      "printed_page": 394,
+      "role": "Adjacent supporting-document control"
+    },
+    {
+      "pdf_page": 407,
+      "printed_page": 395,
+      "role": "Adjacent supporting-document control"
+    }
+  ],
+  "reported_works": {
+    "locator": "Printed28/PDF42",
+    "above_ground_height_m_approx": 2,
+    "measurement_provenance": null,
+    "measurement_date": null,
+    "foundation_depth_m": null,
+    "deposit_thickness_m": null,
+    "complete_abandonment_report": "Beginning of1816",
+    "exact_abandonment_date": null,
+    "actual_work_quantity_authenticated": false
+  },
+  "reported_location": {
+    "locator": "Printed27/PDF41",
+    "corner": [
+      "quai d’Orsay",
+      "avenue de la Bourdonnais"
+    ],
+    "precise_parcel": null,
+    "eiffel_pier_join": false,
+    "proposed_1815_map": "Plan de Paris published chez Jean; footnote2",
+    "map_acquired": false
+  },
+  "following_plan": {
+    "printed_page": 29,
+    "pdf_page": 43,
+    "site": "Soubise in Marais",
+    "same_as_river_palace": false
+  },
+  "printed_program": {
+    "printed_pages": [
+      392,
+      393
+    ],
+    "pdf_pages": [
+      404,
+      405
+    ],
+    "section": "IV",
+    "heading_date": "1812-03-21",
+    "complete_printed_item_inspected": true,
+    "complete_original_decree_authenticated": false,
+    "articles": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "intended_accommodation_m3": 100000,
+    "initial_allocation_francs": 200000,
+    "actual_payment_verified": false,
+    "original_signature_inspected": false,
+    "article2_literal_variant": "Les palais",
+    "S365_article2_literal": "Les plans",
+    "variant_cause": null
+  },
+  "date_controls": {
+    "downloaded_ocr_heading": "21March1813",
+    "original_printed_heading": "21March1812",
+    "printed_page_offsets_change": true,
+    "later_bundled_citation_dates_not_supplied_by_inspected_passage": [
+      "August1813works start",
+      "1February1815abandonment"
+    ]
+  },
+  "dependencies": {
+    "1855_author_not_established_as_1812_eyewitness": true,
+    "speech_and_inscription_are_later_printed_attributions": true,
+    "original_works_record_for_height_unidentified": true,
+    "text_lineage_to_S365": null
+  },
+  "access_limits": [
+    "Selected historical surfaces only; rest of volume uninspected",
+    "PDF extraction has no searchable text; OCR navigation checked against printed images",
+    "Archive.org download route returned500; advertised storage-server route supplied complete PDF, OCR and scandata",
+    "Later2010citation used only to locate Bordier passages; underlying works records unacquired"
+  ],
+  "routing_url": "https://tinvereniging.nl/wp-content/uploads/401-500/0490/490_2010.pdf"
+}

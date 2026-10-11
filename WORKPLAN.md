@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Reported executed height and unresolved abandonment stages
+
+Original Bordier1855selected scans report approximately2m above-ground palace work and early1816completeabandonment; intendedOrsay/Bourdonnaiscorner and1815Jeanmap provide spatial lead. Printedprogram variant andOCRdate correction preserved. Noauthenticatedworksquantities orpierjoin.28drafts/371sources; all twenty objectives active. See [works report audit](research/ARCHIVES-BORDIER-1855.md).
+
 ### 2026-10-11 — Staged palace program and separate Soubise works
 
 Expanded S365completeArchivesentry27–30inspected: abbreviated1812stagedprogram andinitialallocation distinguished from1838Soubiseworks/spending. NamedDessallespartialdependency remains untraced; actualpalaceexecution andtower-parceljoin missing.28drafts/370sources; all twenty objectives active. See [program/site audit](research/ARCHIVES-PROGRAM-1844.md).

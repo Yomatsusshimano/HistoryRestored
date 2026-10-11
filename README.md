@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Bordier1855palace works report](research/ARCHIVES-BORDIER-1855.md): approximate above-ground height, intended corner, abandonment discrepancy and printed program controls.
+
 - [Palace program and separate Soubise works](research/ARCHIVES-PROGRAM-1844.md): staged requirements, allocation roles and named source dependency.
 
 - [1812ceremony and palace design](research/ARCHIVES-FIRST-STONE-1812.md): named stone-layer, preserved institutional images and unknown execution extent.
