@@ -1,0 +1,146 @@
+{
+  "source_id": "S356",
+  "status": "SOURCED_DRAFT",
+  "accessed_date": "2026-10-11",
+  "publication_year": 1891,
+  "exact_publication_date": null,
+  "retrievals": [
+    {
+      "view": 3,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE349.2/0003",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0003.V.0.971.1381.gif",
+      "sha256": "9ce191af6c3495c8bfb10086c498e7f8c7ce178fdb9672816d4ace8545a7800e",
+      "byte_length": 40124,
+      "visually_inspected": true,
+      "public_mirror": false,
+      "printed_page": null
+    },
+    {
+      "view": 34,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE349.2/0034",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0034.T.26.971.1381.gif",
+      "sha256": "ab09b1ab661fc24a6ee259ea75353f3f602e64b9fd68eb67e6118093ca5e3343",
+      "byte_length": 80912,
+      "visually_inspected": true,
+      "public_mirror": false,
+      "printed_page": 26
+    },
+    {
+      "view": 35,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE349.2/0035",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0035.T.27.971.1381.gif",
+      "sha256": "fe426dce627046dd9e84b3c2418f9be3e9f80a4c9c50eff5cf0546aa9ccdb477",
+      "byte_length": 78106,
+      "visually_inspected": true,
+      "public_mirror": false,
+      "printed_page": 27
+    },
+    {
+      "view": 36,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE349.2/0036",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0036.T.28.971.1381.gif",
+      "sha256": "a24f4146901a7e6671f88f7d67ae26baf81b4fe3a7ab748845cfa295f30b5543",
+      "byte_length": 79461,
+      "visually_inspected": true,
+      "public_mirror": false,
+      "printed_page": 28
+    },
+    {
+      "view": 37,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE349.2/0037",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0037.T.29.971.1381.gif",
+      "sha256": "c670d2a5fc3790995f8623d539b92ce7c0cfa1159b921a5ed5d3e8e772a07b56",
+      "byte_length": 73272,
+      "visually_inspected": true,
+      "public_mirror": false,
+      "printed_page": 29
+    },
+    {
+      "view": 38,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?8XAE349.2/0038",
+      "image_url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0038.T.30.971.1381.gif",
+      "sha256": "0bff825d0b428d3aa0a7c4a61dd63881d22e524a6885017cc9f9af5bab70639a",
+      "byte_length": 76006,
+      "visually_inspected": true,
+      "public_mirror": false,
+      "printed_page": 30
+    }
+  ],
+  "inspection_scope": "Original title and printed26–30; complete volume/field records not audited",
+  "general_pits": {
+    "locator": "p26",
+    "reported_total": 50,
+    "diameter_m": "1.20",
+    "min_depth_m": 6,
+    "max_depth_m": 9,
+    "average_depth_m": 8,
+    "listed_counts": [
+      18,
+      10,
+      2,
+      2,
+      13
+    ],
+    "listed_sum": 45,
+    "unallocated_count": 5,
+    "list_is_open_ended": true,
+    "locations": [
+      "Palais des beaux-arts",
+      "Palais des arts libéraux",
+      "Rightwing industries diverses near Desaix entrance",
+      "Opposite wing near Rapp entrance",
+      "Palais des machines"
+    ],
+    "average_sand_gravel_contact_depth_m": "7.90",
+    "contact_depth_is_uniform_fill_thickness": false,
+    "pit_identifiers": null,
+    "original_pit_logs_acquired": false
+  },
+  "additional_pits": {
+    "locator": "p27",
+    "reported_count": 17,
+    "location_scope": "Palais des machines support points",
+    "individual_logs_acquired": false,
+    "tower_pit_identity_established": false
+  },
+  "earlier_site_history": {
+    "locator": "pp27–28",
+    "quarry_year_reported": 1878,
+    "quarry_location_label": "Along École militaire",
+    "quarry_width_m": 60,
+    "quarry_length_m_approx": 200,
+    "foundation_debris_attribution": "Earlier exhibitions",
+    "other_remains": [
+      "Abandoned sewers",
+      "Vestiges of former perimeter ditches"
+    ],
+    "terrain_alteration_years_reported": [
+      1867,
+      1878
+    ],
+    "individual_S355_objects_joined": false,
+    "independent_object_dates": null
+  },
+  "grading": {
+    "locator": "p29",
+    "excavation_volume_m3": 190000,
+    "old_masonry_demolition_volume_m3": 10000,
+    "graded_area_m2": 416000,
+    "target_platform_cote_m": "35.60",
+    "platform_vertical_datum_joined": false,
+    "source_volume_maps_acquired": false,
+    "uniform_deposit_thickness_inferred": false
+  },
+  "sewer_history": {
+    "locator": "pp29–30",
+    "network_reported_used_in": [
+      1867,
+      1878
+    ],
+    "S355_200m_relocation_joined": false,
+    "as_built_plans_acquired": false
+  },
+  "dependence": "Official retrospective account; expenditure footnote says administration supplied cost figures. Geological/source provenance not inferred from that expenditure footnote. Source may share administration reporting withS355.",
+  "event_date": null,
+  "catastrophic_horizon_identified": false
+}

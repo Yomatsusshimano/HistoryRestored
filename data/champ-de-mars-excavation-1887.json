@@ -52,5 +52,10 @@
     }
   ],
   "date_error_control": "Earlier search context near9Januaryheader not used; original p479header23January1887 controls publication date",
-  "interpretation_limits": "Documentary report of subsurface remains; neither catastrophe nor ordinary burial mechanism established. No original field plans or surviving archaeological assembly."
+  "interpretation_limits": "Documentary report of subsurface remains; neither catastrophe nor ordinary burial mechanism established. No original field plans or surviving archaeological assembly.",
+  "later_competing_account": {
+    "source_id": "S356",
+    "reported_prior_exhibition_debris": true,
+    "exact_object_pit_join_established": false
+  }
 }

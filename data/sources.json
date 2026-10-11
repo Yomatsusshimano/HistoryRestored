@@ -5806,6 +5806,52 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S356",
+      "title": "Exposition universelle internationale de1889àParis, Rapport général, tome2: Travaux,1891, selectedpp26–30",
+      "url": "https://cnum.cnam.fr/pgi/redir.php?ident=8XAE349.2&onglet=c",
+      "creator": "Alfred Picard; Ministère du Commerce, de l’Industrie et des Colonies; Imprimerie nationale; Cnum digitization",
+      "source_type": "Official retrospective engineering account, selected original scans",
+      "access": "SCAN_INSPECTED",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original title visually confirms1891author/volume; pp26–30visually inspected for general/specialpits, earlier debris/quarry, grading and prior sewer network. NormalHTTPSinstitutionalGIFimages acquired; field logs not acquired.",
+      "limitations": "Reported figures/attributions not independently surveyed or dated.50generalpits namedcounts45plusopenendedlist; exactS355pit/objectjoinmissing. Machinerypalace investigations not substituted for towerpits. Contactdepth not fillthickness. Costfootnote applies expenditure, not all geological provenance.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0003.V.0.971.1381.gif",
+          "sha256": "9ce191af6c3495c8bfb10086c498e7f8c7ce178fdb9672816d4ace8545a7800e",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0034.T.26.971.1381.gif",
+          "sha256": "ab09b1ab661fc24a6ee259ea75353f3f602e64b9fd68eb67e6118093ca5e3343",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0035.T.27.971.1381.gif",
+          "sha256": "fe426dce627046dd9e84b3c2418f9be3e9f80a4c9c50eff5cf0546aa9ccdb477",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0036.T.28.971.1381.gif",
+          "sha256": "a24f4146901a7e6671f88f7d67ae26baf81b4fe3a7ab748845cfa295f30b5543",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0037.T.29.971.1381.gif",
+          "sha256": "c670d2a5fc3790995f8623d539b92ce7c0cfa1159b921a5ed5d3e8e772a07b56",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/8XAE349.2/0038.T.30.971.1381.gif",
+          "sha256": "0bff825d0b428d3aa0a7c4a61dd63881d22e524a6885017cc9f9af5bab70639a",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

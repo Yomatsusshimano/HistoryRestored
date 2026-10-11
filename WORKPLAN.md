@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Earlier site history and grading evidence
+
+S356original1891title/pp26–30inspected: prior exhibition foundations,1878quarry, abandonedsewers and grading supply specific competing sitehistory. General50pits namedlist45plusopenendedremainder; contactdepth not uniformfillthickness. ExactS355pit/objectjoin missing.28 drafts /356 sources; all twenty objectives active. See [groundwork audit](research/CHAMP-DE-MARS-PICARD-GROUNDWORK.md).
+
 ### 2026-10-11 — Buried remains and excavation scope
 
 S355original23January1887p479separates tower sewer relocation from reported concrete/stone/walls/oldconduits in general exhibition pits. Unknown depth, pitidentity and burial date retained; no catastrophe or ordinary burial mechanism established.28 drafts /355 sources; all twenty objectives active. See [excavation audit](research/CHAMP-DE-MARS-EXCAVATION-1887.md).

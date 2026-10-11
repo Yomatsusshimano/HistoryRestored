@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Picard groundwork audit](research/CHAMP-DE-MARS-PICARD-GROUNDWORK.md): earlier exhibition debris, quarrying, grading and missing pit controls.
+
 - [1887 exhibition excavation](research/CHAMP-DE-MARS-EXCAVATION-1887.md): reported buried remains, sewer works and unresolved site/stratigraphy.
 
 - [Full de Foville lecture](research/EIFFEL-DE-FOVILLE-LECTURE.md): original issue date, unfinished construction and summary differences.
