@@ -258,18 +258,20 @@
       "place": "Sacramento, California",
       "source_id": "S451",
       "claim": "Underground buildings and doubt about deliberate post-flood street raising",
-      "status": "EARLIER_DOCUMENTARY_ACCOUNT_AND_RETROSPECTIVE_RECORD_PARTIALLY_INSPECTED",
+      "status": "CONTEMPORARY_LETTER_MATCH_INSPECTED_EXECUTION_AND_STRATA_OPEN",
       "followup_source_ids": [
         "S452",
         "S453",
-        "S454"
+        "S454",
+        "S455",
+        "S456"
       ],
       "building_address": null,
       "deposit_date": null,
       "unresolved": [
         "Original Reddit media and demolition parcel match",
         "Original guide passage scan",
-        "February13/18 newspaper citation discrepancy",
+        "Original February13 item and opposing Bee letter; February18 quoted-passage match now inspected",
         "Original ordinance, contracts, quantities and parcel execution",
         "Stratigraphic separation of natural sediment and engineered fill",
         "Original grade and elevation datum"

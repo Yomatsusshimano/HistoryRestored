@@ -105,3 +105,8 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### 2026-10-11 — Reddit Sacramento grade lead
 
 R008 adds two indexed discussions, a selected-page municipal record and an1871guide transcription/title image. [Sacramento controls](SACRAMENTO-REDDIT-GRADE-CONTROLS.md) preserve original-media, source-dependency and parcel-stratigraphy gaps; newspaper-date discrepancy retained. Eight Reddit leads;31core drafts/454sources, no independent archive review. All twenty objectives active.
+
+
+### 2026-10-11 — Contemporary Sacramento letter recovered
+
+[1863letter controls](SACRAMENTO-1863-HIGH-GRADE-LETTERS.md): S455scan selected portions inspected, matching S453quoted passage to18February; bibliography discrepancy retained. S456selectedOCR separates prospective advocacy from execution and neighboring article contamination.31core drafts/456sources; original media, parcel strata and execution records remain open. All twenty objectives active.

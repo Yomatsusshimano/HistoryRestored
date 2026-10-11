@@ -31,3 +31,8 @@ Complete delivery hashes authenticate retained bytes, not historical accuracy. D
 | S454 embedded title-page JPEG | 19992 | 961af6264cd9066fc094c2dbe5029cd3cf6a2b79188642075074f711bc92a7a2 |
 
 Eight Reddit leads; core archive remains31sourced drafts. Source count454. No common event date or global reconstruction established; all twenty objectives remain active.
+
+
+### Follow-up: original-letter match
+
+[Contemporary letter controls](SACRAMENTO-1863-HIGH-GRADE-LETTERS.md) now verify selected original-image portions matching the18February quoted passage. Earlier non-acquisition statements above are historical snapshots; parcel execution and soil chronology remain unverified.

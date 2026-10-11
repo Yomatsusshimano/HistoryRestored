@@ -8455,6 +8455,34 @@
           "hash_scope": "Complete embedded title image; visually inspected."
         }
       ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "source_type": "Historical newspaper letter accessed through institutional scan/OCR viewer",
+      "id": "S455",
+      "title": "High Grade: A Taxpayer letter, Sacramento Daily Union",
+      "url": "https://cdnc.ucr.edu/?a=d&d=SDU18630218.2.8",
+      "creator": "A Taxpayer, anonymous signature",
+      "publication_date": "1863-02-18",
+      "access": "SCAN_INSPECTED",
+      "inspected": "Archive volume24/number3716 metadata; page2 viewer, letter heading/opening/advocacy/conclusion/signature visually inspected at magnification; selected OCR also read.",
+      "limitations": "Date comes from archive metadata, not independently inspected masthead. Anonymous advocacy, not completed works or verified supporters. Opposing Bee letter unacquired. No downloaded original image hash or Reddit parcel join."
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "source_type": "Historical newspaper letter accessed through institutional scan/OCR viewer",
+      "id": "S456",
+      "title": "High Grade: Citizen letter, Sacramento Daily Union",
+      "url": "https://cdnc.ucr.edu/?a=d&d=SDU18630216.2.17",
+      "creator": "Citizen, anonymous signature",
+      "publication_date": "1863-02-16",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Archive volume24/number3714 metadata and selected OCR letter ending Citizen; viewer page5 metadata. Image not visually reviewed.",
+      "limitations": "OCR contains errors and container merges separately headed neighboring news; no flood measurements adopted. Prospective advocacy, not execution evidence. Same newspaper asS455; no independent sediment observation."
     }
   ]
 }
