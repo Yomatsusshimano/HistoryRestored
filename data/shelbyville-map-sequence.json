@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "retrievals": [
+    {
+      "source_id": "S389",
+      "sheet": 1,
+      "format": "JP2",
+      "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531893/02153_1893-0001.jp2",
+      "bytes": 6436168,
+      "sha256": "f93635a5daae7c928d908a289bc4310de2c89afa962bed741a5a9471630bfd74",
+      "dimensions": [
+        6450,
+        7650
+      ]
+    },
+    {
+      "source_id": "S389",
+      "sheet": 2,
+      "format": "JP2",
+      "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531893/02153_1893-0002.jp2",
+      "bytes": 7815882,
+      "sha256": "66d1447f00a095be70540b8b0121e81cac75b43608ac1a256372c04bec38a9d6",
+      "dimensions": [
+        6450,
+        7650
+      ]
+    },
+    {
+      "source_id": "S389",
+      "sheet": 3,
+      "format": "JP2",
+      "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531893/02153_1893-0003.jp2",
+      "bytes": 7602390,
+      "sha256": "80b6ed16069de770b47e4d9959316d1e098e1a9f333e44549d519e67f38db914",
+      "dimensions": [
+        6450,
+        7650
+      ]
+    },
+    {
+      "source_id": "S390",
+      "sheet": 2,
+      "format": "JP2",
+      "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531933/02153_1933-0002.jp2",
+      "bytes": 7512992,
+      "sha256": "3a4a3c881f05c4918e13642bd0a7f567207a6800828ba572b630b3d54bc9b795",
+      "dimensions": [
+        6450,
+        7650
+      ]
+    },
+    {
+      "source_id": "S390",
+      "sheet": 3,
+      "format": "JP2",
+      "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531933/02153_1933-0003.jp2",
+      "bytes": 7581225,
+      "sha256": "fcba358184a95ef760f16fda82216dfc0e176bc14e763a8d6930f37abd7ae21c",
+      "dimensions": [
+        6450,
+        7650
+      ]
+    },
+    {
+      "source_id": "S390",
+      "sheet": 1,
+      "format": "JPEG25percent",
+      "url": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104sm:g021531933:02153_1933-0001/full/pct:25/0/default.jpg",
+      "bytes": 407717,
+      "sha256": "f32ec5611d91b7f9ee8628210be3b7e0b38943acff981cea128884eae58bbb92",
+      "dimensions": [
+        1613,
+        1913
+      ]
+    },
+    {
+      "source_id": "S390",
+      "sheet": 2,
+      "format": "JPEG25percent",
+      "url": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104sm:g021531933:02153_1933-0002/full/pct:25/0/default.jpg",
+      "bytes": 322262,
+      "sha256": "49f4933b65d92b15ab0a44f5fc35e8bc9343b1810df2bf899f7125d44b308987",
+      "dimensions": [
+        1613,
+        1913
+      ]
+    }
+  ],
+  "outreach_performed": false,
+  "inspection": {
+    "S389": {
+      "edition_date": "1893-05",
+      "sheet_count": 3,
+      "overviews_surveyed": [
+        1,
+        2,
+        3
+      ],
+      "detail_crops": [
+        {
+          "sheet": 1,
+          "name": "key",
+          "pixel_box": [
+            2070,
+            3430,
+            2700,
+            4510
+          ]
+        },
+        {
+          "sheet": 3,
+          "name": "Main frontage",
+          "pixel_box": [
+            650,
+            2650,
+            2550,
+            4550
+          ]
+        }
+      ],
+      "exhaustive_transcription": false
+    },
+    "S390": {
+      "edition_date": "1933-02",
+      "catalog_sheet_count": 8,
+      "sheets_inspected": [
+        1,
+        2,
+        3
+      ],
+      "complete_set_acquired": false,
+      "detail_crops": [
+        {
+          "sheet": 3,
+          "name": "Morgan–Washington south Main frontage",
+          "pixel_box": [
+            450,
+            4820,
+            2950,
+            6500
+          ]
+        }
+      ],
+      "exhaustive_transcription": false
+    }
+  },
+  "registration": {
+    "level": "BLOCK_TOPOLOGY_ONLY",
+    "bounding_streets": [
+      "Main",
+      "Morgan",
+      "Washington",
+      "South First"
+    ],
+    "block_label": 4,
+    "internal_alley": "North–south alley separating selected commercial frontages",
+    "modern_212_216_parcel_authenticated": false,
+    "unchanged_surviving_fabric_authenticated": false,
+    "street_literal_all_three": "W. MAIN",
+    "modern_business_report_direction": "E Main",
+    "renaming_renumbering_instrument_acquired": false
+  },
+  "selected_comparison": [
+    {
+      "position": "West of internal alley, near earlier51–52labels",
+      "S388": "Separate commercial divisions, stove/tin and restaurant/bar use labels",
+      "S389": "Larger furniture/hardware rear footprint, being built annotation",
+      "S390": "Larger commercial footprint, store and tin-shop annotations",
+      "construction_completion_record_acquired": false
+    },
+    {
+      "position": "Immediately east of internal alley",
+      "S388": "53–54, yellow/frame one-story grocery/tobacco footprint",
+      "S389": "53–54, yellow/frame one-story millinery/vacant annotations",
+      "S390": "1814, red/brick two-story bank footprint",
+      "same_parcel_and_fabric_authenticated": false
+    },
+    {
+      "position": "Further east toward Washington",
+      "S388": "55–56 red/brick two-story footprints",
+      "S389": "55–56 red/brick two-story office/hand printing",
+      "S390": "1812–1810 red/brick two-story office/store",
+      "same_parcel_and_fabric_authenticated": false
+    }
+  ],
+  "quantitative_limits": {
+    "height_values_adopted": [],
+    "height_datum": null,
+    "height_units_authenticated": false,
+    "grade_change": null,
+    "deposit_thickness": null,
+    "deposit_date": null
+  },
+  "dependencies": [
+    "Same publisher map series not automatically independent survey/measurement lineage",
+    "Selected street/alley topology not cadastral or fabric authentication",
+    "Edition date not original construction/deposit age",
+    "Use changes not necessarily replacement",
+    "Story count not ground elevation",
+    "1933–1948 corrected item not adopted"
+  ]
+}

@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Three-edition Shelbyville block comparison
+
+Original1886/1893/1933maps now support same-block comparison by streets/alley, with changed footprints/uses and numbering. Specific212/216parcel and unchangedfabric unresolved; storycounts/relativeheights not gradechange orsedimentdates. 30 drafts / 390 sources; no independentreview. See [map sequence](research/SHELBYVILLE-MAP-SEQUENCE.md).
+
 ### 2026-10-11 — Paired address and original map controls
 
 Sit n Sip listing reports two adjoining buildings at212&216Main, a plausible address bridge pending parcel authentication. Original March1886map recovered; key distinguishes arbitrary numbers and relative heights, with W.Main/modern E.Main crosswalk unresolved. No gradechange or eventdate quantified. 30 drafts / 388 sources; no independent review. See [address/map controls](research/SHELBYVILLE-ADDRESS-MAP-CONTROLS.md).

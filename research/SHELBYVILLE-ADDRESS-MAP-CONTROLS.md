@@ -23,3 +23,7 @@ On sheet1 the relevant Morgan–Washington frontage is drawn along a segment lab
 The combined-address listing makes the apparent address conflict more tractable. The original map provides a contemporary building-layout and relative-height source for a historical comparison. Neither is yet a verified grade-change measurement. Next acquire the original parcel/address crosswalk, inspect later Sanborn sheets for continuity and numbering changes, and recover street-grade ordinances or engineering profiles with dates and units. Compare those with the same vault and a dated soil profile before selecting a natural or engineered burial explanation.
 
 The engineer report's grade-history background remains an uncited assertion pending these records. Its February 2020 filling recommendations remain separate from proof of execution. Original Reddit photograph, measured deposit thickness, deposit age and common event association remain unresolved. All twenty original objectives remain active.
+
+## Map sequence follow-up, 2026-10-11
+
+Original1893and selected1933sheets provide [same-block comparison](SHELBYVILLE-MAP-SEQUENCE.md). Individualmodernparcel andsamefabricjoin remainunverified; no heightdifference ordepositage calculated.

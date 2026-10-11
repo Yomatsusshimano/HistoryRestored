@@ -3542,12 +3542,22 @@
           "source_id": "S388",
           "locator": "March1886sheet1 key and Morgan–Washington Main frontage; sheets1–2 overviews",
           "statement": "Original map distinguishes actual from arbitrary street numbers and marks relative heights. Frontage carries W.Main label; modern E.Main crosswalk, exactbuildingjoin and heightunits/datum unresolved. No gradechange quantified."
+        },
+        {
+          "source_id": "S389",
+          "locator": "May1893sheet1key; sheet3southMainfrontage ofblock4",
+          "statement": "Block4street/alley topology supportscomparison to1886; frontage51–52includes larger furniture/hardware footprint markedbeingbuilt,53–54yellow/frame1story,55–56red/brick2story. No currentparcel/fabricjoin orgradechange."
+        },
+        {
+          "source_id": "S390",
+          "locator": "February1933sheet1index; sheet3block4Mainfrontage",
+          "statement": "Selectedsameblockfrontage uses1826–1810numbers andW.Main; immediatelyeastofinternalalley1814bankred/brick2stories differsfromearlier53–54yellow/frame1story depiction. Cadastral/current212/216join, unchangedfabric andheightdatum unresolved; no sedimentage orburialmeasurement."
         }
       ],
       "physical_evidence": "No original excavation image, site visit, deposit profile or independent measurement. Inspected scans record reported structural condition, addresses and historical photograph reproductions. Follow-up S386 complete report scan and photographs inspected: consultant-reported vault and damaged arches/doorway. No authenticated original Reddit image or independent survey.",
-      "surviving_documents": "Two Reddit discussions, two-page CityWalk brochure, ILCC address report and selected pages of a 96-page public municipal correspondence copy. S386 now supplies the previously sought engineer report as seven scanned pages in a public clerk packet. S387 attributed listing and S388 original March1886 two-sheet map now inspected within recorded extent.",
+      "surviving_documents": "Two Reddit discussions, two-page CityWalk brochure, ILCC address report and selected pages of a 96-page public municipal correspondence copy. S386 now supplies the previously sought engineer report as seven scanned pages in a public clerk packet. S387 attributed listing and S388 original March1886 two-sheet map now inspected within recorded extent. Original May1893complete3sheet set and selectedFebruary1933sheets1–3 inspected with recorded extent.",
       "source_interpretation": "Reddit commenters propose buried city, designed lower access, street changes, flooding or fire. Correspondence reports damaged vault and repair planning, not historic burial cause. Civil Design describes a constructed sidewalk vault and asserts earlier grade buildup in uncited background; observed condition and historical assertion remain separate.",
-      "investigation_inference": "Paired-address commercial description offers plausible212/216bridge; map key and street labels require verified numbering/datum crosswalk before historical grade comparison. No original photo, dated deposit or measured grade change. See research/SHELBYVILLE-ADDRESS-MAP-CONTROLS.md.",
+      "investigation_inference": "Threeoriginal mapeditions supportblocktopology comparison anddocument differentfootprints, uses andnumber schemes. They do not authenticate current212/216parcel, samevault/fabric, gradechange ordeposit chronology. See research/SHELBYVILLE-MAP-SEQUENCE.md.",
       "competing_explanations": [
         "Designed basement or sidewalk vault access",
         "Deliberate local grading or later filling",
@@ -3555,7 +3565,7 @@
         "Natural deposition or subsidence if demonstrated"
       ],
       "counterevidence": "Contemporary repair planning provides a specific local excavation context. Upper-floor fire loss does not demonstrate lower-floor burial. Different Reddit depths are unmeasured claims rather than replication. A documented engineered sidewalk-support vault and staged remediation provide a concrete local process; the historical buildup account still lacks original grade evidence.",
-      "next_test": "Authenticate212/216relationship with parcel/deed records, then modern-to-historic map crosswalk and samebuildingfabric. Inspect later maps and dated grade ordinances/profiles; acquire original photograph and completion diary; test same-layer dates.",
+      "next_test": "Acquire civic-address/parcel crosswalk, intervening maps/deeds/permits anddatedphotos toauthenticate individualbuildinghistory; recover datedgradeprofiles/ordinances withunits/datum andsame-layer dates; obtain originalRedditphoto andremediationcompletiondiary.",
       "chronology": {
         "reported": "Sit n Sip vault messages February 2020; separate 222 Main fill planning June 2020; packet forwarding July 2020",
         "dated_object": "Correspondence headers, not deposit or vault construction",
@@ -3576,7 +3586,7 @@
         "Historic numbering/direction crosswalk",
         "Relative-height units and datum"
       ],
-      "dependence": "Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct. S385 and S386 repeat the same February emails; not independent witness replication. Consultant structural observations do not independently authenticate its historical background narrative. Listing reposts share MLSdescription; map story/relativeheight symbols are not independentchronometers."
+      "dependence": "Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct. S385 and S386 repeat the same February emails; not independent witness replication. Consultant structural observations do not independently authenticate its historical background narrative. Listing reposts share MLSdescription; map story/relativeheight symbols are not independentchronometers. Three Sanborn editions sharepublisherlineage; independently surveyed height/footprintcontrols notestablished."
     }
   ]
 }

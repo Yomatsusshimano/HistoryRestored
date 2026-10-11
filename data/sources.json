@@ -6682,6 +6682,80 @@
           "hash_scope": "Complete delivered sheet2 JP2; 7387824 bytes, 6450x7650 pixels"
         }
       ]
+    },
+    {
+      "id": "S389",
+      "title": "Sanborn Shelbyville Illinois 1893: original map-sequence controls",
+      "url": "https://www.loc.gov/item/sanborn02153_002/",
+      "creator": "Sanborn map publisher; Library of Congress digital collection",
+      "publication_date": "1893-05",
+      "source_type": "Contemporary fire insurance map",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "All3original sheets acquired and visually surveyed in reduced overview; full-resolution sheet1key andsheet3Mainfrontage crops inspected.",
+      "limitations": "Selected reading only, not exhaustive transcription. Blocktopology comparison not current212/216parcel or unchangedfabric authentication. Beingbuilt annotation not completedworkcertificate; use changes not necessarilyreplacement. Relativeheight units/datum unverified; no gradechange calculated.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531893/02153_1893-0001.jp2",
+          "sha256": "f93635a5daae7c928d908a289bc4310de2c89afa962bed741a5a9471630bfd74",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet1 JP2; 6436168 bytes, dimensions[6450, 7650]"
+        },
+        {
+          "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531893/02153_1893-0002.jp2",
+          "sha256": "66d1447f00a095be70540b8b0121e81cac75b43608ac1a256372c04bec38a9d6",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet2 JP2; 7815882 bytes, dimensions[6450, 7650]"
+        },
+        {
+          "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531893/02153_1893-0003.jp2",
+          "sha256": "80b6ed16069de770b47e4d9959316d1e098e1a9f333e44549d519e67f38db914",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet3 JP2; 7602390 bytes, dimensions[6450, 7650]"
+        }
+      ]
+    },
+    {
+      "id": "S390",
+      "title": "Sanborn Shelbyville Illinois 1933: original map-sequence controls",
+      "url": "https://www.loc.gov/item/sanborn02153_007/",
+      "creator": "Sanborn map publisher; Library of Congress digital collection",
+      "publication_date": "1933-02",
+      "source_type": "Contemporary fire insurance map",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "ItemJSON andselected originalsheets1–3: sheet1JPEG25percent, sheet2JPEG/fullJP2, sheet3fullJP2 overview andfrontagecrop. Remaining5sheets notacquired/inspected.",
+      "limitations": "Not full eight-sheet review.1933original item notlater1933–1948corrected item. Numbering differs fromearly maps/current addresses; legalcrosswalk unavailable. No vaultmatch, physicaldeposit, heightdatum orchronologicalevent association. Same-mapseries measurementlineage not independent.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531933/02153_1933-0002.jp2",
+          "sha256": "3a4a3c881f05c4918e13642bd0a7f567207a6800828ba572b630b3d54bc9b795",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet2 JP2; 7512992 bytes, dimensions[6450, 7650]"
+        },
+        {
+          "url": "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104sm/g021531933/02153_1933-0003.jp2",
+          "sha256": "fcba358184a95ef760f16fda82216dfc0e176bc14e763a8d6930f37abd7ae21c",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet3 JP2; 7581225 bytes, dimensions[6450, 7650]"
+        },
+        {
+          "url": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104sm:g021531933:02153_1933-0001/full/pct:25/0/default.jpg",
+          "sha256": "f32ec5611d91b7f9ee8628210be3b7e0b38943acff981cea128884eae58bbb92",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet1 JPEG25percent; 407717 bytes, dimensions[1613, 1913]"
+        },
+        {
+          "url": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104sm:g021531933:02153_1933-0002/full/pct:25/0/default.jpg",
+          "sha256": "49f4933b65d92b15ab0a44f5fc35e8bc9343b1810df2bf899f7125d44b308987",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete delivered sheet2 JPEG25percent; 322262 bytes, dimensions[1613, 1913]"
+        }
+      ]
     }
   ]
 }
