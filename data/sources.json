@@ -7586,6 +7586,29 @@
           "hash_scope": "Complete 98212-byte JPEG delivery, 768 by 576 pixels; visually inspected; not authenticated original negative"
         }
       ]
+    },
+    {
+      "id": "S422",
+      "title": "Impressions, October 2003: Surprises In Preservation, Lorri Sipes",
+      "url": "https://www.washtenawhistory.org/_files/ugd/708faa_d03499bf771e48068b102083db3286e7.pdf?index=true",
+      "creator": "Washtenaw County Historical Society; account attributed to Lorri Sipes; editor Susan Cee Wineberg",
+      "publication_date": null,
+      "publication_month": "2003-10",
+      "source_type": "Historical society newsletter reporting a restoration participant account",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 issue date; PDF2 speaker and article heading; PDF3 Schlenker passage visually inspected.",
+      "limitations": "Reported participant account, not independent engineering verification. Flood and work dates unspecified; no measured sediment, grade or lower-opening chronology. Project-source dependence with S419 unresolved.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.washtenawhistory.org/_files/ugd/708faa_d03499bf771e48068b102083db3286e7.pdf?index=true",
+          "sha256": "6f8898c678d016381cf4ecf1dc99c6c98ca9841f08de6389249e79d50c9b8159",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 1729371-byte, 12-page PDF delivery; PDF1/2/3 visually inspected; not a transcript authenticated against a recording"
+        }
+      ]
     }
   ]
 }

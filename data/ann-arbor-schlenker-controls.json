@@ -9,7 +9,8 @@
     "S418",
     "S419",
     "S420",
-    "S421"
+    "S421",
+    "S422"
   ],
   "retrievals": [
     {
@@ -95,6 +96,12 @@
       "sha256": "296c285d8229c93ddcbb01bda276ada2ba41fca4c9122c9c5773a356a4b02e7a",
       "retrieved_date": "2026-10-11",
       "hash_scope": "Complete 98212-byte JPEG delivery, 768 by 576 pixels; visually inspected; not authenticated original negative"
+    },
+    {
+      "url": "https://www.washtenawhistory.org/_files/ugd/708faa_d03499bf771e48068b102083db3286e7.pdf?index=true",
+      "sha256": "6f8898c678d016381cf4ecf1dc99c6c98ca9841f08de6389249e79d50c9b8159",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 1729371-byte, 12-page PDF delivery; PDF1/2/3 visually inspected; not a transcript authenticated against a recording"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -302,5 +309,15 @@
     "closure_date": null,
     "closure_method_authenticated": false,
     "sediment_cause_authenticated": false
+  },
+  "restoration_participant_account": {
+    "source_id": "S422",
+    "locator": "PDF3/printed3",
+    "reported_flood_date": null,
+    "reported_cause": "Clogged catch basin during excessive rain",
+    "sediment_measurement": null,
+    "lower_opening_alteration_date": null,
+    "original_plan_verified": false,
+    "source_independence": "Different publication does not establish an independent project witness; relationship to S419 unresolved."
   }
 }

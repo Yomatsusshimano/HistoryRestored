@@ -1,6 +1,6 @@
 # Ann Arbor: a candidate building and documented renovation
 
-Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S421. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
+Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S422. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
 
 The [Reddit discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) names two different properties: a Starbucks on West Liberty and a Schlenker building farther along the street. The selected indexed comment proposes a debris flow from the northeast. Full thread and original photographs remain unavailable. Naming a nearby building does not authenticate either pictured parcel.
 
@@ -57,3 +57,9 @@ The [1980 view](https://jim.rees.org/lostaa/amem6.jpg) shows a lower side doorwa
 **Conditional inference:** if the caption dates and building association are correct, the 1998 renovation in S417 cannot alone account for all lower-opening changes. The work search must include alterations before April 1995. Neither the exact closure date nor construction method is established. The sequence does not measure sediment, grade change or buried floor depth; it cannot by itself establish a flood cause or rule out an earlier event. Original Reddit photographs remain unmatched.
 
 Retrieve earlier alteration permits, authenticated dated images and original side sections before attributing the present closed wall to either natural deposition or the documented 1998 project. Photograph perspective and modern landscape/parking changes prevent treating apparent heights as surveyed ground levels. Images remain linked rather than republished.
+
+## Reported restoration participant account
+
+The historical society's [October 2003 Impressions](https://www.washtenawhistory.org/_files/ugd/708faa_d03499bf771e48068b102083db3286e7.pdf?index=true), S422, reports Lorri Sipes's preservation talk. PDF1/2/3 were visually inspected. On printed3, she describes a Schlenker addition above parking because of Allen Creek floodplain restrictions. She also reports a recent flood in the original basement, attributed to a clogged catch basin during excessive rain. Neither the flood nor the wall construction has an exact date. This is a reported participant account, not an independently verified drainage diagnosis or measured sediment profile.
+
+The account supplies a specific local flooding explanation and distinguishes the original basement from the raised addition. It does not date the lower-opening changes in S421, authenticate the Reddit images, or establish or exclude an older deposit. A shared project lineage with S419 remains possible. Retrieve drainage/repair records and the corresponding plans before treating the reported episode as an explanation for the present wall.

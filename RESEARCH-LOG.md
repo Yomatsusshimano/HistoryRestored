@@ -2061,3 +2061,8 @@ Previousa80f714publication was progress; checkout clean. Targeted collection/rev
 ### 2026-10-11 — Ann Arbor captioned image sequence
 
 [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): S421 three captioned images inspected. Conditional1995 lower-wall closure precedes reported1998 renovation, requiring earlier alteration records. Capture-date/parcel authentication and sediment explanation remain open; repeated1980image not independent corroboration.31drafts/421sources; all twenty objectives active, no independent archive review.
+
+
+### 2026-10-11 — Ann Arbor restoration participant account
+
+S422 newsletter pages1–3 visually inspected; reported drainage episode and addition distinguished in [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md). Exact event date, engineering verification and earlier opening chronology remain open.31drafts/422sources; no independent archive review, all twenty objectives active.
