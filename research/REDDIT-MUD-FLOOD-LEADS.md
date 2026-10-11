@@ -40,3 +40,5 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### R004 follow-up, 2026-10-11
 
 [Recovered engineer report](SHELBYVILLE-VAULT-ENGINEER-REPORT.md) documents constructed sidewalk vault and recommended filling. Its 212 E Main address differs from the 216 business record; original photograph and historic grade dates remain open.
+
+[Contemporary press follow-up](SHELBYVILLE-REPORTED-VAULT-FILLING.md) separates reported filling from unverified earlier grade history; original issue continuation and parcel completion records remain open.

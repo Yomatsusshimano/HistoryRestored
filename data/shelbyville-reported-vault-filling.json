@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "source_id": "S406",
+  "retrieval": {
+    "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2024/09/Shelbyville-Eagle-History.pdf",
+    "sha256": "34f9347c71b0b81115ac724bcc1a5c91f47ab23990176d0a814d01d7f3fcac8e",
+    "retrieved_date": "2026-10-11",
+    "hash_scope": "Four-page packet; PDF1 clipping visually inspected, PDF2–4 checked for continuation only; complete delivered 577008 bytes"
+  },
+  "article": {
+    "title": "Revitalizing downtown area",
+    "author": "Taylor Vidmar",
+    "newspaper": "The Shelbyville Eagle",
+    "issue_date": "2020-07-02",
+    "volume": 1,
+    "number": 1,
+    "packet_page": 1,
+    "continuation_acquired": false,
+    "complete_original_issue_verified": false
+  },
+  "inspection": {
+    "article_page_visually_inspected": 1,
+    "remaining_packet_pages_checked": [
+      2,
+      3,
+      4
+    ],
+    "remaining_pages_content": "Unrelated business records; no article continuation found in this packet",
+    "text_extraction": "Blank; rendered visual inspection used"
+  },
+  "evidence_role": "CONTEMPORARY_REPORTED_EXECUTION",
+  "reported_work_year": 2020,
+  "exact_placement_date": null,
+  "target_parcel_execution_verified": false,
+  "actual_quantity": null,
+  "placed_material": null,
+  "join_to_S405_estimate": null,
+  "join_to_IDOT_contract_95864": null,
+  "historical_grade_claim": {
+    "role": "Retrospective assertion without cited original survey/date in inspected portion",
+    "grade_change_date": null,
+    "measured_height": null,
+    "datum": null
+  },
+  "natural_deposit_profile": null,
+  "sample_dates": null,
+  "dependence": "Host packet is a delivery of the newspaper clipping, not a second witness. Attributed officials and journalist reporting do not independently replicate parcel measurements.",
+  "next_records": [
+    "Complete original issue and article continuation",
+    "Certified approvals and revised/final MFT records",
+    "Expenditure statements, placement diaries and parcel-specific material tickets",
+    "Dated historic grade ordinances and original profiles"
+  ]
+}

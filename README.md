@@ -198,3 +198,5 @@ Modern control follow-up: [Shelbyville NGS identities and recovery limits](resea
 Street-work follow-up: [Shelbyville original plans and datum limits](research/SHELBYVILLE-STREET-PLANS.md).
 
 Repair-estimate follow-up: [Shelbyville planned fill quantities and approval limits](research/SHELBYVILLE-MFT-ESTIMATE.md).
+
+Contemporary reporting follow-up: [Shelbyville reported vault filling and historical-grade limits](research/SHELBYVILLE-REPORTED-VAULT-FILLING.md).

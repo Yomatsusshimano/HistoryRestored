@@ -7212,6 +7212,28 @@
           "hash_scope": "193-page packet; expanded selected visual inspection PDF36–40; complete delivered 23572642 bytes"
         }
       ]
+    },
+    {
+      "id": "S406",
+      "title": "Revitalizing downtown area: Shelbyville Eagle July 2, 2020 clipping",
+      "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2024/09/Shelbyville-Eagle-History.pdf",
+      "creator": "Taylor Vidmar, The Shelbyville Eagle; reproduction hosted by Edgar County Watchdogs",
+      "publication_date": "2020-07-02",
+      "source_type": "Contemporary newspaper reporting in third-party-hosted clipping",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 masthead, date, byline and article columns visually inspected; PDF2–4 checked for continuation and contain unrelated business records.",
+      "limitations": "Article continues on newspaper page2, not acquired. Original complete issue and reproduction identity unverified. Reported work is not independently checked parcel execution. Retrospective grade claim lacks cited survey/date in inspected portion. No natural sediment measurements.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://edgarcountywatchdogs.com/wp-content/uploads/2024/09/Shelbyville-Eagle-History.pdf",
+          "sha256": "34f9347c71b0b81115ac724bcc1a5c91f47ab23990176d0a814d01d7f3fcac8e",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Four-page packet; PDF1 clipping visually inspected, PDF2–4 checked for continuation only; complete delivered 577008 bytes"
+        }
+      ]
     }
   ]
 }
