@@ -7657,6 +7657,36 @@
           "hash_scope": "Complete 163395-byte, 49-page generated Legistar report; PDF1/16/17 visually inspected; not original signed minutes or plan drawings"
         }
       ]
+    },
+    {
+      "id": "S425",
+      "title": "Schlenker redevelopment municipal archive packet: approval letter and selected grading/utility plans",
+      "url": "https://publicaccess24.ewashtenaw.org/PublicAccessServer/city-cq.html?CQID=235",
+      "creator": "City of Ann Arbor Planning Department; Architects Four; Atwell-Hicks; SmithGroup Architects Four",
+      "publication_date": null,
+      "archive_index_date": "1998-09-21",
+      "letter_date": "1998-10-05",
+      "source_type": "Digitized municipal project packet with letter and engineering/site-plan scans",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF2/3 October5,1998 approval letter; PDF5 retained/removed building labels and drainage plan; PDF13 sheet C300 grading/utility/soil erosion control plan. Other pages navigated by thumbnails only.",
+      "limitations": "Index date is not every sheet date or construction completion. Packet includes proposed work; as-built survey, issued permits and occupancy records unverified. Selected elevation labels are not original construction levels or sediment thickness. Drawing dates, revisions, datum and all sheet content not fully audited. No original Reddit-image match or pre1995 opening-closure date. Municipal record lineage overlaps S423/S424; packet not independent confirmation of their council action.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://publicaccess24.ewashtenaw.org/PublicAccessServer/city-cq.html?CQID=235",
+          "sha256": "cf82941ae575cee05c3ee513f700039a11e99c27e731b54353d6d6abff294da0",
+          "retrieved_date": "2026-10-11",
+          "bytes": 28048376,
+          "pages": 16,
+          "hash_scope": "Complete image-only PDF; PDF2/3 city letter and PDF5/13 grading/utility drawings visually inspected; all-page thumbnails used only for navigation",
+          "query_field": "A2 BUILD Location",
+          "query": "*213*",
+          "selected_index_record": "SCHLENKER HARDWARE; 9292A23.5; 9/21/1998; 213 W LIBERTY / 215 W LIBERTY",
+          "acquisition": "Whole indexed result row download; modal PDF viewer did not display a document; stable direct file URL not captured"
+        }
+      ]
     }
   ]
 }

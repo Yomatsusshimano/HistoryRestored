@@ -12,7 +12,8 @@
     "S421",
     "S422",
     "S423",
-    "S424"
+    "S424",
+    "S425"
   ],
   "retrievals": [
     {
@@ -116,6 +117,18 @@
       "sha256": "c54af3c349ae9702e1e2d00a3673f5d7ca4919aee187940b23cd5bdae0f4c9b3",
       "retrieved_date": "2026-10-11",
       "hash_scope": "Complete 163395-byte, 49-page generated Legistar report; PDF1/16/17 visually inspected; not original signed minutes or plan drawings"
+    },
+    {
+      "url": "https://publicaccess24.ewashtenaw.org/PublicAccessServer/city-cq.html?CQID=235",
+      "sha256": "cf82941ae575cee05c3ee513f700039a11e99c27e731b54353d6d6abff294da0",
+      "retrieved_date": "2026-10-11",
+      "bytes": 28048376,
+      "pages": 16,
+      "hash_scope": "Complete image-only PDF; PDF2/3 city letter and PDF5/13 grading/utility drawings visually inspected; all-page thumbnails used only for navigation",
+      "query_field": "A2 BUILD Location",
+      "query": "*213*",
+      "selected_index_record": "SCHLENKER HARDWARE; 9292A23.5; 9/21/1998; 213 W LIBERTY / 215 W LIBERTY",
+      "acquisition": "Whole indexed result row download; modal PDF viewer did not display a document; stable direct file URL not captured"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -140,7 +153,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Retrieve July21,1998 Planning Commission packet and approved R-423-9-98 drawings, with demolition footprint, elevations and drainage; obtain execution/completion records and preApril1995 alterations. Join surviving fabric to authenticated photographs before assigning deposit causes.",
+  "next_test": "Audit drawing dates/revisions, legend, datum and corresponding architectural elevations; acquire issued permits, as-built/occupancy records and preApril1995 alteration documents. Authenticate original Reddit parcel before comparing measured floor/grade and any in-place sediment.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -356,7 +369,7 @@
   },
   "record_search_limits": {
     "date": "2026-10-11",
-    "result": "Council zoning entry acquired; earlier alteration permits and drainage plans not acquired in these searches. Public API title query returned HTTP500; no archival-absence inference.",
+    "result": "Council records and one large-format Schlenker packet acquired. Original building and preApril1995 alteration records, executed work and sediment profiles remain unverified; no archival-absence inference.",
     "absence_claim": false,
     "municipal_legislation_ui": {
       "url": "https://a2gov.legistar.com/Legislation.aspx",
@@ -373,6 +386,15 @@
         264956
       ],
       "scope": "Only this spelling and selected indexed fields; no absence claim about drawings, misspellings, other databases or unindexed records"
+    },
+    "large_format_building_archive": {
+      "url": "https://publicaccess24.ewashtenaw.org/PublicAccessServer/city-cq.html?CQID=235",
+      "instructions_page": "https://www.a2gov.org/building-rental-and-inspection-services/construction-and-building/archived-project-and-permit-lookup-large-format/",
+      "archive_scope": "City describes approximately1930–2007 large-format microfiche/paper project and permit records",
+      "query": "*213*",
+      "selected_record": "SCHLENKER HARDWARE; 9292A23.5; 9/21/1998; 213 W LIBERTY / 215 W LIBERTY",
+      "index_date_not_sheet_date": true,
+      "all_results_exhausted": false
     }
   },
   "redevelopment_siteplan_control": {
@@ -391,9 +413,44 @@
       "Provide access easement for Liberty Street sidewalk crossing site"
     ],
     "execution_verified": false,
-    "plan_drawings_acquired": false,
+    "plan_drawings_acquired": true,
     "original_floor_elevations": null,
     "sediment_volume": null,
-    "earlier_closed_openings_explained": false
+    "earlier_closed_openings_explained": false,
+    "drawing_source_id": "S425"
+  },
+  "redevelopment_drawing_control": {
+    "source_id": "S425",
+    "inspected_pdf_pages": [
+      2,
+      3,
+      5,
+      13
+    ],
+    "letter_date": "1998-10-05",
+    "letter_file_numbers": [
+      "9292A23.2",
+      "9292A23.5"
+    ],
+    "plan_versus_construction_drawings": "Letter explicitly distinguishes approved site plan from construction/engineering drawings needed for permits.",
+    "footprint_labels": {
+      "locator": "PDF5 central building footprint",
+      "front": "Existing building to remain",
+      "rear": "Existing building to be removed",
+      "parking": "Lower level open to west for under-building parking; see architectural plans"
+    },
+    "drainage_labels": [
+      "Flood-proof door",
+      "Proposed flood-proof wall",
+      "Trench drain"
+    ],
+    "sheet13_title": "Grading, utility & soil erosion control plan; Schlenkers Hardware Redevelopment; sheet C300",
+    "original_1906_levels_verified": false,
+    "all_sheet_dates_audited": false,
+    "elevation_datum_verified": false,
+    "as_built_verified": false,
+    "sediment_thickness": null,
+    "lower_opening_closure_date": null,
+    "construction_completion_date": null
   }
 }

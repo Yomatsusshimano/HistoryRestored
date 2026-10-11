@@ -2076,3 +2076,8 @@ S423 council report PDF1/11 visually inspected: August17,1998 first-reading acti
 ### 2026-10-11 — Ann Arbor approved demolition/addition scope
 
 S424 council report PDF1/16/17 visually inspected: September21,1998 approval describes15,644sqft addition/9,590sqft rear demolition, with permit prerequisites. [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md) distinguish approval from execution, retain area discrepancy and pre1995opening chronology, and target July21Planning packet.31drafts/424sources; all twenty objectives active, no independent archive review.
+
+
+### 2026-10-11 — Schlenker municipal drawing packet
+
+S425: acquired and hashed16-page image-only project packet through city large-format lookup; PDF2/3 approval letter and PDF5/13 grading/utility drawings visually inspected. [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md) distinguish retained front/removed rear/proposed parking and drainage from executed work. Index/sheet/event dates remain separate; datum, original floor levels and pre1995 opening closures unverified.31drafts/425sources; no independent scientific review, all twenty objectives active.
