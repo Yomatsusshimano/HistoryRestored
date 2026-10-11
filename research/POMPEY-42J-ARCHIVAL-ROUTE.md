@@ -22,3 +22,5 @@ This documents preservation limits, not a motive for destruction or proof of his
 Next inspect 42 J 51 and the relevant index pages of 42 J 275–279, preserving title pages, dates, plan identifiers, revisions and client references. Compare authenticated references with [Orsay supplier correspondence](EIFFEL-SUPPLIER-CORRESPONDENCE.md), factory acceptance and dispatch records. No tower order quantity, batch certificate, dispatch or newly manufactured component is established by this finding aid. No archival contact or physical inspection occurred.
 
 The PDF is linked rather than mirrored. Its acquired bytes have SHA256 `35b7546f425b55c237cf65d6d25aab67f52cb6f3c5741c18c77d141ab01e8f2d`; byte length 278,627. The [structured retrieval ledger](../data/pompey-42j-route.json) retains the exact targets and limits. A hash records this acquired version; it does not authenticate the underlying historical documents.
+
+A [separate ANMT June 1889 issue target](EIFFEL-TURGAN-PROJECT-ACCOUNT.md) is now identified as HP 889/gen5777. Its equality with 42 J 51 remains unverified.

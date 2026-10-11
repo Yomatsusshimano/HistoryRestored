@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Tower proposal scans and version discrepancy
+
+S343 selected original scans name designers, illustrate a proposed tower and report a prospective 3,150,000-franc price. Bound title 1882 and 28-page article differ from S344 separate March 1886/22-page catalog description; exact version/date unresolved. ANMT also identifies the June 1889 Pompey issue HP 889. No underlying catalog copy or supplier tests acquired. 28 drafts / 344 sources; all twenty objectives active. See [audit](EIFFEL-TURGAN-PROJECT-ACCOUNT.md).
+
 ### 2026-10-11 — Pompey supplier fonds and preservation limits
 
 S342 official 42 J finding aid identifies an 1889 factory booklet and plan-register targets spanning construction. The order index begins in 1894; it cannot establish the original tower order. Disordered transfers, selection and destruction constrain absence arguments. Five PDF pages visually inspected; underlying items unacquired. 28 drafts / 342 sources; all twenty objectives remain active. See [archival route](POMPEY-42J-ARCHIVAL-ROUTE.md).

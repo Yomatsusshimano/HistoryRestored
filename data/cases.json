@@ -1164,6 +1164,16 @@
           "source_id": "S342",
           "locator": "Printed pages5-6,22,30; title page",
           "statement": "Official 42 J finding aid lists an1889 32-page factory booklet (42 J51), plan registers with1871-1967 group coverage, and an order index beginning1894. It documents disordered transfers and destruction; underlying records remain uninspected."
+        },
+        {
+          "source_id": "S343",
+          "locator": "Title vue4; livraison353 first page vue148; printed25-28/vues180-183",
+          "statement": "Selected original scans describe a proposed300-metre tower, name Nouguier/Koechlin/Sauvestre and report proposed3150000franc price. Bound title1882 versus separate1886catalog date and28-versus22pagination require version authentication."
+        },
+        {
+          "source_id": "S344",
+          "locator": "Bulletins87255 and115316; series8414",
+          "statement": "ANMT identifies Pompey June1889 issue HP889/gen5777 and Eiffel353-354 March1886 copy2021 6 54/gen34311. Underlying copies and equality with42 J51/CNAM article unverified."
         }
       ],
       "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",
@@ -1175,7 +1185,7 @@
         "Repair/reassembly if fabric and earlier records support it"
       ],
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
-      "next_test": "Inspect 42 J51 and relevant42 J275-279 index pages; authenticate dates/client/plan identifiers and match Orsay ARO19811268 correspondence to factory acceptance, dispatch and Levallois use. Do not treat42 J332 (1894-1915) as the original tower order register.",
+      "next_test": "Compare ANMT2021 6 54 wrappers and all pages with CNAM livraison353, especially transition afterp22; acquire HP889/gen5777 and compare imprint/pagination with42 J51. Join authenticated supplier correspondence to acceptance, dispatch and workshop records.",
       "chronology": {
         "reported": "1900 monograph; progress sheet through 8 January 1888; photographic mount inscription 10 February 1888; inspection report 4 January 1889.",
         "dated_object": "Documents and photograph inscription; not independent component manufacture dates.",

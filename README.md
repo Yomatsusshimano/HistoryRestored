@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Original tower proposal account](research/EIFFEL-TURGAN-PROJECT-ACCOUNT.md): named designers, prospective price and unresolved bound-volume/issue dates.
+
 - [Pompey supplier archive](research/POMPEY-42J-ARCHIVAL-ROUTE.md): exact booklet and plan-register targets, late order-index exclusion and preservation limits.
 
 - [Nomlaki chemical crosswalk](research/NOMLAKI-CHEMICAL-CROSSWALK.md): a fraction-specific correlation lead and conflicting printed CaO ordering.

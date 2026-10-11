@@ -1,0 +1,124 @@
+{
+  "source_ids": [
+    "S343",
+    "S344"
+  ],
+  "accessed_date": "2026-10-11",
+  "images": [
+    {
+      "view": 3,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0003",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0003.T.0.744.1080.gif",
+      "byte_length": 21658,
+      "sha256": "c840c568ea29b35498203fdfcbb0b37954827d5e5e56b94415c9627a0004b6d8",
+      "visually_inspected": true,
+      "relevant": false
+    },
+    {
+      "view": 4,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0004",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0004.T.0.704.1072.gif",
+      "byte_length": 31772,
+      "sha256": "021bd4f0687fa3d0f122318382b928a5bdedf07c3d83f07a4da5c1c7e47b2fb0",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 147,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0147",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0147.T.8x24.685.1015.gif",
+      "byte_length": 63609,
+      "sha256": "356d1b9788b6082a996d3d35265e0cd9e5f8d825618317c61205aa1c5cc6dce6",
+      "visually_inspected": true,
+      "relevant": false
+    },
+    {
+      "view": 148,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0148",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0148.T.9x1.720.1019.gif",
+      "byte_length": 44441,
+      "sha256": "11ca99b335cee4580b489f577a010233c77a51db4fffd8f07eb01c7d711d162b",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 180,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0180",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0180.T.9x25.720.1048.gif",
+      "byte_length": 79045,
+      "sha256": "d3981418db2b88fbf298c6318134e265a7babd6992b88e0276b0e3502912a66f",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 181,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0181",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0181.T.9x26.704.1056.gif",
+      "byte_length": 56379,
+      "sha256": "97c591d804448a4a105aa1600e0cb65b1c544650a412c495c246ce051efae0c4",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 182,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0182",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0182.T.9x27.720.1048.gif",
+      "byte_length": 76486,
+      "sha256": "3da31e1e66f1c2185f5f3ec7578a45a7d5865928312d18c79629b032563b7b41",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 183,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0183",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0183.T.9x28.712.1056.gif",
+      "byte_length": 60607,
+      "sha256": "d298a71ab920c423d8f678a2f123e199e57c62e9dfc50616e5494d54be2191d7",
+      "visually_inspected": true,
+      "relevant": true
+    }
+  ],
+  "scan_relevant_views": [
+    4,
+    148,
+    180,
+    181,
+    182,
+    183
+  ],
+  "bound_title_year": 1882,
+  "exact_scan_article_date": null,
+  "scan_last_printed_page": 28,
+  "proposed_tower_price_francs": 3150000,
+  "price_scope": null,
+  "price_is_realized_expenditure": false,
+  "catalog_targets": [
+    {
+      "url": "https://pmb.culture.fr/opac_anmt/index.php?id=87255&lvl=bulletin_display",
+      "copy_reference": "HP 889",
+      "barcode": "gen5777",
+      "catalog_month": "1889-06",
+      "catalog_day_field": "1889-06-11",
+      "underlying_copy_acquired": false,
+      "matches_42J51": null
+    },
+    {
+      "url": "https://pmb.culture.fr/opac_anmt/index.php?id=115316&lvl=bulletin_display",
+      "copy_reference": "2021 6 54",
+      "barcode": "gen34311",
+      "livraisons": "353-354",
+      "catalog_month": "1886-03",
+      "catalog_day_field": "1886-03-01",
+      "catalog_pages": 22,
+      "underlying_copy_acquired": false,
+      "matches_CNAM_version": null
+    }
+  ],
+  "limits": [
+    "Catalog day fields unverified",
+    "Bound title does not date every article",
+    "Design illustration is not completed-tower observation",
+    "Proposed price is not actual expense",
+    "No original Pompey test series inspected"
+  ]
+}

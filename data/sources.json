@@ -5416,6 +5416,85 @@
           "public_mirror_in_this_repository": false
         }
       ]
+    },
+    {
+      "id": "S343",
+      "title": "Les grandes usines, volume18: Eiffel project article, livraison353; selected scans",
+      "url": "https://cnum.cnam.fr/pgi/redir.php?ident=4KY15.18",
+      "creator": "Les grandes usines, series associated with Turgan; CNAM digitized holding",
+      "source_type": "Historical industrial publication, selected original scans",
+      "access": "SCAN_INSPECTED",
+      "publication_date": null,
+      "date_note": "Bound title prints1882; ANMT distinct353-354 catalog dates March1886 and22pages versus scanned28. Exact article version/date unresolved.",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Title vue4; article first page vue148; printed25-28/vues180-183 visually inspected. Vues3/147 acquired and inspected but belong to printer/preceding article. Tower proposal, illustration, prospective price and collaborator names checked.",
+      "limitations": "No full article/volume inspection or exact issue-date authentication. Promotional project account, not independent delivery or design-priority proof. Proposed price scope not joined to realized costs. No newly manufactured components established.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0003.T.0.744.1080.gif",
+          "sha256": "c840c568ea29b35498203fdfcbb0b37954827d5e5e56b94415c9627a0004b6d8",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0004.T.0.704.1072.gif",
+          "sha256": "021bd4f0687fa3d0f122318382b928a5bdedf07c3d83f07a4da5c1c7e47b2fb0",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0147.T.8x24.685.1015.gif",
+          "sha256": "356d1b9788b6082a996d3d35265e0cd9e5f8d825618317c61205aa1c5cc6dce6",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0148.T.9x1.720.1019.gif",
+          "sha256": "11ca99b335cee4580b489f577a010233c77a51db4fffd8f07eb01c7d711d162b",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0180.T.9x25.720.1048.gif",
+          "sha256": "d3981418db2b88fbf298c6318134e265a7babd6992b88e0276b0e3502912a66f",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0181.T.9x26.704.1056.gif",
+          "sha256": "97c591d804448a4a105aa1600e0cb65b1c544650a412c495c246ce051efae0c4",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0182.T.9x27.720.1048.gif",
+          "sha256": "3da31e1e66f1c2185f5f3ec7578a45a7d5865928312d18c79629b032563b7b41",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0183.T.9x28.712.1056.gif",
+          "sha256": "d298a71ab920c423d8f678a2f123e199e57c62e9dfc50616e5494d54be2191d7",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        }
+      ]
+    },
+    {
+      "id": "S344",
+      "title": "ANMT Les grandes usines: Pompey June1889 and Eiffel March1886 item catalogs",
+      "url": "https://pmb.culture.fr/opac_anmt/index.php?id=8414&lvl=notice_display",
+      "creator": "Bibliotheque des Archives nationales du monde du travail",
+      "source_type": "Holding institution periodical and bulletin catalog metadata",
+      "access": "CATALOG_METADATA",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Series8414 and bulletin87255 accessed through web and normal HTML download; bulletin115316 HTML acquired after web cache miss. Pompey HP889/gen5777 and catalog June1889/11June1889; Eiffel2021 6 54/gen34311,353-354,March1886/1March1886,22pages.",
+      "limitations": "Underlying copies unacquired. Availability is catalog status, not confirmed appointment/access. Exact day fields unverified; versions not matched to CNAM scans or42 J51. Series-level Turgan attribution does not authenticate each later article author.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
