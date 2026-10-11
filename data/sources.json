@@ -7609,6 +7609,30 @@
           "hash_scope": "Complete 1729371-byte, 12-page PDF delivery; PDF1/2/3 visually inspected; not a transcript authenticated against a recording"
         }
       ]
+    },
+    {
+      "id": "S423",
+      "title": "Ann Arbor City Council minutes, August 17, 1998: Schlenker Hardware zoning first reading",
+      "url": "https://a2gov.legistar.com/ViewReport.ashx?Extra=WithText&GID=55&GUID=4A2EA926-AEFE-42E2-95A0-280A77209702&ID=264956&M=R&N=Master&Title=Legislation+Details+%28With+Text%29",
+      "creator": "City of Ann Arbor City Council; Legistar report",
+      "publication_date": null,
+      "record_event_date": "1998-08-17",
+      "report_print_date": "2026-10-11",
+      "source_type": "Municipal minutes delivered as a generated legislative report",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 title/metadata and PDF11 Schlenker34-98 passage visually inspected; embedded historic page21 label differs from delivery page11.",
+      "limitations": "First-reading approval is not final enactment, a building permit or proof of construction completion. No drawings, soil measurements or earlier opening chronology. Report generation date and file number07-0753 are not physical-event dates. Original signed minutes uninspected.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://a2gov.legistar.com/ViewReport.ashx?Extra=WithText&GID=55&GUID=4A2EA926-AEFE-42E2-95A0-280A77209702&ID=264956&M=R&N=Master&Title=Legislation+Details+%28With+Text%29",
+          "sha256": "2d549d365e74ecd057a95ea4a522048d9cd8843fbbc8968d2cb599d593ccfa1a",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 144480-byte, 27-page Legistar report delivery; PDF1/11 visually inspected; generated report, not an original signed minute-book scan"
+        }
+      ]
     }
   ]
 }

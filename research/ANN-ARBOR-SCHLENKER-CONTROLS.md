@@ -1,6 +1,6 @@
 # Ann Arbor: a candidate building and documented renovation
 
-Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S422. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
+Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S423. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
 
 The [Reddit discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) names two different properties: a Starbucks on West Liberty and a Schlenker building farther along the street. The selected indexed comment proposes a debris flow from the northeast. Full thread and original photographs remain unavailable. Naming a nearby building does not authenticate either pictured parcel.
 
@@ -63,3 +63,9 @@ Retrieve earlier alteration permits, authenticated dated images and original sid
 The historical society's [October 2003 Impressions](https://www.washtenawhistory.org/_files/ugd/708faa_d03499bf771e48068b102083db3286e7.pdf?index=true), S422, reports Lorri Sipes's preservation talk. PDF1/2/3 were visually inspected. On printed3, she describes a Schlenker addition above parking because of Allen Creek floodplain restrictions. She also reports a recent flood in the original basement, attributed to a clogged catch basin during excessive rain. Neither the flood nor the wall construction has an exact date. This is a reported participant account, not an independently verified drainage diagnosis or measured sediment profile.
 
 The account supplies a specific local flooding explanation and distinguishes the original basement from the raised addition. It does not date the lower-opening changes in S421, authenticate the Reddit images, or establish or exclude an older deposit. A shared project lineage with S419 remains possible. Retrieve drainage/repair records and the corresponding plans before treating the reported episode as an explanation for the present wall.
+
+## Zoning action is a separate chronological control
+
+The city's [August 17, 1998 council minutes](https://a2gov.legistar.com/ViewReport.ashx?Extra=WithText&GID=55&GUID=4A2EA926-AEFE-42E2-95A0-280A77209702&ID=264956&M=R&N=Master&Title=Legislation+Details+%28With+Text%29), S423, item 34-98, record first-reading approval of a proposed zoning change at 213–215 West Liberty, from C2B to C2A. PDF 1/11 were visually inspected. The reported 0.52 acre is site area, separate from the floor areas in S417/S419. This action neither proves final enactment nor dates construction completion. Do not replace S417's reported 1998 project year with this meeting date, or infer that work necessarily followed it.
+
+The acquired 27-page Legistar delivery is a generated report printed October 11, 2026, bearing file number 07-0753 and the 1998 meeting date. It is not an inspected original signed minute-book scan. Its PDF 11 embeds the older page 21 label; retain both locators. Report generation and database numbering are separate from the historical action. The minutes furnish a precise search target for the corresponding zoning/site-plan packet; earlier alteration and drainage plans remain unacquired. A public API title query returned HTTP 500, which establishes no record absence.

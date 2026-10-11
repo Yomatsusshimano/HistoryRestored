@@ -1240,3 +1240,8 @@ S318p4/29/30visually inspected; Table4distinguishes0–5cmorganic/surface and5�
 ### 2026-10-11 — Ann Arbor restoration participant account
 
 S422 newsletter pages1–3 visually inspected; reported drainage episode and addition distinguished in [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md). Exact event date, engineering verification and earlier opening chronology remain open.31drafts/422sources; no independent archive review, all twenty objectives active.
+
+
+### 2026-10-11 — Ann Arbor zoning chronology control
+
+S423 council report PDF1/11 visually inspected: August17,1998 first-reading action at213–215West Liberty distinguished from final enactment, construction completion and report generation. [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md) retain permit/plan gaps and failedAPI lookup without absence claims.31drafts/423sources; no independent archive review, all twenty objectives active.

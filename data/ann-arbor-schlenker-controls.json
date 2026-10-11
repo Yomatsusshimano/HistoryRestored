@@ -10,7 +10,8 @@
     "S419",
     "S420",
     "S421",
-    "S422"
+    "S422",
+    "S423"
   ],
   "retrievals": [
     {
@@ -102,6 +103,12 @@
       "sha256": "6f8898c678d016381cf4ecf1dc99c6c98ca9841f08de6389249e79d50c9b8159",
       "retrieved_date": "2026-10-11",
       "hash_scope": "Complete 1729371-byte, 12-page PDF delivery; PDF1/2/3 visually inspected; not a transcript authenticated against a recording"
+    },
+    {
+      "url": "https://a2gov.legistar.com/ViewReport.ashx?Extra=WithText&GID=55&GUID=4A2EA926-AEFE-42E2-95A0-280A77209702&ID=264956&M=R&N=Master&Title=Legislation+Details+%28With+Text%29",
+      "sha256": "2d549d365e74ecd057a95ea4a522048d9cd8843fbbc8968d2cb599d593ccfa1a",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 144480-byte, 27-page Legistar report delivery; PDF1/11 visually inspected; generated report, not an original signed minute-book scan"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -319,5 +326,24 @@
     "lower_opening_alteration_date": null,
     "original_plan_verified": false,
     "source_independence": "Different publication does not establish an independent project witness; relationship to S419 unresolved."
+  },
+  "zoning_action_control": {
+    "source_id": "S423",
+    "meeting_date": "1998-08-17",
+    "locator": "PDF11; embedded historic page21 label",
+    "item": "34-98",
+    "address": "213–215 West Liberty Street",
+    "reported_site_area_acres": 0.52,
+    "action": "Zoning proposal approved at first reading by voice vote",
+    "proposed_change": "C2B Business Service District to C2A Central Business District",
+    "final_enactment_verified": false,
+    "construction_completion_date": null,
+    "area_role": "Zoning site area, not floor area or sediment volume",
+    "original_signed_minutes_verified": false
+  },
+  "record_search_limits": {
+    "date": "2026-10-11",
+    "result": "Council zoning entry acquired; earlier alteration permits and drainage plans not acquired in these searches. Public API title query returned HTTP500; no archival-absence inference.",
+    "absence_claim": false
   }
 }
