@@ -2201,3 +2201,8 @@ R008 adds two indexed discussions, a selected-page municipal record and an1871gu
 ### 2026-10-11 — Sacramento construction-record routes and material controls
 
 [Record-route audit](research/SACRAMENTO-CONSTRUCTION-RECORD-ROUTES.md) adds S458-S460: selected official guide, original Golden Eagle report pages and Assessor catalog distinguish property rolls from street-work records. Four specific Street Assessment Roll page targets recovered; originals/Auditor crosswalk remain uninspected. S453PDF17 separates farm/riverbed fill dirt from Folsom paving gravel; underlying transport references unacquired. Golden Eagle block and Reddit parcel remain separate.31core drafts/460sources, eight Reddit leads; no independent archive review or global reconstruction. All twenty objectives active.
+
+
+### 2026-10-11 — Golden Eagle deposit and recovery controls
+
+[Deposit audit](research/GOLDEN-EAGLE-DEPOSIT-CONTROLS.md) further inspects S459: tentative flood silt distinguished from demolition/imported fill and winter silt in a later pit. Artifact/document date dependencies, Feature8mixed bags, Feature15mesh change and two printed unit conflicts preserved. No independent sediment age/datum or Reddit parcel join. Same31core drafts/460sources, eight Reddit leads; all twenty objectives active.

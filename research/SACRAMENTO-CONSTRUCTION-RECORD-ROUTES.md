@@ -43,3 +43,8 @@ Complete-file hashes identify acquired bytes, not accuracy or full review. Sourc
 | S459 compressed report | 33482972 /528 | 6a197edd04cdae027356e4635f6dbb11c0a5f60432190d3ce8b4146502d013b4 |
 
 31core sourced drafts/460sources; eight Reddit leads. No common event reconstruction or independent archive review. All twenty objectives remain active.
+
+
+### 2026-10-11 — Golden Eagle deposit and recovery controls
+
+[Deposit audit](GOLDEN-EAGLE-DEPOSIT-CONTROLS.md) further inspects S459: tentative flood silt distinguished from demolition/imported fill and winter silt in a later pit. Artifact/document date dependencies, Feature8mixed bags, Feature15mesh change and two printed unit conflicts preserved. No independent sediment age/datum or Reddit parcel join. Same31core drafts/460sources, eight Reddit leads; all twenty objectives active.

@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-11",
+  "source_id": "S459",
+  "status": "SOURCED_DRAFT",
+  "place": "Golden Eagle excavation block J/K/6/7, Sacramento",
+  "reddit_photo_parcel_association_authenticated": false,
+  "independent_scientific_review": false,
+  "recognized_vertical_datum": null,
+  "layers": [
+    {
+      "layer_id": 143,
+      "context": "TrenchE against WallD",
+      "locator": "Printed63/PDF95",
+      "reported_material": "Grey silty clay; homogeneous; above construction trench and against wall",
+      "reported_thickness": "Up to2ft/60cm",
+      "source_interpretation": "Possible flood deposition; conditionally attributed to1861-62 inundation",
+      "inferred_event_interval_in_source": "1861-1862, conditional",
+      "independently_measured_deposit_date": null
+    },
+    {
+      "layer_id": 70,
+      "context": "Feature8",
+      "locator": "Printed70/PDF102",
+      "reported_material": "Grey silty clay; overlies earlier pit fill; cut by later reexcavation",
+      "reported_thickness": "10in/25cm",
+      "source_interpretation": "Presumed1861-62 flood silt, correlated with Layer143",
+      "inferred_event_interval_in_source": "1861-1862, presumed correlation",
+      "independently_measured_deposit_date": null
+    },
+    {
+      "layer_id": 11,
+      "context": "Feature21/2, AreaI",
+      "locator": "Printed59-60/PDF91-92",
+      "reported_material": "Grey silt with fine silt/clay and sand lenses; between two filling phases",
+      "reported_thickness": "1.5in/3.8cm",
+      "source_interpretation": "Winter silt development while demolition-era pit stood open",
+      "inferred_event_interval_in_source": null,
+      "independently_measured_deposit_date": null
+    },
+    {
+      "layer_id": 101,
+      "context": "TrenchesA/B/C/F versusE",
+      "locator": "Printed60/PDF92",
+      "reported_material": "Fill; varies spatially in thickness",
+      "reported_thickness": "Up to6ft/1.8m inA/B/C/F; few inches sporadically inE",
+      "source_interpretation": "Trucked-in fill leveling a clearance hollow",
+      "inferred_event_interval_in_source": null,
+      "independently_measured_deposit_date": null
+    },
+    {
+      "layer_id": 103,
+      "context": "Over truncated WallB",
+      "locator": "Printed58/PDF90",
+      "reported_material": "Brick rubble, reinforcing bars, faced wall plaster",
+      "reported_thickness": null,
+      "source_interpretation": "Demolition debris",
+      "inferred_event_interval_in_source": null,
+      "independently_measured_deposit_date": null
+    },
+    {
+      "layer_id": 24,
+      "context": "Feature3, WallB construction trench",
+      "locator": "Printed61/PDF93",
+      "reported_material": "Grey-brown silty clay with ceramics/glass/metal",
+      "reported_thickness": null,
+      "source_interpretation": "Construction-trench fill; ceramic registry mark supplies1849terminus post quem",
+      "earliest_possible_year_reported": 1849,
+      "registry_mark_independently_authenticated": false,
+      "inferred_event_interval_in_source": null,
+      "independently_measured_deposit_date": null
+    }
+  ],
+  "recovery_controls": [
+    {
+      "feature_id": 8,
+      "locator": "Printed56/PDF88",
+      "observation": "Artifacts from later layers84/85 bagged with earlier Layer90; lower fill only partly screened",
+      "limitation": "Phase-specific artifact dating/biology cannot assume unmixed bags"
+    },
+    {
+      "feature_id": 15,
+      "locator": "Printed56/PDF88",
+      "observation": "First half6mm mesh; second half3mm after concern about fish-bone loss",
+      "limitation": "Recovery fraction and taxonomic counts may depend on screening"
+    },
+    {
+      "feature_id": 6,
+      "locator": "Printed64-65/PDF96-97",
+      "observation": "Attribution combines occupation history and artifact dating",
+      "limitation": "Historical association is conditional, not independent absolute sediment date"
+    }
+  ],
+  "unit_conflicts": [
+    {
+      "context": "TrenchE overburden",
+      "locator": "Printed50/PDF82",
+      "literal_feet": [
+        1,
+        2
+      ],
+      "literal_meters": [
+        0.9,
+        1.8
+      ],
+      "calculated_meters_from_feet": [
+        0.3048,
+        0.6096
+      ],
+      "accepted_corrected_field_measurement": null
+    },
+    {
+      "context": "AreaI trench length",
+      "locator": "Printed59/PDF91",
+      "literal_feet": 15,
+      "literal_meters": 5.2,
+      "calculated_meters_from_feet": 4.572,
+      "accepted_corrected_field_measurement": null
+    }
+  ],
+  "limits": [
+    "Selected prose and plates inspected; full report not reviewed",
+    "Section drawings9/14/16 and artifact reference chapters not audited",
+    "Natural silt, street fill, refuse and demolition processes cannot be pooled",
+    "Temporary benchmark is not a verified vertical datum",
+    "No Reddit media join, global event date or independent sediment validation"
+  ]
+}
