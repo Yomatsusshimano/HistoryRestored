@@ -70,3 +70,8 @@ Prioritize exact building identification for Logan and Shelbyville, while obtain
 ### 2026-10-11 — Ann Arbor candidate parcel
 
 [Schlenker controls](ANN-ARBOR-SCHLENKER-CONTROLS.md): municipal façade and DDA alteration records visually inspected; candidate parcel separated from Starbucks image. Source area is not deposit depth. No photo/soil/date join established. Roopkund library-number search found no authenticated catalog; remains open.31drafts/417sources; all twenty objectives active.
+
+
+### R007 follow-up, 2026-10-11
+
+[Melamchi comparison](MELAMCHI-FLOOD-COMPARISON.md) adds a documented modern local flood to the alternatives under investigation. Selected field-study text inspected; original Reddit media and study image remain unmatched/unviewed. Seven leads;31core drafts/444sources; no independent archive review.

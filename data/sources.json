@@ -8164,6 +8164,34 @@
           "access_note": "Web reader rejected file size; normal public HTTPS download succeeded. Renderer font warnings occurred; selected pages visually checked."
         }
       ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S443",
+      "title": "Reddit Melamchi sediment-burial lead",
+      "url": "https://www.reddit.com/r/CulturalLayer/comments/p6o5l3/",
+      "creator": "Reddit r/CulturalLayer contributors",
+      "publication_date": "2021-08-18",
+      "source_type": "Public discussion discovery lead",
+      "access": "SEARCH_EXCERPT",
+      "inspected": "Indexed title and selected comments; direct thread retrieval failed.",
+      "limitations": "Linked media and original image identity unverified; anonymous Colorado comment lacks a named town. Not a sediment measurement or event authentication."
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S444",
+      "title": "Unzipping flood vulnerability and functionality loss: tale of struggle for existence of riparian buildings",
+      "url": "https://link.springer.com/article/10.1007/s11069-022-05433-5",
+      "creator": "Dipendra Gautam and coauthors",
+      "publication_date": "2022-06-18",
+      "source_type": "Original field-reconnaissance and vulnerability study",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher-rendered HTML sections2,2.1,3.1.1 and Figure2 caption. Issue year2023 differs from online publication2022.",
+      "limitations": "Figure image retrieval failed; caption only inspected. Raw building records, original photographs, sediment ages and model reproduction not acquired. Field observations and authors causal interpretations remain distinct; no independent archive review."
     }
   ]
 }

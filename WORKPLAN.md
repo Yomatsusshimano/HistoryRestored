@@ -1325,3 +1325,8 @@ S4412013architecturalassessment selectedrenderedpages inspected:1924/1925annotat
 ### 2026-10-11 — Later peat logs challenge an undisturbed-layer assumption
 
 S442NTH1996plan cover and1995TB-1/TB-2 logs visually inspected: TB-1 labels8–10ft fibrouspeat asfill; TB-2 describes6–8ft blackpeat withoutfillqualifier. Neither authenticatesnaturalorigin/age. Elevations reported butdatum/positionsunverified; selecteddatasetretainsnullages. NavigationPDF350–429 didnotlocatecorrected1992MWs; holdremains. [Peatcontrols](research/WEST-WASHINGTON-1995-PEAT-CONTROLS.md).31drafts/442sources; physicalmodel/dating and alltwentyobjectivesremainactive.
+
+
+### 2026-10-11 — Reddit modern-flood comparison
+
+R007 adds a modern local burial comparison with explicit media and measurement limits. [Melamchi controls](research/MELAMCHI-FLOOD-COMPARISON.md).31 core drafts/444sources; no independent archive review; all twenty objectives remain active.

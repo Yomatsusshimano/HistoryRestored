@@ -8,7 +8,7 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
-- [Reddit mud-flood leads](research/REDDIT-MUD-FLOOD-LEADS.md): six retrieval targets, an archaeological soil profile, building-identity and renovation controls.
+- [Reddit mud-flood leads](research/REDDIT-MUD-FLOOD-LEADS.md): seven retrieval targets, archaeological, renovation and modern flood comparison controls.
 
 - [Full printed 1812 institutional program](research/ARCHIVES-DUVERGIER-1812-PROGRAM.md): eight articles, separate project funds, edition and wording controls.
 
