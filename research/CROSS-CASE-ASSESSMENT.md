@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Dated 1886 proposal and financing roles
+
+S346 original20November1886masthead and pp11–13 inspected. Nonofficial tower article declares newspaper dependence and reports1500000-franc subsidy vote, projected weight and lift concepts. Authorization differs from payment; estimates differ from delivered material and installed equipment.28 drafts /346 sources; all twenty objectives active. See [audit](EIFFEL-NOVEMBER-1886-BULLETIN.md).
+
 ### 2026-10-11 — Bound-title date narrowed by original page controls
 
 S343 p22 continues mid-sentence into p23; the following livraison355 reports1883–1885 historical results. The1882title cannot date all textual contents under the source chronology. New S345 catalogs a28-page1886copy with a later bound-in works list. Exact version equality and binding remain unverified.28 drafts /345 sources; all twenty objectives active. See [controls](EIFFEL-TURGAN-VERSION-CONTROLS.md).

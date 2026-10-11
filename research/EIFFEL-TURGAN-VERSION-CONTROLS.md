@@ -17,3 +17,5 @@ The surviving explanations include different editions or states, composite bindi
 Five additional CNAM images were acquired and visually inspected: vues177–179,184 and190. The [expanded acquisition ledger](../data/eiffel-turgan-project.json) records their exact URLs, hashes, boundaries and inspection scope. Neither the complete article nor the complete volume has been audited. Images remain linked rather than mirrored.
 
 Next acquire wrappers and all pages of ANMT2021 6 54 and Huntington713603, compare the first22pages and later continuations, and identify imprints/reissue statements. For CNAM, request or locate bibliographic binding information before assigning an article date from the bound title. The [1889 Pompey targets](POMPEY-42J-ARCHIVAL-ROUTE.md) remain open; no supplier test series or dispatch has been acquired.
+
+A separate [20 November 1886 bulletin](EIFFEL-NOVEMBER-1886-BULLETIN.md) supplies a dated proposal witness. It does not date the Turgan version or independently authenticate construction.

@@ -1,0 +1,66 @@
+{
+  "source_id": "S346",
+  "accessed_date": "2026-10-11",
+  "issue_date_printed": "1886-11-20",
+  "issue_number": 1,
+  "exhibition_title_year": 1889,
+  "tower_article_section": "nonofficial",
+  "declared_source_dependence": "newspaper reports summarized with added notes",
+  "images": [
+    {
+      "view": 1,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE16.1/0001",
+      "image_url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0001.V.1.1205.1568.gif",
+      "sha256": "ab25fd09c86ccce19289b1478c2dd704265c9dd3ddb5f148f4f439883bbfed52",
+      "byte_length": 191143,
+      "visually_inspected": true
+    },
+    {
+      "view": 11,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE16.1/0011",
+      "image_url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0011.T.1x11.1205.1568.gif",
+      "sha256": "c1c1d5c5c4a5b637b82e642cd2a6077db44c30fd66d11f71460f0e724b605f29",
+      "byte_length": 244589,
+      "visually_inspected": true
+    },
+    {
+      "view": 12,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE16.1/0012",
+      "image_url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0012.T.1x12.1205.1568.gif",
+      "sha256": "ed34c9982aa6964400197823e2a259e049ecfc39fa7354d3f2c362863ec69c78",
+      "byte_length": 247699,
+      "visually_inspected": true
+    },
+    {
+      "view": 13,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?FOLXAE16.1/0013",
+      "image_url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0013.T.1x13.1205.1568.gif",
+      "sha256": "f2ccca2ab24c2936e76f1c2cbf5bd476da4fdeae04817157d1cf3211b38d2e06",
+      "byte_length": 232320,
+      "visually_inspected": true
+    }
+  ],
+  "reported_subsidy_vote": {
+    "date": "1886-11-05",
+    "amount_francs": 1500000,
+    "role": "subsidy credit reportedly voted",
+    "underlying_minutes_acquired": false,
+    "payment_proved": false
+  },
+  "projected_quantities": {
+    "tower_weight_kg": 7000000,
+    "inclined_lifts_to_second_level": 4,
+    "vertical_lifts_above_second_level": 2,
+    "ascent_duration_minutes": [
+      6,
+      7
+    ],
+    "lift_speed_m_per_s": 1,
+    "quantities_are_observed_results": false
+  },
+  "lift_commentary_signature": "A. Croos",
+  "helical_lift_installation_authenticated": false,
+  "exact_turgan_article_date": null,
+  "full_issue_inspected": false,
+  "independent_scientific_review": false
+}

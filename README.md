@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [November 1886 tower bulletin](research/EIFFEL-NOVEMBER-1886-BULLETIN.md): dated proposal, reported subsidy vote and source-dependence limits.
+
 - [Tower booklet version controls](research/EIFFEL-TURGAN-VERSION-CONTROLS.md): original page continuity, later-year volume contents and a28-page1886catalog target.
 
 - [Original tower proposal account](research/EIFFEL-TURGAN-PROJECT-ACCOUNT.md): named designers, prospective price and unresolved bound-volume/issue dates.

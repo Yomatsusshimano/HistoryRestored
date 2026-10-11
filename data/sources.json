@@ -5539,6 +5539,46 @@
       "inspected": "Collection page read via web; full catalog record b1754320 acquired by normalHTTPS and HTML text inspected. Publication1886,28pages,27cm,ParisLibrairie des Dictionnaires; cover title,inside-cover1867-1885works list and bound-in1885-1889construction list.",
       "limitations": "Original covers,added leaf,tipped-in bridge list and physical copy uninspected. Catalog chronology/binding assertions not authenticated; equality withCNAM orANMT versions unknown. Catalogs may share metadata; not independent construction corroboration. Full catalog web fetch failed but normal shell acquisition succeeded.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S346",
+      "title": "Bulletin officiel de l exposition universelle de1889, no1,20November1886: tower proposal and subsidy report",
+      "url": "https://cnum.cnam.fr/pgi/redir.php?ident=FOLXAE16.1",
+      "creator": "Bulletin officiel editorial publication; A. Croos signs the lift commentary; CNAM digitized holding",
+      "source_type": "Contemporary periodical, selected original scans from nonofficial section",
+      "access": "SCAN_INSPECTED",
+      "publication_date": "1886-11-20",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Masthead/vue1 and printed11-13/vues11-13 visually inspected. Issue date, nonofficial contents classification, newspaper-summary dependence, reported5November subsidy vote, projected weight/lifts and A.Croos signature checked. p12money heading enlarged and confirmed1500000.",
+      "limitations": "Selected pages only, not full issue/volume. Newspaper/project dependence declared; underlying minutes, disbursements, weighed deliveries and installed lift tests uninspected. Subsidy, proposed price and actual cost have different roles. Project estimates and absolute-safety assertions are not observed engineering performance. No exact Turgan version date established.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0001.V.1.1205.1568.gif",
+          "sha256": "ab25fd09c86ccce19289b1478c2dd704265c9dd3ddb5f148f4f439883bbfed52",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0011.T.1x11.1205.1568.gif",
+          "sha256": "c1c1d5c5c4a5b637b82e642cd2a6077db44c30fd66d11f71460f0e724b605f29",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0012.T.1x12.1205.1568.gif",
+          "sha256": "ed34c9982aa6964400197823e2a259e049ecfc39fa7354d3f2c362863ec69c78",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/FOLXAE16.1/0013.T.1x13.1205.1568.gif",
+          "sha256": "f2ccca2ab24c2936e76f1c2cbf5bd476da4fdeae04817157d1cf3211b38d2e06",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        }
+      ]
     }
   ]
 }
