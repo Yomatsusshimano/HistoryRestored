@@ -1,0 +1,66 @@
+{
+  "source_ids": [
+    "S363",
+    "S364"
+  ],
+  "status": "SOURCED_DRAFT",
+  "pdf": {
+    "url": "https://ia800907.us.archive.org/21/items/dictionnaireadmi00laza/dictionnaireadmi00laza.pdf",
+    "bytes": 92540352,
+    "sha256": "556646bc14df993ea433041b7ad99b82c4cc2c29aec8343f78bb132083f40679",
+    "pages": 820,
+    "edition": "Second,1855; original title inspected"
+  },
+  "inspected": [
+    {
+      "leaf": 11,
+      "pdf_page": 11,
+      "printed_page": null,
+      "role": "Title"
+    },
+    {
+      "leaf": 651,
+      "pdf_page": 625,
+      "printed_page": 607,
+      "role": "Orsay entry opening"
+    },
+    {
+      "leaf": 652,
+      "pdf_page": 626,
+      "printed_page": 608,
+      "role": "Orsay entry continuation and end"
+    }
+  ],
+  "reported_decrees": [
+    {
+      "date": "1808-03-11",
+      "role": "Construction order, six-year target",
+      "completion_certificate": false
+    },
+    {
+      "date": "1812-02-10",
+      "role": "Planted promenade order, width55m",
+      "completion_certificate": false
+    }
+  ],
+  "actual_channel_completion": null,
+  "original_decrees_acquired": false,
+  "attached_plans_acquired": false,
+  "works_acceptance_acquired": false,
+  "archive": {
+    "reference": "D1Z88",
+    "collection": "Lazare dictionary documentation, originals and copies",
+    "coverage": "Opera passage–Ottoz villa",
+    "access": "Web-extracted title/presentation/relevant inventory entry only",
+    "finding_aid_version": "2021-08-13",
+    "native_download": "404",
+    "screenshots": "Cache miss",
+    "exact_item": null,
+    "item_original_or_copy": null,
+    "underlying_volume_inspected": false
+  },
+  "source_independence_verified": false,
+  "1844_transcription": "Different edition, retrieval lead only; no scan comparison yet",
+  "tls": "Default download redirected to expired certificate; advertised alternate server succeeded with normal validation",
+  "public_pdf_mirror": false
+}

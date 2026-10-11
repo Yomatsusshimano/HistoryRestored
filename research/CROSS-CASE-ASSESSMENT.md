@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Original quay orders and shared documentary lineage
+
+Original 1855 Orsay entry separates 1808 construction target and 1812 promenade order from completion. D1Z88 finding-aid text identifies Lazare documentation with originals/copies; exact item unacquired. 28 drafts / 364 sources; all twenty objectives active. See [quay audit](ORSAY-LAZARE-1855.md).
+
 ### 2026-10-11 — Reported final filling and restricted map delivery
 
 ExpandedS362p1030 reports1812finalfilling and identifies A.S. D1 Z vol88 land-use lead; original works/instruments unacquired.1028masked/1029blank not interpreted.28drafts/362sources; all twenty objectives active. See [continuation audit](CYGNES-PARTIAL-FILL-ARCHIVAL-LEADS.md).

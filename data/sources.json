@@ -6088,6 +6088,41 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S363",
+      "title": "Felix and Louis Lazare,1855 second-edition dictionary: original title and Orsay quay entry",
+      "url": "https://archive.org/details/dictionnaireadmi00laza",
+      "creator": "Felix Lazare and Louis Lazare; Bureau de la Revue municipale; Internet Archive delivery",
+      "publication_date": "1855",
+      "source_type": "Original historical dictionary with retrospective decree extracts",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original title and complete Orsay entry printed607–608, PDF11/625/626, visually inspected at2400pixel render.",
+      "limitations": "Other pages uninspected. Original decrees, attached plans and works records unacquired. 1808six-year target and1812promenade order do not certify channel completion. Different1844edition not scan-compared.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://ia800907.us.archive.org/21/items/dictionnaireadmi00laza/dictionnaireadmi00laza.pdf",
+          "sha256": "556646bc14df993ea433041b7ad99b82c4cc2c29aec8343f78bb132083f40679",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "id": "S364",
+      "title": "Archives de Paris, Lazare collection D1Z1–135 finding aid: presentation and D1Z88",
+      "url": "https://archives.paris.fr/_depot_ad75/_depot_arko/ead/INV0870.pdf",
+      "creator": "Archives de Paris; Jean-Charles Virmaux",
+      "publication_date": "2021-08-13",
+      "source_type": "Official archival finding aid",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Web-extracted PDFtitle/presentation pp1/3 and D1Z88 inventory entry PDFp9.",
+      "limitations": "Native URL download404; screenshot cache misses; no PDF scan inspection claimed. Underlying volume and exact1773item unacquired. Collection mixes originals/copies; item status and independence from dictionary unverified.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
 }
