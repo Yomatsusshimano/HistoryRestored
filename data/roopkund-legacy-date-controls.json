@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C031",
+  "lead_id": "R006",
+  "source_ids": [
+    "S411",
+    "S412",
+    "S413"
+  ],
+  "reported_legacy_date": {
+    "source_id": "S411",
+    "locator": "PDF3/printed807",
+    "literal": "650±150 years",
+    "age_reported": 650,
+    "error_reported": 150,
+    "sample_id": null,
+    "material_specific": null,
+    "reference_epoch": null,
+    "error_confidence": null,
+    "normalized_standard_deviation": null,
+    "calendar_bounds_ce": null,
+    "pretreatment": null,
+    "original_entry_verified": false
+  },
+  "institution_discrepancy": {
+    "chapter_wording": "Michigan State University",
+    "catalog_title": "University of Michigan Radiocarbon Dates III",
+    "actual_sample_laboratory_verified": false
+  },
+  "methods_control": {
+    "source_id": "S413",
+    "scope": "1963 ListVIII publisher extract; retrospective description of earlier lists",
+    "earlier_error_multiplier_minimum_relative_to_counting": 2,
+    "exact_legacy_confidence": null,
+    "transfer_to_1958_sample_verified": false
+  },
+  "next_test": "Acquire original1958entry and introduction; authenticate sample before comparison. No sample added to dating-records.json."
+}

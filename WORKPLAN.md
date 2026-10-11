@@ -1195,3 +1195,8 @@ S317originalCCBYsupplement acquired/preserved; all five OOXMLtables extracted,74
 ### 2026-10-09 — Original cave unit/context recovery
 
 S318p4/29/30visually inspected; Table4distinguishes0–5cmorganic/surface and5–25cmred clay faunal lists. Individually dated specimen-to-unit links absent; primate table/prose conflict retained.50bags/shaft geometry reported, not mud thickness or a deposition date. See [audit](research/JEREMIE-DEPOSITION-CONTEXT.md).28drafts/318sources; all twenty objectives active, no independent review.
+
+
+### 2026-10-11 — Roopkund legacy-date controls
+
+[Legacy-date audit](research/ROOPKUND-LEGACY-DATE-CONTROLS.md): visually inspected650±150years citation, original1958catalog and1963laboratory methods extract. Sample/epoch/confidence unresolved; no calendar conversion or specimen join. Original1958entry remains unacquired. 31sourced drafts/413sources; no independent archive review, all twenty objectives active.

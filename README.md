@@ -206,3 +206,8 @@ Reddit skeletal-assemblage follow-up: [Roopkund sample dates and deposition limi
 Roopkund cause follow-up: [injury timing and missing specimen joins](research/ROOPKUND-TRAUMA-CONTROLS.md).
 
 Roopkund collection follow-up: [numbered specimens and public-review limits](research/ROOPKUND-COLLECTION-AND-REVIEW.md).
+
+
+### 2026-10-11 — Roopkund legacy-date controls
+
+[Legacy-date audit](research/ROOPKUND-LEGACY-DATE-CONTROLS.md): visually inspected650±150years citation, original1958catalog and1963laboratory methods extract. Sample/epoch/confidence unresolved; no calendar conversion or specimen join. Original1958entry remains unacquired. 31sourced drafts/413sources; no independent archive review, all twenty objectives active.

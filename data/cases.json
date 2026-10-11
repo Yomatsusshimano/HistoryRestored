@@ -3712,12 +3712,27 @@
           "source_id": "S411",
           "locator": "PDF4–5/printed808–809; Table4/PDF11–12/printed815–816",
           "statement": "Reported2004–2007surface collection and fragment reconstruction; Roman-number pathology entries include healed VII and proposed possible fatal injuries VIII/XII. No join to2019dated bones established."
+        },
+        {
+          "source_id": "S411",
+          "locator": "PDF3/printed807",
+          "statement": "Legacy650±150years report cites Crane/Griffin1958; sample identifier, epoch, confidence and calibration absent in inspected passage."
+        },
+        {
+          "source_id": "S412",
+          "locator": "Indexed bibliographic record PMID17835848",
+          "statement": "Catalog identifies1958University of Michigan ListIII, not its sample entry; chapter institution wording differs."
+        },
+        {
+          "source_id": "S413",
+          "locator": "Publisher Extract, error-convention paragraphs",
+          "statement": "1963methods describe enlarged errors in previous Michigan lists versus counting-only standard deviations in ListVIII; exact legacy sample conventions remain unverified."
         }
       ],
       "physical_evidence": "Published bone dating measurements only; no specimen access, site visit, original excavation logs or measured sediment profile inspected.",
       "surviving_documents": "Selected original article HTML, selected supplement pages and published date workbook; sample ledger preserves rows, materials and missing fields. Expanded original supplement visual inspection and trauma/association ledger recorded. Original2023pathology chapter selected pages and both2019public review pages inspected.",
       "source_interpretation": "Authors interpret multiple mortality/deposition episodes and discuss possible origins; causal and identity accounts remain incomplete.",
-      "investigation_inference": "Retrospective outer-bound arithmetic challenges simultaneous mortality within selected durations. It cannot date later common redistribution, authenticate the Reddit media or assign a natural mud layer. Mortality interpretation assumes bone-collagen dates approximate death; tissue turnover and systematic offsets not modeled. Trauma timing cannot be assigned to a dated genetic individual without element associations; hail and later landslide damage remain causal hypotheses requiring separate tests. Roman specimen labels now narrow collection retrieval but do not authenticate skull-to-dated-bone joins. Limited public review does not establish resolution of specific methodological objections.",
+      "investigation_inference": "Retrospective outer-bound arithmetic challenges simultaneous mortality within selected durations. It cannot date later common redistribution, authenticate the Reddit media or assign a natural mud layer. Mortality interpretation assumes bone-collagen dates approximate death; tissue turnover and systematic offsets not modeled. Trauma timing cannot be assigned to a dated genetic individual without element associations; hail and later landslide damage remain causal hypotheses requiring separate tests. Roman specimen labels now narrow collection retrieval but do not authenticate skull-to-dated-bone joins. Limited public review does not establish resolution of specific methodological objections. Legacy650±150years is not normalized or joined to a specimen; later lab methods warn against assuming identical error conventions. Institution wording discrepancy alone does not establish rewriting.",
       "competing_explanations": [
         "Multiple local deaths across centuries",
         "Catastrophic mortality in one subgroup",
@@ -3725,7 +3740,7 @@
         "Dating biases requiring specimen-specific testing"
       ],
       "counterevidence": "All37 outer intervals need at least937years of permissive span; A alone125years. Contemporary subgroup overlap does not establish a shared cause. No dated mud layer, global link or rewriting mechanism.",
-      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match. Recover accession IDs, original trauma images/descriptions and authenticated skull-to-sampled-bone associations before transferring ages or ancestry labels. Retrieve VII/VIII/XII accession/reconstruction records and explicit sampling crosswalk; do not infer prior reviewer identity or decision.",
+      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match. Recover accession IDs, original trauma images/descriptions and authenticated skull-to-sampled-bone associations before transferring ages or ancestry labels. Retrieve VII/VIII/XII accession/reconstruction records and explicit sampling crosswalk; do not infer prior reviewer identity or decision. Retrieve1958ListIII introduction and exact Roopkund sample entry before normalizing its age or uncertainty.",
       "chronology": {
         "reported": "Published 2019 calibrated CE envelopes for37bone samples",
         "dated_object": "Bone collagen, not sediment deposition",
@@ -3741,7 +3756,8 @@
         "Full recalibration and reservoir audit",
         "Specimen-to-trauma joins",
         "In-place deposit units and independent ages",
-        "Original collection and travel records"
+        "Original collection and travel records",
+        "Original1958sample entry, identifier and dating conventions"
       ],
       "dependence": "Article, supplement and workbook share one study lineage; not three independent confirmations. Published peer review is not independent review of this archive. Bone age and contextual interpretation distinct. Shared author between skeletal reports is not specimen identity; publicreview is correspondence about original study, not review of archive conclusions."
     }

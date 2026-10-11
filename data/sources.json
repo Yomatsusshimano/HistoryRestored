@@ -7326,17 +7326,47 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "PDF1/4/5/11/12 visually inspected: title/year, surface collection, fragment reconstruction, and selected Table4 rows1–11. Other pages text navigation only.",
-      "limitations": "Original specimens, laboratory/collection files and complete diagnostic audit not acquired. Roman-number entries not joined to2019 R/I IDs or trauma cases. Calendar dates absent for selected pathology specimens; collection dates not death dates. Exact publication day unknown.",
+      "inspected": "PDF1/3/4/5/11/12 visually inspected: title/year, surface collection, fragment reconstruction, and selected Table4 rows1–11. Other pages text navigation only. PDF3/printed807 legacy650±150years citation visually inspected; sample and conventions absent.",
+      "limitations": "Original specimens, laboratory/collection files and complete diagnostic audit not acquired. Roman-number entries not joined to2019 R/I IDs or trauma cases. Calendar dates absent for selected pathology specimens; collection dates not death dates. Exact publication day unknown. Legacy citation lacks sample ID/epoch/error convention; institution wording differs from cited article title.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
           "url": "https://www.heritageuniversityofkerala.com/Publications/P1/42_Barthwal%20and%20Walimbe_PPJ_20230131.pdf",
           "sha256": "00fdda859422f148c6100c34aaccec8f3f4e39100058acb5e6ba6c6bffa83b5d",
           "retrieved_date": "2026-10-11",
-          "hash_scope": "16-page chapter; PDF1/4/5/11/12 visually inspected; other pages text navigation only; complete delivered 5216176 bytes"
+          "hash_scope": "16-page chapter; PDF1/3/4/5/11/12 visually inspected; other pages text navigation only; complete delivered 5216176 bytes"
         }
       ]
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S412",
+      "title": "University of Michigan Radiocarbon Dates III: bibliographic catalog",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17835848/",
+      "creator": "H.R. Crane and J.B. Griffin; PubMed catalog",
+      "publication_date": "1958-11-07",
+      "source_type": "Bibliographic metadata for original laboratory date list",
+      "access": "CATALOG_METADATA",
+      "inspected": "Indexed PubMed title, authors, date, volume128/issue3332, pages1117–1123 and DOI10.1126/science.128.3332.1117.",
+      "limitations": "Original article and Roopkund entry not acquired; catalog does not verify sample, measurement or conventions."
+    },
+    {
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "id": "S413",
+      "title": "University of Michigan Radiocarbon Dates VIII: methods extract",
+      "url": "https://www.cambridge.org/core/journals/radiocarbon/article/university-of-michigan-radiocarbon-dates-viii/AF78FD21EE562A0CA115390C29143075",
+      "creator": "H.R. Crane and James B. Griffin",
+      "publication_date": null,
+      "publication_year": 1963,
+      "online_date": "2016-07-18",
+      "source_type": "Original laboratory methods; publisher extract",
+      "access": "FULL_TEXT_PORTION",
+      "inspected": "Publisher Extract and Information: previous-list error enlargement; ListVIII counting standard deviations, half-life5568 and epoch1950; Radiocarbon5:228–253, DOI10.1017/S0033822200036870.",
+      "limitations": "Full PDF not acquired. General retrospective methods statement is not an inspected1958 Roopkund entry or exact error-confidence definition."
     }
   ]
 }

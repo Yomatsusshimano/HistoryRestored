@@ -2021,3 +2021,8 @@ Previous2c09fc7publication was progress; checkout clean. Existing supplement tex
 ### 2026-10-11 — Roopkund numbered pathology collection and review access
 
 Previousa80f714publication was progress; checkout clean. Targeted collection/review searches surfaced original2023chapter and publisher-advertised review file. Browser timeout/cachemiss resolved by ordinary native acquisition; session53218polled to terminal completion without restart. Both review pages and chapterPDF1/4/5/11/12visually inspected; remaining chapter text navigation only. Roman source labels not promoted to authenticated accessions or matched to2019I/RIDs. Reconstructed fragment and surface association limits retained. No outreach, originalfilemirroring or independentreview invented. Other30cases and all twenty objectives unchanged. Recovered2023numbered pathology observations and reported surface-collection/reconstruction history; VII/VIII/XII remain unjoined to2019dated samples. Public2019review omits earlier detailed review, preventing inference about specific objection resolution.31drafts/411sources; no independent archive review. See [collection controls](research/ROOPKUND-COLLECTION-AND-REVIEW.md).
+
+
+### 2026-10-11 — Roopkund legacy-date controls
+
+[Legacy-date audit](research/ROOPKUND-LEGACY-DATE-CONTROLS.md): visually inspected650±150years citation, original1958catalog and1963laboratory methods extract. Sample/epoch/confidence unresolved; no calendar conversion or specimen join. Original1958entry remains unacquired. 31sourced drafts/413sources; no independent archive review, all twenty objectives active.
