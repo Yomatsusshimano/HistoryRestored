@@ -1,5 +1,9 @@
 # What the audited cases currently establish
 
+### 2026-10-11 — Partial filling and archive-reference boundaries
+
+S362selected1970study scans distinguish prior partial filling from authorized completion. E2013 references1720grant; Q1 1281 references1773sale; exactauthorizationitem unverified.28drafts/362sources; no dated sediment or foundationjoin, all twenty objectives active. See [citation audit](CYGNES-PARTIAL-FILL-ARCHIVAL-LEADS.md).
+
 ### 2026-10-11 — Pre-tower legal report and authorization/completion distinction
 
 S361original1859legalreportinspected:1773channel-filling/street/saleauthorization and competingState/Citytitleclaims predate towerworks. Openingfilled1773 versuslaterauthorized/tobefilled tensionretained; originals/execution/parceljoinsmissing.28drafts/361sources; all twenty objectives active. See [property dispute](CYGNES-1859-PROPERTY-DISPUTE.md).

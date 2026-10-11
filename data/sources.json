@@ -6037,6 +6037,42 @@
           "retrieved_date": "2026-10-11"
         }
       ]
+    },
+    {
+      "id": "S362",
+      "title": "Olivier Zunz (1970), Gros-Caillou urbanization study: selected opening pages and archival references",
+      "url": "https://www.persee.fr/doc/ahess_0395-2649_1970_num_25_4_422340",
+      "creator": "Olivier Zunz; Annales; Persee digital delivery",
+      "publication_date": "1970",
+      "source_type": "Original historical research with retrospective quotation and map interpretation",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Original article pages1024–1027 visually inspected through advertised public page images; article spans1024–1065.",
+      "limitations": "Remaining article uninspected. Original1773 instruments unacquired. Q1 1281 footnote belongs to sale; no separate citation beside authorization quotation on inspected page. Natural filling is author inference; no dated sediment, execution completion or foundation parcel join. Maps reproduced/derived, not independently authenticated surveys.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1024_0000_710.jpg",
+          "sha256": "b0db359d9e499e61f8e0d4ccb42aa084fc300408fae47acb7989483e045d4c75",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1025_0000_710.jpg",
+          "sha256": "4fbf0634e76f59e491a33db9014ff697f9090fd0e69acd001c27d09329e61790",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1026_0000_710.jpg",
+          "sha256": "8ddcd100d06828bac9837ff4e2029b0bc950b711fa76e0a0160c7bea3959b3ce",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1027_0000_710.jpg",
+          "sha256": "84afc2e05bb7bd3febd20625342648a1da8e3bae3903fd1525e0ea961f911d5d",
+          "retrieved_date": "2026-10-11"
+        }
+      ]
     }
   ]
 }

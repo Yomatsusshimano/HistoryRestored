@@ -1,0 +1,74 @@
+{
+  "source_id": "S362",
+  "status": "SOURCED_DRAFT",
+  "inspected_pages": [
+    1024,
+    1025,
+    1026,
+    1027
+  ],
+  "retrievals": [
+    {
+      "page": 1024,
+      "html_url": "https://www.persee.fr/doc/page/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1024_0000",
+      "html_sha256": "ee998e5eb0b0c5624a95359810fea9ccd4e36729d2035ce8661e7923b82097d3",
+      "image_url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1024_0000_710.jpg",
+      "image_sha256": "b0db359d9e499e61f8e0d4ccb42aa084fc300408fae47acb7989483e045d4c75",
+      "image_bytes": 159467
+    },
+    {
+      "page": 1025,
+      "html_url": "https://www.persee.fr/doc/page/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1025_0000",
+      "html_sha256": "82a4c9bb94dee1b9fb9a39817d4b019c3bc12134527aa3554744a0568b39cebb",
+      "image_url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1025_0000_710.jpg",
+      "image_sha256": "4fbf0634e76f59e491a33db9014ff697f9090fd0e69acd001c27d09329e61790",
+      "image_bytes": 243071
+    },
+    {
+      "page": 1026,
+      "html_url": "https://www.persee.fr/doc/page/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1026_0000",
+      "html_sha256": "0e4bb190283ec407add4839c8055bd97255b30cc281e6833cab3cbb13e4b1cfc",
+      "image_url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1026_0000_710.jpg",
+      "image_sha256": "8ddcd100d06828bac9837ff4e2029b0bc950b711fa76e0a0160c7bea3959b3ce",
+      "image_bytes": 145874
+    },
+    {
+      "page": 1027,
+      "html_url": "https://www.persee.fr/doc/page/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1027_0000",
+      "image_url": "https://www.persee.fr/renderPage/ahess_0395-2649_1970_num_25_4_422340/ahess_0395-2649_1970_num_25_4_T1_1027_0000_710.jpg",
+      "image_sha256": "84afc2e05bb7bd3febd20625342648a1da8e3bae3903fd1525e0ea961f911d5d",
+      "image_bytes": 296354
+    }
+  ],
+  "archival_references": [
+    {
+      "printed": "A.N., E 2013",
+      "page": 1025,
+      "footnote": 1,
+      "association": "1720 grant and boat/timber use",
+      "original_acquired": false
+    },
+    {
+      "printed": "A.N., Q1 1281",
+      "page": 1025,
+      "footnote": 2,
+      "association": "1773 sale to Ecole Militaire",
+      "original_acquired": false
+    }
+  ],
+  "authorization_quotation": {
+    "reported_date": "1773-06-20",
+    "conditions": [
+      "Prior partial filling",
+      "Flow mainly during considerable floods",
+      "Summer stagnation"
+    ],
+    "separate_footnote_on_inspected_page": false,
+    "exact_archival_item": null,
+    "original_acquired": false
+  },
+  "completion_date": null,
+  "foundation_parcel_join": false,
+  "full_article_inspected": false,
+  "public_image_mirror": false
+}
