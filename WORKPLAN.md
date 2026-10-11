@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Bound-title date narrowed by original page controls
+
+S343 p22 continues mid-sentence into p23; the following livraison355 reports1883–1885 historical results. The1882title cannot date all textual contents under the source chronology. New S345 catalogs a28-page1886copy with a later bound-in works list. Exact version equality and binding remain unverified.28 drafts /345 sources; all twenty objectives active. See [controls](research/EIFFEL-TURGAN-VERSION-CONTROLS.md).
+
 ### 2026-10-11 — Tower proposal scans and version discrepancy
 
 S343 selected original scans name designers, illustrate a proposed tower and report a prospective 3,150,000-franc price. Bound title 1882 and 28-page article differ from S344 separate March 1886/22-page catalog description; exact version/date unresolved. ANMT also identifies the June 1889 Pompey issue HP 889. No underlying catalog copy or supplier tests acquired. 28 drafts / 344 sources; all twenty objectives active. See [audit](research/EIFFEL-TURGAN-PROJECT-ACCOUNT.md).

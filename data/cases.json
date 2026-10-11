@@ -1174,6 +1174,16 @@
           "source_id": "S344",
           "locator": "Bulletins87255 and115316; series8414",
           "statement": "ANMT identifies Pompey June1889 issue HP889/gen5777 and Eiffel353-354 March1886 copy2021 6 54/gen34311. Underlying copies and equality with42 J51/CNAM article unverified."
+        },
+        {
+          "source_id": "S343",
+          "locator": "Printed22-24/vues177-179; livraison355first page/vue184; printed7/vue190",
+          "statement": "CNAM Eiffel article continues mid-sentence afterp22. The next article reports1883-1885historical statistics, showing the1882bound title cannot date all textual contents under the source chronology. Exact issue/binding date unresolved."
+        },
+        {
+          "source_id": "S345",
+          "locator": "Collection713603 and full catalogb1754320,publication/description/notes",
+          "statement": "Huntington catalogs a28-page1886Eiffel booklet and a bound-in leaf listing1885-1889constructions. Original copy uninspected; version equality and physical additions unauthenticated."
         }
       ],
       "physical_evidence": "Digitized roster, costs, workshop account, progress diagram, inspection report and museum photograph front visually inspected. Building fabric and original print not physically examined.",
@@ -1185,7 +1195,7 @@
         "Repair/reassembly if fabric and earlier records support it"
       ],
       "counterevidence": "The claim that no builders or budgets are documented is contradicted by this source. The source alone does not resolve whether all fabric was new or establish payments actually made.",
-      "next_test": "Compare ANMT2021 6 54 wrappers and all pages with CNAM livraison353, especially transition afterp22; acquire HP889/gen5777 and compare imprint/pagination with42 J51. Join authenticated supplier correspondence to acceptance, dispatch and workshop records.",
+      "next_test": "Compare wrappers and all pages of ANMT2021 6 54 and Huntington713603 with CNAM livraison353, including sentence crossingp22 and imprints. Obtain binding history before dating all contents from1882title. Continue originalPompeyHP889/42 J51 and supplier acceptance/dispatch retrieval.",
       "chronology": {
         "reported": "1900 monograph; progress sheet through 8 January 1888; photographic mount inscription 10 February 1888; inspection report 4 January 1889.",
         "dated_object": "Documents and photograph inscription; not independent component manufacture dates.",

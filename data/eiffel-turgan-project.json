@@ -1,7 +1,8 @@
 {
   "source_ids": [
     "S343",
-    "S344"
+    "S344",
+    "S345"
   ],
   "accessed_date": "2026-10-11",
   "images": [
@@ -76,6 +77,51 @@
       "sha256": "d298a71ab920c423d8f678a2f123e199e57c62e9dfc50616e5494d54be2191d7",
       "visually_inspected": true,
       "relevant": true
+    },
+    {
+      "view": 177,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0177",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0177.T.9x22.693.1036.gif",
+      "byte_length": 76280,
+      "sha256": "228860365d0851fbef9e5ec141ac946b86d82aa467c3c8bfe09906873c1d6318",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 178,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0178",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0178.T.9x23.713.1036.gif",
+      "byte_length": 85038,
+      "sha256": "efe84d7fb42ade7e8af3e88c373d5dd79d31a5fbca005e54866d3c06522f6c3c",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 179,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0179",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0179.T.9x24.704.1056.gif",
+      "byte_length": 59273,
+      "sha256": "3f84d7373ed6288d9e4f938a9037170f1db980add297621079a8d1530107fc23",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 184,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0184",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0184.T.10x1.720.1048.gif",
+      "byte_length": 60083,
+      "sha256": "aa48e1a9a8eeb48d58a15ffd4eeecfccd9cd1d52d808810faa55b0ec0b7522b0",
+      "visually_inspected": true,
+      "relevant": true
+    },
+    {
+      "view": 190,
+      "page_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY15.18/0190",
+      "image_url": "https://cnum.cnam.fr/GIFS/4KY15.18/0190.T.10x7.712.1056.gif",
+      "byte_length": 72230,
+      "sha256": "2af800aa4b0d7646b0d61dd4b4839adc572c44e4378fb25f5614047e2f7f3ccf",
+      "visually_inspected": true,
+      "relevant": true
     }
   ],
   "scan_relevant_views": [
@@ -84,7 +130,12 @@
     180,
     181,
     182,
-    183
+    183,
+    177,
+    178,
+    179,
+    184,
+    190
   ],
   "bound_title_year": 1882,
   "exact_scan_article_date": null,
@@ -112,6 +163,25 @@
       "catalog_pages": 22,
       "underlying_copy_acquired": false,
       "matches_CNAM_version": null
+    },
+    {
+      "url": "https://catalog.huntington.org/record=b1754320",
+      "collection_url": "https://www.huntington.org/collections/lib-713603",
+      "copy_reference": "713603",
+      "catalog_year": 1886,
+      "catalog_pages": 28,
+      "catalog_imprint": "Paris: Librairie des Dictionnaires",
+      "cover_title": true,
+      "catalog_reports_inside_cover_works_years": [
+        1867,
+        1885
+      ],
+      "catalog_reports_bound_in_leaf_works_years": [
+        1885,
+        1889
+      ],
+      "underlying_copy_acquired": false,
+      "matches_CNAM_version": null
     }
   ],
   "limits": [
@@ -120,5 +190,21 @@
     "Design illustration is not completed-tower observation",
     "Proposed price is not actual expense",
     "No original Pompey test series inspected"
-  ]
+  ],
+  "version_controls": {
+    "scan_page22_ends_article": false,
+    "page22_to23_sentence_continues": true,
+    "next_article_livraison": 355,
+    "next_article_start_view": 184,
+    "next_article_reported_statistics_years": [
+      1883,
+      1884,
+      1885
+    ],
+    "statistics_page": 7,
+    "statistics_view": 190,
+    "bound_title_dates_all_contents": false,
+    "exact_binding_history": null,
+    "ANMT22_page_description_error": null
+  }
 }

@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Tower booklet version controls](research/EIFFEL-TURGAN-VERSION-CONTROLS.md): original page continuity, later-year volume contents and a28-page1886catalog target.
+
 - [Original tower proposal account](research/EIFFEL-TURGAN-PROJECT-ACCOUNT.md): named designers, prospective price and unresolved bound-volume/issue dates.
 
 - [Pompey supplier archive](research/POMPEY-42J-ARCHIVAL-ROUTE.md): exact booklet and plan-register targets, late order-index exclusion and preservation limits.

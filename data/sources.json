@@ -5428,8 +5428,8 @@
       "date_note": "Bound title prints1882; ANMT distinct353-354 catalog dates March1886 and22pages versus scanned28. Exact article version/date unresolved.",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "Title vue4; article first page vue148; printed25-28/vues180-183 visually inspected. Vues3/147 acquired and inspected but belong to printer/preceding article. Tower proposal, illustration, prospective price and collaborator names checked.",
-      "limitations": "No full article/volume inspection or exact issue-date authentication. Promotional project account, not independent delivery or design-priority proof. Proposed price scope not joined to realized costs. No newly manufactured components established.",
+      "inspected": "Title vue4; article first page vue148; printed25-28/vues180-183 visually inspected. Vues3/147 acquired and inspected but belong to printer/preceding article. Tower proposal, illustration, prospective price and collaborator names checked. Follow-up: printed22-24/vues177-179, next article first page/vue184 and printed7/vue190 visually inspected. Continuous sentence across22-23; next article livraison355 and reported1883-1885 statistics retained.",
+      "limitations": "No full article/volume inspection or exact issue-date authentication. Promotional project account, not independent delivery or design-priority proof. Proposed price scope not joined to realized costs. No newly manufactured components established. Next-article historical statistics rule out dating all textual contents from1882title under the source chronology, but physical binding history/exact article date remain unverified.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
@@ -5479,6 +5479,36 @@
           "sha256": "d298a71ab920c423d8f678a2f123e199e57c62e9dfc50616e5494d54be2191d7",
           "retrieved_date": "2026-10-11",
           "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0177.T.9x22.693.1036.gif",
+          "sha256": "228860365d0851fbef9e5ec141ac946b86d82aa467c3c8bfe09906873c1d6318",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0178.T.9x23.713.1036.gif",
+          "sha256": "efe84d7fb42ade7e8af3e88c373d5dd79d31a5fbca005e54866d3c06522f6c3c",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0179.T.9x24.704.1056.gif",
+          "sha256": "3f84d7373ed6288d9e4f938a9037170f1db980add297621079a8d1530107fc23",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0184.T.10x1.720.1048.gif",
+          "sha256": "aa48e1a9a8eeb48d58a15ffd4eeecfccd9cd1d52d808810faa55b0ec0b7522b0",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
+        },
+        {
+          "url": "https://cnum.cnam.fr/GIFS/4KY15.18/0190.T.10x7.712.1056.gif",
+          "sha256": "2af800aa4b0d7646b0d61dd4b4839adc572c44e4378fb25f5614047e2f7f3ccf",
+          "retrieved_date": "2026-10-11",
+          "public_mirror_in_this_repository": false
         }
       ]
     },
@@ -5494,6 +5524,20 @@
       "local_copy": null,
       "inspected": "Series8414 and bulletin87255 accessed through web and normal HTML download; bulletin115316 HTML acquired after web cache miss. Pompey HP889/gen5777 and catalog June1889/11June1889; Eiffel2021 6 54/gen34311,353-354,March1886/1March1886,22pages.",
       "limitations": "Underlying copies unacquired. Availability is catalog status, not confirmed appointment/access. Exact day fields unverified; versions not matched to CNAM scans or42 J51. Series-level Turgan attribution does not authenticate each later article author.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED"
+    },
+    {
+      "id": "S345",
+      "title": "Huntington713603: Eiffel industrial booklet,1886,28pages and bound-in later works list",
+      "url": "https://www.huntington.org/collections/lib-713603",
+      "creator": "The Huntington Library; Burndy Library collection catalog",
+      "source_type": "Holding institution collection and full library catalog metadata",
+      "access": "CATALOG_METADATA",
+      "publication_date": null,
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Collection page read via web; full catalog record b1754320 acquired by normalHTTPS and HTML text inspected. Publication1886,28pages,27cm,ParisLibrairie des Dictionnaires; cover title,inside-cover1867-1885works list and bound-in1885-1889construction list.",
+      "limitations": "Original covers,added leaf,tipped-in bridge list and physical copy uninspected. Catalog chronology/binding assertions not authenticated; equality withCNAM orANMT versions unknown. Catalogs may share metadata; not independent construction corroboration. Full catalog web fetch failed but normal shell acquisition succeeded.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED"
     }
   ]
