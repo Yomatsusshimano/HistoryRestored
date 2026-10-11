@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Located piers and original figure-reference mismatch
+
+ExpandedS358plateIinspection: planfigure6confirms river-sidepiers1/4 versusinland2/3. PlateIIprintedfigure5reference mismatches upperstructuraldiagram; causeunknown. Numberedprofile/log and modernregistration stillmissing.28drafts/358sources; all twenty objectives active. See [plan audit](research/EIFFEL-FOUNDATION-PLAN-I.md).
+
 ### 2026-10-11 — Original foundation plate and bounded reconciliation
 
 S358originalplateIIinspected: ten selectedpier1depth/elevationpairs reconcile; geological sections nominal4xverticalexaggeration. Prose0.89mgroupedintervalmismatch preserved; sameparticipant dependency, original logs/locationplan and numbered joins open.28drafts/358sources; all twenty objectives active. See [plate audit](research/EIFFEL-FOUNDATION-PLATE-II.md).

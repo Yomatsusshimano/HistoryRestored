@@ -27,8 +27,11 @@
     "vertical_scale": "0.002 per metre",
     "nominal_vertical_exaggeration": "4",
     "location_plan_reference": "PlateIfigure5",
-    "location_plan_inspected": false,
-    "scan_distortion_calibrated": false
+    "location_plan_inspected": true,
+    "scan_distortion_calibrated": false,
+    "observed_location_plan_figure": 6,
+    "printed_location_reference_matches_observed_plan": false,
+    "location_reference_followup": "PlateIinspected; figure5upperstructuraldiagram, actualplanfigure6. Preserve originalreference."
   },
   "shaft_figure": {
     "figure": 3,

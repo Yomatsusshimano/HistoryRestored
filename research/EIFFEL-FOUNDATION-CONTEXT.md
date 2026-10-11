@@ -39,3 +39,7 @@ Acquire plate II's foundation sections and their location controls, original Pau
 ### Subsequent plate inspection
 
 [S358plateII](EIFFEL-FOUNDATION-PLATE-II.md) now supplies ten internally consistent pier1depth/elevation pairs and more detailed layer subdivisions. This narrows the earlier limitation to the prose grouped intervals: the0.89mmismatch remains, without invented correction. PlateII is acquired; plateIlocation controls, logs and exact joins remain open.
+
+### Subsequent location-plan inspection
+
+[PlateIplan audit](EIFFEL-FOUNDATION-PLAN-I.md) now confirms relative pier layout. The actualplan isfigure6; plateIIprintedreferencefigure5points to an upperstructuraldiagram. Preserve this mismatch, causeunknown. Locationplan is acquired, but exactnumberedprofile/shaftregistration and original logs remain missing.

@@ -36,3 +36,7 @@ The diagram subdivides the interval below the fill into sandy clay, several sand
 Figure 3 explicitly distinguishes the pier-4 excavation performed before shaft sinking, approximately 6.60 m from the stated surface to the +28 platform. The shaft layout differs from pier 1. A complete numerical transcription of pier 4 is not part of this audit, and its earlier prose surface variants remain unresolved. It cannot be pooled with pier 1 as an identical investigation.
 
 The plate names piers, not S357 boreholes 20, 22 and 24. Plate I's location plan, original Paulin/Arrault logs, modern survey datum, observation dates and exact object positions remain unjoined. No date for the fill or a common burial horizon follows from depth alone. All twenty objectives remain active. Next acquire plate I and register these section lines before attempting the bulletin-profile or historical-channel comparison.
+
+### Subsequent location-plan inspection
+
+[PlateIplan audit](EIFFEL-FOUNDATION-PLAN-I.md) now confirms relative pier layout. The actualplan isfigure6; plateIIprintedreferencefigure5points to an upperstructuraldiagram. Preserve this mismatch, causeunknown. Locationplan is acquired, but exactnumberedprofile/shaftregistration and original logs remain missing.

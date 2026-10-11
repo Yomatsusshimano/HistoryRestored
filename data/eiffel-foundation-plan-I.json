@@ -1,0 +1,79 @@
+{
+  "source_id": "S358",
+  "status": "SOURCED_DRAFT",
+  "accessed_date": "2026-10-11",
+  "retrievals": [
+    {
+      "canvas": "8976362",
+      "manifest_index": 14,
+      "manifest_label": "I",
+      "url": "https://www.e-rara.ch/i3f/v20/8976362/full/4000,/0/default.jpg",
+      "sha256": "e5cd452bc6241905f5446df26a10cd8c59fa7e259efd64a389d54c0080c42e50",
+      "bytes": 894434
+    },
+    {
+      "url": "https://www.e-rara.ch/i3f/v20/8976362/full/6000,/0/default.jpg",
+      "sha256": "22789edbacbf2fe1e91791788a621fdfff3f2c031e19c7b451603f3c98ee572e",
+      "bytes": 1992796
+    }
+  ],
+  "inspection": "Full4000pixelplate and6000pixelplan/horizontaldiagramcrops visually inspected",
+  "public_mirror": false,
+  "plan": {
+    "observed_figure": 6,
+    "printed_scale": "0.00025 per metre",
+    "pier_labels": {
+      "1": "Nord",
+      "2": "Est",
+      "3": "Sud",
+      "4": "Ouest"
+    },
+    "river_side_piers": [
+      1,
+      4
+    ],
+    "inland_piers": [
+      2,
+      3
+    ],
+    "named_controls": [
+      "Seine",
+      "Pont d’Iéna",
+      "Avenue de la Bourdonnais",
+      "Avenue de Suffren"
+    ],
+    "section_pair_topology": {
+      "1–2": "Sheet-left side of central exhibition axis",
+      "4–3": "Sheet-right side of central exhibition axis"
+    },
+    "flow_arrow": "Sheet-right",
+    "north_up_assumed": false,
+    "coordinates": null,
+    "modern_azimuth": null,
+    "metric_offsets_digitized": false,
+    "scan_distortion_calibrated": false
+  },
+  "cross_reference": {
+    "plateII_figures": [
+      1,
+      2
+    ],
+    "printed_target": "PlateIfigure5",
+    "observed_figure5": "Horizontal upper-tower structural diagram, panels18–29",
+    "observed_location_plan_figure": 6,
+    "printed_reference_matches_observed_plan": false,
+    "cause": null,
+    "original_reference_silently_corrected": false
+  },
+  "limits": {
+    "same_participant_publication_as_S17": true,
+    "independent_field_location_authentication": false,
+    "S357_numbered_borehole_join": false,
+    "S357_50m_profile_join": false,
+    "exact_shaft_centres_digitized": false,
+    "original_field_logs_acquired": false,
+    "sewer_route_join": false,
+    "object_find_positions": null,
+    "fill_date": null
+  }
+}

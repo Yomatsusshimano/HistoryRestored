@@ -5911,7 +5911,7 @@
     },
     {
       "id": "S358",
-      "title": "La tour de trois cents mètres, Planches (1900), plateII: soil and foundation excavation sections",
+      "title": "La tour de trois cents mètres, Planches (1900), selected plates I–II: location, soil and foundation excavation",
       "url": "https://www.e-rara.ch/zut/content/titleinfo/8976346",
       "creator": "Gustave Eiffel; ETH-Bibliothek Zürich, Rar9704; e-rara institutional digitization",
       "source_type": "Participant technical atlas, selected original plate",
@@ -5919,8 +5919,8 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "PlateII/canvas8976363 full4000pixel image and detail crops visually inspected;6000pixel pier1crop for ten selected depth/elevation pairs. Geological sections nominal4xverticalscale ratio.",
-      "limitations": "Same participant work asS17, not independent field corroboration. Other atlas plates not inspected. Original logs, exact section registration, datum, dates and S357borehole/object joins missing. Prose0.89mgrouped mismatch unresolved. Pier4not completely transcribed.",
+      "inspected": "PlateII/canvas8976363 full4000pixel image and detail crops visually inspected;6000pixel pier1crop for ten selected depth/elevation pairs. Geological sections nominal4xverticalscale ratio. PlateI/canvas8976362 full4000pixel and6000pixelplan/horizontaldiagramcrops inspected: actualplanfigure6, fourpierlabels/rivercontrols; printedplateIIfigure5reference differs from observedplan.",
+      "limitations": "Same participant work asS17, not independent field corroboration. Atlas plates other than I and II not inspected. Original logs, exact section registration, datum, dates and S357borehole/object joins missing. Prose0.89mgrouped mismatch unresolved. Pier4not completely transcribed. PlateIaddsrelative layout, not modernregistration or numberedboreholejoin. Crossreference mismatch cause unknown.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
@@ -5931,6 +5931,16 @@
         {
           "url": "https://www.e-rara.ch/i3f/v20/8976363/full/6000,/0/default.jpg",
           "sha256": "38d85393c3889bbb0ba3032d5a57869003db7de31e69f02f5fe37aa13fe4a692",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976362/full/4000,/0/default.jpg",
+          "sha256": "e5cd452bc6241905f5446df26a10cd8c59fa7e259efd64a389d54c0080c42e50",
+          "retrieved_date": "2026-10-11"
+        },
+        {
+          "url": "https://www.e-rara.ch/i3f/v20/8976362/full/6000,/0/default.jpg",
+          "sha256": "22789edbacbf2fe1e91791788a621fdfff3f2c031e19c7b451603f3c98ee572e",
           "retrieved_date": "2026-10-11"
         }
       ]
