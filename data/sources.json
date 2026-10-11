@@ -7472,6 +7472,52 @@
           "hash_scope": "Complete 51969516-byte delivery, 832 PDF pages; PDF5/7/140 visually inspected; other pages not reviewed"
         }
       ]
+    },
+    {
+      "id": "S419",
+      "title": "Schlenker Hardware Restoration + Addition: OX Studio project portfolio and selected photographs",
+      "url": "https://www.oxstudioinc.com/index.php/portfolio/schlenker-hardware/",
+      "creator": "OX Studio; photograph creators unspecified",
+      "publication_date": null,
+      "source_type": "Restoration project portfolio; selected historical and completed-project photographs",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Project description, size fields, award listing, page JSON-LD and four linked photographs visually inspected: Historic01, Historic-02-1, Final03 and Final05.",
+      "limitations": "Retrospective portfolio is not signed/as-built drawings or independent engineering review. Photograph capture dates, creators and original negative accessions unavailable. Page JSON-LD publication2016-02-06/modification2021-06-18 dates and upload path2016/02 do not date photography or construction. Floodplain statement not checked against historic flood maps or sediment. DDA/portfolio area scopes unresolved.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.oxstudioinc.com/index.php/portfolio/schlenker-hardware/",
+          "sha256": "1fd225e00dd217e1c7059056ceda68da83af2aa57ed374a0e7a7007bad6731a3",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved UTF-8 decoded HTML text from normal HTTPS retrieval; not raw transport bytes; selected project prose and linked assets inspected"
+        },
+        {
+          "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Historic01.png",
+          "sha256": "e4b610ea39d65c9c9070dcb7e34b51ea6f721c65db22496b8b3f88c2547864fd",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 751402-byte image delivery, 630 by 594 pixels; visually inspected"
+        },
+        {
+          "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Historic-02-1.png",
+          "sha256": "3ae9622792ac3418a2dbb8731b07e46b6647f85d45234c0564d317a3d6fa1659",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 614564-byte image delivery, 630 by 594 pixels; visually inspected"
+        },
+        {
+          "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Final03.jpg",
+          "sha256": "2a77d4277e9d2dbffcaead55e6ef592d315dc5dd30b056041b8dee24edfd84bb",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 2308530-byte image delivery, 1800 by 1198 pixels; visually inspected"
+        },
+        {
+          "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Final05.jpg",
+          "sha256": "b91fba0fdbeb1f494c941dafe908ae7f2e25626cba5d93caa5d280b5613ea99e",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 2735103-byte image delivery, 1800 by 1439 pixels; visually inspected"
+        }
+      ]
     }
   ]
 }

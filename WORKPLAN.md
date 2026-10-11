@@ -1220,3 +1220,8 @@ S318p4/29/30visually inspected; Table4distinguishes0–5cmorganic/surface and5�
 ### 2026-10-11 — Ann Arbor contemporary construction account
 
 [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): S418 original1906 volume acquired; title, preface and printed136 visually inspected. Recent brick construction at213–215West Liberty is reported separately from business activity since1885. Exact completion year, modern fabric, Reddit photograph and deposit joins remain open. Participant-derived, selective biography limits retained. University retrieval inaccessible; ordinary alternate scan acquired, not another witness.31drafts/418sources; all twenty objectives active, no independent archive review.
+
+
+### 2026-10-11 — Ann Arbor restoration images and spatial controls
+
+[Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): S419 project portfolio and four linked photographs acquired and inspected. Old block/addition distinction now a required spatial control; capture dates and original plans remain unknown. Website timestamps not used as scene dates. Source-area discrepancy retained.31drafts/419sources; all twenty objectives active, no independent archive review.

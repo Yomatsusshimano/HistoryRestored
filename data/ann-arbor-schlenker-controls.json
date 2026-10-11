@@ -6,7 +6,8 @@
     "S378",
     "S416",
     "S417",
-    "S418"
+    "S418",
+    "S419"
   ],
   "retrievals": [
     {
@@ -26,6 +27,36 @@
       "sha256": "26f2165efb4973be42bca01fed2823ecc5fa394fc3c5ad4300a8ea01d8ac5dac",
       "retrieved_date": "2026-10-11",
       "hash_scope": "Complete 51969516-byte delivery, 832 PDF pages; PDF5/7/140 visually inspected; other pages not reviewed"
+    },
+    {
+      "url": "https://www.oxstudioinc.com/index.php/portfolio/schlenker-hardware/",
+      "sha256": "1fd225e00dd217e1c7059056ceda68da83af2aa57ed374a0e7a7007bad6731a3",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Saved UTF-8 decoded HTML text from normal HTTPS retrieval; not raw transport bytes; selected project prose and linked assets inspected"
+    },
+    {
+      "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Historic01.png",
+      "sha256": "e4b610ea39d65c9c9070dcb7e34b51ea6f721c65db22496b8b3f88c2547864fd",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 751402-byte image delivery, 630 by 594 pixels; visually inspected"
+    },
+    {
+      "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Historic-02-1.png",
+      "sha256": "3ae9622792ac3418a2dbb8731b07e46b6647f85d45234c0564d317a3d6fa1659",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 614564-byte image delivery, 630 by 594 pixels; visually inspected"
+    },
+    {
+      "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Final03.jpg",
+      "sha256": "2a77d4277e9d2dbffcaead55e6ef592d315dc5dd30b056041b8dee24edfd84bb",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 2308530-byte image delivery, 1800 by 1198 pixels; visually inspected"
+    },
+    {
+      "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Final05.jpg",
+      "sha256": "b91fba0fdbeb1f494c941dafe908ae7f2e25626cba5d93caa5d280b5613ea99e",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 2735103-byte image delivery, 1800 by 1439 pixels; visually inspected"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -50,7 +81,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Retrieve original construction and 1998 alteration records, dated side elevations and survey; authenticate parcel and fabric before causal model.",
+  "next_test": "Retrieve dated original photographs, original and alteration drawings, address crosswalk, historic flood maps and parcel survey. Distinguish rear addition from older block before using relative height as burial evidence.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -69,5 +100,54 @@
     "selective_inclusion_reported": true,
     "exact_entry_informant": null,
     "independent_construction_record": false
+  },
+  "portfolio_controls": {
+    "source_id": "S419",
+    "page_metadata_dates": {
+      "published": "2016-02-06T22:34:26+00:00",
+      "modified": "2021-06-18T17:45:13+00:00",
+      "role": "JSON-LD page timestamps, not independently authenticated construction or photograph dates"
+    },
+    "reported_area_sq_ft": {
+      "renovation": 5400,
+      "addition": 15000
+    },
+    "dda_area_comparison_reconciled": false,
+    "floodplain_status_independently_verified": false,
+    "original_as_built_plans_inspected": false,
+    "images": [
+      {
+        "asset": "Schlenker-Historic01.png",
+        "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Historic01.png",
+        "capture_date": null,
+        "original_negative_or_accession": null,
+        "observation": "Monochrome front and side view; storefront sign identifies Schlenker hardware and numbers 213/215; crenelated front parapet visible.",
+        "reddit_image_match_authenticated": false
+      },
+      {
+        "asset": "Schlenker-Historic-02-1.png",
+        "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Historic-02-1.png",
+        "capture_date": null,
+        "original_negative_or_accession": null,
+        "observation": "Monochrome front and side view with Schlenker hardware sign; panel-covered facade and straight parapet visible.",
+        "reddit_image_match_authenticated": false
+      },
+      {
+        "asset": "Schlenker-Final03.jpg",
+        "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Final03.jpg",
+        "capture_date": null,
+        "original_negative_or_accession": null,
+        "observation": "Color side view; old-looking brick block in front of taller rear masses and glass connection; fenced parking/landscape foreground.",
+        "reddit_image_match_authenticated": false
+      },
+      {
+        "asset": "Schlenker-Final05.jpg",
+        "url": "https://www.oxstudioinc.com/wp-content/uploads/2016/02/Schlenker-Final05.jpg",
+        "capture_date": null,
+        "original_negative_or_accession": null,
+        "observation": "Color front and side view; numbers 213/215 and Schlenker Building sign; brick facade and crenelated parapet visible.",
+        "reddit_image_match_authenticated": false
+      }
+    ]
   }
 }
