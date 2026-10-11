@@ -1,6 +1,6 @@
 # Ann Arbor: a candidate building and documented renovation
 
-Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S420. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
+Research draft, 2026-10-11 (America/New_York). Reddit lead R005, S378/S416–S421. No independent review. [Structured controls](../data/ann-arbor-schlenker-controls.json).
 
 The [Reddit discussion](https://www.reddit.com/r/CulturalLayer/comments/excnvf/) names two different properties: a Starbucks on West Liberty and a Schlenker building farther along the street. The selected indexed comment proposes a debris flow from the northeast. Full thread and original photographs remain unavailable. Naming a nearby building does not authenticate either pictured parcel.
 
@@ -47,3 +47,13 @@ The image shows the signed hardware store obliquely, with a panel-covered front,
 The city lookup now works through browser navigation. Its documented wildcard query `*W LIBERTY*` locates street records and an architecture-survey entry labelled January21,2022. The un-wildcarded empty result is not a records-absence finding. The survey viewer/download did not deliver a document through the checked UI, so neither its contents nor its date are adopted. Separately, three linked city survey PDFs were acquired:47-page Downtown Part1,39-page Part2 and164-page Liberty–Mosley forms. Part1 contact sheets were used only for navigation, Part2 PDF1 and Liberty–Mosley PDF1/2 were visually inspected; no Schlenker-specific measurement or chronology was extracted. These different deliveries are not authenticated copies of the lookup survey.
 
 Next retrieve the photographer's original caption/negative record, original construction and alteration sections, and a parcel-specific soil/elevation survey. The earlier side view can then test which openings and grade relationships actually changed. All twenty objectives remain active.
+
+## Captioned sequence narrows the alteration question
+
+[Jim Rees's Lost Ann Arbor gallery](https://jim.rees.org/lostaa/), S421, supplies three linked photographs captioned 1980, April 1995 and May 2001. Its credit key assigns the first to Clan Crawford and the other two to Rees. All three JPEG deliveries were acquired and visually inspected. The first is a larger view of the scene displayed by S420, so those deliveries do not independently corroborate its date.
+
+The [1980 view](https://jim.rees.org/lostaa/amem6.jpg) shows a lower side doorway and small rectangular openings. The [1995 view](https://jim.rees.org/p/p01/qt01/schlenker.jpg) already shows a largely closed lower side wall; the [2001 view](https://jim.rees.org/p/p02/ca11/0150.jpg) shows the brick facade after restoration. These are website-reported capture dates, not authenticated original negatives or contact sheets. The 1995 image is only 320 by 240 pixels; discontinuities cannot securely date or classify every infill patch.
+
+**Conditional inference:** if the caption dates and building association are correct, the 1998 renovation in S417 cannot alone account for all lower-opening changes. The work search must include alterations before April 1995. Neither the exact closure date nor construction method is established. The sequence does not measure sediment, grade change or buried floor depth; it cannot by itself establish a flood cause or rule out an earlier event. Original Reddit photographs remain unmatched.
+
+Retrieve earlier alteration permits, authenticated dated images and original side sections before attributing the present closed wall to either natural deposition or the documented 1998 project. Photograph perspective and modern landscape/parking changes prevent treating apparent heights as surveyed ground levels. Images remain linked rather than republished.

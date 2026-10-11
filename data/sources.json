@@ -7546,6 +7546,46 @@
           "hash_scope": "Complete 250 by 187 pixel display derivative, visually inspected; original JPEG retrieval returned HTTP521; 19855 bytes"
         }
       ]
+    },
+    {
+      "id": "S421",
+      "title": "Lost Ann Arbor: Schlenker Hardware captioned photograph sequence",
+      "url": "https://jim.rees.org/lostaa/",
+      "creator": "Jim Rees; 1980 photograph credited to Clan Crawford",
+      "publication_date": null,
+      "source_type": "Photographer-maintained web gallery; captioned photographs",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Selected Schlenker caption, photographer-credit key and three linked full-display JPEGs visually inspected. Caption reports1980, April1995 and May2001.",
+      "limitations": "Capture dates are website reports, not authenticated original negatives/contact sheets. 1980 image likely shares lineage with S420; not independent date corroboration. Changing perspectives, resolution, repainting and redevelopment prevent calibrated grade/brick analysis. No original construction plan, sediment or Reddit-photo join.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://jim.rees.org/lostaa/",
+          "sha256": "6181aa4b3ad48f07460945f83e8e26d8ec32f91d86008589e5554c7c2dfdc60a",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Saved UTF-8 HTML from ordinary HTTPS acquisition; selected Schlenker caption, photo links and credit key inspected; not raw transport bytes"
+        },
+        {
+          "url": "https://jim.rees.org/lostaa/amem6.jpg",
+          "sha256": "16ce8347f8e061f9a93f7b093b8b9fecf06dfd385cc851ea9b474a20683e2d51",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 167867-byte JPEG delivery, 640 by 480 pixels; visually inspected; not authenticated original negative"
+        },
+        {
+          "url": "https://jim.rees.org/p/p01/qt01/schlenker.jpg",
+          "sha256": "2a8c9fa4bd79a6515f0d607591fd073e6b35604c768626a1fe534d2b91efaf38",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 13864-byte JPEG delivery, 320 by 240 pixels; visually inspected; not authenticated original negative"
+        },
+        {
+          "url": "https://jim.rees.org/p/p02/ca11/0150.jpg",
+          "sha256": "296c285d8229c93ddcbb01bda276ada2ba41fca4c9122c9c5773a356a4b02e7a",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Complete 98212-byte JPEG delivery, 768 by 576 pixels; visually inspected; not authenticated original negative"
+        }
+      ]
     }
   ]
 }

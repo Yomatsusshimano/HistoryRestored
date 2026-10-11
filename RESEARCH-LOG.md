@@ -2056,3 +2056,8 @@ Previousa80f714publication was progress; checkout clean. Targeted collection/rev
 ### 2026-10-11 — Earlier Ann Arbor side-view target
 
 [Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): S420 uploader's1980/Clan Crawford Jr. attribution and small photo derivative acquired. Original JPEG failed; capture date stays unverified. City wildcard search resolved prior empty lookup but survey viewer/download failed. Separate survey deliveries navigated without adopting a Schlenker chronology.31drafts/420sources; all twenty objectives active, no independent archive review.
+
+
+### 2026-10-11 — Ann Arbor captioned image sequence
+
+[Schlenker controls](research/ANN-ARBOR-SCHLENKER-CONTROLS.md): S421 three captioned images inspected. Conditional1995 lower-wall closure precedes reported1998 renovation, requiring earlier alteration records. Capture-date/parcel authentication and sediment explanation remain open; repeated1980image not independent corroboration.31drafts/421sources; all twenty objectives active, no independent archive review.

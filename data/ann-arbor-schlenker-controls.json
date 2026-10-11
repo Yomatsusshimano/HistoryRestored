@@ -8,7 +8,8 @@
     "S417",
     "S418",
     "S419",
-    "S420"
+    "S420",
+    "S421"
   ],
   "retrievals": [
     {
@@ -70,6 +71,30 @@
       "sha256": "76ae44c210f091aeb39577848848eb00715bcea804389f19a62dc0bf8ba9a907",
       "retrieved_date": "2026-10-11",
       "hash_scope": "Complete 250 by 187 pixel display derivative, visually inspected; original JPEG retrieval returned HTTP521; 19855 bytes"
+    },
+    {
+      "url": "https://jim.rees.org/lostaa/",
+      "sha256": "6181aa4b3ad48f07460945f83e8e26d8ec32f91d86008589e5554c7c2dfdc60a",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Saved UTF-8 HTML from ordinary HTTPS acquisition; selected Schlenker caption, photo links and credit key inspected; not raw transport bytes"
+    },
+    {
+      "url": "https://jim.rees.org/lostaa/amem6.jpg",
+      "sha256": "16ce8347f8e061f9a93f7b093b8b9fecf06dfd385cc851ea9b474a20683e2d51",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 167867-byte JPEG delivery, 640 by 480 pixels; visually inspected; not authenticated original negative"
+    },
+    {
+      "url": "https://jim.rees.org/p/p01/qt01/schlenker.jpg",
+      "sha256": "2a8c9fa4bd79a6515f0d607591fd073e6b35604c768626a1fe534d2b91efaf38",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 13864-byte JPEG delivery, 320 by 240 pixels; visually inspected; not authenticated original negative"
+    },
+    {
+      "url": "https://jim.rees.org/p/p02/ca11/0150.jpg",
+      "sha256": "296c285d8229c93ddcbb01bda276ada2ba41fca4c9122c9c5773a356a4b02e7a",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Complete 98212-byte JPEG delivery, 768 by 576 pixels; visually inspected; not authenticated original negative"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -94,7 +119,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Retrieve dated original photographs, original and alteration drawings, address crosswalk, historic flood maps and parcel survey. Distinguish rear addition from older block before using relative height as burial evidence.",
+  "next_test": "Authenticate original photo dates/parcel join; retrieve alteration permits before April1995 and original side-elevation sections. Test infill versus grade change using measured profiles, not photograph height impressions.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -230,5 +255,52 @@
       }
     ],
     "instructions_url": "https://media-001-us.cdn.govstack.com/a2gov-002-us/media/rszbfljz/onbase-records-search-instructions-for-hdc-docs.pdf"
+  },
+  "captioned_photo_sequence": {
+    "source_id": "S421",
+    "photos": [
+      {
+        "url": "https://jim.rees.org/lostaa/amem6.jpg",
+        "caption_date": "1980",
+        "date_role": "Website reported capture date; no negative/contact-sheet verification",
+        "credited_photographer": "Clan Crawford",
+        "dimensions_pixels": [
+          640,
+          480
+        ],
+        "observation": "Oblique signed hardware-store view; white side wall contains a lower doorway and several small rectangular openings; paneled front. Visually the same scene as S420 display derivative.",
+        "ground_elevation_measured": false
+      },
+      {
+        "url": "https://jim.rees.org/p/p01/qt01/schlenker.jpg",
+        "caption_date": "1995-04",
+        "date_role": "Website reported capture date; no negative/contact-sheet verification",
+        "credited_photographer": "Jim Rees",
+        "dimensions_pixels": [
+          320,
+          240
+        ],
+        "observation": "Closer side/front view; lower side wall appears largely closed, with masonry/paint discontinuities and no visible open doorway at the earlier location; front panels remain. Low-resolution image limits infill interpretation.",
+        "ground_elevation_measured": false
+      },
+      {
+        "url": "https://jim.rees.org/p/p02/ca11/0150.jpg",
+        "caption_date": "2001-05",
+        "date_role": "Website reported capture date; no negative/contact-sheet verification",
+        "credited_photographer": "Jim Rees",
+        "dimensions_pixels": [
+          768,
+          576
+        ],
+        "observation": "Side/front view of exposed brick facade; broad closed lower side wall, upper windows, rear glass connection, railing and landscape area visible.",
+        "ground_elevation_measured": false
+      }
+    ],
+    "original_negative_verified": false,
+    "source_dependence": "S4211980 and S420 display visually show the same scene; copying direction not established; not independent witnesses.",
+    "conditional_constraint": "If caption dates and building join are correct, the largely closed lower wall is visible by April1995, before S417reported1998renovation.1998work alone cannot explain all observed lower-opening changes.",
+    "closure_date": null,
+    "closure_method_authenticated": false,
+    "sediment_cause_authenticated": false
   }
 }
