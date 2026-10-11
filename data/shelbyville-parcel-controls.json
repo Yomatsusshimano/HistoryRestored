@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C030",
+  "lead_id": "R004",
+  "outreach_performed": false,
+  "source_id": "S391",
+  "provenance_chain": [
+    "County zoning instructions explicitly link public GIS portal",
+    "Portal HTML embeds ArcGIS experience b1590059e2874d8d83a2db78a55f3ba9",
+    "Experience dataSource_17-1961fbc3026-layer-10 advertises REACH_Parcels feature layer",
+    "Advertised layer schema and address-only read query inspected"
+  ],
+  "retrievals": [
+    {
+      "url": "https://www.shelbycounty-il.gov/documents/Zoning/Zoning%20Map.pdf",
+      "sha256": "a2750d9f0f8f86b605e9568e330030910433f918e7ab11f233eb4b70b40855ae",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "One-page county instructions, visually inspected; complete delivered bytes (255102)"
+    },
+    {
+      "url": "https://shelby-il.bhamaps.com/",
+      "sha256": "2cad65f97b37b42f588e1f026eb9d87ebe4041cf8b5735856f1dfeff1f2d8756",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Public portal HTML; complete delivered bytes (1727)"
+    },
+    {
+      "url": "https://www.arcgis.com/sharing/rest/content/items/b1590059e2874d8d83a2db78a55f3ba9/data?f=json",
+      "sha256": "9076584c19ef46746a4db8af947a6ac68c2d9445edd98c732f84da921f5f12d9",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Public experience configuration; selected data-source definitions inspected; complete delivered bytes (272762)"
+    },
+    {
+      "url": "https://services6.arcgis.com/nVxsrc8f8eCUeWXM/arcgis/rest/services/REACH_Parcels/FeatureServer/0?f=pjson",
+      "sha256": "8ffdda3df529c7c298208c518559fc9cc2cbb66eea02c1be9a52e350f7334fe8",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "Layer schema; fields and editing metadata inspected; complete delivered bytes (30931)"
+    },
+    {
+      "url": "https://services6.arcgis.com/nVxsrc8f8eCUeWXM/arcgis/rest/services/REACH_Parcels/FeatureServer/0/query",
+      "sha256": "04f88b53057ebe57ceaeecfec4e0c56ccd66ac896a4299ace4d83b55d98f8875",
+      "retrieved_date": "2026-10-11",
+      "hash_scope": "POST response to exact address query recorded in ledger; complete delivered bytes (2783)"
+    }
+  ],
+  "query": {
+    "method": "POST",
+    "endpoint": "https://services6.arcgis.com/nVxsrc8f8eCUeWXM/arcgis/rest/services/REACH_Parcels/FeatureServer/0/query",
+    "parameters": {
+      "f": "json",
+      "where": "SiteAddress LIKE '%MAIN%' AND (SiteAddress LIKE '212%' OR SiteAddress LIKE '216%')",
+      "outFields": "OBJECTID,PIN_with_Dash,ParcelNumber,SiteAddress,SectionLot,RangeBlock,LegalTownship,LegalDescription",
+      "returnGeometry": "true",
+      "outSR": "4326"
+    },
+    "result_count": 2,
+    "owner_names_requested": false
+  },
+  "records": [
+    {
+      "OBJECTID": 16012,
+      "PIN_with_Dash": "2013-07-20-409-003",
+      "ParcelNumber": "2013-07-20-409-003",
+      "SiteAddress": "212 E MAIN~SHELBYVILLE, IL 62565    ",
+      "SectionLot": "7",
+      "RangeBlock": "4E",
+      "LegalTownship": "11N",
+      "LegalDescription": "S7 T11N R4E~PT LOTS 5 & 6  BLK 4 ~ORIGINAL TOWN ~28' X 100'"
+    },
+    {
+      "OBJECTID": 16013,
+      "PIN_with_Dash": "2013-07-20-409-004",
+      "ParcelNumber": "2013-07-20-409-004",
+      "SiteAddress": "216 E MAIN~SHELBYVILLE, IL 62565    ",
+      "SectionLot": "7",
+      "RangeBlock": "4E",
+      "LegalTownship": "11N",
+      "LegalDescription": "S7 T11N R4E~PT LOTS 5 & 6 BLK 4 ~ORIGINAL TOWN ~20' X 150'"
+    }
+  ],
+  "geometries": [
+    {
+      "attributes": {
+        "OBJECTID": 16012,
+        "PIN_with_Dash": "2013-07-20-409-003",
+        "ParcelNumber": "2013-07-20-409-003",
+        "SiteAddress": "212 E MAIN~SHELBYVILLE, IL 62565    ",
+        "SectionLot": "7",
+        "RangeBlock": "4E",
+        "LegalTownship": "11N",
+        "LegalDescription": "S7 T11N R4E~PT LOTS 5 & 6  BLK 4 ~ORIGINAL TOWN ~28' X 100'"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -88.7916762802644,
+              39.4063076442459
+            ],
+            [
+              -88.7917762852134,
+              39.4063068106371
+            ],
+            [
+              -88.7917769346954,
+              39.4063627873435
+            ],
+            [
+              -88.7917769858994,
+              39.4063651757245
+            ],
+            [
+              -88.7917795443013,
+              39.4065829331246
+            ],
+            [
+              -88.7916794665887,
+              39.4065836292997
+            ],
+            [
+              -88.7916769288481,
+              39.4063634835208
+            ],
+            [
+              -88.7916762802644,
+              39.4063076442459
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16013,
+        "PIN_with_Dash": "2013-07-20-409-004",
+        "ParcelNumber": "2013-07-20-409-004",
+        "SiteAddress": "216 E MAIN~SHELBYVILLE, IL 62565    ",
+        "SectionLot": "7",
+        "RangeBlock": "4E",
+        "LegalTownship": "11N",
+        "LegalDescription": "S7 T11N R4E~PT LOTS 5 & 6 BLK 4 ~ORIGINAL TOWN ~20' X 150'"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -88.7916031529087,
+              39.406159761468
+            ],
+            [
+              -88.7916745644822,
+              39.4061591784264
+            ],
+            [
+              -88.7916762802644,
+              39.4063076442459
+            ],
+            [
+              -88.7916769288481,
+              39.4063634835208
+            ],
+            [
+              -88.7916794665887,
+              39.4065836292997
+            ],
+            [
+              -88.7916079822517,
+              39.4065841033652
+            ],
+            [
+              -88.7916054804436,
+              39.4063640124212
+            ],
+            [
+              -88.7916031529087,
+              39.406159761468
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "returned_coordinate_reference": {
+    "wkid": 4326,
+    "latestWkid": 4326
+  },
+  "coordinate_reference_limit": "Returned polygon coordinates are in WKID 4326; no elevations or vertical datum requested or returned. Shape area units in service metadata must not be applied to returned longitude/latitude.",
+  "layer_last_edit_utc": "2026-10-01T23:15:46.380000+00:00",
+  "layer_last_edit_limit": "Service-wide edit timestamp is not a deed date, parcel survey date, construction date or record-specific revision date.",
+  "interpretation": {
+    "modern_addresses_linked_to_county_parcels": true,
+    "separate_adjoining_polygons": true,
+    "both_legal_descriptions": "Parts of lots 5 and 6, Block 4, Original Town",
+    "212_recorded_dimensions": "28 feet x 100 feet",
+    "216_recorded_dimensions": "20 feet x 150 feet",
+    "212_width_matches_S386_approximate_plan_width": true,
+    "width_match_is_unique_identification": false,
+    "original_deeds_or_certified_surveys_inspected": false,
+    "historic_numbering_crosswalk_acquired": false,
+    "surviving_vault_or_Reddit_photo_registered": false,
+    "deposit_age": null,
+    "grade_change": null
+  },
+  "national_register_access": {
+    "source_id": "S392",
+    "record": "76000729",
+    "retrievals": [
+      {
+        "url": "https://npgallery.nps.gov/GetAsset/80a6e09f-7529-4b9b-8e49-cbf5786b6ee7",
+        "sha256": "f0b8ff177968f4c0fb57869813efb4e45a5051cb0fd8d949a7072063d7e60dfc",
+        "retrieved_date": "2026-10-11",
+        "hash_scope": "One-page placeholder PDF; first visually inspected, second text inspected; complete delivered bytes (22151)"
+      },
+      {
+        "url": "https://npgallery.nps.gov/GetAsset/94b87ea8-d3f9-4d45-a954-c653fa7899a8/",
+        "sha256": "f0b8ff177968f4c0fb57869813efb4e45a5051cb0fd8d949a7072063d7e60dfc",
+        "retrieved_date": "2026-10-11",
+        "hash_scope": "One-page placeholder PDF; first visually inspected, second text inspected; complete delivered bytes (22151)"
+      }
+    ],
+    "nomination_acquired": false,
+    "first_placeholder_visually_inspected": true,
+    "second_placeholder_text_inspected": true,
+    "state_pdf_attempt": "https://gis.hpa.state.il.us/pdfs/200704.pdf; native TLS connection closed; no usable PDF acquired",
+    "limit": "These NPS assets did not deliver nomination content. This is not evidence that no nomination, digitized state copy or historic-building inventory exists elsewhere."
+  }
+}

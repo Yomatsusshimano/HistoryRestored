@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — County parcel identity controls
+
+County GIS links 212 and 216 E Main to separate adjoining modern parcels in Original Town Block 4; recorded 212 width agrees with the engineer estimate. Historic footprint/fabric registration, photo and grade/deposit dates remain open. NPS links deliver placeholders rather than nomination. 30 drafts / 392 sources; no independent review. See [parcel controls](research/SHELBYVILLE-PARCEL-CONTROLS.md).
+
 ### 2026-10-11 — Three-edition Shelbyville block comparison
 
 Original1886/1893/1933maps now support same-block comparison by streets/alley, with changed footprints/uses and numbering. Specific212/216parcel and unchangedfabric unresolved; storycounts/relativeheights not gradechange orsedimentdates. 30 drafts / 390 sources; no independentreview. See [map sequence](research/SHELBYVILLE-MAP-SEQUENCE.md).

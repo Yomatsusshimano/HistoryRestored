@@ -6756,6 +6756,80 @@
           "hash_scope": "Complete delivered sheet2 JPEG25percent; 322262 bytes, dimensions[1613, 1913]"
         }
       ]
+    },
+    {
+      "id": "S391",
+      "title": "Shelby County public GIS: 212 and 216 E Main parcel controls",
+      "url": "https://services6.arcgis.com/nVxsrc8f8eCUeWXM/arcgis/rest/services/REACH_Parcels/FeatureServer/0",
+      "creator": "Shelby County public GIS portal; REACH_Parcels hosted feature layer",
+      "publication_date": null,
+      "source_type": "Current public cadastral GIS records and county access instructions",
+      "access": "FULL_TEXT_PORTION",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "County instructions page visually inspected; portal HTML and selected public experience source definitions; layer fields/edit metadata; two address-query features, selected legal fields and polygon geometry. No owner-name fields requested.",
+      "limitations": "Current tax-map records, not original deeds or certified survey. Separate adjoining polygons and Block 4 legal descriptions do not date construction, identify original Reddit photograph, authenticate surviving vault fabric or resolve historic street numbering/direction. Recorded dimensions not independently surveyed; service edit date not parcel-specific history.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.shelbycounty-il.gov/documents/Zoning/Zoning%20Map.pdf",
+          "sha256": "a2750d9f0f8f86b605e9568e330030910433f918e7ab11f233eb4b70b40855ae",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "One-page county instructions, visually inspected; complete delivered bytes (255102)"
+        },
+        {
+          "url": "https://shelby-il.bhamaps.com/",
+          "sha256": "2cad65f97b37b42f588e1f026eb9d87ebe4041cf8b5735856f1dfeff1f2d8756",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Public portal HTML; complete delivered bytes (1727)"
+        },
+        {
+          "url": "https://www.arcgis.com/sharing/rest/content/items/b1590059e2874d8d83a2db78a55f3ba9/data?f=json",
+          "sha256": "9076584c19ef46746a4db8af947a6ac68c2d9445edd98c732f84da921f5f12d9",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Public experience configuration; selected data-source definitions inspected; complete delivered bytes (272762)"
+        },
+        {
+          "url": "https://services6.arcgis.com/nVxsrc8f8eCUeWXM/arcgis/rest/services/REACH_Parcels/FeatureServer/0?f=pjson",
+          "sha256": "8ffdda3df529c7c298208c518559fc9cc2cbb66eea02c1be9a52e350f7334fe8",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Layer schema; fields and editing metadata inspected; complete delivered bytes (30931)"
+        },
+        {
+          "url": "https://services6.arcgis.com/nVxsrc8f8eCUeWXM/arcgis/rest/services/REACH_Parcels/FeatureServer/0/query",
+          "sha256": "04f88b53057ebe57ceaeecfec4e0c56ccd66ac896a4299ace4d83b55d98f8875",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "POST response to exact address query recorded in ledger; complete delivered bytes (2783)"
+        }
+      ]
+    },
+    {
+      "id": "S392",
+      "title": "Shelbyville Historic District NRIS 76000729: unavailable nomination assets",
+      "url": "https://npgallery.nps.gov/AssetDetail/NRIS/76000729",
+      "creator": "National Park Service, National Register digital asset service",
+      "publication_date": null,
+      "source_type": "Institutional record and digital-access placeholder",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "Record page links and two delivered one-page PDFs; first PDF rendered and visually inspected, second extracted text inspected. Both deliver not-yet-digitized notice rather than nomination.",
+      "limitations": "No nomination or building inventory acquired from these links. Not an archival absence finding and not a general claim about digitization elsewhere. Separate state URL retrieval failed with closed transport connection.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://npgallery.nps.gov/GetAsset/80a6e09f-7529-4b9b-8e49-cbf5786b6ee7",
+          "sha256": "f0b8ff177968f4c0fb57869813efb4e45a5051cb0fd8d949a7072063d7e60dfc",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "One-page placeholder PDF; first visually inspected, second text inspected; complete delivered bytes (22151)"
+        },
+        {
+          "url": "https://npgallery.nps.gov/GetAsset/94b87ea8-d3f9-4d45-a954-c653fa7899a8/",
+          "sha256": "f0b8ff177968f4c0fb57869813efb4e45a5051cb0fd8d949a7072063d7e60dfc",
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "One-page placeholder PDF; first visually inspected, second text inspected; complete delivered bytes (22151)"
+        }
+      ]
     }
   ]
 }

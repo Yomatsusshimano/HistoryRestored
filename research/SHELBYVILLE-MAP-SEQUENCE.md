@@ -37,3 +37,7 @@ The drawings record substantial building-layout context over decades. They do no
 ## Next evidence
 
 Retrieve the original civic-address/parcel crosswalk, then map the current 212/216 buildings to the historical footprints. Use intervening maps, deeds, permits and dated photographs to distinguish replacement, extension and continued fabric. Recover grade ordinances/profiles with units and datum before comparing heights. The original Reddit photograph and remediation completion diary remain unacquired. All twenty original objectives remain active.
+
+## Modern parcel follow-up, 2026-10-11
+
+[County GIS records](SHELBYVILLE-PARCEL-CONTROLS.md) now link modern 212/216 addresses to separate adjoining parcels in Block 4. This narrows modern identity, but does not yet register individual historical footprints, resolve numbering/direction changes or authenticate unchanged fabric. Earlier statements above describe the prior inspection scope.

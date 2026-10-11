@@ -3552,12 +3552,22 @@
           "source_id": "S390",
           "locator": "February1933sheet1index; sheet3block4Mainfrontage",
           "statement": "Selectedsameblockfrontage uses1826–1810numbers andW.Main; immediatelyeastofinternalalley1814bankred/brick2stories differsfromearlier53–54yellow/frame1story depiction. Cadastral/current212/216join, unchangedfabric andheightdatum unresolved; no sedimentage orburialmeasurement."
+        },
+        {
+          "source_id": "S391",
+          "locator": "Selected address-query features OBJECTID 16012 and 16013; county-linked portal provenance",
+          "statement": "County GIS links 212 and 216 E Main to separate adjoining polygons, PINs 2013-07-20-409-003 and -004, both parts of lots 5 and 6 in Block 4, Original Town. Recorded dimensions 28 by 100 and 20 by 150 feet. The 212 width agrees with approximate engineer-report vault width; no historic-fabric, photo or grade authentication."
+        },
+        {
+          "source_id": "S392",
+          "locator": "Both advertised NRIS 76000729 asset PDFs, one page each",
+          "statement": "Delivered PDFs are not-yet-digitized notices, not the historic district nomination. Building inventory and construction chronology remain unacquired."
         }
       ],
       "physical_evidence": "No original excavation image, site visit, deposit profile or independent measurement. Inspected scans record reported structural condition, addresses and historical photograph reproductions. Follow-up S386 complete report scan and photographs inspected: consultant-reported vault and damaged arches/doorway. No authenticated original Reddit image or independent survey.",
-      "surviving_documents": "Two Reddit discussions, two-page CityWalk brochure, ILCC address report and selected pages of a 96-page public municipal correspondence copy. S386 now supplies the previously sought engineer report as seven scanned pages in a public clerk packet. S387 attributed listing and S388 original March1886 two-sheet map now inspected within recorded extent. Original May1893complete3sheet set and selectedFebruary1933sheets1–3 inspected with recorded extent.",
+      "surviving_documents": "Two Reddit discussions, two-page CityWalk brochure, ILCC address report and selected pages of a 96-page public municipal correspondence copy. S386 now supplies the previously sought engineer report as seven scanned pages in a public clerk packet. S387 attributed listing and S388 original March1886 two-sheet map now inspected within recorded extent. Original May1893complete3sheet set and selectedFebruary1933sheets1–3 inspected with recorded extent. County-linked GIS supplies two selected modern parcel records; NPS asset links deliver placeholder notices only.",
       "source_interpretation": "Reddit commenters propose buried city, designed lower access, street changes, flooding or fire. Correspondence reports damaged vault and repair planning, not historic burial cause. Civil Design describes a constructed sidewalk vault and asserts earlier grade buildup in uncited background; observed condition and historical assertion remain separate.",
-      "investigation_inference": "Threeoriginal mapeditions supportblocktopology comparison anddocument differentfootprints, uses andnumber schemes. They do not authenticate current212/216parcel, samevault/fabric, gradechange ordeposit chronology. See research/SHELBYVILLE-MAP-SEQUENCE.md.",
+      "investigation_inference": "Current county GIS links 212 and 216 E Main to separate adjoining parcels in Original Town Block 4, narrowing the earlier commercial-address lead. The recorded 212 width agrees with the engineer report estimate, a consistency check rather than unique vault identification. Historical map number/direction crosswalk, surviving fabric, original Reddit photo, street-grade change and sediment chronology remain unresolved. See research/SHELBYVILLE-PARCEL-CONTROLS.md.",
       "competing_explanations": [
         "Designed basement or sidewalk vault access",
         "Deliberate local grading or later filling",
@@ -3565,7 +3575,7 @@
         "Natural deposition or subsidence if demonstrated"
       ],
       "counterevidence": "Contemporary repair planning provides a specific local excavation context. Upper-floor fire loss does not demonstrate lower-floor burial. Different Reddit depths are unmeasured claims rather than replication. A documented engineered sidewalk-support vault and staged remediation provide a concrete local process; the historical buildup account still lacks original grade evidence.",
-      "next_test": "Acquire civic-address/parcel crosswalk, intervening maps/deeds/permits anddatedphotos toauthenticate individualbuildinghistory; recover datedgradeprofiles/ordinances withunits/datum andsame-layer dates; obtain originalRedditphoto andremediationcompletiondiary.",
+      "next_test": "Register county parcel boundaries against original maps with survey controls and a dated numbering/direction crosswalk; recover original deeds, intervening plans and dated photos to test surviving fabric. Retrieve district nomination elsewhere, dated grade profiles/ordinances with units/datum, original Reddit image and remediation completion records. Sample any claimed natural deposit with recorded context and dating controls.",
       "chronology": {
         "reported": "Sit n Sip vault messages February 2020; separate 222 Main fill planning June 2020; packet forwarding July 2020",
         "dated_object": "Correspondence headers, not deposit or vault construction",
@@ -3582,11 +3592,12 @@
         "Adopted resolution and authenticated original consultant file",
         "Execution diary and actual fill quantities",
         "Deposit profile, sample identity and age",
-        "Independent parcel authentication of212/216 paired-address listing",
         "Historic numbering/direction crosswalk",
-        "Relative-height units and datum"
+        "Relative-height units and datum",
+        "Original deeds/certified surveys and historic footprint registration",
+        "Historic district nomination/building inventory"
       ],
-      "dependence": "Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct. S385 and S386 repeat the same February emails; not independent witness replication. Consultant structural observations do not independently authenticate its historical background narrative. Listing reposts share MLSdescription; map story/relativeheight symbols are not independentchronometers. Three Sanborn editions sharepublisherlineage; independently surveyed height/footprintcontrols notestablished."
+      "dependence": "Reposted claims not independent confirmation. Brochure captions not original historical records; correspondence mirrors not new witnesses. 200, 216 and 222 Main addresses remain distinct. S385 and S386 repeat the same February emails; not independent witness replication. Consultant structural observations do not independently authenticate its historical background narrative. Listing reposts share MLSdescription; map story/relativeheight symbols are not independentchronometers. Three Sanborn editions sharepublisherlineage; independently surveyed height/footprintcontrols notestablished. County GIS instructions, embedded experience and hosted layer form one delivery chain, not three independent parcel witnesses. Approximate width agreement does not prove identical fabric. NPS placeholder is an access limit only."
     }
   ]
 }

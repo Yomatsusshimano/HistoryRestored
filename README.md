@@ -184,3 +184,5 @@ Vault follow-up: [recovered Shelbyville engineer report](research/SHELBYVILLE-VA
 Historic site controls: [Shelbyville paired address and original 1886 map](research/SHELBYVILLE-ADDRESS-MAP-CONTROLS.md).
 
 Map sequence: [Shelbyville1886/1893/1933original block comparison](research/SHELBYVILLE-MAP-SEQUENCE.md).
+
+County records: [Shelbyville modern parcel controls](research/SHELBYVILLE-PARCEL-CONTROLS.md).
