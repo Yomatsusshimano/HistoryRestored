@@ -133,7 +133,7 @@
       "place": "Roopkund,Himalayas,as interpreted from lake description",
       "source_id": "S379",
       "claim": "High-altitude skeletal assemblage suggested as catastrophe casualties",
-      "status": "SAMPLE_DATES_INSPECTED_MORTALITY_TESTED_DEPOSITION_OPEN",
+      "status": "DATES_AND_SELECTED_TRAUMA_INSPECTED_SPECIMEN_CAUSE_JOINS_OPEN",
       "specimen_ids": [
         "I2868",
         "I2869",
@@ -177,7 +177,8 @@
         "Original linked media and exact site association",
         "Collection and depositional sequence",
         "Laboratory/recalibration/reservoir audit",
-        "Specimen-specific mortality causes"
+        "Specimen-specific mortality causes",
+        "Trauma accession IDs and authenticated skull-to-dated-bone associations"
       ],
       "case_id": "C031",
       "followup_source_ids": [

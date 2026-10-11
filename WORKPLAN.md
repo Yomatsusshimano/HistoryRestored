@@ -1,5 +1,9 @@
 # Full objective and evidence required
 
+### 2026-10-11 — Roopkund injury timing and association controls
+
+Expanded S408 trauma inspection distinguishes possible near-death injuries from interpreted later damage. Hail remains a hypothesis; catalog-to-dated-sample joins are unestablished. Same31drafts/409sources; no independent archive review. See [trauma controls](research/ROOPKUND-TRAUMA-CONTROLS.md).
+
 ### 2026-10-11 — Roopkund mortality and deposition distinction
 
 Roopkund published sample dates transcribed: 37dated rows, eight missing dating rows. Permissive outer-bound comparison requires937years across all dated individuals and125years within A; common0/1/10/100year mortality windows fail. Later redistribution remains undated. 31drafts/409sources; no independent archive review. See [sample audit](research/ROOPKUND-DATING-AUDIT.md).

@@ -202,3 +202,5 @@ Repair-estimate follow-up: [Shelbyville planned fill quantities and approval lim
 Contemporary reporting follow-up: [Shelbyville reported vault filling and historical-grade limits](research/SHELBYVILLE-REPORTED-VAULT-FILLING.md).
 
 Reddit skeletal-assemblage follow-up: [Roopkund sample dates and deposition limits](research/ROOPKUND-DATING-AUDIT.md).
+
+Roopkund cause follow-up: [injury timing and missing specimen joins](research/ROOPKUND-TRAUMA-CONTROLS.md).

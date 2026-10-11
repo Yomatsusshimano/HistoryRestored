@@ -7259,15 +7259,15 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "PDF2/5/6 visually inspected: calibration distributions, edited report provenance and separate prior five-sample dating table.",
-      "limitations": "Other34pages not visually inspected. Earlier identifiers not joined to genetic sample set; trauma analysis not inspected or assigned to dated individuals.",
+      "inspected": "PDF2/5/6 and new PDF7/9/11/12 visually inspected: calibration figure, report lineage, prior dates, incomplete skeletal material, explicit morphology/DNA measurement gap and trauma distinction. PDF8/10 text navigation only.",
+      "limitations": "Selected pages only. Original specimen/photographic/curatorial records and unedited report unacquired. Trauma passage supplies no catalog-to-dated-sample join. Near-death impact and later damage interpretations do not uniquely identify cause or date redistribution. Tentative morphology/genetic association not authenticated.",
       "review_status": "ARCHIVE_ANALYSIS_NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
         {
           "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-019-11357-9/MediaObjects/41467_2019_11357_MOESM1_ESM.pdf",
           "sha256": "156aef8a1350d9b326a303d61a227aecc5a6ad5a5d88d9774c83716099aa1985",
           "retrieved_date": "2026-10-11",
-          "hash_scope": "37-page supplement; PDF2/5/6 visually inspected; complete delivered 2602158 bytes"
+          "hash_scope": "37-page supplement; PDF2/5/6/7/9/11/12 visually inspected; PDF8/10 text navigation only; complete delivered 2602158 bytes"
         }
       ]
     },

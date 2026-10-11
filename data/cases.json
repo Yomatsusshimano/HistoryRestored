@@ -3697,12 +3697,17 @@
           "source_id": "S409",
           "locator": "Sheet1 rows5–41, A:T; missing dating rows42–49",
           "statement": "37 dated rows: 23 A, 13 B, one C. Published outer intervals fail common 0/1/10/100-year mortality windows for all rows and A alone; B/C envelope overlap not proof of simultaneity."
+        },
+        {
+          "source_id": "S408",
+          "locator": "PDF7/9/11/12; report lines88–96,150–153,211–236",
+          "statement": "Supplement distinguishes interpreted later cranial cracks from three possible near-death compression-fracture cases. Hail remains a hypothesis; no catalog-to-dated-sample join supplied in inspected passage. Morphology/genetic association expressly tentative."
         }
       ],
       "physical_evidence": "Published bone dating measurements only; no specimen access, site visit, original excavation logs or measured sediment profile inspected.",
-      "surviving_documents": "Selected original article HTML, selected supplement pages and published date workbook; sample ledger preserves rows, materials and missing fields.",
+      "surviving_documents": "Selected original article HTML, selected supplement pages and published date workbook; sample ledger preserves rows, materials and missing fields. Expanded original supplement visual inspection and trauma/association ledger recorded.",
       "source_interpretation": "Authors interpret multiple mortality/deposition episodes and discuss possible origins; causal and identity accounts remain incomplete.",
-      "investigation_inference": "Retrospective outer-bound arithmetic challenges simultaneous mortality within selected durations. It cannot date later common redistribution, authenticate the Reddit media or assign a natural mud layer. Mortality interpretation assumes bone-collagen dates approximate death; tissue turnover and systematic offsets not modeled.",
+      "investigation_inference": "Retrospective outer-bound arithmetic challenges simultaneous mortality within selected durations. It cannot date later common redistribution, authenticate the Reddit media or assign a natural mud layer. Mortality interpretation assumes bone-collagen dates approximate death; tissue turnover and systematic offsets not modeled. Trauma timing cannot be assigned to a dated genetic individual without element associations; hail and later landslide damage remain causal hypotheses requiring separate tests.",
       "competing_explanations": [
         "Multiple local deaths across centuries",
         "Catastrophic mortality in one subgroup",
@@ -3710,7 +3715,7 @@
         "Dating biases requiring specimen-specific testing"
       ],
       "counterevidence": "All37 outer intervals need at least937years of permissive span; A alone125years. Contemporary subgroup overlap does not establish a shared cause. No dated mud layer, global link or rewriting mechanism.",
-      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match.",
+      "next_test": "Recover full calibrated components and lab identities; audit collagen quality and reservoir effects, reproduce declared calibration, recover collection/stratigraphic records and independently date any proposed redistribution unit. Authenticate Reddit-linked media before asserting site match. Recover accession IDs, original trauma images/descriptions and authenticated skull-to-sampled-bone associations before transferring ages or ancestry labels.",
       "chronology": {
         "reported": "Published 2019 calibrated CE envelopes for37bone samples",
         "dated_object": "Bone collagen, not sediment deposition",

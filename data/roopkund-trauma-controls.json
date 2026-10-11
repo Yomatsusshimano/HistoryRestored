@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-11",
+  "status": "SOURCED_DRAFT",
+  "case_id": "C031",
+  "lead_id": "R006",
+  "source_id": "S408",
+  "new_visual_pages": [
+    7,
+    9,
+    11,
+    12
+  ],
+  "text_navigation_only": [
+    8,
+    10
+  ],
+  "observations": [
+    {
+      "locator": "PDF7, lines88–96",
+      "role": "SOURCE_REPORTED_COLLECTION_CONDITION",
+      "finding": "Incomplete and mostly disarticulated cranial material",
+      "original_specimens_inspected": false
+    },
+    {
+      "locator": "PDF9, lines150–153",
+      "role": "SOURCE_EXPLICIT_ASSOCIATION_LIMIT",
+      "finding": "No long-bone lengths on DNA-tested individuals; morphology/genetic association tentative",
+      "authenticated_genetic_join": null
+    },
+    {
+      "locator": "PDF11, lines211–215",
+      "role": "SOURCE_INTERPRETATION_OF_LATER_DAMAGE",
+      "finding": "Sharp cranial cracks interpreted as postmortem; landslide movement proposed",
+      "movement_date": null,
+      "deposit_unit": null
+    },
+    {
+      "locator": "PDF11, lines217–223",
+      "role": "SOURCE_INTERPRETATION_OF_NEAR_DEATH_INJURIES",
+      "reported_cases": 3,
+      "catalog_ids": null,
+      "dated_sample_join": null,
+      "genetic_group_join": null,
+      "unique_cause": null
+    },
+    {
+      "locator": "PDF11–12, lines225–236",
+      "role": "CAUSAL_HYPOTHESIS",
+      "finding": "Hail proposed for some deaths, not sole history of all remains",
+      "storm_date": null,
+      "diagnostic_causal_validation": null
+    }
+  ],
+  "limits": [
+    "Edited retrospective report, not original complete collection documentation",
+    "Absent join in inspected passages not proof of absent curatorial records",
+    "Near-death injury not an exact mortality timestamp",
+    "No independently dated sediment or redistribution episode"
+  ],
+  "next_records": [
+    "Catalog identifiers and original trauma photographs",
+    "Original collection accession and element-association records",
+    "Direct injury-element dating or authenticated joins",
+    "Independent specialist diagnostic assessment",
+    "In-place deposit and movement chronology"
+  ]
+}
