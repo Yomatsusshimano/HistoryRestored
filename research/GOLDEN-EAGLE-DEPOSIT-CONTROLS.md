@@ -31,3 +31,5 @@ Two printed conversions conflict: Trench E overburden is1-2 ft but parenthetical
 The next discriminating audit is the original sections 9/14/16, associated artifact marks and dating chapters, and independent sediment characterization. Flood silt may coexist with later street raising, refuse disposal and demolition fill. This site does not establish global synchrony, an inherited civilization or a fabricated chronology.
 
 31 core drafts / 460 sources, eight Reddit leads. Source count unchanged: this is further inspection of S459. All twenty objectives remain active.
+
+Follow-up: [section audit](GOLDEN-EAGLE-SECTION-CONTROLS.md) inspects Sections14/16 and records Section9 omitted from both digital downloads. Relative relationships do not supply an independent flood date.

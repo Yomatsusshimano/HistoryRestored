@@ -119,9 +119,49 @@
   ],
   "limits": [
     "Selected prose and plates inspected; full report not reviewed",
-    "Section drawings9/14/16 and artifact reference chapters not audited",
+    "Sections14/16 inspected; Section9 omitted in both digital editions; Plan1 and artifact reference chapters not audited",
     "Natural silt, street fill, refuse and demolition processes cannot be pooled",
     "Temporary benchmark is not a verified vertical datum",
-    "No Reddit media join, global event date or independent sediment validation"
+    "No Reddit media join, global event date or independent sediment validation",
+    "Section drawings and prose share one excavation source; no independent replication"
+  ],
+  "sections": [
+    {
+      "section": 9,
+      "locator": "PDF123 in both downloads; indexed printed91",
+      "status": "OMITTED_MAP_NOTICE",
+      "layer143_contact_verified_from_drawing": false
+    },
+    {
+      "section": 14,
+      "locator": "Printed98/PDF130 compressed edition",
+      "status": "SCAN_INSPECTED",
+      "visible_layer_ids": [
+        17,
+        69
+      ],
+      "layer70_labeled": false,
+      "observation": "Wood and iron pipe in trench; prose crosscut through70 not directly established by this drawing"
+    },
+    {
+      "section": 16,
+      "locator": "Printed100/PDF132 compressed edition",
+      "status": "SCAN_INSPECTED",
+      "visible_layer_ids": [
+        70,
+        90,
+        84,
+        85,
+        81,
+        83,
+        44,
+        56,
+        69
+      ],
+      "datum_label": "13ft0in",
+      "datum_tie_to_recognized_vertical_reference": null,
+      "observation": "Layer70 at south edge beside intrusive feature;90 below later pit fills84/85;81/83 above redwood; separate intrusive boundary",
+      "intrusive_feature_date": null
+    }
   ]
 }

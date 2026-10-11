@@ -2206,3 +2206,8 @@ R008 adds two indexed discussions, a selected-page municipal record and an1871gu
 ### 2026-10-11 — Golden Eagle deposit and recovery controls
 
 [Deposit audit](research/GOLDEN-EAGLE-DEPOSIT-CONTROLS.md) further inspects S459: tentative flood silt distinguished from demolition/imported fill and winter silt in a later pit. Artifact/document date dependencies, Feature8mixed bags, Feature15mesh change and two printed unit conflicts preserved. No independent sediment age/datum or Reddit parcel join. Same31core drafts/460sources, eight Reddit leads; all twenty objectives active.
+
+
+### 2026-10-11 — Golden Eagle section and digital-edition controls
+
+[Section audit](research/GOLDEN-EAGLE-SECTION-CONTROLS.md): Sections14/16 visually inspected; Section9 omitted from both compressed and larger downloads. Section16 local13ft0in datum not tied to a recognized reference. Relative pit/fill relationships preserved, no independent sediment age, Plan1 crosswalk or Reddit parcel join. Same31core drafts/460sources; all twenty objectives active.
