@@ -7714,6 +7714,59 @@
           "ocr_correction": "PDF2 OCR/search excerpt reads SEPT13; rendered header and PDF1 session heading read September12"
         }
       ]
+    },
+    {
+      "id": "S427",
+      "title": "Ann Arbor March21,1904 proceedings: engineering annual report of1903 Liberty paving",
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19040321.pdf",
+      "creator": "Ann Arbor Common Council; Engineering Department annual report; scan hosted by Ann Arbor District Library",
+      "publication_date": null,
+      "record_event_date": "1904-03-21",
+      "embedded_report_date": "1904-01-21",
+      "source_type": "Printed municipal proceedings with embedded engineering report",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1/printed209 session date and motion to print annual reports in minutes; PDF6/printed217 report date, Ashley-to-State paving segment and summary year1903 visually inspected.",
+      "limitations": "Reported paving segment is not an authenticated match to September1904 sidewalk complaint or Schlenker parcel. No grade increment, affected cellar-window address, natural sediment thickness or independently measured construction completion. Pavement area is not sediment volume. Engineering reporting and council record share municipal lineage.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19040321.pdf",
+          "sha256": "53fec82402f8ed6f66c589f4ce9ae9a57622f1f30e3ae9960b9f0ca544ce9041",
+          "retrieved_date": "2026-10-11",
+          "bytes": 8564667,
+          "pages": 18,
+          "hash_scope": "Complete delivery; PDF1/6, printed209/217, visually inspected; other pages not fully reviewed",
+          "access_note": "Web-reader502; normal direct public HTTPS download succeeded"
+        }
+      ]
+    },
+    {
+      "id": "S428",
+      "title": "Ann Arbor Democrat, August19,1898: First Street culvert at Schlenker property",
+      "url": "https://aadl.org/files/documents/pdf/aa_democrat/aa_democrat_18980819.pdf",
+      "creator": "The Ann Arbor Democrat; unsigned council report; library-hosted scan",
+      "publication_date": "1898-08-19",
+      "record_event_date": null,
+      "source_type": "Contemporary newspaper account of council proceedings",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF1 masthead issue date; PDF8/printed8 No Excitement council-report column, including First Street culvert extension recommendation, visually inspected.",
+      "limitations": "Article reports adopted recommendation, not executed work. Schlenker property lacks first name, number, boundary or identification with surviving brick fabric. Last Monday is relative meeting wording, not a separately verified council date. Liberty-alley tiling and First Street culvert are separate items. Similar PDF16 extracted article text is not an independent witness; full packet duplication not audited. No culvert dimensions, sediment profile or original opening date.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://aadl.org/files/documents/pdf/aa_democrat/aa_democrat_18980819.pdf",
+          "sha256": "4412e1d43d34844d5807a1fbcbfa2ea484639803ef8dc7195a84d4c0489e46c3",
+          "retrieved_date": "2026-10-11",
+          "bytes": 16140421,
+          "pages": 16,
+          "hash_scope": "Complete delivery; PDF1 masthead and PDF8 printed8 council column visually inspected; PDF16 similar article text located by extraction only",
+          "parser_note": "Text parser recovered despite PDF object-offset warnings; selected claims verified visually in rendered scan"
+        }
+      ]
     }
   ]
 }

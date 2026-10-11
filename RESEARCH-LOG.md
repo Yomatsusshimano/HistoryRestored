@@ -2086,3 +2086,8 @@ S425: acquired and hashed16-page image-only project packet through city large-fo
 ### 2026-10-11 — Liberty1904 grade control and Schlenker1999 revisions
 
 S426 council scan PDF1/2 visually confirms September12,1904 resolution concerning raised Liberty south-side sidewalks and cellar-window protection; affected parcels, amounts and execution remain unverified. [Grade control](research/LIBERTY-1904-GRADE-CONTROL.md) preserves these limits and OCR correction. S425 additional PDF10/15 inspections establish June1999 revision correspondence and January1999 bidding sewer profiles, distinct from archive index1998 and natural stratigraphy.31drafts/426sources; all twenty objectives active, no independent scientific review.
+
+
+### 2026-10-11 — Earlier Liberty paving and First Street drainage controls
+
+S427 March1904 council scan PDF1/6 reports1903 Liberty paving Ashley-to-State; S428 August1898 newspaper PDF1/8 reports adopted First Street culvert-extension recommendation at unidentified Schlenker property. [Public-works controls](research/LIBERTY-1904-GRADE-CONTROL.md) retain unverified project/parcel joins, execution and grade measurements. Deliveries hashed and selected scans inspected;31drafts/428sources, no independent scientific review, all twenty objectives active.

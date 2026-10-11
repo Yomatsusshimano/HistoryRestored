@@ -14,7 +14,9 @@
     "S423",
     "S424",
     "S425",
-    "S426"
+    "S426",
+    "S427",
+    "S428"
   ],
   "retrievals": [
     {
@@ -140,6 +142,24 @@
       "hash_scope": "Complete delivered scan; PDF1/2 (printed83/84) visually inspected",
       "access_note": "Web reader returned502; direct public HTTPS download succeeded normally",
       "ocr_correction": "PDF2 OCR/search excerpt reads SEPT13; rendered header and PDF1 session heading read September12"
+    },
+    {
+      "url": "https://aadl.org/sites/default/files/docfiles/Minutes_19040321.pdf",
+      "sha256": "53fec82402f8ed6f66c589f4ce9ae9a57622f1f30e3ae9960b9f0ca544ce9041",
+      "retrieved_date": "2026-10-11",
+      "bytes": 8564667,
+      "pages": 18,
+      "hash_scope": "Complete delivery; PDF1/6, printed209/217, visually inspected; other pages not fully reviewed",
+      "access_note": "Web-reader502; normal direct public HTTPS download succeeded"
+    },
+    {
+      "url": "https://aadl.org/files/documents/pdf/aa_democrat/aa_democrat_18980819.pdf",
+      "sha256": "4412e1d43d34844d5807a1fbcbfa2ea484639803ef8dc7195a84d4c0489e46c3",
+      "retrieved_date": "2026-10-11",
+      "bytes": 16140421,
+      "pages": 16,
+      "hash_scope": "Complete delivery; PDF1 masthead and PDF8 printed8 council column visually inspected; PDF16 similar article text located by extraction only",
+      "parser_note": "Text parser recovered despite PDF object-offset warnings; selected claims verified visually in rendered scan"
     }
   ],
   "candidate_address": "213–215 W. Liberty Street",
@@ -164,7 +184,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Locate1904 Liberty grade plans, affected parcels, reimbursement claims and completed work records; independently link Schlenker and original Reddit parcel. Obtain preApril1995 alterations and architectural/as-built elevations. Audit remaining drawing dates, route joins and datum before any floor/grade or sediment comparison.",
+  "next_test": "Locate1904 sidewalk-grade segment/affected-owner claims and compare with1903 Ashley-to-State paving without assuming a project join. Retrieve1898 council original and culvert plans/property boundaries;1902 Liberty/First culvert minutes are an uninspected search target. Preserve unknown grades, execution and original Reddit parcel identity.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -514,5 +534,33 @@
     "protective_wall_execution_verified": false,
     "schlenker_parcel_join_verified": false,
     "original_reddit_image_join_verified": false
+  },
+  "earlier_public_works_controls": {
+    "paving": {
+      "source_id": "S427",
+      "locator": "PDF6/printed217",
+      "report_date": "1904-01-21",
+      "council_date": "1904-03-21",
+      "reported_paving_year": 1903,
+      "segment": "Liberty Street, Ashley Street to State Street",
+      "contractor": "Lennane Bros.",
+      "reported_pavement_area_square_yards": 9139.92,
+      "area_role": "Pavement area; not deposit volume or grade change",
+      "same_project_as_september1904_complaint_verified": false,
+      "schlenker_parcel_match_verified": false
+    },
+    "culvert": {
+      "source_id": "S428",
+      "locator": "PDF8/printed8; No Excitement council column",
+      "issue_date": "1898-08-19",
+      "meeting_date": null,
+      "meeting_date_wording": "Last Monday evening",
+      "location_wording": "First Street in front of Schlenker property",
+      "reported_action": "Streets committee recommended culvert extension; article reports adoption",
+      "exact_address": null,
+      "execution_verified": false,
+      "surviving_building_match_verified": false,
+      "independence": "Newspaper report of municipal action, not an independent engineering measurement"
+    }
   }
 }
