@@ -22,7 +22,8 @@
     "S431",
     "S432",
     "S433",
-    "S434"
+    "S434",
+    "S435"
   ],
   "retrievals": [
     {
@@ -248,7 +249,7 @@
   "deposit_date": null,
   "ground_elevation_change": null,
   "dependence": "Possible shared municipal lineage; not independent age/deposit confirmation",
-  "next_test": "Acquire original Sanborn sheets independently and municipal storm-sewer construction/as-built records to test the1908–1916map-based rerouting inference. Crosswalk historical factory footprint to modern parcel; inspect site-specific borehole logs or excavation sections with sample locations and depositional context. Keep415WestWashington soil assessments separate from WestHuron factory and WestLiberty Schlenker fabric.",
+  "next_test": "Locate original W-series boring logs in1990AppendixXI and site plan to resolve report property wording and characterize each interval. Distinguish fill interpretation from natural flood deposits; obtain dating/material evidence before event attribution. Keep Washington,Huron andLiberty properties separate; continue drainage construction records.",
   "contemporary_construction_account": {
     "source_id": "S418",
     "locator": "printed136/PDF140",
@@ -762,5 +763,28 @@
     "sediment_profile": null,
     "mud_thickness": null,
     "regional_elevation_change": null
+  },
+  "west_washington_soil_control": {
+    "source_id": "S435",
+    "locator": "PDF162/printed30; continuation PDF163/printed31",
+    "report_date": "1990-02-26",
+    "transmittal_date": "1990-03-05",
+    "section_heading": "West Washington St. Offices and Maintenance",
+    "property_wording_inconsistency": "Opening sentence refers to NorthMainStreetMunicipalGarage; geological heading namesWashingtonStreet. Original logs/site plan required.",
+    "reported_boring_count": 4,
+    "reported_total_boring_depth_feet": 20.5,
+    "reported_upper_heterogeneous_interval_feet": [
+      5,
+      10
+    ],
+    "interpretation": "Report suggests heterogeneous upper material is fill; source unknown",
+    "individual_boring_logs_inspected": false,
+    "boring_coordinates": null,
+    "fill_age": null,
+    "fill_source": null,
+    "natural_flood_layer_verified": false,
+    "mud_thickness": null,
+    "factory_property_match_verified": false,
+    "schlenker_property_match_verified": false
   }
 }

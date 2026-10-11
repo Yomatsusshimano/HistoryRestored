@@ -7910,7 +7910,7 @@
       "access": "SCAN_INSPECTED",
       "accessed_date": "2026-10-11",
       "local_copy": null,
-      "inspected": "PDF1/2 report covers; PDF13/printed8 historical map interpretation; PDF33/printed28 physical-setting interpretation; PDF92 Aug1899 Volume1Sheet3, PDF93 Dec1908 Volume1Sheet6, PDF94 June1916 Volume1Sheet10, visually inspected.",
+      "inspected": "PDF1/2 report covers; PDF13/printed8 historical map interpretation; PDF33/printed28 physical-setting interpretation; PDF92 Aug1899 Volume1Sheet3, PDF93 Dec1908 Volume1Sheet6, PDF94 June1916 Volume1Sheet10, visually inspected. Additional appendix review: PDF132 and156–163 inspected as S435; no independent witness created by reproducing the original report.",
       "limitations": "793-page compilation only selectively reviewed. Reproduced maps are derivative copies of historical sheets, not independent witnesses or surveyed floor/soil profiles. Maps place named rug factory on south WestHuron beside depicted creek in1899/1908;1916 lacks same surface-channel depiction. Report infers underground rerouting1908–1916; construction/execution date not authenticated. Report subject415WestWashington differs from rug factory; urban-land classification/embankment descriptions cannot be transferred to factory deposit depth. No sampled1902sediment, ground-level change, exact flood-day occupancy, Schlenker fabric match or original Reddit image match established. Restricted/commercial reproduction packet linked and hashed rather than publicly mirrored.",
       "review_status": "NOT_INDEPENDENTLY_REVIEWED",
       "retrievals": [
@@ -7921,6 +7921,32 @@
           "pages": 793,
           "retrieved_date": "2026-10-11",
           "hash_scope": "Complete delivery; PDF1/2 covers, PDF13/printed8, PDF33/printed28 and PDF92/93/94 map reproductions visually inspected. Other pages not fully reviewed.",
+          "access_note": "Web reader rejected file size; normal public HTTPS download succeeded. Renderer font warnings occurred; selected pages visually checked."
+        }
+      ]
+    },
+    {
+      "id": "S435",
+      "title": "ENCOTEC1990 environmental assessment: West Washington heterogeneous upper soils interpreted as fill",
+      "url": "https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf",
+      "creator": "Environmental Control Technology Corporation; Douglas L. Humbert transmittal; reproduced in Tetra Tech2013appendixG",
+      "publication_date": "1990-02-26",
+      "transmittal_date": "1990-03-05",
+      "source_type": "Original environmental investigation report reproduced within later public compilation",
+      "access": "SCAN_INSPECTED",
+      "accessed_date": "2026-10-11",
+      "local_copy": null,
+      "inspected": "PDF132 signed March5transmittal names Hawkins,415WestWashington and MunicipalGarage. PDF156–163 original printed24–31 visually inspected; PDF162/printed30 WashingtonStreet geological evaluation describes four borings and upper5–10feet heterogeneous material suggesting fill; source unknown. PDF163/printed31 continuation.",
+      "limitations": "Same delivered file as S434, not new independent retrieval. Report paragraphs under WestWashington heading also use NorthMain/MunicipalGarage wording: retain inconsistency pending individual W-series logs/site plan. Report-level5–10feet is not an adopted sample-specific mud thickness. Four borings and total20.5feet are reported; individual logs and coordinates not inspected. Fill source/age unknown; no1902event attribution. Washington property is not WestHuron factory or WestLibertySchlenker parcel. Selected chemistry text inspected but no current safety conclusion or sample dataset adopted.",
+      "review_status": "NOT_INDEPENDENTLY_REVIEWED",
+      "retrievals": [
+        {
+          "url": "https://www.a2gov.org/media/xw5f1typ/415-washington_phase-i_2013.pdf",
+          "bytes": 65500138,
+          "sha256": "a78c7f660fcbc4375441b4e116cbaf22dc95c1b25662cf2730ba95d92058fccd",
+          "pages": 793,
+          "retrieved_date": "2026-10-11",
+          "hash_scope": "Same complete793-page2013packet as S434; original1990assessment transmittal PDF132 and selected report PDF156–163/printed24–31 visually inspected. PDF131–155 contact sheet used for navigation only; full appendix/logs not reviewed.",
           "access_note": "Web reader rejected file size; normal public HTTPS download succeeded. Renderer font warnings occurred; selected pages visually checked."
         }
       ]
