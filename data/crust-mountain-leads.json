@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-30",
+  "status": "DISCOVERY_SHORTLIST",
+  "selection": "Purposive controls and landscape candidates; no prevalence estimate or preregistration",
+  "proposed_common_event_date": null,
+  "proposed_common_event_footprint": null,
+  "independently_reviewed": false,
+  "common_event_established": false,
+  "leads": [
+    {
+      "id": "C01",
+      "place": "Alaska1964",
+      "source_ids": [
+        "S461"
+      ],
+      "status": "LEAD",
+      "assessment": "Observed regional earthquake deformation",
+      "next_action": "Recover original survey stations/map",
+      "independently_accepted_event_date": null
+    },
+    {
+      "id": "C02",
+      "place": "Reelfoot/New Madrid1811-1812",
+      "source_ids": [
+        "S462"
+      ],
+      "status": "LEAD",
+      "assessment": "Historical lake/drainage change; local mechanism unresolved",
+      "next_action": "Retrieve original sediment/outlet/tree records",
+      "independently_accepted_event_date": null
+    },
+    {
+      "id": "C03",
+      "place": "Cullasaja southern Appalachians",
+      "source_ids": [
+        "S463"
+      ],
+      "status": "LEAD",
+      "assessment": "Landscape disequilibrium; modeled timing millions of years",
+      "next_action": "Reproduce erosion and volume model",
+      "independently_accepted_event_date": null
+    },
+    {
+      "id": "C04",
+      "place": "Sparta2020",
+      "source_ids": [
+        "S464"
+      ],
+      "status": "LEAD",
+      "assessment": "Observed local intraplate rupture",
+      "next_action": "Acquire trench logs/terrain surveys",
+      "independently_accepted_event_date": null
+    },
+    {
+      "id": "C05",
+      "place": "Lake Bonneville",
+      "source_ids": [
+        "S465",
+        "S466"
+      ],
+      "status": "LEAD",
+      "assessment": "Warped former shorelines; rebound alternative",
+      "next_action": "Acquire dated shoreline points and compare geometries",
+      "independently_accepted_event_date": null
+    },
+    {
+      "id": "C06",
+      "place": "Bidahochi/Grand Canyon",
+      "source_ids": [
+        "S467"
+      ],
+      "status": "LEAD",
+      "assessment": "Proposed lake spillover; no demonstrated abrupt tilt",
+      "next_action": "Audit sediment/ash chronology and outlet elevation",
+      "independently_accepted_event_date": null
+    }
+  ]
+}

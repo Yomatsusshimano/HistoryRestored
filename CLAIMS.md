@@ -75,3 +75,8 @@ The [erection records](research/EIFFEL-VERTICALITY-REPORT.md) challenge H4-I thr
 ## H5/H7 operational comparison, 2026-10-08
 
 The [invention discrimination assessment](research/INVENTION-DISCRIMINATION.md) separates H5-R (recovered earlier-civilization device), H5-D (recorded workshop development), H5-C (sole-contributor attribution) and H7-T (ownership/retelling transmission). These retrospective comparison versions are not verbatim claims attributed to the project owner or an exhaustive set of histories. Recorded development and partial borrowing can coexist. The selected lamp case supports documented development and multiple named contributions; an ancient antecedent and recovery route remain unestablished. Original ownership transactions and a specific credit-change chain are still required before inferring a rewriting mechanism.
+
+
+## Rapid deformation and drainage branch,2026-10-30
+
+The project owner proposes crustal warping, fault displacement and tilting as an alternative to a universal mud blanket. [Crust/mountain shortlist](research/CRUST-MOUNTAIN-ANOMALIES.md) separates sudden local deformation, long-term relief, lake-load rebound and drainage integration. Date/duration/footprint remain unspecified; no common event established. H1-H7 tests and all twenty objectives remain intact. This discovery pass is not preregistration.

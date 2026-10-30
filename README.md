@@ -8,6 +8,8 @@ The event date is unknown. User requested comparison of candidate periods and au
 
 ## Start here
 
+- [Crust, mountains and drainage](research/CRUST-MOUNTAIN-ANOMALIES.md): six targets testing rapid deformation against local faulting, rebound and longer landscape development.
+
 - [Reddit mud-flood leads](research/REDDIT-MUD-FLOOD-LEADS.md): eight retrieval targets, archaeological, renovation, street-grade and modern flood comparison controls.
 
 - [Full printed 1812 institutional program](research/ARCHIVES-DUVERGIER-1812-PROGRAM.md): eight articles, separate project funds, edition and wording controls.

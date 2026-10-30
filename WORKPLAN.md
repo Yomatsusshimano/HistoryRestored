@@ -1395,3 +1395,8 @@ R008 adds two indexed discussions, a selected-page municipal record and an1871gu
 ### 2026-10-11 — Golden Eagle bottle-date constraint challenged
 
 [Bottle audit](research/GOLDEN-EAGLE-BOTTLE-DATE-AUDIT.md): glassware table/prose/plate identify complete D.S.&Co.AreaIX candidate dated1861-1864, but no Layer56 accession join. Partnership end year does not alone justify1864TPQ; reported assertion retained, accepted independent bound null. Hostetter Feature15 bottle not substituted. WallG1857 basis unresolved; third unit conflict1ft/90cm retained. Same31core drafts/460sources; all twenty objectives active.
+
+
+### 2026-10-30 — Rapid crustal deformation and drainage hypothesis
+
+[Six-target shortlist](research/CRUST-MOUNTAIN-ANOMALIES.md) adds S461-S467: Alaska/Reelfoot/Sparta controls, Cullasaja relief, Bonneville shorelines and Bidahochi drainage. Tilt, fault step and rebound alternatives specified; no fitted model/common event. Access limits retained.31core drafts/467sources; six supplementary leads alongside eight Reddit leads. All twenty objectives active.
